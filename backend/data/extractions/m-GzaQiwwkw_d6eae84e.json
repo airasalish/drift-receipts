@@ -1,0 +1,66 @@
+{
+ "calls": [
+  {
+   "company": "Sadhna Broadcast Ltd",
+   "symbol_guess": "SADHB",
+   "direction": "avoid",
+   "explicit": true,
+   "target_price": 1000.0,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "टारगेट 1000 तक के दिए जा रहे हैं",
+   "start_s": 13,
+   "line": "है कि अदानी ग्रुप इस कंपनी को इक्वल कर रही है इसके कारण इस स्टॉक में हमें लगातार अपर सर्किट",
+   "evidence": [
+    {
+     "text": "टारगेट 1000",
+     "where": "transcript",
+     "start_s": 19
+    },
+    {
+     "text": "अदानी ग्रुप इस कंपनी को इक्वल कर रही है",
+     "where": "transcript",
+     "start_s": 13
+    }
+   ],
+   "reason": "The speaker mentions a target price of 1000 for Sadhna Broadcast but warns against the hype, implying it should be avoided."
+  },
+  {
+   "company": "TV18 Broadcast Ltd",
+   "symbol_guess": "TV18BR",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "TV18 काफी कम दिए",
+   "start_s": 143,
+   "line": "काफी हाइड्रेट कर रहा है जहां पर जी एंटरटेनमेंट का पीस है 21.65 का से टीवी काफी अच्छी कंपनी है 10.1",
+   "evidence": [
+    {
+     "text": "TV18",
+     "where": "transcript",
+     "start_s": 153
+    }
+   ],
+   "reason": "TV18 is mentioned only as a comparison, not as a recommendation."
+  },
+  {
+   "company": "Saregama India Ltd",
+   "symbol_guess": "SAREGAMA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "सार्गामा इंडिया जिसमें व 50.84 का पीढी",
+   "start_s": 143,
+   "line": "काफी हाइड्रेट कर रहा है जहां पर जी एंटरटेनमेंट का पीस है 21.65 का से टीवी काफी अच्छी कंपनी है 10.1",
+   "evidence": [],
+   "reason": "Saregama India is cited as a peer, without any buy or sell advice."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,25 @@
+{
+ "search_metadata": {
+  "id": "6acaab65acb3e4314c5206c2",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/eaoimIMM0j3zCfTsI0DfnnDtC7TY6sMZ-NcbevK-4aA/6acaab65acb3e4314c5206c2.json",
+  "markdown_endpoint": "https://serpapi.com/searches/eaoimIMM0j3zCfTsI0DfnnDtC7TY6sMZ-NcbevK-4aA/6acaab65acb3e4314c5206c2.md",
+  "created_at": "2026-10-10 21:17:25 UTC",
+  "processed_at": "2026-10-10 21:17:25 UTC",
+  "google_finance_url": "https://www.google.com/finance/quote/NOCIL:BOM?hl=en&window=6M",
+  "raw_html_file": "https://serpapi.com/searches/eaoimIMM0j3zCfTsI0DfnnDtC7TY6sMZ-NcbevK-4aA/6acaab65acb3e4314c5206c2.html",
+  "prettify_html_file": "https://serpapi.com/searches/eaoimIMM0j3zCfTsI0DfnnDtC7TY6sMZ-NcbevK-4aA/6acaab65acb3e4314c5206c2.prettify",
+  "total_time_taken": 0.99
+ },
+ "search_parameters": {
+  "engine": "google_finance",
+  "q": "NOCIL:BOM",
+  "hl": "en",
+  "window": "6M"
+ },
+ "search_information": {
+  "finance_results_state": "Fully empty"
+ },
+ "error": "Google Finance hasn't returned any results for this query.",
+ "_fetched_at": "2026-10-10T21:17:24"
+}

@@ -1,0 +1,422 @@
+{
+ "search_metadata": {
+  "id": "6ac676e169819d1eb62572d6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/L9WmRUky4GuQbjIS74dcKgB7VJFb75UW0Js9mhCXWdw/6ac676e169819d1eb62572d6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/L9WmRUky4GuQbjIS74dcKgB7VJFb75UW0Js9mhCXWdw/6ac676e169819d1eb62572d6.md",
+  "created_at": "2026-10-07 16:44:17 UTC",
+  "processed_at": "2026-10-07 16:44:17 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=YcPDRBiqALY",
+  "raw_html_file": "https://serpapi.com/searches/L9WmRUky4GuQbjIS74dcKgB7VJFb75UW0Js9mhCXWdw/6ac676e169819d1eb62572d6.html",
+  "prettify_html_file": "https://serpapi.com/searches/L9WmRUky4GuQbjIS74dcKgB7VJFb75UW0Js9mhCXWdw/6ac676e169819d1eb62572d6.prettify",
+  "total_time_taken": 7.54
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "YcPDRBiqALY",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "Namaskar. In today's video, we are going to review three companies. The nature of these three companies is that these are fairly high growth companies. So, in the",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 8000,
+   "snippet": "past, these companies have given some decent growth. And if things continue the way they are going right now, then one could very easily, you know,",
+   "start_time_text": "0:08",
+   "start_time_label": "8 seconds"
+  },
+  {
+   "start_ms": 15000,
+   "snippet": "perceive or one could very easily project that the growth of these companies in the next couple of years would be fairly decent as well. Right?",
+   "start_time_text": "0:15",
+   "start_time_label": "15 seconds"
+  },
+  {
+   "start_ms": 22000,
+   "snippet": "So, out of these three companies, one is a micro cap. And I just want to give a disclaimer before I start with the analysis that you know these are not stock recommendations. This is just a",
+   "start_time_text": "0:22",
+   "start_time_label": "22 seconds"
+  },
+  {
+   "start_ms": 30000,
+   "snippet": "basic level one analysis. Kindly do a level two databacked analysis at your end if you want to kind of go ahead with investing in these companies. I'm not a",
+   "start_time_text": "0:30",
+   "start_time_label": "30 seconds"
+  },
+  {
+   "start_ms": 38000,
+   "snippet": "semi-registered analyst. So please do not construe this as financial advice.",
+   "start_time_text": "0:38",
+   "start_time_label": "38 seconds"
+  },
+  {
+   "start_ms": 42000,
+   "snippet": "This is just videos for educational purpose. Right. So the first company that we analyze is Pearl Global Industries Limited. It's a textile",
+   "start_time_text": "0:42",
+   "start_time_label": "42 seconds"
+  },
+  {
+   "start_ms": 50000,
+   "snippet": "player. Now whenever you decide to invest in a textile company for a longer period of time or anything more than 18 months then you need to stick to two",
+   "start_time_text": "0:50",
+   "start_time_label": "50 seconds"
+  },
+  {
+   "start_ms": 59000,
+   "snippet": "type of companies right one is the company should be a vertically integrated company so I'll just take a minute and help you understand what is a",
+   "start_time_text": "0:59",
+   "start_time_label": "59 seconds"
+  },
+  {
+   "start_ms": 67000,
+   "snippet": "vertically integrated company right so you know how is a textile made so they take a cotton fiber right so the first milestone is a cotton fiber it's the raw",
+   "start_time_text": "1:07",
+   "start_time_label": "1 minute, 7 seconds"
+  },
+  {
+   "start_ms": 75000,
+   "snippet": "material which goes into whatever clothes that we wear they take that fiber and They spin that fiber to make a yarn out of it. Right? So the second",
+   "start_time_text": "1:15",
+   "start_time_label": "1 minute, 15 seconds"
+  },
+  {
+   "start_ms": 84000,
+   "snippet": "milestone is a yarn. Right? So there are companies like knit and spinners which are into yarn spinning. Right? So yarn",
+   "start_time_text": "1:24",
+   "start_time_label": "1 minute, 24 seconds"
+  },
+  {
+   "start_ms": 91000,
+   "snippet": "now take now take that yarn and you knit or weave it to make a fabric. Right? So this is the third milestone. Fabric is",
+   "start_time_text": "1:31",
+   "start_time_label": "1 minute, 31 seconds"
+  },
+  {
+   "start_ms": 98000,
+   "snippet": "the third milestone. And when that fabric is washed and dried and processed then a readymade garment is produced. So",
+   "start_time_text": "1:38",
+   "start_time_label": "1 minute, 38 seconds"
+  },
+  {
+   "start_ms": 105000,
+   "snippet": "garment is the fourth fourth milestone in making the the the clothes that we wear. Okay. So a company which does all",
+   "start_time_text": "1:45",
+   "start_time_label": "1 minute, 45 seconds"
+  },
+  {
+   "start_ms": 114000,
+   "snippet": "these four things is called a vertically integrated player. So there are companies like an Arvin limited or a KPR mill which cover these four milestones.",
+   "start_time_text": "1:54",
+   "start_time_label": "1 minute, 54 seconds"
+  },
+  {
+   "start_ms": 122000,
+   "snippet": "These companies are called as fiber to fashion companies. These are vertically integrated companies. So this is one cohort of company which you need to look",
+   "start_time_text": "2:02",
+   "start_time_label": "2 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 131000,
+   "snippet": "at if you want to invest long-term in textile stocks. Right? This is the one type of company. The second type of companies are companies which are",
+   "start_time_text": "2:11",
+   "start_time_label": "2 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 139000,
+   "snippet": "downstream companies, right? Or companies which only do readymade garmenting, right? Which do not do the upstream process of fiber to yarn and",
+   "start_time_text": "2:19",
+   "start_time_label": "2 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 148000,
+   "snippet": "yarn to fabrics. These are downstream companies and Pearl Global Industries Limited is one of a downstream company.",
+   "start_time_text": "2:28",
+   "start_time_label": "2 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 155000,
+   "snippet": "Now why am I saying that you need to stick to these two type of companies is because when you are when you're sticking with downstream companies or",
+   "start_time_text": "2:35",
+   "start_time_label": "2 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 162000,
+   "snippet": "you're sticking with kind of vertically integrated companies then you're very well shielding yourself from the cyclicality of the commodity over here.",
+   "start_time_text": "2:42",
+   "start_time_label": "2 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 170000,
+   "snippet": "So the commodity over here is cotton and one needs to always track cotton to yarn",
+   "start_time_text": "2:50",
+   "start_time_label": "2 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 177000,
+   "snippet": "spreads if one is invested in upstream companies. So if you invested in a company like a nitan spinners which is an upstream company which takes fiber",
+   "start_time_text": "2:57",
+   "start_time_label": "2 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 186000,
+   "snippet": "and makes fiber into fabric and yarn then you have to always keep on checking what is the fiber to yarn spread or",
+   "start_time_text": "3:06",
+   "start_time_label": "3 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 195000,
+   "snippet": "cotton to yarn spread. So there is a lot of you know a lot of kind of tracking that you have to do. But if you're",
+   "start_time_text": "3:15",
+   "start_time_label": "3 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 202000,
+   "snippet": "invested in a vertically integrated company or a downstream company, so you're investing primarily in companies which are giving out products which are",
+   "start_time_text": "3:22",
+   "start_time_label": "3 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 211000,
+   "snippet": "brands which kind of sell to you know companies like Macy's, Walmart. What I'm trying to say over here is that you need",
+   "start_time_text": "3:31",
+   "start_time_label": "3 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 218000,
+   "snippet": "to shield yourself from the cyclicality of a commodity which is cotton over here if you want to invest in textile",
+   "start_time_text": "3:38",
+   "start_time_label": "3 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 226000,
+   "snippet": "companies especially cottonbased textiles. Right? So Pearl Global is a readymade garmenting player. So it's a downstream company. 75 to 80% of its top",
+   "start_time_text": "3:46",
+   "start_time_label": "3 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 235000,
+   "snippet": "line comes from exports. It exports to companies or retail departmental stores or retail players like you know Macy's and Target and Walmart in the United",
+   "start_time_text": "3:55",
+   "start_time_label": "3 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 243000,
+   "snippet": "States. There are two very important tailwinds for this company and multiple textile companies. One is the UK and EU",
+   "start_time_text": "4:03",
+   "start_time_label": "4 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 250000,
+   "snippet": "FDA. Plus these companies are doing a lot of you know premium kind of garmenting or they are moving higher in the value chain. Uh the one great thing",
+   "start_time_text": "4:10",
+   "start_time_label": "4 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 259000,
+   "snippet": "about Pearl Global is that its manufacturing base is very diversified.",
+   "start_time_text": "4:19",
+   "start_time_label": "4 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 263000,
+   "snippet": "So it has you know manufacturing capacities in India, in Bangladesh, in Vietnam, in Mexico. Mexico is very near",
+   "start_time_text": "4:23",
+   "start_time_label": "4 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 270000,
+   "snippet": "to the United States. Bangladesh is the LDC or the least developed country status. So you know it's cheaper to manufacture yarn or cheaper to",
+   "start_time_text": "4:30",
+   "start_time_label": "4 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 277000,
+   "snippet": "manufacture garment over there. Not not yan but garment over there. So you know all the cost advantages that one could get in the textile supply chain or value",
+   "start_time_text": "4:37",
+   "start_time_label": "4 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 286000,
+   "snippet": "chain uh everything is kind of getting acred or in in in Pearl Global right so decent sales growth profit growth this company has given it's more like a",
+   "start_time_text": "4:46",
+   "start_time_label": "4 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 295000,
+   "snippet": "consistent compounder if you look at the last 5 years sales growth profit growth so Pearl Global is one company which you can study further right the second",
+   "start_time_text": "4:55",
+   "start_time_label": "4 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 303000,
+   "snippet": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies Even in",
+   "start_time_text": "5:03",
+   "start_time_label": "5 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 311000,
+   "snippet": "gems and jeweleries you have vertically integrated companies. So companies which do a lot of manufacturing. So for example your sky gold is a B2B company",
+   "start_time_text": "5:11",
+   "start_time_label": "5 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 320000,
+   "snippet": "which manufactures jewelry and sells it to B2C companies. Right. Your Titan or for that instance a PNG is a B2C player which kind of gets the gold and",
+   "start_time_text": "5:20",
+   "start_time_label": "5 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 329000,
+   "snippet": "everything manufactured the designs manufactured from a sky gold or you know a Shanti or a Goldam International and kind of you know sells it to the end",
+   "start_time_text": "5:29",
+   "start_time_label": "5 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 337000,
+   "snippet": "customer. So Lalita Joel is a B2C company. It's very strong in the southern part of the country. There are 61 stores in 51 cities. So this is a retail player that we are talking about.",
+   "start_time_text": "5:37",
+   "start_time_label": "5 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 348000,
+   "snippet": "So whenever you are analyzing a retail player in the gems and jewelry space, there are two very important metrics that you need to look at. One is the",
+   "start_time_text": "5:48",
+   "start_time_label": "5 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 357000,
+   "snippet": "inventory turnover ratio which I think is fairly decent for Lalita dwellers and the second is revenue per square ft. how",
+   "start_time_text": "5:57",
+   "start_time_label": "5 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 364000,
+   "snippet": "efficient the inventory is turning and how efficiently they are using the space that has been given to them. Right? So",
+   "start_time_text": "6:04",
+   "start_time_label": "6 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 371000,
+   "snippet": "it's a traded player. The AITA margins are in the range of around 4 to 5%, it does not manufacture the jewelry that it sells. Very very strong sales growth,",
+   "start_time_text": "6:11",
+   "start_time_label": "6 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 380000,
+   "snippet": "profit growth for Lalita dwellers. So you need to study this company further.",
+   "start_time_text": "6:20",
+   "start_time_label": "6 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 384000,
+   "snippet": "If I could recolct this is a midcap company, right? The third company is LT Elevators. It's a micro cap company.",
+   "start_time_text": "6:24",
+   "start_time_label": "6 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 391000,
+   "snippet": "There are a couple of ways in which this company earns. It's very obvious. The name carries you know what this company sells. So elevators is what this company",
+   "start_time_text": "6:31",
+   "start_time_label": "6 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 400000,
+   "snippet": "you know sells. So it sells elevators to you know these small developers, government offices, you know B2B kind of a model, institutional model it has",
+   "start_time_text": "6:40",
+   "start_time_label": "6 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 409000,
+   "snippet": "right. The second thing which this company does is parking automation.",
+   "start_time_text": "6:49",
+   "start_time_label": "6 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 412000,
+   "snippet": "Right? So for example you enter in in a big society then there is a gate that opens automatically. The complete parking automation is what this company",
+   "start_time_text": "6:52",
+   "start_time_label": "6 minutes, 52 seconds"
+  },
+  {
+   "start_ms": 420000,
+   "snippet": "does. The third and the most important growth trigger which this company has is D2C or B2C sales. So all these you know",
+   "start_time_text": "7:00",
+   "start_time_label": "7 minutes"
+  },
+  {
+   "start_ms": 428000,
+   "snippet": "premium residential house individual houses that are coming out they require lifts right you you have a lot of you",
+   "start_time_text": "7:08",
+   "start_time_label": "7 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 436000,
+   "snippet": "know IHBS individual house premium houses are there which have you know two floors or three flows there is one family living in that complete house",
+   "start_time_text": "7:16",
+   "start_time_label": "7 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 444000,
+   "snippet": "they have lifts internally so there are premium lifts that get installed in those premium luxurious house so this is what this company is installing that's",
+   "start_time_text": "7:24",
+   "start_time_label": "7 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 453000,
+   "snippet": "why the EITA margins of this company has increased from 17% to 25% % once it has got into this D2C business you look at the sales growth profit growth it's more",
+   "start_time_text": "7:33",
+   "start_time_label": "7 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 461000,
+   "snippet": "than 100% there is another competitor two kind of LT elevators which is called as AON industries so 2025 if you look at",
+   "start_time_text": "7:41",
+   "start_time_label": "7 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 469000,
+   "snippet": "data for 2025 AON industries did a solid sales growth profit growth but I think in 2026 the growth has almost vanished",
+   "start_time_text": "7:49",
+   "start_time_label": "7 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 476000,
+   "snippet": "from that you know come so LT elevators is one high growth micro cap which you can study further as well thank you very",
+   "start_time_text": "7:56",
+   "start_time_label": "7 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 482000,
+   "snippet": "much for your time take care bye-bye",
+   "start_time_text": "8:02",
+   "start_time_label": "8 minutes, 2 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: Introduction to analysis",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: Pearl Global analysis",
+   "start_ms": 45000,
+   "start_time_text": "0:45"
+  },
+  {
+   "chapter": "Chapter 3: Lalithaa Jewellery review",
+   "start_ms": 303000,
+   "start_time_text": "5:03"
+  },
+  {
+   "chapter": "Chapter 4: LT Elevators overview",
+   "start_ms": 387000,
+   "start_time_text": "6:27"
+  }
+ ],
+ "_fetched_at": "2026-10-07T16:44:23"
+}

@@ -1,0 +1,646 @@
+{
+ "search_metadata": {
+  "id": "6ac7befcd6eb721b08677e66",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Nr-NSmMQii3wxG3LsklKvhIU_2cE9TKuVwPNTi9jZes/6ac7befcd6eb721b08677e66.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Nr-NSmMQii3wxG3LsklKvhIU_2cE9TKuVwPNTi9jZes/6ac7befcd6eb721b08677e66.md",
+  "created_at": "2026-10-08 16:04:12 UTC",
+  "processed_at": "2026-10-08 16:04:12 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Pine+Labs+Limited+share+target&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/Nr-NSmMQii3wxG3LsklKvhIU_2cE9TKuVwPNTi9jZes/6ac7befcd6eb721b08677e66.html",
+  "total_time_taken": 2.14
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Pine Labs Limited share target",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 1931,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "Pine Labs share future,Buy ?,pine labs share news today,pine labs share longterm target 2030",
+   "link": "https://www.youtube.com/watch?v=WK4MZOnyAPU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WK4MZOnyAPU",
+   "video_id": "WK4MZOnyAPU",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 5664,
+   "length": "1:46",
+   "description": "बड़े टारगेट के लिए Dip में ख़रीददारी की सलाह ! Join WhatsApp Channel For Latest news     ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/WK4MZOnyAPU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTa766sC3qS_wPFIx8fOmvSulG7g"
+   }
+  },
+  {
+   "position_on_page": 2,
+   "title": "PINE LABS STOCK ANALYSIS | WHAT SHOULD INVESTORS DO NOW?",
+   "link": "https://www.youtube.com/watch?v=HJc8s4YU6IQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HJc8s4YU6IQ",
+   "video_id": "HJc8s4YU6IQ",
+   "channel": {
+    "name": "Umang Bhutada",
+    "link": "https://www.youtube.com/@UmangBhutada",
+    "thumbnail": "https://yt3.ggpht.com/wQrb7FuEUjwESsW2eSghddGpmrUnLSo6L3Qd5jwQqDJQEDhrjcjbLuoLeYj72XydtpvbOH0MQA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "10d ago",
+   "views": 4069,
+   "length": "3:40",
+   "description": "PINE LABS STOCK ANALYSIS | WHAT SHOULD INVESTORS DO NOW?\n\nWhat should investors do with Pine Labs shares after the recent ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HJc8s4YU6IQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo0abtNv0dUNUcbRhlMgNqgoNnIw",
+    "rich": "https://i.ytimg.com/an_webp/HJc8s4YU6IQ/mqdefault_6s.webp?du=3000&sqp=CJTnntYG&rs=AOn4CLCw2hytffWD1G2ea4OMTuZPxDBCDw"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "Pine Labs share future,Buy or sell ?,pine labs share news today,pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=gqjO5Qhy2B0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gqjO5Qhy2B0",
+   "video_id": "gqjO5Qhy2B0",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 3546,
+   "length": "1:15",
+   "description": "Join WhatsApp Channel For Latest news     -- https://whatsapp.com/channel/0029VanrzYm0bIdqt4akwZ2u Pine Labs share ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/gqjO5Qhy2B0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClG6PcJuSebSFcZ_L5sGqeyK6F4Q"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=nuDBcK4IuSc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nuDBcK4IuSc",
+   "video_id": "nuDBcK4IuSc",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 5502,
+   "length": "2:02",
+   "description": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030 ये शेयर बड़ी तेजी ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nuDBcK4IuSc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLLdGDVcLoydknGlNxmPT7GfBYBw"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Pine Labs share future,Buy or sell ?,pine labs share news today,pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=b9vFRqwVelg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=b9vFRqwVelg",
+   "video_id": "b9vFRqwVelg",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 1053,
+   "length": "2:20",
+   "description": "Join WhatsApp Channel For Latest news     -- https://whatsapp.com/channel/0029VanrzYm0bIdqt4akwZ2u Pine Labs share ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/b9vFRqwVelg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-OY4s9qnVp_8Q-5oSm2OBtpMl-A"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "A Strong Q1FY27 For Pine Labs | Online Business Is Growing At About 20-30%, Says Company | CNBC TV18",
+   "link": "https://www.youtube.com/watch?v=AvAL2qO62NY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AvAL2qO62NY",
+   "video_id": "AvAL2qO62NY",
+   "channel": {
+    "name": "CNBC-TV18",
+    "link": "https://www.youtube.com/@CNBC-TV18",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/Lx0d55mPtYcBtRL9EkvtT2HOAZLLpk2-FrRmyajJuf4NVwWH5Qm5pw0GcPGCqGAfwOKWZBgJ9A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 4437,
+   "length": "7:14",
+   "description": "First On CNBC-TV18 | Pine Labs Reports Strong Q1FY27 Numbers CFO, Sameer Kamath to CNBC-TV18 - Online business is ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/AvAL2qO62NY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUEJJkR7K62kpAO7JF5v3mMGio3Q",
+    "rich": "https://i.ytimg.com/an_webp/AvAL2qO62NY/mqdefault_6s.webp?du=3000&sqp=CJTwntYG&rs=AOn4CLAeGCrnU0d5liBJ_8gRt0-HauCOXA"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Pine Labs share future,Buy or not ?,pine labs share news today,pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=4JYb-L8IE_Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4JYb-L8IE_Q",
+   "video_id": "4JYb-L8IE_Q",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 5903,
+   "length": "1:27",
+   "description": "Top 5 Stock Market Books -(Affilate Links) 1. The Intelligent Investor (English): https://link.amazon/B04wnSF83 2. One Up On Wall ...",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4JYb-L8IE_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi137Rj1CpYwc-geF-vqxUoKqzzA",
+    "rich": "https://i.ytimg.com/an_webp/4JYb-L8IE_Q/mqdefault_6s.webp?du=3000&sqp=CKj3ntYG&rs=AOn4CLCX2dahnO9knxqQZsTm-L-rhqpIdg"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=VumR4Ej2MiY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VumR4Ej2MiY",
+   "video_id": "VumR4Ej2MiY",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 2759,
+   "length": "1:20",
+   "description": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030 ये शेयर बड़ी तेजी ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VumR4Ej2MiY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR0KvEE_1DHiA7uGWozW-xinvI9w"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Why Pine Labs Share Price is Rising ? | पाइन लैब्स में 14% का जोरदार उछाल | Hero of The Day Stock",
+   "link": "https://www.youtube.com/watch?v=iB0r2MG5OQI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iB0r2MG5OQI",
+   "video_id": "iB0r2MG5OQI",
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/WtM9ZMpGO79fza5Bd0A51JOjsm6rX6_aNMZdw6m1hTv8viMWJo5nvHzWxHg8auRkelGPkCDHCSw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 12332,
+   "length": "2:59",
+   "description": "आज बाजार का फोकस दो अहम फिनटेक कंपनियों पर है एक तरफ पाइन लैब्स नए ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iB0r2MG5OQI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ-k65TbZrUheOHIvuhVrzhk-liQ",
+    "rich": "https://i.ytimg.com/an_webp/iB0r2MG5OQI/mqdefault_6s.webp?du=3000&sqp=CLLYntYG&rs=AOn4CLBZ2znkDe9xz_ZBblT1HuUsdtiq6A"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "PINE Labs share news today,buy ? pine labs share analysis,review,pine labs share target 2026",
+   "link": "https://www.youtube.com/watch?v=3HqODxuAgSc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3HqODxuAgSc",
+   "video_id": "3HqODxuAgSc",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 1774,
+   "length": "1:06",
+   "description": "pine labs share future pine labs share price target tomorrow stock market live,pine labs share news today,pine labs share news ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3HqODxuAgSc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTvPYiz4VuI4RaEm7QBER8aGgIjw"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "PINE LAB share Analysis | pine labs share latest news| pine labs ipo Share news 03 August 2026",
+   "link": "https://www.youtube.com/watch?v=Rlf-k0HBizw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Rlf-k0HBizw",
+   "video_id": "Rlf-k0HBizw",
+   "channel": {
+    "name": "Share Market Live",
+    "link": "https://www.youtube.com/@Sharemarketlive77",
+    "thumbnail": "https://yt3.ggpht.com/JYMd-VmfgpheJtht9S8WQJ-y6TzZmxo6CY6Bl6u1joh1mpkqr2H5Hy8sZNNuHFj1aqeRtyFu=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 888,
+   "length": "1:34",
+   "description": "PINE LAB share Analysis | pine labs share latest news| pine labs ipo Share news 03 August 2026 Join Free Our Telegram ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Rlf-k0HBizw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCE0CJf4FjBpgFKpYAw0dSeDydWSQ",
+    "rich": "https://i.ytimg.com/an_webp/Rlf-k0HBizw/mqdefault_6s.webp?du=3000&sqp=CKTgntYG&rs=AOn4CLCG75EoZQWTmDQAWJ5mNIPkGC5Zsg"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "PINE Labs share news today, Buy or sell?, PINE Labs share latest news, PINE Labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=5IbG71n9sJM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5IbG71n9sJM",
+   "video_id": "5IbG71n9sJM",
+   "channel": {
+    "name": "QUICK BULL",
+    "link": "https://www.youtube.com/@QUICKBULL",
+    "thumbnail": "https://yt3.ggpht.com/1etVJB4hpIfey2rk3XBEvEapp0lc_G_WFX07vQQkn5pWyV-T0Mp4s1l21NrQTRcGgjoOyNPcnA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 1519,
+   "length": "1:22",
+   "description": "PINE Labs share news today,Buy or sell ?,pine labs share latest news,pine labs share target 2030 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5IbG71n9sJM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCumBAaEUG27GqxlhQ5F-kVmPEEaA"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Pine Labs share news, Pine Labs share analysis, Pine Labs share price target, Pine Labs stock news",
+   "link": "https://www.youtube.com/watch?v=_7jrMN0h_sY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_7jrMN0h_sY",
+   "video_id": "_7jrMN0h_sY",
+   "channel": {
+    "name": "INVEST MY WAY",
+    "link": "https://www.youtube.com/@investmyway11",
+    "thumbnail": "https://yt3.ggpht.com/eIdqsOdyUdG4nG_k3WMRgeaXdX6J_IkxI2B4aXQg-f3ytFMEn7LpuCh1hBTxWnxIanfsqF4jUg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 183,
+   "length": "5:21",
+   "description": "Pine labs share news, pine labs share analysis, pine labs share price target, pine labs stock news \npine labs share future ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_7jrMN0h_sY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX9hIYZ-HuB3HPxsJjSUpv599ztA"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Pine Labs share: बड़ी रैली के लिए तैयार है - Miss न करें ! Buy ?,pine labs share news,future target",
+   "link": "https://www.youtube.com/watch?v=PhfVqeaFYTI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PhfVqeaFYTI",
+   "video_id": "PhfVqeaFYTI",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 4385,
+   "length": "2:14",
+   "description": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030 ये शेयर बड़ी तेजी ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PhfVqeaFYTI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCQsmgIBUfJjGRttXPaQHeDMwaXkw"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Pine Labs Q1 Results 2027 | Pine Labs Results Today | Pine Labs Share News Today",
+   "link": "https://www.youtube.com/watch?v=9N2KGGEoYP0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9N2KGGEoYP0",
+   "video_id": "9N2KGGEoYP0",
+   "channel": {
+    "name": "Krishna Trading • 25K views • 9 minutes ago\n\n\n...",
+    "link": "https://www.youtube.com/@KrishnaTradingTips24",
+    "thumbnail": "https://yt3.ggpht.com/4YQCR7Ise-XdP1U9c-s_AwdUt0P00mmT_NPuCSD_bXk5iGNOKFWUtKkbUFGzo2AFLY5iNdXrfg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 875,
+   "length": "2:35",
+   "description": "Pine labs Q1 Results 2027 | Pine Labs Results Today | Pine Labs Share News Today \n\n#q1results2026 pine labs q1 results 2026 ...",
+   "extensions": [
+    "2 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9N2KGGEoYP0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8ISjSvbWJh1wFHmH58CrnP79wdQ",
+    "rich": "https://i.ytimg.com/an_webp/9N2KGGEoYP0/mqdefault_6s.webp?du=3000&sqp=CPWuntYG&rs=AOn4CLDkqLw-J22XPVAlGoJra4L_HQLpKw"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Pine Labs Share 13% क्यों उछला? ₹200 के बाद अगला Target क्या है?",
+   "link": "https://www.youtube.com/watch?v=1dtTDD-jA5k",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1dtTDD-jA5k",
+   "video_id": "1dtTDD-jA5k",
+   "channel": {
+    "name": "Market Mantra India",
+    "link": "https://www.youtube.com/@MarketMantraIndia",
+    "thumbnail": "https://yt3.ggpht.com/f1UBU5cF2aleA4xPKRvuPzQaORD7V4jP9Pitqh-pnQRniRDAYzutkLw4uAWzF5dT_etJtSmpSq8=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 619,
+   "length": "5:41",
+   "description": "Pine Labs Share 13% क्यों उछला? ₹200 के बाद अगला Target क्या है? इस वीडियो में ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1dtTDD-jA5k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtOLTN6lJwuG_Bi6ZToRPcCY-ROg"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "PINE Labs share news today,buy or not? pine labs share analysis,review,pine labs share target 2026",
+   "link": "https://www.youtube.com/watch?v=B6jsRWAUXgE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B6jsRWAUXgE",
+   "video_id": "B6jsRWAUXgE",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 1232,
+   "length": "1:10",
+   "description": "Join WhatsApp Channel For Latest news     -- https://whatsapp.com/channel/0029VanrzYm0bIdqt4akwZ2u pine labs share ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/B6jsRWAUXgE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3XRNCu8L6w5GaFdLfQoKruMSORw"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "PINE Labs share news today, Buy or sell?, pine labs share latest news, pine labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=HIN0VrundqQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HIN0VrundqQ",
+   "video_id": "HIN0VrundqQ",
+   "channel": {
+    "name": "QUICK BULL",
+    "link": "https://www.youtube.com/@QUICKBULL",
+    "thumbnail": "https://yt3.ggpht.com/1etVJB4hpIfey2rk3XBEvEapp0lc_G_WFX07vQQkn5pWyV-T0Mp4s1l21NrQTRcGgjoOyNPcnA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1271,
+   "length": "1:55",
+   "description": "PINE Labs share news today,Buy or sell ?,pine labs share latest news,pine labs share target 2030 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HIN0VrundqQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRIGpMgWUOTcrOPJbGyU9AG2qSAQ"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "PINE Labs share news,buy or not? pine labs share analysis,results review,pine labs share target 2027",
+   "link": "https://www.youtube.com/watch?v=B4P55x1D7MA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=B4P55x1D7MA",
+   "video_id": "B4P55x1D7MA",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1229,
+   "length": "1:13",
+   "description": "PINE Labs share news,buy or not? pine labs share analysis,results review,pine labs share target 2027 Join WhatsApp Channel ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/B4P55x1D7MA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzMzTWNK4sPJYEO4PjmRbzz7MHHw"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Pine Labs share future, hold or sell?, Pine Labs share news today, Pine Labs share target 2030",
+   "link": "https://www.youtube.com/watch?v=W-E6gEE8aiY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=W-E6gEE8aiY",
+   "video_id": "W-E6gEE8aiY",
+   "channel": {
+    "name": "Trading Actions • 19K views • 2 hours ago",
+    "link": "https://www.youtube.com/@TradingActions",
+    "thumbnail": "https://yt3.ggpht.com/MIbMG0wwYympDxQHXyOZJ57imCbNLCdRpIaR7TlrPlfaF1O2Oy0l9z4UZh99P4RHpN7QXlr5=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1684,
+   "length": "1:58",
+   "description": "stock market live,pine labs share news today,pine labs share news,pine labs share hold or sell,pine labs share latest news ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/W-E6gEE8aiY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx9jWdFnDBr2EjJ3xmwdz2MnAC4g"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 9,
+   "shorts": [
+    {
+     "title": "Pine Labs IPO 2025 – 5 Things You MUST Know Before You Apply!",
+     "link": "https://www.youtube.com/shorts/SM1mJhwtgf4",
+     "thumbnail": "https://i.ytimg.com/vi/SM1mJhwtgf4/frame0.jpg",
+     "views_original": "570 views",
+     "views": 570,
+     "video_id": "SM1mJhwtgf4"
+    },
+    {
+     "title": "Pine Labs Share Target | Pine Labs Share Analysis | Pine Labs Fundamental Analysis #pinelabs",
+     "link": "https://www.youtube.com/shorts/kPFaKI1yoU0",
+     "thumbnail": "https://i.ytimg.com/vi/kPFaKI1yoU0/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "kPFaKI1yoU0"
+    },
+    {
+     "title": "₹9,437 Crore BLOCK DEAL 🔥 ITC | Fino Payments Bank | Paytm | MobiKwik | Pine Labs",
+     "link": "https://www.youtube.com/shorts/Xy6pSCQxSRg",
+     "thumbnail": "https://i.ytimg.com/vi/Xy6pSCQxSRg/frame0.jpg",
+     "views_original": "184 views",
+     "views": 184,
+     "video_id": "Xy6pSCQxSRg"
+    },
+    {
+     "title": "Pine Labs IPO 2025 Review | Full Details, Price Band, Dates, Lot Size & Key Details #PineLabs",
+     "link": "https://www.youtube.com/shorts/jc8-9ecoK28",
+     "thumbnail": "https://i.ytimg.com/vi/jc8-9ecoK28/frame0.jpg",
+     "views_original": "13K views",
+     "views": 13000,
+     "video_id": "jc8-9ecoK28"
+    },
+    {
+     "title": "Investors are paying 161x for THIS stock 😳 #palantir #pltr #aistocks  #businessexplained #peterthiel",
+     "link": "https://www.youtube.com/shorts/olaIzfz-eko",
+     "thumbnail": "https://i.ytimg.com/vi/olaIzfz-eko/frame0.jpg",
+     "views_original": "60 views",
+     "views": 60,
+     "video_id": "olaIzfz-eko"
+    }
+   ]
+  },
+  {
+   "position_on_page": 13,
+   "shorts": [
+    {
+     "title": "Insta Query Pine Labs @skstocktalks",
+     "link": "https://www.youtube.com/shorts/bp05OU28zyk",
+     "thumbnail": "https://i.ytimg.com/vi/bp05OU28zyk/frame0.jpg",
+     "views_original": "762 views",
+     "views": 762,
+     "video_id": "bp05OU28zyk"
+    },
+    {
+     "title": "610 Potential PhotonAssay Deployments: Where Paragon's Hub Labs Fit",
+     "link": "https://www.youtube.com/shorts/pJuMosOHD2A",
+     "thumbnail": "https://i.ytimg.com/vi/pJuMosOHD2A/frame0.jpg",
+     "views_original": "5 views",
+     "views": 5,
+     "video_id": "pJuMosOHD2A"
+    },
+    {
+     "title": "Pine Labs Q4 Explained: From EMIs to AI-Led Fintech Infrastructure | N18S",
+     "link": "https://www.youtube.com/shorts/medNPcEZNy8",
+     "thumbnail": "https://i.ytimg.com/vi/medNPcEZNy8/frame0.jpg",
+     "views_original": "7K views",
+     "views": 7000,
+     "video_id": "medNPcEZNy8"
+    },
+    {
+     "title": "PINE LABS SHARE CRASHES 16% 😰 IT WILL CRASH? WHAT TO DO NOW?",
+     "link": "https://www.youtube.com/shorts/BAOl_znpA_g",
+     "thumbnail": "https://i.ytimg.com/vi/BAOl_znpA_g/frame0.jpg",
+     "views_original": "966 views",
+     "views": 966,
+     "video_id": "BAOl_znpA_g"
+    },
+    {
+     "title": "PINE LABS LTD | Equity Investment Idea | The Trading Mitra | Stock Market #swing #equity #investment",
+     "link": "https://www.youtube.com/shorts/ljx9LIwlikA",
+     "thumbnail": "https://i.ytimg.com/vi/ljx9LIwlikA/frame0.jpg",
+     "views_original": "5.1K views",
+     "views": 5100,
+     "video_id": "ljx9LIwlikA"
+    },
+    {
+     "title": "Paytm aur Pine Labs ke Shares Kyun Gire? Asli Sach Janiye! ⚠️",
+     "link": "https://www.youtube.com/shorts/L_PK2QUIdks",
+     "thumbnail": "https://i.ytimg.com/vi/L_PK2QUIdks/frame0.jpg",
+     "views_original": "No views",
+     "views": 0,
+     "video_id": "L_PK2QUIdks"
+    },
+    {
+     "title": "Pine Labs Posts 112.5 Cr Profit, But Margins Slip",
+     "link": "https://www.youtube.com/shorts/FsBw3sQ8wEY",
+     "thumbnail": "https://i.ytimg.com/vi/FsBw3sQ8wEY/frame0.jpg",
+     "views_original": "351 views",
+     "views": 351,
+     "video_id": "FsBw3sQ8wEY"
+    },
+    {
+     "title": "Pine Labs IPO 2025: 40% Valuation Cut Explained | Is It Worth Investing? | Upstox",
+     "link": "https://www.youtube.com/shorts/MiE5ba6uvMA",
+     "thumbnail": "https://i.ytimg.com/vi/MiE5ba6uvMA/frame0.jpg",
+     "views_original": "10K views",
+     "views": 10000,
+     "video_id": "MiE5ba6uvMA"
+    },
+    {
+     "title": "Next target 🤑 Pine labs share latest news today | Pine labs stock latest news | Pine labs Stock",
+     "link": "https://www.youtube.com/shorts/fr5XEb5iQhg",
+     "thumbnail": "https://i.ytimg.com/vi/fr5XEb5iQhg/frame0.jpg",
+     "views_original": "2.2K views",
+     "views": 2200,
+     "video_id": "fr5XEb5iQhg"
+    },
+    {
+     "title": "Pine Labs IPO Review!",
+     "link": "https://www.youtube.com/shorts/QwZVL-yTle4",
+     "thumbnail": "https://i.ytimg.com/vi/QwZVL-yTle4/frame0.jpg",
+     "views_original": "140K views",
+     "views": 140000,
+     "video_id": "QwZVL-yTle4"
+    },
+    {
+     "title": "#pinelabslltd #pinelabs #india #indianstockmarket #indianstocks #trading technicalanalysis",
+     "link": "https://www.youtube.com/shorts/-ZaHSEqalkY",
+     "thumbnail": "https://i.ytimg.com/vi/-ZaHSEqalkY/frame0.jpg",
+     "views_original": "386 views",
+     "views": 386,
+     "video_id": "-ZaHSEqalkY"
+    },
+    {
+     "title": "🚨 Pine Labs: Big Move Coming?",
+     "link": "https://www.youtube.com/shorts/e06PBW90JQY",
+     "thumbnail": "https://i.ytimg.com/vi/e06PBW90JQY/frame0.jpg",
+     "views_original": "34 views",
+     "views": 34,
+     "video_id": "e06PBW90JQY"
+    },
+    {
+     "title": "Pine Labs IPO Review",
+     "link": "https://www.youtube.com/shorts/VWQ-eV4tnfM",
+     "thumbnail": "https://i.ytimg.com/vi/VWQ-eV4tnfM/frame0.jpg",
+     "views_original": "36K views",
+     "views": 36000,
+     "video_id": "VWQ-eV4tnfM"
+    },
+    {
+     "title": "Why Did Paytm & Pine Labs Stocks Suddenly Surge? 🚀 UPI MDR Is Back 🤔 #stocksinnews #pinelabs #stocks",
+     "link": "https://www.youtube.com/shorts/5Mbxmn-mYF0",
+     "thumbnail": "https://i.ytimg.com/vi/5Mbxmn-mYF0/frame0.jpg",
+     "views_original": "1.9K views",
+     "views": 1900,
+     "video_id": "5Mbxmn-mYF0"
+    },
+    {
+     "title": "Pine Labs Share Blast! 🚀 Consolidation Over, Breakout Confirmed! 🔥#shorts",
+     "link": "https://www.youtube.com/shorts/ALiOroqOKeg",
+     "thumbnail": "https://i.ytimg.com/vi/ALiOroqOKeg/frame0.jpg",
+     "views_original": "945 views",
+     "views": 945,
+     "video_id": "ALiOroqOKeg"
+    },
+    {
+     "title": "Pine Labs: Breakout or Fakeout? 🚨 High P/E Trap or Big Reversal? #pinelabs #stockstowatch",
+     "link": "https://www.youtube.com/shorts/nXiDWd0C3q0",
+     "thumbnail": "https://i.ytimg.com/vi/nXiDWd0C3q0/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "nXiDWd0C3q0"
+    },
+    {
+     "title": "BHAVIK PATEL’S TOP PICK: PINE LABS",
+     "link": "https://www.youtube.com/shorts/xdI5mpE7P_w",
+     "thumbnail": "https://i.ytimg.com/vi/xdI5mpE7P_w/frame0.jpg",
+     "views_original": "403 views",
+     "views": 403,
+     "video_id": "xdI5mpE7P_w"
+    },
+    {
+     "title": "Pine Labs: Mastercard Exit Completed in ₹934 Cr Block Deal | AI INVEST",
+     "link": "https://www.youtube.com/shorts/VrDOyGGrxGo",
+     "thumbnail": "https://i.ytimg.com/vi/VrDOyGGrxGo/frame0.jpg",
+     "views_original": "232 views",
+     "views": 232,
+     "video_id": "VrDOyGGrxGo"
+    },
+    {
+     "title": "The Real Money In Fintech Isn’t In Payments: Pine Labs CEO Explains | N18S | CNBC TV18",
+     "link": "https://www.youtube.com/shorts/Ru-gDneeLMM",
+     "thumbnail": "https://i.ytimg.com/vi/Ru-gDneeLMM/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "Ru-gDneeLMM"
+    },
+    {
+     "title": "Pine Labs at GFF2026 Day 01 Wrapped",
+     "link": "https://www.youtube.com/shorts/RIFYF0R4sns",
+     "thumbnail": "https://i.ytimg.com/vi/RIFYF0R4sns/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "RIFYF0R4sns"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Pine+Labs+Limited+share+target&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Pine%20Labs%20Limited%20share%20target&sp=SBSCAQtXSzRNWk9ueUFQVYIBC0hKYzhzNFlVNklRggELZ3FqTzVRaHkyQjCCAQtudURCY0s0SXVTY4IBC2I5dkZScXdWZWxnggELQXZBTDJxTzYyTlmCAQs0SlliLUw4SUVfUYIBC1Z1bVI0RWoyTWlZggELaUIwcjJNRzVPUUmCAQszSHFPRHh1QWdTY4IBC1JsZi1rMEhCaXp3ggELNUliRzcxbjlzSk2CAQtfN2pyTU4waF9zWYIBC1BoZlZxZWFGWVRJggELOU4yS0dHRW9ZUDCCAQsxZHRUREQtakE1a4IBC0I2anNSV0FVWGdFggELSElOMFZydW5kcVGCAQtCNFA1NXgxRDdNQYIBC1ctRTZnRUU4YWlZsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtXSzRNWk9ueUFQVYIBC0hKYzhzNFlVNklRggELZ3FqTzVRaHkyQjCCAQtudURCY0s0SXVTY4IBC2I5dkZScXdWZWxnggELQXZBTDJxTzYyTlmCAQs0SlliLUw4SUVfUYIBC1Z1bVI0RWoyTWlZggELaUIwcjJNRzVPUUmCAQszSHFPRHh1QWdTY4IBC1JsZi1rMEhCaXp3ggELNUliRzcxbjlzSk2CAQtfN2pyTU4waF9zWYIBC1BoZlZxZWFGWVRJggELOU4yS0dHRW9ZUDCCAQsxZHRUREQtakE1a4IBC0I2anNSV0FVWGdFggELSElOMFZydW5kcVGCAQtCNFA1NXgxRDdNQYIBC1ctRTZnRUU4YWlZsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pine+Labs+Limited+share+target",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pine+Labs+Limited+share+target&sp=SBSCAQtXSzRNWk9ueUFQVYIBC0hKYzhzNFlVNklRggELZ3FqTzVRaHkyQjCCAQtudURCY0s0SXVTY4IBC2I5dkZScXdWZWxnggELQXZBTDJxTzYyTlmCAQs0SlliLUw4SUVfUYIBC1Z1bVI0RWoyTWlZggELaUIwcjJNRzVPUUmCAQszSHFPRHh1QWdTY4IBC1JsZi1rMEhCaXp3ggELNUliRzcxbjlzSk2CAQtfN2pyTU4waF9zWYIBC1BoZlZxZWFGWVRJggELOU4yS0dHRW9ZUDCCAQsxZHRUREQtakE1a4IBC0I2anNSV0FVWGdFggELSElOMFZydW5kcVGCAQtCNFA1NXgxRDdNQYIBC1ctRTZnRUU4YWlZsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtXSzRNWk9ueUFQVYIBC0hKYzhzNFlVNklRggELZ3FqTzVRaHkyQjCCAQtudURCY0s0SXVTY4IBC2I5dkZScXdWZWxnggELQXZBTDJxTzYyTlmCAQs0SlliLUw4SUVfUYIBC1Z1bVI0RWoyTWlZggELaUIwcjJNRzVPUUmCAQszSHFPRHh1QWdTY4IBC1JsZi1rMEhCaXp3ggELNUliRzcxbjlzSk2CAQtfN2pyTU4waF9zWYIBC1BoZlZxZWFGWVRJggELOU4yS0dHRW9ZUDCCAQsxZHRUREQtakE1a4IBC0I2anNSV0FVWGdFggELSElOMFZydW5kcVGCAQtCNFA1NXgxRDdNQYIBC1ctRTZnRUU4YWlZsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "_fetched_at": "2026-10-08T16:04:13"
+}

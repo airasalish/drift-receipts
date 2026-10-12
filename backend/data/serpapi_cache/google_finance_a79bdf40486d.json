@@ -1,0 +1,25 @@
+{
+ "search_metadata": {
+  "id": "6ac6862d3ee5df2ffce2cd9e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/56mgti1Ld50-uGW3x0P6gnOHtuKxhBbgj-g38xWLcU4/6ac6862d3ee5df2ffce2cd9e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/56mgti1Ld50-uGW3x0P6gnOHtuKxhBbgj-g38xWLcU4/6ac6862d3ee5df2ffce2cd9e.md",
+  "created_at": "2026-10-07 17:49:33 UTC",
+  "processed_at": "2026-10-07 17:49:33 UTC",
+  "google_finance_url": "https://www.google.com/finance/quote/LTELEVATOR:BOM?hl=en&window=6M",
+  "raw_html_file": "https://serpapi.com/searches/56mgti1Ld50-uGW3x0P6gnOHtuKxhBbgj-g38xWLcU4/6ac6862d3ee5df2ffce2cd9e.html",
+  "prettify_html_file": "https://serpapi.com/searches/56mgti1Ld50-uGW3x0P6gnOHtuKxhBbgj-g38xWLcU4/6ac6862d3ee5df2ffce2cd9e.prettify",
+  "total_time_taken": 0.81
+ },
+ "search_parameters": {
+  "engine": "google_finance",
+  "q": "LTELEVATOR:BOM",
+  "hl": "en",
+  "window": "6M"
+ },
+ "search_information": {
+  "finance_results_state": "Fully empty"
+ },
+ "error": "Google Finance hasn't returned any results for this query.",
+ "_fetched_at": "2026-10-07T17:49:33"
+}

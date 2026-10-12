@@ -1,0 +1,4433 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5e259eb379c02d5d48f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/0m1EYIwQ8L04k8-py0R91grGPs9lm1ada0kVu0EJNjU/6ac9f5e259eb379c02d5d48f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/0m1EYIwQ8L04k8-py0R91grGPs9lm1ada0kVu0EJNjU/6ac9f5e259eb379c02d5d48f.md",
+  "created_at": "2026-10-10 08:22:58 UTC",
+  "processed_at": "2026-10-10 08:22:58 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=EG4acdv-H-4",
+  "raw_html_file": "https://serpapi.com/searches/0m1EYIwQ8L04k8-py0R91grGPs9lm1ada0kVu0EJNjU/6ac9f5e259eb379c02d5d48f.html",
+  "prettify_html_file": "https://serpapi.com/searches/0m1EYIwQ8L04k8-py0R91grGPs9lm1ada0kVu0EJNjU/6ac9f5e259eb379c02d5d48f.prettify",
+  "total_time_taken": 11.21
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "EG4acdv-H-4",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 7520,
+   "end_ms": 9360,
+   "snippet": "Hi everyone, welcome to today's video.",
+   "start_time_text": "0:07",
+   "start_time_label": "0:07"
+  },
+  {
+   "start_ms": 9360,
+   "end_ms": 11599,
+   "snippet": "So on this video, I'm going to make a",
+   "start_time_text": "0:09",
+   "start_time_label": "0:09"
+  },
+  {
+   "start_ms": 11599,
+   "end_ms": 14799,
+   "snippet": "systematic macro case as to why the US",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 14799,
+   "end_ms": 17119,
+   "snippet": "market will continue to go up. Now I'm",
+   "start_time_text": "0:14",
+   "start_time_label": "0:14"
+  },
+  {
+   "start_ms": 17119,
+   "end_ms": 18960,
+   "snippet": "not just simply standing here and making",
+   "start_time_text": "0:17",
+   "start_time_label": "0:17"
+  },
+  {
+   "start_ms": 18960,
+   "end_ms": 21119,
+   "snippet": "a prediction. If you check out this live",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 21119,
+   "end_ms": 23920,
+   "snippet": "event that I have done live, I showed my",
+   "start_time_text": "0:21",
+   "start_time_label": "0:21"
+  },
+  {
+   "start_ms": 23920,
+   "end_ms": 25680,
+   "snippet": "brokerage account live in front of",
+   "start_time_text": "0:23",
+   "start_time_label": "0:23"
+  },
+  {
+   "start_ms": 25680,
+   "end_ms": 27199,
+   "snippet": "thousands of students. You can go and",
+   "start_time_text": "0:25",
+   "start_time_label": "0:25"
+  },
+  {
+   "start_ms": 27199,
+   "end_ms": 29359,
+   "snippet": "check it out. This was a YouTube live",
+   "start_time_text": "0:27",
+   "start_time_label": "0:27"
+  },
+  {
+   "start_ms": 29359,
+   "end_ms": 32000,
+   "snippet": "here. I categorically made a case that",
+   "start_time_text": "0:29",
+   "start_time_label": "0:29"
+  },
+  {
+   "start_ms": 32000,
+   "end_ms": 33520,
+   "snippet": "I'm investing millions of dollars. You",
+   "start_time_text": "0:32",
+   "start_time_label": "0:32"
+  },
+  {
+   "start_ms": 33520,
+   "end_ms": 35520,
+   "snippet": "can see it. Okay. And so I'm not someone",
+   "start_time_text": "0:33",
+   "start_time_label": "0:33"
+  },
+  {
+   "start_ms": 35520,
+   "end_ms": 37120,
+   "snippet": "who is just sharing like opinions and",
+   "start_time_text": "0:35",
+   "start_time_label": "0:35"
+  },
+  {
+   "start_ms": 37120,
+   "end_ms": 38399,
+   "snippet": "running away. Okay. I'm actually",
+   "start_time_text": "0:37",
+   "start_time_label": "0:37"
+  },
+  {
+   "start_ms": 38399,
+   "end_ms": 40239,
+   "snippet": "investing serious amount of my own",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 40239,
+   "end_ms": 43040,
+   "snippet": "personal wealth into a market that I",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 43040,
+   "end_ms": 45200,
+   "snippet": "believe is going to do well. And my",
+   "start_time_text": "0:43",
+   "start_time_label": "0:43"
+  },
+  {
+   "start_ms": 45200,
+   "end_ms": 47360,
+   "snippet": "conviction is based on macroeconomics",
+   "start_time_text": "0:45",
+   "start_time_label": "0:45"
+  },
+  {
+   "start_ms": 47360,
+   "end_ms": 49520,
+   "snippet": "which I will explain on this video in",
+   "start_time_text": "0:47",
+   "start_time_label": "0:47"
+  },
+  {
+   "start_ms": 49520,
+   "end_ms": 51680,
+   "snippet": "very simple easy to understand language.",
+   "start_time_text": "0:49",
+   "start_time_label": "0:49"
+  },
+  {
+   "start_ms": 51680,
+   "end_ms": 54239,
+   "snippet": "Right? And so let's begin. And three key",
+   "start_time_text": "0:51",
+   "start_time_label": "0:51"
+  },
+  {
+   "start_ms": 54239,
+   "end_ms": 56160,
+   "snippet": "things, right? Why a market goes up.",
+   "start_time_text": "0:54",
+   "start_time_label": "0:54"
+  },
+  {
+   "start_ms": 56160,
+   "end_ms": 57600,
+   "snippet": "Number one, there is some kind of",
+   "start_time_text": "0:56",
+   "start_time_label": "0:56"
+  },
+  {
+   "start_ms": 57600,
+   "end_ms": 59280,
+   "snippet": "technical analysis that you can do,",
+   "start_time_text": "0:57",
+   "start_time_label": "0:57"
+  },
+  {
+   "start_ms": 59280,
+   "end_ms": 61280,
+   "snippet": "right? Which indicates that a market",
+   "start_time_text": "0:59",
+   "start_time_label": "0:59"
+  },
+  {
+   "start_ms": 61280,
+   "end_ms": 62800,
+   "snippet": "will continue to do well, right? So,",
+   "start_time_text": "1:01",
+   "start_time_label": "1:01"
+  },
+  {
+   "start_ms": 62800,
+   "end_ms": 64479,
+   "snippet": "I'll do that in front of you. Number",
+   "start_time_text": "1:02",
+   "start_time_label": "1:02"
+  },
+  {
+   "start_ms": 64479,
+   "end_ms": 67040,
+   "snippet": "two, I will do macro analysis. There has",
+   "start_time_text": "1:04",
+   "start_time_label": "1:04"
+  },
+  {
+   "start_ms": 67040,
+   "end_ms": 69040,
+   "snippet": "to be some kind of macro reason why a",
+   "start_time_text": "1:07",
+   "start_time_label": "1:07"
+  },
+  {
+   "start_ms": 69040,
+   "end_ms": 70960,
+   "snippet": "market will continue to do well. That",
+   "start_time_text": "1:09",
+   "start_time_label": "1:09"
+  },
+  {
+   "start_ms": 70960,
+   "end_ms": 72640,
+   "snippet": "macro reason also I have been able to",
+   "start_time_text": "1:10",
+   "start_time_label": "1:10"
+  },
+  {
+   "start_ms": 72640,
+   "end_ms": 74240,
+   "snippet": "figure out. And finally, there will be",
+   "start_time_text": "1:12",
+   "start_time_label": "1:12"
+  },
+  {
+   "start_ms": 74240,
+   "end_ms": 76240,
+   "snippet": "some kind of fundamental level analysis",
+   "start_time_text": "1:14",
+   "start_time_label": "1:14"
+  },
+  {
+   "start_ms": 76240,
+   "end_ms": 79040,
+   "snippet": "that we can do on specific stocks. So, I",
+   "start_time_text": "1:16",
+   "start_time_label": "1:16"
+  },
+  {
+   "start_ms": 79040,
+   "end_ms": 80960,
+   "snippet": "will pick some top stocks and do some",
+   "start_time_text": "1:19",
+   "start_time_label": "1:19"
+  },
+  {
+   "start_ms": 80960,
+   "end_ms": 82720,
+   "snippet": "analysis there. Okay. So, let's begin",
+   "start_time_text": "1:20",
+   "start_time_label": "1:20"
+  },
+  {
+   "start_ms": 82720,
+   "end_ms": 85280,
+   "snippet": "with fundamental analysis. And here uh",
+   "start_time_text": "1:22",
+   "start_time_label": "1:22"
+  },
+  {
+   "start_ms": 85280,
+   "end_ms": 87360,
+   "snippet": "let me quickly clarify right uh",
+   "start_time_text": "1:25",
+   "start_time_label": "1:25"
+  },
+  {
+   "start_ms": 87360,
+   "end_ms": 89840,
+   "snippet": "regarding which specific part of the US",
+   "start_time_text": "1:27",
+   "start_time_label": "1:27"
+  },
+  {
+   "start_ms": 89840,
+   "end_ms": 91759,
+   "snippet": "market I'm speaking about. So when I say",
+   "start_time_text": "1:29",
+   "start_time_label": "1:29"
+  },
+  {
+   "start_ms": 91759,
+   "end_ms": 95520,
+   "snippet": "US market I primarily mean US tech",
+   "start_time_text": "1:31",
+   "start_time_label": "1:31"
+  },
+  {
+   "start_ms": 95520,
+   "end_ms": 97680,
+   "snippet": "stocks. I'm not talking about companies",
+   "start_time_text": "1:35",
+   "start_time_label": "1:35"
+  },
+  {
+   "start_ms": 97680,
+   "end_ms": 99840,
+   "snippet": "like Nike. I'm not talking about",
+   "start_time_text": "1:37",
+   "start_time_label": "1:37"
+  },
+  {
+   "start_ms": 99840,
+   "end_ms": 101520,
+   "snippet": "companies like Under Armour and all that",
+   "start_time_text": "1:39",
+   "start_time_label": "1:39"
+  },
+  {
+   "start_ms": 101520,
+   "end_ms": 103520,
+   "snippet": "stuff. Basically I'm speaking about US",
+   "start_time_text": "1:41",
+   "start_time_label": "1:41"
+  },
+  {
+   "start_ms": 103520,
+   "end_ms": 106880,
+   "snippet": "tech businesses. Now I'm looking at the",
+   "start_time_text": "1:43",
+   "start_time_label": "1:43"
+  },
+  {
+   "start_ms": 106880,
+   "end_ms": 108880,
+   "snippet": "technical analysis chart on a monthly",
+   "start_time_text": "1:46",
+   "start_time_label": "1:46"
+  },
+  {
+   "start_ms": 108880,
+   "end_ms": 110640,
+   "snippet": "level. For example, this green candle",
+   "start_time_text": "1:48",
+   "start_time_label": "1:48"
+  },
+  {
+   "start_ms": 110640,
+   "end_ms": 113600,
+   "snippet": "that you see, this is a 1 month candle.",
+   "start_time_text": "1:50",
+   "start_time_label": "1:50"
+  },
+  {
+   "start_ms": 113600,
+   "end_ms": 116000,
+   "snippet": "This red candle that you see, this is a",
+   "start_time_text": "1:53",
+   "start_time_label": "1:53"
+  },
+  {
+   "start_ms": 116000,
+   "end_ms": 119280,
+   "snippet": "1 month candle. Now, I will divide this",
+   "start_time_text": "1:56",
+   "start_time_label": "1:56"
+  },
+  {
+   "start_ms": 119280,
+   "end_ms": 122240,
+   "snippet": "entire technical analysis of QQQ into",
+   "start_time_text": "1:59",
+   "start_time_label": "1:59"
+  },
+  {
+   "start_ms": 122240,
+   "end_ms": 124399,
+   "snippet": "two specific parts, right? The first",
+   "start_time_text": "2:02",
+   "start_time_label": "2:02"
+  },
+  {
+   "start_ms": 124399,
+   "end_ms": 127680,
+   "snippet": "part actually starts from the year 2000",
+   "start_time_text": "2:04",
+   "start_time_label": "2:04"
+  },
+  {
+   "start_ms": 127680,
+   "end_ms": 129679,
+   "snippet": "right so from here right all the way",
+   "start_time_text": "2:07",
+   "start_time_label": "2:07"
+  },
+  {
+   "start_ms": 129679,
+   "end_ms": 133520,
+   "snippet": "till 2008 right so this is phase one of",
+   "start_time_text": "2:09",
+   "start_time_label": "2:09"
+  },
+  {
+   "start_ms": 133520,
+   "end_ms": 136480,
+   "snippet": "the market right or QQQ and the second",
+   "start_time_text": "2:13",
+   "start_time_label": "2:13"
+  },
+  {
+   "start_ms": 136480,
+   "end_ms": 138640,
+   "snippet": "phase of the market is ongoing right so",
+   "start_time_text": "2:16",
+   "start_time_label": "2:16"
+  },
+  {
+   "start_ms": 138640,
+   "end_ms": 141520,
+   "snippet": "this is phase 2 now if you study phase",
+   "start_time_text": "2:18",
+   "start_time_label": "2:18"
+  },
+  {
+   "start_ms": 141520,
+   "end_ms": 143280,
+   "snippet": "one right of the market and let me pull",
+   "start_time_text": "2:21",
+   "start_time_label": "2:21"
+  },
+  {
+   "start_ms": 143280,
+   "end_ms": 145120,
+   "snippet": "up the chart here so that you are able",
+   "start_time_text": "2:23",
+   "start_time_label": "2:23"
+  },
+  {
+   "start_ms": 145120,
+   "end_ms": 147280,
+   "snippet": "to see it clearly what you would notice",
+   "start_time_text": "2:25",
+   "start_time_label": "2:25"
+  },
+  {
+   "start_ms": 147280,
+   "end_ms": 150080,
+   "snippet": "is that there was one more than 50% dip",
+   "start_time_text": "2:27",
+   "start_time_label": "2:27"
+  },
+  {
+   "start_ms": 150080,
+   "end_ms": 153200,
+   "snippet": "here right this was more than 50% and in",
+   "start_time_text": "2:30",
+   "start_time_label": "2:30"
+  },
+  {
+   "start_ms": 153200,
+   "end_ms": 157920,
+   "snippet": "200 8 again there was a 60% dip on QQQ",
+   "start_time_text": "2:33",
+   "start_time_label": "2:33"
+  },
+  {
+   "start_ms": 157920,
+   "end_ms": 160720,
+   "snippet": "right so roughly 10-year time span right",
+   "start_time_text": "2:37",
+   "start_time_label": "2:37"
+  },
+  {
+   "start_ms": 160720,
+   "end_ms": 162879,
+   "snippet": "uh here there was a more than 50% dip",
+   "start_time_text": "2:40",
+   "start_time_label": "2:40"
+  },
+  {
+   "start_ms": 162879,
+   "end_ms": 164959,
+   "snippet": "this was the dotcom bubble right.com",
+   "start_time_text": "2:42",
+   "start_time_label": "2:42"
+  },
+  {
+   "start_ms": 164959,
+   "end_ms": 167920,
+   "snippet": "bubble and this was the great financial",
+   "start_time_text": "2:44",
+   "start_time_label": "2:44"
+  },
+  {
+   "start_ms": 167920,
+   "end_ms": 170879,
+   "snippet": "crisis right and the tech market dipped",
+   "start_time_text": "2:47",
+   "start_time_label": "2:47"
+  },
+  {
+   "start_ms": 170879,
+   "end_ms": 174879,
+   "snippet": "by 50 60% each time so this is phase one",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 174879,
+   "end_ms": 176959,
+   "snippet": "phase two what has happened right well",
+   "start_time_text": "2:54",
+   "start_time_label": "2:54"
+  },
+  {
+   "start_ms": 176959,
+   "end_ms": 178959,
+   "snippet": "in phase two I give you an open",
+   "start_time_text": "2:56",
+   "start_time_label": "2:56"
+  },
+  {
+   "start_ms": 178959,
+   "end_ms": 181760,
+   "snippet": "challenge go and figure out a time when",
+   "start_time_text": "2:58",
+   "start_time_label": "2:58"
+  },
+  {
+   "start_ms": 181760,
+   "end_ms": 186000,
+   "snippet": "QQQ Q corrected by more than 40% right",
+   "start_time_text": "3:01",
+   "start_time_label": "3:01"
+  },
+  {
+   "start_ms": 186000,
+   "end_ms": 188319,
+   "snippet": "at any point in time right in this time",
+   "start_time_text": "3:06",
+   "start_time_label": "3:06"
+  },
+  {
+   "start_ms": 188319,
+   "end_ms": 190480,
+   "snippet": "span okay so since the market stabilized",
+   "start_time_text": "3:08",
+   "start_time_label": "3:08"
+  },
+  {
+   "start_ms": 190480,
+   "end_ms": 192640,
+   "snippet": "post 2008.com",
+   "start_time_text": "3:10",
+   "start_time_label": "3:10"
+  },
+  {
+   "start_ms": 192640,
+   "end_ms": 195360,
+   "snippet": "crisis it has roughly been like 16 years",
+   "start_time_text": "3:12",
+   "start_time_label": "3:12"
+  },
+  {
+   "start_ms": 195360,
+   "end_ms": 197599,
+   "snippet": "17 years something like this and there",
+   "start_time_text": "3:15",
+   "start_time_label": "3:15"
+  },
+  {
+   "start_ms": 197599,
+   "end_ms": 199760,
+   "snippet": "has not been a single instance where the",
+   "start_time_text": "3:17",
+   "start_time_label": "3:17"
+  },
+  {
+   "start_ms": 199760,
+   "end_ms": 203360,
+   "snippet": "market corrected by more than 40%. Now",
+   "start_time_text": "3:19",
+   "start_time_label": "3:19"
+  },
+  {
+   "start_ms": 203360,
+   "end_ms": 205599,
+   "snippet": "why did this or why is this happening",
+   "start_time_text": "3:23",
+   "start_time_label": "3:23"
+  },
+  {
+   "start_ms": 205599,
+   "end_ms": 207599,
+   "snippet": "right and this is a very interesting uh",
+   "start_time_text": "3:25",
+   "start_time_label": "3:25"
+  },
+  {
+   "start_ms": 207599,
+   "end_ms": 210159,
+   "snippet": "point of analysis I would really ask you",
+   "start_time_text": "3:27",
+   "start_time_label": "3:27"
+  },
+  {
+   "start_ms": 210159,
+   "end_ms": 211519,
+   "snippet": "to think about it right more than",
+   "start_time_text": "3:30",
+   "start_time_label": "3:30"
+  },
+  {
+   "start_ms": 211519,
+   "end_ms": 213360,
+   "snippet": "anything else because these are the kind",
+   "start_time_text": "3:31",
+   "start_time_label": "3:31"
+  },
+  {
+   "start_ms": 213360,
+   "end_ms": 216319,
+   "snippet": "of insights that will help you build a",
+   "start_time_text": "3:33",
+   "start_time_label": "3:33"
+  },
+  {
+   "start_ms": 216319,
+   "end_ms": 217840,
+   "snippet": "very strong foundation for your",
+   "start_time_text": "3:36",
+   "start_time_label": "3:36"
+  },
+  {
+   "start_ms": 217840,
+   "end_ms": 219920,
+   "snippet": "portfolio so before going further right",
+   "start_time_text": "3:37",
+   "start_time_label": "3:37"
+  },
+  {
+   "start_ms": 219920,
+   "end_ms": 221599,
+   "snippet": "let me explain the biggest dip that has",
+   "start_time_text": "3:39",
+   "start_time_label": "3:39"
+  },
+  {
+   "start_ms": 221599,
+   "end_ms": 223040,
+   "snippet": "happened the biggest dip that has",
+   "start_time_text": "3:41",
+   "start_time_label": "3:41"
+  },
+  {
+   "start_ms": 223040,
+   "end_ms": 226560,
+   "snippet": "happened was here right this was 2021",
+   "start_time_text": "3:43",
+   "start_time_label": "3:43"
+  },
+  {
+   "start_ms": 226560,
+   "end_ms": 228080,
+   "snippet": "right and during this time what has",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 228080,
+   "end_ms": 230640,
+   "snippet": "happened was that the US increased its",
+   "start_time_text": "3:48",
+   "start_time_label": "3:48"
+  },
+  {
+   "start_ms": 230640,
+   "end_ms": 233599,
+   "snippet": "interest rates Now why did the US",
+   "start_time_text": "3:50",
+   "start_time_label": "3:50"
+  },
+  {
+   "start_ms": 233599,
+   "end_ms": 235519,
+   "snippet": "increase its interest rate? Because the",
+   "start_time_text": "3:53",
+   "start_time_label": "3:53"
+  },
+  {
+   "start_ms": 235519,
+   "end_ms": 238159,
+   "snippet": "inflation in the economy went haywire.",
+   "start_time_text": "3:55",
+   "start_time_label": "3:55"
+  },
+  {
+   "start_ms": 238159,
+   "end_ms": 240080,
+   "snippet": "Right? So I will write this down. So",
+   "start_time_text": "3:58",
+   "start_time_label": "3:58"
+  },
+  {
+   "start_ms": 240080,
+   "end_ms": 242640,
+   "snippet": "inflation in the economy in 2021 went up",
+   "start_time_text": "4:00",
+   "start_time_label": "4:00"
+  },
+  {
+   "start_ms": 242640,
+   "end_ms": 244560,
+   "snippet": "like crazy. Inflation means that hey you",
+   "start_time_text": "4:02",
+   "start_time_label": "4:02"
+  },
+  {
+   "start_ms": 244560,
+   "end_ms": 246400,
+   "snippet": "know what okay the cost of living has",
+   "start_time_text": "4:04",
+   "start_time_label": "4:04"
+  },
+  {
+   "start_ms": 246400,
+   "end_ms": 249519,
+   "snippet": "gone haywire. People were uh literally",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 249519,
+   "end_ms": 251360,
+   "snippet": "uh feeling very dejected that oh the",
+   "start_time_text": "4:09",
+   "start_time_label": "4:09"
+  },
+  {
+   "start_ms": 251360,
+   "end_ms": 253680,
+   "snippet": "cost of living has just gone up way too",
+   "start_time_text": "4:11",
+   "start_time_label": "4:11"
+  },
+  {
+   "start_ms": 253680,
+   "end_ms": 256000,
+   "snippet": "much right something needs to be done.",
+   "start_time_text": "4:13",
+   "start_time_label": "4:13"
+  },
+  {
+   "start_ms": 256000,
+   "end_ms": 257680,
+   "snippet": "And then the US announced that they are",
+   "start_time_text": "4:16",
+   "start_time_label": "4:16"
+  },
+  {
+   "start_ms": 257680,
+   "end_ms": 259919,
+   "snippet": "going to uh increase their interest",
+   "start_time_text": "4:17",
+   "start_time_label": "4:17"
+  },
+  {
+   "start_ms": 259919,
+   "end_ms": 261680,
+   "snippet": "rates. they increased the interest rate",
+   "start_time_text": "4:19",
+   "start_time_label": "4:19"
+  },
+  {
+   "start_ms": 261680,
+   "end_ms": 264880,
+   "snippet": "and the market slumped very badly. Okay,",
+   "start_time_text": "4:21",
+   "start_time_label": "4:21"
+  },
+  {
+   "start_ms": 264880,
+   "end_ms": 266880,
+   "snippet": "but the interesting insight is that this",
+   "start_time_text": "4:24",
+   "start_time_label": "4:24"
+  },
+  {
+   "start_ms": 266880,
+   "end_ms": 268479,
+   "snippet": "was basically a V-shaped recovery. So",
+   "start_time_text": "4:26",
+   "start_time_label": "4:26"
+  },
+  {
+   "start_ms": 268479,
+   "end_ms": 270080,
+   "snippet": "it's not as if that the market took",
+   "start_time_text": "4:28",
+   "start_time_label": "4:28"
+  },
+  {
+   "start_ms": 270080,
+   "end_ms": 272639,
+   "snippet": "years and years to recover. So in the",
+   "start_time_text": "4:30",
+   "start_time_label": "4:30"
+  },
+  {
+   "start_ms": 272639,
+   "end_ms": 275120,
+   "snippet": "phase two critical key takeaway is that",
+   "start_time_text": "4:32",
+   "start_time_label": "4:32"
+  },
+  {
+   "start_ms": 275120,
+   "end_ms": 276960,
+   "snippet": "number one there was only one instance",
+   "start_time_text": "4:35",
+   "start_time_label": "4:35"
+  },
+  {
+   "start_ms": 276960,
+   "end_ms": 279199,
+   "snippet": "when the market dipped more than 40% and",
+   "start_time_text": "4:36",
+   "start_time_label": "4:36"
+  },
+  {
+   "start_ms": 279199,
+   "end_ms": 280880,
+   "snippet": "even there there was a V-shaped",
+   "start_time_text": "4:39",
+   "start_time_label": "4:39"
+  },
+  {
+   "start_ms": 280880,
+   "end_ms": 283680,
+   "snippet": "recovery. Now you say trade war right I",
+   "start_time_text": "4:40",
+   "start_time_label": "4:40"
+  },
+  {
+   "start_ms": 283680,
+   "end_ms": 284880,
+   "snippet": "mean in that what happened? Well, again",
+   "start_time_text": "4:43",
+   "start_time_label": "4:43"
+  },
+  {
+   "start_ms": 284880,
+   "end_ms": 287040,
+   "snippet": "a V-shaped recovery, again a V-shaped",
+   "start_time_text": "4:44",
+   "start_time_label": "4:44"
+  },
+  {
+   "start_ms": 287040,
+   "end_ms": 288880,
+   "snippet": "recovery, again a V-shaped recovery,",
+   "start_time_text": "4:47",
+   "start_time_label": "4:47"
+  },
+  {
+   "start_ms": 288880,
+   "end_ms": 291759,
+   "snippet": "right? In 2020, right? COVID and in 2020",
+   "start_time_text": "4:48",
+   "start_time_label": "4:48"
+  },
+  {
+   "start_ms": 291759,
+   "end_ms": 294320,
+   "snippet": "co the market of QQQ did not fall also",
+   "start_time_text": "4:51",
+   "start_time_label": "4:51"
+  },
+  {
+   "start_ms": 294320,
+   "end_ms": 296800,
+   "snippet": "much. Okay, so long story short, what is",
+   "start_time_text": "4:54",
+   "start_time_label": "4:54"
+  },
+  {
+   "start_ms": 296800,
+   "end_ms": 299600,
+   "snippet": "happening on QQQ in the second phase is",
+   "start_time_text": "4:56",
+   "start_time_label": "4:56"
+  },
+  {
+   "start_ms": 299600,
+   "end_ms": 301680,
+   "snippet": "that okay, V-shaped recoveries are",
+   "start_time_text": "4:59",
+   "start_time_label": "4:59"
+  },
+  {
+   "start_ms": 301680,
+   "end_ms": 303280,
+   "snippet": "happening, which means that volatility",
+   "start_time_text": "5:01",
+   "start_time_label": "5:01"
+  },
+  {
+   "start_ms": 303280,
+   "end_ms": 305840,
+   "snippet": "is high, that the market dips, but it",
+   "start_time_text": "5:03",
+   "start_time_label": "5:03"
+  },
+  {
+   "start_ms": 305840,
+   "end_ms": 308000,
+   "snippet": "quickly climbs back up and people are",
+   "start_time_text": "5:05",
+   "start_time_label": "5:05"
+  },
+  {
+   "start_ms": 308000,
+   "end_ms": 310160,
+   "snippet": "seeing through this. So this brings us",
+   "start_time_text": "5:08",
+   "start_time_label": "5:08"
+  },
+  {
+   "start_ms": 310160,
+   "end_ms": 311759,
+   "snippet": "to an interesting piece of conversation",
+   "start_time_text": "5:10",
+   "start_time_label": "5:10"
+  },
+  {
+   "start_ms": 311759,
+   "end_ms": 313759,
+   "snippet": "or part two of the video that okay why",
+   "start_time_text": "5:11",
+   "start_time_label": "5:11"
+  },
+  {
+   "start_ms": 313759,
+   "end_ms": 315520,
+   "snippet": "is this happening right is there like",
+   "start_time_text": "5:13",
+   "start_time_label": "5:13"
+  },
+  {
+   "start_ms": 315520,
+   "end_ms": 317199,
+   "snippet": "some macroeconomics that can explain",
+   "start_time_text": "5:15",
+   "start_time_label": "5:15"
+  },
+  {
+   "start_ms": 317199,
+   "end_ms": 320639,
+   "snippet": "this and the short answer is a yes the",
+   "start_time_text": "5:17",
+   "start_time_label": "5:17"
+  },
+  {
+   "start_ms": 320639,
+   "end_ms": 324240,
+   "snippet": "answer lies in US's debt why there is a",
+   "start_time_text": "5:20",
+   "start_time_label": "5:20"
+  },
+  {
+   "start_ms": 324240,
+   "end_ms": 326720,
+   "snippet": "fast V-shaped recovery and why is it",
+   "start_time_text": "5:24",
+   "start_time_label": "5:24"
+  },
+  {
+   "start_ms": 326720,
+   "end_ms": 329280,
+   "snippet": "that QQQ has no other option but to keep",
+   "start_time_text": "5:26",
+   "start_time_label": "5:26"
+  },
+  {
+   "start_ms": 329280,
+   "end_ms": 331919,
+   "snippet": "climbing up okay so okay so for this let",
+   "start_time_text": "5:29",
+   "start_time_label": "5:29"
+  },
+  {
+   "start_ms": 331919,
+   "end_ms": 333840,
+   "snippet": "me just quickly explain you the logic",
+   "start_time_text": "5:31",
+   "start_time_label": "5:31"
+  },
+  {
+   "start_ms": 333840,
+   "end_ms": 335520,
+   "snippet": "first right and there's a interesting",
+   "start_time_text": "5:33",
+   "start_time_label": "5:33"
+  },
+  {
+   "start_ms": 335520,
+   "end_ms": 337280,
+   "snippet": "tweet that I did on this topic in case",
+   "start_time_text": "5:35",
+   "start_time_label": "5:35"
+  },
+  {
+   "start_ms": 337280,
+   "end_ms": 338720,
+   "snippet": "you guys are not following me on Twitter",
+   "start_time_text": "5:37",
+   "start_time_label": "5:37"
+  },
+  {
+   "start_ms": 338720,
+   "end_ms": 340160,
+   "snippet": "Please follow, you will learn a lot of",
+   "start_time_text": "5:38",
+   "start_time_label": "5:38"
+  },
+  {
+   "start_ms": 340160,
+   "end_ms": 342880,
+   "snippet": "interesting macroeconomics, finance, uh",
+   "start_time_text": "5:40",
+   "start_time_label": "5:40"
+  },
+  {
+   "start_ms": 342880,
+   "end_ms": 344639,
+   "snippet": "I write very high quality posts, right?",
+   "start_time_text": "5:42",
+   "start_time_label": "5:42"
+  },
+  {
+   "start_ms": 344639,
+   "end_ms": 345919,
+   "snippet": "So you will love it, right? Please",
+   "start_time_text": "5:44",
+   "start_time_label": "5:44"
+  },
+  {
+   "start_ms": 345919,
+   "end_ms": 347600,
+   "snippet": "follow me there. I am putting the links",
+   "start_time_text": "5:45",
+   "start_time_label": "5:45"
+  },
+  {
+   "start_ms": 347600,
+   "end_ms": 350000,
+   "snippet": "in description comments. So here what is",
+   "start_time_text": "5:47",
+   "start_time_label": "5:47"
+  },
+  {
+   "start_ms": 350000,
+   "end_ms": 351600,
+   "snippet": "happening is and this is a theory that I",
+   "start_time_text": "5:50",
+   "start_time_label": "5:50"
+  },
+  {
+   "start_ms": 351600,
+   "end_ms": 354400,
+   "snippet": "have been debating that see US's debt is",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 354400,
+   "end_ms": 357759,
+   "snippet": "basically $40 trillion and US is",
+   "start_time_text": "5:54",
+   "start_time_label": "5:54"
+  },
+  {
+   "start_ms": 357759,
+   "end_ms": 360720,
+   "snippet": "basically doing something called as debt",
+   "start_time_text": "5:57",
+   "start_time_label": "5:57"
+  },
+  {
+   "start_ms": 360720,
+   "end_ms": 362560,
+   "snippet": "debasement. Okay. Now what is the",
+   "start_time_text": "6:00",
+   "start_time_label": "6:00"
+  },
+  {
+   "start_ms": 362560,
+   "end_ms": 364880,
+   "snippet": "meaning of debt debasement? Now debt",
+   "start_time_text": "6:02",
+   "start_time_label": "6:02"
+  },
+  {
+   "start_ms": 364880,
+   "end_ms": 367919,
+   "snippet": "debasement can simply be understood by a",
+   "start_time_text": "6:04",
+   "start_time_label": "6:04"
+  },
+  {
+   "start_ms": 367919,
+   "end_ms": 370240,
+   "snippet": "simple example that if you go back in",
+   "start_time_text": "6:07",
+   "start_time_label": "6:07"
+  },
+  {
+   "start_ms": 370240,
+   "end_ms": 373600,
+   "snippet": "the year 2000 okay 1 cr used to feel a",
+   "start_time_text": "6:10",
+   "start_time_label": "6:10"
+  },
+  {
+   "start_ms": 373600,
+   "end_ms": 375759,
+   "snippet": "lot with 1 cr you can technically retire",
+   "start_time_text": "6:13",
+   "start_time_label": "6:13"
+  },
+  {
+   "start_ms": 375759,
+   "end_ms": 378880,
+   "snippet": "one could say okay but in 2026 does 1 cr",
+   "start_time_text": "6:15",
+   "start_time_label": "6:15"
+  },
+  {
+   "start_ms": 378880,
+   "end_ms": 381039,
+   "snippet": "feel like a lot like probably not okay",
+   "start_time_text": "6:18",
+   "start_time_label": "6:18"
+  },
+  {
+   "start_ms": 381039,
+   "end_ms": 383520,
+   "snippet": "so everyone is talking about 40 cr corus",
+   "start_time_text": "6:21",
+   "start_time_label": "6:21"
+  },
+  {
+   "start_ms": 383520,
+   "end_ms": 386000,
+   "snippet": "100 cr corus 5 lakh cr corpus and",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386000,
+   "end_ms": 388080,
+   "snippet": "whatever okay so what is happening is",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 388080,
+   "end_ms": 390240,
+   "snippet": "that the value of that 1 cr or buying",
+   "start_time_text": "6:28",
+   "start_time_label": "6:28"
+  },
+  {
+   "start_ms": 390240,
+   "end_ms": 392160,
+   "snippet": "power of that 1 cr has gone down",
+   "start_time_text": "6:30",
+   "start_time_label": "6:30"
+  },
+  {
+   "start_ms": 392160,
+   "end_ms": 394560,
+   "snippet": "dramatically now how How does this apply",
+   "start_time_text": "6:32",
+   "start_time_label": "6:32"
+  },
+  {
+   "start_ms": 394560,
+   "end_ms": 397039,
+   "snippet": "to US's debt? So see guys, right now",
+   "start_time_text": "6:34",
+   "start_time_label": "6:34"
+  },
+  {
+   "start_ms": 397039,
+   "end_ms": 400240,
+   "snippet": "US's debt is $40 trillion and every week",
+   "start_time_text": "6:37",
+   "start_time_label": "6:37"
+  },
+  {
+   "start_ms": 400240,
+   "end_ms": 402720,
+   "snippet": "some person releases a video or someone",
+   "start_time_text": "6:40",
+   "start_time_label": "6:40"
+  },
+  {
+   "start_ms": 402720,
+   "end_ms": 404400,
+   "snippet": "says that US debt bubble is a ticking",
+   "start_time_text": "6:42",
+   "start_time_label": "6:42"
+  },
+  {
+   "start_ms": 404400,
+   "end_ms": 406319,
+   "snippet": "time bomb. It is going to burst. This is",
+   "start_time_text": "6:44",
+   "start_time_label": "6:44"
+  },
+  {
+   "start_ms": 406319,
+   "end_ms": 407840,
+   "snippet": "going to happen and you know like dollar",
+   "start_time_text": "6:46",
+   "start_time_label": "6:46"
+  },
+  {
+   "start_ms": 407840,
+   "end_ms": 409759,
+   "snippet": "is going to crash. Why is this the first",
+   "start_time_text": "6:47",
+   "start_time_label": "6:47"
+  },
+  {
+   "start_ms": 409759,
+   "end_ms": 411840,
+   "snippet": "time you're hearing all this crap? Okay.",
+   "start_time_text": "6:49",
+   "start_time_label": "6:49"
+  },
+  {
+   "start_ms": 411840,
+   "end_ms": 414080,
+   "snippet": "No. Uh Ray Dalio has been saying this",
+   "start_time_text": "6:51",
+   "start_time_label": "6:51"
+  },
+  {
+   "start_ms": 414080,
+   "end_ms": 416319,
+   "snippet": "for the last I don't know 10 odd years.",
+   "start_time_text": "6:54",
+   "start_time_label": "6:54"
+  },
+  {
+   "start_ms": 416319,
+   "end_ms": 418400,
+   "snippet": "What is he doing on his portfolio? Well,",
+   "start_time_text": "6:56",
+   "start_time_label": "6:56"
+  },
+  {
+   "start_ms": 418400,
+   "end_ms": 420400,
+   "snippet": "buying more American tech companies. Not",
+   "start_time_text": "6:58",
+   "start_time_label": "6:58"
+  },
+  {
+   "start_ms": 420400,
+   "end_ms": 421919,
+   "snippet": "kidding. Okay. is I'll put his portfolio",
+   "start_time_text": "7:00",
+   "start_time_label": "7:00"
+  },
+  {
+   "start_ms": 421919,
+   "end_ms": 423120,
+   "snippet": "also somewhere in the description",
+   "start_time_text": "7:01",
+   "start_time_label": "7:01"
+  },
+  {
+   "start_ms": 423120,
+   "end_ms": 424639,
+   "snippet": "comment box. It's called Bridgewater",
+   "start_time_text": "7:03",
+   "start_time_label": "7:03"
+  },
+  {
+   "start_ms": 424639,
+   "end_ms": 426479,
+   "snippet": "Associates, you guys. And go and check,",
+   "start_time_text": "7:04",
+   "start_time_label": "7:04"
+  },
+  {
+   "start_ms": 426479,
+   "end_ms": 428000,
+   "snippet": "right? I mean, if that was such a big",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 428000,
+   "end_ms": 429759,
+   "snippet": "concern, he should have sold his",
+   "start_time_text": "7:08",
+   "start_time_label": "7:08"
+  },
+  {
+   "start_ms": 429759,
+   "end_ms": 431280,
+   "snippet": "portfolio out, right? But no, he's",
+   "start_time_text": "7:09",
+   "start_time_label": "7:09"
+  },
+  {
+   "start_ms": 431280,
+   "end_ms": 433039,
+   "snippet": "buying more American tech, but on",
+   "start_time_text": "7:11",
+   "start_time_label": "7:11"
+  },
+  {
+   "start_ms": 433039,
+   "end_ms": 434240,
+   "snippet": "television, he's saying that, you know,",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 434240,
+   "end_ms": 435919,
+   "snippet": "okay, dead bubble is going to burst, US",
+   "start_time_text": "7:14",
+   "start_time_label": "7:14"
+  },
+  {
+   "start_ms": 435919,
+   "end_ms": 437360,
+   "snippet": "dollar is going to go to zero, all that",
+   "start_time_text": "7:15",
+   "start_time_label": "7:15"
+  },
+  {
+   "start_ms": 437360,
+   "end_ms": 439120,
+   "snippet": "stuff. Okay. U should you take",
+   "start_time_text": "7:17",
+   "start_time_label": "7:17"
+  },
+  {
+   "start_ms": 439120,
+   "end_ms": 440160,
+   "snippet": "seriously? Should you not take",
+   "start_time_text": "7:19",
+   "start_time_label": "7:19"
+  },
+  {
+   "start_ms": 440160,
+   "end_ms": 441680,
+   "snippet": "seriously? I don't know. Okay, at this",
+   "start_time_text": "7:20",
+   "start_time_label": "7:20"
+  },
+  {
+   "start_ms": 441680,
+   "end_ms": 443440,
+   "snippet": "stage, I'm like, you know, very iffy in",
+   "start_time_text": "7:21",
+   "start_time_label": "7:21"
+  },
+  {
+   "start_ms": 443440,
+   "end_ms": 444960,
+   "snippet": "terms of consuming random commentary.",
+   "start_time_text": "7:23",
+   "start_time_label": "7:23"
+  },
+  {
+   "start_ms": 444960,
+   "end_ms": 447360,
+   "snippet": "I'm just done, right? uh just don't take",
+   "start_time_text": "7:24",
+   "start_time_label": "7:24"
+  },
+  {
+   "start_ms": 447360,
+   "end_ms": 449039,
+   "snippet": "all this stuff very very seriously",
+   "start_time_text": "7:27",
+   "start_time_label": "7:27"
+  },
+  {
+   "start_ms": 449039,
+   "end_ms": 450400,
+   "snippet": "otherwise you will lose out on crazy",
+   "start_time_text": "7:29",
+   "start_time_label": "7:29"
+  },
+  {
+   "start_ms": 450400,
+   "end_ms": 453120,
+   "snippet": "gains okay so anyways uh back to topic",
+   "start_time_text": "7:30",
+   "start_time_label": "7:30"
+  },
+  {
+   "start_ms": 453120,
+   "end_ms": 456560,
+   "snippet": "see US's debt is $40 trillion okay and",
+   "start_time_text": "7:33",
+   "start_time_label": "7:33"
+  },
+  {
+   "start_ms": 456560,
+   "end_ms": 458319,
+   "snippet": "basically they have two options to deal",
+   "start_time_text": "7:36",
+   "start_time_label": "7:36"
+  },
+  {
+   "start_ms": 458319,
+   "end_ms": 460160,
+   "snippet": "with this debt number one is reduce this",
+   "start_time_text": "7:38",
+   "start_time_label": "7:38"
+  },
+  {
+   "start_ms": 460160,
+   "end_ms": 462160,
+   "snippet": "debt bring it down to like $10 trillion",
+   "start_time_text": "7:40",
+   "start_time_label": "7:40"
+  },
+  {
+   "start_ms": 462160,
+   "end_ms": 466160,
+   "snippet": "$5 trillion whatever okay now did the US",
+   "start_time_text": "7:42",
+   "start_time_label": "7:42"
+  },
+  {
+   "start_ms": 466160,
+   "end_ms": 469840,
+   "snippet": "try to do this yes they in fact built a",
+   "start_time_text": "7:46",
+   "start_time_label": "7:46"
+  },
+  {
+   "start_ms": 469840,
+   "end_ms": 471680,
+   "snippet": "government efficiency department it was",
+   "start_time_text": "7:49",
+   "start_time_label": "7:49"
+  },
+  {
+   "start_ms": 471680,
+   "end_ms": 473919,
+   "snippet": "called as doge and Elon Musk was heading",
+   "start_time_text": "7:51",
+   "start_time_label": "7:51"
+  },
+  {
+   "start_ms": 473919,
+   "end_ms": 476400,
+   "snippet": "this and basically What Elon Musk was",
+   "start_time_text": "7:53",
+   "start_time_label": "7:53"
+  },
+  {
+   "start_ms": 476400,
+   "end_ms": 478240,
+   "snippet": "trying to do was that he was trying to",
+   "start_time_text": "7:56",
+   "start_time_label": "7:56"
+  },
+  {
+   "start_ms": 478240,
+   "end_ms": 479840,
+   "snippet": "shrink the size of the government.",
+   "start_time_text": "7:58",
+   "start_time_label": "7:58"
+  },
+  {
+   "start_ms": 479840,
+   "end_ms": 481599,
+   "snippet": "Right? Now what do you think politicians",
+   "start_time_text": "7:59",
+   "start_time_label": "7:59"
+  },
+  {
+   "start_ms": 481599,
+   "end_ms": 483199,
+   "snippet": "are going to do? American politicians if",
+   "start_time_text": "8:01",
+   "start_time_label": "8:01"
+  },
+  {
+   "start_ms": 483199,
+   "end_ms": 484639,
+   "snippet": "you try to shrink the size of the",
+   "start_time_text": "8:03",
+   "start_time_label": "8:03"
+  },
+  {
+   "start_ms": 484639,
+   "end_ms": 486080,
+   "snippet": "government well you are curtailing their",
+   "start_time_text": "8:04",
+   "start_time_label": "8:04"
+  },
+  {
+   "start_ms": 486080,
+   "end_ms": 488720,
+   "snippet": "power right so no it did not work out",
+   "start_time_text": "8:06",
+   "start_time_label": "8:06"
+  },
+  {
+   "start_ms": 488720,
+   "end_ms": 491440,
+   "snippet": "right and doge was scrapped right",
+   "start_time_text": "8:08",
+   "start_time_label": "8:08"
+  },
+  {
+   "start_ms": 491440,
+   "end_ms": 493599,
+   "snippet": "nothing happened there right and so that",
+   "start_time_text": "8:11",
+   "start_time_label": "8:11"
+  },
+  {
+   "start_ms": 493599,
+   "end_ms": 495919,
+   "snippet": "was one that hey you reduce debt in",
+   "start_time_text": "8:13",
+   "start_time_label": "8:13"
+  },
+  {
+   "start_ms": 495919,
+   "end_ms": 498160,
+   "snippet": "absolute terms that's not possible the",
+   "start_time_text": "8:15",
+   "start_time_label": "8:15"
+  },
+  {
+   "start_ms": 498160,
+   "end_ms": 500319,
+   "snippet": "second option is that you reduce the",
+   "start_time_text": "8:18",
+   "start_time_label": "8:18"
+  },
+  {
+   "start_ms": 500319,
+   "end_ms": 502000,
+   "snippet": "value of that debt right are you guys",
+   "start_time_text": "8:20",
+   "start_time_label": "8:20"
+  },
+  {
+   "start_ms": 502000,
+   "end_ms": 504240,
+   "snippet": "understanding right what is the meaning",
+   "start_time_text": "8:22",
+   "start_time_label": "8:22"
+  },
+  {
+   "start_ms": 504240,
+   "end_ms": 506479,
+   "snippet": "of value of that debt okay so value of",
+   "start_time_text": "8:24",
+   "start_time_label": "8:24"
+  },
+  {
+   "start_ms": 506479,
+   "end_ms": 508400,
+   "snippet": "the debt means that okay fine our debt",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508400,
+   "end_ms": 511360,
+   "snippet": "will stay $40 trillion but its value we",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 511360,
+   "end_ms": 513680,
+   "snippet": "will shr shrink with time. Now, how does",
+   "start_time_text": "8:31",
+   "start_time_label": "8:31"
+  },
+  {
+   "start_ms": 513680,
+   "end_ms": 515839,
+   "snippet": "that exactly work out? Okay, now that is",
+   "start_time_text": "8:33",
+   "start_time_label": "8:33"
+  },
+  {
+   "start_ms": 515839,
+   "end_ms": 517279,
+   "snippet": "a very interesting piece of conversation",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 517279,
+   "end_ms": 519039,
+   "snippet": "and it's very complicated to explain.",
+   "start_time_text": "8:37",
+   "start_time_label": "8:37"
+  },
+  {
+   "start_ms": 519039,
+   "end_ms": 521120,
+   "snippet": "But here is a simple mechanics, right?",
+   "start_time_text": "8:39",
+   "start_time_label": "8:39"
+  },
+  {
+   "start_ms": 521120,
+   "end_ms": 524080,
+   "snippet": "What happens is that US prints a lot of",
+   "start_time_text": "8:41",
+   "start_time_label": "8:41"
+  },
+  {
+   "start_ms": 524080,
+   "end_ms": 526000,
+   "snippet": "money. So, US every year it prints a lot",
+   "start_time_text": "8:44",
+   "start_time_label": "8:44"
+  },
+  {
+   "start_ms": 526000,
+   "end_ms": 527440,
+   "snippet": "of money. Indian government also prints",
+   "start_time_text": "8:46",
+   "start_time_label": "8:46"
+  },
+  {
+   "start_ms": 527440,
+   "end_ms": 530000,
+   "snippet": "a lot of money. So, uh and that is how",
+   "start_time_text": "8:47",
+   "start_time_label": "8:47"
+  },
+  {
+   "start_ms": 530000,
+   "end_ms": 531440,
+   "snippet": "it gets its debt. Okay? So, it's not as",
+   "start_time_text": "8:50",
+   "start_time_label": "8:50"
+  },
+  {
+   "start_ms": 531440,
+   "end_ms": 533600,
+   "snippet": "if that it needs permission from anyone",
+   "start_time_text": "8:51",
+   "start_time_label": "8:51"
+  },
+  {
+   "start_ms": 533600,
+   "end_ms": 535839,
+   "snippet": "or any part of the world to print its",
+   "start_time_text": "8:53",
+   "start_time_label": "8:53"
+  },
+  {
+   "start_ms": 535839,
+   "end_ms": 538720,
+   "snippet": "own money. It prints and it becomes US's",
+   "start_time_text": "8:55",
+   "start_time_label": "8:55"
+  },
+  {
+   "start_ms": 538720,
+   "end_ms": 540640,
+   "snippet": "money. But see, someone needs to buy",
+   "start_time_text": "8:58",
+   "start_time_label": "8:58"
+  },
+  {
+   "start_ms": 540640,
+   "end_ms": 542480,
+   "snippet": "that, right? Someone needs to accept the",
+   "start_time_text": "9:00",
+   "start_time_label": "9:00"
+  },
+  {
+   "start_ms": 542480,
+   "end_ms": 544640,
+   "snippet": "US dollar. Now recently you must be",
+   "start_time_text": "9:02",
+   "start_time_label": "9:02"
+  },
+  {
+   "start_ms": 544640,
+   "end_ms": 546959,
+   "snippet": "hearing that you know what US is forcing",
+   "start_time_text": "9:04",
+   "start_time_label": "9:04"
+  },
+  {
+   "start_ms": 546959,
+   "end_ms": 550000,
+   "snippet": "India to buy oil or US oil. Okay.",
+   "start_time_text": "9:06",
+   "start_time_label": "9:06"
+  },
+  {
+   "start_ms": 550000,
+   "end_ms": 552880,
+   "snippet": "Similarly it's forcing a bunch of Latin",
+   "start_time_text": "9:10",
+   "start_time_label": "9:10"
+  },
+  {
+   "start_ms": 552880,
+   "end_ms": 555279,
+   "snippet": "American countries to buy its own stuff.",
+   "start_time_text": "9:12",
+   "start_time_label": "9:12"
+  },
+  {
+   "start_ms": 555279,
+   "end_ms": 558240,
+   "snippet": "Okay. Or US stuff. It is forcing Indian",
+   "start_time_text": "9:15",
+   "start_time_label": "9:15"
+  },
+  {
+   "start_ms": 558240,
+   "end_ms": 561440,
+   "snippet": "companies to set up base abroad. Now in",
+   "start_time_text": "9:18",
+   "start_time_label": "9:18"
+  },
+  {
+   "start_ms": 561440,
+   "end_ms": 564000,
+   "snippet": "what what currency are these",
+   "start_time_text": "9:21",
+   "start_time_label": "9:21"
+  },
+  {
+   "start_ms": 564000,
+   "end_ms": 566000,
+   "snippet": "transactions going to happen in US",
+   "start_time_text": "9:24",
+   "start_time_label": "9:24"
+  },
+  {
+   "start_ms": 566000,
+   "end_ms": 568800,
+   "snippet": "dollar? So US by creating demand for US",
+   "start_time_text": "9:26",
+   "start_time_label": "9:26"
+  },
+  {
+   "start_ms": 568800,
+   "end_ms": 570959,
+   "snippet": "dollar basically what it does is that it",
+   "start_time_text": "9:28",
+   "start_time_label": "9:28"
+  },
+  {
+   "start_ms": 570959,
+   "end_ms": 574399,
+   "snippet": "creates a market for its debt. Okay. And",
+   "start_time_text": "9:30",
+   "start_time_label": "9:30"
+  },
+  {
+   "start_ms": 574399,
+   "end_ms": 576000,
+   "snippet": "right now basically like after Donald",
+   "start_time_text": "9:34",
+   "start_time_label": "9:34"
+  },
+  {
+   "start_ms": 576000,
+   "end_ms": 577839,
+   "snippet": "Trump came to power he has been pushing",
+   "start_time_text": "9:36",
+   "start_time_label": "9:36"
+  },
+  {
+   "start_ms": 577839,
+   "end_ms": 579600,
+   "snippet": "right I mean by using a stick approach",
+   "start_time_text": "9:37",
+   "start_time_label": "9:37"
+  },
+  {
+   "start_ms": 579600,
+   "end_ms": 580720,
+   "snippet": "that hey you know what if you want to",
+   "start_time_text": "9:39",
+   "start_time_label": "9:39"
+  },
+  {
+   "start_ms": 580720,
+   "end_ms": 582399,
+   "snippet": "access the American market you have to",
+   "start_time_text": "9:40",
+   "start_time_label": "9:40"
+  },
+  {
+   "start_ms": 582399,
+   "end_ms": 585519,
+   "snippet": "deal in US dollar right uh entire war on",
+   "start_time_text": "9:42",
+   "start_time_label": "9:42"
+  },
+  {
+   "start_ms": 585519,
+   "end_ms": 587839,
+   "snippet": "Iran started in a way because Iran was",
+   "start_time_text": "9:45",
+   "start_time_label": "9:45"
+  },
+  {
+   "start_ms": 587839,
+   "end_ms": 591360,
+   "snippet": "trading in remn right and Chinese yuan",
+   "start_time_text": "9:47",
+   "start_time_label": "9:47"
+  },
+  {
+   "start_ms": 591360,
+   "end_ms": 593760,
+   "snippet": "in a way not in American dollar. So that",
+   "start_time_text": "9:51",
+   "start_time_label": "9:51"
+  },
+  {
+   "start_ms": 593760,
+   "end_ms": 596000,
+   "snippet": "so the US did not like it and anyone or",
+   "start_time_text": "9:53",
+   "start_time_label": "9:53"
+  },
+  {
+   "start_ms": 596000,
+   "end_ms": 597839,
+   "snippet": "any country in the world that does not",
+   "start_time_text": "9:56",
+   "start_time_label": "9:56"
+  },
+  {
+   "start_ms": 597839,
+   "end_ms": 600320,
+   "snippet": "accept the hedgeimonyy or the eliteness",
+   "start_time_text": "9:57",
+   "start_time_label": "9:57"
+  },
+  {
+   "start_ms": 600320,
+   "end_ms": 603200,
+   "snippet": "of the US dollar US tries to punish them",
+   "start_time_text": "10:00",
+   "start_time_label": "10:00"
+  },
+  {
+   "start_ms": 603200,
+   "end_ms": 605200,
+   "snippet": "right so that is called as creating",
+   "start_time_text": "10:03",
+   "start_time_label": "10:03"
+  },
+  {
+   "start_ms": 605200,
+   "end_ms": 607360,
+   "snippet": "demand for US dollar by either using",
+   "start_time_text": "10:05",
+   "start_time_label": "10:05"
+  },
+  {
+   "start_ms": 607360,
+   "end_ms": 609760,
+   "snippet": "carrot or stick okay so basically what",
+   "start_time_text": "10:07",
+   "start_time_label": "10:07"
+  },
+  {
+   "start_ms": 609760,
+   "end_ms": 611920,
+   "snippet": "US simply is doing is that it is",
+   "start_time_text": "10:09",
+   "start_time_label": "10:09"
+  },
+  {
+   "start_ms": 611920,
+   "end_ms": 614720,
+   "snippet": "exporting this US dollar to the world",
+   "start_time_text": "10:11",
+   "start_time_label": "10:11"
+  },
+  {
+   "start_ms": 614720,
+   "end_ms": 617279,
+   "snippet": "right now whenever US prints now what",
+   "start_time_text": "10:14",
+   "start_time_label": "10:14"
+  },
+  {
+   "start_ms": 617279,
+   "end_ms": 618800,
+   "snippet": "happens right I mean for example US",
+   "start_time_text": "10:17",
+   "start_time_label": "10:17"
+  },
+  {
+   "start_ms": 618800,
+   "end_ms": 620959,
+   "snippet": "right now has $40 trillion now let's say",
+   "start_time_text": "10:18",
+   "start_time_label": "10:18"
+  },
+  {
+   "start_ms": 620959,
+   "end_ms": 623680,
+   "snippet": "that this is the year 2030 And US dollar",
+   "start_time_text": "10:20",
+   "start_time_label": "10:20"
+  },
+  {
+   "start_ms": 623680,
+   "end_ms": 626320,
+   "snippet": "ends up or US ends up creating $45",
+   "start_time_text": "10:23",
+   "start_time_label": "10:23"
+  },
+  {
+   "start_ms": 626320,
+   "end_ms": 628880,
+   "snippet": "trillion of debt, right? But what it has",
+   "start_time_text": "10:26",
+   "start_time_label": "10:26"
+  },
+  {
+   "start_ms": 628880,
+   "end_ms": 630959,
+   "snippet": "successfully done are two things, right?",
+   "start_time_text": "10:28",
+   "start_time_label": "10:28"
+  },
+  {
+   "start_ms": 630959,
+   "end_ms": 634079,
+   "snippet": "Number one, it has exported the demand",
+   "start_time_text": "10:30",
+   "start_time_label": "10:30"
+  },
+  {
+   "start_ms": 634079,
+   "end_ms": 636320,
+   "snippet": "or this or this entire debt. It has",
+   "start_time_text": "10:34",
+   "start_time_label": "10:34"
+  },
+  {
+   "start_ms": 636320,
+   "end_ms": 638160,
+   "snippet": "spread it across the globe, right?",
+   "start_time_text": "10:36",
+   "start_time_label": "10:36"
+  },
+  {
+   "start_ms": 638160,
+   "end_ms": 639839,
+   "snippet": "Successfully. And this is the negative",
+   "start_time_text": "10:38",
+   "start_time_label": "10:38"
+  },
+  {
+   "start_ms": 639839,
+   "end_ms": 642240,
+   "snippet": "impact that everyone, right? India, uh,",
+   "start_time_text": "10:39",
+   "start_time_label": "10:39"
+  },
+  {
+   "start_ms": 642240,
+   "end_ms": 644160,
+   "snippet": "Japan, all the countries are being",
+   "start_time_text": "10:42",
+   "start_time_label": "10:42"
+  },
+  {
+   "start_ms": 644160,
+   "end_ms": 647360,
+   "snippet": "forced to accept American dollars. And",
+   "start_time_text": "10:44",
+   "start_time_label": "10:44"
+  },
+  {
+   "start_ms": 647360,
+   "end_ms": 649120,
+   "snippet": "at the same time what ends up happening",
+   "start_time_text": "10:47",
+   "start_time_label": "10:47"
+  },
+  {
+   "start_ms": 649120,
+   "end_ms": 651760,
+   "snippet": "is that this increases the value of",
+   "start_time_text": "10:49",
+   "start_time_label": "10:49"
+  },
+  {
+   "start_ms": 651760,
+   "end_ms": 654320,
+   "snippet": "assets and more specifically the value",
+   "start_time_text": "10:51",
+   "start_time_label": "10:51"
+  },
+  {
+   "start_ms": 654320,
+   "end_ms": 656560,
+   "snippet": "of American assets. This is the",
+   "start_time_text": "10:54",
+   "start_time_label": "10:54"
+  },
+  {
+   "start_ms": 656560,
+   "end_ms": 658240,
+   "snippet": "important insight that you need to",
+   "start_time_text": "10:56",
+   "start_time_label": "10:56"
+  },
+  {
+   "start_ms": 658240,
+   "end_ms": 661040,
+   "snippet": "understand that it's not just a one-off",
+   "start_time_text": "10:58",
+   "start_time_label": "10:58"
+  },
+  {
+   "start_ms": 661040,
+   "end_ms": 663040,
+   "snippet": "effect that okay American government is",
+   "start_time_text": "11:01",
+   "start_time_label": "11:01"
+  },
+  {
+   "start_ms": 663040,
+   "end_ms": 665040,
+   "snippet": "printing money spreading the use case of",
+   "start_time_text": "11:03",
+   "start_time_label": "11:03"
+  },
+  {
+   "start_ms": 665040,
+   "end_ms": 666800,
+   "snippet": "US dollar or trying to keep the US",
+   "start_time_text": "11:05",
+   "start_time_label": "11:05"
+  },
+  {
+   "start_ms": 666800,
+   "end_ms": 668640,
+   "snippet": "dollar alive. That's the negative part",
+   "start_time_text": "11:06",
+   "start_time_label": "11:06"
+  },
+  {
+   "start_ms": 668640,
+   "end_ms": 670240,
+   "snippet": "that they are exporting inflation to the",
+   "start_time_text": "11:08",
+   "start_time_label": "11:08"
+  },
+  {
+   "start_ms": 670240,
+   "end_ms": 671839,
+   "snippet": "world or exporting US dollar to the",
+   "start_time_text": "11:10",
+   "start_time_label": "11:10"
+  },
+  {
+   "start_ms": 671839,
+   "end_ms": 674079,
+   "snippet": "world and printing a lot more of it. But",
+   "start_time_text": "11:11",
+   "start_time_label": "11:11"
+  },
+  {
+   "start_ms": 674079,
+   "end_ms": 677519,
+   "snippet": "every time the US prints money basically",
+   "start_time_text": "11:14",
+   "start_time_label": "11:14"
+  },
+  {
+   "start_ms": 677519,
+   "end_ms": 681040,
+   "snippet": "the value of fixed supply assets go up",
+   "start_time_text": "11:17",
+   "start_time_label": "11:17"
+  },
+  {
+   "start_ms": 681040,
+   "end_ms": 683040,
+   "snippet": "especially the American assets. Now a",
+   "start_time_text": "11:21",
+   "start_time_label": "11:21"
+  },
+  {
+   "start_ms": 683040,
+   "end_ms": 685200,
+   "snippet": "very simple way of understanding this is",
+   "start_time_text": "11:23",
+   "start_time_label": "11:23"
+  },
+  {
+   "start_ms": 685200,
+   "end_ms": 687360,
+   "snippet": "that for example right uh let's say that",
+   "start_time_text": "11:25",
+   "start_time_label": "11:25"
+  },
+  {
+   "start_ms": 687360,
+   "end_ms": 689279,
+   "snippet": "you live in a society right where there",
+   "start_time_text": "11:27",
+   "start_time_label": "11:27"
+  },
+  {
+   "start_ms": 689279,
+   "end_ms": 691839,
+   "snippet": "are only five villas okay and each villa",
+   "start_time_text": "11:29",
+   "start_time_label": "11:29"
+  },
+  {
+   "start_ms": 691839,
+   "end_ms": 694800,
+   "snippet": "cost 1 cr rupee hypothetically okay and",
+   "start_time_text": "11:31",
+   "start_time_label": "11:31"
+  },
+  {
+   "start_ms": 694800,
+   "end_ms": 697519,
+   "snippet": "everyone in your society wants to buy a",
+   "start_time_text": "11:34",
+   "start_time_label": "11:34"
+  },
+  {
+   "start_ms": 697519,
+   "end_ms": 699200,
+   "snippet": "villa but they are all living on rent",
+   "start_time_text": "11:37",
+   "start_time_label": "11:37"
+  },
+  {
+   "start_ms": 699200,
+   "end_ms": 701519,
+   "snippet": "okay and everyone has a salary of let's",
+   "start_time_text": "11:39",
+   "start_time_label": "11:39"
+  },
+  {
+   "start_ms": 701519,
+   "end_ms": 703680,
+   "snippet": "say 10 lakh rupees a month or five lakh",
+   "start_time_text": "11:41",
+   "start_time_label": "11:41"
+  },
+  {
+   "start_ms": 703680,
+   "end_ms": 705200,
+   "snippet": "rupees a month let's imagine five lakh",
+   "start_time_text": "11:43",
+   "start_time_label": "11:43"
+  },
+  {
+   "start_ms": 705200,
+   "end_ms": 707040,
+   "snippet": "rupees a month now suddenly what happens",
+   "start_time_text": "11:45",
+   "start_time_label": "11:45"
+  },
+  {
+   "start_ms": 707040,
+   "end_ms": 708399,
+   "snippet": "is that there is something weird that",
+   "start_time_text": "11:47",
+   "start_time_label": "11:47"
+  },
+  {
+   "start_ms": 708399,
+   "end_ms": 709760,
+   "snippet": "happens in the economy that the Indian",
+   "start_time_text": "11:48",
+   "start_time_label": "11:48"
+  },
+  {
+   "start_ms": 709760,
+   "end_ms": 711200,
+   "snippet": "government prints a lot of money gives",
+   "start_time_text": "11:49",
+   "start_time_label": "11:49"
+  },
+  {
+   "start_ms": 711200,
+   "end_ms": 713040,
+   "snippet": "it to like corporates It's all that",
+   "start_time_text": "11:51",
+   "start_time_label": "11:51"
+  },
+  {
+   "start_ms": 713040,
+   "end_ms": 714800,
+   "snippet": "stuff and suddenly everyone's salary who",
+   "start_time_text": "11:53",
+   "start_time_label": "11:53"
+  },
+  {
+   "start_ms": 714800,
+   "end_ms": 717680,
+   "snippet": "is living there in that society it 3xes.",
+   "start_time_text": "11:54",
+   "start_time_label": "11:54"
+  },
+  {
+   "start_ms": 717680,
+   "end_ms": 720720,
+   "snippet": "Do you think that the value of that",
+   "start_time_text": "11:57",
+   "start_time_label": "11:57"
+  },
+  {
+   "start_ms": 720720,
+   "end_ms": 723040,
+   "snippet": "villa is going to go up? The short",
+   "start_time_text": "12:00",
+   "start_time_label": "12:00"
+  },
+  {
+   "start_ms": 723040,
+   "end_ms": 726000,
+   "snippet": "answer is 100% yes. The value of the",
+   "start_time_text": "12:03",
+   "start_time_label": "12:03"
+  },
+  {
+   "start_ms": 726000,
+   "end_ms": 727600,
+   "snippet": "villa goes up because there are only",
+   "start_time_text": "12:06",
+   "start_time_label": "12:06"
+  },
+  {
+   "start_ms": 727600,
+   "end_ms": 729519,
+   "snippet": "going to be five villas in that society.",
+   "start_time_text": "12:07",
+   "start_time_label": "12:07"
+  },
+  {
+   "start_ms": 729519,
+   "end_ms": 731600,
+   "snippet": "Everyone wants to buy it and suddenly",
+   "start_time_text": "12:09",
+   "start_time_label": "12:09"
+  },
+  {
+   "start_ms": 731600,
+   "end_ms": 733760,
+   "snippet": "there is a lot more money flowing into",
+   "start_time_text": "12:11",
+   "start_time_label": "12:11"
+  },
+  {
+   "start_ms": 733760,
+   "end_ms": 736079,
+   "snippet": "that market. Okay. And therefore the",
+   "start_time_text": "12:13",
+   "start_time_label": "12:13"
+  },
+  {
+   "start_ms": 736079,
+   "end_ms": 738000,
+   "snippet": "value of the asset which is the villa",
+   "start_time_text": "12:16",
+   "start_time_label": "12:16"
+  },
+  {
+   "start_ms": 738000,
+   "end_ms": 740160,
+   "snippet": "went up. Now American stock market is",
+   "start_time_text": "12:18",
+   "start_time_label": "12:18"
+  },
+  {
+   "start_ms": 740160,
+   "end_ms": 742399,
+   "snippet": "not very different. Okay. Basically, if",
+   "start_time_text": "12:20",
+   "start_time_label": "12:20"
+  },
+  {
+   "start_ms": 742399,
+   "end_ms": 745360,
+   "snippet": "you consider QQQ to be an asset and",
+   "start_time_text": "12:22",
+   "start_time_label": "12:22"
+  },
+  {
+   "start_ms": 745360,
+   "end_ms": 747360,
+   "snippet": "American government the supplier of",
+   "start_time_text": "12:25",
+   "start_time_label": "12:25"
+  },
+  {
+   "start_ms": 747360,
+   "end_ms": 749839,
+   "snippet": "money, whenever American government",
+   "start_time_text": "12:27",
+   "start_time_label": "12:27"
+  },
+  {
+   "start_ms": 749839,
+   "end_ms": 752399,
+   "snippet": "keeps on increasing this debt, the",
+   "start_time_text": "12:29",
+   "start_time_label": "12:29"
+  },
+  {
+   "start_ms": 752399,
+   "end_ms": 755920,
+   "snippet": "primary beneficiary becomes the US tech",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 755920,
+   "end_ms": 758000,
+   "snippet": "companies. Now, this brings us to the",
+   "start_time_text": "12:35",
+   "start_time_label": "12:35"
+  },
+  {
+   "start_ms": 758000,
+   "end_ms": 759839,
+   "snippet": "third part and I will explain this",
+   "start_time_text": "12:38",
+   "start_time_label": "12:38"
+  },
+  {
+   "start_ms": 759839,
+   "end_ms": 762000,
+   "snippet": "statement that hey, US government",
+   "start_time_text": "12:39",
+   "start_time_label": "12:39"
+  },
+  {
+   "start_ms": 762000,
+   "end_ms": 764560,
+   "snippet": "printing a lot of money, why is it that",
+   "start_time_text": "12:42",
+   "start_time_label": "12:42"
+  },
+  {
+   "start_ms": 764560,
+   "end_ms": 766399,
+   "snippet": "American tech companies are going to go",
+   "start_time_text": "12:44",
+   "start_time_label": "12:44"
+  },
+  {
+   "start_ms": 766399,
+   "end_ms": 768560,
+   "snippet": "up when the US government prints a lot",
+   "start_time_text": "12:46",
+   "start_time_label": "12:46"
+  },
+  {
+   "start_ms": 768560,
+   "end_ms": 770639,
+   "snippet": "of money? Okay. So, okay. So let me",
+   "start_time_text": "12:48",
+   "start_time_label": "12:48"
+  },
+  {
+   "start_ms": 770639,
+   "end_ms": 772959,
+   "snippet": "quickly open up my tab and explain it.",
+   "start_time_text": "12:50",
+   "start_time_label": "12:50"
+  },
+  {
+   "start_ms": 772959,
+   "end_ms": 774800,
+   "snippet": "So okay so the flowchart looks something",
+   "start_time_text": "12:52",
+   "start_time_label": "12:52"
+  },
+  {
+   "start_ms": 774800,
+   "end_ms": 776639,
+   "snippet": "like this that the US government prints",
+   "start_time_text": "12:54",
+   "start_time_label": "12:54"
+  },
+  {
+   "start_ms": 776639,
+   "end_ms": 779200,
+   "snippet": "money. Now if you are debating me right",
+   "start_time_text": "12:56",
+   "start_time_label": "12:56"
+  },
+  {
+   "start_ms": 779200,
+   "end_ms": 781120,
+   "snippet": "on this topic and you say that you know",
+   "start_time_text": "12:59",
+   "start_time_label": "12:59"
+  },
+  {
+   "start_ms": 781120,
+   "end_ms": 783360,
+   "snippet": "what no money will not flow to the US",
+   "start_time_text": "13:01",
+   "start_time_label": "13:01"
+  },
+  {
+   "start_ms": 783360,
+   "end_ms": 785040,
+   "snippet": "market. In fact I believe that the US",
+   "start_time_text": "13:03",
+   "start_time_label": "13:03"
+  },
+  {
+   "start_ms": 785040,
+   "end_ms": 786880,
+   "snippet": "government is going to print less money",
+   "start_time_text": "13:05",
+   "start_time_label": "13:05"
+  },
+  {
+   "start_ms": 786880,
+   "end_ms": 788720,
+   "snippet": "then this hypothesis is not correct for",
+   "start_time_text": "13:06",
+   "start_time_label": "13:06"
+  },
+  {
+   "start_ms": 788720,
+   "end_ms": 790399,
+   "snippet": "you. I'm working with the assumption",
+   "start_time_text": "13:08",
+   "start_time_label": "13:08"
+  },
+  {
+   "start_ms": 790399,
+   "end_ms": 792639,
+   "snippet": "that the US government will continue to",
+   "start_time_text": "13:10",
+   "start_time_label": "13:10"
+  },
+  {
+   "start_ms": 792639,
+   "end_ms": 794720,
+   "snippet": "increase its debt. I've already given an",
+   "start_time_text": "13:12",
+   "start_time_label": "13:12"
+  },
+  {
+   "start_ms": 794720,
+   "end_ms": 797519,
+   "snippet": "explainer why that is the most likely",
+   "start_time_text": "13:14",
+   "start_time_label": "13:14"
+  },
+  {
+   "start_ms": 797519,
+   "end_ms": 799040,
+   "snippet": "scenario. It's already there. it's",
+   "start_time_text": "13:17",
+   "start_time_label": "13:17"
+  },
+  {
+   "start_ms": 799040,
+   "end_ms": 800639,
+   "snippet": "already playing out because US",
+   "start_time_text": "13:19",
+   "start_time_label": "13:19"
+  },
+  {
+   "start_ms": 800639,
+   "end_ms": 802399,
+   "snippet": "government tried to reduce its debt",
+   "start_time_text": "13:20",
+   "start_time_label": "13:20"
+  },
+  {
+   "start_ms": 802399,
+   "end_ms": 803920,
+   "snippet": "right with Doge and everything and it",
+   "start_time_text": "13:22",
+   "start_time_label": "13:22"
+  },
+  {
+   "start_ms": 803920,
+   "end_ms": 805680,
+   "snippet": "did not work out. So anyways, if you",
+   "start_time_text": "13:23",
+   "start_time_label": "13:23"
+  },
+  {
+   "start_ms": 805680,
+   "end_ms": 806959,
+   "snippet": "work with the assumption that US",
+   "start_time_text": "13:25",
+   "start_time_label": "13:25"
+  },
+  {
+   "start_ms": 806959,
+   "end_ms": 808480,
+   "snippet": "government is going to print more money",
+   "start_time_text": "13:26",
+   "start_time_label": "13:26"
+  },
+  {
+   "start_ms": 808480,
+   "end_ms": 810320,
+   "snippet": "then a natural question becomes that",
+   "start_time_text": "13:28",
+   "start_time_label": "13:28"
+  },
+  {
+   "start_ms": 810320,
+   "end_ms": 813440,
+   "snippet": "okay, who will get the most money flow",
+   "start_time_text": "13:30",
+   "start_time_label": "13:30"
+  },
+  {
+   "start_ms": 813440,
+   "end_ms": 816639,
+   "snippet": "and here it's a combination of uh the",
+   "start_time_text": "13:33",
+   "start_time_label": "13:33"
+  },
+  {
+   "start_ms": 816639,
+   "end_ms": 819760,
+   "snippet": "political system plus the strength of",
+   "start_time_text": "13:36",
+   "start_time_label": "13:36"
+  },
+  {
+   "start_ms": 819760,
+   "end_ms": 822480,
+   "snippet": "companies or strength of capitalist who",
+   "start_time_text": "13:39",
+   "start_time_label": "13:39"
+  },
+  {
+   "start_ms": 822480,
+   "end_ms": 824399,
+   "snippet": "can get access to more of that money.",
+   "start_time_text": "13:42",
+   "start_time_label": "13:42"
+  },
+  {
+   "start_ms": 824399,
+   "end_ms": 826480,
+   "snippet": "It's like so many fishes are flowing.",
+   "start_time_text": "13:44",
+   "start_time_label": "13:44"
+  },
+  {
+   "start_ms": 826480,
+   "end_ms": 828720,
+   "snippet": "Okay. But if someone if the government",
+   "start_time_text": "13:46",
+   "start_time_label": "13:46"
+  },
+  {
+   "start_ms": 828720,
+   "end_ms": 830160,
+   "snippet": "comes and says that you know what only",
+   "start_time_text": "13:48",
+   "start_time_label": "13:48"
+  },
+  {
+   "start_ms": 830160,
+   "end_ms": 832560,
+   "snippet": "Akshhat can do fishing in this stretch",
+   "start_time_text": "13:50",
+   "start_time_label": "13:50"
+  },
+  {
+   "start_ms": 832560,
+   "end_ms": 834320,
+   "snippet": "or these you know in this particular",
+   "start_time_text": "13:52",
+   "start_time_label": "13:52"
+  },
+  {
+   "start_ms": 834320,
+   "end_ms": 836560,
+   "snippet": "river then guess what right Axhat is",
+   "start_time_text": "13:54",
+   "start_time_label": "13:54"
+  },
+  {
+   "start_ms": 836560,
+   "end_ms": 837839,
+   "snippet": "going to have a monopoly right in terms",
+   "start_time_text": "13:56",
+   "start_time_label": "13:56"
+  },
+  {
+   "start_ms": 837839,
+   "end_ms": 839839,
+   "snippet": "of catching those fish no one else can",
+   "start_time_text": "13:57",
+   "start_time_label": "13:57"
+  },
+  {
+   "start_ms": 839839,
+   "end_ms": 841040,
+   "snippet": "do it because the government has",
+   "start_time_text": "13:59",
+   "start_time_label": "13:59"
+  },
+  {
+   "start_ms": 841040,
+   "end_ms": 843199,
+   "snippet": "mandated it that way. So a natural",
+   "start_time_text": "14:01",
+   "start_time_label": "14:01"
+  },
+  {
+   "start_ms": 843199,
+   "end_ms": 845360,
+   "snippet": "qualitative assumption here is that if",
+   "start_time_text": "14:03",
+   "start_time_label": "14:03"
+  },
+  {
+   "start_ms": 845360,
+   "end_ms": 848160,
+   "snippet": "you look back step back and think who",
+   "start_time_text": "14:05",
+   "start_time_label": "14:05"
+  },
+  {
+   "start_ms": 848160,
+   "end_ms": 850480,
+   "snippet": "actually controls American politicians",
+   "start_time_text": "14:08",
+   "start_time_label": "14:08"
+  },
+  {
+   "start_ms": 850480,
+   "end_ms": 853199,
+   "snippet": "would you say it would be non- tech",
+   "start_time_text": "14:10",
+   "start_time_label": "14:10"
+  },
+  {
+   "start_ms": 853199,
+   "end_ms": 855680,
+   "snippet": "companies in the US no some of you will",
+   "start_time_text": "14:13",
+   "start_time_label": "14:13"
+  },
+  {
+   "start_ms": 855680,
+   "end_ms": 857680,
+   "snippet": "start writing Israel or whatever right I",
+   "start_time_text": "14:15",
+   "start_time_label": "14:15"
+  },
+  {
+   "start_ms": 857680,
+   "end_ms": 859600,
+   "snippet": "mean that's besides the point but I",
+   "start_time_text": "14:17",
+   "start_time_label": "14:17"
+  },
+  {
+   "start_ms": 859600,
+   "end_ms": 861120,
+   "snippet": "would make the argument that it's the",
+   "start_time_text": "14:19",
+   "start_time_label": "14:19"
+  },
+  {
+   "start_ms": 861120,
+   "end_ms": 863199,
+   "snippet": "American capitalist especially tech",
+   "start_time_text": "14:21",
+   "start_time_label": "14:21"
+  },
+  {
+   "start_ms": 863199,
+   "end_ms": 865680,
+   "snippet": "capitalist the American tech companies",
+   "start_time_text": "14:23",
+   "start_time_label": "14:23"
+  },
+  {
+   "start_ms": 865680,
+   "end_ms": 868639,
+   "snippet": "they control the US political",
+   "start_time_text": "14:25",
+   "start_time_label": "14:25"
+  },
+  {
+   "start_ms": 868639,
+   "end_ms": 870560,
+   "snippet": "architecture political system why",
+   "start_time_text": "14:28",
+   "start_time_label": "14:28"
+  },
+  {
+   "start_ms": 870560,
+   "end_ms": 872399,
+   "snippet": "because they are the richest Okay. So",
+   "start_time_text": "14:30",
+   "start_time_label": "14:30"
+  },
+  {
+   "start_ms": 872399,
+   "end_ms": 874079,
+   "snippet": "they are able to in you know whatever",
+   "start_time_text": "14:32",
+   "start_time_label": "14:32"
+  },
+  {
+   "start_ms": 874079,
+   "end_ms": 876560,
+   "snippet": "like influence policies by the best",
+   "start_time_text": "14:34",
+   "start_time_label": "14:34"
+  },
+  {
+   "start_ms": 876560,
+   "end_ms": 879680,
+   "snippet": "lawyers fight litigations find the",
+   "start_time_text": "14:36",
+   "start_time_label": "14:36"
+  },
+  {
+   "start_ms": 879680,
+   "end_ms": 881279,
+   "snippet": "public prosecutors whatever like so",
+   "start_time_text": "14:39",
+   "start_time_label": "14:39"
+  },
+  {
+   "start_ms": 881279,
+   "end_ms": 883279,
+   "snippet": "there are so many things okay so that's",
+   "start_time_text": "14:41",
+   "start_time_label": "14:41"
+  },
+  {
+   "start_ms": 883279,
+   "end_ms": 885120,
+   "snippet": "one right now you'll say that okay this",
+   "start_time_text": "14:43",
+   "start_time_label": "14:43"
+  },
+  {
+   "start_ms": 885120,
+   "end_ms": 886880,
+   "snippet": "is just a qualitative assessment that",
+   "start_time_text": "14:45",
+   "start_time_label": "14:45"
+  },
+  {
+   "start_ms": 886880,
+   "end_ms": 888240,
+   "snippet": "you're doing right I mean does it have",
+   "start_time_text": "14:46",
+   "start_time_label": "14:46"
+  },
+  {
+   "start_ms": 888240,
+   "end_ms": 890560,
+   "snippet": "any teeth in terms of some fundamental",
+   "start_time_text": "14:48",
+   "start_time_label": "14:48"
+  },
+  {
+   "start_ms": 890560,
+   "end_ms": 892880,
+   "snippet": "data that you can present yes I can okay",
+   "start_time_text": "14:50",
+   "start_time_label": "14:50"
+  },
+  {
+   "start_ms": 892880,
+   "end_ms": 895600,
+   "snippet": "so for example if you consider the tech",
+   "start_time_text": "14:52",
+   "start_time_label": "14:52"
+  },
+  {
+   "start_ms": 895600,
+   "end_ms": 897600,
+   "snippet": "companies in the US and calculate",
+   "start_time_text": "14:55",
+   "start_time_label": "14:55"
+  },
+  {
+   "start_ms": 897600,
+   "end_ms": 899839,
+   "snippet": "something called as ROIC return a return",
+   "start_time_text": "14:57",
+   "start_time_label": "14:57"
+  },
+  {
+   "start_ms": 899839,
+   "end_ms": 903040,
+   "snippet": "on invested capital. For example, if you",
+   "start_time_text": "14:59",
+   "start_time_label": "14:59"
+  },
+  {
+   "start_ms": 903040,
+   "end_ms": 905279,
+   "snippet": "compare uh companies like Google,",
+   "start_time_text": "15:03",
+   "start_time_label": "15:03"
+  },
+  {
+   "start_ms": 905279,
+   "end_ms": 908399,
+   "snippet": "Microsoft, Meta, they sit on the highest",
+   "start_time_text": "15:05",
+   "start_time_label": "15:05"
+  },
+  {
+   "start_ms": 908399,
+   "end_ms": 910880,
+   "snippet": "operating profit margins, they are able",
+   "start_time_text": "15:08",
+   "start_time_label": "15:08"
+  },
+  {
+   "start_ms": 910880,
+   "end_ms": 913199,
+   "snippet": "to grow their revenues like 2x, 3x,",
+   "start_time_text": "15:10",
+   "start_time_label": "15:10"
+  },
+  {
+   "start_ms": 913199,
+   "end_ms": 915680,
+   "snippet": "right? In every four, five years. They",
+   "start_time_text": "15:13",
+   "start_time_label": "15:13"
+  },
+  {
+   "start_ms": 915680,
+   "end_ms": 919199,
+   "snippet": "are basically like extremely elite",
+   "start_time_text": "15:15",
+   "start_time_label": "15:15"
+  },
+  {
+   "start_ms": 919199,
+   "end_ms": 921839,
+   "snippet": "players which are operating at scale.",
+   "start_time_text": "15:19",
+   "start_time_label": "15:19"
+  },
+  {
+   "start_ms": 921839,
+   "end_ms": 923519,
+   "snippet": "Basically, in simple words, their return",
+   "start_time_text": "15:21",
+   "start_time_label": "15:21"
+  },
+  {
+   "start_ms": 923519,
+   "end_ms": 926160,
+   "snippet": "on invested capital is very very high.",
+   "start_time_text": "15:23",
+   "start_time_label": "15:23"
+  },
+  {
+   "start_ms": 926160,
+   "end_ms": 928160,
+   "snippet": "See what happens is that when a lot of",
+   "start_time_text": "15:26",
+   "start_time_label": "15:26"
+  },
+  {
+   "start_ms": 928160,
+   "end_ms": 930160,
+   "snippet": "money is printed by the US government,",
+   "start_time_text": "15:28",
+   "start_time_label": "15:28"
+  },
+  {
+   "start_ms": 930160,
+   "end_ms": 932000,
+   "snippet": "it flows through the banking system.",
+   "start_time_text": "15:30",
+   "start_time_label": "15:30"
+  },
+  {
+   "start_ms": 932000,
+   "end_ms": 933279,
+   "snippet": "It's not as if that US government will",
+   "start_time_text": "15:32",
+   "start_time_label": "15:32"
+  },
+  {
+   "start_ms": 933279,
+   "end_ms": 934720,
+   "snippet": "print a lot of money and give it to Jeff",
+   "start_time_text": "15:33",
+   "start_time_label": "15:33"
+  },
+  {
+   "start_ms": 934720,
+   "end_ms": 936560,
+   "snippet": "Bezos. No, Jeff Bezos has to get in",
+   "start_time_text": "15:34",
+   "start_time_label": "15:34"
+  },
+  {
+   "start_ms": 936560,
+   "end_ms": 938480,
+   "snippet": "line, right? Prove it to the bank. Then",
+   "start_time_text": "15:36",
+   "start_time_label": "15:36"
+  },
+  {
+   "start_ms": 938480,
+   "end_ms": 940880,
+   "snippet": "why his company is the best in terms of",
+   "start_time_text": "15:38",
+   "start_time_label": "15:38"
+  },
+  {
+   "start_ms": 940880,
+   "end_ms": 943040,
+   "snippet": "borrowing money. And if you look at the",
+   "start_time_text": "15:40",
+   "start_time_label": "15:40"
+  },
+  {
+   "start_ms": 943040,
+   "end_ms": 944959,
+   "snippet": "American tech landscape, for example,",
+   "start_time_text": "15:43",
+   "start_time_label": "15:43"
+  },
+  {
+   "start_ms": 944959,
+   "end_ms": 947120,
+   "snippet": "Google, Meta, Microsoft, what did these",
+   "start_time_text": "15:44",
+   "start_time_label": "15:44"
+  },
+  {
+   "start_ms": 947120,
+   "end_ms": 950720,
+   "snippet": "guys do in the year 2020 2021 right now?",
+   "start_time_text": "15:47",
+   "start_time_label": "15:47"
+  },
+  {
+   "start_ms": 950720,
+   "end_ms": 952959,
+   "snippet": "During 2020 COVID crisis, the interest",
+   "start_time_text": "15:50",
+   "start_time_label": "15:50"
+  },
+  {
+   "start_ms": 952959,
+   "end_ms": 956079,
+   "snippet": "rates were slashed which meant that the",
+   "start_time_text": "15:52",
+   "start_time_label": "15:52"
+  },
+  {
+   "start_ms": 956079,
+   "end_ms": 958079,
+   "snippet": "American debt got cheaper, right? It was",
+   "start_time_text": "15:56",
+   "start_time_label": "15:56"
+  },
+  {
+   "start_ms": 958079,
+   "end_ms": 959839,
+   "snippet": "very easy to borrow money and at a very",
+   "start_time_text": "15:58",
+   "start_time_label": "15:58"
+  },
+  {
+   "start_ms": 959839,
+   "end_ms": 961759,
+   "snippet": "low borrowing rate. Companies like Meta,",
+   "start_time_text": "15:59",
+   "start_time_label": "15:59"
+  },
+  {
+   "start_ms": 961759,
+   "end_ms": 964399,
+   "snippet": "Microsoft, etc., they borrowed ton",
+   "start_time_text": "16:01",
+   "start_time_label": "16:01"
+  },
+  {
+   "start_ms": 964399,
+   "end_ms": 966399,
+   "snippet": "of money. Why? Because they were getting",
+   "start_time_text": "16:04",
+   "start_time_label": "16:04"
+  },
+  {
+   "start_ms": 966399,
+   "end_ms": 969040,
+   "snippet": "debt cheap. Now, why did they why were",
+   "start_time_text": "16:06",
+   "start_time_label": "16:06"
+  },
+  {
+   "start_ms": 969040,
+   "end_ms": 970639,
+   "snippet": "they able to borrow so much money?",
+   "start_time_text": "16:09",
+   "start_time_label": "16:09"
+  },
+  {
+   "start_ms": 970639,
+   "end_ms": 972880,
+   "snippet": "Because they were sitting on pristine",
+   "start_time_text": "16:10",
+   "start_time_label": "16:10"
+  },
+  {
+   "start_ms": 972880,
+   "end_ms": 975279,
+   "snippet": "balance sheet given the nature of their",
+   "start_time_text": "16:12",
+   "start_time_label": "16:12"
+  },
+  {
+   "start_ms": 975279,
+   "end_ms": 978000,
+   "snippet": "business. Okay? So, it's a uh catch 22",
+   "start_time_text": "16:15",
+   "start_time_label": "16:15"
+  },
+  {
+   "start_ms": 978000,
+   "end_ms": 979600,
+   "snippet": "situation. Because these companies are",
+   "start_time_text": "16:18",
+   "start_time_label": "16:18"
+  },
+  {
+   "start_ms": 979600,
+   "end_ms": 982160,
+   "snippet": "so big, they are able to get the capital",
+   "start_time_text": "16:19",
+   "start_time_label": "16:19"
+  },
+  {
+   "start_ms": 982160,
+   "end_ms": 984399,
+   "snippet": "in the cheapest way, right? So here's a",
+   "start_time_text": "16:22",
+   "start_time_label": "16:22"
+  },
+  {
+   "start_ms": 984399,
+   "end_ms": 985839,
+   "snippet": "chart that you might have seen multiple",
+   "start_time_text": "16:24",
+   "start_time_label": "16:24"
+  },
+  {
+   "start_ms": 985839,
+   "end_ms": 987519,
+   "snippet": "times that hey circular financing is",
+   "start_time_text": "16:25",
+   "start_time_label": "16:25"
+  },
+  {
+   "start_ms": 987519,
+   "end_ms": 989519,
+   "snippet": "going on that Nvidia gives money to like",
+   "start_time_text": "16:27",
+   "start_time_label": "16:27"
+  },
+  {
+   "start_ms": 989519,
+   "end_ms": 992480,
+   "snippet": "OpenAI and OpenAI buys like Nvidia's",
+   "start_time_text": "16:29",
+   "start_time_label": "16:29"
+  },
+  {
+   "start_ms": 992480,
+   "end_ms": 994720,
+   "snippet": "product and give money back to Nvidia",
+   "start_time_text": "16:32",
+   "start_time_label": "16:32"
+  },
+  {
+   "start_ms": 994720,
+   "end_ms": 996480,
+   "snippet": "and this circular finance keep on",
+   "start_time_text": "16:34",
+   "start_time_label": "16:34"
+  },
+  {
+   "start_ms": 996480,
+   "end_ms": 998320,
+   "snippet": "happening. Is this happening? Yes. Is",
+   "start_time_text": "16:36",
+   "start_time_label": "16:36"
+  },
+  {
+   "start_ms": 998320,
+   "end_ms": 999600,
+   "snippet": "there something that you can do about",
+   "start_time_text": "16:38",
+   "start_time_label": "16:38"
+  },
+  {
+   "start_ms": 999600,
+   "end_ms": 1002079,
+   "snippet": "it? Nothing. Okay. Now then a natural",
+   "start_time_text": "16:39",
+   "start_time_label": "16:39"
+  },
+  {
+   "start_ms": 1002079,
+   "end_ms": 1003519,
+   "snippet": "question comes that you know okay you",
+   "start_time_text": "16:42",
+   "start_time_label": "16:42"
+  },
+  {
+   "start_ms": 1003519,
+   "end_ms": 1005360,
+   "snippet": "know what this is too much madness",
+   "start_time_text": "16:43",
+   "start_time_label": "16:43"
+  },
+  {
+   "start_ms": 1005360,
+   "end_ms": 1007279,
+   "snippet": "happening. This will burst. Okay. This",
+   "start_time_text": "16:45",
+   "start_time_label": "16:45"
+  },
+  {
+   "start_ms": 1007279,
+   "end_ms": 1009199,
+   "snippet": "is going to burst. This is a thought",
+   "start_time_text": "16:47",
+   "start_time_label": "16:47"
+  },
+  {
+   "start_ms": 1009199,
+   "end_ms": 1011040,
+   "snippet": "that I had experimented with quite a",
+   "start_time_text": "16:49",
+   "start_time_label": "16:49"
+  },
+  {
+   "start_ms": 1011040,
+   "end_ms": 1012639,
+   "snippet": "bit. I have thought deeply about it.",
+   "start_time_text": "16:51",
+   "start_time_label": "16:51"
+  },
+  {
+   "start_ms": 1012639,
+   "end_ms": 1014160,
+   "snippet": "Right? And see guys, what is going to",
+   "start_time_text": "16:52",
+   "start_time_label": "16:52"
+  },
+  {
+   "start_ms": 1014160,
+   "end_ms": 1016480,
+   "snippet": "happen is that if you actually step back",
+   "start_time_text": "16:54",
+   "start_time_label": "16:54"
+  },
+  {
+   "start_ms": 1016480,
+   "end_ms": 1020320,
+   "snippet": "and look at how empires collapse, right?",
+   "start_time_text": "16:56",
+   "start_time_label": "16:56"
+  },
+  {
+   "start_ms": 1020320,
+   "end_ms": 1023360,
+   "snippet": "So how empires collapse, it's not as if",
+   "start_time_text": "17:00",
+   "start_time_label": "17:00"
+  },
+  {
+   "start_ms": 1023360,
+   "end_ms": 1024640,
+   "snippet": "that there is some really big empire,",
+   "start_time_text": "17:03",
+   "start_time_label": "17:03"
+  },
+  {
+   "start_ms": 1024640,
+   "end_ms": 1026400,
+   "snippet": "right? Be it any empire you pick, right?",
+   "start_time_text": "17:04",
+   "start_time_label": "17:04"
+  },
+  {
+   "start_ms": 1026400,
+   "end_ms": 1029679,
+   "snippet": "Be it British Empire or be it uh Mughal",
+   "start_time_text": "17:06",
+   "start_time_label": "17:06"
+  },
+  {
+   "start_ms": 1029679,
+   "end_ms": 1032160,
+   "snippet": "Empire or be it any empire that you",
+   "start_time_text": "17:09",
+   "start_time_label": "17:09"
+  },
+  {
+   "start_ms": 1032160,
+   "end_ms": 1034799,
+   "snippet": "pick. What is the first sign, number one",
+   "start_time_text": "17:12",
+   "start_time_label": "17:12"
+  },
+  {
+   "start_ms": 1034799,
+   "end_ms": 1038480,
+   "snippet": "sign of that empire collapsing? Okay.",
+   "start_time_text": "17:14",
+   "start_time_label": "17:14"
+  },
+  {
+   "start_ms": 1038480,
+   "end_ms": 1041360,
+   "snippet": "The first sign of any empire collapsing",
+   "start_time_text": "17:18",
+   "start_time_label": "17:18"
+  },
+  {
+   "start_ms": 1041360,
+   "end_ms": 1043839,
+   "snippet": "is deflation of currency. Okay. Now,",
+   "start_time_text": "17:21",
+   "start_time_label": "17:21"
+  },
+  {
+   "start_ms": 1043839,
+   "end_ms": 1045120,
+   "snippet": "what is the meaning of deflation of",
+   "start_time_text": "17:23",
+   "start_time_label": "17:23"
+  },
+  {
+   "start_ms": 1045120,
+   "end_ms": 1046799,
+   "snippet": "currency? It means that for example,",
+   "start_time_text": "17:25",
+   "start_time_label": "17:25"
+  },
+  {
+   "start_ms": 1046799,
+   "end_ms": 1048400,
+   "snippet": "Mughals used to have like gold coins,",
+   "start_time_text": "17:26",
+   "start_time_label": "17:26"
+  },
+  {
+   "start_ms": 1048400,
+   "end_ms": 1050000,
+   "snippet": "right? Let's say that the weight of that",
+   "start_time_text": "17:28",
+   "start_time_label": "17:28"
+  },
+  {
+   "start_ms": 1050000,
+   "end_ms": 1052240,
+   "snippet": "gold coin was 5 g. Hypothetically, I",
+   "start_time_text": "17:30",
+   "start_time_label": "17:30"
+  },
+  {
+   "start_ms": 1052240,
+   "end_ms": 1053919,
+   "snippet": "don't know how much was the gold coin",
+   "start_time_text": "17:32",
+   "start_time_label": "17:32"
+  },
+  {
+   "start_ms": 1053919,
+   "end_ms": 1056240,
+   "snippet": "weight. Then over time, right, as the",
+   "start_time_text": "17:33",
+   "start_time_label": "17:33"
+  },
+  {
+   "start_ms": 1056240,
+   "end_ms": 1058320,
+   "snippet": "empire went through stress, period of",
+   "start_time_text": "17:36",
+   "start_time_label": "17:36"
+  },
+  {
+   "start_ms": 1058320,
+   "end_ms": 1060880,
+   "snippet": "stress, they started reducing the",
+   "start_time_text": "17:38",
+   "start_time_label": "17:38"
+  },
+  {
+   "start_ms": 1060880,
+   "end_ms": 1062640,
+   "snippet": "weightage of that gold, right? So from 5",
+   "start_time_text": "17:40",
+   "start_time_label": "17:40"
+  },
+  {
+   "start_ms": 1062640,
+   "end_ms": 1065280,
+   "snippet": "g, it fell to like 3 g, then 1 g, right?",
+   "start_time_text": "17:42",
+   "start_time_label": "17:42"
+  },
+  {
+   "start_ms": 1065280,
+   "end_ms": 1068240,
+   "snippet": "right 50% blended something all that",
+   "start_time_text": "17:45",
+   "start_time_label": "17:45"
+  },
+  {
+   "start_ms": 1068240,
+   "end_ms": 1069760,
+   "snippet": "stuff. So that's basically currency",
+   "start_time_text": "17:48",
+   "start_time_label": "17:48"
+  },
+  {
+   "start_ms": 1069760,
+   "end_ms": 1071679,
+   "snippet": "debasement. Okay, what was happening now",
+   "start_time_text": "17:49",
+   "start_time_label": "17:49"
+  },
+  {
+   "start_ms": 1071679,
+   "end_ms": 1074000,
+   "snippet": "is something like this happening on the",
+   "start_time_text": "17:51",
+   "start_time_label": "17:51"
+  },
+  {
+   "start_ms": 1074000,
+   "end_ms": 1076240,
+   "snippet": "US market as well. Yes, dollar is going",
+   "start_time_text": "17:54",
+   "start_time_label": "17:54"
+  },
+  {
+   "start_ms": 1076240,
+   "end_ms": 1078400,
+   "snippet": "that way, right? No doubt about that.",
+   "start_time_text": "17:56",
+   "start_time_label": "17:56"
+  },
+  {
+   "start_ms": 1078400,
+   "end_ms": 1080960,
+   "snippet": "But what people miss out is that hey,",
+   "start_time_text": "17:58",
+   "start_time_label": "17:58"
+  },
+  {
+   "start_ms": 1080960,
+   "end_ms": 1083039,
+   "snippet": "you know what? Whenever this deflation",
+   "start_time_text": "18:00",
+   "start_time_label": "18:00"
+  },
+  {
+   "start_ms": 1083039,
+   "end_ms": 1085600,
+   "snippet": "of currency happens, two things happen.",
+   "start_time_text": "18:03",
+   "start_time_label": "18:03"
+  },
+  {
+   "start_ms": 1085600,
+   "end_ms": 1088000,
+   "snippet": "Number two, right, is that weaker",
+   "start_time_text": "18:05",
+   "start_time_label": "18:05"
+  },
+  {
+   "start_ms": 1088000,
+   "end_ms": 1091440,
+   "snippet": "players, weaker players get wiped out",
+   "start_time_text": "18:08",
+   "start_time_label": "18:08"
+  },
+  {
+   "start_ms": 1091440,
+   "end_ms": 1093919,
+   "snippet": "first. For example, read about Russian",
+   "start_time_text": "18:11",
+   "start_time_label": "18:11"
+  },
+  {
+   "start_ms": 1093919,
+   "end_ms": 1095919,
+   "snippet": "revolution. Okay. So, for example,",
+   "start_time_text": "18:13",
+   "start_time_label": "18:13"
+  },
+  {
+   "start_ms": 1095919,
+   "end_ms": 1097679,
+   "snippet": "Russia at one point in time used to be",
+   "start_time_text": "18:15",
+   "start_time_label": "18:15"
+  },
+  {
+   "start_ms": 1097679,
+   "end_ms": 1100960,
+   "snippet": "ruled by Zars. Okay. And Zars were so",
+   "start_time_text": "18:17",
+   "start_time_label": "18:17"
+  },
+  {
+   "start_ms": 1100960,
+   "end_ms": 1102960,
+   "snippet": "rich. So rich that they had no clue what",
+   "start_time_text": "18:20",
+   "start_time_label": "18:20"
+  },
+  {
+   "start_ms": 1102960,
+   "end_ms": 1104400,
+   "snippet": "was happening outside the boundaries of",
+   "start_time_text": "18:22",
+   "start_time_label": "18:22"
+  },
+  {
+   "start_ms": 1104400,
+   "end_ms": 1107200,
+   "snippet": "their uh their uh wherever they used to",
+   "start_time_text": "18:24",
+   "start_time_label": "18:24"
+  },
+  {
+   "start_ms": 1107200,
+   "end_ms": 1110000,
+   "snippet": "live like in their castles. And who do",
+   "start_time_text": "18:27",
+   "start_time_label": "18:27"
+  },
+  {
+   "start_ms": 1110000,
+   "end_ms": 1111919,
+   "snippet": "you think suffered the most? Well, poor",
+   "start_time_text": "18:30",
+   "start_time_label": "18:30"
+  },
+  {
+   "start_ms": 1111919,
+   "end_ms": 1113679,
+   "snippet": "people. Now, poor people did not have",
+   "start_time_text": "18:31",
+   "start_time_label": "18:31"
+  },
+  {
+   "start_ms": 1113679,
+   "end_ms": 1115919,
+   "snippet": "even one meal to eat a day. And Zars",
+   "start_time_text": "18:33",
+   "start_time_label": "18:33"
+  },
+  {
+   "start_ms": 1115919,
+   "end_ms": 1117440,
+   "snippet": "during that time were eating like I",
+   "start_time_text": "18:35",
+   "start_time_label": "18:35"
+  },
+  {
+   "start_ms": 1117440,
+   "end_ms": 1119039,
+   "snippet": "don't know six lavish meals with a lot",
+   "start_time_text": "18:37",
+   "start_time_label": "18:37"
+  },
+  {
+   "start_ms": 1119039,
+   "end_ms": 1120799,
+   "snippet": "of like you know sort of high-end things",
+   "start_time_text": "18:39",
+   "start_time_label": "18:39"
+  },
+  {
+   "start_ms": 1120799,
+   "end_ms": 1122880,
+   "snippet": "and whatnot. Okay. Rich people are the",
+   "start_time_text": "18:40",
+   "start_time_label": "18:40"
+  },
+  {
+   "start_ms": 1122880,
+   "end_ms": 1125440,
+   "snippet": "last to go. Okay. Now what is happening",
+   "start_time_text": "18:42",
+   "start_time_label": "18:42"
+  },
+  {
+   "start_ms": 1125440,
+   "end_ms": 1127520,
+   "snippet": "is that if you study this from a empire",
+   "start_time_text": "18:45",
+   "start_time_label": "18:45"
+  },
+  {
+   "start_ms": 1127520,
+   "end_ms": 1129440,
+   "snippet": "perspective also, right? It's quite",
+   "start_time_text": "18:47",
+   "start_time_label": "18:47"
+  },
+  {
+   "start_ms": 1129440,
+   "end_ms": 1132080,
+   "snippet": "evident that right now American",
+   "start_time_text": "18:49",
+   "start_time_label": "18:49"
+  },
+  {
+   "start_ms": 1132080,
+   "end_ms": 1134080,
+   "snippet": "government is being ruled by tech",
+   "start_time_text": "18:52",
+   "start_time_label": "18:52"
+  },
+  {
+   "start_ms": 1134080,
+   "end_ms": 1136240,
+   "snippet": "capitalists. They own companies, right?",
+   "start_time_text": "18:54",
+   "start_time_label": "18:54"
+  },
+  {
+   "start_ms": 1136240,
+   "end_ms": 1137919,
+   "snippet": "And they are the ones who are propping",
+   "start_time_text": "18:56",
+   "start_time_label": "18:56"
+  },
+  {
+   "start_ms": 1137919,
+   "end_ms": 1140000,
+   "snippet": "up the circular finance game. If this",
+   "start_time_text": "18:57",
+   "start_time_label": "18:57"
+  },
+  {
+   "start_ms": 1140000,
+   "end_ms": 1143600,
+   "snippet": "circular financing game gets burst, who",
+   "start_time_text": "19:00",
+   "start_time_label": "19:00"
+  },
+  {
+   "start_ms": 1143600,
+   "end_ms": 1145600,
+   "snippet": "is going to suffer the most? Well, I",
+   "start_time_text": "19:03",
+   "start_time_label": "19:03"
+  },
+  {
+   "start_ms": 1145600,
+   "end_ms": 1147919,
+   "snippet": "would say weaker markets are going to",
+   "start_time_text": "19:05",
+   "start_time_label": "19:05"
+  },
+  {
+   "start_ms": 1147919,
+   "end_ms": 1150720,
+   "snippet": "suffer first and at the last. Okay, it's",
+   "start_time_text": "19:07",
+   "start_time_label": "19:07"
+  },
+  {
+   "start_ms": 1150720,
+   "end_ms": 1153280,
+   "snippet": "a it's a domino effect. the last impact",
+   "start_time_text": "19:10",
+   "start_time_label": "19:10"
+  },
+  {
+   "start_ms": 1153280,
+   "end_ms": 1155840,
+   "snippet": "is going to come last on these tech",
+   "start_time_text": "19:13",
+   "start_time_label": "19:13"
+  },
+  {
+   "start_ms": 1155840,
+   "end_ms": 1157360,
+   "snippet": "companies. Okay, it sounds",
+   "start_time_text": "19:15",
+   "start_time_label": "19:15"
+  },
+  {
+   "start_ms": 1157360,
+   "end_ms": 1158880,
+   "snippet": "counterintuitive but just think about",
+   "start_time_text": "19:17",
+   "start_time_label": "19:17"
+  },
+  {
+   "start_ms": 1158880,
+   "end_ms": 1160480,
+   "snippet": "it. Okay, that's that's my push to you.",
+   "start_time_text": "19:18",
+   "start_time_label": "19:18"
+  },
+  {
+   "start_ms": 1160480,
+   "end_ms": 1162640,
+   "snippet": "Right, so this is one. So this is one",
+   "start_time_text": "19:20",
+   "start_time_label": "19:20"
+  },
+  {
+   "start_ms": 1162640,
+   "end_ms": 1164880,
+   "snippet": "and next key point is that what will",
+   "start_time_text": "19:22",
+   "start_time_label": "19:22"
+  },
+  {
+   "start_ms": 1164880,
+   "end_ms": 1167360,
+   "snippet": "happen meanwhile is that the value of",
+   "start_time_text": "19:24",
+   "start_time_label": "19:24"
+  },
+  {
+   "start_ms": 1167360,
+   "end_ms": 1170080,
+   "snippet": "assets is going to go up. Now what is",
+   "start_time_text": "19:27",
+   "start_time_label": "19:27"
+  },
+  {
+   "start_ms": 1170080,
+   "end_ms": 1172480,
+   "snippet": "the meaning of value of assets going up?",
+   "start_time_text": "19:30",
+   "start_time_label": "19:30"
+  },
+  {
+   "start_ms": 1172480,
+   "end_ms": 1174400,
+   "snippet": "Now assets are things which have fixed",
+   "start_time_text": "19:32",
+   "start_time_label": "19:32"
+  },
+  {
+   "start_ms": 1174400,
+   "end_ms": 1177200,
+   "snippet": "supply. For example, house, right? Or",
+   "start_time_text": "19:34",
+   "start_time_label": "19:34"
+  },
+  {
+   "start_ms": 1177200,
+   "end_ms": 1179760,
+   "snippet": "gold or silver. It has pro possibly like",
+   "start_time_text": "19:37",
+   "start_time_label": "19:37"
+  },
+  {
+   "start_ms": 1179760,
+   "end_ms": 1181840,
+   "snippet": "limited supply, right? Now what we think",
+   "start_time_text": "19:39",
+   "start_time_label": "19:39"
+  },
+  {
+   "start_ms": 1181840,
+   "end_ms": 1184160,
+   "snippet": "is that hey gold has limited supply uh",
+   "start_time_text": "19:41",
+   "start_time_label": "19:41"
+  },
+  {
+   "start_ms": 1184160,
+   "end_ms": 1186640,
+   "snippet": "but tech stocks have unlimited supply",
+   "start_time_text": "19:44",
+   "start_time_label": "19:44"
+  },
+  {
+   "start_ms": 1186640,
+   "end_ms": 1188640,
+   "snippet": "technically you are right right the",
+   "start_time_text": "19:46",
+   "start_time_label": "19:46"
+  },
+  {
+   "start_ms": 1188640,
+   "end_ms": 1190160,
+   "snippet": "argument that you're missing here is",
+   "start_time_text": "19:48",
+   "start_time_label": "19:48"
+  },
+  {
+   "start_ms": 1190160,
+   "end_ms": 1192080,
+   "snippet": "that right now the control of that",
+   "start_time_text": "19:50",
+   "start_time_label": "19:50"
+  },
+  {
+   "start_ms": 1192080,
+   "end_ms": 1194160,
+   "snippet": "entire supply is held by the government",
+   "start_time_text": "19:52",
+   "start_time_label": "19:52"
+  },
+  {
+   "start_ms": 1194160,
+   "end_ms": 1196080,
+   "snippet": "okay so this is an important point that",
+   "start_time_text": "19:54",
+   "start_time_label": "19:54"
+  },
+  {
+   "start_ms": 1196080,
+   "end_ms": 1197840,
+   "snippet": "in the old times gold used to be there",
+   "start_time_text": "19:56",
+   "start_time_label": "19:56"
+  },
+  {
+   "start_ms": 1197840,
+   "end_ms": 1200400,
+   "snippet": "it was the apex currency but the control",
+   "start_time_text": "19:57",
+   "start_time_label": "19:57"
+  },
+  {
+   "start_ms": 1200400,
+   "end_ms": 1202400,
+   "snippet": "used to be with you right now the",
+   "start_time_text": "20:00",
+   "start_time_label": "20:00"
+  },
+  {
+   "start_ms": 1202400,
+   "end_ms": 1204000,
+   "snippet": "control of gold is with the government",
+   "start_time_text": "20:02",
+   "start_time_label": "20:02"
+  },
+  {
+   "start_ms": 1204000,
+   "end_ms": 1206080,
+   "snippet": "how exactly right for example if the",
+   "start_time_text": "20:04",
+   "start_time_label": "20:04"
+  },
+  {
+   "start_ms": 1206080,
+   "end_ms": 1208240,
+   "snippet": "government bans selling of gold right",
+   "start_time_text": "20:06",
+   "start_time_label": "20:06"
+  },
+  {
+   "start_ms": 1208240,
+   "end_ms": 1209679,
+   "snippet": "you might be sitting on I don't know 10",
+   "start_time_text": "20:08",
+   "start_time_label": "20:08"
+  },
+  {
+   "start_ms": 1209679,
+   "end_ms": 1211280,
+   "snippet": "kgs of gold in your locker Can you",
+   "start_time_text": "20:09",
+   "start_time_label": "20:09"
+  },
+  {
+   "start_ms": 1211280,
+   "end_ms": 1212880,
+   "snippet": "really sell it? That's the problem.",
+   "start_time_text": "20:11",
+   "start_time_label": "20:11"
+  },
+  {
+   "start_ms": 1212880,
+   "end_ms": 1215280,
+   "snippet": "Okay, you'll say",
+   "start_time_text": "20:12",
+   "start_time_label": "20:12"
+  },
+  {
+   "start_ms": 1215280,
+   "end_ms": 1216799,
+   "snippet": "I'll go to some like you know crossber",
+   "start_time_text": "20:15",
+   "start_time_label": "20:15"
+  },
+  {
+   "start_ms": 1216799,
+   "end_ms": 1220240,
+   "snippet": "country right",
+   "start_time_text": "20:16",
+   "start_time_label": "20:16"
+  },
+  {
+   "start_ms": 1220240,
+   "end_ms": 1222480,
+   "snippet": "good luck do it okay that's the",
+   "start_time_text": "20:20",
+   "start_time_label": "20:20"
+  },
+  {
+   "start_ms": 1222480,
+   "end_ms": 1224240,
+   "snippet": "difference right between oldtime gold",
+   "start_time_text": "20:22",
+   "start_time_label": "20:22"
+  },
+  {
+   "start_ms": 1224240,
+   "end_ms": 1226799,
+   "snippet": "and current mechanics of gold so point",
+   "start_time_text": "20:24",
+   "start_time_label": "20:24"
+  },
+  {
+   "start_ms": 1226799,
+   "end_ms": 1229039,
+   "snippet": "I'm trying to make is that yes gold is a",
+   "start_time_text": "20:26",
+   "start_time_label": "20:26"
+  },
+  {
+   "start_ms": 1229039,
+   "end_ms": 1231600,
+   "snippet": "great asset right and possibly like",
+   "start_time_text": "20:29",
+   "start_time_label": "20:29"
+  },
+  {
+   "start_ms": 1231600,
+   "end_ms": 1233760,
+   "snippet": "possibly the best asset but the problem",
+   "start_time_text": "20:31",
+   "start_time_label": "20:31"
+  },
+  {
+   "start_ms": 1233760,
+   "end_ms": 1235520,
+   "snippet": "is that the governments over time have",
+   "start_time_text": "20:33",
+   "start_time_label": "20:33"
+  },
+  {
+   "start_ms": 1235520,
+   "end_ms": 1238559,
+   "snippet": "become so big and they can surveil the",
+   "start_time_text": "20:35",
+   "start_time_label": "20:35"
+  },
+  {
+   "start_ms": 1238559,
+   "end_ms": 1240720,
+   "snippet": "entire market so easily right with uh",
+   "start_time_text": "20:38",
+   "start_time_label": "20:38"
+  },
+  {
+   "start_ms": 1240720,
+   "end_ms": 1242799,
+   "snippet": "the technology development etc",
+   "start_time_text": "20:40",
+   "start_time_label": "20:40"
+  },
+  {
+   "start_ms": 1242799,
+   "end_ms": 1245600,
+   "snippet": "there is no way that you can go away",
+   "start_time_text": "20:42",
+   "start_time_label": "20:42"
+  },
+  {
+   "start_ms": 1245600,
+   "end_ms": 1247440,
+   "snippet": "from the government's control. Okay, so",
+   "start_time_text": "20:45",
+   "start_time_label": "20:45"
+  },
+  {
+   "start_ms": 1247440,
+   "end_ms": 1248799,
+   "snippet": "this is a very important point and",
+   "start_time_text": "20:47",
+   "start_time_label": "20:47"
+  },
+  {
+   "start_ms": 1248799,
+   "end_ms": 1251039,
+   "snippet": "therefore gold in the old times used to",
+   "start_time_text": "20:48",
+   "start_time_label": "20:48"
+  },
+  {
+   "start_ms": 1251039,
+   "end_ms": 1253520,
+   "snippet": "have a lot of value. It still has but",
+   "start_time_text": "20:51",
+   "start_time_label": "20:51"
+  },
+  {
+   "start_ms": 1253520,
+   "end_ms": 1255200,
+   "snippet": "gold in the old days used to be free.",
+   "start_time_text": "20:53",
+   "start_time_label": "20:53"
+  },
+  {
+   "start_ms": 1255200,
+   "end_ms": 1256640,
+   "snippet": "Now it is not, right? So long story",
+   "start_time_text": "20:55",
+   "start_time_label": "20:55"
+  },
+  {
+   "start_ms": 1256640,
+   "end_ms": 1258480,
+   "snippet": "short, what I'm getting at is that yes,",
+   "start_time_text": "20:56",
+   "start_time_label": "20:56"
+  },
+  {
+   "start_ms": 1258480,
+   "end_ms": 1261039,
+   "snippet": "tech stocks are assets, right? And they",
+   "start_time_text": "20:58",
+   "start_time_label": "20:58"
+  },
+  {
+   "start_ms": 1261039,
+   "end_ms": 1263039,
+   "snippet": "can be deflated, right? But again,",
+   "start_time_text": "21:01",
+   "start_time_label": "21:01"
+  },
+  {
+   "start_ms": 1263039,
+   "end_ms": 1265280,
+   "snippet": "government exerts control on tech stocks",
+   "start_time_text": "21:03",
+   "start_time_label": "21:03"
+  },
+  {
+   "start_ms": 1265280,
+   "end_ms": 1267440,
+   "snippet": "also and government exerts control on",
+   "start_time_text": "21:05",
+   "start_time_label": "21:05"
+  },
+  {
+   "start_ms": 1267440,
+   "end_ms": 1269600,
+   "snippet": "gold also. Now let's imagine a scenario",
+   "start_time_text": "21:07",
+   "start_time_label": "21:07"
+  },
+  {
+   "start_ms": 1269600,
+   "end_ms": 1271840,
+   "snippet": "where gold becomes extremely powerful",
+   "start_time_text": "21:09",
+   "start_time_label": "21:09"
+  },
+  {
+   "start_ms": 1271840,
+   "end_ms": 1273600,
+   "snippet": "and tech capitalists who actually",
+   "start_time_text": "21:11",
+   "start_time_label": "21:11"
+  },
+  {
+   "start_ms": 1273600,
+   "end_ms": 1275520,
+   "snippet": "control the US government. They start",
+   "start_time_text": "21:13",
+   "start_time_label": "21:13"
+  },
+  {
+   "start_ms": 1275520,
+   "end_ms": 1276799,
+   "snippet": "worrying that you know what people are",
+   "start_time_text": "21:15",
+   "start_time_label": "21:15"
+  },
+  {
+   "start_ms": 1276799,
+   "end_ms": 1278080,
+   "snippet": "going to pull out money from Google,",
+   "start_time_text": "21:16",
+   "start_time_label": "21:16"
+  },
+  {
+   "start_ms": 1278080,
+   "end_ms": 1279679,
+   "snippet": "Amazon, Meta and all these companies and",
+   "start_time_text": "21:18",
+   "start_time_label": "21:18"
+  },
+  {
+   "start_ms": 1279679,
+   "end_ms": 1281600,
+   "snippet": "go to gold and keep their gold safe in",
+   "start_time_text": "21:19",
+   "start_time_label": "21:19"
+  },
+  {
+   "start_ms": 1281600,
+   "end_ms": 1282559,
+   "snippet": "the lockers. What do you think",
+   "start_time_text": "21:21",
+   "start_time_label": "21:21"
+  },
+  {
+   "start_ms": 1282559,
+   "end_ms": 1284080,
+   "snippet": "government is going to do? Right? You're",
+   "start_time_text": "21:22",
+   "start_time_label": "21:22"
+  },
+  {
+   "start_ms": 1284080,
+   "end_ms": 1285360,
+   "snippet": "smart enough to understand right what",
+   "start_time_text": "21:24",
+   "start_time_label": "21:24"
+  },
+  {
+   "start_ms": 1285360,
+   "end_ms": 1286960,
+   "snippet": "the government is going to do right",
+   "start_time_text": "21:25",
+   "start_time_label": "21:25"
+  },
+  {
+   "start_ms": 1286960,
+   "end_ms": 1288400,
+   "snippet": "maybe they will introduce some kind of",
+   "start_time_text": "21:26",
+   "start_time_label": "21:26"
+  },
+  {
+   "start_ms": 1288400,
+   "end_ms": 1291120,
+   "snippet": "taxation. They can uh extract gold from",
+   "start_time_text": "21:28",
+   "start_time_label": "21:28"
+  },
+  {
+   "start_ms": 1291120,
+   "end_ms": 1292720,
+   "snippet": "you. They can siphon off. They can ban",
+   "start_time_text": "21:31",
+   "start_time_label": "21:31"
+  },
+  {
+   "start_ms": 1292720,
+   "end_ms": 1294640,
+   "snippet": "it outright. 100 different things that",
+   "start_time_text": "21:32",
+   "start_time_label": "21:32"
+  },
+  {
+   "start_ms": 1294640,
+   "end_ms": 1296400,
+   "snippet": "they can do. Why? because you always",
+   "start_time_text": "21:34",
+   "start_time_label": "21:34"
+  },
+  {
+   "start_ms": 1296400,
+   "end_ms": 1298400,
+   "snippet": "need to operate with the concept of",
+   "start_time_text": "21:36",
+   "start_time_label": "21:36"
+  },
+  {
+   "start_ms": 1298400,
+   "end_ms": 1300720,
+   "snippet": "incentives, right? There is an incentive",
+   "start_time_text": "21:38",
+   "start_time_label": "21:38"
+  },
+  {
+   "start_ms": 1300720,
+   "end_ms": 1302159,
+   "snippet": "going on, right? And this is a summary",
+   "start_time_text": "21:40",
+   "start_time_label": "21:40"
+  },
+  {
+   "start_ms": 1302159,
+   "end_ms": 1303600,
+   "snippet": "statement I'll present. There is an",
+   "start_time_text": "21:42",
+   "start_time_label": "21:42"
+  },
+  {
+   "start_ms": 1303600,
+   "end_ms": 1305360,
+   "snippet": "incentive for the US government to keep",
+   "start_time_text": "21:43",
+   "start_time_label": "21:43"
+  },
+  {
+   "start_ms": 1305360,
+   "end_ms": 1308240,
+   "snippet": "the tech market alive in the US. Why?",
+   "start_time_text": "21:45",
+   "start_time_label": "21:45"
+  },
+  {
+   "start_ms": 1308240,
+   "end_ms": 1310159,
+   "snippet": "Because it allows them to sell their",
+   "start_time_text": "21:48",
+   "start_time_label": "21:48"
+  },
+  {
+   "start_ms": 1310159,
+   "end_ms": 1312480,
+   "snippet": "dollar dominance. That's one. Second,",
+   "start_time_text": "21:50",
+   "start_time_label": "21:50"
+  },
+  {
+   "start_ms": 1312480,
+   "end_ms": 1314159,
+   "snippet": "they can actually create something of",
+   "start_time_text": "21:52",
+   "start_time_label": "21:52"
+  },
+  {
+   "start_ms": 1314159,
+   "end_ms": 1316159,
+   "snippet": "use, right? I mean, you can okay, fine.",
+   "start_time_text": "21:54",
+   "start_time_label": "21:54"
+  },
+  {
+   "start_ms": 1316159,
+   "end_ms": 1317679,
+   "snippet": "There is like some kind of technological",
+   "start_time_text": "21:56",
+   "start_time_label": "21:56"
+  },
+  {
+   "start_ms": 1317679,
+   "end_ms": 1319200,
+   "snippet": "progress that is happening. Number",
+   "start_time_text": "21:57",
+   "start_time_label": "21:57"
+  },
+  {
+   "start_ms": 1319200,
+   "end_ms": 1321600,
+   "snippet": "three, the US government is controlled",
+   "start_time_text": "21:59",
+   "start_time_label": "21:59"
+  },
+  {
+   "start_ms": 1321600,
+   "end_ms": 1323520,
+   "snippet": "by tech capitalist. There is no way,",
+   "start_time_text": "22:01",
+   "start_time_label": "22:01"
+  },
+  {
+   "start_ms": 1323520,
+   "end_ms": 1325120,
+   "snippet": "right? I mean out of this because",
+   "start_time_text": "22:03",
+   "start_time_label": "22:03"
+  },
+  {
+   "start_ms": 1325120,
+   "end_ms": 1327200,
+   "snippet": "someone controls the politician sitting",
+   "start_time_text": "22:05",
+   "start_time_label": "22:05"
+  },
+  {
+   "start_ms": 1327200,
+   "end_ms": 1328559,
+   "snippet": "right so they are going to frame",
+   "start_time_text": "22:07",
+   "start_time_label": "22:07"
+  },
+  {
+   "start_ms": 1328559,
+   "end_ms": 1330159,
+   "snippet": "policies bunch of other different things",
+   "start_time_text": "22:08",
+   "start_time_label": "22:08"
+  },
+  {
+   "start_ms": 1330159,
+   "end_ms": 1331919,
+   "snippet": "they can't afford the US market to go",
+   "start_time_text": "22:10",
+   "start_time_label": "22:10"
+  },
+  {
+   "start_ms": 1331919,
+   "end_ms": 1333840,
+   "snippet": "down even if you imagine a scenario that",
+   "start_time_text": "22:11",
+   "start_time_label": "22:11"
+  },
+  {
+   "start_ms": 1333840,
+   "end_ms": 1336000,
+   "snippet": "the US market goes down then yes we have",
+   "start_time_text": "22:13",
+   "start_time_label": "22:13"
+  },
+  {
+   "start_ms": 1336000,
+   "end_ms": 1338799,
+   "snippet": "enough historic evidence to work with",
+   "start_time_text": "22:16",
+   "start_time_label": "22:16"
+  },
+  {
+   "start_ms": 1338799,
+   "end_ms": 1340480,
+   "snippet": "right which kind of clearly indicates",
+   "start_time_text": "22:18",
+   "start_time_label": "22:18"
+  },
+  {
+   "start_ms": 1340480,
+   "end_ms": 1342480,
+   "snippet": "that weaker economies are going to go",
+   "start_time_text": "22:20",
+   "start_time_label": "22:20"
+  },
+  {
+   "start_ms": 1342480,
+   "end_ms": 1345280,
+   "snippet": "under first uh anytime before like it",
+   "start_time_text": "22:22",
+   "start_time_label": "22:22"
+  },
+  {
+   "start_ms": 1345280,
+   "end_ms": 1347679,
+   "snippet": "hits the US tech or the US market in",
+   "start_time_text": "22:25",
+   "start_time_label": "22:25"
+  },
+  {
+   "start_ms": 1347679,
+   "end_ms": 1349200,
+   "snippet": "general. So, I hope that I was able to",
+   "start_time_text": "22:27",
+   "start_time_label": "22:27"
+  },
+  {
+   "start_ms": 1349200,
+   "end_ms": 1350799,
+   "snippet": "guide you in the right direction, right?",
+   "start_time_text": "22:29",
+   "start_time_label": "22:29"
+  },
+  {
+   "start_ms": 1350799,
+   "end_ms": 1352559,
+   "snippet": "And at least help you form a macro",
+   "start_time_text": "22:30",
+   "start_time_label": "22:30"
+  },
+  {
+   "start_ms": 1352559,
+   "end_ms": 1354480,
+   "snippet": "thesis. Now, possibly I'll do a",
+   "start_time_text": "22:32",
+   "start_time_label": "22:32"
+  },
+  {
+   "start_ms": 1354480,
+   "end_ms": 1356320,
+   "snippet": "follow-up video for my community members",
+   "start_time_text": "22:34",
+   "start_time_label": "22:34"
+  },
+  {
+   "start_ms": 1356320,
+   "end_ms": 1358480,
+   "snippet": "where I will explain, right, how you can",
+   "start_time_text": "22:36",
+   "start_time_label": "22:36"
+  },
+  {
+   "start_ms": 1358480,
+   "end_ms": 1360799,
+   "snippet": "use this knowledge to pick best segments",
+   "start_time_text": "22:38",
+   "start_time_label": "22:38"
+  },
+  {
+   "start_ms": 1360799,
+   "end_ms": 1362960,
+   "snippet": "and best sectors in the US stock market.",
+   "start_time_text": "22:40",
+   "start_time_label": "22:40"
+  },
+  {
+   "start_ms": 1362960,
+   "end_ms": 1364880,
+   "snippet": "So, in case you are keen to become a",
+   "start_time_text": "22:42",
+   "start_time_label": "22:42"
+  },
+  {
+   "start_ms": 1364880,
+   "end_ms": 1366559,
+   "snippet": "more serious investor, definitely check",
+   "start_time_text": "22:44",
+   "start_time_label": "22:44"
+  },
+  {
+   "start_ms": 1366559,
+   "end_ms": 1368320,
+   "snippet": "out my communities, right? I'm putting",
+   "start_time_text": "22:46",
+   "start_time_label": "22:46"
+  },
+  {
+   "start_ms": 1368320,
+   "end_ms": 1369840,
+   "snippet": "the links in description comment. Thank",
+   "start_time_text": "22:48",
+   "start_time_label": "22:48"
+  },
+  {
+   "start_ms": 1369840,
+   "end_ms": 1370960,
+   "snippet": "you so much for watching and I'll see",
+   "start_time_text": "22:49",
+   "start_time_label": "22:49"
+  },
+  {
+   "start_ms": 1370960,
+   "end_ms": 1374039,
+   "snippet": "you soon.",
+   "start_time_text": "22:50",
+   "start_time_label": "22:50"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "en",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=EG4acdv-H-4"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:23:07"
+}

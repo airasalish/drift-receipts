@@ -1,0 +1,1501 @@
+{
+ "search_metadata": {
+  "id": "6ac9454a8d42f80ff6e94c4e",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/m7_fY5TlA-Q5IcqsYUWZPLbgW_cYF2blSOgk_NPocEA/6ac9454a8d42f80ff6e94c4e.json",
+  "markdown_endpoint": "https://serpapi.com/searches/m7_fY5TlA-Q5IcqsYUWZPLbgW_cYF2blSOgk_NPocEA/6ac9454a8d42f80ff6e94c4e.md",
+  "created_at": "2026-10-09 19:49:30 UTC",
+  "processed_at": "2026-10-09 19:49:30 UTC",
+  "google_news_url": "https://news.google.com/search?q=Pine+Labs+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/m7_fY5TlA-Q5IcqsYUWZPLbgW_cYF2blSOgk_NPocEA/6ac9454a8d42f80ff6e94c4e.html",
+  "total_time_taken": 6.23
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Pine Labs share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Pine Labs vs Nifty 50: 6M Return -0.19% vs -6.49%",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pine-labs-vs-nifty-50-share-price-performance",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/pix-transmissions-vs-nifty-50-returns-compared.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVaSFE1VW5wcWFXcGxORGhyVFJDUUF4ai1CU2dLTWdhQktaekRtZ2s",
+   "date": "10/09/2026, 06:06 AM, +0000 UTC",
+   "iso_date": "2026-10-09T06:06:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Pine Labs, CAMS shares rise up to 4.5% as RBI to allow interoperability between NBFC account aggregators",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/pine-labs-cams-shares-rise-up-to-4-5-as-rbi-to-allow-interoperability-between-nbfc-account-aggregators-14046474.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261006115941_RBI1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDJTR1ZyTXpsNGFqWjVSalkyVFJDZkF4ampCU2dLTWd1TkFJS1pHS3FKSkt2a05R",
+   "date": "10/07/2026, 06:05 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:05:01Z"
+  },
+  {
+   "position": 3,
+   "title": "Explained - Why Paytm, Pine Labs, MobiKwik shares fell up to 10% on Thursday",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/paytm-pine-labs-mobikwik-share-price-sharp-fall-explained-mdr-implementation-timeline-implications-20007288.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/10/paytm-slide-and-upi-mdr-timeline-1-2026-10-d576e3f42b7465aa210230efea014ba7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhREpoWkRacVNtMWZhVzFYVFJDZkF4ampCU2dLTWdhRkFaQW9DUXM",
+   "date": "10/08/2026, 03:59 AM, +0000 UTC",
+   "iso_date": "2026-10-08T03:59:46Z"
+  },
+  {
+   "position": 4,
+   "title": "Pine Labs shares rise 2% after Rs 934 crore block deal, likely Mastercard exit",
+   "source": {
+    "name": "Dealroom",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://app.dealroom.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://app.dealroom.co/news/note/pine-labs-shares-rise-2-after-rs-934-crore-block-deal-likely-mastercard-exit",
+   "thumbnail": "https://sg-imgs.dealroom.co/7e4694ade21c64c41da8bf1016850970.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFORmR6WWsxUmRtZEtTMDlXVFJERUF4aW1CU2dLTWdZUmxJNW5MZ2M",
+   "date": "09/22/2026, 04:49 AM, +0000 UTC",
+   "iso_date": "2026-09-22T04:49:45Z"
+  },
+  {
+   "position": 5,
+   "title": "Pine Labs, CAMS, Moneyview, other fintech stocks rally up to 11% after RBI MPC move. Here’s why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-cams-moneyview-other-fintech-stocks-rally-up-to-11-after-rbi-mpc-move-heres-why/articleshow/134759480.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134759521,width-1200,height-900,resizemode-4,imgsize-2064651/pine-labs-cams-moneyview-other-fintech-stocks-rally-up-to-11-after-rbi-mpc-move-heres-whybr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtZV2h2T0VGSFdsTk9TVVpGVFJEZ0F4aUFCU2dLTWdZQmNJb29PZ1U",
+   "date": "10/07/2026, 07:29 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:29:17Z"
+  },
+  {
+   "position": 6,
+   "title": "Paytm, Mobikwik, Pine Labs shares crash up to 10%. What’s behind the sharp plunge?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://economictimes.indiatimes.com/markets/stocks/news/paytm-mobikwik-pine-labs-shares-crash-up-to-10-whats-behind-the-sharp-plunge/articleshow/134780079.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134780142,width-1200,height-900,resizemode-4,imgsize-2070380/paytm-mobikwik-pine-labs-shares-crash-up-to-10-whats-behind-the-sharp-plungebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5NSFJ3TUY5MlVreFpjVTUzVFJEZ0F4aUFCU2dLTWdZQmtJYmtNZ2c",
+   "date": "10/08/2026, 04:43 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:43:14Z"
+  },
+  {
+   "position": 7,
+   "title": "Pine Labs Stock Jumps 7% As RBI Allows Inter-Operability Among NBFC Account Aggregators",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/pine-labs-share-price-today-rbi-allows-inter-operability-among-nbfc-account-aggregators-12149800",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/sqgu7quk_pine-labs-google-cloud-partner-to-bring-ai-agents-to-indian-merchants_625x300_24_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpSMWxmU1ZObE0zTnpNVE5RVFJDZkF4ampCU2dLTWdhWkpJcXduUVE",
+   "date": "10/07/2026, 06:51 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:51:06Z"
+  },
+  {
+   "position": 8,
+   "title": "Pine Labs Shares Rise After RBI Allows Account Aggregator Interoperability",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/pine-labs-shares-rise-after-rbi-allows-account-aggregator-interoperability/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/05/Pine-Labs-Partners-with-ICICI-Bank-to-Enable-Digital-Rupee-on-PoS-Terminals-EP.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFaMkZoZDFCeVYweFFlak0zVFJDZkF4ampCU2dLTWdZTmdKREx0QVk",
+   "date": "10/07/2026, 07:54 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:54:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Paytm, One Mobikwik, Pine Labs shares dive amid reports of UPI MDR delay",
+   "source": {
+    "name": "Rediff",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rediff.com/news/commentary/2026/oct/08/paytm-one-mobikwik-pine-labs-shares-dive-amid-reports-of-upi-mdr-delay/92c16d0486e4f9a920b40b6ebb938f32",
+   "thumbnail": "https://im.rediff.com/money/2016/sep/15paytm1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVTbXRGTFhReGJqZEJWMjlCVFJDS0F4aVFBeWdLTWdhcFpJeU5xUVk",
+   "date": "10/08/2026, 11:40 AM, +0000 UTC",
+   "iso_date": "2026-10-08T11:40:23Z"
+  },
+  {
+   "position": 10,
+   "title": "Payment Panic: Know Why Paytm, Pine Labs and Other Fintech Shares Slipped 10%",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ayush Khar"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/payment-panic-know-why-paytm-pine-labs-and-other-fintech-shares-slipped-10",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-10-08/3z8ssa1h/paytm-share-price?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBOVU5ITmpoSk5UZExaRXMxVFJDZEF4am1CU2dLTWdheGtvb3l1UVU",
+   "date": "10/08/2026, 08:02 AM, +0000 UTC",
+   "iso_date": "2026-10-08T08:02:49Z"
+  },
+  {
+   "position": 11,
+   "title": "UPI MDR Rollout May Be Deferred To January 2027; Paytm, Pine Labs Stocks Drop",
+   "source": {
+    "name": "ETV Bharat",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.etvbharat.com/en/business/upi-mdr-rollout-may-be-deferred-to-january-2027-paytm-pine-labs-stocks-drop-enn26100806738",
+   "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/08-10-2026/1200-675-27822380-54-27822380-1791464757974.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxNbmRDYTJoUmVtaDRUelF6VFJDZkF4ampCU2dLTWdB",
+   "date": "10/08/2026, 01:06 PM, +0000 UTC",
+   "iso_date": "2026-10-08T13:06:41Z"
+  },
+  {
+   "position": 12,
+   "title": "Explained - Why Paytm, Pine Labs, MobiKwik shares fell up to 10% on Thursday - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_explained-why-paytm-pine-labs-mobikwik-activity-7513848287204945920-GWQM",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQFOZQDuDoC5kA/articleshare-shrink_800/B56aEaNCSSGgAc-/0/1791440987703?e=2147483647&v=beta&t=5eqJkuwSGvhPBpAGmgt16DR910njG4CvY6XrwSO4z7k",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFZbVZuY21nNFoyOHhMVkZhVFJDZkF4ampCU2dLTWdB",
+   "date": "10/08/2026, 06:30 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:30:32Z"
+  },
+  {
+   "position": 13,
+   "title": "Paytm, One Mobikwik, Pine Labs, AvenuesAI shares tumble up to 10% today; here's why - BusinessToday",
+   "source": {
+    "name": "IndiaIPO",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiaipo.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiaipo.in/news/detail/paytm-one-mobikwik-pine-labs-avenuesai-shares-tumble-up-to-10-today-heres-why-businesstoday",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac71693a8dc6-one-mobikwik-systems-plunged-835-per-cent-to-rs-23460-at-928-am--pine-labs-ltd-shares-were-quoti-080538687-16x9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhUVkZQUlVNMlQyY3lNelpPVFJDZkF4ampCU2dLTWdZWk1wSkxJUWc",
+   "date": "10/08/2026, 06:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:37:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Payment stocks today: Paytm, MobiKwik, Pine Labs fall around 5% amid UPI MDR delay report",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/pine-labs-mobikwik-paytm-shares-fall-up-to-7-amid-reports-of-upi-mdr-rollout-deferral-14047322.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260807092541_upi-transfer.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJNVmR1YlVwSWRYaGhUazVuVFJDZkF4ampCU2dLTWdZaFJvZ0xKZ2M",
+   "date": "10/08/2026, 04:43 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:43:05Z"
+  },
+  {
+   "position": 15,
+   "title": "PINE LABS (PINELABS) Share Price Falls 3.93% Today: What the Decline Shows",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pine-labs-share-price-fall-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/PINE_LABS_PINELABS_Share_Price_Falls_393_Today_What_the_Decline_Shows_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNTVk4xVVdWNGNscHFaR2h0VFJDUUF4ai1CU2dLTWdrQkFZeTBER3V4eHdJ",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Paytm, One MobiKwik, Pine Labs Shares Fall Up 10% Amid Reports Of Likely Deferment Of UPI MDR Rollout",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Maumita Mitra"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/paytm-one-mobikwik-pine-labs-shares-fall-up-10-amid-reports-of-likely-deferment-of-upi-mdr-rollout-12154392",
+   "thumbnail": "https://c.ndtvimg.com/2024-02/cm6bvano_paytm_640x480_14_February_24.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpNM0ZRVERReFJHbFFPVlUyVFJDZkF4ampCU2dLTWdZaEpZTE5HUU0",
+   "date": "10/08/2026, 04:48 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:48:26Z"
+  },
+  {
+   "position": 17,
+   "title": "Paytm, MobiKwik, Pine Labs Fall: UPI MDR Deferral Explained",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/upi-mdr-deferral-paytm-mobikwik-pine-labs-shares-crash-up-to-10-percent-why",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/upi-mdr-deferral-report-sends-paytm-mobikwik-and-pine-labs-shares-down-up-to-10.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVkbVpmTW14bmVGOUhVbFZsVFJDUUF4ai1CU2dLTWdrQlFKRERubWsxclFF",
+   "date": "10/08/2026, 07:04 AM, +0000 UTC",
+   "iso_date": "2026-10-08T07:04:04Z"
+  },
+  {
+   "position": 18,
+   "title": "MobiKwik jumps 6%, Paytm gains over 2% ahead of NPCI's UPI MDR deferment decision; Pine Labs slips",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/paytm-mobikwik-gain-over-2-ahead-of-npci-s-upi-mdr-deferment-decision-pine-labs-slips-14048242.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260916100445_UPI-MDR-representative-image.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUakZTUkhORU0xbE9SMmM1VFJDZkF4ampCU2dLTWdZTmNKQ0hOZ1k",
+   "date": "10/09/2026, 04:09 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:09:57Z"
+  },
+  {
+   "position": 19,
+   "title": "Pine Labs, MobiKwik, Paytm Shares Fall on UPI MDR Rollout Delay Reports",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/pine-labs-mobikwik-paytm-shares-fall-on-upi-mdr-rollout-delay-reports/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/08/Screenshot-2026-10-08-at-17-14-49-FII-DII-Data-Live-FII-DII-Trading-Activity-on-NSE-BSE.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZjbDlaZG5aU2RWRTBRMUUzVFJDb0FoaUtDQ2dLTWdhRlVaQmx2Z1U",
+   "date": "10/08/2026, 05:42 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:42:00Z"
+  },
+  {
+   "position": 20,
+   "title": "PINE LABS Share Price Fall With Valuation Context",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pine-labs-share-price-price-fall-2026-09-28",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/pine-labs-pinelabs-share-price-falls-2-41-today-large-cap-fintech-stock-news.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJWREJNVEcwd01USlNRWFpPVFJDUUF4ai1CU2dLTWdZQktaaWpuZ2s",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Mastercard exits Pine Labs, sells entire 4.31% stake for Rs 933.57 crore",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/mastercard-incorporated-exits-pine-labs-13-investors-including-citi-icici-pru-societe-generale-pick-up-4-31-stake-14035771.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/06/20250626124037_pine-labs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMGxqVW14bmVWVm1iblpmVFJDZkF4ampCU2dLTWdhSlU0NXJxUVk",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Pine Labs, MobiKwik, Paytm shares fall up to 7% amid reports of UPI MDR rollout deferral",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:64e35eb3a094b:0-pine-labs-mobikwik-paytm-shares-fall-up-to-7-amid-reports-of-upi-mdr-rollout-deferral/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/08/2026, 04:43 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:43:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Pine Labs, MobiKwik, Paytm shares fall up to 7% amid report of UPI MDR rollout deferral",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:64e35eb3a094b:0-pine-labs-mobikwik-paytm-shares-fall-up-to-7-amid-report-of-upi-mdr-rollout-deferral/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/08/2026, 04:43 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:43:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Pine Labs share price jumps 13%: Fintech stock rises sharply as trading volume explodes",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-share-price-jumps-13-fintech-stock-rises-sharply-as-trading-volume-explodes-11789114309420.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/pine_labs_1789114746295_628c0437-d4a1-4bb1-b2af-b2663a7fca7f_1789114751358_3e4a64e6-11c3-495e-beb9-0f6332236167_714788ea-b05c-4cf6-a82f-8bbc9d2e37e2_a9189fa5-bd22-4a95-a1f3-c384f8b53ad8.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZVUpzTldFM1dIQldabWw0VFJDZkF4ampCU2dLTWdZQkFZaHJqUWM",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Pine Labs Shares Crash 9% Despite Winning Big In New UPI Charges; Buy-On-Dips? Here's Jefferies, Emkay Say",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.goodreturns.in/news/pine-labs-shares-crash-9-despite-winning-big-in-new-upi-charges-buy-on-dips-jefferies-emkay-buy-call-1535055.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/09/pinelabsshareprice1-84031789543172.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWllWFpRZDNkT1VXNWZZemxVVFJDRUF4allCQ2dLTWdtRlVJcVdKR2h6TXdF",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Pine Labs shares rally 13% on record volume; most active stock on NSE",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/pine-labs-shares-rally-13-on-record-volume-most-active-stock-on-nse-126091100577_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2013-02/25/full/1361765097-0004.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZOM0JZU21OemJrTTJSVEZIVFJDakFSamFBU2dLTWdZSnNaTEd2UVk",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Pine Labs shares rise over 2% as 4.3% stake sold in block deal; Mastercard had planned exit",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/pine-labs-shares-rise-over-2-as-4-3-stake-sold-in-block-deal-mastercard-had-planned-exit-14035038.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/06/20250626124037_pine-labs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMGxqVW14bmVWVm1iblpmVFJDZkF4ampCU2dLTWdhSlU0NXJxUVk",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Pine Labs up 7% from day's low amid block deals; MOFSL bullish on stock",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/pine-labs-shares-rise-7-from-day-s-low-amid-block-deals-mofsl-bullish-126092200340_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-06/21/full/1718983325-9809.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpkVzFVZUVkM2NVWmhNbHB4VFJDOEF4aXpCU2dLTWdhZFFveHNKUWM",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Alpha Wave sells almost entire Pine Labs stake in Rs 550 Cr block deal",
+   "source": {
+    "name": "Entrackr",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://entrackr.com/news/alpha-wave-sells-almost-entire-pine-labs-stake-in-rs-550-cr-block-deal-12485107",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/05/25/pine-labs-2026-05-25-17-55-20.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFhRTVMYVRWR09XZEVNamd5VFJDZkF4ampCU2dLTWdhcFJZTE5vUWc",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Pine Labs shares worth ₹550 crore change hands in pre-open block window",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/pine-labs-share-price-block-deal-alpha-wave-likely-seller-shareholding-returns-19981952.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/image-2026-02-678274822fe419fdb052e8b32b892020.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWM05HV1daTE1qVXdSemhmVFJDZkF4ampCU2dLTWdhQlFKQkRvUWM",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Pine Labs Q2 2026 Earnings: Revenue Climbs 25.8% YoY to ₹2,396.2 Crore, Shares Rise 2.84% - Post-Earnings Reaction",
+   "source": {
+    "name": "https://www.siam.in/",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.siam.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.siam.in/aticles-market/Pine-Labs-Q2-2026-Earnings-Revenue-Climbs-258-YoY-to-23962-Crore-Shares-Rise-284-63-4298",
+   "thumbnail": "https://asserts.assertsseo.click/manifest/usstock/2026-10-06/charts/pinelabs_ns_earnings_0cfb262c.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpZM2xwVldselRtcFhiMnN0VFJDUUFSamVBaWdCTWdtQklKS2xtcWNsb3dJ",
+   "date": "10/06/2026, 08:44 AM, +0000 UTC",
+   "iso_date": "2026-10-06T08:44:44Z"
+  },
+  {
+   "position": 32,
+   "title": "Pine Labs Share Price Update: Price Fall, P/E and PEers",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pine-labs-share-price-price-fall-2026-09-23",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/pine-labs-pinelabs-share-price-falls-2-35-to-rs-192-90-today.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRjRGd0VWtRdFpIbHdkRkV6VFJDUUF4ai1CU2dLTWdZQlFKYmlIZ2s",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Pine Labs’ Revenue Up 20% At Rs737 Cr, PAT Grew 4X",
+   "source": {
+    "name": "https://www.fintechbiznews.com/",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fintechbiznews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fintechbiznews.com/fintech-technology/pine-labs-revenue-up-20-at-rs737-cr-pat-grew-4x",
+   "thumbnail": "http://fintechbiznews.com/cdn/images/BlogPost/Original/134297313450374127.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxZbkZ2VDJ0VmRETjRlRXR6VFJEcUF4aUFCQ2dLTWdZcFZZek5JUWc",
+   "date": "10/03/2026, 05:25 PM, +0000 UTC",
+   "iso_date": "2026-10-03T17:25:48Z"
+  },
+  {
+   "position": 34,
+   "title": "Pine Labs shares fall on a likely Rs.892 crore stake sale by Mastercard - Should you buy, sell, or hold?",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:e62729da60bb2:0-pine-labs-shares-fall-on-a-likely-rs-892-crore-stake-sale-by-mastercard-should-you-buy-sell-or-hold/",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Paytm shares upgraded, Pine Labs target raised by JPMorgan after MDR decision",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/paytm-shares-upgraded-pine-labs-target-raised-by-jpmorgan-upi-mdr-decision-19993287.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-f9ddcdb550896e58d71c907f91ab361e.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZVSFF4YjJ4cFFuUjFiRmROVFJDZkF4ampCU2dLTWdZdFZJcHdKUWM",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Pine Labs stock jumps up to 4% as Investec initiates Buy, sees 20% upside on growth, margin expansion",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:c6322a840094b:0-pine-labs-stock-jumps-up-to-4-as-investec-initiates-buy-sees-20-upside-on-growth-margin-expansion/",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Stocks To Buy: Motilal Oswal 'bull case' projects 72% upside for this fintech firm - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_stocks-to-buy-motilal-oswal-bull-case-activity-7507676560326479872-HP-d",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGnC4wOiqSTCw/articleshare-shrink_800/B4DaDCf_ZPHgAc-/0/1789969561500?e=2147483647&v=beta&t=A1G29d8gUf8xQaXgmuKBJ0SI9J7CKKYTpOI-PX7ezp4",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZlbUUwWDI0d2RrZGxhMmxFVFJDZkF4ampCU2dLTWdhbFVZejFJQWs",
+   "date": "09/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-20T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Alpha Wave Ventures offloads Rs 550-crore worth Pine Labs shares; ICICI Pru Life, Morgan Stanley among...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/alpha-wave-ventures-offloads-rs-550-crore-worth-pine-labs-shares-icici-pru-life-morgan-stanley-among-buyers-14021161.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/06/20250626124037_pine-labs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMGxqVW14bmVWVm1iblpmVFJDZkF4ampCU2dLTWdhSlU0NXJxUVk",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Fintech Stocks Slide Amid Reports Of UPI MDR Delay",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shrishti Bisht"
+    ]
+   },
+   "link": "https://inc42.com/buzz/fintech-stocks-slide-amid-reports-of-upi-mdr-delay/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/08/UPI-RBI-featured-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJVbGxoVGxKdVJUTmtOREpQVFJEZ0F4aUFCU2dLTWdZcFpZck9LUWM",
+   "date": "10/08/2026, 08:35 AM, +0000 UTC",
+   "iso_date": "2026-10-08T08:35:51Z"
+  },
+  {
+   "position": 40,
+   "title": "Fintech stocks decline as MDR on UPI likely to be deferred to January 1",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ajinkya Kawale"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/fintech-stocks-decline-as-mdr-on-upi-likely-to-be-deferred-to-january-1-126100801370_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-09/06/full/1788714185-8076.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUbGh0UlVKUlpTMWlkR0ZaVFJER0F4aWtCU2dLTWdhcEk1S09IUWc",
+   "date": "10/08/2026, 02:35 PM, +0000 UTC",
+   "iso_date": "2026-10-08T14:35:31Z"
+  },
+  {
+   "position": 41,
+   "title": "Pine Labs block deal: Mastercard Asia-Pacific to sell entire 4.31% stake for nearly Rs 890 crore",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/companies/pine-labs-block-deal-mastercard-asia-pacific-to-sell-entire-4-31-stake-for-nearly-rs-890-crore-14034751.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/06/20250626124037_pine-labs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMGxqVW14bmVWVm1iblpmVFJDZkF4ampCU2dLTWdhSlU0NXJxUVk",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Authum Investment, Sun TV, Pine Labs shares surge amid spike in volumes; check full list",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Vasudev"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/authum-investment-sun-tv-pine-labs-shares-surge-amid-spike-in-volumes-check-full-list/article-200174/",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Pine Labs Shares Slide 5.6% After Q1 Profit Slumps 67% QoQ",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anjali Jain"
+    ]
+   },
+   "link": "https://inc42.com/buzz/pine-labs-shares-slide-5-6-after-q1-profit-slumps-67-qoq/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Pinelabs-Financials-ftr-1-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRPVjlVYXpKbVRtRnVTV3M0VFJEZ0F4aUFCU2dLTWdhSk1aekZuZ2s",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Pine Labs shares volatile on a likely ₹892 crore stake sale by Mastercard - Should you buy, sell, or hold?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-shares-fall-on-a-likely-892-crore-stake-sale-by-mastercard-should-you-buy-sell-or-hold-11790047274817.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Pine_Labs_1790050206934_j1KI_1790050214701_fd8r_ac14f8cd-32ec-4239-a1ad-5d6c18c05601_XAsT.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkMlJsUjFOdGJWazJha2RGVFJDZkF4ampCU2dLTWdZQklZclV1QVU",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Pine Labs Ltd Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/371576/pine-labs-ltd/shareholding/",
+   "date": "08/28/2026, 02:27 PM, +0000 UTC",
+   "iso_date": "2026-08-28T14:27:35Z"
+  },
+  {
+   "position": 46,
+   "title": "Pine Labs Share Price Fall: Today’s Price Action Explained",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-pine-labs-share-price-price-fall-2026-09-16",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/PINE_LABS_PINELABS_Share_Price_Falls_359_Today_Stock_Hits_Rs_18675_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVllVlJQY0hWclMxZFJZMmRxVFJDUUF4ai1CU2dLTWdrQlFJekRtbWtlYmdF",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Pine Labs shares worth ₹934 crore change hands in a block deal; Mastercard Asia likely seller",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/pine-labs-share-price-block-deal-equity-worth-changes-hands-mastercard-asia-likely-seller-19995338.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/image-2026-02-678274822fe419fdb052e8b32b892020.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWM05HV1daTE1qVXdSemhmVFJDZkF4ampCU2dLTWdhQlFKQkRvUWM",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Pine Labs shares can rally 30%, says Motilal Oswal after initiating coverage with Buy. Here’s why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-shares-can-rally-30-says-motilal-oswal-after-initiating-coverage-with-buy-heres-why/articleshow/134381725.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134381780,width-1200,height-900,resizemode-4,imgsize-1830990/pine-labs-shares-can-rally-30-says-motilal-oswal-after-initiating-coverage-with-buy-heres-whybr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJjVnAwY3prMmQwUm5ZME52VFJEZ0F4aUFCU2dLTWdtQkVZd0pQaVdhQlFN",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Stocks To Buy: Motilal Oswal 'bull case' projects 72% upside for this fintech firm",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/pine-labs-share-price-target-stocks-to-buy-motilal-oswal-bull-case-projects-upside-for-this-fintech-firm-19994517.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-318ce2d0cc15cf523311db50cdf4f581.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJka3hSWDBrM1YyRnlSMHhoVFJDZkF4ampCU2dLTWdhbFVZejFJQWs",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Pine Labs Block Deal: Mastercard Asia likely to sell 4.3% stake at ₹179.50 per share",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/pine-labs-share-price-block-deal-mastercard-asia-likely-to-sell-4-3-stake-at-rs-179-50-per-share-19995118.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/block-deal-2026-08-1e729cf33b821b7ed7848208df36ac84.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNRbGN5VERkU00ySXdRMEZFVFJDZkF4ampCU2dLTWdrSklZcE1LV1NxVVFF",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Why Is Pine Labs Share Price Falling Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-is-pine-labs-share-price-falling",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Why-Is-Pine-Labs-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVVmN4ZFUxV05WOXVja04yVFJDZUF4amxCU2dLTWdhUk1vRUozUUU",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Pine Labs shares rise after Rs 934 crore block deal; Mastercard likely sells stake",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-shares-in-focus-as-mastercard-likely-to-sell-stake-in-rs-892-crore-block-deal/articleshow/134401210.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134401270,width-1200,height-900,resizemode-4,imgsize-1865328/pine-labs-shares-in-focus-as-mastercard-likely-to-sell-stake-in-rs-892-crore-block-dealbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRRa05OU1VJMmREQnpRVXBZVFJEZ0F4aUFCU2dLTWdrQmtJcGtNdWNkYndF",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Pine Labs shares rise over 4% after Q4 results. Why Morgan Stanley forecasts 67% upside",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-shares-rise-over-4-after-q4-results-why-morgan-stanley-forecasts-67-upside/articleshow/131321567.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131321543,width-1200,height-900,resizemode-4,imgsize-24818/pine-labs-shares-rise-over-4-after-q4-results-why-morgan-stanley-forecasts-67-upside.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBRVmw1U0hwbk1FMUdhMFJrVFJEZ0F4aUFCU2dLTWdhQlFvZ3VPUVU",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Pine Labs Share Price at 52 Week Low: IPO Lock-In, Losses and Recovery Outlook 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-pine-labs-share-price-at-52-week-low",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/14133702/Why-Is-Pine-Labs-Share-Price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFjWFpuTkZoNFEwZHRZbWhpVFJDZUF4amxCU2dLTWdZQkVZREo1QUE",
+   "date": "05/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-14T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Pine Labs Share Price Forecast: 3 Year Outlook to 2030",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pine-labs-share-price-forecast-next-3-years",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/Prime-Focus-Share-Price-Outlook-Where-Could-It-Be-by-2030-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlUREJ5Y2pSTWNWOXpWVFpRVFJDZUF4amxCU2dLTWdtWlFvSlJJU0Y2bUFB",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Pine Labs share price jumps 5%: Why new UPI MDR rules could boost earnings - Check new target",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:8dc7a33d4daa0:0-pine-labs-share-price-jumps-5-why-new-upi-mdr-rules-could-boost-earnings-check-new-target/",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Pine Labs Share Price Jumps 7.77% in Five-Week High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/pine-labs-share-price-gains-most-in-5-weeks",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/pine-labs-share-price-gains-most-in-5-weeks.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlVWFJXYlZoeFJFUlNPVTlFVFJDUUF4ai1CU2dLTWdrQkFZN1VER3VwaHdJ",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Pine Labs Q1 FY27 Results Preview",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pine-labs-q1-results-2027-preview",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/Pine-Labs-Q1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1SelZoVW1JdGVIaGZSbVpoVFJDZUF4amxCU2dLTWdrTkVJQ0ZGdXRhV1FB",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Paytm, Pine Labs stocks get bullish brokerage calls after UPI MDR; targets imply up to 35% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/paytm-pine-labs-stocks-get-bullish-brokerage-calls-after-upi-mdr-targets-imply-up-to-35-upside-14031034.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/08/20240828121545_paytm.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTVzFLT0VoQ05uWldWMFpXVFJDZkF4ampCU2dLTWdZRmtwS0Z1Z1k",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Pine Labs Share Price Rising Today, Up 5.16%",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pine-labs-share-price-rising-today-13-july-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/Pine-Labs-Share-Price-Rising-Today.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRWVWxRYUZkRlpVTnpaV2RJVFJDZUF4amxCU2dLTWdhZFU0R01aUUU",
+   "date": "07/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-13T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Pine Labs Shares Rally 4% on Mastercard’s ₹934 Crore Stake Sale",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/pine-labs-shares-rally-4-on-mastercards-%E2%82%B9934-crore-stake-sale/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/03/Pine-Labs-Ep.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOWGgxWVRVNVgyMW1UMDlsVFJDOEF4aXpCU2dLTWdZUkpJcVBtUVE",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Pine Labs stock jumps 4% as brokerages bullish on growth outlook: Citi, UBS say 'buy'; check target prices",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/pine-labs-stock-jumps-4-as-brokerages-bullish-on-growth-outlook-citi-ubs-say-buy-check-target-prices-13951765.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/06/20250626124037_pine-labs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNMGxqVW14bmVWVm1iblpmVFJDZkF4ampCU2dLTWdhSlU0NXJxUVk",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Pine Labs Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/371576/pine-labs-ltd/peer-comparison/",
+   "date": "08/29/2026, 04:04 PM, +0000 UTC",
+   "iso_date": "2026-08-29T16:04:04Z"
+  },
+  {
+   "position": 64,
+   "title": "Pine Labs shares jump 6% after 4.3% equity changed hands in block deal",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/pine-labs-shares-jump-6-per-cent-as-4-3-equity-changed-hands-in-block-deal-556940-2026-09-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab2059ceed2c-mofsl-initiated-coverage-on-the-stock-with-a-buy-rating-and-a-target-price-of-rs-250-a-share--implyi-22354091-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBUbGxEYmpab2RtNW9TVTVPVFJDZkF4ampCU2dLTWdrQlVJNnJ0U1dwQ3dJ",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Earnings call transcript: Pine Labs posts solid Q1 2027 growth, shares edge up",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-pine-labs-posts-solid-q1-2027-growth-shares-edge-up-93CH-4818553",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Vanguard Group picks up over 1% stake each in Avalon Tech, Pine Labs, SJS Enterprises, SKF India",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/vanguard-group-picks-up-over-1-stake-each-in-avalon-tech-pine-labs-sjs-enterprises-skf-india-14033270.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260906045350_stocks5.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdiVzF6VWpkd2JsOWhjRTAwVFJDZkF4ampCU2dLTWdhMU1KUzBGQW8",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Pine Labs block deal: Mastercard Asia-Pacific to sell entire stake worth nearly ₹890 crore: Report",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-block-deal-mastercard-asia-pacific-to-sell-entire-stake-worth-nearly-rs-890-crore-report-11789997088408.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/PINE-LABS-IPO-INTERVIEW-0_1763101608407_1763101637552_1789997140446_708C_c7e636a0-bac4-4a71-a826-d3233c5cd0ae_tzpz.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtaR3B1TjAxZmEyczBYMUJZVFJDZkF4ampCU2dLTWdZSkVaQnJLUWM",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Pine Labs share price target: MOFSL sees 72% upside in bull case - know bear case | Rationale explained",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-share-price-target-mofsl-sees-72-upside-in-bull-case-know-bear-case-rationale-explained-11789993017685.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/pine_labs_1789993188553_KdgL_1789993206233_bK9j_fe3162bc-3d90-4680-a99f-c28a697e4762_HkFQ.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBkekptV2toQ1ppMDVlV2syVFJDZkF4amlCU2dLTWdrSklZQm1tU2lwV1FB",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Pine Labs block deal: Why Mastercard Asia-Pacific is selling its entire stake for ₹890 crore - What should investors do?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-block-deal-why-mastercard-asia-pacific-is-selling-its-entire-stake-for-890-crore-what-should-investors-do-11790040091701.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Pine_labs_1790041841887_cyRw_1790041842056_u3nb_29b6877e-aa5e-4c95-a767-1fc195df3118_Iu0F.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdjVGt6YjIxak9Xb3pURWxSVFJDZkF4amlCU2dLTWdtQlVZaHBwYVhROWdB",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Mastercard sells entire 4.31% Pine Labs stake for Rs 934 Cr",
+   "source": {
+    "name": "Entrackr",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://entrackr.com/news/mastercard-sells-entire-431-pine-labs-stake-for-rs-934-cr-12566712",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/05/25/pine-labs-2026-05-25-17-55-20.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFhRTVMYVRWR09XZEVNamd5VFJDZkF4ampCU2dLTWdhcFJZTE5vUWc",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Pine Labs shares: Over 25% up in a month; Motilal Oswal sees 30% more upside | Buy rating - 'Monetization in motion'",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-shares-over-25-up-in-a-month-motilal-oswal-sees-30-more-upside-buy-rating-monetization-in-motion-11790126241928.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Pine_Labs_1790128760531_V2Rr_1790128760814_0kh4_000d2d5f-f8e4-4846-8e4c-1d5057ea15da_zxDK.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlMVmh2WVRNMlFtUk9UazB6VFJDZkF4amlCU2dLTWdhTlVZeW5LUVU",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Pine Labs shares can gain 20% on earnings growth, higher-margin mix: Investec",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/pine-labs-share-price-can-gain-20-percent-earnings-growth-higher-margin-mix-investec-target-19978015.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-3925dd518487203869ac3b9b30457d3e.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWllV05ZYjFCVk4wZGtWMVpoVFJDZkF4ampCU2dLTWdB",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Pine Labs says report on breakage income 'incorrect and misleading', shares fall up to 5%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/pine-labs-says-report-on-breakage-income-incorrect-and-misleading-shares-fall-up-to-5-13950923.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251107084527_pine-labs1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVbUYzYVVselR6TjVaR04wVFJDZkF4ampCU2dLTWdhRlk0eHJyUVk",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Pine Labs to Deploy 10 Lakh Soundboxes Across India; Shares Price Tanks Over 4%",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Maumita Mitra"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/pine-labs-to-deploy-10-lakh-soundboxes-across-india-shares-price-tanks-over-4-percent-12090655",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/85c65165_pine-labs-ipo.webp?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjbWg2WlMxa1ExQkhXak0xVFJDZkF4amlCU2dLTWdZQllvNDB0UWM",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Pine Labs share price jumps 5%: Why new UPI MDR rules could boost earnings - Check new target",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/pine-labs-share-price-jumps-5-why-new-upi-mdr-rules-could-boost-earnings-check-new-target-11789620515487.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/17/1600x900/logo/Pine_Labs_1_1789621093660_FClY_1789621099680_LY0i_e1332e79-c2f8-4674-82fe-ea14cbc010b2_RmqV.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJjbTk0V21GT2VUWnNjbkk1VFJDZkF4ampCU2dLTWdrQklZanhIT2VncGdJ",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Pine Labs Share Price Target 2026 Analyst Forecast Bull and Bear Case",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pine-labs-share-price-target-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Pine-Labs-Share-Price-Target.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9XbEU0T0hGTWJsZEpiRU5EVFJDZUF4amxCU2dLTWdrSkFZRG01S0FxcEFJ",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Pine Labs Shares Jump to Rs 163 on Rs 550 Cr Block Deal",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/pine-labs-shares-jump-to-rs-163-on-rs-550-cr-block-deal/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/03/Pine-Labs-Ep.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOWGgxWVRVNVgyMW1UMDlsVFJDOEF4aXpCU2dLTWdZUkpJcVBtUVE",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Pine Labs block deal: Mastercard Asia may divest 4.3% equity worth Rs 892 crore",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-block-deal-mastercard-asia-may-divest-4-3-equity-worth-rs-892-crore/articleshow/134392101.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134392128,width-1200,height-900,resizemode-4,imgsize-24818/pine-labs-block-deal-mastercard-asia-may-divest-4-3-equity-worth-rs-892-crorebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUliQzFFWDE5bmFHRjZaMUIxVFJEZ0F4aUFCU2dLTWdZQlFvZ3VPUVU",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Actis Offloads Rs 152 Cr Worth Of Pine Labs Shares In Block Deal",
+   "source": {
+    "name": "BW Disrupt",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bwdisrupt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bwdisrupt.com/article/actis-offloads-rs-152-cr-worth-of-pine-labs-shares-in-block-deal-611662",
+   "thumbnail": "https://static.businessworld.in/pine%20labs_20251103091144_original_image_47.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVjM0ZFVWxsNWJFczVkVGM0VFJDTUF4aUdCaWdLTWdhSm9aTG5QQWM",
+   "date": "06/22/2026, 01:57 PM, +0000 UTC",
+   "iso_date": "2026-06-22T13:57:18Z"
+  },
+  {
+   "position": 80,
+   "title": "Pine Labs Gains As 4.3% Stake Trades In Rs 900 Cr Block Deal",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:a81abf6cfdca2:0-pine-labs-gains-as-4-3-stake-trades-in-rs-900-cr-block-deal/",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "UPI MDR bonanza: Why Paytm may win bigger, but Pine Labs could gain faster",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikhil Agarwal"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/upi-mdr-bonanza-why-paytm-may-win-bigger-but-pine-labs-could-gain-faster/articleshow/134279070.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134279096,width-1200,height-900,resizemode-4,imgsize-2061644/upi-mdr-bonanza-why-paytm-may-win-bigger-but-pine-labs-could-gain-fasterbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJObXBQUTI5WFEyWTVYMlZmVFJEZ0F4aUFCU2dLTWdZQlVKRDF2QVU",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Pine Labs shares up 24% in one month; MOFSL sees 30% further upside; here's target price",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/pine-labs-shares-up-24-in-one-month-mofsl-sees-30-further-upside-heres-target-price-556726-2026-09-21",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab09f08c03b9-pine-labs-is-well-positioned-to-benefit-from-indias-accelerating-digital-payments-ecosystem-210543880-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZUSEpPVUZVM1ZWTkxaekl0VFJDZkF4ampCU2dLTWdZQlFJaDNxQWM",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Pine Labs shares crash 10% as IPO lock-in expiry frees up Rs 17,372 crore stake. Do you own?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/pine-labs-ipo-lock-in-expiry-rs-17372-worth-of-shares-to-free-up-for-trade-today-do-you-own/articleshow/131052625.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131052621,width-1200,height-900,resizemode-4,imgsize-24818/pine-labs-ipo-lock-in-expiry-rs-17372-worth-of-shares-to-free-up-for-trade-today-do-you-own.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBRVmw1U0hwbk1FMUdhMFJrVFJEZ0F4aUFCU2dLTWdhQlFvZ3VPUVU",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Paytm vs Pine Labs vs One MobiKwik: Analyst decodes fintech stock charts",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/paytm-vs-pine-labs-vs-one-mobikwik-analyst-decodes-fintech-stock-charts-126091800411_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/10/full/1786331942-5883.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxkR3hGU0d0a2JGa3RVa3hTVFJERUF4aW1CU2dLTWdrQlVJZ25wbWMwVHdF",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Why Pine Labs Share Price is Rising",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=06/24/2026&story=6&title=Why-Pine-Labs-Share-Price-is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2026/05192026-image9-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1ZM3BxUmpSVWRrOW9jSGhNVFJEYkFSamVBaWdLTWdrRllZcnNzR1l0aUFJ",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Pine Labs, Delhivery among 10 stocks that saw sharpest decline in FII holding in Q1. Check full list",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/pine-labs-delhivery-among-10-stocks-that-saw-sharpest-decline-in-fii-holding-in-q1-check-full-list/portfolio-shift/slideshow/133493631.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133493631,width-480,height-360,imgsize-61696,resizemode-75/portfolio-shift.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhXRnB6ZWtvNGVERnlVMDVRVFJEb0FoamdBeWdLTWdtZEVaQUxuYVk4Y3dF",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Pine Labs Consolidated June 2026 Net Sales at Rs 736.92 crore, up 19.65% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/pine-labs-consolidated-june-2026-net-sales-at-rs-736-92-crore-up-19-65-y-o-y-13992251.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Pine Labs reports Rs 737 Cr revenue in Q1 FY27; profit jumps over 4X",
+   "source": {
+    "name": "Entrackr",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shailesh Mahato"
+    ]
+   },
+   "link": "https://entrackr.com/fintrackr/pine-labs-reports-rs-737-cr-revenue-in-q1-fy27-profit-jumps-over-4x-12205191",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/07/28/pine-labs-2026-07-28-15-12-51.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhSRzFwTlRCUFJFTTBXVjh5VFJDZkF4ampCU2dLTWdhcFJZTE5vUWc",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Mastercard Exits Pine Labs Via ₹934 Cr Bulk Deal",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akshit Pushkarna"
+    ]
+   },
+   "link": "https://inc42.com/buzz/mastercard-exits-pine-labs-via-%E2%82%B9934-cr-bulk-deal/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/02/PineLabs-ftr-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVROR3RKU0dSUloyVkZWSFU0VFJEZ0F4aUFCU2dLTWdZZFZJNnRvUWM",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Pine Labs Invests ₹24 Cr In AI R&D In FY26, Cuts Testing Time by Over 95%",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gaurav Bagur"
+    ]
+   },
+   "link": "https://inc42.com/buzz/pine-labs-invests-%E2%82%B924-cr-in-ai-rd-in-fy26-cuts-testing-time-by-over-95/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/07/Pinelabs-Financials-ftr-1-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRPVjlVYXpKbVRtRnVTV3M0VFJEZ0F4aUFCU2dLTWdhSk1aekZuZ2s",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Actis Offloads Pine Labs Shares Worth ₹152 Cr",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lokesh Choudhary"
+    ]
+   },
+   "link": "https://inc42.com/buzz/actis-offloads-pine-labs-shares-worth-%E2%82%B9152-cr/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/01/Pinelabs-Financials-ftr-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVURkpuWlZVeVpHRkNTRmxSVFJEZ0F4aUFCU2dLTWdhSk1aekZuZ2s",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Paytm, Pine Labs, MobiKwik shares witness profit booking after the new MDR framework",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritu Singh"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/paytm-pine-labs-mobikwik-share-price-mdr-norms-benefits-implications-revenue-pool-profit-booking-19991512.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-af5405ae59c343e528c91b57a6f1943e.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhWMGRXY0UxUVZGVlJaWFpGVFJDZkF4ampCU2dLTWdhQmdJZ3FQUVE",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Pine Labs shares crash 20% as six-month IPO lock-in ends; down 31% from issue price",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/pine-labs-shares-crash-20-as-six-month-ipo-lock-in-ends-down-31-from-issue-price-11778661816231.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/13/1600x900/logo/PINE-LABS-IPO-INTERVIEW-0_1763101608407_1763101637552_1778661842447.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtaR3B1TjAxZmEyczBYMUJZVFJDZkF4ampCU2dLTWdZSkVaQnJLUWM",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Pine Labs Extends Woolworths Tech Deal for Five More Years",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/pine-labs-extends-woolworths-tech-deal-for-five-more-years/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/03/Pine-Labs-Ep.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOWGgxWVRVNVgyMW1UMDlsVFJDOEF4aXpCU2dLTWdZUkpJcVBtUVE",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Paytm Shares Jump Over 7 Pc; Pine Labs, One Mobikwik Pare Early Gains",
+   "source": {
+    "name": "ETV Bharat",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.etvbharat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.etvbharat.com/en/business/paytm-shares-jump-over-7-per-cent-pine-labs-and-one-mobikwik-pare-early-gains-enn26091602283",
+   "thumbnail": "https://imgs.etvbharat.com/etvbharat/prod-images/16-09-2026/1200-675-27644596-539-27644596-1789544160889.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kVUpaT1VOa1lXRmtiMnhzVFJDZkF4ampCU2dLTWdZQk1JeVlLQVk",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Why Pine Labs shares dropped 1% after weak Q4 results? analysts stay cautious",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/pine-labs-shares-slide-1-as-q4-results-miss-estimates-analysts-stay-cautious/article71023748.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/todays-paper/tp-markets/6tfz5k/article69684535.ece/alternates/LANDSCAPE_1200/Pine-Labs-to-fiGMHEG7UK4.4.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdlR0YwUm5VM1pqWlJNamd3VFJDZkF4ampCU2dLTWdtQk1JcTFtT2xqVUFF",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Pine Labs Block Deal: Mastercard Asia-Pacific To Exit With Rs 890-Crore Stake Sale",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pratiksha Thayil",
+     "Soumeet Sarkar"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/pine-labs-block-deal-mastercard-asia-pacific-to-exit-with-rs-890-crore-stake-sale-12076828",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/85c65165_pine-labs-ipo.webp?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjbWg2WlMxa1ExQkhXak0xVFJDZkF4amlCU2dLTWdZQllvNDB0UWM",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Paytm, Pine Labs share price targets as MDR charges on UPI above Rs 2,000 introduced",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/paytm-pine-labs-share-price-targets-as-mdr-charges-on-upi-above-rs-2000-introduced-555760-2026-09-16",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aaa0a2386962-for-pine-labs--emkay-estimated-upi-p2m-gtv-of-rs-3-lakh-crore-in-fy28-12-per-cent-of-ditp-gtv--of-161650184-16x9.jpg?size=948:533",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFVbGhvVHpCa2JUZHhka1UwVFJDZkF4ampCU2dLTWdrQk1JNHJKU2JJcGdJ",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Actis Sells More Pine Labs Shares In ₹371 Cr Bulk Deal",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anne Florentyna"
+    ]
+   },
+   "link": "https://inc42.com/buzz/actis-sells-more-pine-labs-shares-in-%E2%82%B9371-cr-bulk-deal/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/Pinelabs-Financials-ftr-1-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRPVjlVYXpKbVRtRnVTV3M0VFJEZ0F4aUFCU2dLTWdhSk1aekZuZ2s",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Pine Labs Q1 PAT jumps 309% YoY to Rs 20 crore",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/pine-labs-q1-pat-jumps-309-yoy-to-rs-20-crore-126072900704_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:35"
+}

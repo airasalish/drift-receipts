@@ -1,0 +1,386 @@
+{
+ "search_metadata": {
+  "id": "6acb1f99421b089b1a738882",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/y1dcFFP0W8UCZie_EaP8m_e-_b1RUBjDakLBdheL548/6acb1f99421b089b1a738882.json",
+  "markdown_endpoint": "https://serpapi.com/searches/y1dcFFP0W8UCZie_EaP8m_e-_b1RUBjDakLBdheL548/6acb1f99421b089b1a738882.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/y1dcFFP0W8UCZie_EaP8m_e-_b1RUBjDakLBdheL548/6acb1f99421b089b1a738882.json_with_pixel_position",
+  "created_at": "2026-10-11 05:33:13 UTC",
+  "processed_at": "2026-10-11 05:33:13 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Sagar+Sinha%22&oq=site%3Asebi.gov.in+%22Sagar+Sinha%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/y1dcFFP0W8UCZie_EaP8m_e-_b1RUBjDakLBdheL548/6acb1f99421b089b1a738882.html",
+  "total_time_taken": 0.35
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Sagar Sinha\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Sagar Sinha\"",
+  "total_results": 57,
+  "time_taken_displayed": 0.15,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "500 रुपए से SIP करके Wealth बनाए | Sagar Sinha",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "2:15",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/lT1eZOAANENmXn72kKKmU2abAhx68XN62E7Beh8ETLE.jpeg",
+   "link": "https://www.youtube.com/shorts/pcNTF3LofGg"
+  },
+  {
+   "position": 2,
+   "title": "मैंने SIP के पैसों से घर लिया | Sagar Sinha Podcast",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:42",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/Sl58Vyl0UPJpdl8xBrvW17HqasZE7AQoJMAPgdydeKY.jpeg",
+   "link": "https://www.youtube.com/shorts/thqL1Q6r27I"
+  },
+  {
+   "position": 3,
+   "title": "22000 तक जाएगा Nifty | Sagar Sinha Podcast by Sagar Sinha Podcast on Instagram. Play on Instagram. 0:26",
+   "source": "Instagram",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "duration": "0:26",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/xEekaGmsnj1RQp35J001Fds9R5PlsskoMcvLQuWzjMg.jpeg",
+   "link": "https://www.instagram.com/reel/Db-k8lNh-2r/"
+  },
+  {
+   "position": 4,
+   "title": "मुश्किल समय को कभी कोसना नहीं चाहिए | Sagar Sinha Podcast",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:04",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/leB8MTkwmuo2X6DWhxJjRxSPAimW_npqJ2qlxCfEWqY.jpeg",
+   "link": "https://www.youtube.com/shorts/CntnO2cPM9M"
+  },
+  {
+   "position": 5,
+   "title": "Invest करने से पहले अपनी Self Learning पर ध्यान दो | Sagar Sinha ...",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast Clips",
+   "extensions": [
+    "Sagar Sinha Podcast Clips"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:55",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTiYKJhDpPqDTI1fh-Oq_EPqps_aIg2495bEw",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLnoKEuXStrpFjD1chk0kT0yXzQ7NT1eO3tzmqRulrdBNG1UZc578ZLyo&s=10",
+   "link": "https://www.youtube.com/shorts/8M2VYneQXbg"
+  },
+  {
+   "position": 6,
+   "title": "जानिए Trading की Journey कैसे Start की | Sagar Sinha Podcast",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:59",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlVsvxf-exmPSyKHZrlhCS9DaL609nUpAeieeZaCtCOLt8O1yXwj4HSr8&s=10",
+   "link": "https://www.youtube.com/shorts/2ghHnCWRLcA"
+  },
+  {
+   "position": 7,
+   "title": "Compounding Kyu Jaruri Hai? | Sagar Sinha",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Daily",
+   "extensions": [
+    "Sagar Sinha Daily"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:56",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRLWjIM0U91qdkyOdYd-WJ2jIb95X0TAMh2hA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlNTu6mSavuTKhct3nt9wynDNabh-8GMkHfprqI3xDYe8yPfxoBoqRDBI&s=10",
+   "link": "https://www.youtube.com/shorts/TvFY7YzCRkM"
+  },
+  {
+   "position": 8,
+   "title": "क्या SIP बंद कर दे? | Sagar Sinha",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Daily",
+   "extensions": [
+    "Sagar Sinha Daily"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:13",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtPwyyDNlcaRHX0-hBzDB7hBsSJpqdlRZK_8mIK3vtBlqOdPkgM28u8Yo&s=10",
+   "link": "https://www.youtube.com/shorts/o-IlvtwX8ws"
+  },
+  {
+   "position": 9,
+   "title": "Trading में Discipline के बिना पैसा नहीं कमा सकते | Sagar Sinha ...",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast Clips",
+   "extensions": [
+    "Sagar Sinha Podcast Clips"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:30",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTqUBW3BwlYSCYsdpumqYBa4YrcSbTh63HFxw",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKTpWaycwjE8Xy2NOBMlmnKn3ns2ydWsziDQmBBtpdfBIg5Nrsc476azU&s=10",
+   "link": "https://www.youtube.com/shorts/SUd0qeB7Xro"
+  },
+  {
+   "position": 10,
+   "title": "Trading Decision कैसे ले ? | Sagar Sinha",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Daily",
+   "extensions": [
+    "Sagar Sinha Daily"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:46",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRb_ytLSuYFSv0KzOxNQtps3vEGBuyCH_v7DA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzP2ObnsMMAJhCuTupK0QOf281yUVQv8coMQ5G6r59bjAyrRZ2lsmpd6A&s=10",
+   "link": "https://www.youtube.com/shorts/dOOqRajeA1g"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "कितनी Salary पर कितनी SIP करें पैसा कहाँ लगाएं | Sagar Sinha ...",
+   "link": "https://www.youtube.com/watch?v=zXRTLCRgrIs",
+   "displayed_link": "27.8K+ views · 2 weeks ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-cFplY0qAsBxyNQGItKNIvM.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "How ₹27K SIP Can Build ₹5 Crore | ft. · SIP MASTERCLASS - SIP में पैसा कैसे बढ़ता है | Sagar Sinha · Money Management की ...",
+   "duration": "45:24",
+   "about_this_result": {
+    "source": {
+     "description": "How ₹27K SIP Can Build ₹5 Crore | ft. · SIP MASTERCLASS - SIP में पैसा कैसे बढ़ता है | Sagar Sinha · Money Management की ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlY4TjVjbWNfTFlXS1VXZnoxSjlnbDdsamphVlRwM2hqUlVYSVBDZ05MZzk2aGZDcVlQQ3BYQ0VrdzZFR0c5eHp0aDlUUHZHejZNVEl1SFNPWWUtTDY1RXFZSGdWMkxqX0IzdEUxNmxmZDRBWkNyd2ZtMW8wVm9xRXNUQU14ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlY4TjVjbWNfTFlXS1VXZnoxSjlnbDdsamphVlRwM2hqUlVYSVBDZ05MZzk2aGZDcVlQQ3BYQ0VrdzZFR0c5eHp0aDlUUHZHejZNVEl1SFNPWWUtTDY1RXFZSGdWMkxqX0IzdEUxNmxmZDRBWkNyd2ZtMW8wVm9xRXNUQU14ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Sagar Sinha Money Bytes"
+  },
+  {
+   "position": 2,
+   "title": "4 लाख करोड़ की Fund Safety कैसे करते हैं | Sagar Sinha Show",
+   "link": "https://www.youtube.com/watch?v=lfW6tkkqOLc",
+   "displayed_link": "3K+ views · 1 year ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-aOXP6gXkQrsTgDW9_lkD9s.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "4 लाख करोड़ की Fund Safety कैसे करते हैं | Sagar Sinha Show | Connect - Email - biz.sagarsinha@gmail.com Facebook– / ...",
+   "duration": "0:31",
+   "about_this_result": {
+    "source": {
+     "description": "4 लाख करोड़ की Fund Safety कैसे करते हैं | Sagar Sinha Show | Connect - Email - biz.sagarsinha@gmail.com Facebook– / ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm9hTVlrblBfZzJQQm9BcUE2LThlbnc0a2trVVZROGRLUDQ1V1UwSUZiSGJDZzNTTXZFX2MyRTRIQUsyZG1pTHZSNlc0YVowb1JYdXptM0FfaWtQT1lZZEdkNlJPT0F0aTBOeDFwMG1OcVVsYllFTmp5V3RZUlBwRlBXN01kZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVm9hTVlrblBfZzJQQm9BcUE2LThlbnc0a2trVVZROGRLUDQ1V1UwSUZiSGJDZzNTTXZFX2MyRTRIQUsyZG1pTHZSNlc0YVowb1JYdXptM0FfaWtQT1lZZEdkNlJPT0F0aTBOeDFwMG1OcVVsYllFTmp5V3RZUlBwRlBXN01kZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Sagar Sinha Podcast"
+  },
+  {
+   "position": 3,
+   "title": "Guarantee in Stock Market | Sagar Sinha Shorts",
+   "link": "https://www.youtube.com/shorts/EVWhLWKfkiw",
+   "displayed_link": "9.5K+ views · 1 year ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-QJ7eVDGTtcrwfj_scfBV1I.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Learn more · @sagarsinhadaily. Subscribe. Guarantee in Stock Market | Sagar Sinha Shorts. Liability vs Assets | Sagar Sinha Shorts. 716.",
+   "duration": "0:14",
+   "about_this_result": {
+    "source": {
+     "description": "Learn more · @sagarsinhadaily. Subscribe. Guarantee in Stock Market | Sagar Sinha Shorts. Liability vs Assets | Sagar Sinha Shorts. 716.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkxvTU1ONS1FNklpa1prTjNwSnp6UEFiSEhrSi1TQzhmb0R3dXY4ZXFmd3Y2cHNmZlZOWk1QM0lrNEVPNUVac3ZJa21tbkJZOUxKS2ZuUjUyZVlmSnU3Uk5sR3BQRFNTR2RIU0ltOUxpWXJoeDdEVDBuUHNXS0tzQUtSZF8SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVkxvTU1ONS1FNklpa1prTjNwSnp6UEFiSEhrSi1TQzhmb0R3dXY4ZXFmd3Y2cHNmZlZOWk1QM0lrNEVPNUVac3ZJa21tbkJZOUxKS2ZuUjUyZVlmSnU3Uk5sR3BQRFNTR2RIU0ltOUxpWXJoeDdEVDBuUHNXS0tzQUtSZF8SFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSGZGxg3YmO_rq5mdsFzmE5wauTeMxP2268xw",
+   "source": "YouTube · Sagar Sinha Daily"
+  },
+  {
+   "position": 4,
+   "title": "1 लाख कमाने के Real Ideas | Sagar Sinha",
+   "link": "https://open.spotify.com/episode/3HXT8dPm3ushUdEhWC3VaC",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVHzYB9RkK7IgsOodBDZ5phNG20-Icntni3IdZrvYctuWlfQs7cjydBWts44PAXGQ7BySdHgFj0RIKCf0wy5eNO4YZEQfTybcWnKhRIwA5baUpT5NE8bRMp-5CoUydIL64BI1SdKhvv-lKhw&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8QFnoECCAQAQ&uoh=1",
+   "displayed_link": "https://open.spotify.com › episode",
+   "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp",
+   "date": "19 Jun 2026",
+   "snippet": "Listen to this episode from Sagar Sinha Podcast on Spotify. Invest In Mutual Fund SIP, SWP, Stocks | Open FREE Demat ...",
+   "snippet_highlighted_words": [
+    "Sagar Sinha"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Listen to this episode from Sagar Sinha Podcast on Spotify. Invest In Mutual Fund SIP, SWP, Stocks | Open FREE Demat ...",
+     "source_info_link": "https://open.spotify.com/episode/3HXT8dPm3ushUdEhWC3VaC",
+     "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkh6WUI5UmtLN0lnc09vZEJEWjVwaE5HMjAtSWNudG5pM0lkWnJ2WWN0dVdsZlFzN2NqeWRCV3RzNDRQQVhHUTdCeVNkSGdGajBSSUtDZjB3eTVlTk80WVpFUWZUeWJjV25LaFJJd0E1YmFVcFQ1TkU4YlJNcC01Q29VeWRJTDY0QkkxU2RLaHZ2LWxLaHcSBBoCCAAa0QMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJArQMIABAAGAAgACoMCgVzYWdhchWIAaNAKgwKBXNpbmhhFYgBo0AypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWSHpZQjlSa0s3SWdzT29kQkRaNXBoTkcyMC1JY250bmkzSWRacnZZY3R1V2xmUXM3Y2p5ZEJXdHM0NFBBWEdRN0J5U2RIZ0ZqMFJJS0NmMHd5NWVOTzRZWkVRZlR5YmNXbktoUkl3QTViYVVwVDVORThiUk1wLTVDb1V5ZElMNjRCSTFTZEtodnYtbEtodzpZMSDgpLLgpL7gpJYg4KSV4KSu4KS-4KSo4KWHIOCkleClhyBSZWFsIElkZWFzIHwgPGI-U2FnYXIgU2luaGE8L2I-IHwgUG9kY2FzdCBvbiAtIFNwb3RpZnlChAFMaXN0ZW4gdG8gdGhpcyBlcGlzb2RlIGZyb20gPGI-U2FnYXIgU2luaGE8L2I-IFBvZGNhc3Qgb24gU3BvdGlmeS4gSW52ZXN0IEluIE11dHVhbCBGdW5kIFNJUCwgU1dQLCBTdG9ja3MgfCBPcGVuIEZSRUUgRGVtYXQmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkh6WUI5UmtLN0lnc09vZEJEWjVwaE5HMjAtSWNudG5pM0lkWnJ2WWN0dVdsZlFzN2NqeWRCV3RzNDRQQVhHUTdCeVNkSGdGajBSSUtDZjB3eTVlTk80WVpFUWZUeWJjV25LaFJJd0E1YmFVcFQ1TkU4YlJNcC01Q29VeWRJTDY0QkkxU2RLaHZ2LWxLaHcSBBoCCAAa0QMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJArQMIABAAGAAgACoMCgVzYWdhchWIAaNAKgwKBXNpbmhhFYgBo0AypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWSHpZQjlSa0s3SWdzT29kQkRaNXBoTkcyMC1JY250bmkzSWRacnZZY3R1V2xmUXM3Y2p5ZEJXdHM0NFBBWEdRN0J5U2RIZ0ZqMFJJS0NmMHd5NWVOTzRZWkVRZlR5YmNXbktoUkl3QTViYVVwVDVORThiUk1wLTVDb1V5ZElMNjRCSTFTZEtodnYtbEtodzpZMSDgpLLgpL7gpJYg4KSV4KSu4KS-4KSo4KWHIOCkleClhyBSZWFsIElkZWFzIHwgPGI-U2FnYXIgU2luaGE8L2I-IHwgUG9kY2FzdCBvbiAtIFNwb3RpZnlChAFMaXN0ZW4gdG8gdGhpcyBlcGlzb2RlIGZyb20gPGI-U2FnYXIgU2luaGE8L2I-IFBvZGNhc3Qgb24gU3BvdGlmeS4gSW52ZXN0IEluIE11dHVhbCBGdW5kIFNJUCwgU1dQLCBTdG9ja3MgfCBPcGVuIEZSRUUgRGVtYXQmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Spotify - Web Player: Music for everyone"
+  },
+  {
+   "position": 5,
+   "title": "Entry Of Sagar Sinha sir Among 2400 Plus Leaders",
+   "link": "https://www.youtube.com/watch?v=mJoBELCfcLE",
+   "displayed_link": "8.1K+ views · 4 years ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-SFRugYANQpiyPq1P-WUeuA.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Entry Of Sagar Sinha sir Among 2400 Plus Leaders | Love & Respect From Team. @coachsagarsinha325 likes8.1K views4 years ago",
+   "duration": "1:53",
+   "about_this_result": {
+    "source": {
+     "description": "Entry Of Sagar Sinha sir Among 2400 Plus Leaders | Love & Respect From Team. @coachsagarsinha325 likes8.1K views4 years ago",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnRQX1d3V1hWT1FqUDFuWldqb2hRRXUxVGJWdHk4OGZER1lHaElOaU02NDh6MEp4VVpscUxCMlBuRGhBdHo5YVAtRnhzdDRUWHk0cjZDa0J0WG5wMGNXck1RVXZNdkRWMWt0b1N3NmQyT1otWEdSLTF0bjluZkdyQVNjMFZKZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnRQX1d3V1hWT1FqUDFuWldqb2hRRXUxVGJWdHk4OGZER1lHaElOaU02NDh6MEp4VVpscUxCMlBuRGhBdHo5YVAtRnhzdDRUWHk0cjZDa0J0WG5wMGNXck1RVXZNdkRWMWt0b1N3NmQyT1otWEdSLTF0bjluZkdyQVNjMFZKZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS88RPKVZy9SV6lamjaKTOrw6jfB1WyqPwXOQ",
+   "source": "YouTube · Sagar Sinha"
+  },
+  {
+   "position": 6,
+   "title": "Crypto को Regulate करने कि तैयारी ? Sagar Sinha",
+   "link": "https://www.youtube.com/shorts/elbdfDcK_iA",
+   "displayed_link": "18.5K+ views · 8 months ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-dwPX6rXcga5f_WyZGZ99CU.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "... Sagar Sinha - FREE Official Telegram Channel https://t.me/coachsagarsinha Sagar Sinha Twitter - https://x.com/CoachSagarSinha Best Term ...",
+   "duration": "1:51",
+   "about_this_result": {
+    "source": {
+     "description": "... Sagar Sinha - FREE Official Telegram Channel https://t.me/coachsagarsinha Sagar Sinha Twitter - https://x.com/CoachSagarSinha Best Term ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVklpRHFZY0RmVy0yQnFLZWRGT1ZWbFg1LU5xczA0MzhRa2xHNHdYVFRWMUFIeXZTZzU1M3NkNTRrcURScW53czBKWkU5eUItbFc4TU5PUnhDaTVtdXlnSUhxQWoxNUZpX0NfaVlEdzNEQlNpVHZybXpNX1JQLUNwNHR2N0oSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVklpRHFZY0RmVy0yQnFLZWRGT1ZWbFg1LU5xczA0MzhRa2xHNHdYVFRWMUFIeXZTZzU1M3NkNTRrcURScW53czBKWkU5eUItbFc4TU5PUnhDaTVtdXlnSUhxQWoxNUZpX0NfaVlEdzNEQlNpVHZybXpNX1JQLUNwNHR2N0oSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRXyPlqdGItVAHJHdZt2ywotuFO1PhkB-YqcQ",
+   "source": "YouTube · Sagar Sinha Daily"
+  },
+  {
+   "position": 7,
+   "title": "₹2.5 लाख Salary, फिर भी Saving Zero - Sagar Sinha Podcast",
+   "link": "https://open.spotify.com/episode/5IKM8uTujmMBoGuXAQfvSJ",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbwHrOzAVE7dPvAe4mZLG3gj60N5rty_Az_YTVRZ1_PTiMqH8A6jKT1eEw4MaybMDdVlTH4jAecDYyRGfDNEfm4TquSl2NSS81sAxOXYK376twc2o7w2qUpgHHxhnYXCfYuGDt9ph_46f0T9GMmMAOQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8QFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://open.spotify.com › episode",
+   "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp",
+   "date": "19 Sept 2026",
+   "snippet": "Listen to this episode from Sagar Sinha Podcast on Spotify. 🛡️ Best Term Insurance - 15% Discount - https://tinyurl.com/TermALL Best ...",
+   "snippet_highlighted_words": [
+    "Sagar Sinha"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Listen to this episode from Sagar Sinha Podcast on Spotify. 🛡️ Best Term Insurance - 15% Discount - https://tinyurl.com/TermALL Best ...",
+     "source_info_link": "https://open.spotify.com/episode/5IKM8uTujmMBoGuXAQfvSJ",
+     "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkU3ZFB2QWU0bVpMRzNnajYwTjVydHlfQXpfWVRWUloxX1BUaU1xSDhBNmpLVDFlRXc0TWF5Yk1EZFZsVEg0akFlY0RZeVJHZkRORWZtNFRxdVNsMk5TUzgxc0F4T1hZSzM3NnR3YzJvN3cycVVwZ0hIeGhuWVhDZll1R0R0OXBoXzQ2ZjBUOUdNbU1BT1ESBBoCCAAa4QMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAvQMIABAAGAAgACoMCgVzYWdhchVido9AKgwKBXNpbmhhFWJ2j0AypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWRTdkUHZBZTRtWkxHM2dqNjBONXJ0eV9Bel9ZVFZSWjFfUFRpTXFIOEE2aktUMWVFdzRNYXliTURkVmxUSDRqQWVjRFl5UkdmRE5FZm00VHF1U2wyTlNTODFzQXhPWFlLMzc2dHdjMm83dzJxVXBnSEh4aG5ZWENmWXVHRHQ5cGhfNDZmMFQ5R01tTUFPUTpS4oK5Mi41IOCksuCkvuCkliBTYWxhcnksIOCkq-Ckv-CksCDgpK3gpYAgU2F2aW5nIFplcm8gLSA8Yj5TYWdhciBTaW5oYTwvYj4gUG9kY2FzdEKbAUxpc3RlbiB0byB0aGlzIGVwaXNvZGUgZnJvbSA8Yj5TYWdhciBTaW5oYTwvYj4gUG9kY2FzdCBvbiBTcG90aWZ5LiDwn5uh77iPIEJlc3QgVGVybSBJbnN1cmFuY2UgLSAxNSUgRGlzY291bnQgLSBodHRwczovL3Rpbnl1cmwuY29tL1Rlcm1BTEwgICBCZXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqQBL2dvdG8_dXJsPUNBRVNid0hyT3pBVkU3ZFB2QWU0bVpMRzNnajYwTjVydHlfQXpfWVRWUloxX1BUaU1xSDhBNmpLVDFlRXc0TWF5Yk1EZFZsVEg0akFlY0RZeVJHZkRORWZtNFRxdVNsMk5TUzgxc0F4T1hZSzM3NnR3YzJvN3cycVVwZ0hIeGhuWVhDZll1R0R0OXBoXzQ2ZjBUOUdNbU1BT1ESBBoCCAAa4QMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAvQMIABAAGAAgACoMCgVzYWdhchVido9AKgwKBXNpbmhhFWJ2j0AypAEvZ290bz91cmw9Q0FFU2J3SHJPekFWRTdkUHZBZTRtWkxHM2dqNjBONXJ0eV9Bel9ZVFZSWjFfUFRpTXFIOEE2aktUMWVFdzRNYXliTURkVmxUSDRqQWVjRFl5UkdmRE5FZm00VHF1U2wyTlNTODFzQXhPWFlLMzc2dHdjMm83dzJxVXBnSEh4aG5ZWENmWXVHRHQ5cGhfNDZmMFQ5R01tTUFPUTpS4oK5Mi41IOCksuCkvuCkliBTYWxhcnksIOCkq-Ckv-CksCDgpK3gpYAgU2F2aW5nIFplcm8gLSA8Yj5TYWdhciBTaW5oYTwvYj4gUG9kY2FzdEKbAUxpc3RlbiB0byB0aGlzIGVwaXNvZGUgZnJvbSA8Yj5TYWdhciBTaW5oYTwvYj4gUG9kY2FzdCBvbiBTcG90aWZ5LiDwn5uh77iPIEJlc3QgVGVybSBJbnN1cmFuY2UgLSAxNSUgRGlzY291bnQgLSBodHRwczovL3Rpbnl1cmwuY29tL1Rlcm1BTEwgICBCZXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Spotify - Web Player: Music for everyone"
+  },
+  {
+   "position": 8,
+   "title": "Stability नहीं Growth पर फोकस करो | SAGAR SINHA Motivational ...",
+   "link": "https://www.youtube.com/watch?v=YPsNZajbC8s",
+   "displayed_link": "5.6K+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-QICUs9ZSuWS8hr9xw29hWg.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Stability नहीं Growth पर फोकस करो | SAGAR SINHA Motivational Video. @sagarsinhadaily401 likes5.6K views2 years ago",
+   "duration": "8:17",
+   "about_this_result": {
+    "source": {
+     "description": "Stability नहीं Growth पर फोकस करो | SAGAR SINHA Motivational Video. @sagarsinhadaily401 likes5.6K views2 years ago",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlBNYlIzbzJURVg5VDdUOWNUVHE0V1Nva3lzS3lla1ByWnRsOGEzS1hFY1E0NzltSEVfUjAtNGNSSll4d2FTVl9RMzVsZVhJUlNaYXUtM2d4SWprZjZzN19ocENkOFZQM056QVJWVU9CeV83NmwybFFzZ28tNENFYmdkX1Q0ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlBNYlIzbzJURVg5VDdUOWNUVHE0V1Nva3lzS3lla1ByWnRsOGEzS1hFY1E0NzltSEVfUjAtNGNSSll4d2FTVl9RMzVsZVhJUlNaYXUtM2d4SWprZjZzN19ocENkOFZQM056QVJWVU9CeV83NmwybFFzZ28tNENFYmdkX1Q0ZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS3l78ZJpC7zwFLeTEo1bV71z_9mFwDuO3uFQ",
+   "source": "YouTube · Sagar Sinha Daily"
+  },
+  {
+   "position": 9,
+   "title": "जो मिला है उसकी इज्जत करो #sagarsinha",
+   "link": "https://www.youtube.com/watch?v=OWl9_jFbtqs",
+   "displayed_link": "1.2K+ views · 3 years ago",
+   "thumbnail": "https://serpapi.com/searches/6acb1f99421b089b1a738882/images/OdpXaOj4DbejEsCp1Rm3-U8SsRipMSrhXyN-nRBIR8U.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Sagar Sinha Daily•62K views · 40:08. Go to channel Sagar Sinha Daily · कम पैसे से बड़ी Wealth बनाने का Formula | Sagar Sinha.",
+   "duration": "3:10",
+   "about_this_result": {
+    "source": {
+     "description": "Sagar Sinha Daily•62K views · 40:08. Go to channel Sagar Sinha Daily · कम पैसे से बड़ी Wealth बनाने का Formula | Sagar Sinha.",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlM3bndhVUUzejNRWktRU0xrRW5tcXBoM2ZUWTQzdi1oSXJJMTdRTjN1SFFXQjd6SnlaRWFTUUhnSE52NklSdnhwR2doUjRxRVF4T0I0bG9ESUdVem1PQW5LZGQxZFZZUHhmSWF6WFZnSC1HRjJQY3J6Yjl4UVBKcndfcTNCQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlM3bndhVUUzejNRWktRU0xrRW5tcXBoM2ZUWTQzdi1oSXJJMTdRTjN1SFFXQjd6SnlaRWFTUUhnSE52NklSdnhwR2doUjRxRVF4T0I0bG9ESUdVem1PQW5LZGQxZFZZUHhmSWF6WFZnSC1HRjJQY3J6Yjl4UVBKcndfcTNCQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTb9usOalV6zGUPzJOAfM1pdvzWPfxM8jZ1QQ",
+   "source": "YouTube · Sagar Sinha Daily"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=10&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8NMDegQIKBAO",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=10&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8tMDegQIKBAE",
+   "3": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=20&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8tMDegQIKBAG",
+   "4": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=30&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8tMDegQIKBAI",
+   "5": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=40&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8tMDegQIKBAK",
+   "6": "https://www.google.com/search?q=site:sebi.gov.in+%22Sagar+Sinha%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnvOK-ace7GKAMuH6aEcGRGrQ3h6vg:1791696794035&ei=mh_LapbfAc7tptQP8sO5-Aw&start=50&sa=N&sstk=AS6-VmL1gGszUUrsmx74UkWtSb-spXU7o6vk1AHPLQ8P2OjSkhAw_n7HHld906ezZzfybyMNu6kWNHBPaU4Z1n0Ba22UnPuFhRxyLQ&ved=2ahUKEwiWlNDXnrGXAxXOtokEHfJhDs8Q8tMDegQIKBAM"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Sagar+Sinha%22&start=50"
+  }
+ },
+ "_fetched_at": "2026-10-11T05:33:11"
+}

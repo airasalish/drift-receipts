@@ -1,0 +1,28 @@
+{
+  "framework": null,
+  "buildCommand": "cd frontend && npm install && VITE_RECEIPTS_API_BASE= npm run build",
+  "outputDirectory": "frontend/dist",
+  "functions": {
+    "api/index.py": {
+      "includeFiles": "backend/{app,data}/**",
+      "maxDuration": 300
+    }
+  },
+  "rewrites": [
+    {
+      "source": "/api/(.*)",
+      "destination": "/api/index"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/receipts",
+      "permanent": false
+    }
+  ]
+}

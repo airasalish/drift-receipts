@@ -1,0 +1,888 @@
+{
+ "channel": "Avadhut Sathe",
+ "channel_url": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "2whIJghEe_c",
+   "title": "ASTA Gurukul Stock Market GEO+ 16 Monsoon Batch",
+   "url": "https://www.youtube.com/watch?v=2whIJghEe_c",
+   "channel": "Avadhut Sathe Trading Academy",
+   "channel_url": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+   "views": 8528,
+   "length": "1:30",
+   "published_text": "2mo ago",
+   "published_date": "2026-07-26",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/2whIJghEe_c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJk-UfQHM1QUzY_c30palLBMjmtg",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 1,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "__unKfZ66VA",
+   "title": "Is your Drive your Threat in stock market !? - ASTA Gurukul Glimpses",
+   "url": "https://www.youtube.com/watch?v=__unKfZ66VA",
+   "channel": "Avadhut Sathe Trading Academy",
+   "channel_url": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+   "views": 6627,
+   "length": "2:42",
+   "published_text": "2mo ago",
+   "published_date": "2026-07-22",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/__unKfZ66VA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIEsoZTAP&rs=AOn4CLAbcEIN_xtPMAJ6xoCwOGUC7O5y5A",
+   "transcript_status": "none"
+  },
+  {
+   "video_id": "zTccLzL-KLY",
+   "title": "What is the right time to sell shares in stock market?",
+   "url": "https://www.youtube.com/watch?v=zTccLzL-KLY",
+   "channel": "Avadhut Sathe Trading Academy",
+   "channel_url": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+   "views": 20893,
+   "length": "1:43",
+   "published_text": "3y ago",
+   "published_date": "2023-06-04",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/zTccLzL-KLY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgaAAuADigIMCAAQARgTIDgofzAP&rs=AOn4CLAub0XsJAaI_cFa_ObTmho2QLtEsw",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 1,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "tRHkKajYgsE",
+   "title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "channel": "Avadhut Sathe Trading Academy",
+   "channel_url": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+   "views": 25087,
+   "length": "1:05:11",
+   "published_text": "Streamed 4y ago",
+   "published_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/tRHkKajYgsE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbDHycxhG9Oz7A3FSA4gvmAxAiXw",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 7,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [
+  {
+   "company": "Maruti Suzuki",
+   "symbol_guess": "MARUTI",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "रिटेल पैक कल लॉन्ग किया था",
+   "start_s": 3362,
+   "line": "सीरवी अच्छा पनीर विल पुट स्प्रेड है ओके यह और एक मारुति",
+   "evidence": [
+    {
+     "text": "लॉन्ग किया",
+     "where": "transcript",
+     "start_s": 3370
+    }
+   ],
+   "reason": "The speaker says they went long on Maruti Suzuki, indicating a bullish stance, though no direct recommendation to buy is given.",
+   "ticker": {
+    "yahoo_symbol": "MARUTI.NS",
+    "google_finance": "MARUTI:NSE",
+    "name": "Maruti Suzuki India Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3349,
+     "text": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड"
+    },
+    {
+     "start_s": 3355,
+     "text": "बैंक का तो उसमें कुछ एक 10,000 का लास्ट दिख रहा है एंड मारुति एक लौंग किया सरपंच"
+    },
+    {
+     "start_s": 3362,
+     "text": "सीरवी अच्छा पनीर विल पुट स्प्रेड है ओके यह और एक मारुति"
+    },
+    {
+     "start_s": 3370,
+     "text": "का ब्रेकफास्ट के बाद रिटेल पैक कल लॉन्ग किया था था यहां पर खड़ा है तो कल का लो"
+    },
+    {
+     "start_s": 3376,
+     "text": "इसमें इक्वल उसके नीचे अगर क्लोज बारी गेट आउट एंड यह मेरे बिल्कुल फ्रेंड्स मैं थे"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=3362s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2022-08-05",
+     "price": 8841.2,
+     "volume": 3813097
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2022-08-12",
+       "price": 8699.2,
+       "volume": 2187468
+      },
+      "stock_return_pct": -1.61,
+      "nifty_return_pct": 1.73,
+      "excess_vs_nifty_pct": -3.34,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2022-09-09",
+       "price": 8946.0,
+       "volume": 2342362
+      },
+      "stock_return_pct": 1.19,
+      "nifty_return_pct": 2.51,
+      "excess_vs_nifty_pct": -1.32,
+      "right": false
+     },
+     "90": {
+      "status": "done",
+      "exit": {
+       "date": "2022-11-04",
+       "price": 9229.5,
+       "volume": 4608851
+      },
+      "stock_return_pct": 4.39,
+      "nifty_return_pct": 4.14,
+      "excess_vs_nifty_pct": 0.25,
+      "right": true
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 8066.41,
+     "baseline_daily_turnover_inr": 4020795285,
+     "price_at_promotion": 8841.2,
+     "peak_price": 9492.55,
+     "peak_date": "2022-10-28",
+     "runup_x": 1.07,
+     "volume_spike_x": 1.3,
+     "trough_after_peak": 8141.6,
+     "trough_date": "2022-12-23",
+     "drawdown_from_peak_pct": 14.2,
+     "data_spacing_days": 7
+    }
+   },
+   "quote_en": "I went long on the retail pack yesterday."
+  },
+  {
+   "company": "Maruti Suzuki",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बैंक का तो उसमें कुछ एक 10,000 का लास्ट दिख रहा है एंड मारुति एक लौंग किया",
+   "start_s": 3349,
+   "line": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड",
+   "evidence": [],
+   "reason": "Maruti Suzuki appears in a casual comment without explicit recommendation, so it is watch.",
+   "ticker": {
+    "yahoo_symbol": "MARUTI.NS",
+    "google_finance": "MARUTI:NSE",
+    "name": "Maruti Suzuki India Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3337,
+     "text": "तुलसी कर रहा हूं तो इधर स्टॉपलॉस किया एंड बाद में इसके बाद कॉल बाय किए थे तो"
+    },
+    {
+     "start_s": 3344,
+     "text": "और इधर भी माइक्रोसाफ्ट ने किया तो यह"
+    },
+    {
+     "start_s": 3349,
+     "text": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड"
+    },
+    {
+     "start_s": 3355,
+     "text": "बैंक का तो उसमें कुछ एक 10,000 का लास्ट दिख रहा है एंड मारुति एक लौंग किया सरपंच"
+    },
+    {
+     "start_s": 3362,
+     "text": "सीरवी अच्छा पनीर विल पुट स्प्रेड है ओके यह और एक मारुति"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=3349s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "IndusInd Bank",
+   "symbol_guess": "INDUSINDBK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पोजीशन इंडसइंड",
+   "start_s": 3349,
+   "line": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड",
+   "evidence": [
+    {
+     "text": "पोजीशन",
+     "where": "transcript",
+     "start_s": 3349
+    }
+   ],
+   "reason": "The speaker mentions holding a position in IndusInd Bank but does not give any explicit buy or sell advice.",
+   "ticker": {
+    "yahoo_symbol": "INDUSINDBK.NS",
+    "google_finance": "INDUSINDBK:NSE",
+    "name": "IndusInd Bank Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3337,
+     "text": "तुलसी कर रहा हूं तो इधर स्टॉपलॉस किया एंड बाद में इसके बाद कॉल बाय किए थे तो"
+    },
+    {
+     "start_s": 3344,
+     "text": "और इधर भी माइक्रोसाफ्ट ने किया तो यह"
+    },
+    {
+     "start_s": 3349,
+     "text": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड"
+    },
+    {
+     "start_s": 3355,
+     "text": "बैंक का तो उसमें कुछ एक 10,000 का लास्ट दिख रहा है एंड मारुति एक लौंग किया सरपंच"
+    },
+    {
+     "start_s": 3362,
+     "text": "सीरवी अच्छा पनीर विल पुट स्प्रेड है ओके यह और एक मारुति"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=3349s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "quote_en": "Position IndusInd"
+  },
+  {
+   "company": "Infosys",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इन्फोसिस और यह सारे स्टाफ",
+   "start_s": 3108,
+   "line": "है तो यहां तक जा सकता है फिर बाद में मिठास है ऑन उन्हें गर्म टेक्नोलॉजी का",
+   "evidence": [],
+   "reason": "Infosys is brought up without any explicit advice, thus classified as watch.",
+   "ticker": {
+    "yahoo_symbol": "INFY.NS",
+    "google_finance": "INFY:NSE",
+    "name": "Infosys Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3095,
+     "text": "है नज़र ज्यादा टिकेगा नहीं है मैं भी एयरटेल का रेजिस्टेंस इन थिस रेस्टोरेंट"
+    },
+    {
+     "start_s": 3100,
+     "text": "लाइक थिस झाल"
+    },
+    {
+     "start_s": 3108,
+     "text": "है तो यहां तक जा सकता है फिर बाद में मिठास है ऑन उन्हें गर्म टेक्नोलॉजी का"
+    },
+    {
+     "start_s": 3116,
+     "text": "स्वभाव थोड़ा स ऊपर जा रहा है आपको लगेगा कि इंफोसिस और यह सारे स्टाफ व जा रहा है"
+    },
+    {
+     "start_s": 3121,
+     "text": "लेकिन मुझे नहीं लगता कि आईटी सेक्टर नया लोग नया हाय का यह सी एन एक्स कॉम सीजी"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=3108s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "quote_en": "Infosys and all this staff"
+  },
+  {
+   "company": "Bharti Airtel",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "मैं भी एयरटेल का रेजिस्टेंस इन थिस रेस्टोरेंट",
+   "start_s": 3089,
+   "line": "अब मुझे ऐसा लगता है कि रणबीर ग्राम व पोस्ट मुझे ऐसा लग रहा है कि यह जो बहाया",
+   "evidence": [],
+   "reason": "Airtel is mentioned only as a reference point, not as a pick, so it is watch.",
+   "ticker": {
+    "yahoo_symbol": "BHARTIARTL.NS",
+    "google_finance": "BHARTIARTL:NSE",
+    "name": "Bharti Airtel Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3073,
+     "text": "सब हिस्सा नो व्हाट डू इट यह कुल विकास दर एनिमल्स व सबडिस्टिक यहां पर छह और"
+    },
+    {
+     "start_s": 3081,
+     "text": "ओम दास सपोर्टेड टाइपिंग Browser में देखा है वह सॉफ्ट वर्ल्ड हमेशा यह"
+    },
+    {
+     "start_s": 3089,
+     "text": "अब मुझे ऐसा लगता है कि रणबीर ग्राम व पोस्ट मुझे ऐसा लग रहा है कि यह जो बहाया"
+    },
+    {
+     "start_s": 3095,
+     "text": "है नज़र ज्यादा टिकेगा नहीं है मैं भी एयरटेल का रेजिस्टेंस इन थिस रेस्टोरेंट"
+    },
+    {
+     "start_s": 3100,
+     "text": "लाइक थिस झाल"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=3089s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "टाटा मोटर्स से ज्यादा बाप एंबुलेंस",
+   "start_s": 2838,
+   "line": "तरफ खाना भी टैग वे 217 शुक्राचार्य देता है MS Word",
+   "evidence": [],
+   "reason": "Tata Motors is referenced in passing with no clear recommendation, so it is marked as watch.",
+   "ticker": {
+    "yahoo_symbol": "TMCV.NS",
+    "google_finance": "TMCV:NSE",
+    "name": "Tata Motors Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 2827,
+     "text": "ए माइनर एेलमेंट्स सुच एस वांट टॉक विद इट्स रियली ए रॉकिंग"
+    },
+    {
+     "start_s": 2832,
+     "text": "सोंठ अगर यह प्लीज फ्रेंड टाइम रहता है मुझे लगता है कि मैं मेंटेन को"
+    },
+    {
+     "start_s": 2838,
+     "text": "तरफ खाना भी टैग वे 217 शुक्राचार्य देता है MS Word"
+    },
+    {
+     "start_s": 2844,
+     "text": "इसका मतलब है जाकर माइक्रोवेव नहीं है टाटा मोटर्स से ज्यादा बाप एंबुलेंस और"
+    },
+    {
+     "start_s": 2850,
+     "text": "अगर डिस्कवर एंड लोंग बट नॉट एडवाइज यू हैव नॉट बीन एडवाइज्ड टो बे ए बर्ड इस"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=2838s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Mahindra & Mahindra",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "महिंद्रा एंड महिंद्रा को आप देखो तो मुझे ऐसा लगता है",
+   "start_s": 2800,
+   "line": "गुड शेयरिंग ऑटो ऑटो सेक्टर 99 वह भी बहुत ही बढ़िया कर",
+   "evidence": [],
+   "reason": "The speaker mentions Mahindra & Mahindra without any explicit buy/sell recommendation, so it is classified as watch.",
+   "ticker": {
+    "yahoo_symbol": "M&M.NS",
+    "google_finance": "M&M:NSE",
+    "name": "Mahindra & Mahindra Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 2784,
+     "text": "झाल हुआ है"
+    },
+    {
+     "start_s": 2790,
+     "text": "ए पर्सन फ्रॉम नहीं सन फार्मा है हैं और 800 गुड कि पावर सेक्टर अफेयर सेटल"
+    },
+    {
+     "start_s": 2800,
+     "text": "गुड शेयरिंग ऑटो ऑटो सेक्टर 99 वह भी बहुत ही बढ़िया कर"
+    },
+    {
+     "start_s": 2806,
+     "text": "रहे कर कुछ दिनों से महिंद्रा एंड महिंद्रा को आप देखो तो मुझे ऐसा लगता है"
+    },
+    {
+     "start_s": 2812,
+     "text": "कि आने वाले समय में एक बहुत ही बढ़िया मुद्दे सकता है ऑटो और महिंद्रा एंड"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=2800s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "quote_en": "When you look at Mahindra & Mahindra, I get the feeling that..."
+  },
+  {
+   "company": "Sun Pharmaceutical Industries",
+   "symbol_guess": "SUNPHARMA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "और सन फार्मा पर नजर हो",
+   "start_s": 2756,
+   "line": "हैंड शोल्डर चेक इन वर्ड इन छोड़ यह सब रिकॉर्ड दिख रहा है 6 सवा 100 इस पर नजर",
+   "evidence": [
+    {
+     "text": "सन फार्मा",
+     "where": "transcript",
+     "start_s": 2762
+    }
+   ],
+   "reason": "The speaker says to keep an eye on Sun Pharma, indicating a watch stance rather than a direct buy or sell recommendation.",
+   "ticker": {
+    "yahoo_symbol": "SUNPHARMA.NS",
+    "google_finance": "SUNPHARMA:NSE",
+    "name": "Sun Pharmaceutical Industries Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 2742,
+     "text": "प्रेजेंस लो एल्बम पेरिस और अन्न मार्केट और एक सुपर आधुनिक शर्मा तथा ने क्या है"
+    },
+    {
+     "start_s": 2749,
+     "text": "सैनिक फार्मा इस 2 इंच हम सड़क को हिना एक अच्छा सकैंडल है आज 100 या लेफ्ट शोल्डर"
+    },
+    {
+     "start_s": 2756,
+     "text": "हैंड शोल्डर चेक इन वर्ड इन छोड़ यह सब रिकॉर्ड दिख रहा है 6 सवा 100 इस पर नजर"
+    },
+    {
+     "start_s": 2762,
+     "text": "रखो और सन फार्मा पर नजर हो सन फार्मा इन डिवोशनल सर्विस आफ वॉटर इन ए ट्रेन का"
+    },
+    {
+     "start_s": 2771,
+     "text": "टेस्ट हुआ था दोनों तरफ से यह जो है न कि यहां से बाबू सन फार्मा उबर"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=2756s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "quote_en": "And keep an eye on Sun Pharma."
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": "TATAMOTORS",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप वांट टो बाय थिस बाय टाटा मोटर्स और एंबुलेंस Reliance",
+   "start_s": 344,
+   "line": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय",
+   "evidence": [
+    {
+     "text": "वांट टो बाय",
+     "where": "transcript",
+     "start_s": 344
+    },
+    {
+     "text": "टाटा मोटर्स",
+     "where": "transcript",
+     "start_s": 344
+    }
+   ],
+   "reason": "The speaker explicitly tells viewers to buy Tata Motors.",
+   "ticker": {
+    "yahoo_symbol": "TMCV.NS",
+    "google_finance": "TMCV:NSE",
+    "name": "Tata Motors Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 332,
+     "text": "कॉल मैंने खरीदा है और उसके सामने 410 के बेचे समरेश में कंधों पर तो मैं नेटवर्क"
+    },
+    {
+     "start_s": 339,
+     "text": "ऑफिस ऑर्डर लिमिटेड वन सदस्यों द्वारा डंकिन अंबुजा सीमेंट हैंड अगर मैं आपको"
+    },
+    {
+     "start_s": 344,
+     "text": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय"
+    },
+    {
+     "start_s": 351,
+     "text": "थिस बाय टाटा मोटर्स और एंबुलेंस Reliance मुझे लग रहा था कि आज थोड़ा"
+    },
+    {
+     "start_s": 356,
+     "text": "गिरेगा और इसके लिए मैंने अश्योरेंस का चार्ट इट वास बेसिकली नियर मेजर"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=344s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": null,
+    "horizons": {},
+    "target_hit": null,
+    "outcome": "no_price_data"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "insufficient_data",
+    "fired": [],
+    "metrics": {}
+   }
+  },
+  {
+   "company": "Reliance Industries",
+   "symbol_guess": "RELIANCE",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप वांट टो बाय थिस बाय टाटा मोटर्स और एंबुलेंस Reliance",
+   "start_s": 344,
+   "line": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय",
+   "evidence": [
+    {
+     "text": "वांट टो बाय",
+     "where": "transcript",
+     "start_s": 344
+    },
+    {
+     "text": "Reliance",
+     "where": "transcript",
+     "start_s": 351
+    }
+   ],
+   "reason": "The speaker explicitly tells viewers to buy Reliance.",
+   "ticker": {
+    "yahoo_symbol": "RELIANCE.NS",
+    "google_finance": "RELIANCE:NSE",
+    "name": "Reliance Industries Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 332,
+     "text": "कॉल मैंने खरीदा है और उसके सामने 410 के बेचे समरेश में कंधों पर तो मैं नेटवर्क"
+    },
+    {
+     "start_s": 339,
+     "text": "ऑफिस ऑर्डर लिमिटेड वन सदस्यों द्वारा डंकिन अंबुजा सीमेंट हैंड अगर मैं आपको"
+    },
+    {
+     "start_s": 344,
+     "text": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय"
+    },
+    {
+     "start_s": 351,
+     "text": "थिस बाय टाटा मोटर्स और एंबुलेंस Reliance मुझे लग रहा था कि आज थोड़ा"
+    },
+    {
+     "start_s": 356,
+     "text": "गिरेगा और इसके लिए मैंने अश्योरेंस का चार्ट इट वास बेसिकली नियर मेजर"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=344s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2022-08-05",
+     "price": 1267.0,
+     "volume": 33356517
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2022-08-12",
+       "price": 1316.5,
+       "volume": 19262394
+      },
+      "stock_return_pct": 3.91,
+      "nifty_return_pct": 1.73,
+      "excess_vs_nifty_pct": 2.18,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2022-09-09",
+       "price": 1284.65,
+       "volume": 20808041
+      },
+      "stock_return_pct": 1.39,
+      "nifty_return_pct": 2.51,
+      "excess_vs_nifty_pct": -1.12,
+      "right": false
+     },
+     "90": {
+      "status": "done",
+      "exit": {
+       "date": "2022-11-04",
+       "price": 1296.38,
+       "volume": 25213708
+      },
+      "stock_return_pct": 2.32,
+      "nifty_return_pct": 4.14,
+      "excess_vs_nifty_pct": -1.82,
+      "right": false
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 1270.96,
+     "baseline_daily_turnover_inr": 7620904730,
+     "price_at_promotion": 1267.0,
+     "peak_price": 1361.08,
+     "peak_date": "2022-12-02",
+     "runup_x": 1.07,
+     "volume_spike_x": 1.0,
+     "trough_after_peak": 1101.65,
+     "trough_date": "2023-03-24",
+     "drawdown_from_peak_pct": 19.1,
+     "data_spacing_days": 7
+    }
+   }
+  },
+  {
+   "company": "Ambuja Cements",
+   "symbol_guess": "AMBJA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "डंकिन अंबुजा सीमेंट हैंड",
+   "start_s": 332,
+   "line": "कॉल मैंने खरीदा है और उसके सामने 410 के बेचे समरेश में कंधों पर तो मैं नेटवर्क",
+   "evidence": [
+    {
+     "text": "अंबुजा सीमेंट",
+     "where": "transcript",
+     "start_s": 339
+    }
+   ],
+   "reason": "The company is mentioned in passing without a clear buy/sell recommendation.",
+   "ticker": {
+    "yahoo_symbol": "AMBUJACEM.NS",
+    "google_finance": "AMBUJACEM:NSE",
+    "name": "Ambuja Cements Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 313,
+     "text": "2.98 ए सेलिब्रिटी वैरी गुड तो यह मेरे 2.6 कम दिखाया देखना पड़ेगा सिग्नल"
+    },
+    {
+     "start_s": 325,
+     "text": "कि आज मुझे लगा था यात्रियों के लिए विशेष पास वापस मैच में 2728 खरीदना है और शो यह"
+    },
+    {
+     "start_s": 332,
+     "text": "कॉल मैंने खरीदा है और उसके सामने 410 के बेचे समरेश में कंधों पर तो मैं नेटवर्क"
+    },
+    {
+     "start_s": 339,
+     "text": "ऑफिस ऑर्डर लिमिटेड वन सदस्यों द्वारा डंकिन अंबुजा सीमेंट हैंड अगर मैं आपको"
+    },
+    {
+     "start_s": 344,
+     "text": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय"
+    }
+   ],
+   "video_id": "tRHkKajYgsE",
+   "video_title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "timestamp_url": "https://www.youtube.com/watch?v=tRHkKajYgsE&t=332s",
+   "call_date": "2022-08-04",
+   "date_uncertainty_days": 0
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 2,
+   "scored_30d": 1,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": 0.0,
+   "avg_excess_vs_nifty_30d_pct": -1.12,
+   "median_excess_vs_nifty_30d_pct": -1.12
+  },
+  "featured_picks": {
+   "calls": 1,
+   "scored_30d": 1,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": 0.0,
+   "avg_excess_vs_nifty_30d_pct": -1.32,
+   "median_excess_vs_nifty_30d_pct": -1.32
+  },
+  "all_scoreable": {
+   "calls": 3,
+   "scored_30d": 2,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": 0.0,
+   "avg_excess_vs_nifty_30d_pct": -1.22,
+   "median_excess_vs_nifty_30d_pct": -1.22
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [],
+  "watch_mentions": 8
+ },
+ "regulatory": {
+  "name": "Avadhut Sathe",
+  "sebi_pages": [
+   {
+    "title": "Order in the matter of Avadhut Sathe Trading Academy ...",
+    "url": "https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/ORDER_1764842991.pdf",
+    "snippet": "Avadhut Sathe (AS): (Placing sell order for Silver Futures using live data/chart) ……Ye apna silver chal pada, 424 jo humne buying ki thi na ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "SAT grants partial relief to Avadhut Sathe, orders ₹100 crore deposit",
+    "url": "https://www.thehindu.com/business/sat-grants-partial-relief-to-avadhut-sathe-orders-100-crore-deposit/article70539774.ece",
+    "source": "The Hindu",
+    "date": "01/23/2026, 08:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Supreme Court Allows Avadhut Sathe Trading Academy To Withdraw ₹2.25 Crore Monthly For Operational...",
+    "url": "https://www.livelawbiz.com/top-stories/supreme-court-allows-avadhut-sathe-trading-academy-to-withdraw-225-crore-monthly-declines-to-interfere-with-sat-order-526529",
+    "source": "LiveLawBiz",
+    "date": "03/16/2026, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Avadhut Sathe case: SEBI sought Rs 546 crore but SAT ordered to deposit Rs 100 crore. How SAT arrived at...",
+    "url": "https://www.moneycontrol.com/news/business/markets/avadhut-sathe-case-sebi-sought-rs-546-crore-but-sat-ordered-to-deposit-rs-100-crore-how-sat-arrived-at-the-rs-100-crore-figure-13786695.html",
+    "source": "Moneycontrol.com",
+    "date": "01/22/2026, 08:00 AM, +0000 UTC"
+   },
+   {
+    "title": "India plays ‘whack-a-mole’ with online financial influencers",
+    "url": "https://www.ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836?syn-25a6b1a6=1",
+    "source": "Financial Times",
+    "date": "06/21/2026, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "SAT upholds Sebi case against Avadhut Sathe, but cuts deposit to ₹100 crore",
+    "url": "https://www.livemint.com/news/sat-avadhut-sathe-sebi-stock-markets-probe-investor-education-11769094466435.html",
+    "source": "Livemint",
+    "date": "01/22/2026, 08:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Avadhut Sathe gets SAT reprieve, gets to access funds for basic expenses",
+    "url": "https://www.newindianexpress.com/business/2025/Dec/19/avadhut-sathe-gets-sat-reprieve-gets-to-access-funds-for-basic-expenses",
+    "source": "The New Indian Express",
+    "date": "12/19/2025, 08:00 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 15,
+ "generated_at": "2026-10-08T16:03:16"
+}

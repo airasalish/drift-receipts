@@ -1,0 +1,404 @@
+{
+ "search_metadata": {
+  "id": "6ac9f74ea7d7841ef58af856",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/qXTRim7JKv1VR9iwNFr_i4Z55i2VSbfohoglnfawTnQ/6ac9f74ea7d7841ef58af856.json",
+  "markdown_endpoint": "https://serpapi.com/searches/qXTRim7JKv1VR9iwNFr_i4Z55i2VSbfohoglnfawTnQ/6ac9f74ea7d7841ef58af856.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/qXTRim7JKv1VR9iwNFr_i4Z55i2VSbfohoglnfawTnQ/6ac9f74ea7d7841ef58af856.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:02 UTC",
+  "processed_at": "2026-10-10 08:29:02 UTC",
+  "google_url": "https://www.google.com/search?q=Amazon.com+share+price&oq=Amazon.com+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/qXTRim7JKv1VR9iwNFr_i4Z55i2VSbfohoglnfawTnQ/6ac9f74ea7d7841ef58af856.html",
+  "total_time_taken": 0.56
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Amazon.com share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Amazon.com share price",
+  "total_results": 5560000000,
+  "time_taken_displayed": 0.39,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "Why is Amazon share price falling today?",
+   "type": "ai_overview",
+   "page_token": "JbEAWnicHdBNbuIwGIBh9TJdljhpGIGERjLYUcPg1E4-m3gzMg5g8j8lJTS7ucucak7Tqtt380jv33_1pa3-P9zcMPTX5Ww2juPTuevO9fHJds3MXD9aO7Omrg_GVsv5jzn6ebIr8v6C139eMIe-lxvhpVWRqwjCQ4OCA4RxGnXeVxcKRj_ZCCyivtJrpJg3gFXXMFe0TGD40AHdZxImplAoVUEVuPmhEfSXXEyMyLUhbNSIwlG5KK8kM5F2aYC3R8j9Xc2onGKtqt5PPZaAxB73FtsvM7C-NjBRnNai00CTtKWxQAuuWiq013OeCc9mmuzIHRsStynC92yNnlWrR2gKQVwBRaO3-T6-mMq9ZkERJBHjjKC9bKUw9-7CQUy2rBsAN-ZlfMv9OGSla3ZqkXC_cKrEmyPRWgbsGfjjyd5WweP3z9XvUzMs-7fu_AkEpYCG",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=JbEAWnicHdBNbuIwGIBh9TJdljhpGIGERjLYUcPg1E4-m3gzMg5g8j8lJTS7ucucak7Tqtt380jv33_1pa3-P9zcMPTX5Ww2juPTuevO9fHJds3MXD9aO7Omrg_GVsv5jzn6ebIr8v6C139eMIe-lxvhpVWRqwjCQ4OCA4RxGnXeVxcKRj_ZCCyivtJrpJg3gFXXMFe0TGD40AHdZxImplAoVUEVuPmhEfSXXEyMyLUhbNSIwlG5KK8kM5F2aYC3R8j9Xc2onGKtqt5PPZaAxB73FtsvM7C-NjBRnNai00CTtKWxQAuuWiq013OeCc9mmuzIHRsStynC92yNnlWrR2gKQVwBRaO3-T6-mMq9ZkERJBHjjKC9bKUw9-7CQUy2rBsAN-ZlfMv9OGSla3ZqkXC_cKrEmyPRWgbsGfjjyd5WweP3z9XvUzMs-7fu_AkEpYCG",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiV2h5IGlzIEFtYXpvbiBzaGFyZSBwcmljZSBmYWxsaW5nIHRvZGF5PyIsImxrIjoiR2lkM2FIa2dhWE1nWVcxaGVtOXVJSE5vWVhKbElIQnlhV05sSUdaaGJHeHBibWNnZEc5a1lYayIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiV2h5IGlzIEFtYXpvbiBzaGFyZSBwcmljZSBmYWxsaW5nIHRvZGF5PyIsImxrIjoiR2lkM2FIa2dhWE1nWVcxaGVtOXVJSE5vWVhKbElIQnlhV05sSUdaaGJHeHBibWNnZEc5a1lYayIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0%3D"
+  },
+  {
+   "question": "What if I invested $10,000 in Amazon in 2000?",
+   "type": "ai_overview",
+   "page_token": "dZV1pnicHZBLjpswAEDVy8xygodkqokUVWUMzFBMBoNN8KbyJ4ljzGcSAoRdr9Az9FQ9TaPu3urp6f36Y09N9ffLb9333WW9WIzj-Hhs26PdP8q2XvDLrZELya0VXFbr56_P4NtBbvxBeq9n6aWk6yjETmbTpYDRTEJKpLGIv6laQgawqXpp3qccYssh-0RU98zoIS6WoNypid-cvrBJwN3vLsru3HRMPeFradBKNQmkwINkpoN4BR8lUGU5ex1qkisvVgiHeiueultMaZ-5gcmqoMFkgqiatgKomzLYTQrHFW-tI6A37U1gM59VyHmZabWKpWNj4uNlDtRZ3Zuxk7B818WsxtckeAmJeR-TAgMGoqEk-iIcnQkQRL5WRNXsR7mLTrzSH7mr3G2YpIkPdrShmE_tKSV4vn-oiVWHItQRCYN0H_YtytXpbtQI0k9iGckCXKrx4SCHjfvw__Xm56Hu1925Pf4DfrmONQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dZV1pnicHZBLjpswAEDVy8xygodkqokUVWUMzFBMBoNN8KbyJ4ljzGcSAoRdr9Az9FQ9TaPu3urp6f36Y09N9ffLb9333WW9WIzj-Hhs26PdP8q2XvDLrZELya0VXFbr56_P4NtBbvxBeq9n6aWk6yjETmbTpYDRTEJKpLGIv6laQgawqXpp3qccYssh-0RU98zoIS6WoNypid-cvrBJwN3vLsru3HRMPeFradBKNQmkwINkpoN4BR8lUGU5ex1qkisvVgiHeiueultMaZ-5gcmqoMFkgqiatgKomzLYTQrHFW-tI6A37U1gM59VyHmZabWKpWNj4uNlDtRZ3Zuxk7B818WsxtckeAmJeR-TAgMGoqEk-iIcnQkQRL5WRNXsR7mLTrzSH7mr3G2YpIkPdrShmE_tKSV4vn-oiVWHItQRCYN0H_YtytXpbtQI0k9iGckCXKrx4SCHjfvw__Xm56Hu1925Pf4DfrmONQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiV2hhdCBpZiBJIGludmVzdGVkICQxMCwwMDAgaW4gQW1hem9uIGluIDIwMDA/IiwibGsiOiJjNVBTS3M5SUxGSElURlBJVk1qTUswc3RMa2xOVVRBMEFBSWdWeUV4TjdFcVB3X0VNZ0tLQUFBIiwiYnMiOiJjNFdQdXdyQ1FCUkVzZDNLT29WZWd1Q0RDSnY5Z1NYWW1BLVFWQmJYUENfR1hjbEdRX3g2VjQwa2ltQTNER2VZR2Jaamk2aG9nUXdFSjd4cEJhYkFLb1Z6UlhFS0daWWxxUnhxbldBcnhkS1pOeThXXzdCc3o5WlJnVFZRQmlHUXVxYW1UaE9ZLWR6am5GdmozV2FWc0k0VW5yTnF1Z0QxQVo5M09IN2diTU9tWWItNDF2RVJFSEt0RXpoY1dsQzZrUUtjeVdEb0Q0UnRtUnZZLWNQZkJrcDZGdHVpVUNXRVVyak85LUVoUkE5b1BMb0QiLCJpZCI6ImZjX1R2ZkphcmJqSE9Pd3c4Y1A0TVdWdVFrXzEifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiV2hhdCBpZiBJIGludmVzdGVkICQxMCwwMDAgaW4gQW1hem9uIGluIDIwMDA%2FIiwibGsiOiJjNVBTS3M5SUxGSElURlBJVk1qTUswc3RMa2xOVVRBMEFBSWdWeUV4TjdFcVB3X0VNZ0tLQUFBIiwiYnMiOiJjNFdQdXdyQ1FCUkVzZDNLT29WZWd1Q0RDSnY5Z1NYWW1BLVFWQmJYUENfR1hjbEdRX3g2VjQwa2ltQTNER2VZR2Jaamk2aG9nUXdFSjd4cEJhYkFLb1Z6UlhFS0daWWxxUnhxbldBcnhkS1pOeThXXzdCc3o5WlJnVFZRQmlHUXVxYW1UaE9ZLWR6am5GdmozV2FWc0k0VW5yTnF1Z0QxQVo5M09IN2diTU9tWWItNDF2RVJFSEt0RXpoY1dsQzZrUUtjeVdEb0Q0UnRtUnZZLWNQZkJrcDZGdHVpVUNXRVVyak85LUVoUkE5b1BMb0QiLCJpZCI6ImZjX1R2ZkphcmJqSE9Pd3c4Y1A0TVdWdVFrXzEifQ%3D%3D"
+  },
+  {
+   "question": "Is Amazon stock a good buy now?",
+   "type": "ai_overview",
+   "page_token": "NyOpwHicHdDbTsIwAADQ-DM8wm5gJCHGuXasuupKV0pfTGmBsnUX5DLYm__iV_k1Gv_g5Hx9231d_txdzOnUHqejUdd1w13T7OxmqJpqJI-3Wo2UtHYtVTmd3E_cx62agXMSPh-SMMvblkXEWZTtRJZuLGP7TuIHqEFwTWEbkMJy6dlKVLBk4NhL_uSSCp0Z0_EGCkcCMhc-ftFOFjBXhNRj25RiIOb2uu6hlTXapxxFwt8F1BE9KcIuo09jVmhP1AZLME50baJ1Ca6Shh2FRi554mGA4lUNY8yN2UB0I4W-SYdw4SCAKxS-crhQS8fXRXhII5zriCXL2Mrlnyb1GAFG57oSLyuO9rI079TX_luMMwxczmpG5LXZZznpVWGr3DNkXec99QL_lUGb9SIhc9QpStpFDk8pz8e6G2zVZeYP_j9nH9vqNG0_m90vMRqCFQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=NyOpwHicHdDbTsIwAADQ-DM8wm5gJCHGuXasuupKV0pfTGmBsnUX5DLYm__iV_k1Gv_g5Hx9231d_txdzOnUHqejUdd1w13T7OxmqJpqJI-3Wo2UtHYtVTmd3E_cx62agXMSPh-SMMvblkXEWZTtRJZuLGP7TuIHqEFwTWEbkMJy6dlKVLBk4NhL_uSSCp0Z0_EGCkcCMhc-ftFOFjBXhNRj25RiIOb2uu6hlTXapxxFwt8F1BE9KcIuo09jVmhP1AZLME50baJ1Ca6Shh2FRi554mGA4lUNY8yN2UB0I4W-SYdw4SCAKxS-crhQS8fXRXhII5zriCXL2Mrlnyb1GAFG57oSLyuO9rI079TX_luMMwxczmpG5LXZZznpVWGr3DNkXec99QL_lUGb9SIhc9QpStpFDk8pz8e6G2zVZeYP_j9nH9vqNG0_m90vMRqCFQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiSXMgQW1hem9uIHN0b2NrIGEgZ29vZCBidXkgbm93PyIsImxrIjoiR2g1cGN5QmhiV0Y2YjI0Z2MzUnZZMnNnWVNCbmIyOWtJR0oxZVNCdWIzYyIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiSXMgQW1hem9uIHN0b2NrIGEgZ29vZCBidXkgbm93PyIsImxrIjoiR2g1cGN5QmhiV0Y2YjI0Z2MzUnZZMnNnWVNCbmIyOWtJR0oxZVNCdWIzYyIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0%3D"
+  },
+  {
+   "question": "Are Amazon shares listed in India?",
+   "type": "ai_overview",
+   "page_token": "n_8nPnicHZDdToMwGEDjy3jpYAR_lizGOoowhVHaD-iNYS0MpEAVHJM738Wn8mlcvD3JSU7O94-qu-b34liNox5Wi8U0TVeHvj-o4kr07SIfvjqxELlS-1w0q-uba_O-FGvn00OP7x6KmNawIUY8g5-7Ki1is5IbcnwGeUxndBIYSGbqbQh3Y-EqxlT1mDDTk2ZVSkoGcDHiZ493eJc4KoMOQg46YzQIIfUmwGgsklvjxari0LFnqfQ77WQWN5iy2DD26cNEEp_TJ6SiRm8Ba5Q0_cxUENOZT7krXdZCfWbLgnp21NgEqF_yDjVkc5j2gDizIIgMGwtLDVli7oThE6eSTLZ8m6V-nTfVjlrSCt0gChwzPTeS_NTXESOzeFMtW8qBJLYfLHVdsIrRFm-KFJax8mfSjjF3cBhFl6U4rq3L_5_r17IdV_qjP_wBGPiENQ",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=n_8nPnicHZDdToMwGEDjy3jpYAR_lizGOoowhVHaD-iNYS0MpEAVHJM738Wn8mlcvD3JSU7O94-qu-b34liNox5Wi8U0TVeHvj-o4kr07SIfvjqxELlS-1w0q-uba_O-FGvn00OP7x6KmNawIUY8g5-7Ki1is5IbcnwGeUxndBIYSGbqbQh3Y-EqxlT1mDDTk2ZVSkoGcDHiZ493eJc4KoMOQg46YzQIIfUmwGgsklvjxari0LFnqfQ77WQWN5iy2DD26cNEEp_TJ6SiRm8Ba5Q0_cxUENOZT7krXdZCfWbLgnp21NgEqF_yDjVkc5j2gDizIIgMGwtLDVli7oThE6eSTLZ8m6V-nTfVjlrSCt0gChwzPTeS_NTXESOzeFMtW8qBJLYfLHVdsIrRFm-KFJax8mfSjjF3cBhFl6U4rq3L_5_r17IdV_qjP_wBGPiENQ",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiQXJlIEFtYXpvbiBzaGFyZXMgbGlzdGVkIGluIEluZGlhPyIsImxrIjoiR2lCcGN5QmhiV0Y2YjI0Z2MyaGhjbVZ6SUd4cGMzUmxaQ0JwYmlCcGJtUnBZUSIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTWRtOXRhbU5XTWtsV09WcENhR2hwVDE5MGN6SjBTM1ZwYVZSdVVGWmtWMEpMTlRWbExXdFNaMGhCY2tvek5HbFpUa0Y0Tm1aeVRWTlFObTVZV0dKSVkxZE5RMWRDT0RCM2JrVldjVUpDVEdwNVNWSklSM0ZNTjJsMmR4SVhWSFptU21GeVltcElUMDkzZHpoalVEUk5WMVoxVVdzYUlrRkVjM0k1WmxGSlNITkZRekpNVlY4MFdrOVFRMVZqYjNOblYzVTVWakZqVjJjIiwiZmN2IjoiMyIsImVpIjoiVHZmSmFyYmpIT093dzhjUDRNV1Z1UWsiLCJxYyI6IkNoWmhiV0Y2YjI0Z1kyOXRJSE5vWVhKbElIQnlhV05sRUFCOTBIaERQdyIsInF1ZXN0aW9uIjoiQXJlIEFtYXpvbiBzaGFyZXMgbGlzdGVkIGluIEluZGlhPyIsImxrIjoiR2lCcGN5QmhiV0Y2YjI0Z2MyaGhjbVZ6SUd4cGMzUmxaQ0JwYmlCcGJtUnBZUSIsImJzIjoiYzRXUHV3ckNRQlJFc2QzS09vVmVndUNEQ0p2OWdTWFltQS1RVkJiWFBDX0dYY2xHUV94NlY0MGtpbUEzREdlWUdiWmppNmhvZ1F3RUo3eHBCYWJBS29WelJYRUtHWllscVJ4cW5XQXJ4ZEtaTnk4V183QnN6OVpSZ1RWUUJpR1F1cWFtVGhPWS1kempuRnZqM1dhVnNJNFVuck5xdWdEMUFaOTNPSDdnYk1PbVliLTQxdkVSRUhLdEV6aGNXbEM2a1FLY3lXRG9ENFJ0bVJ2WS1jUGZCa3A2RnR1aVVDV0VVcmpPOS1FaFJBOW9QTG9EIiwiaWQiOiJmY19UdmZKYXJiakhPT3d3OGNQNE1XVnVRa18xIn0%3D"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "MSNG7niczVbbkqI4GH6AfY7lZnrloO2hq6iphEZBRTtqj_bcUAgYUCAtqGjf7bvs1T7SPs2Gk2K3Oj1zsbWxJCT58-c_ffn48y_PDVb__Pa3s9m8Rg8sG8dxBROCPbtiEp81okNgsgviRaHpfHU80Q4Y7IluwBx2YpUxI5FjbFec7BZdI5wvleEwjpvmU02bftuiFZNuF_W5EdlLqn2_jFidpY_V79VHOqhEFTvQO7AiI01_C-1OF6oVgROqlSFr-FQG_IcNywDRJ31bAfmGGICfUqeqAEgIqMcJJOULxxk6gZIF-pOT2V52_BVlmXXUytwAfan4nRiAQSFzwxi5pDdOJRNjtNQdgEafcujUMmWkGN6Ox0WP8i3PJ6FyxK96ompnIyBhDTxRB_IzpHfSWVTPToxTMSUeanAoj9BNy0EbAUXDEnJvi9FGJLUJC22dmKYEsRamBcyx85B2POuajpm-hFFS19KkxRHF7jTbari3hZ6qzO6Nl13ca6lE0QYmYs05lfOIYdmW7ujc13TMC3yjVefqtbsUU2Z0BFVUBtW3TigLs7oy03ClX4F8AScaoFOczxMDAbmUKSnZoH4Ibd40WpeXYgilUtnnR6aSh2S-lGppyWWm5HMqDTiAsYwulANMdL2Hk3wmkh-I8uLEOF3AuScljfRikY-Gw7O14UdvPtajJsNMsSRJmZ68MjEA7yLigFHZ6bMKTsxDwG0nPaF2xPA5rdPacQME0ILUVPX9jQSTO8HJ3SosLDLolmIM20k-6BqUV3Q4dhCSRiADRGqYfEyQBM9sl65kHSbKXn6Anaut9ykptcDNOxiU4dPubZuKwcWH7pRbPc6Ctd5e2LK1XON6fBkuxJ__HAmZ_y9MFRSFcoq6iin4KUypKrxEUXK-mtl6oqgEUz2M8RVM9TNMFRSVrBUU9VQ-NfPmA6bk6ISpA0opSrtGUT-NKXgTU0WSLmHq-TKm1GuYSimqjClHQ2cUdZb1I0WVMPULFNX7VYpKIWZn3TlfbZf4Bm-9DhZgHDr8yoN1zUKb8T3s2c-6zoEf8tbC3zz4huXd6a71AIXu5mDd6XSCPNgWsxaBb7yRIPn2_BI5Rmh_eQ1d02Z8LyQiZ9S3-n66CWftoBfuvfXLaum73yePar0bWGMSD_026vpyrbqeHYAgKbtw3pX4DTDIfjSbkzDCzbVgtu3JveWBsKpOY0Ui4-HWQlGnOvmjLy-iPl_jNwNz_zY67KCp6F1n0NLjmTPSWwOp4cbVjiGAmdHv7ebN1KpI3O3177pHUUlWDHUkskWe8UNTpJmuYTBAYAqAQREIuhjS64_-ad-nfZ_QC1d5AegxgTQTmYZuRztRuOcatmFUF4tGQzBMgfHx5vAqtjgmCkKR_xfNQU8h",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MSNG7niczVbbkqI4GH6AfY7lZnrloO2hq6iphEZBRTtqj_bcUAgYUCAtqGjf7bvs1T7SPs2Gk2K3Oj1zsbWxJCT58-c_ffn48y_PDVb__Pa3s9m8Rg8sG8dxBROCPbtiEp81okNgsgviRaHpfHU80Q4Y7IluwBx2YpUxI5FjbFec7BZdI5wvleEwjpvmU02bftuiFZNuF_W5EdlLqn2_jFidpY_V79VHOqhEFTvQO7AiI01_C-1OF6oVgROqlSFr-FQG_IcNywDRJ31bAfmGGICfUqeqAEgIqMcJJOULxxk6gZIF-pOT2V52_BVlmXXUytwAfan4nRiAQSFzwxi5pDdOJRNjtNQdgEafcujUMmWkGN6Ox0WP8i3PJ6FyxK96ompnIyBhDTxRB_IzpHfSWVTPToxTMSUeanAoj9BNy0EbAUXDEnJvi9FGJLUJC22dmKYEsRamBcyx85B2POuajpm-hFFS19KkxRHF7jTbari3hZ6qzO6Nl13ca6lE0QYmYs05lfOIYdmW7ujc13TMC3yjVefqtbsUU2Z0BFVUBtW3TigLs7oy03ClX4F8AScaoFOczxMDAbmUKSnZoH4Ibd40WpeXYgilUtnnR6aSh2S-lGppyWWm5HMqDTiAsYwulANMdL2Hk3wmkh-I8uLEOF3AuScljfRikY-Gw7O14UdvPtajJsNMsSRJmZ68MjEA7yLigFHZ6bMKTsxDwG0nPaF2xPA5rdPacQME0ILUVPX9jQSTO8HJ3SosLDLolmIM20k-6BqUV3Q4dhCSRiADRGqYfEyQBM9sl65kHSbKXn6Anaut9ykptcDNOxiU4dPubZuKwcWH7pRbPc6Ctd5e2LK1XON6fBkuxJ__HAmZ_y9MFRSFcoq6iin4KUypKrxEUXK-mtl6oqgEUz2M8RVM9TNMFRSVrBUU9VQ-NfPmA6bk6ISpA0opSrtGUT-NKXgTU0WSLmHq-TKm1GuYSimqjClHQ2cUdZb1I0WVMPULFNX7VYpKIWZn3TlfbZf4Bm-9DhZgHDr8yoN1zUKb8T3s2c-6zoEf8tbC3zz4huXd6a71AIXu5mDd6XSCPNgWsxaBb7yRIPn2_BI5Rmh_eQ1d02Z8LyQiZ9S3-n66CWftoBfuvfXLaum73yePar0bWGMSD_026vpyrbqeHYAgKbtw3pX4DTDIfjSbkzDCzbVgtu3JveWBsKpOY0Ui4-HWQlGnOvmjLy-iPl_jNwNz_zY67KCp6F1n0NLjmTPSWwOp4cbVjiGAmdHv7ebN1KpI3O3177pHUUlWDHUkskWe8UNTpJmuYTBAYAqAQREIuhjS64_-ad-nfZ_QC1d5AegxgTQTmYZuRztRuOcatmFUF4tGQzBMgfHx5vAqtjgmCkKR_xfNQU8h"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Amazon.in",
+   "link": "https://www.amazon.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUQHrOzAVpvvsWLo2Q1v_yqDq92TAhD42Vqdw9JZ-MC26hhOIgdKJyzJgEt6TG-_bqeCbGqyZnfOXLCmfoSfCpBFsX3BkG9YEekS9Hp4rDzzcVA&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery ...",
+   "snippet_highlighted_words": [
+    "Amazon.in"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Amazon.in: Online Shopping India - Buy mobiles, laptops, cameras, books, watches, apparel, shoes and e-Gift Cards. Free Shipping & Cash on Delivery ...",
+     "source_info_link": "https://www.amazon.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWcHZ2c1dMbzJRMXZfeXFEcTkyVEFoRDQyVnFkdzlKWi1NQzI2aGhPSWdkS0p5ekpnRXQ2VEctX2JxZUNiR3F5Wm5mT1hMQ21mb1NmQ3BCRnNYM0JrRzlZRWVrUzlIcDRyRHp6Y1ZBEgQaAggAGvcCEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0QIIABAAGAAgACoNCgZhbWF6b24V8-08QDJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVnB2dnNXTG8yUTF2X3lxRHE5MlRBaEQ0MlZxZHc5SlotTUMyNmhoT0lnZEtKeXpKZ0V0NlRHLV9icWVDYkdxeVpuZk9YTENtZm9TZkNwQkZzWDNCa0c5WUVla1M5SHA0ckR6emNWQToQPGI-QW1hem9uPC9iPi5pbkKnATxiPkFtYXpvbi5pbjwvYj46IE9ubGluZSBTaG9wcGluZyBJbmRpYSAtIEJ1eSBtb2JpbGVzLCBsYXB0b3BzLCBjYW1lcmFzLCBib29rcywgd2F0Y2hlcywgYXBwYXJlbCwgc2hvZXMgYW5kIGUtR2lmdCBDYXJkcy4gRnJlZSBTaGlwcGluZyAmYW1wOyBDYXNoIG9uIERlbGl2ZXJ5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnwvZ290bz91cmw9Q0FFU1VRSHJPekFWcHZ2c1dMbzJRMXZfeXFEcTkyVEFoRDQyVnFkdzlKWi1NQzI2aGhPSWdkS0p5ekpnRXQ2VEctX2JxZUNiR3F5Wm5mT1hMQ21mb1NmQ3BCRnNYM0JrRzlZRWVrUzlIcDRyRHp6Y1ZBEgQaAggAGvcCEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA0QIIABAAGAAgACoNCgZhbWF6b24V8-08QDJ8L2dvdG8_dXJsPUNBRVNVUUhyT3pBVnB2dnNXTG8yUTF2X3lxRHE5MlRBaEQ0MlZxZHc5SlotTUMyNmhoT0lnZEtKeXpKZ0V0NlRHLV9icWVDYkdxeVpuZk9YTENtZm9TZkNwQkZzWDNCa0c5WUVla1M5SHA0ckR6emNWQToQPGI-QW1hem9uPC9iPi5pbkKnATxiPkFtYXpvbi5pbjwvYj46IE9ubGluZSBTaG9wcGluZyBJbmRpYSAtIEJ1eSBtb2JpbGVzLCBsYXB0b3BzLCBjYW1lcmFzLCBib29rcywgd2F0Y2hlcywgYXBwYXJlbCwgc2hvZXMgYW5kIGUtR2lmdCBDYXJkcy4gRnJlZSBTaGlwcGluZyAmYW1wOyBDYXNoIG9uIERlbGl2ZXJ5Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Amazon.in"
+  },
+  {
+   "position": 2,
+   "title": "Amazon",
+   "link": "https://www.linkedin.com/company/amazon",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYgHrOzAVo9arSspTTzaS7YjeJedFoWdw5RbGwN-PlOxtFT3q45GTeddeRcrVGkt2eQxMJwfxB_VHGaEldm0gBJGkNvFeY-cCubozSuYoLQ8yZYqb3IV4gFTneIxJdQburfEx&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECCcQAQ&uoh=1",
+   "displayed_link": "3.7Cr+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp",
+   "snippet": "Industry: Software Development ; Company size: 10,001+ employees ; Type: Public Company ...",
+   "about_this_result": {
+    "source": {
+     "description": "Industry: Software Development ; Company size: 10,001+ employees ; Type: Public Company ...",
+     "source_info_link": "https://www.linkedin.com/company/amazon",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAABQAwCdASoQABAAAsBMJbACdLoBLf4oANRJj6d2SZLhF7_ohAD-4n1FofdRna1o8FCt-OiJvVc8lzO8Rt17R6yr0CRJL0FBwsd8OIDxQ356R55Xei0KcLjbfh5C05X1nTKIh8X8ekP3RBUogy_jZ3kCUPbBWjzINpJUmDhbtDZS1e3a8_aUBwnkYz0mnTj4n4__aq6btWmAus7Zjw7JLZ_kNfUgtaLPXB6k1U8MVzX5_C1AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm85YXJTc3BUVHphUzdZamVKZWRGb1dkdzVSYkd3Ti1QbE94dEZUM3E0NUdUZWRkZVJjclZHa3QyZVF4TUp3ZnhCX1ZIR2FFbGRtMGdCSkdrTnZGZVktY0N1Ym96U3VZb0xROHlaWXFiM0lWNGdGVG5lSXhKZFFidXJmRXgSBBoCCAAazgISAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCoAggAEAAYACAAKg0KBmFtYXpvbhU9wLRAMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm85YXJTc3BUVHphUzdZamVKZWRGb1dkdzVSYkd3Ti1QbE94dEZUM3E0NUdUZWRkZVJjclZHa3QyZVF4TUp3ZnhCX1ZIR2FFbGRtMGdCSkdrTnZGZVktY0N1Ym96U3VZb0xROHlaWXFiM0lWNGdGVG5lSXhKZFFidXJmRXg6GDxiPkFtYXpvbjwvYj4gLSBMaW5rZWRJbkJgSW5kdXN0cnk6IFNvZnR3YXJlIERldmVsb3BtZW50IDsgQ29tcGFueSBzaXplOiAxMCwwMDErIGVtcGxveWVlcyA7IFR5cGU6IFB1YmxpYyBDb21wYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm85YXJTc3BUVHphUzdZamVKZWRGb1dkdzVSYkd3Ti1QbE94dEZUM3E0NUdUZWRkZVJjclZHa3QyZVF4TUp3ZnhCX1ZIR2FFbGRtMGdCSkdrTnZGZVktY0N1Ym96U3VZb0xROHlaWXFiM0lWNGdGVG5lSXhKZFFidXJmRXgSBBoCCAAazgISAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCoAggAEAAYACAAKg0KBmFtYXpvbhU9wLRAMpIBL2dvdG8_dXJsPUNBRVNZZ0hyT3pBVm85YXJTc3BUVHphUzdZamVKZWRGb1dkdzVSYkd3Ti1QbE94dEZUM3E0NUdUZWRkZVJjclZHa3QyZVF4TUp3ZnhCX1ZIR2FFbGRtMGdCSkdrTnZGZVktY0N1Ym96U3VZb0xROHlaWXFiM0lWNGdGVG5lSXhKZFFidXJmRXg6GDxiPkFtYXpvbjwvYj4gLSBMaW5rZWRJbkJgSW5kdXN0cnk6IFNvZnR3YXJlIERldmVsb3BtZW50IDsgQ29tcGFueSBzaXplOiAxMCwwMDErIGVtcGxveWVlcyA7IFR5cGU6IFB1YmxpYyBDb21wYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "LinkedIn · Amazon",
+   "read_more_link": "https://www.linkedin.com/company/amazon#:~:text=Industry,Software%20Development&text=Company%20size,10%2C001%2B%20employees&text=Type,Public%20Company"
+  },
+  {
+   "position": 3,
+   "title": "Amazon India Shop, Pay, miniTV - Apps on Google Play",
+   "link": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Din.amazon.mShop.android.shopping%26hl%3Den&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECCsQAQ",
+   "displayed_link": "https://play.google.com › store › apps › details",
+   "favicon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp",
+   "snippet": "With the Amazon app, shop online and pay across a wide selection of products, groceries and categories at great prices, within a single shopping app.",
+   "snippet_highlighted_words": [
+    "Amazon",
+    "prices"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.4,
+      "reviews": 10460453
+     },
+     "extensions": [
+      "4.4(1,04,60,453)",
+      "Free",
+      "Android",
+      "Shopping"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "With the Amazon app, shop online and pay across a wide selection of products, groceries and categories at great prices, within a single shopping app.",
+     "source_info_link": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en",
+     "icon": "https://serpapi.com/images/i/UklGRkABAABXRUJQVlA4IDQBAAAQCQCdASogACAAPtE-tFooIigoFAEAGglsALszNDmfmfEB73thtgOzN6APJJ6f_qAPQA8rf2MP2W9I4mYjJ8khuaW8I_yP45fxEOMKNHCNJKAA_vvXTofIAVduHb-TXX4D3dQelpbt9yrOpq96LYIcnaoaRz7UWh1LxKN2ikVNfzze6YfrH-paXZEvjZHmHxqvASu7QWwFwALL3kur9pNnpHcddaAvbCo13kZ3snMZ1bG69n-Nyp9qUX1mugDQb-f_RP6_Di07-pNxe9Ja_-mSzKIQqTntZt8Qny57cYw5z2yP2QgTpyTgRbzRYRD8X0Br4Wzh90vJxaT-98P41tufiNul_j00xlsWSfBs27mpIYAUOy6dHrbdDnJVG8ZPgssUqINxPQnEc4LXCAuo7MH9pKHgAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=ClRodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9aW4uYW1hem9uLm1TaG9wLmFuZHJvaWQuc2hvcHBpbmcmaGw9ZW4SBBoCCAAa9gISAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDQAggAEAAYACAAKg0KBmFtYXpvbhWJcKhAMlRodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9aW4uYW1hem9uLm1TaG9wLmFuZHJvaWQuc2hvcHBpbmcmaGw9ZW46OzxiPkFtYXpvbjwvYj4gSW5kaWEgU2hvcCwgUGF5LCBtaW5pVFYgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QqMBV2l0aCB0aGUgPGI-QW1hem9uPC9iPiBhcHAsIHNob3Agb25saW5lIGFuZCBwYXkgYWNyb3NzIGEgd2lkZSBzZWxlY3Rpb24gb2YgcHJvZHVjdHMsIGdyb2NlcmllcyBhbmQgY2F0ZWdvcmllcyBhdCBncmVhdCA8Yj5wcmljZXM8L2I-LCB3aXRoaW4gYSBzaW5nbGUgc2hvcHBpbmcgYXBwLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=ClRodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9aW4uYW1hem9uLm1TaG9wLmFuZHJvaWQuc2hvcHBpbmcmaGw9ZW4SBBoCCAAa9gISAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDQAggAEAAYACAAKg0KBmFtYXpvbhWJcKhAMlRodHRwczovL3BsYXkuZ29vZ2xlLmNvbS9zdG9yZS9hcHBzL2RldGFpbHM_aWQ9aW4uYW1hem9uLm1TaG9wLmFuZHJvaWQuc2hvcHBpbmcmaGw9ZW46OzxiPkFtYXpvbjwvYj4gSW5kaWEgU2hvcCwgUGF5LCBtaW5pVFYgLSBBcHBzIG9uIEdvb2dsZSBQbGF5QqMBV2l0aCB0aGUgPGI-QW1hem9uPC9iPiBhcHAsIHNob3Agb25saW5lIGFuZCBwYXkgYWNyb3NzIGEgd2lkZSBzZWxlY3Rpb24gb2YgcHJvZHVjdHMsIGdyb2NlcmllcyBhbmQgY2F0ZWdvcmllcyBhdCBncmVhdCA8Yj5wcmljZXM8L2I-LCB3aXRoaW4gYSBzaW5nbGUgc2hvcHBpbmcgYXBwLiICEAFIAFgAaAA",
+   "source": "Google Play",
+   "read_more_link": "https://play.google.com/store/apps/details?id=in.amazon.mShop.android.shopping&hl=en#:~:text=With%20the%20Amazon%20app%2C%20shop,within%20a%20single%20shopping%20app."
+  },
+  {
+   "position": 4,
+   "title": "Amazon.com Privacy Notice - Amazon Customer Service",
+   "link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFUkQnzRMyCJ2U-wibdJsq1N5YIlaV6pzzX8A4YfRqtsdruGcDZ4OSME7BY4czF4KkQwzipWoyylHvSTGfATxVNd2o3vTYJXrIuv9ijiZoJjgtoIvITnNr62uVIV4a4IkToIzqXY6dwySPZwYAVbMyO3Zyyqj9v9cmvJXygRCshogGPM&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.amazon.com › help › customer › display",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp",
+   "snippet": "Does Amazon Share Your Personal Information? How Secure Is Information About Me? What About Advertising? What Information Can I Access in My Account?",
+   "snippet_highlighted_words": [
+    "Amazon Share"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Does Amazon Share Your Personal Information? How Secure Is Information About Me? What About Advertising? What Information Can I Access in My Account?",
+     "source_info_link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAACQBgCdASogACAAPrkurlcnIacnG_DgFwlsAJ05QVS9IBfbUgOf_skkiKt1WV__usEhX-9coTL7-50nxt2AAP7rwfv_wVU6YaR6HeZ8T0iiG1fjH-GInxDGplesPRL-O0x4-jLXLJVrMvO3_cJvMj_cRa0JBzOTvJo39P3-X3Vbv2mx--9K7GQfTSHM8rIPEivpW__F5Xr97_T-1Jjmwo86nAPgea8JWswphczyD4Oqa1VSV0cEvnU9Rq9yu8GxSRqQWixFre199AVlKmMOuBLCVngQ9Ht61Y3zlYz_jWnBUkEzf052rF1dTRWK5wiGpvFFxYAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZVa1FuelJNeUNKMlUtd2liZEpzcTFONVlJbGFWNnB6elg4QTRZZlJxdHNkcnVHY0RaNE9TTUU3Qlk0Y3pGNEtrUXd6aXBXb3l5bEh2U1RHZkFUeFZOZDJvM3ZUWUpYckl1djlpamlab0pqZ3RvSXZJVG5OcjYydVZJVjRhNElrVG9JenFYWTZkd3lTUFp3WUFWYk15TzNaeXlxajl2OWNtdkpYeWdSQ3Nob2dHUE0SBBoCCAAa9QMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWg4IARIKYW1hem9uLmNvbXIAegCCQMEDCAAQABgAIAAqDQoGYW1hem9uFXAfFkEyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlVrUW56Uk15Q0oyVS13aWJkSnNxMU41WUlsYVY2cHp6WDhBNFlmUnF0c2RydUdjRFo0T1NNRTdCWTRjekY0S2tRd3ppcFdveXlsSHZTVEdmQVR4Vk5kMm8zdlRZSlhySXV2OWlqaVpvSmpndG9JdklUbk5yNjJ1VklWNGE0SWtUb0l6cVhZNmR3eVNQWndZQVZiTXlPM1p5eXFqOXY5Y212Slh5Z1JDc2hvZ0dQTTpBPGI-QW1hem9uLmNvbTwvYj4gUHJpdmFjeSBOb3RpY2UgLSA8Yj5BbWF6b248L2I-IEN1c3RvbWVyIFNlcnZpY2VCnAFEb2VzIDxiPkFtYXpvbiBTaGFyZTwvYj4gWW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbj8gSG93IFNlY3VyZSBJcyBJbmZvcm1hdGlvbiBBYm91dCBNZT8gV2hhdCBBYm91dCBBZHZlcnRpc2luZz8gV2hhdCBJbmZvcm1hdGlvbiBDYW4gSSBBY2Nlc3MgaW4gTXkgQWNjb3VudD8iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZVa1FuelJNeUNKMlUtd2liZEpzcTFONVlJbGFWNnB6elg4QTRZZlJxdHNkcnVHY0RaNE9TTUU3Qlk0Y3pGNEtrUXd6aXBXb3l5bEh2U1RHZkFUeFZOZDJvM3ZUWUpYckl1djlpamlab0pqZ3RvSXZJVG5OcjYydVZJVjRhNElrVG9JenFYWTZkd3lTUFp3WUFWYk15TzNaeXlxajl2OWNtdkpYeWdSQ3Nob2dHUE0SBBoCCAAa9QMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWg4IARIKYW1hem9uLmNvbXIAegCCQMEDCAAQABgAIAAqDQoGYW1hem9uFXAfFkEyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlVrUW56Uk15Q0oyVS13aWJkSnNxMU41WUlsYVY2cHp6WDhBNFlmUnF0c2RydUdjRFo0T1NNRTdCWTRjekY0S2tRd3ppcFdveXlsSHZTVEdmQVR4Vk5kMm8zdlRZSlhySXV2OWlqaVpvSmpndG9JdklUbk5yNjJ1VklWNGE0SWtUb0l6cVhZNmR3eVNQWndZQVZiTXlPM1p5eXFqOXY5Y212Slh5Z1JDc2hvZ0dQTTpBPGI-QW1hem9uLmNvbTwvYj4gUHJpdmFjeSBOb3RpY2UgLSA8Yj5BbWF6b248L2I-IEN1c3RvbWVyIFNlcnZpY2VCnAFEb2VzIDxiPkFtYXpvbiBTaGFyZTwvYj4gWW91ciBQZXJzb25hbCBJbmZvcm1hdGlvbj8gSG93IFNlY3VyZSBJcyBJbmZvcm1hdGlvbiBBYm91dCBNZT8gV2hhdCBBYm91dCBBZHZlcnRpc2luZz8gV2hhdCBJbmZvcm1hdGlvbiBDYW4gSSBBY2Nlc3MgaW4gTXkgQWNjb3VudD8iAhABSABYAGgA",
+   "source": "Amazon.com",
+   "read_more_link": "https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ#:~:text=Does%20Amazon%20Share%20Your%20Personal,I%20Access%20in%20My%20Account%3F"
+  },
+  {
+   "position": 5,
+   "title": "Amazon (company)",
+   "link": "https://en.wikipedia.org/wiki/Amazon_(company)",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVdHTBZYIcwVd_QLnQ5L726g019pul7q88RQVHk2WwCOE3akMeKjeX3KrmX3MzcuScM5t5J5mHZR9nFFGfFm4mrMfD0YF1sLePBaXYW1FtL4AKq3cnaGrHnGKHvp5ZM8pFcwfd9A&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://en.wikipedia.org › wiki › Amazon_(company)",
+   "favicon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp",
+   "snippet": "Amazon.com, Inc. (doing business as Amazon) is an American multinational conglomerate engaged in e-commerce, retail, cloud computing, online advertising, ...",
+   "snippet_highlighted_words": [
+    "Amazon.com"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Amazon.com, Inc. (doing business as Amazon) is an American multinational conglomerate engaged in e-commerce, retail, cloud computing, online advertising, ...",
+     "source_info_link": "https://en.wikipedia.org/wiki/Amazon_(company)",
+     "icon": "https://serpapi.com/images/i/UklGRqIAAABXRUJQVlA4IJYAAACQBACdASocABwAPtEutFooIagoGAEAGglpAAPhag38OpTAa4LU1EDlND7sAAAA_vYBJn72wN5WCZhxbfpmwOpA1vfrecvWOCVICC3-_rM6qzQWc8D3etVbTfBEeNbqJu-10k1h5hVXEe_3vpL5NJSAtUHvrJ6e_LkA__pZx-xvTn7v-qaIRjl47m2LoP17C7tcoPGgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRIVEJaWUljd1ZkX1FMblE1TDcyNmcwMTlwdWw3cTg4UlFWSGsyV3dDT0UzYWtNZUtqZVgzS3JtWDNNemN1U2NNNXQ1SjVtSFpSOW5GRkdmRm00bXJNZkQwWUYxc0xlUEJhWFlXMUZ0TDRBS3EzY25hR3JIbkdLSHZwNVpNOHBGY3dmZDlBEgQaAggAGq0DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAhwMIABAAGAAgACoNCgZhbWF6b24VlbK2QDKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZkSFRCWllJY3dWZF9RTG5RNUw3MjZnMDE5cHVsN3E4OFJRVkhrMld3Q09FM2FrTWVLamVYM0tybVgzTXpjdVNjTTV0NUo1bUhaUjluRkZHZkZtNG1yTWZEMFlGMXNMZVBCYVhZVzFGdEw0QUtxM2NuYUdySG5HS0h2cDVaTThwRmN3ZmQ5QTojPGI-QW1hem9uPC9iPiAoY29tcGFueSkgLSBXaWtpcGVkaWFCqQE8Yj5BbWF6b24uY29tPC9iPiwgSW5jLiAoZG9pbmcgYnVzaW5lc3MgYXMgQW1hem9uKSBpcyBhbiBBbWVyaWNhbiBtdWx0aW5hdGlvbmFsIGNvbmdsb21lcmF0ZSBlbmdhZ2VkIGluIGUtY29tbWVyY2UsIHJldGFpbCwgY2xvdWQgY29tcHV0aW5nLCBvbmxpbmUgYWR2ZXJ0aXNpbmcsJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmRIVEJaWUljd1ZkX1FMblE1TDcyNmcwMTlwdWw3cTg4UlFWSGsyV3dDT0UzYWtNZUtqZVgzS3JtWDNNemN1U2NNNXQ1SjVtSFpSOW5GRkdmRm00bXJNZkQwWUYxc0xlUEJhWFlXMUZ0TDRBS3EzY25hR3JIbkdLSHZwNVpNOHBGY3dmZDlBEgQaAggAGq0DEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAhwMIABAAGAAgACoNCgZhbWF6b24VlbK2QDKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZkSFRCWllJY3dWZF9RTG5RNUw3MjZnMDE5cHVsN3E4OFJRVkhrMld3Q09FM2FrTWVLamVYM0tybVgzTXpjdVNjTTV0NUo1bUhaUjluRkZHZkZtNG1yTWZEMFlGMXNMZVBCYVhZVzFGdEw0QUtxM2NuYUdySG5HS0h2cDVaTThwRmN3ZmQ5QTojPGI-QW1hem9uPC9iPiAoY29tcGFueSkgLSBXaWtpcGVkaWFCqQE8Yj5BbWF6b24uY29tPC9iPiwgSW5jLiAoZG9pbmcgYnVzaW5lc3MgYXMgQW1hem9uKSBpcyBhbiBBbWVyaWNhbiBtdWx0aW5hdGlvbmFsIGNvbmdsb21lcmF0ZSBlbmdhZ2VkIGluIGUtY29tbWVyY2UsIHJldGFpbCwgY2xvdWQgY29tcHV0aW5nLCBvbmxpbmUgYWR2ZXJ0aXNpbmcsJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Wikipedia",
+   "read_more_link": "https://en.wikipedia.org/wiki/Amazon_(company)#:~:text=Amazon.com%2C%20Inc.%20%5B1%5D%20(doing%20business,streaming%2C%20entertainment%2C%20and%20artificial%20intelligence."
+  },
+  {
+   "position": 6,
+   "title": "Prime Video: Watch movies, TV shows, sports, and live TV",
+   "link": "https://www.primevideo.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVa5jiwXTuSZEI8Evhh-pRmbXGNbJOOTsUVvt3LoAEsrOZM9qKG9jmBYK2As1aUEJ4Mldt2wMz5eU7JWrrhIvJ9dwWxMnlBCMH8D5xXy8untlA&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://www.primevideo.com",
+   "favicon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCDUAXaTvLxKqPGKQr-5vEye31jwBOLfi9QHkCKxgAAAP4NkMt_5V7Uv4hx3Pbno_7DrBcXT29mM8tc5yyD01HwaCYUV6NpIKBYW8cB9_6FCj4aOV4u7__jd4nC0F5VFFwkNE_79USnNi_MH90USL2c_KaErixpc-5HbP0j333AFUSU9A8PJr24QCvafpQJgt8-AULf82F4-7DN_I503wulJ_5a7YxsvEYTyPAmhYvPoBsbUkeW_20OgIy3pjGk3UO5ykhWVDKJ1NLWbYpJkLMSnBTPyY8tbVTjQSQVgFMXZks1mYB5vKHNa0GHn0IIt5yo_Z3yimtbQnKI2EnorADx1-3QAAA.webp",
+   "snippet": "Stream popular movies, TV shows, sports, and live TV included with Prime, and even more with add-on subscriptions. Watch anywhere, anytime.",
+   "about_this_result": {
+    "source": {
+     "description": "Stream popular movies, TV shows, sports, and live TV included with Prime, and even more with add-on subscriptions. Watch anywhere, anytime.",
+     "source_info_link": "https://www.primevideo.com/",
+     "icon": "https://serpapi.com/images/i/UklGRjIBAABXRUJQVlA4ICYBAADwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3oHCDUAXaTvLxKqPGKQr-5vEye31jwBOLfi9QHkCKxgAAAP4NkMt_5V7Uv4hx3Pbno_7DrBcXT29mM8tc5yyD01HwaCYUV6NpIKBYW8cB9_6FCj4aOV4u7__jd4nC0F5VFFwkNE_79USnNi_MH90USL2c_KaErixpc-5HbP0j333AFUSU9A8PJr24QCvafpQJgt8-AULf82F4-7DN_I503wulJ_5a7YxsvEYTyPAmhYvPoBsbUkeW_20OgIy3pjGk3UO5ykhWVDKJ1NLWbYpJkLMSnBTPyY8tbVTjQSQVgFMXZks1mYB5vKHNa0GHn0IIt5yo_Z3yimtbQnKI2EnorADx1-3QAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVmE1aml3WFR1U1pFSThFdmhoLXBSbWJYR05iSk9PVHNVVnZ0M0xvQUVzck9aTTlxS0c5am1CWUsyQXMxYVVFSjRNbGR0MndNejVlVTdKV3JyaEl2Sjlkd1d4TW5sQkNNSDhENXhYeTh1bnRsQRIEGgIIABqKAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOQCCAAQABgAIAAqDQoGYW1hem9uFbqcfz4yggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWYTVqaXdYVHVTWkVJOEV2aGgtcFJtYlhHTmJKT09Uc1VWdnQzTG9BRXNyT1pNOXFLRzlqbUJZSzJBczFhVUVKNE1sZHQyd016NWVVN0pXcnJoSXZKOWR3V3hNbmxCQ01IOEQ1eFh5OHVudGxBOjhQcmltZSBWaWRlbzogV2F0Y2ggbW92aWVzLCBUViBzaG93cywgc3BvcnRzLCBhbmQgbGl2ZSBUVkKLAVN0cmVhbSBwb3B1bGFyIG1vdmllcywgVFYgc2hvd3MsIHNwb3J0cywgYW5kIGxpdmUgVFYgaW5jbHVkZWQgd2l0aCBQcmltZSwgYW5kIGV2ZW4gbW9yZSB3aXRoIGFkZC1vbiBzdWJzY3JpcHRpb25zLiBXYXRjaCBhbnl3aGVyZSwgYW55dGltZS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVmE1aml3WFR1U1pFSThFdmhoLXBSbWJYR05iSk9PVHNVVnZ0M0xvQUVzck9aTTlxS0c5am1CWUsyQXMxYVVFSjRNbGR0MndNejVlVTdKV3JyaEl2Sjlkd1d4TW5sQkNNSDhENXhYeTh1bnRsQRIEGgIIABqKAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOQCCAAQABgAIAAqDQoGYW1hem9uFbqcfz4yggEvZ290bz91cmw9Q0FFU1ZnSHJPekFWYTVqaXdYVHVTWkVJOEV2aGgtcFJtYlhHTmJKT09Uc1VWdnQzTG9BRXNyT1pNOXFLRzlqbUJZSzJBczFhVUVKNE1sZHQyd016NWVVN0pXcnJoSXZKOWR3V3hNbmxCQ01IOEQ1eFh5OHVudGxBOjhQcmltZSBWaWRlbzogV2F0Y2ggbW92aWVzLCBUViBzaG93cywgc3BvcnRzLCBhbmQgbGl2ZSBUVkKLAVN0cmVhbSBwb3B1bGFyIG1vdmllcywgVFYgc2hvd3MsIHNwb3J0cywgYW5kIGxpdmUgVFYgaW5jbHVkZWQgd2l0aCBQcmltZSwgYW5kIGV2ZW4gbW9yZSB3aXRoIGFkZC1vbiBzdWJzY3JpcHRpb25zLiBXYXRjaCBhbnl3aGVyZSwgYW55dGltZS4iAhABSABYAGgA",
+   "source": "Prime Video"
+  },
+  {
+   "position": 7,
+   "title": "Amazon.com, Inc. - Overview",
+   "link": "https://ir.aboutamazon.com/overview/default.aspx",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESawHrOzAVLiy_t-TGbDvqMIh391ry3nXA-RY3G2K52OCzk0vguQU7oo-gNw1udgAX0Qlh6zM6jrNO97Z40cDnCGoIz4zRH8KS7HJdmap967PNfEI_mS1mZjePfSIAeOgWr-4JmoBpgt9SFue4&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://ir.aboutamazon.com › overview",
+   "favicon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAADwBQCdASogACAAPtE-tFooIigoFAEAGglnAMq13RV9gbGyd6bvZ8a-Tdk72cK5htSEPDzbU5puAAD-yr5r6d4n7p5t3-4Rtkj5LltCfF-WB1r5j4ZAHZraanLrcPen99U7wCeSQwcW3UIb2-K54TFsQObffAl7A-Gyi39VpjlPK_Z9QCdDKUr52HzaSAJtu30iB-Nh6yC0v9jBK560T1B-kSGd-Ge0tPCCy-QMQwqW0B_pJ44188prtl6FdNf4DCDdxbmp0q0bY32YXuNRetQmAPYLA7cWyx_whzeTT692YTloQt5n_OeP9kdKoouRb0n4lIWRMvpvECUjIb-Q-RdRVR0Ri569Cg4zTMec3HmAkAAA.webp",
+   "snippet": "Net sales increased 20% year-over-year Operating income was $27.5 billion, up 43% year-over-year AWS net sales increased 37%—its fastest growth in 18 quarters— ...",
+   "about_this_result": {
+    "source": {
+     "description": "Net sales increased 20% year-over-year Operating income was $27.5 billion, up 43% year-over-year AWS net sales increased 37%—its fastest growth in 18 quarters— ...",
+     "source_info_link": "https://ir.aboutamazon.com/overview/default.aspx",
+     "icon": "https://serpapi.com/images/i/UklGRh4BAABXRUJQVlA4IBIBAADwBQCdASogACAAPtE-tFooIigoFAEAGglnAMq13RV9gbGyd6bvZ8a-Tdk72cK5htSEPDzbU5puAAD-yr5r6d4n7p5t3-4Rtkj5LltCfF-WB1r5j4ZAHZraanLrcPen99U7wCeSQwcW3UIb2-K54TFsQObffAl7A-Gyi39VpjlPK_Z9QCdDKUr52HzaSAJtu30iB-Nh6yC0v9jBK560T1B-kSGd-Ge0tPCCy-QMQwqW0B_pJ44188prtl6FdNf4DCDdxbmp0q0bY32YXuNRetQmAPYLA7cWyx_whzeTT692YTloQt5n_OeP9kdKoouRb0n4lIWRMvpvECUjIb-Q-RdRVR0Ri569Cg4zTMec3HmAkAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVkxpeV90LVRHYkR2cU1JaDM5MXJ5M25YQS1SWTNHMks1Mk9Demswdmd1UVU3b28tZ053MXVkZ0FYMFFsaDZ6TTZqck5POTdaNDBjRG5DR29JejR6Ukg4S1M3SEpkbWFwOTY3UE5mRUlfbVMxbVpqZVBmU0lBZU9nV3ItNEptb0JwZ3Q5U0Z1ZTQSBBoCCAAasQMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCLAwgAEAAYACAAKg0KBmFtYXpvbhWOT8FAMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVkxpeV90LVRHYkR2cU1JaDM5MXJ5M25YQS1SWTNHMks1Mk9Demswdmd1UVU3b28tZ053MXVkZ0FYMFFsaDZ6TTZqck5POTdaNDBjRG5DR29JejR6Ukg4S1M3SEpkbWFwOTY3UE5mRUlfbVMxbVpqZVBmU0lBZU9nV3ItNEptb0JwZ3Q5U0Z1ZTQ6IjxiPkFtYXpvbi5jb208L2I-LCBJbmMuIC0gT3ZlcnZpZXdCrAFOZXQgc2FsZXMgaW5jcmVhc2VkIDIwJSB5ZWFyLW92ZXIteWVhciBPcGVyYXRpbmcgaW5jb21lIHdhcyAkMjcuNSBiaWxsaW9uLCB1cCA0MyUgeWVhci1vdmVyLXllYXIgQVdTIG5ldCBzYWxlcyBpbmNyZWFzZWQgMzcl4oCUaXRzIGZhc3Rlc3QgZ3Jvd3RoIGluIDE4IHF1YXJ0ZXJz4oCUJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVkxpeV90LVRHYkR2cU1JaDM5MXJ5M25YQS1SWTNHMks1Mk9Demswdmd1UVU3b28tZ053MXVkZ0FYMFFsaDZ6TTZqck5POTdaNDBjRG5DR29JejR6Ukg4S1M3SEpkbWFwOTY3UE5mRUlfbVMxbVpqZVBmU0lBZU9nV3ItNEptb0JwZ3Q5U0Z1ZTQSBBoCCAAasQMSAggBGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCLAwgAEAAYACAAKg0KBmFtYXpvbhWOT8FAMp4BL2dvdG8_dXJsPUNBRVNhd0hyT3pBVkxpeV90LVRHYkR2cU1JaDM5MXJ5M25YQS1SWTNHMks1Mk9Demswdmd1UVU3b28tZ053MXVkZ0FYMFFsaDZ6TTZqck5POTdaNDBjRG5DR29JejR6Ukg4S1M3SEpkbWFwOTY3UE5mRUlfbVMxbVpqZVBmU0lBZU9nV3ItNEptb0JwZ3Q5U0Z1ZTQ6IjxiPkFtYXpvbi5jb208L2I-LCBJbmMuIC0gT3ZlcnZpZXdCrAFOZXQgc2FsZXMgaW5jcmVhc2VkIDIwJSB5ZWFyLW92ZXIteWVhciBPcGVyYXRpbmcgaW5jb21lIHdhcyAkMjcuNSBiaWxsaW9uLCB1cCA0MyUgeWVhci1vdmVyLXllYXIgQVdTIG5ldCBzYWxlcyBpbmNyZWFzZWQgMzcl4oCUaXRzIGZhc3Rlc3QgZ3Jvd3RoIGluIDE4IHF1YXJ0ZXJz4oCUJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Amazon Investor Relations",
+   "read_more_link": "https://ir.aboutamazon.com/overview/default.aspx#:~:text=Net%20sales%20increased%2020%25%20year%2Dover%2Dyear,in%2018%20quarters%E2%80%94to%20a%20%2416..."
+  },
+  {
+   "position": 8,
+   "title": "Cloud Computing Services - Amazon Web Services (AWS)",
+   "link": "https://aws.amazon.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAV_2gFa1zQwoZhEk8qkk_deNqLh0m7g0FPYu8QTq_Q6agQAEmFRfxlW27l3pDPOL9XEa5O_fp59MmsLeMfbkiOXFUuu_GlKlQRaMXi3hw&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://aws.amazon.com",
+   "favicon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzWMzHyr6Ie-V_oAHZre0RDxnNWESWhFPFinsgAA_uvLLjnB61DfwquR6bDznEX76BwbDsq33n-ADYXFCHbpv8ePq3zGHFi4Ep1sQz7y9NnxgCqAPMQyI02gJ71in6T24HDbhFtnb-IhRLgv_HP-_oxuqplX9O3CyxXgPQp_X8mRPLA396eYAh7eFs_Ex9R751UEATXhMv-O_b_Yt7Bni1RNqmiTbk0AD5df3r-_lxHJCWDuArZMd57hNm5MEAAA.webp",
+   "snippet": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+   "snippet_highlighted_words": [
+    "Amazon Web Services"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Amazon Web Services offers reliable, scalable, and inexpensive cloud computing services. Free to join, pay only for what you use.",
+     "source_info_link": "https://aws.amazon.com/",
+     "icon": "https://serpapi.com/images/i/UklGRugAAABXRUJQVlA4INwAAAAQBgCdASocABwAPtE-tFooIigoFAEAGglnAASZrzWMzHyr6Ie-V_oAHZre0RDxnNWESWhFPFinsgAA_uvLLjnB61DfwquR6bDznEX76BwbDsq33n-ADYXFCHbpv8ePq3zGHFi4Ep1sQz7y9NnxgCqAPMQyI02gJ71in6T24HDbhFtnb-IhRLgv_HP-_oxuqplX9O3CyxXgPQp_X8mRPLA396eYAh7eFs_Ex9R751UEATXhMv-O_b_Yt7Bni1RNqmiTbk0AD5df3r-_lxHJCWDuArZMd57hNm5MEAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWXzJnRmExelF3b1poRWs4cWtrX2RlTnFMaDBtN2cwRlBZdThRVHFfUTZhZ1FBRW1GUmZ4bFcyN2wzcERQT0w5WEVhNU9fZnA1OU1tc0xlTWZia2lPWEZVdXVfR2xLbFFSYU1YaTNodxIEGgIIABqEAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN4CCAAQABgAIAAqDQoGYW1hem9uFSm5z0AyfS9nb3RvP3VybD1DQUVTVWdIck96QVZfMmdGYTF6UXdvWmhFazhxa2tfZGVOcUxoMG03ZzBGUFl1OFFUcV9RNmFnUUFFbUZSZnhsVzI3bDNwRFBPTDlYRWE1T19mcDU5TW1zTGVNZmJraU9YRlV1dV9HbEtsUVJhTVhpM2h3OjtDbG91ZCBDb21wdXRpbmcgU2VydmljZXMgLSA8Yj5BbWF6b248L2I-IFdlYiBTZXJ2aWNlcyAoQVdTKUKIATxiPkFtYXpvbiBXZWIgU2VydmljZXM8L2I-IG9mZmVycyByZWxpYWJsZSwgc2NhbGFibGUsIGFuZCBpbmV4cGVuc2l2ZSBjbG91ZCBjb21wdXRpbmcgc2VydmljZXMuIEZyZWUgdG8gam9pbiwgcGF5IG9ubHkgZm9yIHdoYXQgeW91IHVzZS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWXzJnRmExelF3b1poRWs4cWtrX2RlTnFMaDBtN2cwRlBZdThRVHFfUTZhZ1FBRW1GUmZ4bFcyN2wzcERQT0w5WEVhNU9fZnA1OU1tc0xlTWZia2lPWEZVdXVfR2xLbFFSYU1YaTNodxIEGgIIABqEAxICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQN4CCAAQABgAIAAqDQoGYW1hem9uFSm5z0AyfS9nb3RvP3VybD1DQUVTVWdIck96QVZfMmdGYTF6UXdvWmhFazhxa2tfZGVOcUxoMG03ZzBGUFl1OFFUcV9RNmFnUUFFbUZSZnhsVzI3bDNwRFBPTDlYRWE1T19mcDU5TW1zTGVNZmJraU9YRlV1dV9HbEtsUVJhTVhpM2h3OjtDbG91ZCBDb21wdXRpbmcgU2VydmljZXMgLSA8Yj5BbWF6b248L2I-IFdlYiBTZXJ2aWNlcyAoQVdTKUKIATxiPkFtYXpvbiBXZWIgU2VydmljZXM8L2I-IG9mZmVycyByZWxpYWJsZSwgc2NhbGFibGUsIGFuZCBpbmV4cGVuc2l2ZSBjbG91ZCBjb21wdXRpbmcgc2VydmljZXMuIEZyZWUgdG8gam9pbiwgcGF5IG9ubHkgZm9yIHdoYXQgeW91IHVzZS4iAhABSABYAGgA",
+   "source": "Amazon Web Services (AWS)"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "Envestnet Asset Management Inc. Acquires 284,759 Shares of Amazon.com, Inc. $AMZN",
+   "link": "https://www.marketbeat.com/instant-alerts/filing-envestnet-asset-management-inc-acquires-284759-shares-of-amazoncom-inc-amzn-2026-10-10/",
+   "source": "MarketBeat",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEUANFpnhp3___9cfpbS3OI0XnwcS210kaUOP2NOc43r8PNBaYWrvMn6-_wURGd4lKiCnK7i6Ow7Y4Ccsb-Qp7e5x9KluMXJ1NyMpLUlUnNFVzEmAAAAVklEQVQYlaXPuRKAIAwE0HAEQTkSBI___1ErMWPnuN2-YicB-BGLorgJfAoC1AyLVgJiysWSAI410jpqbZ0MYx8QFJptzyxXMTWgwz3gtXmdxef3V-5cM3QCYbuKxsYAAAAASUVORK5CYII.png",
+   "date": "53 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f74ea7d7841ef58af856/images/XVH7dKIGtbtuGQJfNvfsqHbfzz7GJ3XCSbm5uRnh4fM.jpeg"
+  },
+  {
+   "title": "Amazon.com stock trades 0.03 percent above its Xetra close of EUR 234.33",
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/amazon-com-stock-trades-0-03-percent-above-its-xetra-close-of-eur-234-33/70286508",
+   "source": "AD HOC NEWS",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAlUlEQVQ4jZ3Ruw7CMAxG4eMMhVdjq2QEA09YpCJej4tklhIpxHVS_jHq-YYagh2Ngxpj9E2KYoMbMEWINOL98vQEzrNwbwJO_J2LFEAQryIZ6IhdRDbGFSJ_xAWSDHYE5wyWgEEAljtPwNAZv4HLLFzzT9yA5Bh-ztiBFHEFNJAqdoEVxI3DqTGq8VDjpcapO3SQMP4AOehQwAGAml8AAAAASUVORK5CYII.png",
+   "date": "25 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f74ea7d7841ef58af856/images/WLiBd7HZ83Ad2PqdFn63vT1rY6hK0r3wRXkwk7U-iGw.jpeg"
+  },
+  {
+   "title": "AI Could Make 3-Day Work Weeks, Single-Income Families Possible: Jeff Bezos",
+   "link": "https://www.ndtv.com/world-news/ai-could-make-3-day-work-weeks-single-income-families-possible-jeff-bezos-12164818",
+   "source": "NDTV",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABoklEQVQ4jZ2RP0tjQRTFfzM-jUZZFUUhla1bW9gvWkhAbCwsLQQbCxEsZWFB_Qba2sRCEQsrO_UTCIKIokSJKEazwdU3817etXhvsvEPQnLgwsyde849h1EhjAmsauigDkTgK_ij_sGJgp_1kB0ESl4AaWmEHaPLM8kpNTKCzmRiZd_HHh4SFQrvplsnJ1FtbUi5jL-zEzfzcJkHed3fl1pEz8_yOD0teYhLKQkLBRERCc7Oqn0dABaIPnhT7e10ra2hh4exyYyLKsndAtoApvbRWm5nZxFrUc3NdC4tYZTCRSWKKO_t4XjaKTkHIsJDLsdTLgdAx-go3tBQ1UFpd5fr-fnPDmojGOBmZQUJAtCa3sXFqsugVMKI_HfwlYAF_p6e8rC9DUD3-Dg_JiZAa3qmpuiZmfkcQT4IGOBieZnIWpTnMbi1RUtfHzqVIrOw8H0EJ1A8PuZkbo7IWlAqrmSZ43lu-9XGBvdHR0gY4htDJRE7X1_n7uCA_myWpnQagKBYxLrv3oRLgQEahGcgaJQMvDRl4bUCv0JoqQB1lNHw-w3-A-ewt5FfzwAAAABJRU5ErkJggg.png",
+   "date": "40 minutes ago"
+  },
+  {
+   "title": "Amazon Reshuffles Alexa Leadership: Can Alexa+ Move a $53 Billion Subscription Business?",
+   "link": "https://finance.yahoo.com/technology/articles/amazon-reshuffles-alexa-leadership-alexa-051336026.html",
+   "source": "Yahoo Finance",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAJ1BMVEX___8De2ZirZ_f7-zA3tkji3mBvbITg3ChzcZCnIyw1s_Q5uNxtanGthbwAAAATElEQVQYlX2OSQ7AMAgDMWHJ0v-_t_RmIaW-eTQyiNwyASiDVcCoj-rOghaYTcD4m_QmWPXFwlbVzcCCfZEA8jD4bgaDbF_J8XzklhdtCwDo22XHCQAAAABJRU5ErkJggg.png",
+   "date": "3 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f74ea7d7841ef58af856/images/TGXqoAx7yzNWpu6RbMNUrE-f2aA5OlzjHKRxUgsERHc.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon.com+share+price&tbm=nws&source=univ&tbo=u&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQt8YBKAJ6BAgfEAU",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon.com+share+price&tbm=nws",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Www Amazon com india online shopping",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Www+Amazon+com+india+online+shopping&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Www+Amazon+com+india+online+shopping"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon desktop site india",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon+desktop+site+india&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhLEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+desktop+site+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon USA online shopping",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon+USA+online+shopping&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhKEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+USA+online+shopping"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon america app",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon+america+app&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhHEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+america+app"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon shopping all items india",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon+shopping+all+items+india&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+shopping+all+items+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon usa online shopping app",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Amazon+usa+online+shopping+app&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+usa+online+shopping+app"
+  },
+  {
+   "block_position": 1,
+   "query": "Online shopping Amazon",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Online+shopping+Amazon&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Online+shopping+Amazon"
+  },
+  {
+   "block_position": 1,
+   "query": "Online Amazon shopping search",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&q=Online+Amazon+shopping+search&sa=X&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Online+Amazon+shopping+search"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Amazon.com+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&ei=TvfJarbjHOOww8cP4MWVuQk&start=10&sa=N&sstk=AS6-VmKuApviv2uj-q_YkOYcCwuquDbl1mrT9rtMEhL-VqppveFNObS964EX2RbT3YdPTsrNBCNGoeMI7r4meXMVD4vS4Fx3TMdVzg&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ8NMDegQIOhAG",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Amazon.com+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQnv_tx_Zw-ZLGkexEOa1vLePGUTovg:1791620942478&ei=TvfJarbjHOOww8cP4MWVuQk&start=10&sa=N&sstk=AS6-VmKuApviv2uj-q_YkOYcCwuquDbl1mrT9rtMEhL-VqppveFNObS964EX2RbT3YdPTsrNBCNGoeMI7r4meXMVD4vS4Fx3TMdVzg&ved=2ahUKEwi2wuSOhK-XAxVj2PACHeBiJZcQ8tMDegQIOhAE"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon.com+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon.com+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon.com+share+price&start=10"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:00"
+}

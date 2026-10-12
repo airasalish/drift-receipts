@@ -1,0 +1,84 @@
+{
+ "calls": [
+  {
+   "company": "Lenskart Solutions Ltd.",
+   "symbol_guess": "LENS",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द सेकंड कंपनी इज़ लेंस कार्ड",
+   "start_s": 217,
+   "line": "दिस इज़ वन कंपनी। द सेकंड कंपनी इज़ लेंस",
+   "evidence": [
+    {
+     "text": "लेंस कार्ड",
+     "where": "transcript",
+     "start_s": 221
+    }
+   ],
+   "reason": "The title suggests buy recommendations and the speaker presents Lens Card as the second pick."
+  },
+  {
+   "company": "Lenskart",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द नेम ऑफ़ द कंपनी इज़ Lenscar राइट?",
+   "start_s": 328,
+   "line": "इनोवेशन दैट दिस कंपनी इज डूइंग। द नेम ऑफ़",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as top stock picks, and the speaker introduces Lenskart as one of the companies."
+  },
+  {
+   "company": "IdeaForge Technology",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द थर्ड कंपनी इज़ Idea।",
+   "start_s": 331,
+   "line": "द कंपनी इज़ Lenscar राइट? द थर्ड कंपनी इज़",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The title suggests buying, and the speaker lists IdeaForge as the third company in the pick series."
+  },
+  {
+   "company": "IOL Chemicals and Pharmaceuticals Ltd",
+   "symbol_guess": "IOL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "लास्ट कंपनी इज़ आईओएल केमिकल्स एंड फार्मासटिकल्स।",
+   "start_s": 429,
+   "line": "लास्ट कंपनी इज़ आईओएल केमिकल्स एंड",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video is presented as a list of high‑growth stocks to buy, and IOL Chemicals is introduced as the final pick."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

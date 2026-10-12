@@ -1,0 +1,1472 @@
+{
+ "search_metadata": {
+  "id": "6ac94541919dfa8020a613e3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/6BxG3c8NNAJBmEjLItKR4lPiBHcNZFZQNXtsaNbXiBE/6ac94541919dfa8020a613e3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/6BxG3c8NNAJBmEjLItKR4lPiBHcNZFZQNXtsaNbXiBE/6ac94541919dfa8020a613e3.md",
+  "created_at": "2026-10-09 19:49:21 UTC",
+  "processed_at": "2026-10-09 19:49:21 UTC",
+  "google_news_url": "https://news.google.com/search?q=Mahindra+%26+Mahindra+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/6BxG3c8NNAJBmEjLItKR4lPiBHcNZFZQNXtsaNbXiBE/6ac94541919dfa8020a613e3.html",
+  "total_time_taken": 1.8
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Mahindra & Mahindra share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Mahindra & Mahindra engages investors at New York roadshow",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-engages-investors-new-york-roadshow/53082575",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-engages-investors-new-york-roadshow.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFXbmxoY2pKWVMzSXpaSE5xVFJDaUF4amRCU2dLTWdrQlFKVEhJT2lKc1FF",
+   "date": "10/09/2026, 09:12 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:12:31Z"
+  },
+  {
+   "position": 2,
+   "title": "Bonus + Stock Splits + Dividends + Buybacks From June 29-July 3: Bajaj, M&M, Biocon, TechM; 46 Stocks In Focus",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pooja Jaiswar"
+    ]
+   },
+   "link": "https://www.goodreturns.in/personal-finance/bonus-splits-dividends-buybacks-from-june-29-july-3-bajaj-mahindra-bharat-forge-techm-next-week-1518457.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/stocksplitsbonusdividends1-1782531138.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRkRUZGYTFKeFNuUktUWGhYVFJDRUF4allCQ2dLTWdhSkFZSUZXUUk",
+   "date": "10/08/2026, 09:49 AM, +0000 UTC",
+   "iso_date": "2026-10-08T09:49:24Z"
+  },
+  {
+   "position": 3,
+   "title": "Tech Mahindra stock stands at INR 1,514.10, 18.3 percent below its high",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tech-mahindra-stock-stands-at-inr-1-514-10-18-3-percent-below-its-high/70279858",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404993_1600_1200.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHhWM0p0ZVc1WWNHdEtlbGd4VFJEZ0F4aUFCU2dLTWdPZFVndw",
+   "date": "10/09/2026, 02:02 PM, +0000 UTC",
+   "iso_date": "2026-10-09T14:02:41Z"
+  },
+  {
+   "position": 4,
+   "title": "Kotak Mahindra Bank shares rises 2% after HSBC buy upgrade",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/kotak-mahindra-bank-shares-rise-2-as-hsbc-upgrades-stock-to-buy/article71554661.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/dtb3zk/article71554719.ece/alternates/LANDSCAPE_1200/2026-10-01T073426Z_1830954111_RC27UNALQZ9W_RTRMADP_3_INDIA-KOTAK-MAHINDRA-CEO.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphbDlGUjBZMVFsVm1kMVZ0VFJDZkF4ampCU2dLTWdhZEFwQnRPUVk",
+   "date": "10/07/2026, 07:33 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:33:49Z"
+  },
+  {
+   "position": 5,
+   "title": "Kotak Mahindra Bank Share Price: Price Action and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-kotak-mahindra-bank-ltd-share-price-near-52-week-high-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/kotak-mahindra-bank-kotakbank-share-price-near-52-week-high-after-1-28-rise.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNUVFJzVWxWRU1tZFpjV2c1VFJDUUF4ai1CU2dLTWdhQlFaTERuZ2s",
+   "date": "10/09/2026, 08:28 AM, +0000 UTC",
+   "iso_date": "2026-10-09T08:28:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Kotak Mahindra Bank shares gain 4% after Q2 update; analysts see stock testing ₹540 levels",
+   "source": {
+    "name": "MSN",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.msn.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.msn.com/en-in/money/other/kotak-mahindra-bank-shares-gain-4-after-q2-update-analysts-see-stock-testing-540-levels/ar-AA2dEovm",
+   "thumbnail": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dEovg.img?w=768&h=432&m=6",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJNR2RCUzJ4UFMycEhUVEZwVFJDb0FSaXNBaWdCTWdZSk01U2tHUW8",
+   "date": "10/06/2026, 06:54 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:54:16Z"
+  },
+  {
+   "position": 7,
+   "title": "Anand Mahindra shares viral video of ‘aapda autorickshaw’ in London street; netizens celebrate ‘reverse colonisation’",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Arshdeep Kaur"
+    ]
+   },
+   "link": "https://www.livemint.com/news/trends/anand-mahindra-shares-viral-video-of-aapda-autorickshaw-in-london-street-netizens-celebrate-reverse-colonisation-11791266204690.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Screenshot_2026-10-06_112854_1791266431966_1d9M_1791266450491_TIf6_dd67f94b-32d1-49aa-9034-cb583dc714e4_Hjo0.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURjekJEYVdKUVVUTXRSbXhrVFJDZkF4amlCU2dLTWdrQkFKUkNIcWdlZ1FN",
+   "date": "10/06/2026, 07:38 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:38:03Z"
+  },
+  {
+   "position": 8,
+   "title": "Mahindra & Mahindra sales rise 16% to 1.13 lakh units in September 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-sales-rise-16-1-13-lakh-units-september-2026/53090147",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-sales-rise-16-1-13-lakh-units-september-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRkR2Q2VUhGTk1UaEtjM0pUVFJDaUF4amRCU2dLTWdB",
+   "date": "10/09/2026, 12:12 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:12:46Z"
+  },
+  {
+   "position": 9,
+   "title": "Mahindra & Mahindra stock gains 4% from day's low post Q1 results",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/mahindra-mahindra-stock-gains-4-from-day-s-low-post-q1-results-126073000744_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/11/full/1739255881-2247.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBXRkpKYTNCZlpWQTRWRkZmVFJERUF4aW1CU2dLTWdZQkZJNENFd28",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Mahindra And Mahindra shares rise up to 5% after Q1 results; should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/mahindra-and-mahindra-shares-rise-up-to-5-after-q1-results-should-you-buy-sell-or-hold-13990223.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260725023842_Nifty_sensex_marketup.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNUVVJLWmxkUmFIcFhXV3d0VFJDZkF4ampCU2dLTWdZRlVJeG1zZ1U",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "September 2026 car retail sales: Mahindra beats Tata to second place",
+   "source": {
+    "name": "Autocar India",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.autocarindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Viraaj Bhatnagar"
+    ]
+   },
+   "link": "https://www.autocarindia.com/car-news/september-2026-car-retail-sales-mahindra-beats-tata-to-second-place-440946",
+   "thumbnail": "https://asset.autocarindia.com/static/news/images/20261007_084111_9687bf20.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9kRUZRZVdWc1MwNUpXbFl4VFJEREF4aXBCU2dLTWdrUkFJeHhER3VpRkFF",
+   "date": "10/07/2026, 11:29 AM, +0000 UTC",
+   "iso_date": "2026-10-07T11:29:44Z"
+  },
+  {
+   "position": 12,
+   "title": "Why are Kotak Mahindra Bank shares up 3.7%? strong Q2 loan, deposit data",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anupama Ghosh"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/kotak-mahindra-bank-jumps-37-after-strong-q2-loan-deposit-data/article71550048.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/ahqlo3/article71550062.ece/alternates/LANDSCAPE_1200/450457928.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWphWEJCWWpRek9WRkpWQzFRVFJDZkF4ampCU2dLTWdhRmdwQUVzd2M",
+   "date": "10/06/2026, 05:20 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:20:05Z"
+  },
+  {
+   "position": 13,
+   "title": "Mahindra and Mahindra Stock Signals to Watch This Week",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/mahindra-and-mahindra-stock-signals-investors-are-watching",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/mahindra-and-mahindra-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVMWGRhYzBKb2RuQm9YM0JNVFJDUUF4ai1CU2dLTWdZQlFJYWlIZ2s",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Top stocks to watch today: Vedanta, Axis Bank, IREDA, Kotak Mahindra shares in focus on Tuesday, 6 Oct | Full list",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-vedanta-axis-bank-ireda-kotak-mahindra-shares-in-focus-on-tuesday-6-oct-full-list-11791249989151.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/stw_1791251971500_kMbb_1791251971616_TVIg_49c9a895-827c-4e20-84b3-c3ca5d834f2d_oIbD.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiM2x4WkU1cU1rRlRkSGRLVFJDZkF4amlCU2dLTWdhQmNvNU1MUVU",
+   "date": "10/06/2026, 02:00 AM, +0000 UTC",
+   "iso_date": "2026-10-06T02:00:27Z"
+  },
+  {
+   "position": 15,
+   "title": "Mahindra & Mahindra shareholders approve FY26 financials and related-party deals",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-shareholders-approve-fy26-financials-and-related-party-deals/46971308",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-shareholders-approve-fy26-financials-and-related-party-deals.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlRek16WDB3NFJqbEllbEp4VFJDaUF4amRCU2dLTWdhTllaSXhLUWc",
+   "date": "10/05/2026, 10:43 PM, +0000 UTC",
+   "iso_date": "2026-10-05T22:43:03Z"
+  },
+  {
+   "position": 16,
+   "title": "Market Trading Guide: Kotak Mahindra Bank among 5 stock recommendations for Thursday",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/market-trading-guide-kotak-mahindra-bank-among-5-stock-recommendations-for-thursday/stock-ideas/slideshow/134769639.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134769639,width-480,height-360,imgsize-39620,resizemode-75/stock-ideas.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTVTFPVTBwUVNqZ3hja0ZYVFJEb0FoamdBeWdLTWdZQmNZeTJwQWM",
+   "date": "10/07/2026, 03:43 PM, +0000 UTC",
+   "iso_date": "2026-10-07T15:43:26Z"
+  },
+  {
+   "position": 17,
+   "title": "M&M share price target can go up to ₹4,875, projects its biggest bull after new launches",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/mahindra-mahindra-mm-share-price-target-can-go-up-to-4875-projects-its-biggest-bull-after-new-launches-19970661.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-1ce41b4b4e9592e6ff6ddba6bb09892b.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXplbGhGUkY5c2FWcGhOM0U1VFJDZkF4ampCU2dLTWdhQllaQnR1UVU",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Here's Why We Think Mahindra & Mahindra (NSE:M&M) Might Deserve Your Attention Today",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/heres-why-we-think-mahindra-mahindra-nsemm-might-deserve-you-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Why is Mahindra & Mahindra stock sliding today? By Investing.com",
+   "source": {
+    "name": "Investing.com India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://in.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ambar Warrick"
+    ]
+   },
+   "link": "https://in.investing.com/news/stock-market-news/why-is-mahindra--mahindra-stock-sliding-today-93CH-5613884",
+   "date": "10/01/2026, 08:53 AM, +0000 UTC",
+   "iso_date": "2026-10-01T08:53:51Z"
+  },
+  {
+   "position": 20,
+   "title": "Mahindra & Mahindra Total Sales Surge 50% In August, Beat Estimates; Stock Climbs Over 2%",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/business/mahindra-mahindra-total-sales-surge-50-percent-in-august-beat-estimates-stock-climbs-11985024",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/sslp400s_mahindraatvtharroxx_625x300_05_May_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRiRFpIUjNObVdUTkJTRmR1VFJDZkF4ampCU2dLTWdhUlU1UnBxUWM",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Mahindra Logistics vs Nifty 50: Share Price Performance Compared",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/mahindra-logistics-vs-nifty-50-share-price-performance",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/mahindra-logistics-vs-nifty-50-share-price-performance-compared.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFaRzk0U0ZaWGNGVlZZVTVMVFJDUUF4ai1CU2dLTWdZQlFKTENtZ2s",
+   "date": "10/05/2026, 10:42 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:42:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Mahindra Lifespace vs Nifty 50: Share Price Performance Compared",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/mahindra-lifespace-vs-nifty-50-share-price-performance",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/mahindra-lifespace-vs-nifty-50-share-price-performance-compared.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhjbEJWTWxWaFpWUlRRMFV4VFJDUUF4ai1CU2dLTWdZQktaekRtZ2s",
+   "date": "10/05/2026, 10:42 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:42:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Mahindra and Mahindra Shares Rise 2.07 percent",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/mahindra-and-mahindra-shares-rise-2-07-percent-alpha-article-13984427.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260620043509_market_up_higher.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpVbnBOWDJoUlNWRkJUVzgyVFJDZkF4ampCU2dLTWdtWk1ZanZxR09paHdJ",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Mahindra & Mahindra Financial Services board approves raising funds up to ₹2,000 crore via NCDs; shares fall 16% YTD",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-financial-services-board-approves-raising-funds-up-to-2-000-crore-via-nc-ds-shares-fall-16-ytd/article-200839/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mahindra-finance-shares-september-24.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiVzFsVUhoS1JUUTBXazFzVFJDZkF4ampCU2dLTWdhMUlaVHhtQWc",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Kotak Mahindra Bank stock outlook bullish: HSBC upgrades rating on loan growth, CEO clarity; check target...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/kotak-mahindra-bank-stock-outlook-bullish-hsbc-upgrades-rating-on-loan-growth-ceo-clarity-check-target-price-14046251.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250726122210_kotakmahindrabankrtr1.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkRGRDUVV3MVh6Qk5kRWxoVFJDZkF4ampCU2dLTWdhWkFwQ3RPUVk",
+   "date": "10/07/2026, 03:18 AM, +0000 UTC",
+   "iso_date": "2026-10-07T03:18:52Z"
+  },
+  {
+   "position": 26,
+   "title": "Tech Mahindra declares ₹36 final dividend for FY2025-26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/tech-mahindra-declares-36-final-dividend-for-fy2025-26/41322206",
+   "thumbnail": "https://news-images.dhan.co/tech-mahindra-declares-36-final-dividend-for-fy2025-26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhOR2hCV0VkM1VubFVZVkE0VFJDdEF4akxCU2dLTWdZQllJN1FyQVk",
+   "date": "10/04/2026, 04:00 AM, +0000 UTC",
+   "iso_date": "2026-10-04T04:00:13Z"
+  },
+  {
+   "position": 27,
+   "title": "Why Kotak Mahindra Bank shares are outperforming Nifty 50 and Bank Nifty in the last two months? Experts explain",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/why-kotak-mahindra-bank-shares-are-outperforming-nifty-50-and-bank-nifty-in-the-last-two-months-experts-explain-11791281103828.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Kotak_Outperforms_1791282734141_XswC_1791282740171_sV1A_3b3886e7-ef05-4f47-ac6a-6af30452567c_NQ1l.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSMkpmYjJaQlRXTmpWak5FVFJDZkF4amlCU2dLTWdZSkFveW5rUVU",
+   "date": "10/06/2026, 10:35 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:35:38Z"
+  },
+  {
+   "position": 28,
+   "title": "Mahindra and Mahindra shares rise 2.14 percent",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/mahindra-and-mahindra-shares-rise-2-14-percent-alpha-article-13981373.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250320041134_sensex_nifty-marketup_sensexup-Niftyup.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWblZ2ZUhKZlEyZzNRVTAzVFJDZkF4ampCU2dLTWdZMU1ZaTJHQWs",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Mahindra & Mahindra Shares Rally 3% as June Sales Jump 37%, EV Momentum Strengthens",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/mm-share-price-jumps-3percent-after-june-sales-surge-ev-boost",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/frame_1244.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSV2RPVlRKamJFaHhSV3h1VFJDZkF4ampCU2dLTWdZQllJekRwZ1U",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Interested In Mahindra & Mahindra's (NSE:M&M) Upcoming ₹33.00 Dividend? You Have Three Days Left",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/interested-in-mahindra-mahindras-nsemm-upcoming-3300-dividen",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "06/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-29T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Mahindra & Mahindra Share Price: ownership and sector view",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-mahindra-and-mahindra-share-price-price-fall-2026-09-24",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/mahindra-and-mahindra-m-and-m-share-price-falls-2-31-to-rs-2-965-as-market-cap.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlhbFJKYVV0dk5tSjZibGQyVFJDUUF4ai1CU2dLTWdZQktaYWpuZ2s",
+   "date": "09/24/2026, 10:05 AM, +0000 UTC",
+   "iso_date": "2026-09-24T10:05:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Mahindra Stock And Other India Auto Export Names Under Fresh US Tariff Pressure",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/mahindra-stock-and-other-india-auto-export-names-under-fresh",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Mahindra & Mahindra shares recover 4% from intraday low; here's why the stock is buzzing on Thursday",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-m-and-m-shares-recover-4-from-intraday-low-here-s-why-the-stock-is-buzzing-on-thursday/article-195183/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mahindra-mahindra-june-11.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNRVlJRWTNoTWNqbHdNSFZCVFJDZkF4ampCU2dLTWdNQm9RQQ",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Reliance, Kotak Mahindra Bank, Welspun shares: Build model stock portfolio! Why Jefferies India is bullish on large-caps",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-kotak-mahindra-bank-welspun-shares-build-model-stock-portfolio-why-jefferies-india-is-bullish-on-largecaps-11791268837224.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Reliance_share_price_Welspun_share_Jefferies_India_1791269042737_bdxL_1791269042865_HnxU_72aeec91-404e-48c7-b3f4-94625de78ac9_k07Q.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDFNamRhTFZsclNGSldNM3A2VFJDZkF4ampCU2dLTWdzQk1JaUR5T1FxRnlrdWRB",
+   "date": "10/06/2026, 07:37 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:37:53Z"
+  },
+  {
+   "position": 35,
+   "title": "Mahindra & Mahindra shares slip on ₹525 crore truck & bus sale; SML Mahindra shares hit 20% upper circuit",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-shares-slip-on-525-crore-truck-and-bus-sale-sml-mahindra-shares-hit-20-upper-circuit/article-197784/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mahindra-mahindra-july-9.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNRVlJRWTNoTWNqbHdNSFZCVFJDZkF4ampCU2dLTWdNQm9RQQ",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Tech Mahindra Share Price Today: 2.46% Rise and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-tech-mahindra-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Tech_Mahindra_TECHM_Share_Price_Rises_246_as_Tech_Mahindra_Share_Price_Holds_Near_Day_High_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5WSEU1VEZwTE0wRTRSM05aVFJDUUF4ai1CU2dLTWdrQlFKS2pucWtlemdF",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Why M&M shares are falling despite strong august sale?",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/mm-shares-trade-below-open-as-strong-august-sales-data-fails-to-sustain-early-rally/article71414107.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/d80scp/article71414176.ece/alternates/LANDSCAPE_1200/PO02_Stack_coins.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlXbFl0TmpCNlkzRkhXRWQ0VFJDZkF4ampCU2dLTWdrQllJcW9NZVpFRXdF",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Mahindra and Mahindra shares gain over 2% in today's session",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/mahindra-and-mahindra-shares-gain-over-2-in-today-s-session-alpha-article-13989721.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250303094748_sensex_nifty_sensex_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRURkJqUzJwUGVGbFhXRWhVVFJDZkF4ampCU2dLTWdhVkVZalVFQW8",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Tech Mahindra stock jumps over 2% after Q1 margin beat, strong deal wins, but brokerages split on...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tech-mahindra-stock-jumps-over-2-after-q1-margin-beat-strong-deal-wins-but-brokerages-split-on-valuation-13976351.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250717041735_tech-mahindra1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhiRTB6V0VsMlYxZG5Oamt4VFJDZkF4ampCU2dLTWdhNVlJN1NyQVk",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Tech Mahindra Share Price Rises Over 3% After Q1 Results — Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/tech-mahindra-share-price-rises-over-3-percent-after-q1-results-heres-why-11782702",
+   "thumbnail": "https://c.ndtvimg.com/2026-06/uvanchnk_tech-mahindra_625x300_30_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhTbGg0TFV3dFgwaEthemRUVFJDZkF4ampCU2dLTWdrSmtJaGxObWNXRXdF",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "SML Mahindra Stock Falls 4% Even As September Sales Jump 18%",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/sml-mahindra-stock-falls-4-even-as-september-sales-jump-18-12123261",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/2q3qia3o_sml-mahindra_625x300_01_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlSbUp5ZWpaeGFHRkpUVEIxVFJDZkF4ampCU2dLTWdZQmNJNm5OQWM",
+   "date": "10/01/2026, 04:22 AM, +0000 UTC",
+   "iso_date": "2026-10-01T04:22:18Z"
+  },
+  {
+   "position": 42,
+   "title": "SML Mahindra shares hit 20% upper circuit for 2nd straight day: Here's why",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sml-mahindra-shares-hit-20-upper-circuit-for-2nd-straight-day-here-s-why-13988655.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250324065104_sml-isuzu.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlaRkZUU25kRFEzcGhNMFF6VFJDZkF4ampCU2dLTWdZWlk0Nk1yUVk",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "SML Mahindra hits 20% upper circuit after board approves ₹525 crore acquisition of M&M truck, bus business",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/markets/sml-mahindra-hits-20-upper-circuit-after-board-approves-525-crore-acquisition-of-mm-truck-bus-business/150779",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2025-03-24/cnec3upd/Isuzu.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFjbDlDTlhSUlFrOUlObGRLVFJDZkF4ampCU2dLTWdZQlVJN25zQWM",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "SML Mahindra shares rise 7.5% as company targets 10-12% CV market share by FY31",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sml-mahindra-shares-rise-7-5-as-company-targets-10-12-cv-market-share-by-fy31-14021971.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250324065104_sml-isuzu.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlaRkZUU25kRFEzcGhNMFF6VFJDZkF4ampCU2dLTWdZWlk0Nk1yUVk",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "SML Mahindra Share Price Jumps 15% on Thursday; Here's Why",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/sml-mahindra-share-price-jumps-15-on-thursday-heres-why-58678",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F58678%2FShare-Price-Up-1.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtkRU41ZUhFME1HY3llbTlVVFJDUUF4al9CU2dLTWdZUlE0NnZxUWc",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Buy Mahindra and Mahindra; target of Rs 3508: Geojit Financial Services",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-mahindra-and-mahindra-target-of-rs-3508-geojit-financial-services-13945754.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRWcyYm5NMGIxZEVjM3BZVFJDZkF4ampCU2dLTWdZTmdJZ29PUVk",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Anand Mahindra Shares Video Of Armoured Vehicles Being Moved By Rail, Netizens React",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/auto/anand-mahindra-shares-video-of-armoured-vehicles-being-moved-by-rail-netizens-react-11943678",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/37hl1q38_mahindra-armoured-vehicle_625x300_22_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdUVnAzZGtKelpteEpSM0UxVFJDZkF4ampCU2dLTWdrQkFJVE9qS01XNmdF",
+   "date": "08/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-22T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "M&M completes Ashwamedh investor meet in Mumbai on September 2",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-schedules-investor-meet-september-2/49299440",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-schedules-investor-meet-september-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZVMjVvZW0xRVkwczBkRmR6VFJDZkF4ampCU2dLTWdhbEk0U05yUVU",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Mahindra & Mahindra (M&M) Q4 Results: Posts 42% YoY Rise in PAT; Announces Dividend of ₹33 per share",
+   "source": {
+    "name": "Groww",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://groww.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://groww.in/blog/mahindra-and-mahindra-q4-results",
+   "thumbnail": "https://cms-resources.groww.in/uploads/Mahindr_150666ad41.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpZVmcyTURKTFQzTXlNV0pzVFJDZkF4amlCU2dLTWdtQmNaZ1V0YWV4U3dJ",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Mahindra & Mahindra Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43180/mahindra-mahindra-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/m&m.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9UalprZUZKR1RFNHhkeTFFVFJESUFSaklBU2dCTWdNSm9SWQ",
+   "date": "08/30/2026, 02:45 PM, +0000 UTC",
+   "iso_date": "2026-08-30T14:45:20Z"
+  },
+  {
+   "position": 51,
+   "title": "Kotak Mahindra Bank shares rise on new CEO appointment",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/kotak-mahindra-bank-shares-rise-on-new-ceo-appointment/article71531921.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/92qy46/article71531969.ece/alternates/LANDSCAPE_1200/2025-01-18T082412Z_1483771330_RC27CCABJM5N_RTRMADP_3_KOTAK-MAHINDRA-BANK-RESULTS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNVelJ2UWxSaVJFSmlTR0pYVFJDZkF4ampCU2dLTWdhZEFwQnR1UVk",
+   "date": "10/01/2026, 07:55 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:55:21Z"
+  },
+  {
+   "position": 52,
+   "title": "SML Mahindra Share Price Target 2027 to 2030: Analyst Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/sml-mahindra-share-price-target-2027-2028-2030",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/sml-mahindra-share-price-target-2027-2028-2030.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdTa3RZYmtrMlZ6VkdSbGw1VFJDUUF4ai1CU2dLTWdhQk1wYWpuZ2s",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Earnings call transcript: Mahindra & Mahindra posts strong Q1 2026 growth, shares fall",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-mahindra--mahindra-posts-strong-q1-2026-growth-shares-fall-93CH-4824994",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "M&M shares surge over 3% after strong Q1; brokerages stay bullish",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/mm-shares-surge-over-3-after-strong-q1-brokerages-stay-bullish/151198",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2024-11-26/xwu6o7r6/mahindra-ev.jpeg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1lRUoyVFROU2RUWkxiVTQxVFJDZkF4ampCU2dLTWdZbFJJck5vUWc",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "SML Mahindra zooms 20% on acquisition of Mahindra Truck & Bus Division",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sml-mahindra-share-price-hits-20-upper-circuit-as-m-m-transfers-truck-bus-business-126072900840_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-02/10/full/1739187832-2394.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTVzh6ZW05aVZXeG9XbkZvVFJDcUJCaXFCQ2dLTWdZQnNaVEdQQWM",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Here's Why We Think Mahindra & Mahindra Financial Services (NSE:M&MFIN) Is Well Worth Watching",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/diversified-financials/nse-m-mfin/mahindra-mahindra-financial-services-shares/news/heres-why-we-think-mahindra-mahindra-financial-services-nsem",
+   "thumbnail": "https://images.simplywall.st/asset/industry/7121000-choice2-main-header/1585186688507?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUphRjlPUVV4RE5YWkxZbWxCVFJDZkF4ampCU2dLTWdZaEU1U05xUWM",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Mahindra Stock Leads As Indian Auto And Finance Picks Split From Infosys",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/mahindra-stock-leads-as-indian-auto-and-finance-picks-split",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "SML Mahindra zooms 41% in 2 days, hits new high; what's driving auto stock?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sml-mahindra-zooms-41-in-2-days-hits-new-high-what-s-driving-auto-stock-126073000332_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/29/full/1785324736-4842.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXNURFpuV21SSk5sQnZTRnBaVFJDbkF4alZCU2dLTWdPSm9oQQ",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "SML Mahindra shares rally over 18% on acquisition of M&M’s truck division. What it means for shareholders?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sml-mahindra-shares-rally-over-18-on-acquisition-of-mahindra-mahindras-truck-and-bus-division-what-does-it-mean-for-shareholders/articleshow/132729786.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132730119,width-1200,height-900,resizemode-4,imgsize-1197356/sml-mahindra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdWa0ZhVnpnMFJHaGZZMFZmVFJEZ0F4aUFCU2dLTWdrQmtJNWp3cVlkMEFF",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Tech Mahindra To Consider Proposal For Issue Of Bonus Shares",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/tech-mahindra-to-consider-proposal-for-issue-of-bonus-shares",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3130_PE_1_CORPORATE_01_10_2026_16x9_770ce211a0.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxORFYxV2tkcFdFMWljRTU0VFJDb0FSaXRBaWdCTWdZWlE0cHJLUVU",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Mahindra & Mahindra to intensify exports with new pickup 'Lifestyler'",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/news/m-m-to-intensify-exports-with-new-pickup-lifestyler-126082300133_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/23/full/1776964906-9018.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUbFkzUVd4QmVYVnlSM2RXVFJDZEF4am5CU2dLTWdZTlFvU3RJUWs",
+   "date": "08/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-23T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Mahindra and Mahindra shares gain 2.03%",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:7f6c67194094b:0-mahindra-and-mahindra-shares-gain-2-03/",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Mahindra and Mahindra shares gain 2.03%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/mahindra-and-mahindra-shares-gain-2-03-alpha-article-13976812.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "M&M shares fall 2% despite May sales beating estimates; rising crude, monsoon woes weigh",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/m-m-shares-fall-2-despite-may-sales-beating-estimates-rising-crude-weighs-13937459.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/05/20260530031610_sensex_nifty_market_Nifty_nse_bse.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTRkVzlwU1MxVFNFUk5ORTVuVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Tech Mahindra Merger Notice Accompanies 0.86% Intraday Gain",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/techm-share-price-up-0-86percent-intraday-merger-notice-explained",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/TECHM-Tech-Mahindra-Ltd-2026-07-21-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBOR1pTWmxOU04yVkNhVE50VFJDZkF4ampCU2dLTWdhQmhwQWt0Z1k",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "mahindra mahindra which holds a 44 percent share of india tractor market",
+   "source": {
+    "name": "ICICI Direct",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.icicidirect.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.icicidirect.com/research/equity/trending-news/mahindra-mahindra-which-holds-a-44-percent-share-of-india-tractor-market",
+   "thumbnail": "https://www.icicidirect.com/images//Mahindra-Mahindra-202412121047123073639.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iKkNnNTRPSEJsVDI1a1lXMWtjREpqVFJCekdNQUJLQW95QmhVeWdxMGRDZw",
+   "date": "06/08/2026, 05:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T05:00:02Z"
+  },
+  {
+   "position": 67,
+   "title": "Mahindra and Mahindra shares gain 2.05% to Rs 3,288.00",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/mahindra-and-mahindra-shares-gain-2-05-to-rs-3-288-00-alpha-article-13988005.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250303094748_sensex_nifty_sensex_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRURkJqUzJwUGVGbFhXRWhVVFJDZkF4ampCU2dLTWdhVkVZalVFQW8",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Mahindra and Mahindra shares rise 2.14 percent",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:0bda5c49d094b:0-mahindra-and-mahindra-shares-rise-2-14-percent/",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Those who invested in Mahindra & Mahindra (NSE:M&M) five years ago are up 321%",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/those-who-invested-in-mahindra-mahindra-nsemm-five-years-ago-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "02/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-16T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Tech Mahindra Q2 Results: Date, Bonus Issue, Dividend, Share Price And More",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pratiksha Thayil"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/tech-mahindra-q2-results-date-bonus-issue-dividend-share-price-and-more-12120586",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/7a9e5bfa_Signage-reading-Tech-Mahindra-Ltd.-at-its-campus-in-Pune-Maharashtra.-Photo-Vijay-Sartape-Source-NDTV-Profit-280423.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHROM1V3U0hwVlYzWlZTRWM0VFJDZkF4ampCU2dLTWdhQkk0T28yUUk",
+   "date": "09/30/2026, 01:04 PM, +0000 UTC",
+   "iso_date": "2026-09-30T13:04:35Z"
+  },
+  {
+   "position": 71,
+   "title": "Buy, Sell Or Hold: Mahindra & Mahindra, Coforge, TVS Motor, Biocon And Divi's Labs — Ask Profit",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prajwal Jayaraj"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-ask-profit-11978669",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/mufi4nu8_buy-sell-hold-aug-30_625x300_30_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNkRXRpVkUwdFVHMVZiMmxYVFJDZkF4ampCU2dLTWdZQmNJcUV0QVk",
+   "date": "08/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-30T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Stocks to buy: Nagaraj Shetti recommends Ashok Leyland, Mahindra & Mahindra Financial shares to buy in the short-term",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-ashok-leyland-mahindra-mahindra-financial-shares-to-buy-in-the-shortter-11782370474898.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/25/1600x900/logo/Nagaraj_Shetti_1761807381164_1761807388598_1782372213485_c60d4d69-c329-4d26-8790-e746cf457024.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlSRmRYVTI5eWVWVjRhVmRzVFJDZkF4amlCU2dLTWdhcGhZTE9PUVU",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Stocks to buy for short term: Mahindra and Mahindra among 3 shares Amol Athawale of Kotak Securities recommends",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-mahindra-and-mahindra-among-3-shares-amol-athawale-of-kotak-securities-recommends-11784779688084.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/Amol_Kotak_1772679981996_1772679987678_1784779879301_c0416c65-4c8a-486f-89d5-a12703498310.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBlVnAyV1RWa2FWWk5aMkUzVFJDZkF4ampCU2dLTWdhdFpKS1BLUWM",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "M&M shares can rise over 50% — Nomura says growth outlook is intact, to be driven by capacity, model cycle",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/mahindra-and-mahindra-mm-share-price-brokerage-nomura-rating-price-target-upside-growth-outlook-capacity-model-cycle-ws-l-19920237.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/05/financial-growth-market-nifty-sensex-stocks-picks-may19-2026-05-f15cfac5ab106c13e803a5e2a363262e.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVPRnBHWm1oMGQwRk9ha0ZGVFJDZkF4ampCU2dLTWdrQmtJcEd2dVVkRWdF",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "SML Mahindra shares hit 20% upper circuit as M&M to sell truck, bus division to SML Mahindra for Rs...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sml-mahindra-shares-hit-20-upper-circuit-as-m-m-to-sell-truck-bus-division-to-sml-mahindra-for-rs-525-crore-13987100.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250324065104_sml-isuzu.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlaRkZUU25kRFEzcGhNMFF6VFJDZkF4ampCU2dLTWdZWlk0Nk1yUVk",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "SML Mahindra shares rally 8% on August sales; eyes 12% market share by FY31",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/sml-mahindra-shares-rally-8-on-august-sales-eyes-12-market-share-by-fy31-126090300716_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/24/full/1782289558-1029.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjR2x0ZVVJeGMycFRTRUpJVFJDZUF4amtCU2dLTWdhSlVZckpwUWc",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "M&M shares jump 3% after Q4 results beat; brokerages stay bullish on SUV, EV pipeline",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/m-m-shares-jump-3-after-q4-results-beat-brokerages-stay-bullish-on-suv-ev-pipeline-13910026.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/01/20260114081235_Mahindra-XUV-7XO-Review-1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNRWxQWVZoMFdUQlpMVU5mVFJDZkF4ampCU2dLTWdhVlk1THJNUWM",
+   "date": "05/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-06T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Mahindra & Mahindra Limited's (NSE:M&M) institutional investors lost 3.3% over the past week but have profited from longer-term gains",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-m-m/mahindra-mahindra-shares/news/mahindra-mahindra-limiteds-nsemm-institutional-investors-los-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "01/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-11T08:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Mahindra & Mahindra shares jump 4% as auto firm sees 21% growth in March sales; here’s a detailed look at tractor, CV numbers",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-shares-jump-4-as-auto-firm-sees-21-growth-in-march-sales-here-s-a-detailed-look-at-tractor-cv-numbers/article-191521/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mahindra-auto.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJURXBoY0hKSVduRTBWVUpUVFJEZ0F4aUFCU2dLTWdPQm9RQQ",
+   "date": "04/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-01T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "SML Mahindra Shares Hit 20% Upper Circuit For Second Consecutive Day — Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/sml-mahindra-shares-hit-20-percent-upper-circuit-for-second-consecutive-day-11842576",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/12908265_Mahindra-SML-Isuzu-AI.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFkRGRQVFU1dE9VeE9iVUZwVFJDZkF4ampCU2dLTWdZUmdJaUdOZ2M",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Mahindra and Mahindra Shares Rise 2.07 percent",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:1b58fb2f5094b:0-mahindra-and-mahindra-shares-rise-2-07-percent/",
+   "date": "07/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-26T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Mahindra & Mahindra stock rating: HSBC bullish, Nomura eyes EV policy tailwinds; check target price",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:8f4788d4b094b:0-mahindra-mahindra-stock-rating-hsbc-bullish-nomura-eyes-ev-policy-tailwinds-check-target-price/",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Volume Shocker: MFs added 1 crore+ shares to 8 stocks in July '26; rally up to 76%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/volume-shocker-mfs-added-1-crore-shares-to-8-stocks-in-july-26-rally-up-to-76/mahindra-mahindra-financial-services/slideshow/133342023.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133342058,width-480,height-360,imgsize-95072,resizemode-75/mf-accumulation.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdkbVUzTmt3MlEwWlRRa2gyVFJEb0FoamdBeWdLTWdZWm9vcU5RUVU",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Mahindra Finance Board Approves Merger With Subsidiary Mahindra Rural Housing Finance",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/mahindra-finance-board-approves-merger-with-subsidiary-mahindra-rural-housing-finance-3122-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3122_PE_1_CORPORATE_05_08_2026_16x9_f92388d9b6.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZelZvUWtGbFYyRjVhVlprVFJDb0FSaXRBaWdCTWdZTmdvd25zUVU",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Explained — What led to a 6% drop in Mahindra & Mahindra shares on Tuesday",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/mahindra-and-mahindra-mm-share-price-key-factors-behind-fall-explained-india-eu-fta-impact-19833668.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/10/mahindra-thar-1-2025-10-912997efff374c7e53507dcc5810a493.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBNbGhDV1dOSlQwbHlWMWgyVFJDZkF4ampCU2dLTWdZVmM1Q0xyUVk",
+   "date": "01/27/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-27T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Tech Mahindra stock falls 2.5% after Q4 results, extends loss; brokerages divided on valuation",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tech-mahindra-stock-falls-2-5-after-q4-results-extends-loss-brokerages-divided-on-valuation-13897153.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250717041735_tech-mahindra1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhiRTB6V0VsMlYxZG5Oamt4VFJDZkF4ampCU2dLTWdhNVlJN1NyQVk",
+   "date": "04/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-23T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Stocks to buy for short term: BHEL, Mahindra and Mahindra among 6 stocks experts recommend for next 1-2 weeks",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-for-short-term-bhel-mahindra-and-mahindra-among-6-stocks-experts-recommend-for-next-1-2-weeks-11785165963810.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/27/1600x900/logo/Stocks_1773122881206_1773122887417_1785166987673_ccb5d779-287b-4704-a68e-2b5ca90bbe5b.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNNMWxSYVRWelQxOHlRbmxyVFJDZkF4ampCU2dLTWdrSkFKQlpnR28wS3dJ",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Mahindra bets on SML acquisition; eyes 10-12% CV market share by FY31",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/companies/mahindra-bets-on-sml-acquisition-eyes-10-12-cv-market-share-by-fy31/article71344065.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/5nclss/article71344071.ece/alternates/LANDSCAPE_1200/Vinod%20Sahay.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5TVFZuVld4dU0ycG1WVEV6VFJDZkF4ampCU2dLTWdZcFpvcnRxUWM",
+   "date": "08/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-16T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Mahindra & Mahindra declares Rs 33 dividend for FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-announces-rs-33-dividend-for-fy26/41461482",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-announces-rs-33-dividend-for-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpNR1p2WmxkMVZGVjJlR3BXVFJDaUF4amRCU2dLTWdZQk1ZanRwQWM",
+   "date": "05/27/2026, 09:08 PM, +0000 UTC",
+   "iso_date": "2026-05-27T21:08:31Z"
+  },
+  {
+   "position": 90,
+   "title": "Mahindra & Mahindra Q1 results: Net profit jumps 34% YoY to ₹5,454 crore; revenue climbs 27% on strong auto sales",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/mahindra-and-mahindra-q1-results-net-profit-jumps-34-yo-y-to-5-454-crore-revenue-climbs-27-on-strong-auto-sales/article-197835/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mahindra-mahindra-july-9.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNRVlJRWTNoTWNqbHdNSFZCVFJDZkF4ampCU2dLTWdNQm9RQQ",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Mahindra & Mahindra - Strong earnings: Vedanta, JSW Steel among 10 largecaps that reported best Q4 results",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/strong-earnings-vedanta-jsw-steel-among-10-largecaps-that-reported-best-q4-results/mahindra-mahindra/slideshow/131454537.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131454646,width-480,height-360,imgsize-16770,resizemode-75/results-tracker.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVTMHRaYm14TGJGSnhOVFZPVFJEb0FoamZBeWdLTWdZcFlvU05LUVk",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "M&M shares are now a 'high conviction' bet for CLSA; Nomura cites attractive valuations",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/mahindra-and-mahindra-shares-are-now-a-high-conviction-bet-for-clsa-nomura-cites-attractive-valuations-19958439.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-b7076bccb7779ce093722b2f23131be5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNkbDl4V1RCcE1teFJhakJKVFJDZkF4ampCU2dLTWdZZGM0NXZMUVk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Living With A Mahindra EV - Real Owners Share Range, Charging And Service Experience",
+   "source": {
+    "name": "RushLane",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.rushlane.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rushlane.com/living-with-a-mahindra-ev-real-owners-share-range-charging-12554213.html",
+   "thumbnail": "https://www.rushlane.com/wp-content/uploads/2026/04/mahindra-xev-9s-sales-new.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNaalZaUzA1MVdscHlkbWc1VFJDZkF4ampCU2dLTWdrQk1KS3RJS2pReGdJ",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Mahindra & Mahindra Share Price Fall: Price Action View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-mahindra-and-mahindra-share-price-fall-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Mahindra_Mahindra_MM_Share_Price_Falls_27_Today_What_the_Decline_Signals_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZRUzF1T1U0MGExWmlNMUpaVFJDUUF4ai1CU2dLTWdZQk1KRERuZ2s",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "SML Mahindra shares rally 44% in two days after board approves acquisition of M&M's truck, bus business",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/sml-mahindra-shares-rally-44-in-two-days-after-board-approves-acquisition-of-mms-truck-bus-business-546179-2026-07-30",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6aee8dac2c8-according-to-the-company--the-proposed-acquisition-will-bring-mahindra-groups-truck-and-bus-busines-302615848-16x9.jpeg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJWblJMUm1NelMwaElkbUpmVFJDZkF4ampCU2dLTWdZQk1JemxvQVk",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Mahindra & Mahindra Financial Services shares extend rally for second consecutive day; what analysts say on Q1 show",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-financial-services-shares-extend-rally-for-second-consecutive-day-what-analysts-say-on-q1-show/article-197358/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/us-stocks-july-22-2026-higher.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSRWhSVTNGRWQzY3pORU01VFJDZkF4ampCU2dLTWdZQlZvQUFvd2s",
+   "date": "07/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T08:00:35Z"
+  },
+  {
+   "position": 97,
+   "title": "Mahindra & Mahindra presents Q1FY27 deck at Motilal Oswal conference",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-presents-q1fy27-deck-motilal-oswal-conference/48688611",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-presents-q1fy27-deck-motilal-oswal-conference.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNkMW8yTXpJeVIxZ3ljMDlPVFJDZkF4ampCU2dLTWdrQndJeGx4dVZFY0FF",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Mahindra & Mahindra reports 35% renewable energy share in FY26 sustainability update",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/mahindra-mahindra-reports-35-renewable-energy-share-in-fy26-sustainability-update/47643150",
+   "thumbnail": "https://news-images.dhan.co/mahindra-mahindra-reports-35-renewable-energy-share-in-fy26-sustainability-update.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdXbWhFUTBrMlgzWkNjMnhPVFJDZkF4ampCU2dLTWdZZGNJNnRNQVk",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Mahindra & Mahindra shares tumble 5%, NIFTY AUTO index down 1.6%; here is why",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/mahindra-and-mahindra-shares-tumble-5-and-the-nifty-auto-index-down-1-6-here-is-why/article-188329/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mandm-shares-jan-27.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRUVmhJZHpORlRucDBabWd6VFJEZ0F4aUFCU2dLTWdNWmNnNA",
+   "date": "01/27/2026, 04:22 AM, +0000 UTC",
+   "iso_date": "2026-01-27T04:22:33Z"
+  },
+  {
+   "position": 100,
+   "title": "Mahindra and Mahindra shares gain 2.05% to Rs 3,288.00",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:15c4643ba094b:0-mahindra-and-mahindra-shares-gain-2-05-to-rs-3-288-00/",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:21"
+}

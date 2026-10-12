@@ -1,0 +1,1029 @@
+{
+ "search_metadata": {
+  "id": "6acaad2f73bf598111c4a2e7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/WQteWnX-sOqmemF2p9zP_l0BMVtGadkbKVQxI4qQIig/6acaad2f73bf598111c4a2e7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/WQteWnX-sOqmemF2p9zP_l0BMVtGadkbKVQxI4qQIig/6acaad2f73bf598111c4a2e7.md",
+  "created_at": "2026-10-10 21:25:03 UTC",
+  "processed_at": "2026-10-10 21:25:03 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=UXW4lAFTR_8",
+  "raw_html_file": "https://serpapi.com/searches/WQteWnX-sOqmemF2p9zP_l0BMVtGadkbKVQxI4qQIig/6acaad2f73bf598111c4a2e7.html",
+  "prettify_html_file": "https://serpapi.com/searches/WQteWnX-sOqmemF2p9zP_l0BMVtGadkbKVQxI4qQIig/6acaad2f73bf598111c4a2e7.prettify",
+  "total_time_taken": 6.51
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "UXW4lAFTR_8",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "गुड मॉर्निंग सुप्रभात आज की ताजा खबर के इस नए एपिसोड में मैं श्रुति आप सबका यहां पे स्वागत करती हूं। तो चलिए फिर शुरू करते हैं ग्लोबल इकोनमी के न्यूज़ के साथ।",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 10000,
+   "snippet": "तो सबसे पहले अपडेट है अराउंड ऑइल प्राइसेस। तो जिस टाइम पे मैं ये वीडियो कर रही हूं तभी ब्रैंड क्रूड अगेन इट हैड",
+   "start_time_text": "0:10",
+   "start_time_label": "10 seconds"
+  },
+  {
+   "start_ms": 19000,
+   "snippet": "स्टार्टेड राइजिंग $94 के आसपास से पहुंच चुका है। आल्सो अगर मैं कल रात की बात करूं तो यूएस मार्केट भी यहां पे नेगेटिव",
+   "start_time_text": "0:19",
+   "start_time_label": "19 seconds"
+  },
+  {
+   "start_ms": 26000,
+   "snippet": "में ही ओपन हुआ था। 7500 और nसdc दोनों की अगर मैं यहां पे बात करूं तो मेनली क्योंकि एक एडिशनल न्यूज़ है अपार्ट फ्रॉम",
+   "start_time_text": "0:26",
+   "start_time_label": "26 seconds"
+  },
+  {
+   "start_ms": 35000,
+   "snippet": "यूएस ईरान वॉर जो हती हदी जो है उन्होंने यहां पे सऊदी एनर्जी की फैसिलिटीज पे कल",
+   "start_time_text": "0:35",
+   "start_time_label": "35 seconds"
+  },
+  {
+   "start_ms": 42000,
+   "snippet": "रात को अटैक किया जिसमें ऑलमोस्ट 70 के अराउंड जो सिटीजंस है वो वहां पर इंजर्ड हुए हैं। एंड मेजरली सऊदी ने मिसाइल एंड",
+   "start_time_text": "0:42",
+   "start_time_label": "42 seconds"
+  },
+  {
+   "start_ms": 51000,
+   "snippet": "ड्रोन अटैक यहां पे किया है ऑन सदर्न सऊदी अरेबिया जिसकी वजह से सऊदी अराम को जो है उनके ऑपरेशंस यहां पे टेंपरेरीली डिस्टरब",
+   "start_time_text": "0:51",
+   "start_time_label": "51 seconds"
+  },
+  {
+   "start_ms": 59000,
+   "snippet": "हुए हैं। एंड अपार्ट फ्रॉम दिस एक एडिशनल पोर्ट जो है वो अगेन यहां पे टेंपरेरीली उसके भी ऑपरेशंस बंद",
+   "start_time_text": "0:59",
+   "start_time_label": "59 seconds"
+  },
+  {
+   "start_ms": 68000,
+   "snippet": "हुए हैं। जो रेड सी में बाप अल मन दब करके एक एक चोक पॉइंट है। बेसिकली जैसे स्टेट ऑफ हॉर्मोस है वैसे ही सिमिलर ये एक",
+   "start_time_text": "1:08",
+   "start_time_label": "1 minute, 8 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "पर्टिकुलरली पॉइंट है फॉर सऊदी अरेबिया टू एक्सपोर्ट ऑइल वर्ल्ड वाइड तो उस पे भी यहां पे टेंपरेरीली सप्लाई वहां पे",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 86000,
+   "snippet": "डिसरप्ट हुआ है तो इसकी ही वजह से जो ऑइल प्राइसेस थी जो पहले ऐसे लग रहा था मेनली",
+   "start_time_text": "1:26",
+   "start_time_label": "1 minute, 26 seconds"
+  },
+  {
+   "start_ms": 94000,
+   "snippet": "अगर जो ईरान यूएस वॉर है थोड़ा सा आगे जाके जो है मे बी पीस डील वगैरह होता है क्योंकि कंसीडरिंग मिड टर्म इलेक्शंस भी",
+   "start_time_text": "1:34",
+   "start_time_label": "1 minute, 34 seconds"
+  },
+  {
+   "start_ms": 103000,
+   "snippet": "आने वाले हैं। तो उस चक्कर में ऐसे लग रहा था कि मिस्टर ट्रंप मेबी कोई डील यहां पे करेंगे। बट डेफिनेटली आफ्टर दिस अगेन ये",
+   "start_time_text": "1:43",
+   "start_time_label": "1 minute, 43 seconds"
+  },
+  {
+   "start_ms": 111000,
+   "snippet": "एक दूसरा अलग अटैक यहां पे अभी हो रहा है ऑन साउथ। तो उसके चलते ऐसे लग रहा है कि ऑइल प्राइसेस में तुरंत तो कोई रिलीफ यहां",
+   "start_time_text": "1:51",
+   "start_time_label": "1 minute, 51 seconds"
+  },
+  {
+   "start_ms": 120000,
+   "snippet": "पे दिख नहीं रहा है। अगेन मोस्ट ऑफ रिसर्च रिपोर्ट्स आर एस्टेटिंग की डॉलर 100 के आगे भी ऑइल की प्राइस यहां पे जा सकती है।",
+   "start_time_text": "2:00",
+   "start_time_label": "2 minutes"
+  },
+  {
+   "start_ms": 130000,
+   "snippet": "बट एक्चुअल में ओवरऑल ये अटैक क्या है वो थोड़ा सा डिटेल में जानते हैं क्योंकि वैसे भी बहुत सारी न्यूज़ तो है नहीं एंड आई",
+   "start_time_text": "2:10",
+   "start_time_label": "2 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 139000,
+   "snippet": "आल्सो थॉट कि थोड़ा सा डिटेल में अगर हम ये जियोपॉलिटिकल स्ट्स समझेंगे तो थोड़ा इकोनॉमिक्स भी यहां से बेटर ओवरऑल समझते",
+   "start_time_text": "2:19",
+   "start_time_label": "2 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 147000,
+   "snippet": "आएगा तो मे बी इसलिए ये न्यूज़ थोड़ी सी ज्यादा हो सकती है तो जस्ट मैं थोड़ा ब्रीफ देती हूं अराउंड दिस तो सऊदी अरेबिया की",
+   "start_time_text": "2:27",
+   "start_time_label": "2 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 155000,
+   "snippet": "अगर मैं बात करूं वर्ल्ड का सेकंड लार्जेस्ट ऑइल प्रोड्यूसर है यूएस के बाद एंड एक लीडिंग क्रूड एक्सपोर्टर भी है।",
+   "start_time_text": "2:35",
+   "start_time_label": "2 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 162000,
+   "snippet": "एंड मल्टीपल रूट्स यहां पे यूज करता है सऊदी अरेबिया टू मूव द ऑयल",
+   "start_time_text": "2:42",
+   "start_time_label": "2 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 170000,
+   "snippet": "सप्लाई ओवरऑल वर्ल्ड में। बट मेनली अभी करेंटली जैसे हम सबको पता है स्टेट ऑफ हॉर्मोस बंद था। तो वो एक चोक पॉइंट बन",
+   "start_time_text": "2:50",
+   "start_time_label": "2 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 179000,
+   "snippet": "चुका था सऊदी अरेबिया के लिए। बट ईरान के लिए भी डेफिनेटली ईरान का ऑइल बाहर से सप्लाई नहीं हो रहा है। जिस चक्कर में",
+   "start_time_text": "2:59",
+   "start_time_label": "2 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 186000,
+   "snippet": "बाकी जो कंट्रीज है उन्होंने ऑइल प्रोडक्शन यहां पे थोड़ा सा बढ़ा दिया है।",
+   "start_time_text": "3:06",
+   "start_time_label": "3 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 190000,
+   "snippet": "जिसमें सऊदी अरबिया भी एक है। तो करेंटली अभी सऊदी के लिए कोई अल्टरनेटिव रूट कौन",
+   "start_time_text": "3:10",
+   "start_time_label": "3 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 197000,
+   "snippet": "सा है? अपार्ट फ्रॉम स्टेट ऑफस्ट तो वो था बाप अलंदे पोर्ट एंड उसपे ही हऊदी ने अभी अटैक किया है। तो डेफिनेटली सऊदी के लिए",
+   "start_time_text": "3:17",
+   "start_time_label": "3 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 206000,
+   "snippet": "ये थोड़ा सा अभी चैलेंजिंग होगा। बिकॉज़ दोनों मेन जो की पो्स है वो दोनों तरफ से अभी सऊदी का एक वहां पे डिसरप्ट हो चुका",
+   "start_time_text": "3:26",
+   "start_time_label": "3 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 215000,
+   "snippet": "है सप्लाई ओवरऑल एंड जिसके चलते ओवरऑल जो पाइपलाइन भी है इन केस ऑफ अल मंदिर जो",
+   "start_time_text": "3:35",
+   "start_time_label": "3 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 223000,
+   "snippet": "पोर्ट है वहां पे जो पाइप लाइन थी सऊदी की वो भी थोड़ी सी एक्सपेंसिव थी एंड अगर उसको वापस रिबिल भी करना है तो वो भी एक",
+   "start_time_text": "3:43",
+   "start_time_label": "3 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 230000,
+   "snippet": "एडिशनल कॉस्ट यहां पे कंट्री पे आएगा हाउ ने जो ये अटैक किया है वो एक मेजर यहां पे कंसर्न है फॉर और सऊदी एंड",
+   "start_time_text": "3:50",
+   "start_time_label": "3 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 240000,
+   "snippet": "ट्यूसडे को एक स्ट्राइक हुआ था जिसके चलते ही यहां पे अ जो सऊदी का ग्रुप है",
+   "start_time_text": "4:00",
+   "start_time_label": "4 minutes"
+  },
+  {
+   "start_ms": 248000,
+   "snippet": "उन्होंने यहां पे ब्लॉकेड किया था सऊदी के शिपिंग के लिए एंड ये जुलाई से ही स्टार्ट हुआ था ओवरऑल बट ये थोड़ा सा अटैक ऑन",
+   "start_time_text": "4:08",
+   "start_time_label": "4 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 256000,
+   "snippet": "अग्रेसिव लेवल अभी रिसेंटली ट्यूसडे को ही गया था ऑलदो काफी सारी रिपोर्ट्स ऐसे ही आ रही है कि जैसे मैंने कहा स्टार्टिंग में",
+   "start_time_text": "4:16",
+   "start_time_label": "4 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 265000,
+   "snippet": "भी मे बी बी 100 के ऊपर भी यहां पे ऑइल जा सकता है क्योंकि",
+   "start_time_text": "4:25",
+   "start_time_label": "4 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 272000,
+   "snippet": "करली अगर बिफोर दिस अटैक अगर हम बात करें पर्टिकुलरली तो बस हॉर्मोस ही एक चोक",
+   "start_time_text": "4:32",
+   "start_time_label": "4 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 280000,
+   "snippet": "पॉइंट था जो लार्जली बंद था या फिर जहां से एक स्लो लेवल पे अभी रिसेट में अगर बात करें तो ऑइल का सप्लाई अगेन जाना चालू हुआ",
+   "start_time_text": "4:40",
+   "start_time_label": "4 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 288000,
+   "snippet": "था बट इसके चलते जो बाकी ओपेक कंट्रीज है वहां पर प्रोडक्शन अराइज हुआ था एंड एक",
+   "start_time_text": "4:48",
+   "start_time_label": "4 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 296000,
+   "snippet": "थोड़ा सा वीकर डिमांड भी थी तो थोड़ा सा वो ओवरऑल जो सप्लाई अंडर सप्लाई हो रहा है एस",
+   "start_time_text": "4:56",
+   "start_time_label": "4 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 303000,
+   "snippet": "कंपेयर टू डिमांड वो थोड़ा सा यहां पे कुशन हो रहा था बट अभी कंसीडरिंग दिस अटैक अगेन एक नया चोक पॉइंट यहां पे क्रिएट हुआ है",
+   "start_time_text": "5:03",
+   "start_time_label": "5 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 310000,
+   "snippet": "जिसके चलते मे बी ऑल प्राइसेस पे आगे जाके और यहां पे बढ़ने के चांसेस है। ऑलदो चाइना ने हम बहुत सारे लोगों को पता होगा कि",
+   "start_time_text": "5:10",
+   "start_time_label": "5 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 318000,
+   "snippet": "चाइना यहां पे बहुत लार्ज अमाउंट में ऑइल इन्वेंटरीज एक्यूमुलेट की हुई है। बट डेफिनेटली ये एक थोड़ा सा",
+   "start_time_text": "5:18",
+   "start_time_label": "5 minutes, 18 seconds"
+  },
+  {
+   "start_ms": 326000,
+   "snippet": "ब्रीदर देगा चाइना को कुछ दिनों के लिए बट लॉन्ग टर्म में ये एक मेजर कंसर्न होने वाला है इंक्लूडिंग इंडिया जैसे कंट्रीज",
+   "start_time_text": "5:26",
+   "start_time_label": "5 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 335000,
+   "snippet": "के लिए भी तो ये अटैक सडनली क्यों हुआ हॉकी की तरफ से वो यहां पे देखते हैं। तो",
+   "start_time_text": "5:35",
+   "start_time_label": "5 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 343000,
+   "snippet": "2015 में जो कॉन्फ्लिक्ट है वो सबसे पहले यहां पे आया था। बेसिकली यमेन का जो सिविल",
+   "start_time_text": "5:43",
+   "start_time_label": "5 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 350000,
+   "snippet": "वॉर है उस चक्कर में ये ओवरऑल कॉन्फ्लिक्ट आया था। तो हदी जो एक ईरान का अलाय है यानी कि फ्रेंड है तो इन्होंने एक लार्ज",
+   "start_time_text": "5:50",
+   "start_time_label": "5 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 359000,
+   "snippet": "नॉर्दन यमेन का पार्ट यहां पे सीज कर दिया था इन 2015 बट तभी सऊदी अरब अरबिया ने",
+   "start_time_text": "5:59",
+   "start_time_label": "5 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 366000,
+   "snippet": "यहां पे इंटरवीन किया था वो जब सीज किया था हऊदी ने उस टाइम पे और वहां पे थोड़ा",
+   "start_time_text": "6:06",
+   "start_time_label": "6 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 373000,
+   "snippet": "सा क्फ्लिक्ट आया था बिटवीन बोथ कंट्रीज सऊदी ने यहां पे एयर स्ट्राइक किए थे हऊदी ने भी एट दैट टाइम मिसाइल एंड",
+   "start_time_text": "6:13",
+   "start_time_label": "6 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 381000,
+   "snippet": "ड्रोन अटैक्स किए थे बट 2022 में एक यूएन बैक टू ने यहां पे जो है ओवरऑल ये फाइटिंग",
+   "start_time_text": "6:21",
+   "start_time_label": "6 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 388000,
+   "snippet": "थोड़ी सी रुकवाई थी बट परमानेंट कोई पॉलिटिकल सेटलमेंट तभी भी नहीं हुई थी एंड करेंटली सबको दिख रहा है कि यूएस ईरान के",
+   "start_time_text": "6:28",
+   "start_time_label": "6 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 397000,
+   "snippet": "जो एस्केलेशन चल रहे हैं उसकी ही बात यहां पे भी जुलाई में थोड़े से एस्केलेशन बढ़ना चालू हुए जुलाई 26 की मैं बात कर रही हूं",
+   "start_time_text": "6:37",
+   "start_time_label": "6 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 405000,
+   "snippet": "एंड अभी करेंटली हाउ ने तो सीधा एक ब्लॉकेड ही यहां पे डिक्लेअ कर दिया है अगेंस्ट सऊदी शिपिंग एंड एक्सपेंडेड एंड",
+   "start_time_text": "6:45",
+   "start_time_label": "6 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 412000,
+   "snippet": "एंड उन्होंने उनका जो मिलिट्री एक्टिविटी है यमेन के वेस्टर्न को कोस्ट में वो भी यहां पे हऊदी ने बढ़ाया है। तो डेफिनेटली",
+   "start_time_text": "6:52",
+   "start_time_label": "6 minutes, 52 seconds"
+  },
+  {
+   "start_ms": 420000,
+   "snippet": "रेड सी वाला जो रूट यूज़ करके सऊदी यहां पे सप्लाई बढ़ाना चाह रहा था ऑइल का क्योंकि ऑफ कोर्स ईरान अभी करेंटली ऑइल सप्लाई",
+   "start_time_text": "7:00",
+   "start_time_label": "7 minutes"
+  },
+  {
+   "start_ms": 429000,
+   "snippet": "इतना अग्रेसिवली नहीं कर पा रहा है बिकॉज़ ऑफ़ स्ट्रेट ऑफ़ ऑलमोस्ट का जो ओवरऑल सिनेरियो है। बट अभी वो भी सऊदी के लिए यहां पे पॉसिबल होता हुआ नहीं दिखेगा।",
+   "start_time_text": "7:09",
+   "start_time_label": "7 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 437000,
+   "snippet": "बिकॉज़ ऑफ़ रेड सी वाला उनका जो पोर्ट है उस पे ही अटैक अभी हो ने किया है। तो डेफिनेटली ईरान यहां पे थोड़ा सा ऐसे दिख",
+   "start_time_text": "7:17",
+   "start_time_label": "7 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 444000,
+   "snippet": "रहा है कि स्टांसेस ईरान की तरफ से आ रहा है क्योंकि हती है तो ईरान का ही अलाय राइट अभी डायरेक्टली इनडायरेक्टली कोई भी कंट्री ने ऐसे कोई कमेंट्री नहीं दी है बट",
+   "start_time_text": "7:24",
+   "start_time_label": "7 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 453000,
+   "snippet": "डेफिनेटली यहां पे ईरान ईरान की तरफ से ही ये ओवरऑल स्टांसेस होते हुए दिख रहे है ऐसा कह सकते है बट लेट्स सी अभी क्या होता",
+   "start_time_text": "7:33",
+   "start_time_label": "7 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 461000,
+   "snippet": "है बट इसका ओवरऑल इंपैक्ट क्या होगा तो वर्ल्ड पर यही होने वाला है कि अलोंग वि स्टेट ऑफ हॉर्मोस अभी ये न्यू जो बाल",
+   "start_time_text": "7:41",
+   "start_time_label": "7 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 470000,
+   "snippet": "मंदिर पोर्ट है वो भी अभी बंद हो सकता है या फिर मे बी टेंपरेरी सप्लाई ऑइल का जो है वहां पे भी डिसरप्ट हो सकता है जिसका",
+   "start_time_text": "7:50",
+   "start_time_label": "7 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 478000,
+   "snippet": "ओवरऑल इंपैक्ट बाकी सप्लाई चेन्न पे भी होगा क्योंकि बाकी सारे काफी कमोडिटीज भी इंपोर्ट एक्सपोर्ट होती है वाया दैट रूट",
+   "start_time_text": "7:58",
+   "start_time_label": "7 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 486000,
+   "snippet": "आल्सो तो जिसकी वजह से मेनली इंपैक्ट तो होगा ऑइल प्राइसेस पे गोल्ड मंस की तो यहां पे एनालिस्ट ने ये भी प्रेडिक्ट किया",
+   "start_time_text": "8:06",
+   "start_time_label": "8 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 494000,
+   "snippet": "कि $20 तक ब्रेड क्रूड जा सकता है तो मे बी और ऑइल की प्राइस यहां पे बढ़ सकती है तो तो जो ई आउट लग रहा था मे बी होगा",
+   "start_time_text": "8:14",
+   "start_time_label": "8 minutes, 14 seconds"
+  },
+  {
+   "start_ms": 502000,
+   "snippet": "बिकॉज़ ऑफ़ मिड अप इक्शंस एंड ऑल जो यूएस में आ रही है बट टेंपरेरीली तो भी नियर टर्म ऐसे नहीं लग रहा है कि ऑइल की",
+   "start_time_text": "8:22",
+   "start_time_label": "8 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 510000,
+   "snippet": "प्राइसेस का यहां पे कुछ रिलीफ हो सकता है लेट्स आई थिंक इट्स अ वेट एंड व्हाट सिनेरियो नेक्स्ट अभी न्यूज़ है रिगार्डिंग",
+   "start_time_text": "8:30",
+   "start_time_label": "8 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 518000,
+   "snippet": "यूएस अगेन सो कुछ इकोनमिक टाइम्स में ये न्यूज़ मिली थी तो कुछ सोर्सेस के अकॉर्डिंग ऐसा कहा जा रहा है कि यूएस जो",
+   "start_time_text": "8:38",
+   "start_time_label": "8 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 526000,
+   "snippet": "है वो और एक्सेस यहां पे सीक कर रहा है फॉर वेनेजुला का मिनरल वेल्थ हम सबको पता है कि वेनेजुला का कैसे",
+   "start_time_text": "8:46",
+   "start_time_label": "8 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 533000,
+   "snippet": "उन्होंने ऑयल का रिजर्व यहां पे एक्वायर किया है यूएस ने बट इसके बाद वेनेजुला में काफी गोल्ड का भी रिजर्व है। प्लस एक",
+   "start_time_text": "8:53",
+   "start_time_label": "8 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 541000,
+   "snippet": "मिनरल्स भी काफी ज्यादा वहां पे है। जैसे पिछले मतलब कुछ महीनों पहले ही न्यूज़",
+   "start_time_text": "9:01",
+   "start_time_label": "9 minutes, 1 second"
+  },
+  {
+   "start_ms": 549000,
+   "snippet": "यहां पे कवर की थी कि चाइना ने जो है रेयर अर्थ मटेरियल का यहां पे सप्लाई रोक दिया।",
+   "start_time_text": "9:09",
+   "start_time_label": "9 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 553000,
+   "snippet": "जिसके बाद ईवीस को काफी इंपैक्ट हुआ। तो ऐसे कुछ मिनरल्स जो रेयर अर्थ जैसे भी मिनरल्स वहां पे है तो उसका अभी तक",
+   "start_time_text": "9:13",
+   "start_time_label": "9 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 561000,
+   "snippet": "माइनिंग नहीं हुआ है वेनेजुला में बट डेफिनेटली यूएस इस लुकिंग टू माइन दैट थिंग एंड यूएस ने काफी सारी वेस्टर्न कंपनीज को यहां पे कॉन्ट्रैक्ट्स मांगे",
+   "start_time_text": "9:21",
+   "start_time_label": "9 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 569000,
+   "snippet": "हैं टू इन्वेस्ट माइनिंग के लिए इन वेनसुला एंड एक ये दिख रहा है कि मिस्टर ट्रंप इनके जो प्रोडक्ट स्ट्रेटजी है कि",
+   "start_time_text": "9:29",
+   "start_time_label": "9 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 578000,
+   "snippet": "यूएस का एक इन्फ्लुएंस उनको रिअसर्ट करना है ओवर लैटिन अमेरिका बिकॉज़ ऑफ कोर्स चाइना का जो एक्सपेंशन है उनको वो पुश बैक",
+   "start_time_text": "9:38",
+   "start_time_label": "9 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 586000,
+   "snippet": "करना है। तो उसके चलते क्लियरली अभी ये दिख रहा है कि वेनेजुला की तरफ से और एक्स्ट्रा यहां पे जो भी चोक पॉइंट्स",
+   "start_time_text": "9:46",
+   "start_time_label": "9 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 595000,
+   "snippet": "चाइना क्रिएट करता है उसके अगेंस्ट जाने का यूएस का स्टांस यहां पे दिख रहा है। तो डेफिनेटली वेनेजुलाई एक ओपोरर्चुनिटी यहां",
+   "start_time_text": "9:55",
+   "start_time_label": "9 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 603000,
+   "snippet": "पे ऑफर कर रहा है ट्रंप एडमिनिस्ट्रेशन को टू क्रिएट टू इनक्रीस रिसोर्सेज जिसके",
+   "start_time_text": "10:03",
+   "start_time_label": "10 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 611000,
+   "snippet": "थ्रू नेशनल सिक्योरिटी एंड इकोनमिक एजेंडा उनका फुलफिल हो सके। तो देखते हैं आगे कैसे यह होता है। अभी तो करेंटली यूएस की",
+   "start_time_text": "10:11",
+   "start_time_label": "10 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 620000,
+   "snippet": "कंपनीज यहां पर ओपोरर्चुनिटीज देख रही है कि वेनेजुला के माइनिंग सेक्टर में क्या वो इन्वेस्टमेंट्स कर सकती है जस्ट टू गेट दैट मिनरल रिसोर्सेज जो भी है उसका माइन।",
+   "start_time_text": "10:20",
+   "start_time_label": "10 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 630000,
+   "snippet": "नेक्स्ट एक न्यूज़ है रिलेटेड टू ईयू एंड कनाडा। तो यहां पे ब्लूमबर्ग ने बेसिकली ये न्यूज़ रिपोर्ट की थी कि ईयू एंड कनाडा",
+   "start_time_text": "10:30",
+   "start_time_label": "10 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 639000,
+   "snippet": "एक मैसिव ऑल इनकंप्सिंग पार्टनरशिप यहां पे अनाउंस करने वाले हैं। जिसमें अ",
+   "start_time_text": "10:39",
+   "start_time_label": "10 minutes, 39 seconds"
+  },
+  {
+   "start_ms": 646000,
+   "snippet": "ट्रेड एंड सिक्योरिटी एवरीथिंग डिस्कस रहेगा। बेसिकली अभी रिसेंटली जो मिस्टर ट्रंप ने ओवरऑल लेटेस्ट टेरिफिक्स जो बोले",
+   "start_time_text": "10:46",
+   "start_time_label": "10 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 653000,
+   "snippet": "हैं उसके बाद ही कनाडा एंड ईयू एक नया अलायंस यहां पे क्रिएट करते हुए दिख रहे हैं। एंड जस्ट ये डील में क्या-क्या हो",
+   "start_time_text": "10:53",
+   "start_time_label": "10 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 663000,
+   "snippet": "सकता है? ये पूरी डिटेल्स तो नहीं है अभी तक। बट ब्लूमबर्ग ने यही कहा है कि एक ग्लोबल पॉलिटिक्स जो यूएस और चाइना की तरफ",
+   "start_time_text": "11:03",
+   "start_time_label": "11 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 672000,
+   "snippet": "से डोमिनेट होता है वो उसके अगेंस्ट यहां पे मे बी ये दोनों कंट्रीज आ सकती है एक साथ एंड ये पार्टनरशिप जो है वो",
+   "start_time_text": "11:12",
+   "start_time_label": "11 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 680000,
+   "snippet": "एक्सपेक्टेड है कि 16 सितंबर को ये अनाउंस करेंगे। कनाडा की अगर बात करूं तो ये पहली",
+   "start_time_text": "11:20",
+   "start_time_label": "11 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 686000,
+   "snippet": "कंट्री रहेगी आउटसाइड ऑफ इयू जो जॉइ करेगी इयू का 175 बिलियन मिलिट्री प्रोक्युरमेंट",
+   "start_time_text": "11:26",
+   "start_time_label": "11 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 693000,
+   "snippet": "फंड एंड ओवरऑल एक जो ट्रेड वॉर एंड एआई का जो यहां पे दिख रहा है कॉमटीशन उसमें अभी",
+   "start_time_text": "11:33",
+   "start_time_label": "11 minutes, 33 seconds"
+  },
+  {
+   "start_ms": 701000,
+   "snippet": "दिख रहा है कि ग्लोबल पावर जो है वो भी डायनामिक्स थोड़े से चेंज होते हुए में भी दिख सकते हैं आफ्टर दिस पार्टनरशिप। तो",
+   "start_time_text": "11:41",
+   "start_time_label": "11 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 708000,
+   "snippet": "यहां पे भी हम देख देख वेट एंड वॉच ही देख सकते हैं कि कैसे यू एंड कनाडा क्या पार्टनरशिप होती है। वो ऑफकोर्स ऑफिशियल",
+   "start_time_text": "11:48",
+   "start_time_label": "11 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 717000,
+   "snippet": "न्यूज़ आने पर ही समझेगा। बट एक इंटरेस्टिंग मुझे ये चार्ट भी मिला था। तो ओबीसी लेटर करके एक Twitter पे Twitter",
+   "start_time_text": "11:57",
+   "start_time_label": "11 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 726000,
+   "snippet": "पेज है। तो वहां पे इन्होंने ये चार्ट शेयर किया था अबाउट डॉलर डीडोलराइजेशन। तो काफी सारे हम रिसेंट टाइप्स में इवन मंदार",
+   "start_time_text": "12:06",
+   "start_time_label": "12 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 735000,
+   "snippet": "ने भी कल जो न्यूज़ कवर की है जिसमें जापान ने भी कुछ यूएस ट्रेजरी यहां पे सेल ऑफ की है। राइट? उसके बाद चाइना भी सेल ऑफ कर",
+   "start_time_text": "12:15",
+   "start_time_label": "12 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 744000,
+   "snippet": "रहा है। इंडिया ने भी की है। तो एक्चुअली इसका इंपैक्ट कितना हुआ है ऑन डॉलर का फॉरेन करेंसी रिजर्व फॉरेक्स रिजर्व। तो",
+   "start_time_text": "12:24",
+   "start_time_label": "12 minutes, 24 seconds"
+  },
+  {
+   "start_ms": 752000,
+   "snippet": "ये चार्ट अगर आप देखोगे तो इसमें यही दिख रहा है कि ग्लोबल शेयर जो है ऑफ डॉलर वो यहां पे डिक्लाइन हुआ है द टू 57%",
+   "start_time_text": "12:32",
+   "start_time_label": "12 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 762000,
+   "snippet": "जो लोएस्ट है सिंस लास्ट 30 इयर्स एंड ये जो ओवरऑल परसेंटेज डिक्लाइन है वो 20 पॉइंट से यहां पे डिक्लाइन हुआ है सिंस",
+   "start_time_text": "12:42",
+   "start_time_label": "12 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 770000,
+   "snippet": "1999 मेनली बिकॉज़ ऑफ़ चाइना एंड रशिया ने भी यहां पे काफी ज्यादा सेल ऑफ किया है।",
+   "start_time_text": "12:50",
+   "start_time_label": "12 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 776000,
+   "snippet": "बट एस कंपेयर टू दैट अगर हम फोर मेजर रिजर्व करेंसी जिसमें यूएसडी, जापानीज",
+   "start_time_text": "12:56",
+   "start_time_label": "12 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 782000,
+   "snippet": "यूरो और जीबीपी ये सब आते हैं। तो ये यानी यूरो एंड पाउंड भी आता है। तो इसका",
+   "start_time_text": "13:02",
+   "start_time_label": "13 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 789000,
+   "snippet": "परसेंटेज भी 12%ेज पॉइंट्स से कम होके 87% पे गया है। वो भी लोएस्ट है इन लास्ट 30",
+   "start_time_text": "13:09",
+   "start_time_label": "13 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 797000,
+   "snippet": "इयर्स। अगर इसके कंपैरिजन में हम रिवर्स अगर देखेंगे तो नॉन बिग फोर जो है वो चार्ट यहां पर बढ़ता हुआ दिख रहा है। तो",
+   "start_time_text": "13:17",
+   "start_time_label": "13 minutes, 17 seconds"
+  },
+  {
+   "start_ms": 805000,
+   "snippet": "डेफिनेटली जो कंट्रीज ने यहां पे यूएस डॉलर के रिजर्व्स जो है वो यहां पे",
+   "start_time_text": "13:25",
+   "start_time_label": "13 minutes, 25 seconds"
+  },
+  {
+   "start_ms": 812000,
+   "snippet": "डिक्लाइन तो होते हुए दिख रहे हैं बट जो डिक्लाइन है वो हैवली कंसंट्रेटेड है इन फ्यू कंट्रीज। स्मॉल नंबर ऑफ रिजर्व होल्डर्स पे ये यहां पे कंसंट्रेटेड है।",
+   "start_time_text": "13:32",
+   "start_time_label": "13 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 823000,
+   "snippet": "जिसमें मेजरली वी ऑल नो चाइना ने यहां पे काफी डंपिंग किया है। बट यस डीडोलराइजेशन जो है वो एक्चुअली यहां पे दिख रहा है। बट",
+   "start_time_text": "13:43",
+   "start_time_label": "13 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 831000,
+   "snippet": "दैट डजंट मीन कि लोग यहां पे डॉलर यूज़ नहीं कर रहे हैं। अगर हम ट्रांजैक्शन करेंसीज के हिसाब से देखेंगे तो डॉलर का",
+   "start_time_text": "13:51",
+   "start_time_label": "13 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 838000,
+   "snippet": "यूसेज अभी भी काफी डोमिनेटेड है। बट रिजर्व्स के लिए जो सेंट्रल बैंक्स यहां पे यूज़ करती थी पहले डॉलर को वो अभी नहीं",
+   "start_time_text": "13:58",
+   "start_time_label": "13 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 845000,
+   "snippet": "यूज़ कर रही है। वो यहां पे क्लियरली ये चार्ट में हम लोग दिख सकते हैं। एंड लॉन्ग रन में यूएस के लिए ये काफी ज्यादा डेंजरस",
+   "start_time_text": "14:05",
+   "start_time_label": "14 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 853000,
+   "snippet": "हो सकता है। क्योंकि नेक्स्ट टाइम यूएस को जब भी यहां पे न्यू डेप्ट चाहिए रहेगी तो नेचुरली जो फॉरेन सेंट्रल बैंक्स है वो एज",
+   "start_time_text": "14:13",
+   "start_time_label": "14 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 863000,
+   "snippet": "अ बयर बेस वहां पे कम रहेगी। तो डेफिनेटली ये थोड़ा सा अभी पेन पॉइंट यूएस के लिए हो सकता है। जिसकी वजह से ये सारा ऑइल के",
+   "start_time_text": "14:23",
+   "start_time_label": "14 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 870000,
+   "snippet": "रिलेटेड बाइंग एंड वॉर एंड ऑल एवरीथिंग इस गोइंग ऑन। तो अभी देखना ये इंपॉर्टेंट",
+   "start_time_text": "14:30",
+   "start_time_label": "14 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 877000,
+   "snippet": "रहेगा तो एक्चुअली कौन ऐसा डोमिनेटिंग ग्लोबली पावर में यहां पर शिफ्ट ला सकता है या नहीं क्योंकि यूएस तो डेफिनेटली एक",
+   "start_time_text": "14:37",
+   "start_time_label": "14 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 886000,
+   "snippet": "लीड करता है जो यूरोप एंड कनाडा का भी यहां पे अभी एक फैक्ट मे बी अभी ऑफिशियल कमेंट नहीं आई है ब्लूमबर्ग के के",
+   "start_time_text": "14:46",
+   "start_time_label": "14 minutes, 46 seconds"
+  },
+  {
+   "start_ms": 894000,
+   "snippet": "रिसोर्सेज के अकॉर्डिंग ही ये सब उन्होंने बोला है बट डेफिनेटली अगर कोई ऑफिशियल कमेंट्री भी वहां पे आती है तो वो देखना काफी इंटरेस्टिंग रहेगा कि कैसे ग्लोबल डायनामिक्स यहां पे अभी चेंज होते हैं।",
+   "start_time_text": "14:54",
+   "start_time_label": "14 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 905000,
+   "snippet": "इसका इंपैक्ट हम पे क्या होगा? तो क्योंकि इसके ही अकॉर्डिंग एफआईएस का थोड़ा सा इनफ्लो आउट फ्ल्लो जो है वो इंडियन स्टॉक",
+   "start_time_text": "15:05",
+   "start_time_label": "15 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 913000,
+   "snippet": "मार्केट के लिए भी वो डिसाइड करेगा। अभी आते हैं इंडिया स्पेसिफिक न्यूज़ पे। तो यूके ने जो है वो इंडिया का कार्बन क्रेडिट ट्रेडिंग स्कीम यहां पर",
+   "start_time_text": "15:13",
+   "start_time_label": "15 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 921000,
+   "snippet": "रिकॉग्नाइज कर लिया है एंड जिसके ही वजह से अलऊ कर दिया है बेसिकली जिसकी ही वजह से इंडियन एक्सपोर्टर्स के लिए ये एक",
+   "start_time_text": "15:21",
+   "start_time_label": "15 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 929000,
+   "snippet": "पॉजिटिव न्यूज़ है। सो यूके ने यहां पे एग्री किया है कि वो इनेबल करेंगे एक्सपोर्टर्स को जो क्रेडिट है अंडर",
+   "start_time_text": "15:29",
+   "start_time_label": "15 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 938000,
+   "snippet": "इंडिया का कार्बन क्रेडिट ट्रेडिंग स्कीम एंड जिसकी वजह से डबल टैक्सेशन यहां पे थोड़ा अवॉइड होगा एंड जो ट्रेड है ओवरऑल बिटवीन बोथ कंट्रीज वो बूस्ट हो सकता है।",
+   "start_time_text": "15:38",
+   "start_time_label": "15 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 948000,
+   "snippet": "इंडियन गुड्स है वो यूके कार्बन बॉर्डर एडजस्टमेंट मैकेनिज्म में अभी कवर होंगे",
+   "start_time_text": "15:48",
+   "start_time_label": "15 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 955000,
+   "snippet": "जिसके अंडर ही कार्बन प्राइस का रिलीफ मिलेगा यूके वाले इंपोर्टर्स को जो ये सारे इंडियन गुड्स वहां पे इंपोर्ट करेंगे",
+   "start_time_text": "15:55",
+   "start_time_label": "15 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 962000,
+   "snippet": "एंड ऑलरेडी अगर इंडिया की बात करूं तो जो पहले यूके एंड इंडिया का पैक साइन हुआ था उसमें भी ट्रेड एग्रीमेंट जो जुलाई में",
+   "start_time_text": "16:02",
+   "start_time_label": "16 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 971000,
+   "snippet": "साइन हुआ था एट दैट टाइम आल्सो इंडिया ने यहां पे ये स्टांस रखा था कि ये जो कार्बन क्रेडिट है वो वहां पे तभी अलऊ कर दो बट",
+   "start_time_text": "16:11",
+   "start_time_label": "16 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 979000,
+   "snippet": "तभी दे वो नहीं हो पाया मतलब वो रिकॉग्नाइज रिकॉग्नाइज नहीं किया यूके ने",
+   "start_time_text": "16:19",
+   "start_time_label": "16 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 986000,
+   "snippet": "बेसिकली बट नाउ आफ्टर लॉट ऑफ नेगोशिएशंस यूके अथॉरिटीज ने अभी अग्री कर दिया है कि ये जो कार्बन क्रेडिट है इंडिया की तरफ से",
+   "start_time_text": "16:26",
+   "start_time_label": "16 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 995000,
+   "snippet": "जो रहता है वो यूके के मैकेनिज्म में भी वो अलाउ करेंगे जिसकी वजह से प्राइस जो है ओवरऑल वो थोड़ा सा रिलीफ मिलेगा इंडियन",
+   "start_time_text": "16:35",
+   "start_time_label": "16 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 1004000,
+   "snippet": "एक्सपोर्टर्स को इसमें कौन सी कौन सी गुड्स आने वाले हैं। तो इंपोर्ट के लिए इन्होंने ये स्पेसिफाई किए है। एलुमिनियम,",
+   "start_time_text": "16:44",
+   "start_time_label": "16 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 1013000,
+   "snippet": "सीमेंट, फर्टिलाइजर, हाइड्रोजन, आयरन, स्टील ये सारे गुड्स इसमें कवर जाएंगे। अ यूके करेंटली बाकी भी 60 बाकी कंट्रीज की",
+   "start_time_text": "16:53",
+   "start_time_label": "16 minutes, 53 seconds"
+  },
+  {
+   "start_ms": 1023000,
+   "snippet": "भी जो कार्बन प्राइिंग स्कीम्स है वो यहां पर रिकॉग्नाइज करता है जिसमें ईयू एमिशन ट्रेडिंग सिस्टम चाइना की भी स्कीम ये रिकॉग्नाइज करते हैं। साउथ कोरिया जापान",
+   "start_time_text": "17:03",
+   "start_time_label": "17 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 1031000,
+   "snippet": "ये सब की भी स्कीम्स करते हैं जिसमें अभी इंडिया का भी नाम एक ऐड हो चुका है व्हिच इज अ वेरी पॉजिटिव न्यूज़ फॉर इंडियन एक्सपोर्टर्स। इसके बाद एक न्यूज़ है",
+   "start_time_text": "17:11",
+   "start_time_label": "17 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 1040000,
+   "snippet": "रिगार्डिंग 35,000 करोड़ के डेवलपमेंट प्रोजेक्ट्स जो मिस्टर मोदी इन्होंने इनगुरेट किए हैं इन वडोदरा। सो ये",
+   "start_time_text": "17:20",
+   "start_time_label": "17 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 1049000,
+   "snippet": "प्रोजेक्ट में मेनली क्या है? तो वेस्टर्न डेडिकेटेड फ्रेट कॉरिडोर देन रेलवे हाईवे प्रोजेक्ट्स है एंड गतिशक्ति जो एक बड़ा",
+   "start_time_text": "17:29",
+   "start_time_label": "17 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 1057000,
+   "snippet": "प्रोजेक्ट गवर्नमेंट कर रहा है ओवरऑल इंडिया का लॉजिस्टिक का इंफ्रास्ट्रक्चर",
+   "start_time_text": "17:37",
+   "start_time_label": "17 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 1064000,
+   "snippet": "बेटर करने के लिए तो उसके अंडर ही ये डेवलपमेंट प्रोजेक्ट्स यहां पे इनगोरेट",
+   "start_time_text": "17:44",
+   "start_time_label": "17 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 1071000,
+   "snippet": "किए हैं मिस्टर मोदी इन्होंने। तो इसके अंडर तीन जो है वह न्यूली कंप्लीटेड",
+   "start_time_text": "17:51",
+   "start_time_label": "17 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 1079000,
+   "snippet": "वेस्टर्न डेडिकेटर पर कॉरिडर्स रहेंगे जो 326 रूट किलोमीटर्स को यहां पे कवर करेगा",
+   "start_time_text": "17:59",
+   "start_time_label": "17 minutes, 59 seconds"
+  },
+  {
+   "start_ms": 1086000,
+   "snippet": "एंड 2000 करोड़ के आसपास का ओवरऑल कैपेक्स इसके लिए इन्होंने यहां पे सेंशन किया है।",
+   "start_time_text": "18:06",
+   "start_time_label": "18 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 1093000,
+   "snippet": "आल्सो इसके बाद थोड़े बहुत डायरेक्ट कनेक्टिविटी भी यह लोग यहां पे करेंगे टू जवाहरलाल नेहरू पोर्ट अथॉरिटी एंड जिसके",
+   "start_time_text": "18:13",
+   "start_time_label": "18 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 1101000,
+   "snippet": "वजह से एक्सपोर्ट इंपोर्ट कार्गो जो है वो यहां पे फास्ट मूव होगा। मेनली ये एक्ट करेगा एस अ लिंकेज बिटवीन इंडस्ट्रियल",
+   "start_time_text": "18:21",
+   "start_time_label": "18 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 1110000,
+   "snippet": "सेंटर एंड पोर्ट्स जिसकी वजह से लॉजिस्टिक कॉस्ट जो है वो थोड़ी लोअर साइड पे जा सकती है। अभी आते हैं स्टॉक स्पेसिफिक न्यूज़ पे। तो जी वर्नोवा के लिए एक न्यूज़ है।",
+   "start_time_text": "18:30",
+   "start_time_label": "18 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 1120000,
+   "snippet": "हालांकि कल की अगर बात करूं तो स्टॉक ऑलमोस्ट 9% अप पे क्लोज हुआ है। क्योंकि कंपनी को एक नया ऑर्डर मिला है बड़े",
+   "start_time_text": "18:40",
+   "start_time_label": "18 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 1128000,
+   "snippet": "ट्रांसफार्मर के लिए फ्रॉम पावर ग्रिड। सो 6000 मेगावाट का जो एल1 बडिंग था वो कंपनी",
+   "start_time_text": "18:48",
+   "start_time_label": "18 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 1135000,
+   "snippet": "ने यहां पर विन किया है फॉर डिजाइन एंड एस्टैब्लिशमेंट ऑफ हाई वोल्टेज डायरेक्ट करंट यानी कि एचवीडीसी का यहां पे",
+   "start_time_text": "18:55",
+   "start_time_label": "18 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 1142000,
+   "snippet": "ट्रांसफार्मर के लिए जो रिन्यूएबल पावर प्रोजेक्ट चल रहा है बार टू टू साउथ कलम के लिए। सो डोमेस्टिक ऑर्डर है मल्टीपल",
+   "start_time_text": "19:02",
+   "start_time_label": "19 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 1151000,
+   "snippet": "इयर्स के लिए कंपनी को मिला है। इसके बाद एक Bajaj Finance की न्यूज़ है दैट Bajaj Finance ने 5% स्टेक यहां पे एक्वायर किया",
+   "start_time_text": "19:11",
+   "start_time_label": "19 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 1159000,
+   "snippet": "है इन ट्रू फैन एआई जो एक्सर्व इंटेलिजेंस ओवरऑल जो कंपनी एक कैंपेन चला रही है उसके",
+   "start_time_text": "19:19",
+   "start_time_label": "19 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 1167000,
+   "snippet": "अंडर ये एक्विजिशन है। सो ट्रू फैन एआई जो है एक एआई पावर्ड वीडियो जनरेशन",
+   "start_time_text": "19:27",
+   "start_time_label": "19 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 1175000,
+   "snippet": "प्लेटफार्म है। एंड ये इन्वेस्टमेंट जो Bajaj Finance ग्रुप ने की है वो एक फिनसफ इंटेलिजेंस करके इनिशिएटिव कंपनी ने लिया",
+   "start_time_text": "19:35",
+   "start_time_label": "19 minutes, 35 seconds"
+  },
+  {
+   "start_ms": 1183000,
+   "snippet": "था इन अप्लाइड रिसर्च इनोवेशन फोकस जो है वो इन्वेस्टमेंट्स के लिए सो दैट",
+   "start_time_text": "19:43",
+   "start_time_label": "19 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 1191000,
+   "snippet": "जो छोटी-छोटी कंपनीज है व्हिच आर बिल्ट इन इंडिया और फॉर इंडिया उनको ये सपोर्ट कर सके। यह इनिशिएटिव मेनली फोकस करता है",
+   "start_time_text": "19:51",
+   "start_time_label": "19 minutes, 51 seconds"
+  },
+  {
+   "start_ms": 1200000,
+   "snippet": "अर्ली स्टेज कंपनीज पे फ्रॉम सी टू सीरीज बी कैपिटल यहां पर कंपनी प्रोवाइड करती है",
+   "start_time_text": "20:00",
+   "start_time_label": "20 minutes"
+  },
+  {
+   "start_ms": 1206000,
+   "snippet": "एंड जो कौन सी कंपनीज के लिए करते हैं तो जो मेनली स्ट्रांग इनोवेशन स्केलेबिलिटी पोटेंशियल रहेगा जिनका अक्रॉस एआई साइबर",
+   "start_time_text": "20:06",
+   "start_time_label": "20 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 1214000,
+   "snippet": "सिक्योरिटी क्वांटम टेक्नोलॉजी फinटेक एंड कंज्यूमर टेक्नोलॉजी ये सबके लिए तो जो ट्रू फैन का इन्होंने जो किया है",
+   "start_time_text": "20:14",
+   "start_time_label": "20 minutes, 14 seconds"
+  },
+  {
+   "start_ms": 1222000,
+   "snippet": "एक्विजिशन वो डेफिनेटली Bajaj Finance के लिए यहां पे कैसे हेल्प करेगा तो कंपनी वो यूज़ यूज़ करेगी टू जनरेट मिलियन ऑफ़ पर्सनलाइज वीडियोस फॉर कस्टमर इंगेजमेंट",
+   "start_time_text": "20:22",
+   "start_time_label": "20 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 1230000,
+   "snippet": "एंड डीलर इनेबल इनेबलमेंट इनिशिएटिव्स के लिए एंड वो एआई लेट जो ऑटोमेशन एंड",
+   "start_time_text": "20:30",
+   "start_time_label": "20 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 1238000,
+   "snippet": "पर्सनलाइजेशन है अक्रॉस डिजिटल इकोसिस्टम उसके लिए भी हेल्प करेगा बजाज फाइनेंस स्कूल तो आई थिंक दैट्स इट फॉर टुडे आई यू",
+   "start_time_text": "20:38",
+   "start_time_label": "20 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 1245000,
+   "snippet": "नो थोड़ा सा ग्लोबल न्यूज़ का सेक्शन काफी ज्यादा बड़ा हो गया आज क्योंकि ओवरऑल मुझे ऐसा लगता है ऑनेस्टली कि करेंटली हम जो भी",
+   "start_time_text": "20:45",
+   "start_time_label": "20 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 1254000,
+   "snippet": "यहां पे इकोनमिक ग्लोबली ली जो जिओपॉलिटिकल सिनेरियोस देख रहे हैं वो स्टडी करना काफी्ट है जस्ट टू अंडरस्टैंड",
+   "start_time_text": "20:54",
+   "start_time_label": "20 minutes, 54 seconds"
+  },
+  {
+   "start_ms": 1261000,
+   "snippet": "की कैसे अभी ये चांसेस मूव हो रहे हैं एंड वो देखना भी काफी इंटरेस्टिंग है कि ग्लोबली कैसे पावर्स यहां पे थोड़ी बहुत",
+   "start_time_text": "21:01",
+   "start_time_label": "21 minutes, 1 second"
+  },
+  {
+   "start_ms": 1268000,
+   "snippet": "शिफ्ट होते हुए दिख रही है क्योंकि इसका डायरेक्ट इंपैक्ट क्योंकि इंडियन स्टॉक मार्केट पे डेफिनेटली होगा एंड इंडियन",
+   "start_time_text": "21:08",
+   "start_time_label": "21 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 1275000,
+   "snippet": "कंपनी पे भी होगा क्योंकि ऑइल जैसी काफी इंपॉर्टेंट कमोडिटी है जो हर किसी के लाइफ का हिस्सा है तो आई थिंक दैट्स इट फॉर",
+   "start_time_text": "21:15",
+   "start_time_label": "21 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 1282000,
+   "snippet": "टुडे मुझे कमेंट्स में जरूर बताइए कि आपको आज की ताजा खबर कवर का ये कवर कैसे लगा? एंड थैंक यू सो मच एंड हैव अ ग्रेट डे।",
+   "start_time_text": "21:22",
+   "start_time_label": "21 minutes, 22 seconds"
+  }
+ ],
+ "chapters": [
+  {
+   "chapter": "Chapter 1: Start",
+   "start_ms": 0,
+   "start_time_text": "0:00"
+  },
+  {
+   "chapter": "Chapter 2: US–Iran War: Oil Prices",
+   "start_ms": 13000,
+   "start_time_text": "0:13"
+  },
+  {
+   "chapter": "Chapter 3: US Eyes Venezuela’s Minerals",
+   "start_ms": 518000,
+   "start_time_text": "8:38"
+  },
+  {
+   "chapter": "Chapter 4: EU–Canada Plan New Alliance",
+   "start_ms": 632000,
+   "start_time_text": "10:32"
+  },
+  {
+   "chapter": "Chapter 5: Dollar De-Dollarization Risk Limited",
+   "start_ms": 719000,
+   "start_time_text": "11:59"
+  },
+  {
+   "chapter": "Chapter 6: UK Recognises India’s Carbon Scheme",
+   "start_ms": 917000,
+   "start_time_text": "15:17"
+  },
+  {
+   "chapter": "Chapter 7: 35,000 Cr Projects in Vadodara",
+   "start_ms": 1042000,
+   "start_time_text": "17:22"
+  },
+  {
+   "chapter": "Chapter 8: GE Vernova T&D Wins Major Order",
+   "start_ms": 1119000,
+   "start_time_text": "18:39"
+  },
+  {
+   "chapter": "Chapter 9: Bajaj Finance Invests in TrueFan AI",
+   "start_ms": 1156000,
+   "start_time_text": "19:16"
+  }
+ ],
+ "_fetched_at": "2026-10-10T21:25:06"
+}

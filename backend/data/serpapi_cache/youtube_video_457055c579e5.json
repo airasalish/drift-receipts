@@ -1,0 +1,707 @@
+{
+ "search_metadata": {
+  "id": "6acaab212efef876ce8f8971",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/GeYT6Tyf5rc57Z5dB-uTR81lkPRxEKN8JKvyCdaO4Lw/6acaab212efef876ce8f8971.json",
+  "markdown_endpoint": "https://serpapi.com/searches/GeYT6Tyf5rc57Z5dB-uTR81lkPRxEKN8JKvyCdaO4Lw/6acaab212efef876ce8f8971.md",
+  "created_at": "2026-10-10 21:16:17 UTC",
+  "processed_at": "2026-10-10 21:16:17 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=-APjlRq8Usw",
+  "raw_html_file": "https://serpapi.com/searches/GeYT6Tyf5rc57Z5dB-uTR81lkPRxEKN8JKvyCdaO4Lw/6acaab212efef876ce8f8971.html",
+  "prettify_html_file": "https://serpapi.com/searches/GeYT6Tyf5rc57Z5dB-uTR81lkPRxEKN8JKvyCdaO4Lw/6acaab212efef876ce8f8971.prettify",
+  "total_time_taken": 1.19
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "-APjlRq8Usw",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "How to Start Investing in Stock Market? What is ETF? Where to Invest Money?",
+ "thumbnail": "https://i.ytimg.com/vi/-APjlRq8Usw/maxresdefault.jpg",
+ "channel": {
+  "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+  "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+  "subscribers": "15.4M subscribers",
+  "extracted_subscribers": 15400000,
+  "verified": true
+ },
+ "views": "1,505,287 views",
+ "extracted_views": 1505287,
+ "likes": "53K",
+ "extracted_likes": 53000,
+ "published_date": "Premiered Jan 11, 2024",
+ "description": {
+  "content": "🔗Open Free Demat Account on Lemonn:\n https://lemonn.co.in/affiliate-deepli...\n\n👉 Use Referral Code: 2ydcwi\n\n*****************************************************************\n\n👉 Open Free Demat Account: https://upstox.com/open-account/?f=2E...\n\n*****************************************************************\n\n👉👉Intraday Algo Trading Softwares: https://web.algorooms.com\n\n*****************************************************************\n \n#Investment  #ShareMarket  #ETF\n\nAbout Pushkar Raj Thakur :\n\nPushkar Raj Thakur is India's Leading Educator & Business Coach. He is a Guinness World Record Holder for the Largest Financial Investment Lesson and largest Social Media Marketing Lesson. With Millions of  Followers on all major Social Media Platforms, he is known for his versatile knowledge of Financial Education, the Stock Market, Personal Mastery, Sales, Marketing, Human Psychology and Business Development.\n\nNISM Certified Research Analyst\n\nNISM Certified Mutual Fund Distributor\n\nIRDA Certified\n\nFollow us on:\n\n👉 Telegram: https://t.me/PushkarRajThakurOfficial\n\n👉 WhatsApp: https://whatsapp.com/channel/0029Va93...\n\n👉 Facebook:   / pushkarrajthakurofficialpage  \n\n👉 Instagram: https://www.instagram.com/pushkarrajt...\n\n👉 YouTube:    / @pushkarrajthakurofficial    \n\n👉 Twitter: https://x.com/PushkarRThakur\n\n👉 LinkedIn:   / pushkarrajthakur  \n\n👉 Website: http://www.pushkarrajthakur.com\n\nTo Join Our Courses Call @ 9873 99 89 89",
+  "links": [
+   {
+    "start_index": 38,
+    "length": 40,
+    "text": "ttps://lemonn.co.in/affiliate-deepli...\n",
+    "url": "https://lemonn.co.in/affiliate-deeplink?data=2ydcwi"
+   },
+   {
+    "start_index": 205,
+    "length": 40,
+    "text": "ps://upstox.com/open-account/?f=2E...\n\n*",
+    "url": "https://upstox.com/open-account/?f=2EAQTH"
+   },
+   {
+    "start_index": 351,
+    "length": 25,
+    "text": "://web.algorooms.com\n\n***",
+    "url": "https://web.algorooms.com/"
+   },
+   {
+    "start_index": 446,
+    "length": 11,
+    "text": "stment  #Sh",
+    "url": "https://www.youtube.com/hashtag/investment",
+    "type": "browse"
+   },
+   {
+    "start_index": 459,
+    "length": 12,
+    "text": "eMarket  #ET",
+    "url": "https://www.youtube.com/hashtag/sharemarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 473,
+    "length": 4,
+    "text": "\nAbo",
+    "url": "https://www.youtube.com/hashtag/etf",
+    "type": "browse"
+   },
+   {
+    "start_index": 1040,
+    "length": 37,
+    "text": "//t.me/PushkarRajThakurOfficial\n\n👉 Wh",
+    "url": "https://t.me/PushkarRajThakurOfficial"
+   },
+   {
+    "start_index": 1092,
+    "length": 40,
+    "text": "/whatsapp.com/channel/0029Va93...\n\n👉 Fac",
+    "url": "https://whatsapp.com/channel/0029Va93QRy6rsQt2546Eu0S"
+   },
+   {
+    "start_index": 1147,
+    "length": 34,
+    "text": "karrajthakurofficialpage  \n\n👉 Inst",
+    "url": "https://www.facebook.com/pushkarrajthakurofficialpage/"
+   },
+   {
+    "start_index": 1197,
+    "length": 40,
+    "text": "ww.instagram.com/pushkarrajt...\n\n👉 YouTu",
+    "url": "https://www.instagram.com/pushkarrajthakur?igsh=aHc4ZHlnM3g5b2Nx"
+   },
+   {
+    "start_index": 1251,
+    "length": 32,
+    "text": "karrajthakurofficial    \n\n👉 Twit",
+    "url": "https://www.youtube.com/channel/UCEAAzv2OBqxsSczKJ2QZyGQ",
+    "type": "channel"
+   },
+   {
+    "start_index": 1299,
+    "length": 28,
+    "text": "om/PushkarRThakur\n\n👉 LinkedI",
+    "url": "https://x.com/PushkarRThakur"
+   },
+   {
+    "start_index": 1342,
+    "length": 22,
+    "text": "ajthakur  \n\n👉 Website:",
+    "url": "https://www.linkedin.com/in/pushkarrajthakur/"
+   },
+   {
+    "start_index": 1378,
+    "length": 31,
+    "text": "shkarrajthakur.com\n\nTo Join Our",
+    "url": "http://www.pushkarrajthakur.com/"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "lrauZxLjMsc",
+   "link": "https://www.youtube.com/watch?v=lrauZxLjMsc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lrauZxLjMsc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/lrauZxLjMsc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmqhHlta07E9s6TW01tSQ5fHYb_w",
+    "rich": "https://i.ytimg.com/an_webp/lrauZxLjMsc/mqdefault_6s.webp?du=3000&sqp=CKDCqtYG&rs=AOn4CLDCH3q5VRpF7hG9t0Ps54qfF9QxsA"
+   },
+   "title": "Best ETF Investing Strategy to Earn Money from Stock Market",
+   "published_date": "2y ago",
+   "views": "904K",
+   "extracted_views": 904000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wcl-QcI-UNE",
+   "link": "https://www.youtube.com/watch?v=wcl-QcI-UNE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wcl-QcI-UNE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wcl-QcI-UNE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvnWqQOFqbi7DHjesj34Q6uwbr0w",
+    "rich": "https://i.ytimg.com/an_webp/wcl-QcI-UNE/mqdefault_6s.webp?du=3000&sqp=CPK3qtYG&rs=AOn4CLAhkYVkNKs-MivSPDNx42JNRuFkRg"
+   },
+   "title": "9 Ways to Make Money 💰 (Aaj Se Start Karo!)",
+   "published_date": "3w ago",
+   "views": "92K",
+   "extracted_views": 92000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "Lg5rUbqfRVA",
+   "link": "https://www.youtube.com/watch?v=Lg5rUbqfRVA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lg5rUbqfRVA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Lg5rUbqfRVA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiuswjZuvR4_KoPAPxgR727wN8Fg",
+    "rich": "https://i.ytimg.com/an_webp/Lg5rUbqfRVA/mqdefault_6s.webp?du=3000&sqp=CNCkqtYG&rs=AOn4CLBxfuTIJnSgrPe15RLQMPLojj8HJA"
+   },
+   "title": "How to Choose the Right Stocks for Investment? | Fundamental Analysis | #ShareMarket Tips & Tricks🔥",
+   "published_date": "5y ago",
+   "views": "4.2M",
+   "extracted_views": 4200000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "mRfVY9Wbnrs",
+   "link": "https://www.youtube.com/watch?v=mRfVY9Wbnrs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mRfVY9Wbnrs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/mRfVY9Wbnrs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJhGtN4PCkdl9R-NVLCe3yw4z7pA",
+    "rich": "https://i.ytimg.com/an_webp/mRfVY9Wbnrs/mqdefault_6s.webp?du=3000&sqp=CJG_qtYG&rs=AOn4CLAojD6WfbhVHF78bm46jkds5oIbsg"
+   },
+   "title": "Technical Analysis for Beginners in Stock Market | Share Market Techniques",
+   "published_date": "5y ago",
+   "views": "19M",
+   "extracted_views": 19000000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "8rIviI0ZKNA",
+   "link": "https://www.youtube.com/watch?v=8rIviI0ZKNA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8rIviI0ZKNA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/8rIviI0ZKNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_lrw2uvicTxbLwEO6cZ8n10_jvg",
+    "rich": "https://i.ytimg.com/an_webp/8rIviI0ZKNA/mqdefault_6s.webp?du=3000&sqp=CIDKqtYG&rs=AOn4CLBmy3vtlIbwKVrzo09lKH8WqsjTPQ"
+   },
+   "title": "Stock Market Basic to Advance | Learn Share Market for Beginners | Investment & Trading by PRT",
+   "published_date": "2y ago",
+   "views": "7.1M",
+   "extracted_views": 7100000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "RvUVQcDVc1Q",
+   "link": "https://www.youtube.com/watch?v=RvUVQcDVc1Q&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RvUVQcDVc1Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RvUVQcDVc1Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmYzSWdD6I32fI0aibpmMyw0S9bw",
+    "rich": "https://i.ytimg.com/an_webp/RvUVQcDVc1Q/mqdefault_6s.webp?du=3000&sqp=CJTIqtYG&rs=AOn4CLCEKGAOtFAoemr1RJSdI2oI_esi7g"
+   },
+   "title": "If I started investing in Sept 2026, this is what I'd buy",
+   "published_date": "2mo ago",
+   "views": "1.2M",
+   "extracted_views": 1200000,
+   "channel": {
+    "name": "Nischa",
+    "link": "https://www.youtube.com/@nischa",
+    "thumbnail": "https://yt3.ggpht.com/UTzsuVUDKlGFKeO3ffJoqNnbUAEArzvf7bUaPNmNvRaOwSRJ7rLbvlthsI2rkcVEWHx5kkAoZm8=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pGv1ZmTyChA",
+   "link": "https://www.youtube.com/watch?v=pGv1ZmTyChA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pGv1ZmTyChA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pGv1ZmTyChA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMM-f3eZkjlW7pN_tTYmxg9xYhpw",
+    "rich": "https://i.ytimg.com/an_webp/pGv1ZmTyChA/mqdefault_6s.webp?du=3000&sqp=CMCrqtYG&rs=AOn4CLAHCeAY9wBeDKmMg6057DpG_ak28w"
+   },
+   "title": "How to Break Free from Poverty! | गरीबी से बाहर निकलो!",
+   "published_date": "1mo ago",
+   "views": "311K",
+   "extracted_views": 311000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "r-WQtRmPfS0",
+   "link": "https://www.youtube.com/watch?v=r-WQtRmPfS0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-WQtRmPfS0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/r-WQtRmPfS0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAliKcgEf9fazBuCM_niwrgRpnIhw",
+    "rich": "https://i.ytimg.com/an_webp/r-WQtRmPfS0/mqdefault_6s.webp?du=3000&sqp=CLmzqtYG&rs=AOn4CLCbvWpjxSZKe7PBXNCjodERTCiVmA"
+   },
+   "title": "7 Smart Moves to Make Before You Turn 18 💡",
+   "published_date": "1mo ago",
+   "views": "575K",
+   "extracted_views": 575000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "YxZ5KVP0xC4",
+   "link": "https://www.youtube.com/watch?v=YxZ5KVP0xC4&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YxZ5KVP0xC4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YxZ5KVP0xC4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA10IgUvs_tsn-zZhPahWfvFHh7BQ",
+    "rich": "https://i.ytimg.com/an_webp/YxZ5KVP0xC4/mqdefault_6s.webp?du=3000&sqp=CKKKqtYG&rs=AOn4CLANe6PkcJW47H46JPhXsyIEONrJtA"
+   },
+   "title": "5 Growth ETFs That Make Millionaires (2 Are NEW)",
+   "published_date": "2mo ago",
+   "views": "606K",
+   "extracted_views": 606000,
+   "channel": {
+    "name": "BWB - Business With Brian",
+    "link": "https://www.youtube.com/@BusinessWithBrian",
+    "thumbnail": "https://yt3.ggpht.com/jJkstO5mMwYql_GLOu5INARSEW_T9MI1--gFWtbqEvY5CXOGEBkATpVsP2MSzIITW8q43xeipg4=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+    "rich": "https://i.ytimg.com/an_webp/kDh89kb2t6w/mqdefault_6s.webp?du=3000&sqp=CLCnqtYG&rs=AOn4CLCUF3VvRtt_pHkngRyymek7fugv8w"
+   },
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4mo ago",
+   "views": "2M",
+   "extracted_views": 2000000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "m-MOmKILo1Q",
+   "link": "https://www.youtube.com/watch?v=m-MOmKILo1Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m-MOmKILo1Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/m-MOmKILo1Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzQm7u1xllVoMmZ79ZrAlfbWnmuQ",
+    "rich": "https://i.ytimg.com/an_webp/m-MOmKILo1Q/mqdefault_6s.webp?du=3000&sqp=CNTNqtYG&rs=AOn4CLBged1Oh_oIj666tcqPWKBN3A47BQ"
+   },
+   "title": "Invest in these 10 Assets if you want to be Rich!",
+   "published_date": "10mo ago",
+   "views": "1.5M",
+   "extracted_views": 1500000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "IOBoaM71MUA",
+   "link": "https://www.youtube.com/watch?v=IOBoaM71MUA&pp=ugUHEgVlbi1VU9IHCQk3DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IOBoaM71MUA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/IOBoaM71MUA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBEEvLdIGohNFL3L-UpUd8RrjT_qg",
+    "rich": "https://i.ytimg.com/an_webp/IOBoaM71MUA/mqdefault_6s.webp?du=3000&sqp=CLCtqtYG&rs=AOn4CLDI7ZjRdD61D-PIBwd7ZVIMs4SDlA"
+   },
+   "title": "How to Use Liquidity in Trading? || Masterclass",
+   "published_date": "2w ago",
+   "views": "621K",
+   "extracted_views": 621000,
+   "channel": {
+    "name": "Booming Bulls",
+    "link": "https://www.youtube.com/@BoomingBulls",
+    "thumbnail": "https://yt3.ggpht.com/H7A9JibtOVKNBeScNxzMHuXd5fgISu0RI4QHacwt9tl9C3LBuqdIIXvUdcTztK_cz-3GIxLD=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "MC7k4ruZD5c",
+   "link": "https://www.youtube.com/watch?v=MC7k4ruZD5c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MC7k4ruZD5c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MC7k4ruZD5c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCf_ur4hrbcJdWpWa9OvEGdHnDw-w",
+    "rich": "https://i.ytimg.com/an_webp/MC7k4ruZD5c/mqdefault_6s.webp?du=3000&sqp=CLHGqtYG&rs=AOn4CLCvcPMToy0KG78M1G6vaxlnVrgf2Q"
+   },
+   "title": "Investing For Beginners in 75 Minutes",
+   "published_date": "10d ago",
+   "views": "378K",
+   "extracted_views": 378000,
+   "channel": {
+    "name": "Mark Tilbury",
+    "link": "https://www.youtube.com/@marktilbury",
+    "thumbnail": "https://yt3.ggpht.com/BPc4IMSLYl66XoO5Ueb4N3Tcd1xYLAISjMEHVdJaPV-QeXpeROududxDnsGLqKuQxKpUnXcGZw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pcn27nUOqqo",
+   "link": "https://www.youtube.com/watch?v=pcn27nUOqqo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pcn27nUOqqo",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pcn27nUOqqo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCOyaxepryc9EHwlEhjRLCDBA1usQ",
+    "rich": "https://i.ytimg.com/an_webp/pcn27nUOqqo/mqdefault_6s.webp?du=3000&sqp=CLCZqtYG&rs=AOn4CLDiHapuM_qWpjskIbulDNO3-1bJeg"
+   },
+   "title": "How to Earn 1 Lakh Dividend Income Every Month?",
+   "published_date": "2w ago",
+   "views": "341K",
+   "extracted_views": 341000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pKONLC3knrE",
+   "link": "https://www.youtube.com/watch?v=pKONLC3knrE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pKONLC3knrE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pKONLC3knrE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4oWASAqxIW_olRSLPvT-mA3c20A",
+    "rich": "https://i.ytimg.com/an_webp/pKONLC3knrE/mqdefault_6s.webp?du=3000&sqp=CJyxqtYG&rs=AOn4CLBFXBTxlPdiMiJayGAMXIiHXVcsZA"
+   },
+   "title": "Earn Extra Money on Investment | SIP in Mutual Funds & ETFs | How to be Rich from Stock Market?",
+   "published_date": "2y ago",
+   "views": "11M",
+   "extracted_views": 11000000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "HNPbY6fSeo8",
+   "link": "https://www.youtube.com/watch?v=HNPbY6fSeo8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HNPbY6fSeo8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HNPbY6fSeo8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVLj-ujYh43j62q_DKcGR6pUKwLA",
+    "rich": "https://i.ytimg.com/an_webp/HNPbY6fSeo8/mqdefault_6s.webp?du=3000&sqp=CKbRqtYG&rs=AOn4CLDzTFTtuV0wF-NkYkJmdlxOKLgzig"
+   },
+   "title": "STOCK MARKET INVESTING for BEGINNERS! | Investment Tips 2023 | Warikoo Hindi",
+   "published_date": "4y ago",
+   "views": "1.7M",
+   "extracted_views": 1700000,
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo",
+    "thumbnail": "https://yt3.ggpht.com/Xmf5LtdlD2A7hOScjvc0nh87d1YfbfF458lN7Ot5T1a1CQePP6vNEmhZuj0x0TSz-37DBMzUsw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "c7JJGGDQmEQ",
+   "link": "https://www.youtube.com/watch?v=c7JJGGDQmEQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c7JJGGDQmEQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/c7JJGGDQmEQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmpTsd85IFTpWNY4GCJrrQxUwDyg",
+    "rich": "https://i.ytimg.com/an_webp/c7JJGGDQmEQ/mqdefault_6s.webp?du=3000&sqp=CMzRqtYG&rs=AOn4CLBv_y_24GBQOww4sEhxuAxt1DOOuA"
+   },
+   "title": "Starting From $0 in 2027? Here’s How I’d Invest Step-by-Step",
+   "published_date": "1y ago",
+   "views": "2.4M",
+   "extracted_views": 2400000,
+   "channel": {
+    "name": "Steve | Call to Leap",
+    "link": "https://www.youtube.com/@CalltoLeap",
+    "thumbnail": "https://yt3.ggpht.com/KWLWCxGXDEPbkmMO08ikaj2sGz1ydTKvV93VaL-jKKct9JaafUbJR8w0JVadNgqxaxBM92Fppw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "3wWI0S37OaE",
+   "link": "https://www.youtube.com/watch?v=3wWI0S37OaE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3wWI0S37OaE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3wWI0S37OaE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfjFK9k_D5pIY5EvAv5tsmK01p1g",
+    "rich": "https://i.ytimg.com/an_webp/3wWI0S37OaE/mqdefault_6s.webp?du=3000&sqp=CNStqtYG&rs=AOn4CLAhMgGmj-N-UvOjuCi3t-lYTPDDmA"
+   },
+   "title": "Share Market क्या है? | Basics Of Stock Market | Sagar Sinha",
+   "published_date": "1y ago",
+   "views": "440K",
+   "extracted_views": 440000,
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily",
+    "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "fcm7Ad2nzg4",
+   "link": "https://www.youtube.com/watch?v=fcm7Ad2nzg4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fcm7Ad2nzg4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/fcm7Ad2nzg4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDcJhtc2UjilRINOmoIom4gPvFjfg",
+    "rich": "https://i.ytimg.com/an_webp/fcm7Ad2nzg4/mqdefault_6s.webp?du=3000&sqp=CJjAqtYG&rs=AOn4CLBOQQtzcwfILg2JlxbKkYNYfRNFFA"
+   },
+   "title": "How to Invest in 2026 for Beginners!",
+   "published_date": "10mo ago",
+   "views": "1.2M",
+   "extracted_views": 1200000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "0qibH9W5_Yg",
+   "link": "https://www.youtube.com/watch?v=0qibH9W5_Yg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0qibH9W5_Yg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/0qibH9W5_Yg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBs4UFeyGJv03r17c0XTzHIo_FQSA",
+    "rich": "https://i.ytimg.com/an_webp/0qibH9W5_Yg/mqdefault_6s.webp?du=3000&sqp=CPi9qtYG&rs=AOn4CLDyp4C4ovJvpe3bWOswWmb8mnCfNw"
+   },
+   "title": "ETF Investing for Beginners | Wealth Creation Formula in Share Market",
+   "published_date": "1y ago",
+   "views": "928K",
+   "extracted_views": 928000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILLUFQamxScThVc3fAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnwZNZ3NJaVB2bnJmM2pwdFRTQWRyT2ktc013d1FLd0FRS0FfSS1BQW9Pd2o0TENNZmxqSmZ4ekt2YmxnRUtBX0ktQUFvT3dqNExDTkdoLVpHY3lOX2t3UUVLQV9JLUFBb053ajRLQ05DS19kU2I2cHFITGdvRDhqNEFDZzdDUGdzSXU3M3VyTDJzOVl1WkFRb0Q4ajRBQ2c3Q1Bnc0kwTkhrNklqeGk5bnlBUW9EOGo0QUNnM0NQZ29JMU9iVmhweW94ZnBHQ2dQeVBnQUtEc0ktQ3dpUWxNaW41cXo5dGFRQkNnUHlQZ0FLRHNJLUN3aXQtcjNNMFpiazhxOEJDZ1B5UGdBS0RjSS1DZ2l1aU5PZmxhV2VpMk1LQV9JLUFBb093ajRMQ0t6djJyZmtucC1ja0FFS0FfSS1BQW9Pd2o0TENOVEdycENLMDhQeG13RUtBX0ktQUFvTndqNEtDTURpMVBlTWpacndJQW9EOGo0QUNnM0NQZ29JbDVfazNLdWN1WmN3Q2dQeVBnQUtEc0ktQ3dpcTFicW81OTM5NUtVQkNnUHlQZ0FLRHNJLUN3aXh2Wkx2d3FYajBhUUJDZ1B5UGdBS0RjSS1DZ2lQOWNtLXV1ejI2UndLQV9JLUFBb053ajRLQ01Td3dvYUdvNUxaY3dvRDhqNEFDZzdDUGdzSW9mUHM3NUthNG9MZkFRb0Q4ajRBQ2czQ1Bnb0lqcHlmN1ozZzd1UjlDZ1B5UGdBS0RzSS1Dd2lJLS1ldF9lT20xTklCRWhRQUFnUUdDQW9NRGhBU0ZCWVlHaHdlSUNJa0pob0VDQUFRQVJvRUNBSVFBeG9FQ0FRUUJSb0VDQVlRQnhvRUNBZ1FDUm9FQ0FvUUN4b0VDQXdRRFJvRUNBNFFEeG9FQ0JBUUVSb0VDQklRRXhvRUNCUVFGUm9FQ0JZUUZ4b0VDQmdRR1JvRUNCb1FHeG9FQ0J3UUhSb0VDQjRRSHhvRUNDQVFJUm9FQ0NJUUl4b0VDQ1FRSlJvRUNDWVFKeW9VQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "lrauZxLjMsc",
+   "link": "https://www.youtube.com/watch?v=lrauZxLjMsc&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lrauZxLjMsc",
+   "thumbnail": "https://i.ytimg.com/vi/lrauZxLjMsc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmqhHlta07E9s6TW01tSQ5fHYb_w",
+   "title": "Best ETF Investing Strategy to Earn Money from Stock Market",
+   "published_date": "2 years ago",
+   "views": "904K views",
+   "extracted_views": 904000,
+   "length": "30:01",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "wcl-QcI-UNE",
+   "link": "https://www.youtube.com/watch?v=wcl-QcI-UNE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wcl-QcI-UNE",
+   "thumbnail": "https://i.ytimg.com/vi/wcl-QcI-UNE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvnWqQOFqbi7DHjesj34Q6uwbr0w",
+   "title": "9 Ways to Make Money 💰 (Aaj Se Start Karo!)",
+   "published_date": "3 weeks ago",
+   "views": "92K views",
+   "extracted_views": 92000,
+   "length": "43:28",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "Lg5rUbqfRVA",
+   "link": "https://www.youtube.com/watch?v=Lg5rUbqfRVA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lg5rUbqfRVA",
+   "thumbnail": "https://i.ytimg.com/vi/Lg5rUbqfRVA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiuswjZuvR4_KoPAPxgR727wN8Fg",
+   "title": "How to Choose the Right Stocks for Investment? | Fundamental Analysis | #ShareMarket Tips & Tricks🔥",
+   "published_date": "5 years ago",
+   "views": "4.2M views",
+   "extracted_views": 4200000,
+   "length": "20:27",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "mRfVY9Wbnrs",
+   "link": "https://www.youtube.com/watch?v=mRfVY9Wbnrs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mRfVY9Wbnrs",
+   "thumbnail": "https://i.ytimg.com/vi/mRfVY9Wbnrs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJhGtN4PCkdl9R-NVLCe3yw4z7pA",
+   "title": "Technical Analysis for Beginners in Stock Market | Share Market Techniques",
+   "published_date": "5 years ago",
+   "views": "19M views",
+   "extracted_views": 19000000,
+   "length": "44:46",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "8rIviI0ZKNA",
+   "link": "https://www.youtube.com/watch?v=8rIviI0ZKNA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8rIviI0ZKNA",
+   "thumbnail": "https://i.ytimg.com/vi/8rIviI0ZKNA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD_lrw2uvicTxbLwEO6cZ8n10_jvg",
+   "title": "Stock Market Basic to Advance | Learn Share Market for Beginners | Investment & Trading by PRT",
+   "published_date": "2 years ago",
+   "views": "7.1M views",
+   "extracted_views": 7100000,
+   "length": "30:15",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "RvUVQcDVc1Q",
+   "link": "https://www.youtube.com/watch?v=RvUVQcDVc1Q&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RvUVQcDVc1Q",
+   "thumbnail": "https://i.ytimg.com/vi/RvUVQcDVc1Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmYzSWdD6I32fI0aibpmMyw0S9bw",
+   "title": "If I started investing in Sept 2026, this is what I'd buy",
+   "published_date": "2 months ago",
+   "views": "1.2M views",
+   "extracted_views": 1200000,
+   "length": "13:58",
+   "channel": {
+    "name": "Nischa",
+    "link": "https://www.youtube.com/@nischa"
+   }
+  },
+  {
+   "video_id": "pGv1ZmTyChA",
+   "link": "https://www.youtube.com/watch?v=pGv1ZmTyChA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pGv1ZmTyChA",
+   "thumbnail": "https://i.ytimg.com/vi/pGv1ZmTyChA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMM-f3eZkjlW7pN_tTYmxg9xYhpw",
+   "title": "How to Break Free from Poverty! | गरीबी से बाहर निकलो!",
+   "published_date": "1 month ago",
+   "views": "311K views",
+   "extracted_views": 311000,
+   "length": "18:01",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "r-WQtRmPfS0",
+   "link": "https://www.youtube.com/watch?v=r-WQtRmPfS0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-WQtRmPfS0",
+   "thumbnail": "https://i.ytimg.com/vi/r-WQtRmPfS0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAliKcgEf9fazBuCM_niwrgRpnIhw",
+   "title": "7 Smart Moves to Make Before You Turn 18 💡",
+   "published_date": "1 month ago",
+   "views": "575K views",
+   "extracted_views": 575000,
+   "length": "18:11",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "YxZ5KVP0xC4",
+   "link": "https://www.youtube.com/watch?v=YxZ5KVP0xC4&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YxZ5KVP0xC4",
+   "thumbnail": "https://i.ytimg.com/vi/YxZ5KVP0xC4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA10IgUvs_tsn-zZhPahWfvFHh7BQ",
+   "title": "5 Growth ETFs That Make Millionaires (2 Are NEW)",
+   "published_date": "2 months ago",
+   "views": "606K views",
+   "extracted_views": 606000,
+   "length": "16:34",
+   "channel": {
+    "name": "BWB - Business With Brian",
+    "link": "https://www.youtube.com/@BusinessWithBrian"
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4 months ago",
+   "views": "2M views",
+   "extracted_views": 2000000,
+   "length": "43:22",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   }
+  },
+  {
+   "video_id": "m-MOmKILo1Q",
+   "link": "https://www.youtube.com/watch?v=m-MOmKILo1Q&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m-MOmKILo1Q",
+   "thumbnail": "https://i.ytimg.com/vi/m-MOmKILo1Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzQm7u1xllVoMmZ79ZrAlfbWnmuQ",
+   "title": "Invest in these 10 Assets if you want to be Rich!",
+   "published_date": "10 months ago",
+   "views": "1.5M views",
+   "extracted_views": 1500000,
+   "length": "25:10",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "IOBoaM71MUA",
+   "link": "https://www.youtube.com/watch?v=IOBoaM71MUA&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IOBoaM71MUA",
+   "thumbnail": "https://i.ytimg.com/vi/IOBoaM71MUA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBEEvLdIGohNFL3L-UpUd8RrjT_qg",
+   "title": "How to Use Liquidity in Trading? || Masterclass",
+   "published_date": "2 weeks ago",
+   "views": "621K views",
+   "extracted_views": 621000,
+   "length": "25:56",
+   "channel": {
+    "name": "Booming Bulls",
+    "link": "https://www.youtube.com/@BoomingBulls"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SCy1BUGpsUnE4VXN3GAYyJSIRIgstQVBqbFJxOFVzdzAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SCy1BUGpsUnE4VXN3GAYyWCIxIgstQVBqbFJxOFVzdzAAeAKqAhpVZ3liTlVISDItNDRuazkzODBSNEFhQUJBZ_ADATABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SCy1BUGpsUnE4VXN3GAYyOyIUIgstQVBqbFJxOFVzdzABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=-APjlRq8Usw"
+ },
+ "_fetched_at": "2026-10-10T21:16:15"
+}

@@ -1,0 +1,1446 @@
+{
+ "search_metadata": {
+  "id": "6ac9452f3c4006fb1e6bc5c1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ZWbXNSDk9_WH94I-Nd7epgY_eSExugt18KsajZ8M7BY/6ac9452f3c4006fb1e6bc5c1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ZWbXNSDk9_WH94I-Nd7epgY_eSExugt18KsajZ8M7BY/6ac9452f3c4006fb1e6bc5c1.md",
+  "created_at": "2026-10-09 19:49:03 UTC",
+  "processed_at": "2026-10-09 19:49:03 UTC",
+  "google_news_url": "https://news.google.com/search?q=IOL+Chemicals+and+Pharmaceuticals+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/ZWbXNSDk9_WH94I-Nd7epgY_eSExugt18KsajZ8M7BY/6ac9452f3c4006fb1e6bc5c1.html",
+  "total_time_taken": 5.73
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "IOL Chemicals and Pharmaceuticals share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "IOL Chemicals and Pharmaceuticals (IOLCP.NS) Climbs 4.47% to ₹214.90, Approaching Key Resistance - Growth Stock Picks",
+   "source": {
+    "name": "https://www.siam.in/",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.siam.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.siam.in/aticles-market/IOL-Chemicals-and-Pharmaceuticals-IOLCPNS-Climbs-447-to-21490-Approaching-Key-Resistance-62-3456",
+   "thumbnail": "https://asserts.assertsseo.click/manifest/usstock/2026-10-07/charts/iolcp_ns_chart_7fba5e05.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTROVTlTYWs1dFRqaEhNUzFmVFJDdEFSaWpBaWdCTWdrSkFvQW9YYUpyWVFN",
+   "date": "10/07/2026, 01:40 AM, +0000 UTC",
+   "iso_date": "2026-10-07T01:40:06Z"
+  },
+  {
+   "position": 2,
+   "title": "IOL Chemicals And Pharmaceuticals (IOLCP) Share Price rises 5.3% today",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/IOL_Chemicals_And_Pharmaceuticals_IOLCP_Share_Price_rises_53_today_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDJUVGwxUkU5aWJsSkpaMnh5VFJDUUF4ai1CU2dLTWdrQk1KRENHbW91ekFF",
+   "date": "10/06/2026, 10:07 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:07:00Z"
+  },
+  {
+   "position": 3,
+   "title": "IOL Chemicals surges 19%, up 136% since April; what's driving the stock?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/iol-chemicals-stock-rallies-19-up-136-since-april-here-s-why-126070700386_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/10/full/1762794560-3373.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVR1JwYUhoNFNYUTJXbmR1VFJERUF4aW5CU2dLTWdhQllZZ3hxUVU",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "IOL Chemicals and Pharmaceuticals (BSE:524164) Stock Price",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stock/bse/524164",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/logos/www.iolcp.com?size=40",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZaVmhzV0ZNeVYxSk5OMk0wVFJDcUJCaXFCQ2dLTWdPZFFRbw",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "IOL Chemicals And Pharmaceuticals (IOLCP) Share Price near 52-week high",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-price-near-52-week-high-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/iol-chemicals-and-pharmaceuticals-iolcp-share-price-near-52-week-high.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRjRGxUZFhCbmJrUndkMTl1VFJDUUF4ai1CU2dLTWdrQlFaSUNteWs5S1FJ",
+   "date": "10/06/2026, 09:54 AM, +0000 UTC",
+   "iso_date": "2026-10-06T09:54:00Z"
+  },
+  {
+   "position": 6,
+   "title": "IOL Chemicals posts sharp profit jump as quarterly revenue climbs",
+   "source": {
+    "name": "Indiatimes",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=http://chemicals.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "http://chemicals.economictimes.indiatimes.com/news/industry-and-market/iol-chemicals-posts-sharp-profit-jump-as-quarterly-revenue-climbs/133168946",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-133168946,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHRlVE5WV0RkbFF6VmZSaTFCVFJDZkF4ampCU2dLTWdNQnNBQQ",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "IOL Chemicals gets China NMPA approval for Clopidogrel Bisulfate API",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/iol-chemicals-and-pharmaceuticals-share-price-gets-china-nmpa-approval-for-clopidogrel-bisulfate-api-19945310.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/iol-chemicals-and-pharmaceuticals-2026-07-01b9d9e95769f7988fe349c77af86c1a.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBaa1ZOVjBoWGNVSkxlakZ5VFJDZkF4ampCU2dLTWdNQnNBQQ",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "IOL Chemicals And Pharmaceuticals Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42492/iol-chemicals-and-pharmaceuticals-ltd/peer-comparison/",
+   "date": "08/30/2026, 12:44 PM, +0000 UTC",
+   "iso_date": "2026-08-30T12:44:48Z"
+  },
+  {
+   "position": 9,
+   "title": "IOL Chemicals shares AGM and FY26 report links with unregistered shareholders",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-pharmaceuticals-sets-39th-agm-for-sep-2-2026/47306427",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-pharmaceuticals-sets-39th-agm-for-sep-2-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZRak0xUTI5U1oyUmFXRVkwVFJDaUF4amRCU2dLTWdZQllJYnBSQVU",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "IOL Chemicals 52 Week High Streak: Sector And Peer View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-near-52-week-consecutive-high-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/iol-chemicals-and-pharmaceuticals-ltd-iolcp-iol-chemicals-52-week-high-streak.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRlbkU1U3pBMlRYaDBjbnBTVFJDUUF4ai1CU2dLTWdZQk1JckNHZ2s",
+   "date": "10/07/2026, 08:54 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:54:00Z"
+  },
+  {
+   "position": 11,
+   "title": "IOL Chemicals & Pharmaceuticals consolidated net profit rises 89.80% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/iol-chemicals-pharmaceuticals-consolidated-net-profit-rises-89-80-in-the-june-2026-quarter-126081001208_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "IOL Chemicals And Pharmaceuticals Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42492/iol-chemicals-and-pharmaceuticals-ltd/company-financial/",
+   "date": "08/30/2026, 08:21 PM, +0000 UTC",
+   "iso_date": "2026-08-30T20:21:32Z"
+  },
+  {
+   "position": 13,
+   "title": "IOL Chemicals Q4 Results: Stock ends 9% higher after revenue, margin growth",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/iol-chemicals-and-pharmaceuticals-q4-results-revenue-growth-margin-capacity-expansion-triacentin-share-price-ws-l-19909985.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/20250130061113_Stock-Market-News.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROMEpIWkVoSWJFUnZWRXh3VFJDZkF4ampCU2dLTWdZQldKSUFLd2M",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "IOL Chemicals And Pharmaceuticals Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42492/iol-chemicals-and-pharmaceuticals-ltd/shareholding/",
+   "date": "08/29/2026, 05:08 PM, +0000 UTC",
+   "iso_date": "2026-08-29T17:08:59Z"
+  },
+  {
+   "position": 15,
+   "title": "IOL Chemicals And Pharmaceuticals (IOLCP) Share Price Falls 8.19% Today",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-share-price-fall-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/IOL_Chemicals_And_Pharmaceuticals_IOLCP_Share_Price_Falls_819_Today_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRUMDFPT0MxNFNrWnFiSFZaVFJDUUF4ai1CU2dLTWdhQkdaYkNtZ2s",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Is IOL Chemicals and Pharmaceuticals the Best Stock in Its Sector? A Look at the Numbers",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-and-pharmaceuticals-best-stock-in-its-sector",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/vikran-engineering-share-bull-case-vs-bear-case-for-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNTbXhyU1drMVoydFRWVEpmVFJDUUF4ai1CU2dLTWdZQlFJckNtZ2s",
+   "date": "09/29/2026, 10:54 AM, +0000 UTC",
+   "iso_date": "2026-09-29T10:54:28Z"
+  },
+  {
+   "position": 17,
+   "title": "IOLCP Share Price today near 52-week high, price action",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-price-52-week-high-2026-08-27",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/IOL_Chemicals_And_Pharmaceuticals_Ltd_IOLCP_IOL_Chemicals_And_Pharmaceuticals_Share_Price_hits_fresh_52_week_high_on_Rs__bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxiVEJsZHpGNlZGTXpPWGxCVFJDUUF4ai1CU2dLTWdrQlFaTGltaWs5S2dJ",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "IOLCP Share Price today at 52-week high; sector context",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-price-52-week-high-2026-08-31",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/IOL_Chemicals_And_Pharmaceuticals_Ltd_IOLCP_IOL_Chemicals_And_Pharmaceuticals_Share_Price_hits_fresh_52_week_high_at_Rs__bullish-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBPR0kyUTNsMWVHMXFZamxUVFJDUUF4ai1CU2dLTWdrQk1KRGltbWsxUndJ",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "IOL Chemicals and Pharmaceuticals Share Price Target 2026: Rs 155 Analyst Forecast",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-and-pharmaceuticals-share-price-target-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/IOL-Chemicals-and-Pharmaceuticals-Share-Price-Target.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XRFJGUmtsUWFYVmFTeTFIVFJDZUF4amxCU2dLTWdZTkVZQUs0UUU",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "IOL Chemicals and Pharmaceuticals Q1 Results FY27: Uniresearch Prediction and Analyst Views",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-and-pharmaceuticals-q1-results-fy27",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/IOL-Chemicals-and-Pharmaceuticals-Q1-Results-FY27.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhMGRUUW5reFdGbFRYMVpRVFJDZUF4amxCU2dLTWdZVlE0RXE0UUU",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "IOL Chemicals Consolidated June 2026 Net Sales at Rs 756.26 crore, up 37.08% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/iol-chemicals-consolidated-june-2026-net-sales-at-rs-756-26-crore-up-37-08-y-o-y-14011308.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "IOL Chemicals And Pharmaceuticals Ltd. Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42492/iol-chemicals-and-pharmaceuticals-ltd/key-ratios/",
+   "date": "09/02/2026, 11:02 PM, +0000 UTC",
+   "iso_date": "2026-09-02T23:02:46Z"
+  },
+  {
+   "position": 23,
+   "title": "IOL Chemicals Standalone June 2026 Net Sales at Rs 756.26 crore, up 37.08% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/iol-chemicals-standalone-june-2026-net-sales-at-rs-756-26-crore-up-37-08-y-o-y-14001519.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "IOL Chemicals shares hit upper circuit after promoter raises stake in the June quarter",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/iol-chemicals-shares-hit-upper-circuit-after-promoter-raises-stake-in-the-june-quarter-19939998.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-65f05e7f011ce5957c540a9c440c3509.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RVzFXZUdzd2VsTm1NbXRCVFJDZkF4ampCU2dLTWdZeGNvZ3pSUVE",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "IOL Chemicals And Pharmaceuticals Ltd. (IOLCP): IOLCP 52 Week High Streak: Second Straight Session Near Rs 205",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-iol-chemicals-and-pharmaceuticals-ltd-share-52-week-consecutive-high-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/IOL_Chemicals_And_Pharmaceuticals_Ltd_IOLCP_IOLCP_52_Week_High_Streak_Second_Straight_Session_Near_Rs_205_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJUMFZITnpSMmFVdHFURzB6VFJDUUF4ai1CU2dLTWdZQlFJYmltZ2s",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "NCVI Enterprises Increases IOL Chemicals Stake with Additional Share Acquisition",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ncvi-enterprises-acquires-7-00-000-equity-shares-of-iol-chemicals-and-pharmaceuticals-limited/35374047",
+   "thumbnail": "https://news-images.dhan.co/ncvi-enterprises-acquires-7-00-000-equity-shares-of-iol-chemicals-and-pharmaceuticals-limited.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWRzB6YUZKamFVRjRObDluVFJDdEF4akxCU2dLTWdZQk1JUUdzQVE",
+   "date": "03/18/2026, 10:11 AM, +0000 UTC",
+   "iso_date": "2026-03-18T10:11:06Z"
+  },
+  {
+   "position": 27,
+   "title": "​FIIs more than doubled their stake in these 11 multibagger stocks. Do you own any?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/fiis-more-than-doubled-their-stakes-in-11-multibaggers-in-june-quarter-do-you-own-any/iol-chemicals-and-pharmaceuticals/slideshow/133096158.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133096409,width-480,height-360,imgsize-69812,resizemode-75/smart-money-move.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUZiVVJzV2t3MVdFRnpjRXR0VFJEbUFoamdBeWdLTWdNUllBNA",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "IOL Chemicals Stock Falls After Recent Rise",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/news/why-has-iol-chemicals-and-pharmaceuticals-limited-nse-iolcp-slipped-sharply-after-its-recent-rise",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/featured_image/1edb9440-1c84-4fdf-9b93-b9da5df37487-21455.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdVMjlIVlRGa01UTjViV0ZLVFJERUF4aW5CU2dLTWdZQklJd29GZ28",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "IOL Chemicals & Pharmaceuticals Ltd. Actuals & Estimates (NSE:IOLCP)",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-IOLCP/forecast-actuals-and-estimates/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/iol-chemicals-and-pharmaceutical--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRWHAwV0RRM2RrNTBWamhoVFJDcUJCaXFCQ2dLTWdhWmM1Q0xNUVk",
+   "date": "06/26/2026, 07:36 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:36:02Z"
+  },
+  {
+   "position": 30,
+   "title": "IOL Chemicals Posts 68% YoY Profit Growth to ₹53.2 Crore in Q4 Results",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/iol-chemicals-posts-68-yoy-profit-growth-to-53-2-crore-in-q4-results-800-PE1_CORP",
+   "thumbnail": "https://www.sahi.com/assets/uploads/800_PE_1_CORPORATE_20_05_2026_16x9_0beaf0c176.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtXSGg1UjNaQmIwazJUMFkzVFJDZUF4amxCU2dLTWdZOVVJelRzQVU",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "IOL Chemicals and Pharmaceuticals Bull Case vs Bear Case for 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-and-pharmaceuticals-share-bull-case-vs-bear-case-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/iol-chemicals-and-pharmaceuticals-share-bull-case-vs-bear-case-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFhVTFCUzFSVmFrTnZMWGR3VFJDUUF4ai1CU2dLTWdrQk1KTGltbWt1Q3dJ",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Zydus Lifesciences vs IOL Chemicals and Pharmaceuticals vs Indoco Remedies: Which Stock Should You Track",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/zydus-lifesciences-vs-iol-chemicals-vs-indoco-remedies",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/zydus-lifesciences-vs-iol-chemicals-and-pharmaceuticals-vs-indoco-remedies-which.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5ZVlJhWlhsNVIybGhRazB0VFJDUUF4ai1CU2dLTWdrQk1aaWpucWt0S1FJ",
+   "date": "09/25/2026, 04:26 AM, +0000 UTC",
+   "iso_date": "2026-09-25T04:26:00Z"
+  },
+  {
+   "position": 33,
+   "title": "₹110 - That's What Analysts Think IOL Chemicals and Pharmaceuticals Limited (NSE:IOLCP) Is Worth After These Results",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-iolcp/iol-chemicals-and-pharmaceuticals-shares/news/110-thats-what-analysts-think-iol-chemicals-and-pharmaceutic",
+   "thumbnail": "https://images.simplywall.st/asset/industry/6121000-choice2-main-header/1585186699299?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVdOMU5rVVV0Q2NGVkhSVGRmVFJDZkF4ampCU2dLTWdzQkFJanBuQ1c1SnpwUlRR",
+   "date": "02/15/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-15T08:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Ashish Chugh sells 0.58% stake in Containerway; Polunin Capital Partners buys 1.5% stake in IOL Chemicals",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/ashish-chugh-sells-0-58-stake-in-containerway-polunin-capital-partners-buys-1-5-stake-in-iol-chemicals-13968261.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606032617_volatile-1.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRVkpQWTA5dU5HTTJSVEZNVFJDZkF4ampCU2dLTWdZSklwVDBwQWM",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "IOL Chemicals and Pharmaceuticals (IOLCP.NS) Slides 8.10% to ₹194.31 as Support Comes Into Focus - Late Stage Breakouts",
+   "source": {
+    "name": "siam.in",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.siam.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.siam.in/aticles-market/IOL-Chemicals-and-Pharmaceuticals-IOLCPNS-Slides-810-to-19431-as-Support-Comes-Into-Focus-59-13751",
+   "thumbnail": "https://asserts.assertsseo.click/manifest/usstock/2026-09-14/charts/iolcp_ns_chart_6f24aa52.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpNazl5UzBNM2FGVlplRzFLVFJDdEFSaWpBaWdCTWdrQkFZTG1YQ0p6WWdN",
+   "date": "09/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-13T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "IOL Chemicals Q3 Results: Net profit flat, revenue up 11%; declares interim dividend",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/iol-chemicals-share-price-q3-results-net-profit-flat-revenue-up-11-declares-interim-dividend-ws-l-19847817.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/iol-chemicals-2026-02-b4b3e4f39a7c193c9437426d2eb96c6e.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFWR2xyYjJvMlpuTlNUMVJHVFJDZkF4ampCU2dLTWdNQnNBQQ",
+   "date": "02/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-12T08:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Why Is IOL Chemicals and Pharmaceuticals Share Price Falling Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-is-iol-chemicals-and-pharmaceuticals-share-price-falling-key-reasons-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/04113843/Why-Is-IOL-Chemicals-and-Pharmaceuticals-Share-Price-Falling-Key-Reasons-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5hMFYzUzBKM01EWlJhakpXVFJDZUF4amxCU2dLTWdB",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "IOL Chemicals Q1FY26 net profit rises 89% to ₹64.5 crore on revenue surge",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-q1-results-net-profit-nearly-doubles-yoy-to-650m-rupees/47897687",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-q1-results-net-profit-nearly-doubles-yoy-to-650m-rupees.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDNlbWRoTUhCRmFGcFFWVUpRVFJDZkF4ampCU2dLTWdNQklBQQ",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "IOL Chemicals releases transcript of September 11 business update call",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-releases-audio-september-11-business-update-call/50678851",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-releases-audio-september-11-business-update-call.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURVbEZRU2tZd00wSnRWbU5aVFJDaUF4amRCU2dLTWdrQklJYUxuU05WRVFF",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "IOL Chemicals (NSE:IOLCP) Shares Surge to Five-Year High",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mukul Mishra"
+    ]
+   },
+   "link": "https://www.kalkine.co.in/article/small-cap-stocks/iol-chemicals-shares-hit-five-year-high-on-record-quarterly-revenue",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/featured_image/c901ca3d-e90f-4ae8-aa84-8be69589d4b1-9559.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZSR0ZRYzNkeU1GZFBjMmR0VFJDd0F4akZCU2dLTWdZQmdwQ2tzZ1k",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "IOL Chemicals (NSE:IOLCP) September 2026 Investor Call Update",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/iol-chemicals-and-pharmaceuticals-nseiolcp-what-did-it-share-in-its-september-2026-investor-call",
+   "date": "09/11/2026, 12:22 PM, +0000 UTC",
+   "iso_date": "2026-09-11T12:22:00Z"
+  },
+  {
+   "position": 42,
+   "title": "IOL Chemicals secures EU-REACH registration for Triacetin exports",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-secures-eu-reach-registration-triacetin-exports/51715395",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-secures-eu-reach-registration-triacetin-exports.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXpUV3BuWjB4VVNsRldUMnN3VFJDaUF4amRCU2dLTWdNQkJRWQ",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "IOL Chemicals & Pharmaceuticals submits FY26 sustainability report",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-pharmaceuticals-submits-fy26-sustainability-report/47654222",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-pharmaceuticals-submits-fy26-sustainability-report.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxjWEJIYWxKeVVGTkNkMTg1VFJDZkF4ampCU2dLTWdNQk1BSQ",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "IOL Chemicals & Pharma Q1 FY27 Revenue Jumps 37% to ₹756 Crore",
+   "source": {
+    "name": "Whalesbook",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.whalesbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.whalesbook.com/corporate-news/English/healthcarebiotech/IOL-Chemicals-and-Pharma-Q1-FY27-Revenue-Jumps-37percent-to-indian-rupee756-Crore/6a79905c10bce1fd2047edea",
+   "thumbnail": "https://images.whalesbook.com/corporate-news/images/images/msmzrbg2242e.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtRbDl6WDFkd1JFZGhVelpDVFJDZkF4ampCU2dLTWdB",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "IOL Chemicals & Pharmaceuticals Q3 Results FY26 Preview: PAT to rises 7.21%",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-pharmaceuticals-q3-results-expectations",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/02/10163611/IOL-Chemicals-Pharmaceuticals-Q3-Results-FY26-Preview-PAT-rise-7.21.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUxiMVppWjFCdlREbG1PVjg0VFJDUUF4ai1CU2dLTWdB",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "IOL Chemicals FY26 Net Profit Rises 36% to ₹137.7 Crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-and-pharmaceuticals-board-meeting-scheduled-on-may-20-2026-to-approve-fy26-financial-results/40230557",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-and-pharmaceuticals-board-meeting-scheduled-on-may-20-2026-to-approve-fy26-financial-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWphM3BaWWtocFRsRlJhVk53VFJDdEF4akxCU2dLTWdZQmNJS2l6QUk",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "IOL Chemicals secures EDQM certificate for Fenofibrate Process II",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-obtains-edqm-certificate-fenofibrate-process-ii/51869181",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-obtains-edqm-certificate-fenofibrate-process-ii.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRNemhFYm0xUGRtdHlWVEF0VFJDaUF4amRCU2dLTWdZQkVJaUtMUVE",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "IOL Chemicals and Pharmaceuticals Ltd. Share Price Live Today",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/iol-chemicals-and-pharmaceuticals-ltd-share-price/IOL01/",
+   "date": "01/03/2026, 04:19 PM, +0000 UTC",
+   "iso_date": "2026-01-03T16:19:50Z"
+  },
+  {
+   "position": 49,
+   "title": "IOL Chemicals & Pharmaceuticals consolidated net profit rises 69.19% in the March 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/iol-chemicals-pharmaceuticals-consolidated-net-profit-rises-69-19-in-the-march-2026-quarter-126052001005_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Pharma stocks: Lupin, Torrent hit new peaks; Sun nears summit; here's why",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/pharma-stocks-lupin-torrent-hit-new-peaks-sun-nears-summit-here-s-why-126070800455_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/10/full/1762794560-3373.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVR1JwYUhoNFNYUTJXbmR1VFJERUF4aW5CU2dLTWdhQllZZ3hxUVU",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Most Active Equities, July 7, 2026: Share India, IOLCP, PWL Lead",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/most-active-stocks-july-7-2026",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/most_active_equities_july_7_2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTM0JJTFc1a1MyZFNhalJCVFJDZkF4ampCU2dLTWdZQmNZcmtLZ1k",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "IOL Chemicals & Pharmaceuticals secures China NMPA approval for Clopidogrel Bisulfate API",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-pharmaceuticals-secures-china-nmpa-approval-for-clopidogrel-bisulfate-api/45577321",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-pharmaceuticals-secures-china-nmpa-approval-for-clopidogrel-bisulfate-api.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZiVzQzWjNkV05rd3hlSGw2VFJDaUF4amRCU2dLTWdhSkVZZ29uUVk",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Stocks to Watch Today: Ather Energy, Belrise Industries, PDS, Kirloskar Brothers, Kusumgar, IOL Chemicals,...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-ather-energy-belrise-industries-pds-kirloskar-brothers-kusumgar-iol-chemicals-delhivery-l-t-technology-in-focus-on-15-july-13974005.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/01/20260103025340_stock1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlka1ppVkZkNk9VWXpXbEJPVFJDZkF4ampCU2dLTWdZcHhJaHVSUVE",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "IOL Chemicals Stock Soars 12% on 56.7% Q2 Profit Surge",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/iol-chemicals-and-pharmaceuticals-stock-price-rises-over-12-percent-on-strong-q2-results",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2025/11/IOL-Chemicals-and-Pharmaceuticals-Stock-Rises-Over-12-on-Strong-Q2-Results%E2%80%8B.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUpkemQzTW1Od1ZFUlphMVpFVFJDZkF4ampCU2dLTWdB",
+   "date": "11/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-12T08:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "NCVI Enterprises Acquires Additional 4.04 Lakh IOL Chemicals Shares",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ncvi-enterprises-acquires-7-00-000-equity-shares-of-iol-chemicals-and-pharmaceuticals-limited/35462429",
+   "thumbnail": "https://news-images.dhan.co/ncvi-enterprises-acquires-7-00-000-equity-shares-of-iol-chemicals-and-pharmaceuticals-limited.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWRzB6YUZKamFVRjRObDluVFJDdEF4akxCU2dLTWdZQk1JUUdzQVE",
+   "date": "03/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-20T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Trade Spotlight: How should you trade IOL Chemicals, Poonawalla Fincorp, ICICI Prudential AMC, Eicher...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sunil Matkar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-iol-chemicals-poonawalla-fincorp-icici-prudential-amc-eicher-motors-clean-science-and-others-on-august-14-14005113.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260808043920_market_up_higher.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpVbnBOWDJoUlNWRkJUVzgyVFJDZkF4ampCU2dLTWdtWk1ZanZxR09paHdJ",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Here's how the Iran war has impacted drugmakers like IOL Chemicals",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ekta Batra"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/iol-chemicals-and-pharma-share-price-impact-of-iran-war-propylene-ibuprofen-production-market-share-ws-l-19865347.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/alembic-pharmaceuticals-2026-02-d8427ba24ef06a0059519a64c8d8f153.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhiMEZyT1ROU1ptaGtiME00VFJDZkF4ampCU2dLTWdZQkFJYktsQWs",
+   "date": "03/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-10T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "IOL Chemicals reports minor fire incident at Minoxidil manufacturing unit in Punjab",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/iol-chemicals-share-price-reports-minor-fire-incident-at-minoxidil-manufacturing-unit-in-punjab-ws-l-19923282.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/iol-chemicals-2026-02-b4b3e4f39a7c193c9437426d2eb96c6e.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFWR2xyYjJvMlpuTlNUMVJHVFJDZkF4ampCU2dLTWdNQnNBQQ",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Pharma index surges 2%; Torrent, Mankind, Cipla, Aurobindo soar up to 5%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/pharma-index-surges-2-torrent-mankind-cipla-aurobindo-soar-up-to-5-126072000646_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/14/full/1755190472-3979.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1URzVPU0VsS1gzRktkV0ZSVFJEbEJCajBBeWdLTWdZSlU0QUtzZ1k",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "8 Stocks in Focus After Block Deals Worth Over ₹2,300 Cr Take Place By Trade Brains",
+   "source": {
+    "name": "Investing.com India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://in.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://in.investing.com/news/stock-market-news/8-stocks-in-focus-after-block-deals-worth-over-2300-cr-take-place-5489059",
+   "date": "07/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-09T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "IOL Chemicals Hits Upper Circuit as Promoter Stake Rises",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/iol-chemicals-hits-upper-circuit-as-promoter-stake-rises/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2024/12/iolcp_new-sixteen_nine.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdWbWw0Wm04eWRsQmFjMVpGVFJDZkF4ampCU2dLTWdZQlVJQ3NIUWM",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Stock Alert: SBI, Aurionpro Solutions, MedPlus Health, Honasa Consumer, Bharat Wire Ropes, IOL Chemicals & Pharma",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-sbi-aurionpro-solutions-medplus-health-honasa-consumer-bharat-wire-ropes-iol-chemicals-pharma-126061100186_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "IOL Chemicals and Pharmaceuticals Limited Reports Q3 & 9M FY26 Results",
+   "source": {
+    "name": "SMEStreet",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smestreet.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://smestreet.in/infocus/iol-chemicals-and-pharmaceuticals-limited-reports-q3-9m-fy26-results-11102452",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/640x430/filters:format(webp)/smstreet/media/media_files/2026/02/13/iol-chemicals-and-pharmaceuticals-2026-02-13-11-47-50.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZVRGw2U2kxaVNVdFZPWGhZVFJDdUF4aTlCQ2dLTWdZVmM0eXR0UVk",
+   "date": "02/13/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-13T08:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "NM Merchantiles Limited Increases Stake in IOL Chemicals to 17.08% Through Merger Acquisition",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/orders-deals/nm-merchantiles-limited-increases-stake-in-iol-chemicals-to-17-08-through-merger-acquisition/34408557",
+   "thumbnail": "https://news-images.dhan.co/nm-merchantiles-limited-increases-stake-in-iol-chemicals-to-17-08-through-merger-acquisition.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRhRVppZEZGU1FrRmtRM1JPVFJDdEF4akxCU2dLTWdrQkVJaUxMS1UxcVFJ",
+   "date": "03/05/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-05T08:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "IOL Chemicals plans ₹495 crore expansion for ibuprofen, CDMO units",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-plans-6-000-mtpa-ibuprofen-plant-barnala-punjab/50490515",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-plans-6-000-mtpa-ibuprofen-plant-barnala-punjab.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVVTakUyYVRSa2EwSjBlVEp5VFJDaUF4amRCU2dLTWdPWlJBNA",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "IOL Chemicals Reports Minor Fire at Minoxidil Unit; Operations Suspended for 8–10 Days",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-reports-small-fire-at-minoxidil-plant-operations-to-halt-for-8-10-days/42642167",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-reports-small-fire-at-minoxidil-plant-operations-to-halt-for-8-10-days.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdMVTlMUm1SSGNUaDJOMTl2VFJDaUF4amRCU2dLTWdrQkVJcXhJQ2Fxa0FF",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "IOL Chemicals Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/iol-chemicals-stock-prediction-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/IOL-Chemicals-Stock-Prediction-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlaV0YyZGtsTU5sOHhSRTg0VFJDZUF4amxCU2dLTWdZVlFJQVBxUVk",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "IOL Chemicals Opens Special Window for Physical Share Transfer and Dematerialisation",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-opens-special-window-for-physical-share-transfer-and-dematerialisation/37625088",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-opens-special-window-for-physical-share-transfer-and-dematerialisation.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1TSEZRTUZkVFIwUlNOMHhOVFJDdEF4akxCU2dLTWdhQlVKQzJwQWc",
+   "date": "04/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-13T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "IOL Chemicals Promoter Group Entity Increases Individual Stake to 21.78%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-promoter-group-entity-mayadevi-polycot-increases-shareholding-to-21-76/35374010",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-promoter-group-entity-mayadevi-polycot-increases-shareholding-to-21-76.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxUV1Z1Y0dOVVgySlhTVzVmVFJDdEF4akxCU2dLTWdZQlFJZ2pOQVU",
+   "date": "03/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-18T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "IOL Chem Q2 Results | Net profit jumps 56%, revenue up 8%, margins improve",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tenzin Norzom"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/iol-chemicals-and-pharmaceuticals-q2-net-profit-up-revenue-ebidta-margins-share-price-19753969.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/11/ae-2-2025-11-26cfc4830b94f9e4bdd30668460b0a9c.jpg?impolicy=website&width=400&height=225",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNZV1ZmWVZsa1kwTndUR1ZCVFJEaEFSaVFBeWdLTWdhQlVZSUNPUU0",
+   "date": "11/11/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-11T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "IOL Chemicals shares rise 13% on strong Q2 earnings",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/iol-chemicals-share-price-jumps-13-percent-on-strong-q2-profit-and-revenue-growth-501816-2025-11-12",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202511/69141a63e4cf7-the-strong-quarterly-performance-triggered-robust-interest-in-the-stock--leading-to-a-surge-in-tradi-122550331-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBiSEpXVVdOd1FteHRVVU5RVFJDZkF4ampCU2dLTWdhQkVJYXhtQVE",
+   "date": "11/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-12T08:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Saraswati Commercial (India) Ltd leads gainers in 'B' group",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/saraswati-commercial-india-ltd-leads-gainers-in-b-group-126070700482_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "IOL Chemicals Strikes Off Wholly Owned Subsidiary IOL Life Sciences from Register of Companies",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-strikes-off-wholly-owned-subsidiary-iol-life-sciences-from-register-of-companies/36615306",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-strikes-off-wholly-owned-subsidiary-iol-life-sciences-from-register-of-companies.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxlRlJQU3psMVEybGhlbTFGVFJDdEF4akxCU2dLTWdZQlVJZ0lzZ1U",
+   "date": "04/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-01T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "IOL Chemicals shareholders approve FY26 financials, reappoint director",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/iol-chemicals-adopts-fy26-financials-39th-agm-reappoints-director/49890768",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-adopts-fy26-financials-39th-agm-reappoints-director.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVWRmxyVFRGVk1XRjRZblZLVFJDZkF4ampCU2dLTWdtQkFvd1NGYWR4VUFF",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "IOL Chemicals Expands Manufacturing Capacity with ₹57.1 Million Investment",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/iol-chemicals-expands-production-capacity-with-57-1-million-investment/34004932",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-expands-production-capacity-with-57-1-million-investment.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxUVFEzYW5ORVUxbHBaWGQwVFJDdEF4akxCU2dLTWdrQklJZ3JzZU9wN0FF",
+   "date": "03/02/2026, 01:51 PM, +0000 UTC",
+   "iso_date": "2026-03-02T13:51:16Z"
+  },
+  {
+   "position": 76,
+   "title": "Electrosteel Castings, Gallantt Ispat, IOL Chemicals stocks surge up to 8% on promoter stake buying; check details",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/electrosteel-castings-gallantt-ispat-iol-chemicals-stocks-surge-up-to-8-on-promoter-stake-buying-check-details/article-191010/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/stockmarket111.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpXVVpVVVZWNlV6Tk1lbXB5VFJDZkF4ampCU2dLTWdhbGtZalJ0QVU",
+   "date": "03/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-20T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "FII Stake Increases: Three Stocks Under Rs 200 That Foreign Investors Are Quietly Accumulating",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/fii-stake-increases-three-stocks-under-200-that-foreign-investors-are-quietly-accumulating-58641",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F58641%2FChatGPT-Image-Jul-28%2C-2026%2C-04_34_17-PM.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRWVTlVVldSaFZVSTRTelpTVFJDUUF4al9CU2dLTWdZQklvam1uUVU",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "IOL Chemicals and Pharmaceuticals Expands Global Footprint with UK Subsidiary",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/corporate-actions/iol-chemicals-and-pharmaceuticals-expands-global-footprint-with-uk-subsidiary/22866142",
+   "thumbnail": "https://news-images.dhan.co/iol-chemicals-and-pharmaceuticals-expands-global-footprint-with-uk-subsidiary.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBkMDkwUzNOcFdFeFlYME4zVFJDdEF4akxCU2dLTWdrQlVJaUFuMmdlclFF",
+   "date": "10/24/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-24T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Eyeing passive income? Keep an eye on these 8 dividend paying stocks today",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/eyeing-passive-income-keep-an-eye-on-these-8-dividend-paying-stocks-today-126021600103_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-10/22/full/1729537119-5586.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWVXd3Y1cxV1pUTlBSSEJXVFJEVUF4aVBCU2dLTWdZQmtJelN2QVU",
+   "date": "02/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-16T08:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Dividend Stocks: Shipping Corporation of India, Majestic Auto, International Gemmological Institute — Last Day To Buy Shares To Qualify",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/dividend-stocks-shipping-corporation-of-india-majestic-auto-international-gemmological-institute-last-day-to-buy-shares-to-qualify-11008667",
+   "thumbnail": "https://c.ndtvimg.com/2026-02/3h3g6r9o_picture-used-for-representational-purpose-only_625x300_16_February_26.jpg?im=FeatureCrop,algorithm=dnn,width=1080,height=607",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTJlSFJhT1V3dE5UWTBVM293VFJDZkF4ampCU2dLTWdB",
+   "date": "02/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-16T08:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "This Specialty Chemical Stock is Set to Make History with its First-Ever Stock Split",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=03/07/2025&story=7&title=This-Specialty-Chemical-Stock-is-Set-to-Make-History-with-its-First%2DEver-Stock-Split",
+   "thumbnail": "https://www.eqimg.com/images/2024/10152024-image6-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZkMFp5WlZWS1ZqUTFWMWwxVFJEYkFSamVBaWdLTWdtRllKQUlzZVdocVFJ",
+   "date": "03/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-03-07T08:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "IOLCP Share Price Today - IOL Chemicals & Pharmaceuticals Stock Analysis",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/share-price/iolcp",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/08/idt-all-in-one.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRjWGRmT1dGaFYxZzRSMDVFVFJDd0FoandCeWdLTWdrQlVJd0NINmdXYkFF",
+   "date": "09/06/2025, 09:03 AM, +0000 UTC",
+   "iso_date": "2025-09-06T09:03:29Z"
+  },
+  {
+   "position": 83,
+   "title": "IOL Chemicals share price jumps 5% after 1:5 stock split move. Do you own?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ujjval Jauhari"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/iol-chemicals-share-price-jumps-5-after-1-5-stock-split-move-do-you-own-11735546589831.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2024/12/30/1600x900/g212b9b6dbc996de9dc74487c45f37af4747a4941146f70d4e_1734319845009_1735548928107.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFiRkJhTVcxWWNtcFFVMTl0VFJDZkF4ampCU2dLTWdB",
+   "date": "12/30/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-30T08:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "IOL Chemicals & Pharmaceuticals share price gains 8% as board to consider stock split next week",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ujjval Jauhari"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/iol-chemicals-pharmaceuticals-share-price-gains-8-to-consider-stock-split-in-its-board-meeting-11734588577376.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2024/12/19/1600x900/srfbloomberg_1561395994418_1734589909203.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJURmRzTmxGWldIbG5OVzlTVFJDZkF4amlCU2dLTWdZUk1vcU1MUVk",
+   "date": "12/19/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-19T08:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "IOLCP shares climb 7% after board to mull on stock split; key details here",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/iolcp-shares-climb-5-after-board-to-mull-on-stock-split-key-details-here-124121900310_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-10/08/full/1633636355-5548.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVObmd5WlhOcmFFRmZUa3RDVFJEUUF4anNCQ2dLTWdZQkVvNnJKUWM",
+   "date": "12/19/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-19T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "IOL Chemicals surges 5% after board approves stock split",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/iol-chemicals-surges-5-after-board-approves-stock-split-12899932.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/12/20241228040618_stock-market-forex-trading-graph.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFVblp6WlRGNmVrZGhWVkpPVFJDZkF4ampCU2dLTWdPVmNnSQ",
+   "date": "12/30/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-30T08:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "IOL Chemicals zooms 5% on drug nod from European regulator: details here",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/iol-chemicals-zooms-5-on-drug-nod-from-european-regulator-details-here-124072400428_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-08/31/full/1598816075-5241.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSbnBmV2s5M2RrcHZXVWxyVFJEUUF4anNCQ2dLTWdZRkJZeEhIZ2c",
+   "date": "07/24/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-07-24T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "IOL Chemicals announces 1:5 stock split; record date soon",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/iol-chemicals-announces-15-stock-split-record-date-soon/articleshow/116717889.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-116717884,width-1200,height-900,resizemode-4,imgsize-47238/iol-chemicals-announces-15-stock-split-record-date-soon.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5USGhKWDBVd2FGOVNSalZqVFJEZ0F4aUFCU2dLTWdhUmhJNG9yZ1k",
+   "date": "12/27/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-27T08:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "IOL Chemicals & Pharma shares fall 4% on fag-end sell-off, pause 2-day winning run",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/company-stock/story/iol-chemicals-pharma-shares-surge-up-to-29-in-three-straight-sessions-357368-2022-12-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202212/iolcp_new-sixteen_nine.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTRUpuZVZoNGNVSXlRbVZ6VFJDZkF4ampCU2dLTWdZQlVJQ3NIUWM",
+   "date": "12/22/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-12-22T08:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "1:5 Stock Split Confirmed – Will This Make IOL Chemicals More Affordable For Investors?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.goodreturns.in/personal-finance/investment/1-5-stock-split-confirmed-will-this-make-iol-chemicals-more-affordable-for-investors-1410763.html",
+   "thumbnail": "https://images.goodreturns.in/img/2025/03/stock-split6001-1741453451.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkamhhVmxvd1pISm1VMHRSVFJEU0FoallCQ2dLTWdhTmhaUUdNZ2M",
+   "date": "03/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-03-08T08:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "IOL Chemicals & Pharmaceuticals Ltd (IOLCP) Share Price",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/stocks/iol-chemicals-pharmaceuticals-ltd-iolcp-share-price-361516",
+   "date": "01/31/2023, 09:58 AM, +0000 UTC",
+   "iso_date": "2023-01-31T09:58:29Z"
+  },
+  {
+   "position": 92,
+   "title": "1:5 Stock Split: Chemicals & Pharma Stock Plunges 5% On Trading Ex-Split On March 11; Are You Eligible?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.goodreturns.in/news/iol-chemicals-1-5-stock-split-chemicals-and-pharma-firm-shares-down-5-as-stocks-trade-ex-split-1411163.html",
+   "thumbnail": "https://images.goodreturns.in/img/2025/03/iol6-1741671140.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpOMnRqUjFNdFJGQmtRemc0VFJEU0FoallCQ2dLTWdB",
+   "date": "03/11/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-03-11T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "IOL Chemicals and Pharmaceuticals (NSEI:IOLCP) - Stock Analysis",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-iolcp/iol-chemicals-and-pharmaceuticals-shares",
+   "thumbnail": "https://images.simplywall.st/asset/industry/6121000-choice2-main-header/1585186699299",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaUzFSZUdGUFQycGtWVmRqVFJETkFoaVpCeWdLTWdZQkVJVHpyQVk",
+   "date": "01/05/2019, 02:15 AM, +0000 UTC",
+   "iso_date": "2019-01-05T02:15:13Z"
+  },
+  {
+   "position": 94,
+   "title": "Shares Get Cheaper! Record Date Fixed For 1:10 Stock Split; Buy Speciality Chemical Stock?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.goodreturns.in/personal-finance/investment/shares-get-cheaper-record-date-fixed-for-1-10-stock-split-buy-speciality-chemical-stock-1405115.html",
+   "thumbnail": "https://images.goodreturns.in/img/2025/02/stock-split6001-1739076014.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVMmg2ZDNwV1REaEVUVXRyVFJEU0FoallCQ2dLTWdhTmhaUUdNZ2M",
+   "date": "02/09/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-09T08:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "IOL Chemicals hits record high in weak market, zooms 34% in 3 days",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/article/markets/iol-chemicals-hits-record-high-in-weak-market-zooms-34-in-3-days-120021800570_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2014-07/21/full/1405939723-1073.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNjemd0VkhaSGVVUndhME54VFJDakFSamFBU2dLTWdrQllJYWt3ZU1rcndF",
+   "date": "02/18/2020, 08:00 AM, +0000 UTC",
+   "iso_date": "2020-02-18T08:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Ashish Kacholia portfolio: Multibagger chemical stock rises 1150% in 10 years",
+   "source": {
+    "name": "mint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/ashish-kacholia-portfolio-multibagger-chemical-stock-rises-1150-in-10-years-11664854829737.html",
+   "thumbnail": "https://images.livemint.com/img/2022/10/04/1600x900/LSpic_1653239145371_1664855135063_1664855135063.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFSR1ZGUlZsTFVIZE1SMnBIVFJDZkF4ampCU2dLTWdB",
+   "date": "10/04/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-10-04T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "IOL Chemicals Q3 net profit dips 4% to ₹23 crore, declares dividend of ₹5 per share",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/earnings/iol-chemicals-q3-net-profit-dips-4-to-23-crore-declares-dividend-of-5-per-share-18991851.htm",
+   "thumbnail": "https://images.cnbctv18.com/wp-content/uploads/2020/06/IOL-Chemicals.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpkbGcyU0RKWVlsUjRlV3BNVFJDZkF4ampCU2dLTWdNQlFBSQ",
+   "date": "02/06/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-02-06T08:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Outlier in Focus: A Quick View of IOL Chemicals and Pharmaceuticals",
+   "source": {
+    "name": "Capitalmind",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://premium.capitalmind.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shreesh Biradar"
+    ]
+   },
+   "link": "https://premium.capitalmind.in/2019/01/outlier-in-focus-a-quick-view-of-iol-chemicals-and-pharmaceuticals/",
+   "thumbnail": "https://premium.capitalmind.in/wp-content/uploads/2018/11/Outlier-in-Focus.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVOVGRCUVd4cFQzWk5ZbE14VFJDSEF4aVBCaWdLTWdZQk5xQURId28",
+   "date": "01/15/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-01-15T08:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "From Rs 10 To Rs 2: IOLCP Completes 1:5 Share Split; Will The New Face Value Attract Buying At Fresh Lows?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vipul Das"
+    ]
+   },
+   "link": "https://www.goodreturns.in/personal-finance/investment/from-rs-10-to-rs-2-iolcp-completes-1-5-share-split-will-the-new-face-value-attract-buying-at-fresh-1412023.html",
+   "thumbnail": "https://images.goodreturns.in/img/2025/03/stock-split61-1742100236.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRPSFJDVWxoMFJYaHlUekpsVFJEU0FoallCQ2dLTWdZVlk1SnJ0UVk",
+   "date": "03/16/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-03-16T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Stocks to buy: Balaji Amines, Deepak Nitrite among 6 chemical stock picks by Vaishali Parekh of Prabhudas Lilladher",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikita Prasad"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-balaji-amines-deepak-nitrite-among-6-chemical-stock-picks-by-vaishali-parekh-of-prabhudas-lilladher-11712407817603.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2024/04/06/1600x900/mar_1712407831501_1712407831694.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtlVms1TlhkeGF6RllNbFZIVFJDZkF4ampCU2dLTWdrSklvSXlJYWlTYUFJ",
+   "date": "04/06/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-04-06T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:07"
+}

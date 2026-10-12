@@ -1,0 +1,55 @@
+{
+ "calls": [
+  {
+   "company": "Pearl Global Industries",
+   "symbol_guess": "PEARL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the first company that we analyze is Pearl Global Industries Limited",
+   "start_s": 38,
+   "line": "semi-registered analyst. So please do not construe this as financial advice."
+  },
+  {
+   "company": "Lalita Dwellers",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the second company is Lalita Dwellers",
+   "start_s": 295,
+   "line": "consistent compounder if you look at the last 5 years sales growth profit growth so Pearl Global is one company which you can study further right the second"
+  },
+  {
+   "company": "Lalitha Dwellers",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies",
+   "start_s": 303,
+   "line": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies Even in"
+  },
+  {
+   "company": "LT Elevators",
+   "symbol_guess": "LTEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "The third company is LT Elevators",
+   "start_s": 380,
+   "line": "profit growth for Lalita dwellers. So you need to study this company further."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

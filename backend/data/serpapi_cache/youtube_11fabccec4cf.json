@@ -1,0 +1,653 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf2510c26d3223eee311",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/GMQykqvWUdUL0ceuxWYj34avw8vM_ZIl8_YFJyVqmn0/6ac7bf2510c26d3223eee311.json",
+  "markdown_endpoint": "https://serpapi.com/searches/GMQykqvWUdUL0ceuxWYj34avw8vM_ZIl8_YFJyVqmn0/6ac7bf2510c26d3223eee311.md",
+  "created_at": "2026-10-08 16:04:53 UTC",
+  "processed_at": "2026-10-08 16:04:53 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Lalithaa+Jewellery+Mart+Limited+share+target&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/GMQykqvWUdUL0ceuxWYj34avw8vM_ZIl8_YFJyVqmn0/6ac7bf2510c26d3223eee311.html",
+  "total_time_taken": 2.38
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Lalithaa Jewellery Mart Limited share target",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 2817,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "Lalithaa Jewellery Mart IPO Analysis - Apply or Avoid?",
+   "link": "https://www.youtube.com/watch?v=c4WDOkDdunU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=c4WDOkDdunU",
+   "video_id": "c4WDOkDdunU",
+   "channel": {
+    "name": "Md Azhar - Learn Investing",
+    "link": "https://www.youtube.com/@mdazharinvesting",
+    "thumbnail": "https://yt3.ggpht.com/ovllatQC9tCHdVg8R3tdsTaCw4XwkhsALalICRjU7kHGibmEmjxQz89gXJs6gLpLPp4PKzkZIgQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 3542,
+   "length": "14:19",
+   "description": "Lalithaa Jewellery Mart IPO Analysis - Apply or Avoid? Subscribe to our Channel: https://bit.ly/2GnoIJY Follow on Instagram: ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/c4WDOkDdunU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDy0Xrd4ub4ST5-PxNz6gMRMUIosw",
+    "rich": "https://i.ytimg.com/an_webp/c4WDOkDdunU/mqdefault_6s.webp?du=3000&sqp=COrTntYG&rs=AOn4CLB2lmmr3LMJSIiKA82pKYzDMsRTNw"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "Lalithaa Jewellery share news today, Lalithaa Jewellery share analysis, Lalithaa Jewellery stock",
+   "link": "https://www.youtube.com/watch?v=DL7EMw9OuOM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DL7EMw9OuOM",
+   "video_id": "DL7EMw9OuOM",
+   "channel": {
+    "name": "INVEST MY WAY",
+    "link": "https://www.youtube.com/@investmyway11",
+    "thumbnail": "https://yt3.ggpht.com/eIdqsOdyUdG4nG_k3WMRgeaXdX6J_IkxI2B4aXQg-f3ytFMEn7LpuCh1hBTxWnxIanfsqF4jUg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 761,
+   "length": "5:02",
+   "description": "Lalithaa jewellery share news today, lalithaa jewellery share analysis, lalithaa jewellery stock \nLalithaa Jewellery share ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/DL7EMw9OuOM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCie53dem7YerWhL0aqKyGGKPn8wg"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Lalithaa Jewellery news today | lalitha jewellery share latest news | lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=MXiT4EhUlE8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MXiT4EhUlE8",
+   "video_id": "MXiT4EhUlE8",
+   "channel": {
+    "name": "Share Market Live",
+    "link": "https://www.youtube.com/@Sharemarketlive77",
+    "thumbnail": "https://yt3.ggpht.com/JYMd-VmfgpheJtht9S8WQJ-y6TzZmxo6CY6Bl6u1joh1mpkqr2H5Hy8sZNNuHFj1aqeRtyFu=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 2154,
+   "length": "0:53",
+   "description": "Lalithaa Jewellery news today | lalitha jewellery share latest news | lalithaa jewellery news Join Free Our Telegram Link ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MXiT4EhUlE8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRPk_Ae8DdeFzF1R5WvLfhN0BKww"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Lalithaa Jewellery IPO: South India’s Jeweller Eyes Expansion | The Good, The Bad & The Risks",
+   "link": "https://www.youtube.com/watch?v=nIlZAVqrGPA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nIlZAVqrGPA",
+   "video_id": "nIlZAVqrGPA",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 8860,
+   "length": "2:30",
+   "description": "For more videos subscribe to our channel: https://www.youtube.com/@NDTVProfitIndia Visit NDTV Profit for more news: ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nIlZAVqrGPA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWM-qskrel-NQa2iUz246xd8d-NQ",
+    "rich": "https://i.ytimg.com/an_webp/nIlZAVqrGPA/mqdefault_6s.webp?du=3000&sqp=CID8ntYG&rs=AOn4CLCiM-B_LXPa3ctQkP4RpGkRCXN22A"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Lalithaa Jewellery Share Latest News| Lalithaa Jewellery Share| Lalithaa Jewellery Share News Today",
+   "link": "https://www.youtube.com/watch?v=G66AOKqHN9s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G66AOKqHN9s",
+   "video_id": "G66AOKqHN9s",
+   "channel": {
+    "name": "Veer Trader 2.O",
+    "link": "https://www.youtube.com/@veertraderprithviic",
+    "thumbnail": "https://yt3.ggpht.com/9MRpDaiacUyXVzM08VK5WuG3H5mR0rRjlTRKQf9TGJzF1KNZnrxc2PttBBUD6hipC6eHnmrz0aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 954,
+   "length": "6:26",
+   "description": "Lalitha Jewellery Share Latest News| Lalitha Jewellery Share| Lalitha Jewellery Share News Today Veer Trader lalitha jewellery ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/G66AOKqHN9s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6tWt3HlKYFjA76_B6PVvNC49ICw"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "Lalithaa Jewellery Stock Latest News ⚫ Lalithaa Jewellery Share News Today ⚫ Share Market",
+   "link": "https://www.youtube.com/watch?v=u7g34K2Pecc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u7g34K2Pecc",
+   "video_id": "u7g34K2Pecc",
+   "channel": {
+    "name": "Investor Aashique • 500K views • 1 hour ago \n\n\n...",
+    "link": "https://www.youtube.com/@InvestorAashique",
+    "thumbnail": "https://yt3.ggpht.com/lrzEBxaj2nOQ3tW5lTKw4hDp38TVckTYI9OvlJoiGPLW3hLP595MEshjc_aBIY0Gix-ppL1NsXI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 4463,
+   "length": "0:55",
+   "description": "Lalithaa Jewellery Stock Latest News ⚫ Lalithaa Jewellery Share News Today ⚫ Share Market Related Keywords: stock market ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/u7g34K2Pecc/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB9AmAAtAFigIMCAAQARh_IBMoEzAP&rs=AOn4CLA0MDF8HrjCE6O0cSXnc8c2I7BfZA",
+    "rich": "https://i.ytimg.com/an_webp/u7g34K2Pecc/mqdefault_6s.webp?du=3000&sqp=CMD5ntYG&rs=AOn4CLAkGvflHsWsk2hgM-zyVXppuYlkuA"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Lalithaa Jewellery news today , Lalithaa Jewellery share news ,Target ₹500+ | Buy or Not?  05Oct2026",
+   "link": "https://www.youtube.com/watch?v=e5COwSeodco",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e5COwSeodco",
+   "video_id": "e5COwSeodco",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3d ago",
+   "views": 448,
+   "length": "2:51",
+   "description": "Lalithaa Jewellery Mart Limited Big Update! | October 5th Target 400 Achieved | Don't Miss This! ​Video Description ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/e5COwSeodco/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBYQU7ZBvl3HtBT3ThPGGe8kH3NKg",
+    "rich": "https://i.ytimg.com/an_webp/e5COwSeodco/mqdefault_6s.webp?du=3000&sqp=CI7GntYG&rs=AOn4CLAn4QWzXHmDX0aNeXV2864FVlfk4g"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Lalithaa Jewellery at 15 PE: Cheap Stock or Value Trap?",
+   "link": "https://www.youtube.com/watch?v=qw6_pWURY_A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qw6_pWURY_A",
+   "video_id": "qw6_pWURY_A",
+   "channel": {
+    "name": "vinod srinivasan",
+    "link": "https://www.youtube.com/@vinodsrinivasan7",
+    "thumbnail": "https://yt3.ggpht.com/IhaXNk3pHD0z_PNLMl8twcPuRvr-vdBN4yeyjlESqWWpT5rZcqjkaII4-UstfBkRA5Zw73l5Ow=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 38760,
+   "length": "7:31",
+   "description": "Lalithaa Jewellery looks almost too attractive on paper. The stock trades at roughly 15 times earnings, while larger listed jewellery ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/qw6_pWURY_A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBV5HTlHar8Cf-pEO85nygt1A0R0A",
+    "rich": "https://i.ytimg.com/an_webp/qw6_pWURY_A/mqdefault_6s.webp?du=3000&sqp=CNCyntYG&rs=AOn4CLAeoqcLrx4TnZvUjOZDjlnR74uWmw"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "LALITHA JEWELLERS: Is There More Upside From Here? 📈 | Complete Stock Analysis",
+   "link": "https://www.youtube.com/watch?v=PE_Lazxw1p8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PE_Lazxw1p8",
+   "video_id": "PE_Lazxw1p8",
+   "channel": {
+    "name": "Finance by Vamshi ",
+    "link": "https://www.youtube.com/@Financebyvamshi",
+    "thumbnail": "https://yt3.ggpht.com/LiZHa9TklnbfFMe7mzgPWC1mIC-1Y6I5HAQuUlJWRmwalWgOlXxymDvE6S8MGzd3G-G-WoKE=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 10720,
+   "length": "11:52",
+   "description": "Lalithaa Jewellery Mart made a strong debut after its IPO, opening around ₹265 against the ₹201 issue price and attracting ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PE_Lazxw1p8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbF8uY1xuIGhYJe9s66yBiiPw9Sg",
+    "rich": "https://i.ytimg.com/an_webp/PE_Lazxw1p8/mqdefault_6s.webp?du=3000&sqp=CL3SntYG&rs=AOn4CLCM1Q714ZDjVWBUMqIyIaVuALbVHg"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=3ffq4QqYxLM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3ffq4QqYxLM",
+   "video_id": "3ffq4QqYxLM",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 1367,
+   "length": "4:25",
+   "description": "Lalithaa Jewellery share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news Jewellers Share News ASM ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3ffq4QqYxLM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPjzfw2QOURdMu5oQRZTCOudenCg",
+    "rich": "https://i.ytimg.com/an_webp/3ffq4QqYxLM/mqdefault_6s.webp?du=3000&sqp=CL-9ntYG&rs=AOn4CLD00EKkPlrgo3piMQsOTWsbm_illg"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=cs3MKg4WQjI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cs3MKg4WQjI",
+   "video_id": "cs3MKg4WQjI",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "13d ago",
+   "views": 924,
+   "length": "5:12",
+   "description": "Lalita Jewellery Mart Share Latest News Today | Lalita Jewellery Mart Stock Analysis ​Lalita Jewellery Mart ke share me ek ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cs3MKg4WQjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC_LSnd5xqIwCAlXYvxE0OYsgW30w",
+    "rich": "https://i.ytimg.com/an_webp/cs3MKg4WQjI/mqdefault_6s.webp?du=3000&sqp=CN7vntYG&rs=AOn4CLCuGb5-48IjRMwID8b2Zq09eiMNKw"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Lalithaa Jewellery Mart Ltd IPO Review | Horizon Industrial Parks Ltd Analysis |",
+   "link": "https://www.youtube.com/watch?v=ROKQaUIXzlY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ROKQaUIXzlY",
+   "video_id": "ROKQaUIXzlY",
+   "channel": {
+    "name": "Anant Ladha",
+    "link": "https://www.youtube.com/@anantladhaofficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/SV2j9IL_1wRWwUw5RTOq6gYAzEXyUsAjK2FghrcVyQKTV3eYakVNMWwITzHiSx8HIXAjAhAk=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 40264,
+   "length": "9:51",
+   "description": "Lalithaa Jewellery Mart Ltd IPO Review | Horizon Industrial Parks Ltd Analysis | Free insurance review call (30 min) ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ROKQaUIXzlY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqnhnjFTd09I116UewB2BcpBEtnA",
+    "rich": "https://i.ytimg.com/an_webp/ROKQaUIXzlY/mqdefault_6s.webp?du=3000&sqp=CPrantYG&rs=AOn4CLApcBScvjMgXW5TKUDPGy0wqCwNCA"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Lalithaa Jewellery Mart Ltd. - #IPO Review by @Tradeswift1",
+   "link": "https://www.youtube.com/watch?v=3JDGzm-E03g",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3JDGzm-E03g",
+   "video_id": "3JDGzm-E03g",
+   "channel": {
+    "name": "Sandeep Jain",
+    "link": "https://www.youtube.com/@SandeepJainStocks",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nXfM7u7CqE6D73bdAC1pq8dHj_LMgSoV5BctyqcWVmrMI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 27220,
+   "length": "5:13",
+   "description": "lalithaajewellery #ipo #jainsaabkegems ============================ SEBI Reg No : INZ000166439, Depository ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3JDGzm-E03g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBwmGIsVY-d54cNgROfTMTCW2vmjg",
+    "rich": "https://i.ytimg.com/an_webp/3JDGzm-E03g/mqdefault_6s.webp?du=3000&sqp=CJjmntYG&rs=AOn4CLCxhIiLHPvyCYvNBqVouxRBJG4DfQ"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Lalithaa Jewellery Q1 FY27 Results: Revenue Explodes +25.9% But PAT Crashes -21.6%!",
+   "link": "https://www.youtube.com/watch?v=Jq2ifyX4-aQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Jq2ifyX4-aQ",
+   "video_id": "Jq2ifyX4-aQ",
+   "channel": {
+    "name": "Stocks Result Analysis Official",
+    "link": "https://www.youtube.com/@StocksResultOfficial",
+    "thumbnail": "https://yt3.ggpht.com/YgND8USJbnCOnSkS8thAkw6T5JTJ-hFFw3oCIRw7VD1th279JG92UywRu3x_8NFEMhFhxOwF=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 1707,
+   "length": "5:09",
+   "description": "lalithaa jewellery mart, lalithaa jewellery mart limited, lalithaa jewellery q1 fy27, lalithaa jewellery q1 results, lalithaa jewellery ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Jq2ifyX4-aQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0M4_ff-M13MvCHTg3YgWQTMkKzA"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Next Titan or Trap? ⚠️ | Lalithaa Jewellery Share Analysis | Buy, Sell or Hold?",
+   "link": "https://www.youtube.com/watch?v=kGywNZ22EDY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kGywNZ22EDY",
+   "video_id": "kGywNZ22EDY",
+   "channel": {
+    "name": "RISING TRADER'S",
+    "link": "https://www.youtube.com/@TheRisingtraders026",
+    "thumbnail": "https://yt3.ggpht.com/SY7GyTOUqTnqp9J9LzYneq1kCmm1KljR5mJd83_2oViScCgHjv4dq2acXYqJeBUKMGV3RQEKCw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 2376,
+   "length": "7:39",
+   "description": "Lalithaa Jewellery Share Analysis: Next Titan or Trap? In this video, watch a complete stock analysis of Lalithaa Jewellery ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kGywNZ22EDY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-q4owdJfMC0a2L3rEAJWpHdlwQg"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=Smz5Isbow8w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Smz5Isbow8w",
+   "video_id": "Smz5Isbow8w",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 1208,
+   "length": "3:24",
+   "description": "AAJ upper circuit kyu lga? OR NEXT TARGET KYA HAI ​Is video mein hum Lalitha Jewellers Limited ke UPPER CIRCUIT lgne ka ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Smz5Isbow8w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDT4bXXHR4BKsZsyPCO1axZsappyQ",
+    "rich": "https://i.ytimg.com/an_webp/Smz5Isbow8w/mqdefault_6s.webp?du=3000&sqp=COT9ntYG&rs=AOn4CLDxkmrZG2f1itin9J6nRyT0XmM1hw"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=OX6JhfVf0fI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OX6JhfVf0fI",
+   "video_id": "OX6JhfVf0fI",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1920,
+   "length": "3:38",
+   "description": "Lalitha Jeweller Limited Share Latest News and Price Target Analysis (7 September 2026). ​In this video, we discuss the recent ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OX6JhfVf0fI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXTyAaPuashDAheOHEALEZPK310g",
+    "rich": "https://i.ytimg.com/an_webp/OX6JhfVf0fI/mqdefault_6s.webp?du=3000&sqp=CLbqntYG&rs=AOn4CLBMV-DjsR4ofgP9hB1IBFDhqOvpAA"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=ea-dmjmMmb8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ea-dmjmMmb8",
+   "video_id": "ea-dmjmMmb8",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 2037,
+   "length": "2:10",
+   "description": "Lalitha Jeweller Limited Share Latest News and Price Target Analysis (7 September 2026). ​In this video, we discuss the recent ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ea-dmjmMmb8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuWQdqaB9VybSXDFK4N9n49TIbLg",
+    "rich": "https://i.ytimg.com/an_webp/ea-dmjmMmb8/mqdefault_6s.webp?du=3000&sqp=COS7ntYG&rs=AOn4CLAScVMuw9GsdlMDCRn19I2vl5LEMg"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Lalithaa Jewellery  share latest news , Lalithaa Jewellery share news today ,Lalithaa jewellery news",
+   "link": "https://www.youtube.com/watch?v=cZNCZDApBiA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cZNCZDApBiA",
+   "video_id": "cZNCZDApBiA",
+   "channel": {
+    "name": "GSK share market. 4.8k views. 5 hour ago\n\n\n\n...\n",
+    "link": "https://www.youtube.com/@stockgurugagan8971",
+    "thumbnail": "https://yt3.ggpht.com/2b2SfOBVUyh_ualpu_ZkbQpNOa5theQR9JBDeckHmiZ3R3-VjX7737tikSZFS5lgEdLXgg6X0ds=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 3885,
+   "length": "2:37",
+   "description": "Lalitha Jewellers Share News & Result Outcome Analysis (12 September 2026) ​Is video mein hum Lalitha Jewellers Limited ke ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cZNCZDApBiA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0hrM3ac_mCDTn9sjSY7iBkFThBw"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Lalitha Jewellery Mart IPO Share Analysis | Lalitha Jewellery Mart IPO Hold or Sell ?",
+   "link": "https://www.youtube.com/watch?v=xeRd9E920g8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xeRd9E920g8",
+   "video_id": "xeRd9E920g8",
+   "channel": {
+    "name": "Tradzion",
+    "link": "https://www.youtube.com/@Tradzion",
+    "thumbnail": "https://yt3.ggpht.com/XpyWZDcW-t64P3M8v84sycibrRC7PtHLh2Znhool0UQ3pZiKiBlRGRicTxJilNjpiKKWjIorSQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 2029,
+   "length": "1:46",
+   "description": "Join Telegram Channel {Regular GMP Updates} https://t.me/financialyoddha Join Whatsapp Channel ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xeRd9E920g8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA86wBF7oppQuRAIjoj9eIb3C2gNg",
+    "rich": "https://i.ytimg.com/an_webp/xeRd9E920g8/mqdefault_6s.webp?du=3000&sqp=CJX6ntYG&rs=AOn4CLD9Y-wPCub5W9JKPDBkj2L8lYfWGg"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 2,
+   "shorts": [
+    {
+     "title": "Lalithaa Jewellery Mart shares surge thirty six percent should you keep or sell now | #Shorts",
+     "link": "https://www.youtube.com/shorts/8QGliWSYsz4",
+     "thumbnail": "https://i.ytimg.com/vi/8QGliWSYsz4/frame0.jpg",
+     "views_original": "252 views",
+     "views": 252,
+     "video_id": "8QGliWSYsz4"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO - Attractive Valuation - 177% increase in PAT",
+     "link": "https://www.youtube.com/shorts/eCPCMxob-lg",
+     "thumbnail": "https://i.ytimg.com/vi/eCPCMxob-lg/frame0.jpg",
+     "views_original": "2.7K views",
+     "views": 2700,
+     "video_id": "eCPCMxob-lg"
+    },
+    {
+     "title": "Stunning New Diamond Ring Collection | Lalitha Jewellers,Calicut",
+     "link": "https://www.youtube.com/shorts/sWw-cMyhENE",
+     "thumbnail": "https://i.ytimg.com/vi/sWw-cMyhENE/frame0.jpg",
+     "views_original": "338 views",
+     "views": 338,
+     "video_id": "sWw-cMyhENE"
+    },
+    {
+     "title": "Is Lalithaa Jewellery IPO a Hidden Gem? 💎 Let’s Check the Numbers!",
+     "link": "https://www.youtube.com/shorts/9hP5Sc-ZkrI",
+     "thumbnail": "https://i.ytimg.com/vi/9hP5Sc-ZkrI/frame0.jpg",
+     "views_original": "244 views",
+     "views": 244,
+     "video_id": "9hP5Sc-ZkrI"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO | Price Band of ₹190-₹201 | Dates, Financials & Complete Details",
+     "link": "https://www.youtube.com/shorts/upVg5v4Pqhk",
+     "thumbnail": "https://i.ytimg.com/vi/upVg5v4Pqhk/frame0.jpg",
+     "views_original": "4.1K views",
+     "views": 4100,
+     "video_id": "upVg5v4Pqhk"
+    }
+   ]
+  },
+  {
+   "position_on_page": 6,
+   "shorts": [
+    {
+     "title": "Lalithaa Jewellery Mart IPO 2026 🔥 | GMP ₹32 | Should You Apply? #Shorts",
+     "link": "https://www.youtube.com/shorts/KvcJbDtx4bg",
+     "thumbnail": "https://i.ytimg.com/vi/KvcJbDtx4bg/frame0.jpg",
+     "views_original": "265 views",
+     "views": 265,
+     "video_id": "KvcJbDtx4bg"
+    },
+    {
+     "title": "₹1700 crore Lalithaa Jewellery Mart IPO for South India expansion",
+     "link": "https://www.youtube.com/shorts/Q8W0wyP8YT8",
+     "thumbnail": "https://i.ytimg.com/vi/Q8W0wyP8YT8/frame0.jpg",
+     "views_original": "10K views",
+     "views": 10000,
+     "video_id": "Q8W0wyP8YT8"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Analysis | Worth Your Money? | 2026",
+     "link": "https://www.youtube.com/shorts/Ce9uCtAHL2k",
+     "thumbnail": "https://i.ytimg.com/vi/Ce9uCtAHL2k/frame0.jpg",
+     "views_original": "561 views",
+     "views": 561,
+     "video_id": "Ce9uCtAHL2k"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart Q1 FY27 Results: Income Jumps 26% to ₹6,035 Crore #Q1FY27Results #Q1FY27",
+     "link": "https://www.youtube.com/shorts/fB7uU8nPfEo",
+     "thumbnail": "https://i.ytimg.com/vi/fB7uU8nPfEo/frame0.jpg",
+     "views_original": "1.1K views",
+     "views": 1100,
+     "video_id": "fB7uU8nPfEo"
+    },
+    {
+     "title": "Listing gain in Lalithaa jewellery mart  #ipo #nseipo #stockmarket #nifty",
+     "link": "https://www.youtube.com/shorts/xpXeUerF-dE",
+     "thumbnail": "https://i.ytimg.com/vi/xpXeUerF-dE/frame0.jpg",
+     "views_original": "151 views",
+     "views": 151,
+     "video_id": "xpXeUerF-dE"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Analysis | Should You Apply? | IPO Review 2026 @Stockbazaari",
+     "link": "https://www.youtube.com/shorts/xCZAvZa6cEI",
+     "thumbnail": "https://i.ytimg.com/vi/xCZAvZa6cEI/frame0.jpg",
+     "views_original": "889 views",
+     "views": 889,
+     "video_id": "xCZAvZa6cEI"
+    },
+    {
+     "title": "Lalithaa Jewellery Stock: Worth Buying in 2026? 💰📈 | 48% Growth & 19x P/E! #multibagger",
+     "link": "https://www.youtube.com/shorts/7FDd7tN6ZTg",
+     "thumbnail": "https://i.ytimg.com/vi/7FDd7tN6ZTg/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "7FDd7tN6ZTg"
+    },
+    {
+     "title": "How Lalithaa Jewellery Started 🤯 | From Nellore to Chennai #lalithaajewellery #shorts",
+     "link": "https://www.youtube.com/shorts/YUUiW4jMcX8",
+     "thumbnail": "https://i.ytimg.com/vi/YUUiW4jMcX8/frame0.jpg",
+     "views_original": "176 views",
+     "views": 176,
+     "video_id": "YUUiW4jMcX8"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO #ipo #stockmarket #upcoming #gmp #lalithaajewellery #investment #invest",
+     "link": "https://www.youtube.com/shorts/ahn9JdCPdCk",
+     "thumbnail": "https://i.ytimg.com/vi/ahn9JdCPdCk/frame0.jpg",
+     "views_original": "802 views",
+     "views": 802,
+     "video_id": "ahn9JdCPdCk"
+    },
+    {
+     "title": "Lalithaa Jewellery IPO Listing Tomorrow 📈 Listing Day Target, Stop Loss & Final Strategy",
+     "link": "https://www.youtube.com/shorts/Cv073xl4Ckg",
+     "thumbnail": "https://i.ytimg.com/vi/Cv073xl4Ckg/frame0.jpg",
+     "views_original": "14K views",
+     "views": 14000,
+     "video_id": "Cv073xl4Ckg"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Listing Day Gain",
+     "link": "https://www.youtube.com/shorts/_YifjJikTbs",
+     "thumbnail": "https://i.ytimg.com/vi/_YifjJikTbs/frame0.jpg",
+     "views_original": "542 views",
+     "views": 542,
+     "video_id": "_YifjJikTbs"
+    },
+    {
+     "title": "Listing-ல் வந்த Surprise! 🚀|  Lalithaa Jewellery Mart IPO #stockmarkettamil #ipoinvesting",
+     "link": "https://www.youtube.com/shorts/l9J6Bk95J3o",
+     "thumbnail": "https://i.ytimg.com/vi/l9J6Bk95J3o/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "l9J6Bk95J3o"
+    },
+    {
+     "title": "Sirf 4 gold bangles se ₹11,000 crore ka business?",
+     "link": "https://www.youtube.com/shorts/_jN3LJ07aII",
+     "thumbnail": "https://i.ytimg.com/vi/_jN3LJ07aII/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "_jN3LJ07aII"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Review | Is It a TRAP? 🤔 - CA Akshay Jain",
+     "link": "https://www.youtube.com/shorts/QUocshdaDt0",
+     "thumbnail": "https://i.ytimg.com/vi/QUocshdaDt0/frame0.jpg",
+     "views_original": "2.6K views",
+     "views": 2600,
+     "video_id": "QUocshdaDt0"
+    },
+    {
+     "title": "Lalithaa Jewellers IPO: What Investors Need to Know",
+     "link": "https://www.youtube.com/shorts/AG4quEqkmmw",
+     "thumbnail": "https://i.ytimg.com/vi/AG4quEqkmmw/frame0.jpg",
+     "views_original": "32K views",
+     "views": 32000,
+     "video_id": "AG4quEqkmmw"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Review 2026: Should You Apply or Avoid? | GMP, Price & Risks #shorts",
+     "link": "https://www.youtube.com/shorts/B6IeEPXZxiA",
+     "thumbnail": "https://i.ytimg.com/vi/B6IeEPXZxiA/frame0.jpg",
+     "views_original": "75K views",
+     "views": 75000,
+     "video_id": "B6IeEPXZxiA"
+    },
+    {
+     "title": "Premium Diamond Finish Necklace With Earrings...order wtsup 8328460617#1gm #jewellery",
+     "link": "https://www.youtube.com/shorts/TQz0fDE8yMI",
+     "thumbnail": "https://i.ytimg.com/vi/TQz0fDE8yMI/frame0.jpg",
+     "views_original": "90 views",
+     "views": 90,
+     "video_id": "TQz0fDE8yMI"
+    },
+    {
+     "title": "Lalithaa Jewellery Profit booking|Lalithaa Jewellery latest news stock under pressure #ipo #gmp",
+     "link": "https://www.youtube.com/shorts/LPD14oo9h_0",
+     "thumbnail": "https://i.ytimg.com/vi/LPD14oo9h_0/frame0.jpg",
+     "views_original": "9.6K views",
+     "views": 9600,
+     "video_id": "LPD14oo9h_0"
+    },
+    {
+     "title": "LALITHAA JEWELLERY IPO REVIEW 📈🚀 | 20% GMP IS FAKE ?? 😱😱",
+     "link": "https://www.youtube.com/shorts/gRlfE6MfxJE",
+     "thumbnail": "https://i.ytimg.com/vi/gRlfE6MfxJE/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "gRlfE6MfxJE"
+    },
+    {
+     "title": "Lalithaa Jewellery Mart IPO Listing Strategy #LalithaaJewelleryMartIPO",
+     "link": "https://www.youtube.com/shorts/WKrYk2TttNg",
+     "thumbnail": "https://i.ytimg.com/vi/WKrYk2TttNg/frame0.jpg",
+     "views_original": "8.4K views",
+     "views": 8400,
+     "video_id": "WKrYk2TttNg"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Lalithaa+Jewellery+Mart+Limited+share+target&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Lalithaa%20Jewellery%20Mart%20Limited%20share%20target&sp=SBSCAQtjNFdET2tEZHVuVYIBC0RMN0VNdzlPdU9NggELTVhpVDRFaFVsRTiCAQtuSWxaQVZxckdQQYIBC0c2NkFPS3FITjlzggELdTdnMzRLMlBlY2OCAQtlNUNPd1Nlb2Rjb4IBC3F3Nl9wV1VSWV9BggELUEVfTGF6eHcxcDiCAQszZmZxNFFxWXhMTYIBC2NzM01LZzRXUWpJggELUk9LUWFVSVh6bFmCAQszSkRHem0tRTAzZ4IBC0pxMmlmeVg0LWFRggELa0d5d05aMjJFRFmCAQtTbXo1SXNib3c4d4IBC09YNkpoZlZmMGZJggELZWEtZG1qbU1tYjiCAQtjWk5DWkRBcEJpQYIBC3hlUmQ5RTkyMGc4sgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtjNFdET2tEZHVuVYIBC0RMN0VNdzlPdU9NggELTVhpVDRFaFVsRTiCAQtuSWxaQVZxckdQQYIBC0c2NkFPS3FITjlzggELdTdnMzRLMlBlY2OCAQtlNUNPd1Nlb2Rjb4IBC3F3Nl9wV1VSWV9BggELUEVfTGF6eHcxcDiCAQszZmZxNFFxWXhMTYIBC2NzM01LZzRXUWpJggELUk9LUWFVSVh6bFmCAQszSkRHem0tRTAzZ4IBC0pxMmlmeVg0LWFRggELa0d5d05aMjJFRFmCAQtTbXo1SXNib3c4d4IBC09YNkpoZlZmMGZJggELZWEtZG1qbU1tYjiCAQtjWk5DWkRBcEJpQYIBC3hlUmQ5RTkyMGc4sgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Lalithaa+Jewellery+Mart+Limited+share+target",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Lalithaa+Jewellery+Mart+Limited+share+target&sp=SBSCAQtjNFdET2tEZHVuVYIBC0RMN0VNdzlPdU9NggELTVhpVDRFaFVsRTiCAQtuSWxaQVZxckdQQYIBC0c2NkFPS3FITjlzggELdTdnMzRLMlBlY2OCAQtlNUNPd1Nlb2Rjb4IBC3F3Nl9wV1VSWV9BggELUEVfTGF6eHcxcDiCAQszZmZxNFFxWXhMTYIBC2NzM01LZzRXUWpJggELUk9LUWFVSVh6bFmCAQszSkRHem0tRTAzZ4IBC0pxMmlmeVg0LWFRggELa0d5d05aMjJFRFmCAQtTbXo1SXNib3c4d4IBC09YNkpoZlZmMGZJggELZWEtZG1qbU1tYjiCAQtjWk5DWkRBcEJpQYIBC3hlUmQ5RTkyMGc4sgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtjNFdET2tEZHVuVYIBC0RMN0VNdzlPdU9NggELTVhpVDRFaFVsRTiCAQtuSWxaQVZxckdQQYIBC0c2NkFPS3FITjlzggELdTdnMzRLMlBlY2OCAQtlNUNPd1Nlb2Rjb4IBC3F3Nl9wV1VSWV9BggELUEVfTGF6eHcxcDiCAQszZmZxNFFxWXhMTYIBC2NzM01LZzRXUWpJggELUk9LUWFVSVh6bFmCAQszSkRHem0tRTAzZ4IBC0pxMmlmeVg0LWFRggELa0d5d05aMjJFRFmCAQtTbXo1SXNib3c4d4IBC09YNkpoZlZmMGZJggELZWEtZG1qbU1tYjiCAQtjWk5DWkRBcEJpQYIBC3hlUmQ5RTkyMGc4sgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "_fetched_at": "2026-10-08T16:04:53"
+}

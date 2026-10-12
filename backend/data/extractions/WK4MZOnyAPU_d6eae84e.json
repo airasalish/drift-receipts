@@ -1,0 +1,32 @@
+{
+ "calls": [
+  {
+   "company": "Pine Labs Ltd",
+   "symbol_guess": "PINE",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": 250.0,
+   "stop_loss": null,
+   "horizon": "1 year",
+   "quote": "सो pin लैब्स में वन ईयर पर्सपेक्टिव से रिकमेंड करूंगी विथ अ टारगेट प्राइस ऑफ़ 250।",
+   "start_s": 81,
+   "line": "अच्छे मार्जिनस हैं। तो रेवेन्यू ग्रोथ भी स्ट्रांग है। एंड प्लस मार्जिन एक्सपेंशन हाई होने से आपके अर्निंग्स ग्रोथ में",
+   "evidence": [
+    {
+     "text": "रिकमेंड",
+     "where": "transcript",
+     "start_s": 89
+    },
+    {
+     "text": "टारगेट प्राइस ऑफ़ 250",
+     "where": "transcript",
+     "start_s": 89
+    }
+   ],
+   "reason": "She explicitly recommends Pine Labs with a one‑year target price of ₹250, indicating a buy recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

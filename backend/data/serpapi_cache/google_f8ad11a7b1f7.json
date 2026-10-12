@@ -1,0 +1,91 @@
+{
+ "search_metadata": {
+  "id": "6ac7be7cd1816937961c7edd",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/J_3KlDhzumNjLeWrnuYVKw-A_9-q-oOrOQeNVtfegaQ/6ac7be7cd1816937961c7edd.json",
+  "markdown_endpoint": "https://serpapi.com/searches/J_3KlDhzumNjLeWrnuYVKw-A_9-q-oOrOQeNVtfegaQ/6ac7be7cd1816937961c7edd.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/J_3KlDhzumNjLeWrnuYVKw-A_9-q-oOrOQeNVtfegaQ/6ac7be7cd1816937961c7edd.json_with_pixel_position",
+  "created_at": "2026-10-08 16:02:04 UTC",
+  "processed_at": "2026-10-08 16:02:04 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Avadhut+Sathe%22&oq=site%3Asebi.gov.in+%22Avadhut+Sathe%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/J_3KlDhzumNjLeWrnuYVKw-A_9-q-oOrOQeNVtfegaQ/6ac7be7cd1816937961c7edd.html",
+  "total_time_taken": 65.6
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Avadhut Sathe\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Avadhut Sathe\"",
+  "total_results": 1,
+  "time_taken_displayed": 0.18,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Order in the matter of Avadhut Sathe Trading Academy ...",
+   "link": "https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/ORDER_1764842991.pdf",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFZb8X5NKIXfWns8U9aGbPh1TaMDGi8ZA1gBTmW1_TR_Ap7mzj6OZHDea7sQqKN9chY1Vi4JzMW0Kcj7Vbny35R5MXfOaGLQCvnZiz92DBifnRnuKDKZtMk98U_5OjTnfKwKyKh-68AT7xQyMr5kEmecLjZCzMqsjTEZGkjAy0p_u&ved=2ahUKEwjvwMfx5aqXAxWQnCYFHcSTEYcQFnoECB0QAQ&uoh=1",
+   "displayed_link": "https://www.sebi.gov.in › ORDER_1764842991",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp",
+   "date": "4 Dec 2025",
+   "snippet": "Avadhut Sathe (AS): (Placing sell order for Silver Futures using live data/chart) ……Ye apna silver chal pada, 424 jo humne buying ki thi na ...",
+   "snippet_highlighted_words": [
+    "Avadhut Sathe"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "pages": 125
+     },
+     "extensions": [
+      "125 pages"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Avadhut Sathe (AS): (Placing sell order for Silver Futures using live data/chart) ……Ye apna silver chal pada, 424 jo humne buying ki thi na ...",
+     "source_info_link": "https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/ORDER_1764842991.pdf",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaYjhYNU5LSVhmV25zOFU5YUdiUGgxVGFNREdpOFpBMWdCVG1XMV9UUl9BcDdtemo2T1pIRGVhN3NRcUtOOWNoWTFWaTRKek1XMEtjajdWYm55MzVSNU1YZk9hR0xRQ3ZuWml6OTJEQmlmblJudUtES1p0TWs5OFVfNU9qVG5mS3dLeUtoLTY4QVQ3eFF5TXI1a0VtZWNMalpDek1xc2pURVpHa2pBeTBwX3USBBoCCAAaigQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWg8IARILc2ViaS5nb3YuaW5yAHoAgkDVAwgAEAAYACAAKg4KB2F2YWRodXQVb-xeQCoMCgVzYXRoZRVv7F5AMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaYjhYNU5LSVhmV25zOFU5YUdiUGgxVGFNREdpOFpBMWdCVG1XMV9UUl9BcDdtemo2T1pIRGVhN3NRcUtOOWNoWTFWaTRKek1XMEtjajdWYm55MzVSNU1YZk9hR0xRQ3ZuWml6OTJEQmlmblJudUtES1p0TWs5OFVfNU9qVG5mS3dLeUtoLTY4QVQ3eFF5TXI1a0VtZWNMalpDek1xc2pURVpHa2pBeTBwX3U6Rk9yZGVyIGluIHRoZSBtYXR0ZXIgb2YgPGI-QXZhZGh1dCBTYXRoZTwvYj4gVHJhZGluZyBBY2FkZW15IC4uLiAtIFNFQklCnwE8Yj5BdmFkaHV0IFNhdGhlPC9iPiAoQVMpOiAoUGxhY2luZyBzZWxsIG9yZGVyIGZvciBTaWx2ZXIgRnV0dXJlcyB1c2luZyBsaXZlIGRhdGEvY2hhcnQpIOKApuKAplllIGFwbmEgc2lsdmVyIGNoYWwgcGFkYSwgNDI0IGpvIGh1bW5lIGJ1eWluZyBraSB0aGkgbmEmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaYjhYNU5LSVhmV25zOFU5YUdiUGgxVGFNREdpOFpBMWdCVG1XMV9UUl9BcDdtemo2T1pIRGVhN3NRcUtOOWNoWTFWaTRKek1XMEtjajdWYm55MzVSNU1YZk9hR0xRQ3ZuWml6OTJEQmlmblJudUtES1p0TWs5OFVfNU9qVG5mS3dLeUtoLTY4QVQ3eFF5TXI1a0VtZWNMalpDek1xc2pURVpHa2pBeTBwX3USBBoCCAAaigQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWg8IARILc2ViaS5nb3YuaW5yAHoAgkDVAwgAEAAYACAAKg4KB2F2YWRodXQVb-xeQCoMCgVzYXRoZRVv7F5AMsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZaYjhYNU5LSVhmV25zOFU5YUdiUGgxVGFNREdpOFpBMWdCVG1XMV9UUl9BcDdtemo2T1pIRGVhN3NRcUtOOWNoWTFWaTRKek1XMEtjajdWYm55MzVSNU1YZk9hR0xRQ3ZuWml6OTJEQmlmblJudUtES1p0TWs5OFVfNU9qVG5mS3dLeUtoLTY4QVQ3eFF5TXI1a0VtZWNMalpDek1xc2pURVpHa2pBeTBwX3U6Rk9yZGVyIGluIHRoZSBtYXR0ZXIgb2YgPGI-QXZhZGh1dCBTYXRoZTwvYj4gVHJhZGluZyBBY2FkZW15IC4uLiAtIFNFQklCnwE8Yj5BdmFkaHV0IFNhdGhlPC9iPiAoQVMpOiAoUGxhY2luZyBzZWxsIG9yZGVyIGZvciBTaWx2ZXIgRnV0dXJlcyB1c2luZyBsaXZlIGRhdGEvY2hhcnQpIOKApuKAplllIGFwbmEgc2lsdmVyIGNoYWwgcGFkYSwgNDI0IGpvIGh1bW5lIGJ1eWluZyBraSB0aGkgbmEmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "SEBI",
+   "read_more_link": "https://www.sebi.gov.in/sebi_data/attachdocs/dec-2025/ORDER_1764842991.pdf#:~:text=Avadhut%20Sathe%20(AS)%3A%20(Placing%20sell,buying%20ki%20thi%20na%2C%20phir"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Avadhut Sathe full course fees",
+   "link": "https://www.google.com/search?sca_esv=e9d66db87c24774f&gl=in&hl=en&sxsrf=APpeQnuxZAe4DXuu9mF_eWA8DPbsIpaPpQ:1791475389169&q=Avadhut+Sathe+full+course+fees&sa=X&ved=2ahUKEwjvwMfx5aqXAxWQnCYFHcSTEYcQ1QJ6BAgVEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Avadhut+Sathe+full+course+fees"
+  },
+  {
+   "block_position": 1,
+   "query": "Avadhut Sathe course fee",
+   "link": "https://www.google.com/search?sca_esv=e9d66db87c24774f&gl=in&hl=en&sxsrf=APpeQnuxZAe4DXuu9mF_eWA8DPbsIpaPpQ:1791475389169&q=Avadhut+Sathe+course+fee&sa=X&ved=2ahUKEwjvwMfx5aqXAxWQnCYFHcSTEYcQ1QJ6BAgUEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Avadhut+Sathe+course+fee"
+  },
+  {
+   "block_position": 1,
+   "query": "Avadhut Sathe Trading",
+   "link": "https://www.google.com/search?sca_esv=e9d66db87c24774f&gl=in&hl=en&sxsrf=APpeQnuxZAe4DXuu9mF_eWA8DPbsIpaPpQ:1791475389169&q=Avadhut+Sathe+Trading&sa=X&ved=2ahUKEwjvwMfx5aqXAxWQnCYFHcSTEYcQ1QJ6BAgTEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Avadhut+Sathe+Trading"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:03:08"
+}

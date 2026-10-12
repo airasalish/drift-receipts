@@ -1,0 +1,124 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdaedafa5f4463263c94",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/FKM1DhOdclsjJCYwef4BkddGOki5gD1hLtgSuMO_r1M/6ac7bdaedafa5f4463263c94.json",
+  "markdown_endpoint": "https://serpapi.com/searches/FKM1DhOdclsjJCYwef4BkddGOki5gD1hLtgSuMO_r1M/6ac7bdaedafa5f4463263c94.md",
+  "created_at": "2026-10-08 15:58:38 UTC",
+  "processed_at": "2026-10-08 15:58:38 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=2whIJghEe_c",
+  "raw_html_file": "https://serpapi.com/searches/FKM1DhOdclsjJCYwef4BkddGOki5gD1hLtgSuMO_r1M/6ac7bdaedafa5f4463263c94.html",
+  "prettify_html_file": "https://serpapi.com/searches/FKM1DhOdclsjJCYwef4BkddGOki5gD1hLtgSuMO_r1M/6ac7bdaedafa5f4463263c94.prettify",
+  "total_time_taken": 13.11
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "2whIJghEe_c",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "I'm just following a process and it is giving results.",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 5000,
+   "snippet": "[music]",
+   "start_time_text": "0:05",
+   "start_time_label": "5 seconds"
+  },
+  {
+   "start_ms": 18000,
+   "snippet": "[music]",
+   "start_time_text": "0:18",
+   "start_time_label": "18 seconds"
+  },
+  {
+   "start_ms": 22000,
+   "snippet": "[music]",
+   "start_time_text": "0:22",
+   "start_time_label": "22 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "Every trade that you do even today, it should follow the entire process. Heat.",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 36000,
+   "snippet": "[music]",
+   "start_time_text": "0:36",
+   "start_time_label": "36 seconds"
+  },
+  {
+   "start_ms": 37000,
+   "snippet": "Heat.",
+   "start_time_text": "0:37",
+   "start_time_label": "37 seconds"
+  },
+  {
+   "start_ms": 43000,
+   "snippet": "[music]",
+   "start_time_text": "0:43",
+   "start_time_label": "43 seconds"
+  },
+  {
+   "start_ms": 48000,
+   "snippet": "Oh,",
+   "start_time_text": "0:48",
+   "start_time_label": "48 seconds"
+  },
+  {
+   "start_ms": 51000,
+   "snippet": "[music]",
+   "start_time_text": "0:51",
+   "start_time_label": "51 seconds"
+  },
+  {
+   "start_ms": 58000,
+   "snippet": "[music]",
+   "start_time_text": "0:58",
+   "start_time_label": "58 seconds"
+  },
+  {
+   "start_ms": 60000,
+   "snippet": "heat, heat.",
+   "start_time_text": "1:00",
+   "start_time_label": "1 minute"
+  },
+  {
+   "start_ms": 62000,
+   "snippet": "[music]",
+   "start_time_text": "1:02",
+   "start_time_label": "1 minute, 2 seconds"
+  },
+  {
+   "start_ms": 68000,
+   "snippet": "Heat.",
+   "start_time_text": "1:08",
+   "start_time_label": "1 minute, 8 seconds"
+  },
+  {
+   "start_ms": 76000,
+   "snippet": "[music]",
+   "start_time_text": "1:16",
+   "start_time_label": "1 minute, 16 seconds"
+  },
+  {
+   "start_ms": 79000,
+   "snippet": "Heat.",
+   "start_time_text": "1:19",
+   "start_time_label": "1 minute, 19 seconds"
+  },
+  {
+   "start_ms": 87000,
+   "snippet": "[music]",
+   "start_time_text": "1:27",
+   "start_time_label": "1 minute, 27 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T15:58:50"
+}

@@ -1,0 +1,680 @@
+{
+ "search_metadata": {
+  "id": "6ac9f51270e9d07acfca618b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/nWRWmh6S87KerNBv-00q4l5NpldeNauxjv7KyumU2xw/6ac9f51270e9d07acfca618b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/nWRWmh6S87KerNBv-00q4l5NpldeNauxjv7KyumU2xw/6ac9f51270e9d07acfca618b.md",
+  "created_at": "2026-10-10 08:19:30 UTC",
+  "processed_at": "2026-10-10 08:19:30 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Sunil+Minglani+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/nWRWmh6S87KerNBv-00q4l5NpldeNauxjv7KyumU2xw/6ac9f51270e9d07acfca618b.html",
+  "total_time_taken": 5.89
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Sunil Minglani stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 281065,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Investing your way is easier than ever.",
+   "link": "https://www.youtube.com/watch?v=9E01baqH_dg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9E01baqH_dg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CjS6tE_XJarnDIsWqv8IP6tb0iQrxwPaRigHowI_BhRVkEAEgAGDJ7vKJmKT0EoIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHoyqDKAqgDBMgDCqoEywJP0N6X0gtv2DK1xWvw59jEslqQJ5lM2lsfk_n-xSzSEv321_Jm9ThmEnEfH2tpihQgE1d5YgvkTL6RRcnijDe-KOCofGYOEL8Fhz1Wdr-Y9Y2FO3hVFDGuUKbWKcH87detS84HAJEWZug8xxaHZdODfRW45KDaAWEQh7pIZOGeQrnswOMZdeEtZ98K13bztgj1s0Pw5fjo1zbWs3B_wAw9tcQ7ts6ABndF2USQ6lu4_-hLBPN9xTNNUk5K22mnDaXchmMrFYsVzuy-fbJxPJCLFqcgmnPheKO46nAwXNbmNFYBt0PQgjeOQJfvjW58Xbso0KqLtV9ctHsoECn3xLPR3b1SfoC2qaWpy8Kst7kyAmXmzooHid5IG3FnONmdp-fX7SnOwoEKsYtiFue55BZTnsLYQ7HMbk5sA4qWZ0DWklxDbk_xjZ94wJddiAWCxqPqVpIFCAgTeNKygrYBoAahAYAHgLXftQGQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAs5RTAxYmFxSF9kZ6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOCLx_6Br5cDYAGaCSlodHRwczovL3d3dy5maWRlbGl0eS5jb20vdHJhZGluZy9vdmVydmlld7EJRXyUwM9DH13ICRfICY8ByAnCAcgJlwK6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDBXZpY2Jm0AsS4AsBogwdahYKFGNvbS5maWRlbGl0eS5hbmRyb2lkeACIAQDSDAIQAZoNARKqDQJVU8gNAdINoARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjgwNS4yMDA5NzAwRE9VQkxFQ0xJQ0tCSURNQU5BR0UvQjM0ODI5NDM2LjQzNTU3NzQ5MztkY190cmtfYWlkPTYyOTY4MDAyMDtkY190cmtfY2lkPTI0NjkzODQzMTtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE1Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUlnc2FqNmxhb0F1Zmp6Z0t3QXNhWjFPZ0RRRHNRNkw0X0ozVHc2QVJOZWFIS3lpUmFWUjI1N3c9PTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0JCMmhJS0pjR1BYQXplOW1MVGM4T1JlT190elBQVTdUNVkxMXBDWDN2dmZTd2dzQXNuaWdja1AxaTRFRFN4bTBSSFpfQnNQWkhZMXhmOHFRO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuZmlkZWxpdHkuY29tL3RyYWRpbmcvb3ZlcnZpZXc_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzMzA4MzI5NzMwsBPryaIluBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5OAruSPQ-myuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI-ZjH_oGvlwMVRdVPAh1qKz2hEAEYASAAEgKFpvD_BwE&num=1&cid=CAASqgHkaPvuoyyda5rQtPT47cfDJ-bega4Et0YjNXBsDgWiaQizy4424WinkxM85jJfMEOGZUp-i52dnnDWxzqiB1FF6RA9FDrDHuXA5QP00YOfBuIEgCytWcSeBAjSHdLRI7JEnY-FpR8faSISQ_hkumVNs62rf5lMLKoiX_6sPucpjoStusLlkCko7OChDmKHQRq09FctckeiFfzHL8LObr77a68MFsoY_K9A1A&ad_cpn=%5BCPN%5D&sig=AOD64_1mJlWQRo6R7d4z8Xfd9uCdMNugSw&ctype=110&video_id=9E01baqH_dg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Fidelity Investments",
+    "thumbnail": "https://yt3.ggpht.com/proxy/rYDdfS1uRZy1k5V3Bgl5zpOFzWcMxuK6xQvIr1XTzC89vv8VBxauNipnOUMaIZNdSWtSDVbOg3eEob9uthgYQYZEGi_R78PP7UPUIEfbZAF5rEk8Ggfh0s-KJAPY9UueQlv8mKPZNvSuYfnpwt38h6NkhfwMCCwxFmmniBIc3_JiyhFD76WolcNMjAb5KNfAqVW-14ltkv2XwHMlDd_HnSGZzUkG_Fv9QL6zPaHZkwUqlwkDpiAl9D23Ff6WQIR0vjja=w68-h68-nd"
+   },
+   "description": "It’s easy to set up recurring investments in stocks & ETFs.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9E01baqH_dg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Ob9kFAaaxbOK36ohu4BWNw7xhA"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Go From Click to Cart",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CykCME_XJarnDIsWqv8IP6tb0iQrf_-aSigH_r8qA0hawkB8QAyAAYMnu8omYpPQSggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSMmbwCqAMEyAMKqgSpAk_Q3pfSC2_YMrXFa_Dn2MSyWpAnmUzaWx-T-f7FLNIS_fbX8mb1OGYScR8fa2mKFCATV3liC-RMvpFFyeKMN74o4Kh8Zg4QvwWHPVZ2v5j1jYU7eFUUMa5QptYpwfzt161LzgcAkRZm6DzHFodl04N9FbjkoNoBYRCHukhk4Z5CuezA4xl14S1n3wrXdvO2CPWzQ_Dl-OjXNtazcH_ADD21xDu2zoAGd0XZRJDqW7j_6EsE833FM01STkrbaacNpdyGYysVixXO7L59snE8kIsWpyCac-F4o7jqcDBc1uY0VhS7Q9CLN44wgL3jdG5eJ519ZYpFW_Xc8kfcwUtkF2-ztLDjC0E2XugkvIllHSagj1zn43A53HMXig0e7GCVNDgu5uQe7n-zcYgFwuz-3FmSBQgIE3iX96THAaAGboAH9f7zxgGQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOCLx_6Br5cDYAGaCTFodHRwczovL2dldHN0YXJ0ZWQudGlrdG9rLmNvbS9waGFzZTMvY3BnLWluZHVzdHJ5sQmrh-kLjy8amcgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpY2Jm0AsSogwhahoKGGNvbS5zcy5hbmRyb2lkLnVnYy50cmlsbHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDcYBaHR0cHM6Ly9nZXRzdGFydGVkLnRpa3Rvay5jb20vcGhhc2UzL2NwZy1pbmR1c3RyeT9waGFzZT0zJmxhbmc9ZW4mYXR0cl9zb3VyY2U9Z29vZ2xlJmF0dHJfbWVkaXVtPWRlbWFuZC1nZW4mYXR0cl9hZGdyb3VwX2lkPTE5ODM2NzY3NDcwNiZjcmVhdGl2ZT04MTg5ODkxNDkzMjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MDg1NzcxODQyuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI-ZjH_oGvlwMVRdVPAh1qKz2hEAEYAyAAEgJelfD_BwE&num=3&cid=CAASqgHkaPvuoyyda5rQtPT47cfDJ-bega4Et0YjNXBsDgWiaQizy4424WinkxM85jJfMEOGZUp-i52dnnDWxzqiB1FF6RA9FDrDHuXA5QP00YOfBuIEgCytWcSeBAjSHdLRI7JEnY-FpR8faSISQ_hkumVNs62rf5lMLKoiX_6sPucpjoStusLlkCko7OChDmKHQRq09FctckeiFfzHL8LObr77a68MFsoY_K9A1A&sig=AOD64_2vOHQBC_NumcnPN0zoiEoEkmErJA&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "TikTok For Business",
+    "thumbnail": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   },
+   "description": "There's only one TikTok, where home and living essentials are discovered daily.",
+   "thumbnail": {
+    "static": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Sunil Minglani",
+   "link": "https://www.youtube.com/@SunilMinglani",
+   "verified": true,
+   "handle": "@SunilMinglani",
+   "subscribers": 1380000,
+   "description": "Sunil Minglani is a known expert on behavioural aspects of Stock Markets who has now decided to apply the same human ...",
+   "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 13,
+   "title": "Bazaar Shastra by Sunil Minglani",
+   "link": "https://www.youtube.com/@bazaarshastrabysunilmingla8659",
+   "handle": "@bazaarshastrabysunilmingla8659",
+   "subscribers": 50100,
+   "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_mACgrrZ_5ezz6ApGJQcyICwlDs7VX3dM9vWQy3AU7QYQ=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 3,
+   "shorts": [
+    {
+     "title": "Reality Check for GenZ investors | Sunil Minglani | Investing Psychology | Stock market psychology",
+     "link": "https://www.youtube.com/shorts/qkUGSngNQFc",
+     "thumbnail": "https://i.ytimg.com/vi/qkUGSngNQFc/frame0.jpg",
+     "views_original": "82K views",
+     "views": 82000,
+     "video_id": "qkUGSngNQFc"
+    },
+    {
+     "title": "'Once in a lifetime move' in AI & Semiconductor stocks? | Sunil Minglani Shorts | SpaceX | AI bubble",
+     "link": "https://www.youtube.com/shorts/n_IIN_uYd9c",
+     "thumbnail": "https://i.ytimg.com/vi/n_IIN_uYd9c/frame0.jpg",
+     "views_original": "49K views",
+     "views": 49000,
+     "video_id": "n_IIN_uYd9c"
+    },
+    {
+     "title": "Best Stock Selection | Sunil Minglani #sunilminglani #shorts #nifty #banknifty #sensex",
+     "link": "https://www.youtube.com/shorts/5EAsd8YfPwg",
+     "thumbnail": "https://i.ytimg.com/vi/5EAsd8YfPwg/frame0.jpg",
+     "views_original": "2.1K views",
+     "views": 2100,
+     "video_id": "5EAsd8YfPwg"
+    },
+    {
+     "title": "Sunil Minglani Sir On Stock Market.#stockmarket #sunilmiglani #investing #viralshorts #viral",
+     "link": "https://www.youtube.com/shorts/hRXPtsFmMWk",
+     "thumbnail": "https://i.ytimg.com/vi/hRXPtsFmMWk/frame0.jpg",
+     "views_original": "226K views",
+     "views": 226000,
+     "video_id": "hRXPtsFmMWk"
+    },
+    {
+     "title": "How Bad Is This Correction vs 2008? The Answer Might Shock You | Sunil Minglani #stockmarketindia",
+     "link": "https://www.youtube.com/shorts/Y5ryIcQIoTk",
+     "thumbnail": "https://i.ytimg.com/vi/Y5ryIcQIoTk/frame0.jpg",
+     "views_original": "187K views",
+     "views": 187000,
+     "video_id": "Y5ryIcQIoTk"
+    }
+   ]
+  },
+  {
+   "position_on_page": 8,
+   "shorts": [
+    {
+     "title": "Stock Selection Using Sunil Minglani Golden Gate Strategy #stockmarket #investment #trading #shorts",
+     "link": "https://www.youtube.com/shorts/G-KVKxOfkXg",
+     "thumbnail": "https://i.ytimg.com/vi/G-KVKxOfkXg/frame0.jpg",
+     "views_original": "2.1K views",
+     "views": 2100,
+     "video_id": "G-KVKxOfkXg"
+    },
+    {
+     "title": "Start SIP - Sunil Minglani. #sunilminglani #stockmarket #investing #sip #shorts",
+     "link": "https://www.youtube.com/shorts/LmEkgqzrCxo",
+     "thumbnail": "https://i.ytimg.com/vi/LmEkgqzrCxo/frame0.jpg",
+     "views_original": "18K views",
+     "views": 18000,
+     "video_id": "LmEkgqzrCxo"
+    },
+    {
+     "title": "Sunil Minglani Course Free Download #sunilminglani #course",
+     "link": "https://www.youtube.com/shorts/FOVgVjczxGs",
+     "thumbnail": "https://i.ytimg.com/vi/FOVgVjczxGs/frame0.jpg",
+     "views_original": "2.5K views",
+     "views": 2500,
+     "video_id": "FOVgVjczxGs"
+    },
+    {
+     "title": "Monthly Income 😊 | SM Shorts | Stock Market for Beginners | #shorts",
+     "link": "https://www.youtube.com/shorts/LDbxhkta4og",
+     "thumbnail": "https://i.ytimg.com/vi/LDbxhkta4og/frame0.jpg",
+     "views_original": "920K views",
+     "views": 920000,
+     "video_id": "LDbxhkta4og"
+    },
+    {
+     "title": "Investing - Sunil Minglani #investing #stockmarket",
+     "link": "https://www.youtube.com/shorts/LnANk_5XekU",
+     "thumbnail": "https://i.ytimg.com/vi/LnANk_5XekU/frame0.jpg",
+     "views_original": "181K views",
+     "views": 181000,
+     "video_id": "LnANk_5XekU"
+    },
+    {
+     "title": "3 Mistakes of a Trader | Sunil Minglani #trading #tradingpsychology",
+     "link": "https://www.youtube.com/shorts/rd78r4NSKBI",
+     "thumbnail": "https://i.ytimg.com/vi/rd78r4NSKBI/frame0.jpg",
+     "views_original": "69K views",
+     "views": 69000,
+     "video_id": "rd78r4NSKBI"
+    },
+    {
+     "title": "Practice Itni Karo 😊| SM Shorts | Stock Market for Beginners | #shorts",
+     "link": "https://www.youtube.com/shorts/-5oeErQ8A3Q",
+     "thumbnail": "https://i.ytimg.com/vi/-5oeErQ8A3Q/frame0.jpg",
+     "views_original": "979K views",
+     "views": 979000,
+     "video_id": "-5oeErQ8A3Q"
+    },
+    {
+     "title": "सही वक़्त का इंतज़ार करो! - Sunil Minglani #sunilminglani #investing #shorts #stockmarket",
+     "link": "https://www.youtube.com/shorts/ELiCCLpRk6o",
+     "thumbnail": "https://i.ytimg.com/vi/ELiCCLpRk6o/frame0.jpg",
+     "views_original": "6.2K views",
+     "views": 6200,
+     "video_id": "ELiCCLpRk6o"
+    },
+    {
+     "title": "Fundamental Analysis | SM Shorts | Stock Market for Beginners | #Shorts",
+     "link": "https://www.youtube.com/shorts/yJ5tcJt4sYk",
+     "thumbnail": "https://i.ytimg.com/vi/yJ5tcJt4sYk/frame0.jpg",
+     "views_original": "912K views",
+     "views": 912000,
+     "video_id": "yJ5tcJt4sYk"
+    },
+    {
+     "title": "Nifty Crash: Nifty makes new 52 week low | Why Indian stock market is falling! #stockmarketcrash",
+     "link": "https://www.youtube.com/shorts/N0uR9wmEqCU",
+     "thumbnail": "https://i.ytimg.com/vi/N0uR9wmEqCU/frame0.jpg",
+     "views_original": "9.6K views",
+     "views": 9600,
+     "video_id": "N0uR9wmEqCU"
+    },
+    {
+     "title": "Indian Market Correction Is Cyclical, Not Structural: Mahindra Manulife CIO",
+     "link": "https://www.youtube.com/shorts/97lveE6RDbo",
+     "thumbnail": "https://i.ytimg.com/vi/97lveE6RDbo/frame0.jpg",
+     "views_original": "58 views",
+     "views": 58,
+     "video_id": "97lveE6RDbo"
+    },
+    {
+     "title": "लालच मत करो! - Sunil Minglani #sunilminglani #investing #shorts #business #greed  #stockmarket",
+     "link": "https://www.youtube.com/shorts/W5DYhSVKEgU",
+     "thumbnail": "https://i.ytimg.com/vi/W5DYhSVKEgU/frame0.jpg",
+     "views_original": "268K views",
+     "views": 268000,
+     "video_id": "W5DYhSVKEgU"
+    },
+    {
+     "title": "Stop loss ka important? #stoploss #trading #shortvideo #sunilminglani #shorts",
+     "link": "https://www.youtube.com/shorts/yyRI0Uu9SC0",
+     "thumbnail": "https://i.ytimg.com/vi/yyRI0Uu9SC0/frame0.jpg",
+     "views_original": "5.3K views",
+     "views": 5300,
+     "video_id": "yyRI0Uu9SC0"
+    },
+    {
+     "title": "Top Stock 😊 | SM Shorts | Stock Market for Beginners | #Shorts",
+     "link": "https://www.youtube.com/shorts/-tEfqg-lYzE",
+     "thumbnail": "https://i.ytimg.com/vi/-tEfqg-lYzE/frame0.jpg",
+     "views_original": "599K views",
+     "views": 599000,
+     "video_id": "-tEfqg-lYzE"
+    },
+    {
+     "title": "Trump vs Indian IT Stocks: Nifty IT Rallies 3%, TCS Jumps 5.5%! 🔥 #Shorts",
+     "link": "https://www.youtube.com/shorts/p1BpDKDz6Nc",
+     "thumbnail": "https://i.ytimg.com/vi/p1BpDKDz6Nc/frame0.jpg",
+     "views_original": "105K views",
+     "views": 105000,
+     "video_id": "p1BpDKDz6Nc"
+    },
+    {
+     "title": "US Ne Lagaya PERM Ban! Fir Bhi IT Stocks Kyun Bhage? TCS, Infosys Update",
+     "link": "https://www.youtube.com/shorts/N3vJgO_KHdw",
+     "thumbnail": "https://i.ytimg.com/vi/N3vJgO_KHdw/frame0.jpg",
+     "views_original": "78 views",
+     "views": 78,
+     "video_id": "N3vJgO_KHdw"
+    },
+    {
+     "title": "You will be shown 😊 | SM Shorts | Stock Market for Beginners | #Shorts",
+     "link": "https://www.youtube.com/shorts/KyYxMO93B70",
+     "thumbnail": "https://i.ytimg.com/vi/KyYxMO93B70/frame0.jpg",
+     "views_original": "569K views",
+     "views": 569000,
+     "video_id": "KyYxMO93B70"
+    },
+    {
+     "title": "3 Stocks Shortlisted for Averaging | Framework #sharemarketindia",
+     "link": "https://www.youtube.com/shorts/NmNaeiattWM",
+     "thumbnail": "https://i.ytimg.com/vi/NmNaeiattWM/frame0.jpg",
+     "views_original": "13K views",
+     "views": 13000,
+     "video_id": "NmNaeiattWM"
+    },
+    {
+     "title": "Sunil Minglani Sir On Option Trading.#stockmarket #investing #sunilminglani #viralshorts #options",
+     "link": "https://www.youtube.com/shorts/7bq_bMzCJZU",
+     "thumbnail": "https://i.ytimg.com/vi/7bq_bMzCJZU/frame0.jpg",
+     "views_original": "208K views",
+     "views": 208000,
+     "video_id": "7bq_bMzCJZU"
+    },
+    {
+     "title": "Intraday Reality 😊 | SM Shorts | Stock Market for Beginners | #Shorts",
+     "link": "https://www.youtube.com/shorts/XYsBh1xzEwg",
+     "thumbnail": "https://i.ytimg.com/vi/XYsBh1xzEwg/frame0.jpg",
+     "views_original": "378K views",
+     "views": 378000,
+     "video_id": "XYsBh1xzEwg"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 4,
+   "title": "Story of the Stock Market | SSC Episode-1 | www.sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=l7bGuZ4N3NY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l7bGuZ4N3NY",
+   "video_id": "l7bGuZ4N3NY",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 774644,
+   "length": "17:58",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... \nhttps://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/l7bGuZ4N3NY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsCyJL1OmUbT5WW4EZ8zsJSND23A",
+    "rich": "https://i.ytimg.com/an_webp/l7bGuZ4N3NY/mqdefault_6s.webp?du=3000&sqp=CODgp9YG&rs=AOn4CLCxozEBjXUADZHowK-2y3-TlqqUpg"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "How to Set Profit Target ? | SSC Episode-60 | Stock market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=K0kRoSIisds",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=K0kRoSIisds",
+   "video_id": "K0kRoSIisds",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6y ago",
+   "views": 223755,
+   "length": "8:24",
+   "description": "To open a Demat account with Zerodha, please register using the link below... https://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/K0kRoSIisds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBs5mzovkt-aHk_F8mnWUT0NEVtrQ",
+    "rich": "https://i.ytimg.com/an_webp/K0kRoSIisds/mqdefault_6s.webp?du=3000&sqp=CNbIp9YG&rs=AOn4CLBPS3OOOyOUbaVZ-wTEcLWBNhbHIg"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Market पाठशाला | Ep-1 |  A Complete Series for Stock Market beginners in Hindi  | Sunil Minglani",
+   "link": "https://www.youtube.com/watch?v=fV7i5l3btho",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fV7i5l3btho",
+   "video_id": "fV7i5l3btho",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9y ago",
+   "views": 859626,
+   "length": "17:06",
+   "description": "To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/fV7i5l3btho/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQbRPIlFg9IA3lnVIMMY6zMVE0TQ",
+    "rich": "https://i.ytimg.com/an_webp/fV7i5l3btho/mqdefault_6s.webp?du=3000&sqp=CMjJp9YG&rs=AOn4CLCPf-pUrdbKYx_9KAkbdWmA9alK3w"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "स्टॉक मार्केट में सीखने की शुरुआत कैसे करें ? | Episode-12 | Stock market Basics for beginners",
+   "link": "https://www.youtube.com/watch?v=FeZaCXrUDmc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FeZaCXrUDmc",
+   "video_id": "FeZaCXrUDmc",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8y ago",
+   "views": 771513,
+   "length": "20:22",
+   "description": "To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/FeZaCXrUDmc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXBPQE7BUpPI5V1M3gGnv6H0LHyA",
+    "rich": "https://i.ytimg.com/an_webp/FeZaCXrUDmc/mqdefault_6s.webp?du=3000&sqp=CNekp9YG&rs=AOn4CLDNzO0B03dyPXIasE-EVlXEOEOw9w"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Market का कानून | A Important Stock Market's Nature | Ep-106 | www.sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=JUtNQDgdfHc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JUtNQDgdfHc",
+   "video_id": "JUtNQDgdfHc",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 121744,
+   "length": "15:14",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... https://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/JUtNQDgdfHc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQt_1prYBQQfZ6wHA6cRzaWx9Bjg",
+    "rich": "https://i.ytimg.com/an_webp/JUtNQDgdfHc/mqdefault_6s.webp?du=3000&sqp=CKrop9YG&rs=AOn4CLA2KeIUo19WbhAjRRsF5LOnwpTh3w"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "The Right Way to Learn Trading | SSC Episode-21 | Stock Market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=3NoW2qcjdXk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3NoW2qcjdXk",
+   "video_id": "3NoW2qcjdXk",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 1155266,
+   "length": "8:11",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... \nhttps://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3NoW2qcjdXk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCCcaXKHJtZef0Yjs1E5thVPipQA",
+    "rich": "https://i.ytimg.com/an_webp/3NoW2qcjdXk/mqdefault_6s.webp?du=3000&sqp=CNPmp9YG&rs=AOn4CLA6CL9EOFPlhzQstvWF86SPWOzU5g"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "🔰🔶 🔰🔶Market's Wisdom | Sunil Minglani LIVE | September 11, '20",
+   "link": "https://www.youtube.com/watch?v=LUzFocSa8gM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LUzFocSa8gM",
+   "video_id": "LUzFocSa8gM",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 6y ago",
+   "views": 85087,
+   "length": "1:13:31",
+   "description": "#SunilMinglaniLive #StockMarketForBeginners #PsychologyMatters \n\nTo Subscribe SM Bulletin, Please Visit Below link OR Download ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LUzFocSa8gM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9J4LP8Vhuc2MmPzUEKzYX5zVBgg",
+    "rich": "https://i.ytimg.com/an_webp/LUzFocSa8gM/mqdefault_6s.webp?du=3000&sqp=CIjmp9YG&rs=AOn4CLAda4zeV6AyefaBtCRc0PRXNxlPwg"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "How to Select a Winning Horse? | Best Way to find Good Stocks  | Ep-93 | www.sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=xSX7AbAmE0k",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xSX7AbAmE0k",
+   "video_id": "xSX7AbAmE0k",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 83384,
+   "length": "12:16",
+   "description": "To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xSX7AbAmE0k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWJ8TUaqLlgftqYIJWcWd5odZxFA",
+    "rich": "https://i.ytimg.com/an_webp/xSX7AbAmE0k/mqdefault_6s.webp?du=3000&sqp=COvnp9YG&rs=AOn4CLCbq1lJvr6G43rQYxhJeN3szdbEag"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Key to Success in the Stock Market ? | अगर इसको मान लिया तो सफलता पक्की | Episode-80 | SM",
+   "link": "https://www.youtube.com/watch?v=IKsdQ84HxOg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IKsdQ84HxOg",
+   "video_id": "IKsdQ84HxOg",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8y ago",
+   "views": 311842,
+   "length": "13:52",
+   "description": "To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/IKsdQ84HxOg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkMJ2PniBd5jdWkhn8wv75K9OBxQ",
+    "rich": "https://i.ytimg.com/an_webp/IKsdQ84HxOg/mqdefault_6s.webp?du=3000&sqp=CPjDp9YG&rs=AOn4CLA18MTnB8RzPQ5oDNxRPhVs8iuJJQ"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Market पाठशाला : Stock Futures & Short Selling | Ep-3 | For Stock Market beginners in Hindi by SM",
+   "link": "https://www.youtube.com/watch?v=frGFgvizL68",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=frGFgvizL68",
+   "video_id": "frGFgvizL68",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9y ago",
+   "views": 576572,
+   "length": "18:56",
+   "description": "To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/frGFgvizL68/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqXxo_oteQOZfoTzxRcfCgr7CAzw",
+    "rich": "https://i.ytimg.com/an_webp/frGFgvizL68/mqdefault_6s.webp?du=3000&sqp=CKjHp9YG&rs=AOn4CLBes_UKoFglv7Aj1nYO5PvFBEz3Mw"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Secure Your Hard-Earned Money | SSC Episode-34 | Stock market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=Fe-K38z6fsE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fe-K38z6fsE",
+   "video_id": "Fe-K38z6fsE",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6y ago",
+   "views": 276928,
+   "length": "13:40",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... \nhttps://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Fe-K38z6fsE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCT_MnMVSGlwC2iBaSd5VOSkW981w",
+    "rich": "https://i.ytimg.com/an_webp/Fe-K38z6fsE/mqdefault_6s.webp?du=3000&sqp=CMPBp9YG&rs=AOn4CLDgw6nQ14s0ot-tmUOrGHh1QZQvTg"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "🔰🔶 🔰🔶How Market Fools You ? 😎 | Sunil Minglani LIVE | Dec 17, '20",
+   "link": "https://www.youtube.com/watch?v=OXoX8e-hbCU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OXoX8e-hbCU",
+   "video_id": "OXoX8e-hbCU",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 5y ago",
+   "views": 173053,
+   "length": "1:02:56",
+   "description": "#SunilMinglaniLive #StockMarketForBeginners #PsychologyMatters \n\nTo Subscribe SM Bulletin, Please Visit Below link OR Download ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OXoX8e-hbCU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI_qKQtr-Uf_TtIZEsys7fzas_tQ",
+    "rich": "https://i.ytimg.com/an_webp/OXoX8e-hbCU/mqdefault_6s.webp?du=3000&sqp=CJPap9YG&rs=AOn4CLCbeHf_3ezVtgit6OExjyTv8-hg7Q"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Understand Your Brain | SSC Episode-27 | Stock market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=Dx18Sp1VO90",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Dx18Sp1VO90",
+   "video_id": "Dx18Sp1VO90",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 488484,
+   "length": "10:38",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... https://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Dx18Sp1VO90/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDd25SoaMNY0Nebv3RXxaN9tX4Hnw",
+    "rich": "https://i.ytimg.com/an_webp/Dx18Sp1VO90/mqdefault_6s.webp?du=3000&sqp=CKPpp9YG&rs=AOn4CLDs8LoRL_vJovhhI9SjERT34A0LRg"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "काबिल STOCKS | SSC Episode-18 | Stock market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=BXUYv72k648",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BXUYv72k648",
+   "video_id": "BXUYv72k648",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7y ago",
+   "views": 298871,
+   "length": "13:52",
+   "description": "To open a Demat account with Zerodha, , please register using the link below... https://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BXUYv72k648/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-hFuloZx-1Us8Oiem45xAZZfOjw",
+    "rich": "https://i.ytimg.com/an_webp/BXUYv72k648/mqdefault_6s.webp?du=3000&sqp=CP_Jp9YG&rs=AOn4CLBa_KaDamRKHCoEGLAa8KuJfhg8Lg"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Stocks की यात्रा कैसे चलती है? | SSC Episode-68 | Stock market for Beginners | sunilminglani.com",
+   "link": "https://www.youtube.com/watch?v=5qi9NU0QwAM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5qi9NU0QwAM",
+   "video_id": "5qi9NU0QwAM",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6y ago",
+   "views": 228210,
+   "length": "13:50",
+   "description": "To open a Demat account with Zerodha, please register using the link below... https://zerodha.com/open-account?c=ZMPRLU ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5qi9NU0QwAM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWSVDjCgRisVYoBadKQQAZHwfEQ",
+    "rich": "https://i.ytimg.com/an_webp/5qi9NU0QwAM/mqdefault_6s.webp?du=3000&sqp=CKSlp9YG&rs=AOn4CLBf8wY2XmyMCTWOKZkYZEBS7XlrTg"
+   }
+  },
+  {
+   "position_on_page": 23,
+   "title": "5 Signs of a Multibagger Stock | Ep-9 | SSC Online (Live Recording) | Stock Market for Beginners",
+   "link": "https://www.youtube.com/watch?v=x6L4JiUE24w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x6L4JiUE24w",
+   "video_id": "x6L4JiUE24w",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 94142,
+   "length": "6:26",
+   "description": "#SunilMinglani #StockMarketForBeginners ##SunilSirKiClassOnline\n\nSunil Minglani understands human psychology not only in the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/x6L4JiUE24w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS-c1Dtn63NGfojZ5o5pXykNz_hQ",
+    "rich": "https://i.ytimg.com/an_webp/x6L4JiUE24w/mqdefault_6s.webp?du=3000&sqp=CKibp9YG&rs=AOn4CLDQMgxFCdN1-Kn4G2DOnTwenH3A3w"
+   }
+  },
+  {
+   "position_on_page": 24,
+   "title": "Is Another Harshad Mehta Era Coming? | Biggest Bull Run or Crash? | Trump Tariffs | Sunil Minglani",
+   "link": "https://www.youtube.com/watch?v=bb2necZmuqY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bb2necZmuqY",
+   "video_id": "bb2necZmuqY",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 90327,
+   "length": "38:20",
+   "description": "#sunilminglani #harshadmehta #trumptariffs #indianeconomy \nIn this video, Sunil Minglani draws powerful parallels between the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/bb2necZmuqY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGtsdESuownZxnYHkDC_EXIQ43aA",
+    "rich": "https://i.ytimg.com/an_webp/bb2necZmuqY/mqdefault_6s.webp?du=3000&sqp=CNDUp9YG&rs=AOn4CLDHdZN4hwAinB4CT1I7mv8Onx6QVQ"
+   }
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 22,
+   "title": "Sunil meghnani market pathshala",
+   "link": "https://www.youtube.com/playlist?list=PLODYTLTRawZO9_buUZ8njCponNDDVgIg9",
+   "channel": {
+    "name": "Bhavin Bhavsar",
+    "link": "https://www.youtube.com/@bhavinbhavsar7280"
+   },
+   "videos": [
+    {
+     "title": "Market पाठशाला | Ep-1 |  A Complete Series for Stock Market beginners in Hindi  | Sunil Minglani",
+     "length": "17:06",
+     "link": "https://www.youtube.com/watch?v=fV7i5l3btho&list=PLODYTLTRawZO9_buUZ8njCponNDDVgIg9"
+    },
+    {
+     "title": "Market पाठशाला : Trading & Demat A/C | Ep-2 | For Stock Market beginners in Hindi |Sunil Minglani",
+     "length": "12:59",
+     "link": "https://www.youtube.com/watch?v=_XTDvpuPm64&list=PLODYTLTRawZO9_buUZ8njCponNDDVgIg9"
+    }
+   ],
+   "video_count": 31,
+   "thumbnail": "https://i.ytimg.com/vi/fV7i5l3btho/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC-VEw3nO7vqzxsJR-VT9HEYgxRmA"
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Sunil+Minglani+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Sunil%20Minglani%20stocks&sp=SBSCARhVQ1M4V0x3dVZzenExZzJvZUJ6Ym9VbVGCAQtsN2JHdVo0TjNOWYIBC0swa1JvU0lpc2RzggELZlY3aTVsM2J0aG-CAQtGZVphQ1hyVURtY4IBC0pVdE5RRGdkZkhjggELM05vVzJxY2pkWGuCAQtMVXpGb2NTYThnTYIBGFVDSWlvQjN6R1ROQ2cxek4tMUgtVUE0d4IBC3hTWDdBYkFtRTBrggELSUtzZFE4NEh4T2eCAQtmckdGZ3Zpekw2OIIBC0ZlLUszOHo2ZnNFggELT1hvWDhlLWhiQ1WCAQtEeDE4U3AxVk85MIIBC0JYVVl2NzJrNjQ4ggELNXFpOU5VMFF3QU2CASJQTE9EWVRMVFJhd1pPOV9idVVaOG5qQ3Bvbk5ERFZnSWc5ggELeDZMNEppVUUyNHeCAQtiYjJuZWNabXVxWbIBBgoECBoQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ1M4V0x3dVZzenExZzJvZUJ6Ym9VbVGCAQtsN2JHdVo0TjNOWYIBC0swa1JvU0lpc2RzggELZlY3aTVsM2J0aG-CAQtGZVphQ1hyVURtY4IBC0pVdE5RRGdkZkhjggELM05vVzJxY2pkWGuCAQtMVXpGb2NTYThnTYIBGFVDSWlvQjN6R1ROQ2cxek4tMUgtVUE0d4IBC3hTWDdBYkFtRTBrggELSUtzZFE4NEh4T2eCAQtmckdGZ3Zpekw2OIIBC0ZlLUszOHo2ZnNFggELT1hvWDhlLWhiQ1WCAQtEeDE4U3AxVk85MIIBC0JYVVl2NzJrNjQ4ggELNXFpOU5VMFF3QU2CASJQTE9EWVRMVFJhd1pPOV9idVVaOG5qQ3Bvbk5ERFZnSWc5ggELeDZMNEppVUUyNHeCAQtiYjJuZWNabXVxWbIBBgoECBoQAuoBBAgCEBk%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Sunil+Minglani+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Sunil+Minglani+stocks&sp=SBSCARhVQ1M4V0x3dVZzenExZzJvZUJ6Ym9VbVGCAQtsN2JHdVo0TjNOWYIBC0swa1JvU0lpc2RzggELZlY3aTVsM2J0aG-CAQtGZVphQ1hyVURtY4IBC0pVdE5RRGdkZkhjggELM05vVzJxY2pkWGuCAQtMVXpGb2NTYThnTYIBGFVDSWlvQjN6R1ROQ2cxek4tMUgtVUE0d4IBC3hTWDdBYkFtRTBrggELSUtzZFE4NEh4T2eCAQtmckdGZ3Zpekw2OIIBC0ZlLUszOHo2ZnNFggELT1hvWDhlLWhiQ1WCAQtEeDE4U3AxVk85MIIBC0JYVVl2NzJrNjQ4ggELNXFpOU5VMFF3QU2CASJQTE9EWVRMVFJhd1pPOV9idVVaOG5qQ3Bvbk5ERFZnSWc5ggELeDZMNEppVUUyNHeCAQtiYjJuZWNabXVxWbIBBgoECBoQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ1M4V0x3dVZzenExZzJvZUJ6Ym9VbVGCAQtsN2JHdVo0TjNOWYIBC0swa1JvU0lpc2RzggELZlY3aTVsM2J0aG-CAQtGZVphQ1hyVURtY4IBC0pVdE5RRGdkZkhjggELM05vVzJxY2pkWGuCAQtMVXpGb2NTYThnTYIBGFVDSWlvQjN6R1ROQ2cxek4tMUgtVUE0d4IBC3hTWDdBYkFtRTBrggELSUtzZFE4NEh4T2eCAQtmckdGZ3Zpekw2OIIBC0ZlLUszOHo2ZnNFggELT1hvWDhlLWhiQ1WCAQtEeDE4U3AxVk85MIIBC0JYVVl2NzJrNjQ4ggELNXFpOU5VMFF3QU2CASJQTE9EWVRMVFJhd1pPOV9idVVaOG5qQ3Bvbk5ERFZnSWc5ggELeDZMNEppVUUyNHeCAQtiYjJuZWNabXVxWbIBBgoECBoQAuoBBAgCEBk%3D"
+ },
+ "_fetched_at": "2026-10-10T08:19:34"
+}

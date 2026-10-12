@@ -1,0 +1,32 @@
+{
+ "calls": [
+  {
+   "company": "Suzlon Energy",
+   "symbol_guess": "SUZLON",
+   "direction": "hold",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "5-6 years",
+   "quote": "कोई बात नहीं होल्ड कीजिए लॉन्ग टर्म के लिए।",
+   "start_s": 53,
+   "line": "[गला साफ़ करने की आवाज़]",
+   "evidence": [
+    {
+     "text": "होल्ड कीजिए",
+     "where": "transcript",
+     "start_s": 54
+    },
+    {
+     "text": "कोई बात नहीं",
+     "where": "transcript",
+     "start_s": 54
+    }
+   ],
+   "reason": "The speaker explicitly tells viewers to hold Suzlon Energy for the long term, indicating a hold recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

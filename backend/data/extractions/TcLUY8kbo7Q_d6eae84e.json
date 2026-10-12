@@ -1,0 +1,112 @@
+{
+ "calls": [
+  {
+   "company": "Coforge",
+   "symbol_guess": "COFORGE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोफorर्ज जो जिसने एक्सीलेंट यहां पे रिजल्ट दिया है",
+   "start_s": 34,
+   "line": "यहां पे कवर करेंगे व्हिच इज़ कोफorर्ज जो",
+   "evidence": [
+    {
+     "text": "कवर करेंगे",
+     "where": "transcript",
+     "start_s": 34
+    },
+    {
+     "text": "एक्सीलेंट",
+     "where": "transcript",
+     "start_s": 36
+    }
+   ],
+   "reason": "The speaker discusses Coforge's Q1 FY27 results but does not give any buy/sell advice, so it is listed as a watch."
+  },
+  {
+   "company": "Infosys",
+   "symbol_guess": "INFY",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बाय एडिंग Infosys",
+   "start_s": 394,
+   "line": "में भी उन्होंने अभी करेंटली अ जो अंडरवेट",
+   "evidence": [
+    {
+     "text": "बाय एडिंग",
+     "where": "transcript",
+     "start_s": 397
+    }
+   ],
+   "reason": "The speaker mentions adding Infosys to the portfolio, indicating a positive stance."
+  },
+  {
+   "company": "Coforge",
+   "symbol_guess": "COFORGE",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोफोर जैसी कंपनी में इन्होंने वेट बढ़ाया है",
+   "start_s": 401,
+   "line": "इन देयर मॉडल पोर्टफोलियो एंड कोफोर जैसी",
+   "evidence": [
+    {
+     "text": "वेट बढ़ाया",
+     "where": "transcript",
+     "start_s": 403
+    }
+   ],
+   "reason": "The speaker notes increased weight in Coforge, suggesting a bullish view."
+  },
+  {
+   "company": "Wipro",
+   "symbol_guess": "WIPRO",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "वायओवाई भी ये नंबर काफी स्ट्रांग है",
+   "start_s": 521,
+   "line": "कंपनी ने रिपोर्ट की है। एंड वाईओवाई भी",
+   "evidence": [
+    {
+     "text": "स्ट्रांग",
+     "where": "transcript",
+     "start_s": 519
+    }
+   ],
+   "reason": "Wipro is highlighted with strong numbers, implying a positive recommendation."
+  },
+  {
+   "company": "HCL Technologies",
+   "symbol_guess": "HCLTECH",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "हैच का थोड़े से लॉसेस कंपनी के बड़े हैं",
+   "start_s": 529,
+   "line": "रेवेन्यू में है। हालांकि हैच का थोड़े से",
+   "evidence": [
+    {
+     "text": "लॉसेस",
+     "where": "transcript",
+     "start_s": 531
+    }
+   ],
+   "reason": "The speaker mentions HCL's losses without recommending it, so it is noted for monitoring."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 3,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,214 @@
+{
+ "search_metadata": {
+  "id": "6ac7bef00676dcbbff97c3dc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/kzcwlNITgWsB8eLulcFxo-4Cj_H22OOCJota3x1w_yo/6ac7bef00676dcbbff97c3dc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/kzcwlNITgWsB8eLulcFxo-4Cj_H22OOCJota3x1w_yo/6ac7bef00676dcbbff97c3dc.md",
+  "created_at": "2026-10-08 16:04:00 UTC",
+  "processed_at": "2026-10-08 16:04:00 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=SnAXxUZkMRc",
+  "raw_html_file": "https://serpapi.com/searches/kzcwlNITgWsB8eLulcFxo-4Cj_H22OOCJota3x1w_yo/6ac7bef00676dcbbff97c3dc.html",
+  "prettify_html_file": "https://serpapi.com/searches/kzcwlNITgWsB8eLulcFxo-4Cj_H22OOCJota3x1w_yo/6ac7bef00676dcbbff97c3dc.prettify",
+  "total_time_taken": 7.15
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "SnAXxUZkMRc",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "कि नमस्कार दोस्तों आपका स्वागत है हमारे चैनल पर तो दोस्तों इस वीडियो में हम बात करने वाले एक ऐसे शहर के बारे में जिसने",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "निवेशकों का पैसा 17 गुना तक बढ़ा दिया पिछले छह महीने में दोस्तों साधना ब्रॉडकास्टिंग लिमिटेड इसकी स्थापना हुई",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 16000,
+   "snippet": "थी वह 1977 में हुई थी अभी जो है इसकी प्राय जरिए 19 पॉइंट पिच्चानवे ने रूस की चकली है बात करें लास्ट फ्राइडे की तो",
+   "start_time_text": "0:16",
+   "start_time_label": "16 seconds"
+  },
+  {
+   "start_ms": 24000,
+   "snippet": "उसने 0.7 परसेंट का डाउनफॉल की है और पास मन की बात करें तो इसमें 30.34 परसेंट का",
+   "start_time_text": "0:24",
+   "start_time_label": "24 seconds"
+  },
+  {
+   "start_ms": 32000,
+   "snippet": "डाउन मारा और पास समय की बात करें तो आपको दिख रहा होगा कि नर्सेज जो काफी ज्यादा दोस्तों शरीर",
+   "start_time_text": "0:32",
+   "start_time_label": "32 seconds"
+  },
+  {
+   "start_ms": 40000,
+   "snippet": "दोस्तों इस हेयर के फंडामेंटल को लेकर एक बार बात कर लेते हैं तो आपको दिख रहा है वह यह कि स्मॉल कैप कंपनी है यानि कि इसकी",
+   "start_time_text": "0:40",
+   "start_time_label": "40 seconds"
+  },
+  {
+   "start_ms": 47000,
+   "snippet": "जो मार्केट कैप है वो 199 करोड़ की है और जो करंट प्राइस इसकी चल रही है वह 19 पॉइंट 8 की चलिए 52 वीक में जो हमारा",
+   "start_time_text": "0:47",
+   "start_time_label": "47 seconds"
+  },
+  {
+   "start_ms": 55000,
+   "snippet": "इसमें 34 पॉइंट कम और है और बाबत बीच में जो लोग मार है वह 0.87 एक तय रिटर्न ऑफ कंपनी एंप्लॉयर की बात करें तो 1.9 वर्सेज",
+   "start_time_text": "0:55",
+   "start_time_label": "55 seconds"
+  },
+  {
+   "start_ms": 65000,
+   "snippet": "आफ इक्विटी जो है वह 20% है जो कि काफी कम है बे जो है वह कंपनी के पास पांच पॉइंट",
+   "start_time_text": "1:05",
+   "start_time_label": "1 minute, 5 seconds"
+  },
+  {
+   "start_ms": 73000,
+   "snippet": "25 करोड़ करें और जो टोटल असेट्स एंड 28 पॉइंट साथ करोड़ के नेट प्रॉफिट एनुअल की बात करें तो 0.31 करोड़ का प्रॉफिट कमाया",
+   "start_time_text": "1:13",
+   "start_time_label": "1 minute, 13 seconds"
+  },
+  {
+   "start_ms": 82000,
+   "snippet": "कंपनी ने और अ रनिंग पर शेयर जो है वह 0.05 फैब्रिक कैस्ट्रो जो है वह 1.8 करोड़ है और Twitter की बात करें तो जीरो",
+   "start_time_text": "1:22",
+   "start_time_label": "1 minute, 22 seconds"
+  },
+  {
+   "start_ms": 91000,
+   "snippet": "प्वाइंट 30छे प्रमोटर होल्डिंग काफी चाहिए 41 पर सेंट है और कोई भी शेयर्स के गिरवी नहीं पड़ेगा और टाइम के हाई मार है वह 34 पॉइंट 8",
+   "start_time_text": "1:31",
+   "start_time_label": "1 minute, 31 seconds"
+  },
+  {
+   "start_ms": 100000,
+   "snippet": "हमारे ऑल टाइम लो है वह 0.78 करंट लाइबिलिटी की बात करें तो 14.1 करोड़ की",
+   "start_time_text": "1:40",
+   "start_time_label": "1 minute, 40 seconds"
+  },
+  {
+   "start_ms": 107000,
+   "snippet": "यानि कि इसके फंडामेंटल एक एवरेज है स्मॉल कैप कंपनियों के अनुसार चलिए दोस्तों बात कर लेते हैं प्रॉफिट एंड",
+   "start_time_text": "1:47",
+   "start_time_label": "1 minute, 47 seconds"
+  },
+  {
+   "start_ms": 114000,
+   "snippet": "लॉस को लेकर कि यह कंपनी आपको मुनाफ़ा कमा कर दे रही है या नहीं तो आपको देख रहा हूं कि मात्र दो हों से लेकर मान तू 13th",
+   "start_time_text": "1:54",
+   "start_time_label": "1 minute, 54 seconds"
+  },
+  {
+   "start_ms": 121000,
+   "snippet": "कंपनियां कोई भी प्रॉफिट नहीं कमाया लेकिन मार्च-2014 मैसेज 0.04 का प्रॉफिट कमाया",
+   "start_time_text": "2:01",
+   "start_time_label": "2 minutes, 1 second"
+  },
+  {
+   "start_ms": 128000,
+   "snippet": "है उसके बाद यह लगातार प्रॉफिट बढ़ता गया है और जी 2019 तक काफी अच्छा पढ़ा है 2019",
+   "start_time_text": "2:08",
+   "start_time_label": "2 minutes, 8 seconds"
+  },
+  {
+   "start_ms": 136000,
+   "snippet": "के बाद एक 2020 में जोकोविच सिचुएशन थी जहां सारे शेयर गिरे थे वह इसमें भी गिरावट आई है और इसका इफेक्ट जो है 2021",
+   "start_time_text": "2:16",
+   "start_time_label": "2 minutes, 16 seconds"
+  },
+  {
+   "start_ms": 143000,
+   "snippet": "पर ही पड़ा जो कि - में रहा है लेकिन 2022 विशेस 121 करोड़ तो प्रॉफिट कम है तो दोस्तों यह पौन इंच बैक हो सकता है",
+   "start_time_text": "2:23",
+   "start_time_label": "2 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 152000,
+   "snippet": "क्योंकि जब तो दोस्तों सारे ही शेयर गिरे थे लेकिन अब वह सारे इसे रिकवर कर रहे हो इस शहर में भी काफी अच्छा मूव आप देखने को मिल सकते हैं लेकिन मैं आपको बता दूं",
+   "start_time_text": "2:32",
+   "start_time_label": "2 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 161000,
+   "snippet": "दोस्तों यह एक पैन इस टॉपिक है इसमें आप उतना ही अमाउंट इनवेस्टमेंट करें इच्छित लाभ कमाने के लिए तैयार है क्योंकि इसमें प्रॉफिट के चांसेस जो होते हैं वह लिमिट",
+   "start_time_text": "2:41",
+   "start_time_label": "2 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 169000,
+   "snippet": "होते हैं लेकिन लास्ट चांस इच्छुक नहीं होता जितना आपने अमाउंट इनवेस्टमेंट किया दोस्तों चलिए दोस्तों अब बात करते हैं इसके पैटर्न को लेकर कि आने वाले समय में",
+   "start_time_text": "2:49",
+   "start_time_label": "2 minutes, 49 seconds"
+  },
+  {
+   "start_ms": 177000,
+   "snippet": "यह शेयर आप यहां पर जाते देख सकता है हेलो दोस्तों बात करें इसके शेयर की तो उसने 34 रुपये अप ट्रेन में जाते हुए दिखाया और",
+   "start_time_text": "2:57",
+   "start_time_label": "2 minutes, 57 seconds"
+  },
+  {
+   "start_ms": 185000,
+   "snippet": "फिर यहां पर जो सपोर्ट जिसने पहला जो सपोर्ट लिया 18 पर लिया दोस्तों वह सकता है आने वाले समय में एक बार फिर अप्रैल",
+   "start_time_text": "3:05",
+   "start_time_label": "3 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 192000,
+   "snippet": "में मुंह करें और फिर इंजेक्शन खाए अप्रैल में आने के बाद और दो बार ऐसा लगातार आपको करते थे कर फिर चांसेस बन सकते हैं यह",
+   "start_time_text": "3:12",
+   "start_time_label": "3 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 200000,
+   "snippet": "शेयर आपका अपडेट में मुफ्त करें अगर कंसोलिडेट को के ऊपर जाएगा तो दोस्तों काफी ज्यादा चांस जाकर लंबे समय तक ऊपर",
+   "start_time_text": "3:20",
+   "start_time_label": "3 minutes, 20 seconds"
+  },
+  {
+   "start_ms": 207000,
+   "snippet": "रहेगा कंसोलिडेट मुमकिन नहीं डायरेक्ट जाता है तो चांसेस काफी रहते हैं इसके गिरावट के या फिर हो सकता है यह पहले तो",
+   "start_time_text": "3:27",
+   "start_time_label": "3 minutes, 27 seconds"
+  },
+  {
+   "start_ms": 214000,
+   "snippet": "अपडेट में मूंग करता देख फिर आपको 14 चेतक की शेयर में गिरावट आई और फिर एक रिएक्शन लेकर फिर अपडेट में मुकरता देखें तो",
+   "start_time_text": "3:34",
+   "start_time_label": "3 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 222000,
+   "snippet": "दोस्तों आपको दो सपोर्ट दिखे रहे हैं 18 उसे और rs.14 के दो सपूर्ण है इन्हें अगर रिएक्शन खाता तो काफी ज्यादा चांसेस शेयर",
+   "start_time_text": "3:42",
+   "start_time_label": "3 minutes, 42 seconds"
+  },
+  {
+   "start_ms": 230000,
+   "snippet": "के आगे बढ़ने के लेकिन ज्यादा आंच और रूपए का जो है सपोर्ट जहर तोड़ देता है तो चांस बन सकते हैं इसके गिरावट के अदर वाइज",
+   "start_time_text": "3:50",
+   "start_time_label": "3 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 238000,
+   "snippet": "अप्रैल में ऊपर से देख सकते हैं पुणे से चार से पांच महीने में दोस्तों आशा करता हूं वीडियो आपको अच्छी लगे हुए हैं कमेंट",
+   "start_time_text": "3:58",
+   "start_time_label": "3 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 244000,
+   "snippet": "करके जरूर बताइएगा",
+   "start_time_text": "4:04",
+   "start_time_label": "4 minutes, 4 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:04:06"
+}

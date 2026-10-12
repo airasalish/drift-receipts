@@ -1,0 +1,1409 @@
+{
+ "search_metadata": {
+  "id": "6ac9452b8ffd7b73e8ce368f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/mTGmPu_7Iqpjh7WaoRbQGjebtLar99_yj7Y64eW8R3k/6ac9452b8ffd7b73e8ce368f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/mTGmPu_7Iqpjh7WaoRbQGjebtLar99_yj7Y64eW8R3k/6ac9452b8ffd7b73e8ce368f.md",
+  "created_at": "2026-10-09 19:48:59 UTC",
+  "processed_at": "2026-10-09 19:48:59 UTC",
+  "google_news_url": "https://news.google.com/search?q=Blue+Dart+Express+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/mTGmPu_7Iqpjh7WaoRbQGjebtLar99_yj7Y64eW8R3k/6ac9452b8ffd7b73e8ce368f.html",
+  "total_time_taken": 0.79
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Blue Dart Express share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Blue Dart signs MoU with India Post to expand delivery reach",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-signs-mou-india-post-expand-delivery-reach/53095667",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-signs-mou-india-post-expand-delivery-reach.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZbkJvUVVkdFRUVjJRWFY0VFJDaUF4amRCU2dLTWdZQmNJd0d1UVU",
+   "date": "10/09/2026, 12:53 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:53:59Z"
+  },
+  {
+   "position": 2,
+   "title": "Blue Dart Express Share Price: fresh 52-week low, valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-blue-dart-express-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/Blue_Dart_Express_BLUEDART_Share_Price_hits_fresh_52_week_low_BLUEDART_at_Rs_4481_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWMDVZTm0xRmNHcE9WakprVFJDUUF4ai1CU2dLTWdhQktZakNHZ2s",
+   "date": "10/05/2026, 06:23 AM, +0000 UTC",
+   "iso_date": "2026-10-05T06:23:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Blue Dart Express Ltd Falls to 52-Week Low of Rs 4470 as Sell-Off Deepens",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/blue-dart-express-ltd-falls-to-52-week-low-of-rs4470-4214810",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/BlueDartExpress_priceRelatedfactors_4214810.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURka1I0Y1RGeWFtbHNPSEUxVFJDaUFSaTJBaWdCTWdZbElvUXhGUXM",
+   "date": "10/05/2026, 05:47 AM, +0000 UTC",
+   "iso_date": "2026-10-05T05:47:49Z"
+  },
+  {
+   "position": 4,
+   "title": "Blue Dart Express Share Price Jumps 7% As Q1 Net Profit Rises Over 80%: Should You Buy?",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikita Prasad"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/blue-dart-express-shares-surge-7-as-q1-net-profit-rises-over-80-should-you-buy-11857608",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/22rnmm1_blue_625x300_03_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNaMk4zZDFGcWFGbHFXbVJGVFJDZkF4ampCU2dLTWdhRmtwUXBOUWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Blue Dart Express appoints Rabindra Purohit as Company Secretary and KMP",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-appoints-rabindra-purohit-company-secretary-kmp/53079156",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-appoints-rabindra-purohit-company-secretary-kmp.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpURFJNY21WdFRsQmlYeTFKVFJDaUF4amRCU2dLTWdZUnNwQVR3UVU",
+   "date": "10/09/2026, 08:15 AM, +0000 UTC",
+   "iso_date": "2026-10-09T08:15:06Z"
+  },
+  {
+   "position": 6,
+   "title": "Top stocks in focus tomorrow: Investors must watch Titan, Utkarsh SFB, HCL Tech shares on Wed, 7 Oct | Triggers",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:6cfd8e5f31cb1:0-top-stocks-in-focus-tomorrow-investors-must-watch-titan-utkarsh-sfb-hcl-tech-shares-on-wed-7-oct-triggers/",
+   "date": "10/06/2026, 05:48 PM, +0000 UTC",
+   "iso_date": "2026-10-06T17:48:44Z"
+  },
+  {
+   "position": 7,
+   "title": "Blue Dart Express Reports Q1 Consolidated Net Profit of ₹88.5 Crore Versus ₹46.9 Crore YoY",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/blue-dart-express-reports-q1-consolidated-net-profit-of-88-5-crore-versus-46-9-crore-yoy-1624-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/1624_PE_1_CORPORATE_31_07_2026_16x9_098a026211.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVVa0ZwU0V4eU0wNXVUbTFwVFJDb0FSaXRBaWdCTWdhbFU0WnZOUVE",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Here's What We Like About Blue Dart Express' (NSE:BLUEDART) Upcoming Dividend",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-bluedart/blue-dart-express-shares/news/heres-what-we-like-about-blue-dart-express-nsebluedart-upcom",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3211000-choice2-card/1789046038361?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVZVE4zYUd4aVNFbHZja2xhVFJDZkF4ampCU2dLTWdrSkFJaTBEQ1pxRUFF",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Blue Dart Express Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/41424/blue-dart-express-ltd/peer-comparison/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/bluedart.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPVXA1Tmt0UllXUlFibGt5VFJESUFSaklBU2dCTWdZSm9aVE1PQWM",
+   "date": "09/03/2026, 08:23 AM, +0000 UTC",
+   "iso_date": "2026-09-03T08:23:01Z"
+  },
+  {
+   "position": 10,
+   "title": "Blue Dart Express Share Price: New MD Takes Charge",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-share-price-new-managing-director",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/blue-dart-express-share-price-new-managing-director.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBXVXQ0ZEd0NFNuZHBZMGhYVFJDUUF4ai1CU2dLTWdhQk1KRENHZ28",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Blue Dart Express (BSE:526612) Stock Forecast & Analyst Predictions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/bse-526612/blue-dart-express-shares/future",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Blue Dart Express Posts Q1 Consolidated Net Profit Of ₹88.5 Crore Vs ₹46.9 Crore YoY",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/blue-dart-express-posts-q1-consolidated-net-profit-of-88-5-crore-vs-46-9-crore-yoy-1624-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/1624_PE_1_CORPORATE_03_08_2026_16x9_4c00620385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHplRXBFU0dRd1dURkhZVlZqVFJDZUF4amxCU2dLTWdZZFE0cHNKUVk",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Blue Dart Express Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/41424/blue-dart-express-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/bluedart.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPVXA1Tmt0UllXUlFibGt5VFJESUFSaklBU2dCTWdZSm9aVE1PQWM",
+   "date": "08/31/2026, 03:20 AM, +0000 UTC",
+   "iso_date": "2026-08-31T03:20:07Z"
+  },
+  {
+   "position": 14,
+   "title": "Blue Dart Express: 7 Stock Signals to Watch",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-stock-signals-investors-are-watching",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/blue-dart-express-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlWSGs1V0ZGc1EwdFZWMEphVFJDUUF4ai1CU2dLTWdZQk1aQ2lHZ2s",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Blue Dart Express to raise domestic service prices by 9-12%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-raise-domestic-service-prices-9-12/52316163",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-raise-domestic-service-prices-9-12.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJabnBSWDFadmVUSkpjblYxVFJDaUF4amRCU2dLTWdZQkVJQXF4UU0",
+   "date": "09/30/2026, 03:05 PM, +0000 UTC",
+   "iso_date": "2026-09-30T15:05:06Z"
+  },
+  {
+   "position": 16,
+   "title": "Blue Dart Express Share Price: New MD R.S. Subramanian",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-share-price-rs-subramanian-new-md",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/blue-dart-express-share-price-rs-subramanian-new-md.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1XblpFYnpCWE1qY3hhMVl4VFJDUUF4ai1CU2dLTWdZQk1aVERtZ2s",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Blue Dart Express FY2025-26 Results: Revenue ₹6,14,088 Lakhs; Investor Presentation Filed",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-reports-fy2025-26-annual-financial-results-board-recommends-dividend-of-25-per-share/39886257",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-reports-fy2025-26-annual-financial-results-board-recommends-dividend-of-25-per-share.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpRbE4wVVVkcWFscE9ka0ZpVFJDdEF4akxCU2dLTWdB",
+   "date": "05/09/2026, 03:34 PM, +0000 UTC",
+   "iso_date": "2026-05-09T15:34:49Z"
+  },
+  {
+   "position": 18,
+   "title": "Why Is Blue Dart Express Share Price Falling: Key Reasons and Investor Analysis 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-blue-dart-express-share-price-falling",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/07185311/Why-Is-Blue-Dart-Express-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhWMEZPWnkxTmVYRk1ZM1ZhVFJDZUF4amxCU2dLTWdZTklvRHI1QUU",
+   "date": "05/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-07T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Blue Dart Express Share Pros and Cons 2026: India's Premium Express Courier Leader",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-cons-investing-bluedart-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-cons-investing-bluedart-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRURTh0YUV4SGEySXlSRFU0VFJDUUF4ai1CU2dLTWdZQk1ZekNHZ28",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Blue Dart Express Ltd. Share Price: Mid Cap Stock Gains",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-ltd-share-price-rise-2026-08-03",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/Blue_Dart_Express_Ltd_BLUEDART_Share_Price_Rises_621_Amid_Mid_Cap_Rally_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRRVEE0VkRWQlRqSm5TMUJVVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Buy Blue Dart Express; target of Rs 6100: Motilal Oswal",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/buy-blue-dart-express-target-of-rs-6100-motilal-oswal-13996448.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070414_Buy.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdZbE5zVldsemRrVk1ZVXRtVFJDZkF4ampCU2dLTWdZcHBaTE5OUWM",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Blue Dart Express Ltd. Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/41424/blue-dart-express-ltd/key-ratios/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/bluedart.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPVXA1Tmt0UllXUlFibGt5VFJESUFSaklBU2dCTWdZSm9aVE1PQWM",
+   "date": "08/30/2026, 09:11 AM, +0000 UTC",
+   "iso_date": "2026-08-30T09:11:49Z"
+  },
+  {
+   "position": 23,
+   "title": "Blue Dart Express Q4 Results 2026: Date, Revenue, PAT And Analyst Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-q4-results-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/09162325/Blue-Dart-Express-Q4-Results-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWVGRaU0hSVU0yaGxTVGxTVFJDUUF4ai1CU2dLTWdZQkVwNkREZ3M",
+   "date": "04/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-09T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Calculating The Fair Value Of Blue Dart Express Limited (NSE:BLUEDART)",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-bluedart/blue-dart-express-shares/news/calculating-the-fair-value-of-blue-dart-express-limited-nseb-1",
+   "date": "01/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-02T08:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Blue Dart rallies after Q1 PAT spurts 81% YoY",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/blue-dart-rallies-after-q1-pat-spurts-81-yoy-126080300215_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Blue Dart Express Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/41424/blue-dart-express-ltd/company-financial/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/bluedart.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxPVXA1Tmt0UllXUlFibGt5VFJESUFSaklBU2dCTWdZSm9aVE1PQWM",
+   "date": "08/30/2026, 02:16 PM, +0000 UTC",
+   "iso_date": "2026-08-30T14:16:01Z"
+  },
+  {
+   "position": 27,
+   "title": "Blue Dart Express (BLUEDART.NS) Holds Steady at ₹5,093: Tracking the Logistics Major's Consolidation Phase - Money Flow Index",
+   "source": {
+    "name": "siam.in",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.siam.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.siam.in/aticles-market/Blue-Dart-Express-BLUEDARTNS-Holds-Steady-at-5093-Tracking-the-Logistics-Majors-Consolidation-Phase-59-1764",
+   "thumbnail": "https://asserts.assertsseo.click/manifest/usstock/2026-08-12/charts/bluedart_ns_chart_f0eb6103.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVlNSGM0ZDNSdFUwbDJhVm8xVFJDdEFSaWpBaWdCTWdB",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Blue Dart Express shares surge 7% after Q1 results. Here's why Nuvama retains Buy, raises target",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/blue-dart-express-shares-surge-7-after-q1-results-heres-why-nuvama-retains-buy-raises-target/articleshow/132819599.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132819592,width-1200,height-900,resizemode-4,imgsize-19298/blue-dart-express-shares-surge-7-after-q1-results-heres-why-nuvama-retains-buy-raises-target.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5OMmRWZVZoRWJGTjZSM1J3VFJEZ0F4aUFCU2dLTWdhQm80eEx1UVk",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Blue Dart Express Q1FY27 profit surges 84%, led by pricing power",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-q1-net-profit-nearly-doubles-to-885m-rupees-ebitda-margin-expands-to-15-76/47051334",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-q1-net-profit-nearly-doubles-to-885m-rupees-ebitda-margin-expands-to-15-76.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlNRkpKZEV4UFEyYzRZV2wwVFJDaUF4amRCU2dLTWdhSlFZeXNxUVU",
+   "date": "08/19/2026, 03:19 AM, +0000 UTC",
+   "iso_date": "2026-08-19T03:19:54Z"
+  },
+  {
+   "position": 30,
+   "title": "Earnings call transcript: Blue Dart Express posts Q1 2026 revenue growth, shares swing",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-blue-dart-express-posts-q1-2026-revenue-growth-shares-swing-93CH-4836950",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Blue Dart Express makes Q1FY27 earnings call recording available online",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-q1-results-earnings-call-scheduled-for-aug-5/47128186",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-q1-results-earnings-call-scheduled-for-aug-5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpYME5MZDBsdFZHOXJkMVEzVFJDaUF4amRCU2dLTWdZVlVaQ3RwUWM",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Blue Dart Aviation: ரூ. 27.10 கோடிக்கு ஜிஎஸ்டி நோட்டீஸ்! முதலீட்டாளர்கள் கவனத்திற்கு",
+   "source": {
+    "name": "Whalesbook",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.whalesbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.whalesbook.com/corporate-news/Tamil/lawcourt/Blue-Dart-Aviation-Gets-GST-Show-Cause-Notice-for-Rs-2710-Crore/6abe28d480ecbb8a5f1b2c5f",
+   "thumbnail": "https://images.whalesbook.com/corporate-news/images/images/mupc6q5r06de.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJRbUZxVTNnNVYxSTNZVFoyVFJDZkF4ampCU2dLTWdB",
+   "date": "10/01/2026, 09:33 AM, +0000 UTC",
+   "iso_date": "2026-10-01T09:33:22Z"
+  },
+  {
+   "position": 33,
+   "title": "Container Corporation of India vs Blue Dart Express vs Transport",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/container-corporation-of-india-vs-blue-dart-express-vs-transport-corporation-of-india",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/container-corporation-of-india-vs-blue-dart-express-vs-transport-corporation-of.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNjelZuYm14dlpWbERRV1JpVFJDUUF4ai1CU2dLTWdZQlFJcWpIZ2s",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Blue Dart Consolidated March 2026 Net Sales at Rs 1,533.47 crore, up 8.2% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/blue-dart-consolidated-march-2026-net-sales-at-rs-1533-47-crore-up-8-2-y-o-y-13914729.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Blue Dart Express Share Analyst Review 2026: Price Target and Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-share-analyst-review-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Blue-Dart-Express-Share-Analyst-Review.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUlNVUZyVGtSa09YVllMVEJhVFJDZUF4amxCU2dLTWdB",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Revenues Not Telling The Story For Blue Dart Express Limited (NSE:BLUEDART)",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-bluedart/blue-dart-express-shares/news/revenues-not-telling-the-story-for-blue-dart-express-limited",
+   "date": "11/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-17T08:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Blue Dart Express recommends ₹25 dividend, schedules AGM for Sept 22",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-schedules-35th-agm-september-22/49461774",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-schedules-35th-agm-september-22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWljMVF0WlVSelFWVjNVRFYyVFJDZkF4ampCU2dLTWdZTk00NktvUVk",
+   "date": "08/28/2026, 11:30 AM, +0000 UTC",
+   "iso_date": "2026-08-28T11:30:21Z"
+  },
+  {
+   "position": 38,
+   "title": "India's Blue Dart Express first quarter profit rises on strong volumes",
+   "source": {
+    "name": "Yahoo Finance Singapore",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://sg.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Urvi Dugar",
+     "Joyjeet Das"
+    ]
+   },
+   "link": "https://sg.finance.yahoo.com/news/indias-blue-dart-express-first-140514460.html",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Blue Dart Aviation receives ₹27.1 crore GST show cause notice",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-aviation-receives-27-1-crore-gst-show-cause-notice/52394067",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-aviation-receives-27-1-crore-gst-show-cause-notice.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhja2h2ZEd0M2VYWkdlbEJoVFJDaUF4amRCU2dLTWdB",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Blue Dart Express (NSE:BLUEDART): What Is the Record Date for Its Rs 25 Dividend?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/blue-dart-express-nsebluedart-what-is-the-record-date-for-its-rs-25-dividend",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Blue Dart Aviation: जीएसटी विभागाची मोठी कारवाई, कंपनीला **₹27.10 कोटींची** नोटीस",
+   "source": {
+    "name": "Whalesbook",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.whalesbook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.whalesbook.com/corporate-news/Marathi/lawcourt/Blue-Dart-Aviation-Gets-GST-Show-Cause-Notice-for-Rs-2710-Crore/6abe28d480ecbb8a5f1b2c5f",
+   "thumbnail": "https://images.whalesbook.com/corporate-news/images/images/mupc6q5r06de.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVJRbUZxVTNnNVYxSTNZVFoyVFJDZkF4ampCU2dLTWdB",
+   "date": "10/01/2026, 09:33 AM, +0000 UTC",
+   "iso_date": "2026-10-01T09:33:22Z"
+  },
+  {
+   "position": 42,
+   "title": "Blue Dart shareholders approve ₹25 dividend for FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-shareholders-approve-25-dividend-fy26/51633933",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-shareholders-approve-25-dividend-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVjbTFqV2xWSlMwTnpVV1pGVFJDaUF4amRCU2dLTWdZZGNwUVBzUWM",
+   "date": "09/22/2026, 02:48 PM, +0000 UTC",
+   "iso_date": "2026-09-22T14:48:12Z"
+  },
+  {
+   "position": 43,
+   "title": "Blue Dart Express reports low-severity cyber security incident; no data breach reported",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/blue-dart-express-share-price-reports-low-severity-cyber-security-incident-no-data-breach-reported-ws-l-19885121.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2022/10/bluedart-shutterstock.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XSEZQWkV4dVoxRmlYekpWVFJDZkF4ampCU2dLTWdhaGM0NXRyUVk",
+   "date": "04/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-10T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Blue Dart Express Q1 FY27 Results: PAT Rs 88 Cr, Revenue Rs 1,657",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-q1-results-fy27-pat-rs-88-cr",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/blue-dart-express-q1-results-fy27-pat-rs-88-cr.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhUbDkyVEdwMFdXTlRaSGRxVFJDUUF4ai1CU2dLTWdZQk1JYWptZ2s",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "The Return Trends At Blue Dart Express (NSE:BLUEDART) Look Promising",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-bluedart/blue-dart-express-shares/news/the-return-trends-at-blue-dart-express-nsebluedart-look-prom",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3211000-choice2-main-header/1585186782858?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRVRWt5Y0VjNGNVSnpka2QwVFJDZkF4ampCU2dLTWdB",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Blue Dart Express faces ₹37.56 Cr GST show cause notice",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-faces-37-56-cr-gst-show-cause-notice/46372815",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-faces-37-56-cr-gst-show-cause-notice.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVhWFp4WkZaS00xZ3lZMUZVVFJDaUF4amRCU2dLTWdhQkFZcXRrUVk",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Karnataka Bank, Pondy Oxides, ITDC, Blue Dart among stocks to turn ex-dividend on September 15",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/karnataka-bank-pondy-oxides-itdc-blue-dart-among-stocks-to-turn-ex-dividend-on-september-15-555396-2026-09-14",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa7cf8c70589-karnataka-bank-ltd-will-turn-ex-dividend-on-september-15-for-a-final-dividend-of-rs-5-per-share-144219893-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlYemR6TXpSbFFXSndibVpQVFJDZkF4ampCU2dLTWdhaFU0Yk1MUVk",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Dividend stocks alert, record date: Last chance to buy - Blue Dart, Karnataka Bank, Aarti Pharma, ITDC | Full list",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/dividend-alert-last-chance-to-buy-blue-dart-karnataka-bank-aarti-pharma-itdc-and-others-for-dividends-full-list-11789365707462.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/Dividend_stock_alertsas_1789367287432_d5103a26-c19d-447b-bebf-90e30a979bd0_1789367293498_566a525a-3f5a-472c-be76-75e67c0fa949_b675a78b-8220-42ae-8feb-4da49d816600_3e80f09b-3170-4e13-b53c-03815d314dc6.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNURGR0YW1GTmMwdFphSEJzVFJDZkF4ampCU2dLTWdhVk1veE9vUVE",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Blue Dart Express launches Rakhi shipping offers with flat rates",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-launches-rakhi-shipping-offers-with-flat-rates/47998023",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-launches-rakhi-shipping-offers-with-flat-rates.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5iREo0YjIwMFJVWnZNelprVFJDZkF4ampCU2dLTWdhcFpJNk9xUVk",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Top 3 stocks to buy: Apollo Micro Systems, Netweb Technologies, Blue Dart by Vaishali Parekh| Target, stop-loss",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/top-3-stocks-to-buy-apollo-micro-systems-netweb-technologies-blue-dart-by-vaishali-parekh-target-stoploss-11790612687438.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/28/1600x900/logo/Vaishali_3_1790617562359_M3jI_1790617572486_DSxs_afd1f07c-4dc8-4d76-a74a-c94b8a8741ce_IMIX.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdlaTFaUkRad05XNWFPVGt4VFJDZkF4ampCU2dLTWdrRklZb0RHNnBNclFF",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Stocks to Watch Today, October 1, 2026: Jindal Stainless, Tech Mahindra, Blue Dart Express, Interarch Building Solutions and Highway Infrastructure",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-1-2026-jindal-stainless-tech-mahindra-blue/52364186",
+   "thumbnail": "https://news-images.dhan.co/stocks-watch-today-october-1-2026-jindal-stainless-tech-mahindra-blue.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9OVVI0YlVGcFRYUm1ja3RtVFJDaUF4amRCU2dLTWdZQlVJVHNKQVU",
+   "date": "10/01/2026, 01:40 AM, +0000 UTC",
+   "iso_date": "2026-10-01T01:40:05Z"
+  },
+  {
+   "position": 52,
+   "title": "Blue Dart Standalone June 2026 Net Sales at Rs 1,657.72 crore, up 14.97% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/blue-dart-standalone-june-2026-net-sales-at-rs-1657-72-crore-up-14-97-y-o-y-14000238.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Buy Blue Dart Express Ltd for the Target Rs 6,100 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-blue-dart-express-ltd-for-the-target-rs-6-100-by-motilal-oswal-financial-services-ltd612187",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Blue%20Dart%20Express%20Ltd.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRkVVY1YjI0MU5uWm1hSEYzVFJEZUFoajBBeWdLTWdhWmc1WktzUWM",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Blue Dart Express submits FY26 sustainability report to exchanges",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-submits-fy26-sustainability-report-exchanges/49462333",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-submits-fy26-sustainability-report-exchanges.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtiR2hyTjNkdlpWbERVWEJxVFJDZkF4ampCU2dLTWdrQkFJUWdHU056UXdN",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Adani Ports, JSW Infra, Blue Dart, TCI Express shares: Buy, hold or sell? Target prices",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-jsw-infra-blue-dart-tci-express-shares-buy-hold-or-sell-target-prices-539858-2026-06-30",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a432859e1610-emkay-said-indias-port-sector-recovery-was-driven-by-the-partial-reopening-of-trade-routes-in-neigh-302212410-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdZMmc0UVdKelFqbHNZVlp1VFJDZkF4ampCU2dLTWdrRklJS211R0lkU3dJ",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Blue Dart Express consolidated net profit rises 81.22% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/blue-dart-express-consolidated-net-profit-rises-81-22-in-the-june-2026-quarter-126080100151_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-01T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Blue Dart Reports FY26 PAT of INR 240 Crores",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-schedules-q4fy26-earnings-call-for-may-13-2026/39880829",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-schedules-q4fy26-earnings-call-for-may-13-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBSR0ZIV0dGeE1XSkllakZ2VFJDdEF4akxCU2dLTWdZQlVJb09yQVU",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Blue Dart slides after Q4 PAT falls 11% YoY to Rs 49 cr",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/blue-dart-slides-after-q4-pat-falls-11-yoy-to-rs-49-cr-126051100297_1.html",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Stocks to watch: RIL, NSE, HDFC Bank, IRFC, Infosys, Cupid, Blue Dart, OMCs",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/stocks-to-watch-ril-nse-hdfc-bank-irfc-infosys-cupid-blue-dart-omcs-126100100107_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/08/full/1778242859-3341.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlUVloxZVRKSVkyNXFXRGcxVFJDZUF4amtCU2dLTWdZWmNZNXVMUWM",
+   "date": "10/01/2026, 02:45 AM, +0000 UTC",
+   "iso_date": "2026-10-01T02:45:26Z"
+  },
+  {
+   "position": 60,
+   "title": "Blue Dart Consolidated June 2026 Net Sales at Rs 1,657.72 crore, up 14.97% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/blue-dart-consolidated-june-2026-net-sales-at-rs-1657-72-crore-up-14-97-y-o-y-13999555.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Blue Dart Express share price surges 9% on price hike, GST demand relief",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/blue-dart-express-share-price-surges-9-on-price-hike-gst-demand-relief-126010100276_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2020-05/31/full/1590938819-4488.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVPVU5yWTFOMGJWaEhOVTV4VFJEUUF4anNCQ2dLTWdtQkVZVHhRQ1NwMWdB",
+   "date": "01/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-01T08:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Blue Dart Q4 FY26 Results PAT Rs 43 Cr FY26 Rev Rs 6141 Cr",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-q4-results-fy26-pat-43-crore-2",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/11170434/Blue-Dart-Express-Q4-Results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1NV0p5VDFJMU9FZE9VMVI0VFJDZUF4amxCU2dLTWdhWmNvUkwwUUk",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Blue Dart Q3 profit dips 16% on one-time charge, revenue up 7%, margins rise",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Megha Rani"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/earnings/blue-dart-share-price-q3fy26-results-net-profit-revenue-ebitda-margins-exceptional-item-ws-l-19837355.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2022/10/bluedart-shutterstock.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XSEZQWkV4dVoxRmlYekpWVFJDZkF4ampCU2dLTWdhaGM0NXRyUVk",
+   "date": "01/30/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-30T08:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Blue Dart Posts 18.8% Profit Drop To ₹432M Despite 8.5% Revenue Growth To ₹15.3B",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/blue-dart-posts-18-8-profit-drop-to-432m-despite-8-5-revenue-growth-to-15-3b-1624-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/1624_PE_1_CORPORATE_11_05_2026_16x9_65702d7c36.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBTbWRzYkV3NGN6bFdjVTlsVFJDZUF4amxCU2dLTWdhcFU0aXRJUVk",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Blue Dart Express Records ₹32.68 Crore Block Trade on NSE",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/orders-deals/blue-dart-express-records-32-68-crore-block-trade-on-nse/29824045",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-records-32-68-crore-block-trade-on-nse.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZWRTVQVDE5MGJVVXpiSEZHVFJDdEF4akxCU2dLTWdrQklJWk5tU2VLVWdF",
+   "date": "01/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-12T08:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Blue Dart board approves Subramanian MD ballot, reconstitutes committees",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/blue-dart-express-md-balfour-manuel-retires-subramanian-appointed/51031411",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-md-balfour-manuel-retires-subramanian-appointed.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNaMUJuVDJONFRIWTBabFU1VFJDaUF4amRCU2dLTWdrQklJNGpuV2RUY1FF",
+   "date": "09/16/2026, 01:10 PM, +0000 UTC",
+   "iso_date": "2026-09-16T13:10:26Z"
+  },
+  {
+   "position": 67,
+   "title": "Blue Dart Express shares surge over 12%, emerges top gainer in NIFTY Smallcap 250 index, here is why",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/blue-dart-express-shares-surge-over-12-emerges-top-gainer-in-nifty-smallcap-250-index-here-is-why/article-183720/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/blue-dart-express-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpXRXR0U0hVelpFaDRWV3R3VFJEZ0F4aUFCU2dLTWdZQmNvcUJMZ2c",
+   "date": "10/28/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-28T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Blue Dart shares surge as tax authority grants relief on GST dispute",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/blue-dart-shares-surge-as-tax-authority-grants-relief-on-gst-dispute/article-187070/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/blue-dart-express-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpXRXR0U0hVelpFaDRWV3R3VFJEZ0F4aUFCU2dLTWdZQmNvcUJMZ2c",
+   "date": "01/01/2026, 07:11 AM, +0000 UTC",
+   "iso_date": "2026-01-01T07:11:47Z"
+  },
+  {
+   "position": 69,
+   "title": "Top Logistics Stocks: High Promoter Holding List",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/logistics-stocks-high-promoter-holding",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/logistics-stocks-high-promoter-holding.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWVE5vVEV0Q1JEWlphMDF4VFJDUUF4ai1CU2dLTWdZQk1JckNtZ2s",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Blue Dart reports low-severity cyber incident; no data breach or business impact",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/blue-dart-reports-low-severity-cyber-incident-no-data-breach-or-business-impact-126041100141_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "04/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-11T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Buy Blue Dart Express; target of Rs 7900: Motilal Oswal",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/buy-blue-dart-express-target-of-rs-7900-motilal-oswal-13652495.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/01/Buy-378x213.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdZbE5zVldsemRrVk1ZVXRtVFJDZkF4ampCU2dLTWdZcHBaTE5OUWM",
+   "date": "11/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-04T08:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "5 airlines sector Stocks India 2026: Strong Future Roadmaps",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/airline-stocks-india-future-roadmaps-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/airline-stocks-india-future-roadmaps-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBSM2RVUVZwMGRtTXlTV0ZaVFJDUUF4ai1CU2dLTWdZQlFZeWpuZ2s",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Blue Dart's Time-Definite Delivery Model: Building a Premium Logistics Brand in India",
+   "source": {
+    "name": "MarkHub24",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.markhub24.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.markhub24.com/post/blue-dart-s-time-definite-delivery-model-building-a-premium-logistics-brand-in-india",
+   "thumbnail": "https://static.wixstatic.com/media/8a841b_a362e05262434f5495ea679f09b6219c~mv2.jpg/v1/fill/w_963,h_537,al_c,q_85/8a841b_a362e05262434f5495ea679f09b6219c~mv2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9TRTQ1ZEVsMFJuRm5abHBvVFJDb0FSaXRBaWdCTWdrQkFJS29LT1BBMUFB",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Blue Dart Express - Vardhman Textiles among 4 stocks showing bullish RSI upswing",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/vardhman-textiles-among-4-stocks-showing-bullish-rsi-upswing/blue-dart-express/slideshow/133695978.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133696009,width-480,height-360,imgsize-1971742,resizemode-75/trend-watch.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUbEZ2Ym5aTE9WYzJkMjlYVFJEb0FoamdBeWdLTWdhMUlJeXhHQVU",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Blue Dart Express shares rally 13%. What’s driving the frenzy?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/blue-dart-express-shares-rally-13-whats-driving-the-frenzy/articleshow/124891923.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-124891894,width-1200,height-900,resizemode-4,imgsize-11806/blue-dart-express-shares-rally-13-whats-driving-the-frenzy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjMmt5VmtWNVdWazRiREo2VFJEZ0F4aUFCU2dLTWdrQm9KUWpPaWM5N3dF",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Stocks to buy in 2026 for long term: Crompton Greaves, Blue Dart among 5 stocks that could give 10-20% return",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kshitij Anand"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-crompton-greaves-blue-dart-among-5-stocks-that-could-give-10-20-return/brokerage-recommendations/slideshow/131106286.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131106286,width-480,height-360,imgsize-33044,resizemode-75/brokerage-recommendations.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhhVGhIU21OWVkxWkZWRGhyVFJEbkFoamdBeWdLTWdZQlVveHVLUWM",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "VRL Logistics, Avalon Technologies, Blue Dart Shares In Focus As Motilal Oswal Stays Bullish After Q1— Check Target Prices",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Motilal Oswal"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/vrl-logistics-blue-dart-avalon-technologies-post-strong-q1-motilal-oswal-sees-upside-across-all-three-stocks-check-target-prices-11872769",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/ipanfu3s_stocks_625x300_06_August_26.png?im=FitAndFill,algorithm=dnn,width=400,height=225&q=70",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdkWE5ZZEc1VE4wNWpPRUpMVFJEaEFSaVFBeWdLTWdtQmtJcXNzU2ZCc0FF",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Relief for Blue Dart Express Unit; ₹420.14-Crore GST Demand Dropped",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/blue-dart-expresss-share-price-unit-relief-gst-demand-of-rs-420-14-crore-dropped-ws-l-19810499.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2022/10/bluedart-shutterstock.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XSEZQWkV4dVoxRmlYekpWVFJDZkF4ampCU2dLTWdhaGM0NXRyUVk",
+   "date": "12/31/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-31T08:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Blue Dart Express Reports Record 14,000 Tonnes Daily Cargo Movement in 2025 Annual Trends Report",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/blue-dart-express-reports-record-14-000-tonnes-daily-cargo-movement-in-2025-annual-trends-report/29767335",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-reports-record-14-000-tonnes-daily-cargo-movement-in-2025-annual-trends-report.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZNMDFZYjNGWWNDMUlZbTlVVFJDdEF4akxCU2dLTWdB",
+   "date": "01/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-12T08:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Upcoming dividends, rights issue: Hindustan Copper, Blue Dart, Dilip Buildcon, others in focus; check full list",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/upcoming-dividends-rights-issue-this-week-hindustan-copper-blue-dart-dilip-buildcon-others-in-focus-check-full-list/article-200231/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/dividend-stocks-apl-apollo-globus.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHROV2N6VjBsc2VXdDRNMWh5VFJDZkF4ampCU2dLTWdhUk1aUnR0UVk",
+   "date": "09/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-13T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Blue Dart, Adani Green, M&M Fin rise up to 12% on strong Q2 results, positive brokerage outlook",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/blue-dart-adani-green-m-m-fin-rise-up-to-12-on-strong-q2-results-positive-brokerages-13638678.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251029012833_Sensex_up_higher.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVaa3BVVEdNek9HSnBSRGhCVFJDZkF4ampCU2dLTWdhQlVZSUFvd2s",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Blue Dart Shares Jump After Tax Demand Cut, Price Hike",
+   "source": {
+    "name": "BW Businessworld",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businessworld.in/article/blue-dart-shares-jump-after-tax-demand-cut-price-hike-585562",
+   "thumbnail": "https://static.businessworld.in/Blue%20Dart_Logo_20250807184005_original_image_48.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlWHBUYUZneVZrdEtWV2h4VFJDdkF4aklCU2dLTWdZTm9wUUd1UVk",
+   "date": "01/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-01T08:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Stocks to Watch: Vodafone Idea, Blue Dart Express, RBL Bank, Hyundai and more",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/photos/market/stocks-to-watch-vodafone-idea-blue-dart-express-rbl-bank-hyundai-and-more-ws-l-19810542.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/01/shutterstock-2284816185-2025-01-000f14d4f4ad0d001468a8adbc60dbbc-scaled.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXROVGxYVXpjeVVtNXdhbll6VFJDZkF4ampCU2dLTWdhVmtvZ3NRUVU",
+   "date": "12/31/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-31T08:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Best Multibagger Logistics Stocks in India 2026: Top Picks",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/multibagger-logistics-stocks",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Best-Multibagger-Logistics-Stocks-in-India-2026-Top-Picks.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNWSFJ6VlUxUUxUVnpTVTVXVFJDZUF4amxCU2dLTWdhcE5JRE5tUWs",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Blue Dart Express Outlines Business Strategy: Focus on Margins, E-commerce, and Capital Expenditure",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/blue-dart-express-outlines-business-strategy-focus-on-margins-e-commerce-and-capital-expenditure/23773739",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-outlines-business-strategy-focus-on-margins-e-commerce-and-capital-expenditure.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdNWGxGT0hwc1NWVjNPRGcyVFJDdEF4akxCU2dLTWdB",
+   "date": "11/03/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-03T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Q4 results: Blue Dart, Birla Corp, and Affle 3I among 33 firms on May 9",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apexa Rai"
+    ]
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/q4-results-blue-dart-birla-corp-and-affle-3i-among-33-firms-on-may-9-126050900133_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/19/full/1763574142-8297.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5WMnRzZFZscGRVSkdVWEJMVFJEREF4aW9CU2dLTWdZQllvQUxLZ2M",
+   "date": "05/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-09T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "COMMENTARY: India's stock rally hides slew of potential year-end bargains",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Manishi Raychaudhuri"
+    ]
+   },
+   "link": "https://www.reuters.com/markets/asia/indias-stock-rally-hides-slew-potential-year-end-bargains-2025-12-23/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/3X55OSEP4NLI3AGAOFQPCBR2JA.jpg?auth=e6641727a9f5d0f52c17db27dac2d9c8c0392a002ce8a31d3a73e7a134a437e1&width=480&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlhWFJXWjFwNVpWTnhSWE5zVFJEQUFoamdBeWdLTWdhSlVJN0dIZ1U",
+   "date": "12/22/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-22T08:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Stocks to Watch Today: Jindal Poly Films, NBCC, NCC, Berger Paints, Hyundai Motor India, Blue Dart, Adani...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-jindal-poly-films-nbcc-ncc-berger-paints-hyundai-motor-india-blue-dart-adani-enterprises-in-focus-on-1-january-13751877.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251219012057_market_stocks_sensex_Nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhNRmRaWDFRNWRFaERUblE1VFJDZkF4ampCU2dLTWdZQm9JaEhTZ1E",
+   "date": "01/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-01T08:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Blue Dart Express Q2 Results 2025 Highlights: Net Profit Rises by 29.50% & Revenue Up 6.96% YoY",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blue-dart-express-q2-results-2025",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2025/10/29170312/Blue-Dart-Express-Q2-Results-2025-Net-Profit-Rises-29.50-YoY.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVNazVOYUVkTldFRjFSM3BGVFJDUUF4ai1CU2dLTWdB",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "BLUEDART Historical Data",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/historical-data/bluedart",
+   "date": "09/08/2025, 04:59 AM, +0000 UTC",
+   "iso_date": "2025-09-08T04:59:08Z"
+  },
+  {
+   "position": 91,
+   "title": "Dividend stocks this week, record date: Hindustan Copper, Cochin Shipyard, Balu Forge, IRCON, Karnataka Bank and more",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/dividend-stocks-this-week-record-date-hindustan-copper-cochin-shipyard-balu-forge-ircon-karnataka-bank-and-more-11789356047257.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/dividend_stocks_this_week_1789357690068_d22050f4-e0f4-425a-837f-7f6b25aa51d0_1789357696110_1e9bbc3c-e9fe-416a-9d34-54bf02cc8cb4_9651c776-3fc2-4037-93f9-cdca113a29df_49409996-eec9-4dd2-ac63-02ff60075829.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSV1pxZUcwMlJIRkxiMWx4VFJDZkF4amlCU2dLTWdZRk1ZcGtHUWc",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Blue Dart Express Ltd. Announces Q2FY26 Financial Results with Sales Clocking at Rs. 1,549 Crore",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/content/press-releases-ani/blue-dart-express-ltd-announces-q2fy26-financial-results-with-sales-clocking-at-rs-1-549-crore-125102901052_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/29/full/20251029164436.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJVWFZNZVhObE4xSTVlRXh3VFJEZ0F4aUFCU2dLTWdZQm9aVEVPQWM",
+   "date": "10/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-30T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Blue Dart Express sees steepest rally in 6 months; up 10% on price hike",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/blue-dart-express-sees-steepest-rally-in-6-months-up-10-pc-on-price-hike-125093000237_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1633008949-7976.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTJVRVZRT0RsWFlVSk9SbXBUVFJEUUF4anNCQ2dLTWdB",
+   "date": "09/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-30T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Blue Dart's 70kg Appliance Shipment Vanishes in 10-Day Delivery Fiasco",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/blue-dart-s-70kg-appliance-shipment-vanishes-in-10-day-delivery-fiasco/24052883",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-s-70kg-appliance-shipment-vanishes-in-10-day-delivery-fiasco.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXJXVmgzVldwdlpTMDFTMmhYVFJDdEF4akxCU2dLTWdB",
+   "date": "11/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-07T08:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Blue Dart shares rise 2% as Goldman Sachs maintains 'buy', sees 22% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/blue-dart-shares-rise-2-as-goldman-sachs-maintains-buy-sees-22-upside-12930865.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/07/BlueDart.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRabU5uVm1GVmNHcFpWa0ZFVFJDZkF4ampCU2dLTWdhQlU0NkVQZ1k",
+   "date": "02/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-05T08:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Blue Dart Express shares rise up to 10% to hit two-month high as firm hikes avg shipment price",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/blue-dart-express-shares-rise-up-to-10-to-hit-two-month-high-as-firm-hikes-avg-shipment-price-13589985.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240506032316_Blue-Dart-Cover-Image-1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFMWHB1Y1VacVZXaGhkVUZQVFJDZkF4ampCU2dLTWdZTms0eXBPUVk",
+   "date": "09/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-30T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Blue Dart Express to increase shipment prices by 9-12% starting January 2026; check details",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/blue-dart-express-to-increase-shipment-prices-by-9-12-starting-january-2026-check-details/article-182162/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/blue-dart-express-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpXRXR0U0hVelpFaDRWV3R3VFJEZ0F4aUFCU2dLTWdZQmNvcUJMZ2c",
+   "date": "09/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-29T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Blue Dart Express shares slide 6% after Q4 results; Profit falls 29%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/blue-dart-express-shares-slide-6-after-q4-results-profit-falls-29-125052700490_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-09/30/full/1633008949-7976.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTJVRVZRT0RsWFlVSk9SbXBUVFJEUUF4anNCQ2dLTWdB",
+   "date": "05/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-27T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Blue Dart Express arm gets ₹420-crore GST demand",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/blue-dart-expresss-unit-receives-rs-420-crore-gst-demand-notice-share-price-19676469.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2022/10/bluedart-shutterstock.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5XSEZQWkV4dVoxRmlYekpWVFJDZkF4ampCU2dLTWdhaGM0NXRyUVk",
+   "date": "09/16/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-16T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Blue Dart Express Unveils Green Integrated Ground Hub in Pataudi, Boosting Efficiency and Sustainability",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/corporate-actions/blue-dart-express-unveils-green-integrated-ground-hub-in-pataudi-boosting-efficiency-and-sustainability/22067413",
+   "thumbnail": "https://news-images.dhan.co/blue-dart-express-unveils-green-integrated-ground-hub-in-pataudi-boosting-efficiency-and-sustainability.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlWbmRvTlZkV1ZpMVNkMUk0VFJDdEF4akxCU2dLTWdrQlFJWmxxV1U5c0FF",
+   "date": "10/15/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-15T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:48:58"
+}

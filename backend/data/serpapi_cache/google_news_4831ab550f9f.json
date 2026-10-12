@@ -1,0 +1,1429 @@
+{
+ "search_metadata": {
+  "id": "6ac945489d26cfc52211fa59",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/u1rOMROMRKww73VOMpjvLYsk3hpBHLefaI4EH6CUBzk/6ac945489d26cfc52211fa59.json",
+  "markdown_endpoint": "https://serpapi.com/searches/u1rOMROMRKww73VOMpjvLYsk3hpBHLefaI4EH6CUBzk/6ac945489d26cfc52211fa59.md",
+  "created_at": "2026-10-09 19:49:28 UTC",
+  "processed_at": "2026-10-09 19:49:28 UTC",
+  "google_news_url": "https://news.google.com/search?q=Pearl+Global+Industries+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/u1rOMROMRKww73VOMpjvLYsk3hpBHLefaI4EH6CUBzk/6ac945489d26cfc52211fa59.html",
+  "total_time_taken": 1.14
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Pearl Global Industries share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Pearl Global Industries (NSE:PGIL): What Is the Special Window for Physical Share Transfer?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/pearl-global-industries-nsepgil-what-is-the-special-window-for-physical-share-transfer",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/default_image/3d35f32e-d7ad-4c89-8347-404f161e1868.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVMGR5WldWeGEzRm1ORkZCVFJERUF4aW5CU2dLTWdrVmdveUp3V1ZGN1FF",
+   "date": "10/09/2026, 11:25 AM, +0000 UTC",
+   "iso_date": "2026-10-09T11:25:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Pearl Global Industries (NSEI:PGIL) Stock Forecast & Analyst Predictions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/future",
+   "thumbnail": "https://images.simplywall.st/asset/chart/28750188-earnings-and-revenue-growth-1-dark-2/1763173008041",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5kMGhPWkdGNE4xVlRZME5MVFJDekFSaVpBaWdCTWdZNUFaUzBpQXM",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Pearl Global Industries Ltd Dividend History, Yield & Record Date",
+   "source": {
+    "name": "INDmoney",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.indmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indmoney.com/stocks/dividend/pearl-global-industries-ltd-dividend",
+   "thumbnail": "https://indcdn.indmoney.com/cdn-cgi/image/quality=90,format=auto,metadata=copyright,width=500/https://indcdn.indmoney.com/public/images/instocks/1X/INDS03477.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBaVVU0WlVsaU9HOVlSRGRHVFJEQUFSakFBU2dLTWdhTm9aVElPQWM",
+   "date": "10/01/2026, 10:31 AM, +0000 UTC",
+   "iso_date": "2026-10-01T10:31:09Z"
+  },
+  {
+   "position": 4,
+   "title": "Pearl Global Industries soars 15% in 2 days, hits new high; here's why",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/pearl-global-industries-soars-15-in-2-days-hits-new-high-here-s-why-126092300616_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2015-01/22/full/1421932358-2535.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUlaMUZmWlZsdlRVVmxNamR1VFJDakFSamFBU2dLTWc0QkVJRG11Q0xRTWFrZWs3NjBCdw",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Pearl Global Industries - MFs kept buying these 10 microcaps for 2 straight quarters; stocks surge up to 70% in 3 months",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/mfs-kept-buying-these-10-microcaps-for-2-straight-quarters-stocks-surge-up-to-70-in-3-months/pearl-global-industries/slideshow/134729491.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134730010,width-480,height-360,imgsize-64112,resizemode-75/microcaps-gain-momentum.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlXV2hqYkhwS1ptVlhabEJLVFJEb0FoamdBeWdLTWdtQklZd1BzZWFLendF",
+   "date": "10/06/2026, 09:20 AM, +0000 UTC",
+   "iso_date": "2026-10-06T09:20:49Z"
+  },
+  {
+   "position": 6,
+   "title": "Pearl Global Industries Share Price Today: Fundamental View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pearl-global-industries-ltd-share-price-price-rise-2026-09-16",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Pearl_Global_Industries_Ltd_PGIL_Pearl_Global_Industries_Share_Price_Rises_68_Today_to_Rs_1215_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjVGg0UVRkeU5WOTVVbTVqVFJDUUF4ai1CU2dLTWdZQlFJakRuZ2s",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Pearl Global Industries Ltd. Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42459/pearl-global-industries-ltd/key-ratios/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/pgil.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjbVZSWW1GVGFHTklVbGhFVFJDa0FSaklBU2dCTWdZVm80eEx2UVE",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Pearl Global Industries hosts Investor Day 2026 on September 24",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-hosts-investor-day-2026-september-24/49993751",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-hosts-investor-day-2026-september-24.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVlbmR3UzJrM2JtdHpZV0pPVFJDZkF4ampCU2dLTWdrQnBJb2pTeVYwemdF",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "1689% return in 5 years! Multibagger stock gets 'buy' tag from PL Capital | Target price, rationale",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/1670-return-in-5-years-multibagger-stock-gets-buy-tag-from-pl-capital-target-price-rationale-11790338487601.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/multibagger_sto_k_1790360837319_nYMa_1790360864870_M279_1584ee59-f762-4b66-af24-aa8d683e69f5_NSXc.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9kMUJSVEdKMFFXeHBjRGRTVFJDZkF4ampCU2dLTWdZRkFZcGxqUWc",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Pearl Global shares rise 6% on receiving 'Buy' rating post analyst meet; target price",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/trending-stocks/story/pearl-global-shares-rise-6-on-receiving-buy-rating-post-analyst-meet-target-price-557811-2026-09-25",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab6207837598-pearl-global-industries-shares-rose-612-on-friday--hitting-a-high-of-rs-1-353--compared-with-the-p-251918974-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxNek4xV2tOU1QzVlhiMHBRVFJDZkF4ampCU2dLTWdrQlFZeXpvQ2RzclFF",
+   "date": "09/25/2026, 07:28 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:28:46Z"
+  },
+  {
+   "position": 11,
+   "title": "PGIL 52 Week High Streak: Price, Sector, Valuation View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pearl-global-industries-ltd-share-near-52-week-consecutive-high-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/pearl-global-industries-ltd-pgil-pearl-global-industries-52-week-high-streak.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRjbEJxZFVwNWVHTnlOMHRDVFJDUUF4ai1CU2dLTWdrQk1acmpucWt0aGdJ",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Pearl Global uploads transcript of September 24 investor day",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-uploads-investor-day-2026-presentation-website/51793701",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-uploads-investor-day-2026-presentation-website.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVFkR1kzWVZWRVZIZEpkRVUxVFJDaUF4amRCU2dLTWdNQkl3dw",
+   "date": "09/24/2026, 11:11 AM, +0000 UTC",
+   "iso_date": "2026-09-24T11:11:57Z"
+  },
+  {
+   "position": 13,
+   "title": "Pearl Global Industries Limited Just Recorded A 12% Revenue Beat: Here's What Analysts Think",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/news/pearl-global-industries-limited-just-recorded-a-12-revenue-b",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4131000-choice2-main-header/1585186733037?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjakJGYmpaMVRHeFBlbFZTVFJDZkF4ampCU2dLTWdtQklJaXlGQ1hvN3dB",
+   "date": "08/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-08T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Pearl Global Industries Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42459/pearl-global-industries-ltd/peer-comparison/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/pgil.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjbVZSWW1GVGFHTklVbGhFVFJDa0FSaklBU2dCTWdZVm80eEx2UVE",
+   "date": "09/01/2026, 11:21 PM, +0000 UTC",
+   "iso_date": "2026-09-01T23:21:55Z"
+  },
+  {
+   "position": 15,
+   "title": "Pearl Global Industries (NSE: PGIL) Expands Bangladesh Apparel Capacity",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/consumer/pearl-global-industries-nse-pgil-expands-bangladesh-manufacturing-capacity-to-108-million-pieces-annually",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/featured_image/84e94970-a7cb-4723-9995-849fff8ccaad-24682.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVaM2RNU2kwdGNVaHRVWGcxVFJERUF4aW5CU2dLTWdZQkFJeW9sZ3M",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Godfrey Phillips India vs Technocraft Industries vs Pearl Global: Which Stock Should You Track",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/godfrey-phillips-india-vs-technocraft-industries-vs-pearl-global",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/godfrey-phillips-india-vs-technocraft-industries-vs-pearl-global-which-stock.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiRkl0VlVaYVNHOHRRMk52VFJDUUF4ai1CU2dLTWdZQk1JU2pHZ28",
+   "date": "09/30/2026, 04:42 AM, +0000 UTC",
+   "iso_date": "2026-09-30T04:42:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Pearl Global Industries schedules analyst plant visit on Sep 22-23, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-schedules-analyst-plant-visit-sep-22-23-2026/51108085",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-schedules-analyst-plant-visit-sep-22-23-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNUME54T1RFM1MyVXdWMHR0VFJDaUF4amRCU2dLTWdZQmtJdzZPQVk",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Pearl Global Industries Ltd. Share Price at 52-Week Low",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pearl-global-industries-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Pearl_Global_Industries_Ltd_PGIL_Share_Price_Hits_Fresh_52_Week_Low_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVPWE5PWTJoRk1pMVRlbkp6VFJDUUF4ai1CU2dLTWdZQlFJd0Nud2s",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Pearl Global adds 7 million pieces capacity with new Bangladesh facility",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-expands-bangladesh-facility-capacity-108-million-pieces/51614950",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-expands-bangladesh-facility-capacity-108-million-pieces.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1XbXg1YTNOdlRWOTZOWEpQVFJDaUF4amRCU2dLTWdNQnNBdw",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Pearl Global Industries allots 1:1 bonus shares with Sept 11 record date",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-allots-1-1-bonus-shares-sept-11-record-date/50991163",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-allots-1-1-bonus-shares-sept-11-record-date.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVJhRlI2VldsUGRqTjRjRTA0VFJDaUF4amRCU2dLTWdzQklJYUpwT1c1Yi1rUXVn",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Pearl Global commissions new garment manufacturing unit in Bangladesh",
+   "source": {
+    "name": "Fibre2Fashion",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.fibre2fashion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fibre2fashion.com/news/apparel-news/pearl-global-commissions-new-garment-manufacturing-unit-in-bangladesh-313681-newsdetails.htm",
+   "thumbnail": "https://static.fibre2fashion.com/Newsresource/images/313/shutterstock-1660073851_325258.jpg?tr=w-710,h-450,c-at_max,cm-pad_resize",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxkMk16T1ZKSVQzbE1VRVZxVFJDNUF4aTRCU2dLTWdrTklJeG5uV2RGYVFJ",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Pros and Cons of Pearl Global Industries Share 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-and-cons-of-investing-in-pearl-global-industries-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-and-cons-of-investing-in-pearl-global-industries-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFNV00xYW01U1V6SjNVSGRwVFJDUUF4ai1CU2dLTWdZQlFKS2tuZ2s",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "1670% return in 5 years! Multibagger stock gets 'buy' tag from PL Capital | Target price, rationale",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:cda87a9837458:0-1670-return-in-5-years-multibagger-stock-gets-buy-tag-from-pl-capital-target-price-rationale/",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Pearl Global Industries Q1FY27 revenue up 24.5% to record ₹1,528 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-q1-results-earnings-call-recording-uploaded/47576433",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-q1-results-earnings-call-recording-uploaded.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBaRVphUkhVMkxVMW5kM2hpVFJDZkF4ampCU2dLTWdrQkVJVGxsU1dERlFF",
+   "date": "08/06/2026, 04:24 PM, +0000 UTC",
+   "iso_date": "2026-08-06T16:24:50Z"
+  },
+  {
+   "position": 25,
+   "title": "Pearl Global Industries seeks approval for 1:1 bonus shares and director appointment",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-appoints-sandeep-vohra-as-whole-time-director/47549068",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-appoints-sandeep-vohra-as-whole-time-director.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSMjFaYzBGbk5tTXphbmx0VFJDaUF4amRCU2dLTWdZRk1JYlJOQVE",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Pearl Global publishes Q1FY27 financial results in Business Standard",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-q1-results-net-profit-rises-51-yoy-to-99-23-crore/47498274",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-q1-results-net-profit-rises-51-yoy-to-99-23-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU1lbloyV2xkdmExWldYeTFLVFJDaUF4amRCU2dLTWdNRmN3NA",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Buy Pearl Global Industries; target of Rs 2333: Prabhudas Lilladher",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-pearl-global-industries-target-of-rs-2333-prabhudas-lilladher-13997512.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRWcyYm5NMGIxZEVjM3BZVFJDZkF4ampCU2dLTWdZTmdJZ29PUVk",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Pearl Global Industries Share Price Today: PGIL up 6.44%",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-pearl-global-industries-ltd-share-price-price-rise-2026-08-31",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/Pearl_Global_Industries_Ltd_PGIL_Pearl_Global_Industries_Share_Price_rises_644_as_PGIL_gains_today_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdZVzFPWW1wdVNDMUxjbTl4VFJDUUF4ai1CU2dLTWdZQk1JVERuZ2s",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Pearl Global Industries Q2 FY27: Date and Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/pearl-global-industries-q2-results-fy27-preview-date-expectations",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/pearl-global-industries-q2-results-fy27-preview-date-expectations.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpRWGwwY2tGUVYzaHhWekV3VFJDUUF4ai1CU2dLTWdhQk1KU2puZ2s",
+   "date": "09/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-10T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Pearl Global Industries Ltd Share Price Today NSE/BSE Charts",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/investment/stocks/pearl-global-industries-ltd",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=%2Fnew-landing%2Fbg-mandala-new.webp&w=3840&q=90",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlMV2t6VDFOM2JHMTRlSFUyVFJEV0F4aU1CU2dLTWdPWkF4WQ",
+   "date": "09/01/2026, 09:14 AM, +0000 UTC",
+   "iso_date": "2026-09-01T09:14:19Z"
+  },
+  {
+   "position": 31,
+   "title": "Pearl Global share price hits record high after Q1 earnings beat and 1:1 bonus issue proposal",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/business-news/pearl-global-hits-record-high-after-q1-earnings-beat-11-bonus-issue-proposal/152553",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2021-12/cfcd4d25-c700-461f-b7bb-5dc37228b896/Textile.jpg?w=640&auto=format,compress&q=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkR1pQTm5WdlFUQmplakk0VFJDSEF4aUFCU2dLTWdhSllvWVRyUWM",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Pearl Global Industries Share Price Rise in Textile Sector",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-pearl-global-industries-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Pearl_Global_Industries_Ltd_PGIL_Pearl_Global_Industries_share_price_rises_509_as_textile_stock_gains_today_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJiVmxqYkhKMUxVdFRjVTVhVFJDUUF4ai1CU2dLTWdZQlFJcmltZ2s",
+   "date": "09/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-08T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Buy Pearl Global Industries; target of Rs 2800: Emkay Global Financial",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-pearl-global-industries-target-of-rs-2800-emkay-global-financial-14012285.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRWcyYm5NMGIxZEVjM3BZVFJDZkF4ampCU2dLTWdZTmdJZ29PUVk",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Buy Pearl Global Industries; target of Rs 2070: Prabhudas Lilladher",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-pearl-global-industries-target-of-rs-2070-prabhudas-lilladher-13943398.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260204074620_Buy_1280x720_1.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBiV0pWY2s1WlUyWmlkV05aVFJDZkF4ampCU2dLTWdtWlFvQklUdU5MeWdF",
+   "date": "06/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "India's Pearl Global reports highest-ever quarterly revenue in Q1 FY27",
+   "source": {
+    "name": "Fibre2Fashion",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.fibre2fashion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fibre2fashion.com/news/company-reports-news/india-s-pearl-global-reports-highest-ever-quarterly-revenue-in-q1-fy27-312411-newsdetails.htm",
+   "thumbnail": "https://static.fibre2fashion.com/Newsresource/images/312/shutterstock-2761019751_323988.jpg?tr=w-710,h-450,c-at_max,cm-pad_resize",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZSMFJRUzIxb1FVdHhSa0Z4VFJDNUF4aTRCU2dLTWdhSkU0N25HUWM",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Pearl Global Industries Stock And 2 Indian Export Picks After The India UK Trade Deal",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/news/pearl-global-industries-stock-and-2-indian-export-picks-afte",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4131000-choice2-main-header/1585186733037?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjakJGYmpaMVRHeFBlbFZTVFJDZkF4ampCU2dLTWdtQklJaXlGQ1hvN3dB",
+   "date": "07/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-12T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Pearl Global Industries Reports Record Q1 Revenue, Profit on Strong Export Growth | Manufacturing News India",
+   "source": {
+    "name": "Apparel Resources",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apparelresources.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://apparelresources.com/business-news/manufacturing/pearl-global-industries-reports-record-q1-revenue-profit-strong-export-growth/",
+   "thumbnail": "https://apparelresources.com/wp-content/uploads/2026/08/Pearl-Global-Industries-Reports-Record-Q1-Revenue-Profit-on-Strong-Export-Growth.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdUMUYwT0hSTFZVSlRVM1p3VFJDZkF4ampCU2dLTWdhdFZaTE9wUWc",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "First-Ever 1:1 Bonus Issue: Goldman Sachs Held Multibagger Small-Cap Textile Stock Announces Bonus Shares",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/first-ever-11-bonus-issue-goldman-sachs-held-multibagger-small-cap-textile-stock-announces-bonus-shares-58816",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F58816%2FBonus-Shares.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZVa1Y1V1RWTFZuQldPRloxVFJDUUF4al9CU2dLTWdZUklvaEpJUVk",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Pearl Global Industries Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42459/pearl-global-industries-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/pgil.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjbVZSWW1GVGFHTklVbGhFVFJDa0FSaklBU2dCTWdZVm80eEx2UVE",
+   "date": "09/02/2026, 08:28 AM, +0000 UTC",
+   "iso_date": "2026-09-02T08:28:01Z"
+  },
+  {
+   "position": 40,
+   "title": "Pearl Global Industries - 13 smallcap stocks see MF buying for 4 straight quarters; shares rally up to 103%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/13-smallcap-stocks-see-mf-buying-for-4-straight-quarters-shares-rally-up-to-103/pearl-global-industries/slideshow/132855602.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132855879,width-480,height-360,imgsize-62466,resizemode-75/bullish-bets.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRUa28xZFVwR2RqaHJkbkpVVFJEb0FoamdBeWdLTWdhUmM1QlJKUWc",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Pearl Global Industries Ltd. Share Price at 52-Week High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pearl-global-industries-ltd-share-price-52-week-high-2026-08-07",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/Pearl_Global_Industries_Ltd_PGIL_Share_Price_Hits_Fresh_52_Week_High_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhURWhMV2sweE5VZG9lVEJ6VFJDUUF4ai1CU2dLTWdZQlFJN2luZ2s",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Pearl Global Industries sets Sep 11 record date for 1:1 bonus issue",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-sets-sep-11-record-date-1-1-bonus-issue/50337144",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-sets-sep-11-record-date-1-1-bonus-issue.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkMWRZVWxwSGJHZG1lVVpIVFJDaUF4amRCU2dLTWdZbFk1U1ByUWc",
+   "date": "09/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-07T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Pearl Global Industries Q1 Results: Earnings Call Scheduled for August 6",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-q1-results-earnings-call-scheduled-for-august-6/47102381",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-q1-results-earnings-call-scheduled-for-august-6.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kR1ZMYkRJNWRVWnNNMk5qVFJDaUF4amRCU2dLTWdZSmtJcUxOUVU",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Pearl Global Industries Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42459/pearl-global-industries-ltd/company-financial/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/pgil.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjbVZSWW1GVGFHTklVbGhFVFJDa0FSaklBU2dCTWdZVm80eEx2UVE",
+   "date": "09/03/2026, 06:19 PM, +0000 UTC",
+   "iso_date": "2026-09-03T18:19:11Z"
+  },
+  {
+   "position": 45,
+   "title": "Gokaldas Exports vs Pearl Global Industries: Which Garment Exporter Stock",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lakshit Sharma"
+    ]
+   },
+   "link": "https://univest.in/blogs/gokaldas-exports-vs-pearl-global-industries-comparison",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/gokaldas-exports-vs-pearl-global-industries-comparison.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZSV0pGT0ZaS2QyZzBZWGRSVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Pearl Global Industries approves FY26 statements at 37th AGM",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-approves-financial-statements-at-37th-agm/46103086",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-approves-financial-statements-at-37th-agm.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9Xa3d3ZVV3NE9EVk9hV0oyVFJDaUF4amRCU2dLTWdrQllJaUVKbWNHaXdF",
+   "date": "07/20/2026, 02:30 PM, +0000 UTC",
+   "iso_date": "2026-07-20T14:30:28Z"
+  },
+  {
+   "position": 47,
+   "title": "Bonus Shares Alert: Pearl Global Sets Record Date For 1:1 Issue; Stock Up 75% In A Year",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/bonus-shares-alert-pearl-global-sets-record-date-for-1-1-issue-stock-up-75-in-a-year-12014186",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/5ttrspjo_bonus-shares-alert-pearl-global-sets-record-date-for-11-issue-stock-up-75-in-a-year_625x300_07_September_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9SbTB3YWxobVFURTVRMUo0VFJDZkF4ampCU2dLTWdZSm81SkpOZ2M",
+   "date": "09/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-07T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Pearl Global Industries promoter Dr. Seth sells 1.19% stake",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-promoter-dr-seth-sells-1-19-stake/49726582",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-promoter-dr-seth-sells-1-19-stake.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVNR3RZZUVaWVJsWlRTMHBoVFJDZkF4ampCU2dLTWdZUk1Zak9uQVU",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "PEARL GLOBAL Q1 REVENUE UP 24% TO RS.1528CR, PAT JUMPS 54% AND ANNOUNCES 1:1 BONUS ISSUE",
+   "source": {
+    "name": "ICICI Direct",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.icicidirect.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.icicidirect.com/research/equity/trending-news/pearl-global-q1-revenue-up-24-to-rs-1528cr-pat-jumps-54-and-announces-1-1-bonus-issue",
+   "thumbnail": "https://www.icicidirect.com/images//Pearl%20Global-202605150924317963519.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNlRmRUUlUxQmNtbHBibVZDVFJEaEFSamhBU2dLTWdZQm9KU0hPQWM",
+   "date": "08/06/2026, 08:55 PM, +0000 UTC",
+   "iso_date": "2026-08-06T20:55:49Z"
+  },
+  {
+   "position": 50,
+   "title": "Pearl Global Reports Record Quarterly Revenue and EBITDA",
+   "source": {
+    "name": "Passionate In Marketing",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.passionateinmarketing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.passionateinmarketing.com/pearl-global-industries-reports-highest-ever-quarterly-revenue-of-inr-1528-crore-and-ebitda-of-inr-164-crore-at-10-7-margin/",
+   "thumbnail": "https://pimwp.s3-accelerate.amazonaws.com/2026/08/Pearl-Global.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXWEkxVDJGYVVubE9NbFJRVFJDZkF4ampCU2dLTWdZTmtwUUpOUWM",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Pearl Global Industries Ltd leads gainers in 'A' group",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/pearl-global-industries-ltd-leads-gainers-in-a-group-126062400396_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Pearl Global Industries Q1 results FY27: Order book sparks record jump",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/pearl-global-q1-results-fy27",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F08%2F07120116%2Fpearl-global-industries-q1-results-fy27-order-book-sparks-record-jump.png&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTBOVWxRWjFkMFZIbEtVV0V4VFJDb0FSaXNBaWdCTWdB",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "PGIL shares zoom over 12% to hit record high; here's why",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/pgil-shares-zoom-over-12-to-hit-record-high-heres-why-538901-2026-06-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3b89afd8a4a-mofsl-expects-higher-revenue-growth-for-pearl-global--driven-by-capacity-expansion-across-plants-in-243922528-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlSbTF0ZERkbVoyVmFTVEZ1VFJDZkF4ampCU2dLTWdZQmtZcUZQZ1U",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Pearl Global Shares Surge 75%, But Can Premiumisation and Capacity Expansion Justify the Next Leg of Growth?",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anirudh Saligrama"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/business/pearl-global-shares-surge-75-but-can-premiumisation-and-capacity-expansion-justify-the-next-leg-of-growth-11970409",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/850dnd0c_pearl-global_625x300_28_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpVRUpUV1dwUE4wRnJTVU5oVFJDZkF4ampCU2dLTWdhRlVwZ25xZ2M",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Pearl Global Share Price Today, Pearl Global Stock Price Live NSE/BSE Updates",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/pearl-global-industries-ltd/stocks/companyid-18329.cms?frmapp=yes",
+   "date": "05/14/2026, 08:39 AM, +0000 UTC",
+   "iso_date": "2026-05-14T08:39:59Z"
+  },
+  {
+   "position": 56,
+   "title": "Buy Pearl Global Industries Ltd for the Target Rs 2,800 by Emkay Global Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-pearl-global-industries-ltd-for-the-target-rs-2-800-by-emkay-global-financial-services-ltd100750",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Pearl%20Global%20Industries.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRbEpVVFV4b00wb3RiR1IxVFJDOEFSaU1BaWdCTWdhbGRKQ3V0UVk",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Pearl Global Industries Delivers Record Quarterly Revenue of ₹1,528 Crore",
+   "source": {
+    "name": "Machine Maker",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://themachinemaker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://themachinemaker.com/news/pearl-global-industries-delivers-record-quarterly-revenue-of-%E2%82%B91528-crore/",
+   "thumbnail": "https://themachinemaker.com/wp-content/uploads/2026/02/Pulkit-Seth-Vice-Chairman-and-Non-Executive-Director.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhlREpWV1dSdFVqYzBia2xhVFJERUF4aW1CU2dLTWdZdFpZcXVMUVk",
+   "date": "08/07/2026, 01:45 PM, +0000 UTC",
+   "iso_date": "2026-08-07T13:45:07Z"
+  },
+  {
+   "position": 58,
+   "title": "Pearl Global Industries to hold analyst meetings in Mumbai",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-to-attend-analyst-meetings-in-mumbai/44276274",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-to-attend-analyst-meetings-in-mumbai.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRXRmhWUm1WTVpVNXJkbmM1VFJDaUF4amRCU2dLTWdrQkFZUW1pV0xRZ3dJ",
+   "date": "06/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-29T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Pearl Global Industries Limited (NSE:PGIL) Looks Interesting, And It's About To Pay A Dividend",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/news/pearl-global-industries-limited-nsepgil-looks-interesting-an",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4131000-choice2-main-header/1585186733037?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjakJGYmpaMVRHeFBlbFZTVFJDZkF4ampCU2dLTWdtQklJaXlGQ1hvN3dB",
+   "date": "05/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-17T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Pearl Global Industries Allots 13,600 Equity Shares Under ESOP Plan 2022",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-allots-13-600-equity-shares-under-esop-plan-2022/39771046",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-allots-13-600-equity-shares-under-esop-plan-2022.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFPVGt6Tld4bWFtRm5abmN6VFJDdEF4akxCU2dLTWdB",
+   "date": "05/08/2026, 07:37 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:37:22Z"
+  },
+  {
+   "position": 61,
+   "title": "Pearl Global sees strong order momentum as demand stays healthy",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mangalam Maloo"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/business/companies/pearl-global-order-book-growth-plans-capacity-expansion-global-demand-us-trade-tariffs-geopolitical-tensions-19926909.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/cloths-garments-jun17-2026-06-10ea21512bed45e9eeaa7d32eed19f16.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZObE5qWjFaYVVuQk5NVGgxVFJDZkF4ampCU2dLTWdZVkFJNlBDQWM",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Neha Khanna ceases as Independent Director at Pearl Global Industries",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/neha-khanna-ceases-as-independent-director-at-pearl-global-industries/43516772",
+   "thumbnail": "https://news-images.dhan.co/neha-khanna-ceases-as-independent-director-at-pearl-global-industries.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVka0Z3VG14TGNUWlJNRTVaVFJDaUF4amRCU2dLTWdrQklJaUFwR1E4NVFJ",
+   "date": "06/20/2026, 04:05 PM, +0000 UTC",
+   "iso_date": "2026-06-20T16:05:41Z"
+  },
+  {
+   "position": 63,
+   "title": "Stocks To Buy: ICICI Bank, Deepak Nitrite, Pearl Global, Oriental Hotels Fundamental & Technical Picks",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pooja Jaiswar"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/stocks-to-buy-icici-bank-deepak-nitrite-pearl-global-oriental-hotels-fundamental-technical-picks-1517255.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/stockstobuythisweek1-1782114656.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDBTMUZWUldwc2FWTjZNa2cyVFJDRUF4allCQ2dLTWdzQkVJWkhHU2JKcG1vTG9n",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Pearl Global Industries - Goldman Sachs’ India bets: 8 stocks rally up to 85% in CY26; one new addition",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/pearl-global-industries/slideshow/132030852.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132030875,width-1200,height-900,resizemode-4/markets/stocks/news/goldman-sachs-india-bets-8-stocks-rally-up-to-85-in-cy26-one-new-addition/mixed-stock-performance.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjMFpLZDNoaldscFFjM0EwVFJEZ0F4aUFCU2dLTWdhUklJenBNUVU",
+   "date": "06/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-27T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Up to 42% upside! 9 stocks Jefferies, Motilal Oswal, others started coverage on. Do you own any?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/up-to-42-upside-9-stocks-jefferies-motilal-oswal-others-started-coverage-on-do-you-own-any/pearl-global-industries/slideshow/132006638.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132006673,width-480,height-360,imgsize-27060,resizemode-75/brokerages-bets.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOVEpCUzBkaWFHeHlMVmMyVFJEbUFoamdBeWdLTWdZQllvNVFMUWM",
+   "date": "06/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Pearl Global Industries Submits Promoter Declaration Under SEBI Takeover Regulations for FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-submits-promoter-declaration-under-sebi-takeover-regulations-for-fy26/39651306",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-submits-promoter-declaration-under-sebi-takeover-regulations-for-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxlVVJwUmtnMVdGSkZkbmxMVFJDdEF4akxCU2dLTWdNQlVBdw",
+   "date": "05/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-06T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Pearl Global Industries director resigns effective June 06, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-director-resigns-effective-june-06-2026/42299647",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-director-resigns-effective-june-06-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUViRVptTTBnemVrVnFPRjlSVFJDaUF4amRCU2dLTWdtQkVZanN2Q1c0SlFJ",
+   "date": "06/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-06T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "KPR Mill, Gokex, Indo Count, Pearl Global, Welspun Living shares; see targets for these textile stocks",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/kpr-mill-gokex-indo-count-pearl-global-welspun-living-shares-see-targets-for-these-textile-stocks-538864-2026-06-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3b73344d50d-according-to-mofsl--arvind-is-on-the-verge-of-a-strategic-transformation-from-a-fabric-focused-playe-240326390-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1ObTAzT1U5Q2VqSnRVM1pUVFJDZkF4ampCU2dLTWdrWllZNHZNU1k5aWdJ",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Ambika Cotton, Ather Ind, Pearl Global: Bonanza bullish on these 3 stocks",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/ambika-cotton-mills-ather-industries-pearl-global-industries-bonanza-is-bullish-on-these-3-stocks-here-s-why-126062500116_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-04/28/full/1651167489-4558.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhhVUo1WmpZM09VSjFSRUpSVFJEUUF4anNCQ2dLTWdtQk00YnBKV2U1VHdF",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Pearl Global clears ₹5,000 crore revenue mark, posts record profit in FY26",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/companies/pearl-global-clears-5000-crore-revenue-mark-posts-record-profit-in-fy26/article70982765.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/goc00b/article70982953.ece/alternates/LANDSCAPE_1200/PO07_Analysing.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhRMVoxWmtkZmNVRkZhbFV0VFJDZkF4ampCU2dLTWdZTk1JUkdTZ00",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Multibagger small-cap stock Pearl Global surges 14% to 3-month high after Q4 results",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-small-cap-stock-pearl-global-surges-14-to-3-month-high-after-q4-results-11778834694150.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/15/1600x900/logo/gf95cd2fc2cf3b9572d4035f0697f27168f88ec86ed2babecb_1712294766794_1778834691827_37f080f6-892d-487b-a9e6-102b1fe4f27c.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhRVlpMYkZablNtWjJkVFZaVFJDZkF4ampCU2dLTWdtQkFJUXdvU1ZzOVFB",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Pearl Global announces 1:1 bonus issue | Tap to know more | Inshorts",
+   "source": {
+    "name": "Inshorts",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://inshorts.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://inshorts.com/en/news/pearl-global-announces-1-1-bonus-issue-1786003250732",
+   "thumbnail": "https://media.inshorts.com/inshorts/images/v1/variants/jpg/m/2026/08_aug/06_thu/img_1786003232464_485.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVYMUpHVEZST1RVSlZXSFF3VFJDUUF4al9CU2dLTWdB",
+   "date": "08/06/2026, 02:10 PM, +0000 UTC",
+   "iso_date": "2026-08-06T14:10:16Z"
+  },
+  {
+   "position": 73,
+   "title": "Buy Pearl Global Ltd for the Target Rs 2,650 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-pearl-global-ltd-for-the-target-rs-2-650-by-motilal-oswal-financial-services-ltd631992",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Pearl%20Global%20Industries.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJRbEpVVFV4b00wb3RiR1IxVFJDOEFSaU1BaWdCTWdhbGRKQ3V0UVk",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "India's Pearl Global's FY26 revenue crosses $521 mn milestone",
+   "source": {
+    "name": "Fibre2Fashion",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.fibre2fashion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fibre2fashion.com/news/company-reports-news/india-s-pearl-global-s-fy26-revenue-crosses-521-mn-milestone-310332-newsdetails.htm",
+   "thumbnail": "https://static.fibre2fashion.com/Newsresource/images/310/shutterstock-2743792779_321920.jpg?tr=w-710,h-450,c-at_max,cm-pad_resize",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBaRlp2WXpSS05sUjBWa1ZEVFJDNUF4aTRCU2dLTWdB",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "From Godrej Agrovet To Campus: Check Motilal Oswal's Latest Ratings, Target Prices After Q1 Results",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Motilal Oswal"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/from-godrej-agrovet-pearl-global-time-technoplast-to-signature-global-campus-check-motilal-oswals-latest-ratings-target-prices-after-q1-results-11878002",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/o00qsq8c_stocks_625x300_07_August_26.png?im=FitAndFill,algorithm=dnn,width=400,height=225&q=70",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpOa1ZGZW5aUVZISkVSSEJxVFJEaEFSaVFBeWdLTWdhTkpJem9vUVk",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Pearl Global to attend investor meet on May 20",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-to-participate-in-goldman-sachs-india-supply-chain-resilience-corporate-day-on-may-20-2026/40704887",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-to-participate-in-goldman-sachs-india-supply-chain-resilience-corporate-day-on-may-20-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaV2h3VkdSVVdUTldja2xLVFJDdEF4akxCU2dLTWdZQmtJZ0R1Z1U",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Raymond Ltd leads losers in 'A' group",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/raymond-ltd-leads-losers-in-a-group-126090900932_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Pearl Global Industries records highest ever revenue of INR 5,025 crore for FY26, grew by 11.5% Y-o-Y Annual insta",
+   "source": {
+    "name": "Adgully.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.adgully.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.adgully.com/post/15653/pearl-global-industries-records-highest-ever-revenue-of-inr-5025-crore-for-fy26-grew-by-115-y-o-y-annual-insta",
+   "thumbnail": "https://erp.adgully.com/artical_image/560ae4dae5a86f71156415cc74f08cc9.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXViVlZNY0c0MU1sZHZjWGRRVFJDZkF4ampCU2dLTWdhWms1WktOUWM",
+   "date": "05/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-16T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Explained: Why textile stocks are delivering up to 14% returns for investors on Wednesday?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/explained-why-are-textile-stocks-making-big-gains-on-wednesday/articleshow/131960968.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131960956,width-1200,height-900,resizemode-4,imgsize-43790/explained-why-are-textile-stocks-making-big-gains-on-wednesday.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVTMnRmVmpsdFpIaHlNMVl6VFJEZ0F4aUFCU2dLTWdrQklJSmxHQ09LZWdB",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Pearl Global Industries Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pearl-global-industries-share-price-target-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/07120539/Pearl-Global-Industries-Share-Price-Target-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBkVXBIY1c5dFluQnlZbWxhVFJDZUF4amxCU2dLTWdB",
+   "date": "05/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-07T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Riyaasat Lifestyle Ltd Share Price",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/stocks/riyaasat-lifestyle-ltd-share-price-547996",
+   "date": "08/08/2026, 09:36 AM, +0000 UTC",
+   "iso_date": "2026-08-08T09:36:04Z"
+  },
+  {
+   "position": 82,
+   "title": "7 Stocks To Buy For Long Term: Analysts recommend 3 largecap, 4 midcap scrips; ONGC, TVS Motor Company on the list",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.zeebiz.com/market-news/photo-gallery-tvs-motor-company-ongc-crompton-greaves-aster-dm-quality-care-campus-activewear-arvind-fashions-largecap-midcap-stocks-to-buy-long-term-400989",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/08/23/412361-24.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVZamx1Vm5KaGVqQklha3BKVFJDZUF4amtCU2dLTWdhUm9aTHpPQVk",
+   "date": "08/23/2026, 07:43 AM, +0000 UTC",
+   "iso_date": "2026-08-23T07:43:12Z"
+  },
+  {
+   "position": 83,
+   "title": "Nazara Technologies Ltd leads gainers in 'A' group",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/nazara-technologies-ltd-leads-gainers-in-a-group-126051500533_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Vardhman Textiles, Gokaldas Exports to KPR Mill: Textile stocks jump up to 6% after cotton import duty exemption",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/vardhman-textiles-gokaldas-exports-to-kpr-mill-textile-stocks-jump-over-6-after-cotton-import-duty-exemption-11780286800617.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/2-0-498063779-textile-mill1-0_1681036355734_1780287142531_e6db077a-0128-492e-81d3-f1a6db7ff64d.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNPR3hJWjNSak4xVXRiMEp0VFJDZkF4ampCU2dLTWdhQkFJak5RUVE",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "City Bank, Idcol to provide Tk 259cr for Pearl Global's expansion",
+   "source": {
+    "name": "The Daily Star",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thedailystar.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thedailystar.net/business/news/city-bank-idcol-provide-tk-259cr-pearl-globals-expansion-4247071",
+   "thumbnail": "https://www.thedailystar.net/sites/default/files/styles/big_1/public/2026-08/Pearl%20Global.jpg?h=d1cb525d",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJiMFJmVldwM1EyMXFRM2swVFJDZkF4ampCU2dLTWdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Dividend, rights issue: ITC Hotels, 3 other stocks to remain in focus today",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/dividend-rights-issue-itc-3-other-stocks-to-remain-in-spotlight-today-126052000106_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/27/full/1761539118-9022.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpPRkZ5YTE5TFVHdEhUVGQxVFJEZ0F4aUFCU2dLTWdZRmM0YmtKZ2c",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Mutual Funds bet big on 11 smallcap stocks held over 4 quarters; 2 turned multibaggers",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/mutual-funds-bet-big-on-11-smallcap-stocks-held-over-4-quarters-2-turned-multibaggers/mutual-funds-inflow/slideshow/130572691.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-130572691,width-480,height-360,imgsize-42414,resizemode-75/mutual-funds-inflow.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNiR1psUlRob1FqVnphM3A2VFJEb0FoamdBeWdLTWdhZFVwU05xUWM",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Pearl Global Industries Appoints Sandeep Vohra as Chief Facilitation Officer & SVP",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-appoints-sandeep-vohra-as-chief-facilitation-officer-svp/37716600",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-appoints-sandeep-vohra-as-chief-facilitation-officer-svp.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBZak5rY1ZsaWVXODNWRUZWVFJDdEF4akxCU2dLTWdZQmdJUklQQU0",
+   "date": "04/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-14T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "If EPS Growth Is Important To You, Pearl Global Industries (NSE:PGIL) Presents An Opportunity",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/news/if-eps-growth-is-important-to-you-pearl-global-industries-ns-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4131000-choice2-main-header/1585186733037?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjakJGYmpaMVRHeFBlbFZTVFJDZkF4ampCU2dLTWdtQklJaXlGQ1hvN3dB",
+   "date": "01/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-09T08:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Pearl Global Industries shares fall despite strong Q3 results and tariff tailwinds",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/pearl-global-industries-shares-slip-despite-strong-q3-and-nine-month-growth/article70609793.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/3ux2zt/article70609817.ece/alternates/LANDSCAPE_1200/pearl%20global.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVBjRXh0UWxoc1luRjRjMUF4VFJDZkF4ampCU2dLTWdNQlVBQQ",
+   "date": "02/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-09T08:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "The Market Lifts Pearl Global Industries Limited (NSE:PGIL) Shares 28% But It Can Do More",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-pgil/pearl-global-industries-shares/news/the-market-lifts-pearl-global-industries-limited-nsepgil-sha-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4131000-choice2-main-header/1585186733037?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNjakJGYmpaMVRHeFBlbFZTVFJDZkF4ampCU2dLTWdtQklJaXlGQ1hvN3dB",
+   "date": "11/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-13T08:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Pearl Global Industries Limited Issues Correction to Registered Office Address Communication",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/pearl-global-industries-limited-issues-correction-to-registered-office-address-communication/32175192",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-limited-issues-correction-to-registered-office-address-communication.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNPSEV5VmpWd2MwdElaME5wVFJDdEF4akxCU2dLTWdZQklvYkpMUVE",
+   "date": "02/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-09T08:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Pearl Global Industries reports 12.7% revenue growth in H1FY26",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/pearl-global-industries-reports-127-revenue-growth-in-h1fy26/article70267460.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/xblb6c/article70248862.ece/alternates/LANDSCAPE_1200/2025-07-01T112304Z_1627697589_RC2C2EAN7Y7F_RTRMADP_3_INDIA-BUDGET-JOBS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUROVmRTVUhkSlh6ZHlWak5KVFJDZkF4ampCU2dLTWdhSlVvU3J1UVE",
+   "date": "11/11/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-11T08:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Pearl Global Industries Forms Singapore Trading Subsidiary for Global Market Expansion",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-expands-asian-operations-through-singapore-subsidiary-formation/36171892",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-expands-asian-operations-through-singapore-subsidiary-formation.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9lRlZyYVZsblkxSXlSR1EwVFJDdEF4akxCU2dLTWdzQkFJeWdsZWdzeTNuaTRB",
+   "date": "03/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-27T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Pearl Global accelerates growth with ₹250 Crore investment in technology and capacity expansion",
+   "source": {
+    "name": "The Textile Magazine",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiantextilemagazine.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiantextilemagazine.in/pearl-global-accelerates-growth-with-%E2%82%B9250-crore-investment-in-technology-and-capacity-expansion/",
+   "thumbnail": "https://www.indiantextilemagazine.in/wp-content/uploads/2025/11/Manufacturing-IMG-3-Pearl.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkbkIyVDFCNFZUTnVkblUzVFJES0F4aWVCU2dLTWdZQlVKQ3pJQWs",
+   "date": "11/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-13T08:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Pearl Global eyes growth from Europe, UK as it navigates tariff headwinds",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mangalam Maloo"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/business/companies/pearl-global-navigates-us-tariffs-eyes-growth-from-uk-eu-fta-alpha-article-19796392.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2021/12/credit-demand.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVMjVuVkZOVFNEZHBkVmQ1VFJDZkF4ampCU2dLTWdZQmtJZ011UVU",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Pearl Global Industries schedules analyst plant visit for March 27, 2026 at Chennai facility",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/pearl-global-industries-schedules-analyst-plant-visit-for-march-27-2026-at-chennai-facility/35552528",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-schedules-analyst-plant-visit-for-march-27-2026-at-chennai-facility.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlXV3hPTkd0WFFXUlhXRkpxVFJDdEF4akxCU2dLTWdZQlFJUUpPQVE",
+   "date": "03/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-27T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Pearl Global, Arvind, Gokaldas, Vardhman down up to 9%; here's why",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/pearl-global-arvind-gokaldas-vardhman-down-up-to-9-here-s-why-126021000728_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/17/full/1755446953-3298.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtVRUU1VG1wcVJ6UkNYMEZJVFJEZ0F4al9CQ2dLTWdrQllJU3FNZVVWN1FF",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Pearl Global Industries Reports 12.7% Revenue Growth in H1FY26, Announces ₹250Cr Expansion Plan",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/earnings/pearl-global-industries-reports-25-jump-in-q2-net-profit-declares-interim-dividend/24413701",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-reports-25-jump-in-q2-net-profit-declares-interim-dividend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1NRE4xUld4NWQwNXhTRFpVVFJDdEF4akxCU2dLTWdrQm9JUUFSR1JiN2dF",
+   "date": "11/11/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-11T08:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Pearl Global Industries Reports 12.7% Revenue Growth Amid US Tariff Challenges in H1 FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/earnings/pearl-global-industries-reports-12-7-revenue-growth-amid-us-tariff-challenges-in-h1-fy26/25001419",
+   "thumbnail": "https://news-images.dhan.co/pearl-global-industries-reports-12-7-revenue-growth-amid-us-tariff-challenges-in-h1-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWxRbE5rUWxsd1lqWlBhVWR2VFJDdEF4akxCU2dLTWdzQk1JYURJV1NLQmJzRlhB",
+   "date": "11/18/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-18T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:27"
+}

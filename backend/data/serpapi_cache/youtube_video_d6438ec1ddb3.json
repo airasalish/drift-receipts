@@ -1,0 +1,730 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5b58c8a7e3d38d44b4a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rOp61A-Y2-23vjCEYALbk9oKLRfahUwsMjKySS_R_Io/6ac9f5b58c8a7e3d38d44b4a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rOp61A-Y2-23vjCEYALbk9oKLRfahUwsMjKySS_R_Io/6ac9f5b58c8a7e3d38d44b4a.md",
+  "created_at": "2026-10-10 08:22:13 UTC",
+  "processed_at": "2026-10-10 08:22:13 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=x6L4JiUE24w",
+  "raw_html_file": "https://serpapi.com/searches/rOp61A-Y2-23vjCEYALbk9oKLRfahUwsMjKySS_R_Io/6ac9f5b58c8a7e3d38d44b4a.html",
+  "prettify_html_file": "https://serpapi.com/searches/rOp61A-Y2-23vjCEYALbk9oKLRfahUwsMjKySS_R_Io/6ac9f5b58c8a7e3d38d44b4a.prettify",
+  "total_time_taken": 1.2
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "x6L4JiUE24w",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Multibagger Stock के 5 लक्षण | Ep-9 | SSC Online (Live Recording) | Stock Market for Beginners",
+ "thumbnail": "https://i.ytimg.com/vi/x6L4JiUE24w/maxresdefault.jpg",
+ "channel": {
+  "name": "Sunil Minglani",
+  "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@SunilMinglani",
+  "subscribers": "1.38M subscribers",
+  "extracted_subscribers": 1380000,
+  "verified": true
+ },
+ "views": "94,142 views",
+ "extracted_views": 94142,
+ "likes": "4.5K",
+ "extracted_likes": 4500,
+ "published_date": "Aug 16, 2021",
+ "description": {
+  "content": "#SunilMinglani #StockMarketForBeginners ##SunilSirKiClassOnline\n\nSunil Minglani understands human psychology not only in the context of stock markets but also believes that psychology can drive human behavior and emotions. To satisfy his inner urge of giving back to society and bring transformational change in society Mr. Sunil Minglani has taken an initiative and designed a unique platform “Sunil Sir Ki Class” ( SSC )...Now Online\n=============================================================\nTo subscribe to Master Trader Online, Please Visit the Below link OR Download SM Android Application from Google Play Store\nhttps://sunilminglani.com/index.php/w...\n*Call/WhatsApp at 8882424222 / 8585954095 /9711830634 Or mail at teamsunilminglani@gmail.com for any Query.\n============================================================\n✔ Android Application Link : https://play.google.com/store/apps/de...\n✔ iOS Application Link- https://apps.apple.com/in/app/sunil-m...\n=============================================================\nTo Subscribe SM Bulletin, Please Visit the Below link OR Download SM Android Application from Google Play Store\nhttps://sunilminglani.com/index.php/w...\n=============================================================\nTo buy Online Technical Analysis Program For Beginners Go To https://sunilminglani.com/index.php/w...\nor\nFor Android / Apple Application ...Go to Google Play Store/iOS Store and search \"Sunil Minglani\" \nWatch Demo Video with the Below Link:\n   • ORIGINAL CLIP | No.1 Online Technical Anal...  \n=============================================================\nTo Buy the NEo Wave Explained Online Program, You can visit the link https://sunilminglani.com/index.php/w...\nOR\nDownload the Sunil Minglani Application from Google Play Store / Apple Store \n========================================================\n✔ To JOIN our Channel Membership for Exclusive Offers, Click the Link Below and join...\n   / @sunilminglani  \n========================================================\n \n========================================================\n✔ Click the link below and join our Telegram Channel for the latest updates :\nTelegram Link: https://t.me/sunilminglani\n========================================================\nSocial Media Links :\n✔ FaceBook-   / thesunilminglani  \n✔ Twitter-   / sunilminglani  \n✔Instagram-   / sunilminglani  \n========================================================\nWe have also started a new initiative called “ Valid Voice Talks”\nFor More info subscribe to us     / vvtalks   ==================================================================\n\n================================================================== To open a Demat account with Zerodha,  please register using the link below... \nhttps://zerodha.com/open-account?c=ZM...",
+  "links": [
+   {
+    "start_index": 0,
+    "length": 14,
+    "text": "#SunilMinglani",
+    "url": "https://www.youtube.com/hashtag/sunilminglani",
+    "type": "browse"
+   },
+   {
+    "start_index": 15,
+    "length": 24,
+    "text": "#StockMarketForBeginners",
+    "url": "https://www.youtube.com/hashtag/stockmarketforbeginners",
+    "type": "browse"
+   },
+   {
+    "start_index": 41,
+    "length": 22,
+    "text": "#SunilSirKiClassOnline",
+    "url": "https://www.youtube.com/hashtag/sunilsirkiclassonline",
+    "type": "browse"
+   },
+   {
+    "start_index": 622,
+    "length": 40,
+    "text": "https://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/course_details?ref=MzA1"
+   },
+   {
+    "start_index": 861,
+    "length": 40,
+    "text": "https://play.google.com/store/apps/de...",
+    "url": "https://play.google.com/store/apps/details?id=com.Minglani.SunilMinglani"
+   },
+   {
+    "start_index": 926,
+    "length": 40,
+    "text": "https://apps.apple.com/in/app/sunil-m...",
+    "url": "https://apps.apple.com/in/app/sunil-minglani/id1440292849"
+   },
+   {
+    "start_index": 1141,
+    "length": 40,
+    "text": "https://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/newsletter"
+   },
+   {
+    "start_index": 1305,
+    "length": 40,
+    "text": "https://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/course_details?ref=MjU1"
+   },
+   {
+    "start_index": 1485,
+    "length": 52,
+    "text": "   • ORIGINAL CLIP | No.1 Online Technical Anal...  ",
+    "url": "https://www.youtube.com/watch?v=qgoee9M91zs&pp=0gcJCR0AztywvtLA",
+    "type": "watch"
+   },
+   {
+    "start_index": 1669,
+    "length": 39,
+    "text": "https://sunilminglani.com/index.php/w..",
+    "url": "https://sunilminglani.com/index.php/w.."
+   },
+   {
+    "start_index": 1936,
+    "length": 21,
+    "text": "   / @sunilminglani  ",
+    "url": "https://www.youtube.com/channel/UCS8WLwuVszq1g2oeBzboUmQ/join"
+   },
+   {
+    "start_index": 2167,
+    "length": 26,
+    "text": "https://t.me/sunilminglani",
+    "url": "https://t.me/sunilminglani"
+   },
+   {
+    "start_index": 2284,
+    "length": 22,
+    "text": "  / thesunilminglani  ",
+    "url": "https://www.facebook.com/thesunilminglani"
+   },
+   {
+    "start_index": 2318,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.twitter.com/sunilminglani"
+   },
+   {
+    "start_index": 2350,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.instagram.com/sunilminglani"
+   },
+   {
+    "start_index": 2524,
+    "length": 14,
+    "text": "   / vvtalks  ",
+    "url": "https://www.youtube.com/vvtalks"
+   },
+   {
+    "start_index": 2754,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPRLU"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "kpfDfLvv0bI",
+   "link": "https://www.youtube.com/watch?v=kpfDfLvv0bI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kpfDfLvv0bI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kpfDfLvv0bI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAF-6fqjJeWSczeoAVeAAYX8Oor-w&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/kpfDfLvv0bI/mqdefault_6s.webp?du=3000&sqp=CJLTp9YG&rs=AOn4CLCq0TJpbBTj5exd5HVl8kn9HIQZ9Q"
+   },
+   "title": "विशवास का पैसा | Ep-8 | SSC Online (Live Recording) | Stock Market for Beginners",
+   "published_date": "5y ago",
+   "views": "51K",
+   "extracted_views": 51000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfFOAJOoaSau6xiEf82qh2LlNmGA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/9HjTQYxl1KA/mqdefault_6s.webp?du=3000&sqp=CPDop9YG&rs=AOn4CLCWosEMwb_GM8wscxf3t4wJtJ_dWg"
+   },
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1mo ago",
+   "views": "469K",
+   "extracted_views": 469000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/pv5ojiCojjU/mqdefault_6s.webp?du=3000&sqp=COqyp9YG&rs=AOn4CLD7UJhgedjnV3od9CjoWy0YpWTQpg"
+   },
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "19h ago",
+   "views": "25K",
+   "extracted_views": 25000,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "g7CV8vjrZI0",
+   "link": "https://www.youtube.com/watch?v=g7CV8vjrZI0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g7CV8vjrZI0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/g7CV8vjrZI0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHddThr9bvVvFjqQe0J0XM1YEhTQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/g7CV8vjrZI0/mqdefault_6s.webp?du=3000&sqp=COjIp9YG&rs=AOn4CLBev0tY6g0sEIQiDkCqs-vyQsTMgg"
+   },
+   "title": "Share Market| Vijay Kedia कैसे चुनते हैं Multibagger Share?| BIZ Tak",
+   "published_date": "3y ago",
+   "views": "833K",
+   "extracted_views": 833000,
+   "channel": {
+    "name": "Biz Tak",
+    "link": "https://www.youtube.com/@BizTak",
+    "thumbnail": "https://yt3.ggpht.com/EFi-XSxKMuPmv8NWNmVtJ075p1Y8jzQtdeAZW_Fn3NoREeEPGjscF4h77LtTBH3dVLH-S3aknA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "93qJX_uVJG8",
+   "link": "https://www.youtube.com/watch?v=93qJX_uVJG8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=93qJX_uVJG8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/93qJX_uVJG8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDv7Jnif_pb2ohdNSG4_0_7UcfZVQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/93qJX_uVJG8/mqdefault_6s.webp?du=3000&sqp=CJ_Kp9YG&rs=AOn4CLDNJdWqoF43njXeWfe-lpmOBVd_7g"
+   },
+   "title": "My 5 step Framework to identify the next multibagger stock | How to do fundamental analysis",
+   "published_date": "2y ago",
+   "views": "123K",
+   "extracted_views": 123000,
+   "channel": {
+    "name": "Sahil Bhadviya",
+    "link": "https://www.youtube.com/@SahilBhadviya",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nN_NLGrB_6YAbhjHkIjs243J7FA0EyHq9z-YhB5_md9uo=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "3AS6qJixHqc",
+   "link": "https://www.youtube.com/watch?v=3AS6qJixHqc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3AS6qJixHqc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3AS6qJixHqc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6Dsdnoj-TJxIyOtpWOTNK9HtAPw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/3AS6qJixHqc/mqdefault_6s.webp?du=3000&sqp=CKnap9YG&rs=AOn4CLAE3sjkWwYSN1RgrftdAFRDDXF2hw"
+   },
+   "title": "SWING Trading कैसे करें ? | SSC Episode-56 | Stock market for Beginners | sunilminglani.com",
+   "published_date": "6y ago",
+   "views": "1.5M",
+   "extracted_views": 1500000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wkEr5qUpNrY",
+   "link": "https://www.youtube.com/watch?v=wkEr5qUpNrY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wkEr5qUpNrY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wkEr5qUpNrY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXUD6yObZxy5bWGRZGHywMhVuZEg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/wkEr5qUpNrY/mqdefault_6s.webp?du=3000&sqp=CNDUp9YG&rs=AOn4CLCzc57oVECFaSrvrwPDOZKQuBzVLw"
+   },
+   "title": "🔰🔶 🔰🔶कहानी 2008 की - Part-4 | #BoycottNegativity | SM LIVE | 22nd May'20",
+   "published_date": "Streamed 6y ago",
+   "views": "120K",
+   "extracted_views": 120000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "A39iY5_orVk",
+   "link": "https://www.youtube.com/watch?v=A39iY5_orVk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=A39iY5_orVk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/A39iY5_orVk/hqdefault_custom_3.jpg?sqp=CLDqp9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBmto-n2IzvbEO1lLiiBqPhR_xSsw",
+    "rich": "https://i.ytimg.com/an_webp/A39iY5_orVk/mqdefault_6s.webp?du=3000&sqp=CKnIp9YG&rs=AOn4CLCB6FWXXBNk4FcFGJZGDx-B2kB-lA"
+   },
+   "title": "Is the market going to crash? My Strategy Explained",
+   "published_date": "6d ago",
+   "views": "142K",
+   "extracted_views": 142000,
+   "channel": {
+    "name": "SOIC",
+    "link": "https://www.youtube.com/@SOICfinance",
+    "thumbnail": "https://yt3.ggpht.com/bR4QYaBph_4Q6qRJZRk67W7X7aoCfu6JFs00drTfCwqFNSe9zrlyQ6SQqKnNQpNyUqeMnapcuw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "DkvHd5ZEeV8",
+   "link": "https://www.youtube.com/watch?v=DkvHd5ZEeV8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DkvHd5ZEeV8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/DkvHd5ZEeV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfVK7vkPkBX_ftnmT2Qy35Q_AjSQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/DkvHd5ZEeV8/mqdefault_6s.webp?du=3000&sqp=CJHqp9YG&rs=AOn4CLDbfBjJXAIu8SDwym_mEsrhEG-G6Q"
+   },
+   "title": "A 2x World Trading Champion's Embarrassingly Simple Strategy - Patrick Nill",
+   "published_date": "4w ago",
+   "views": "755K",
+   "extracted_views": 755000,
+   "channel": {
+    "name": "World Class Edge",
+    "link": "https://www.youtube.com/@worldclassedge",
+    "thumbnail": "https://yt3.ggpht.com/ZChlzvQtI_Guwh38Dp5ZKRyoJeMA-b4y0CfsZGvR6skCOVhJRVUKtR4hQZRE6jxV_VeQmriK=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "DJ1_nQKzny0",
+   "link": "https://www.youtube.com/watch?v=DJ1_nQKzny0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DJ1_nQKzny0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/DJ1_nQKzny0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAllUqPjzh2Ba23XPd0YbPE0-OF7g&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/DJ1_nQKzny0/mqdefault_6s.webp?du=3000&sqp=CNqqp9YG&rs=AOn4CLCDdpCYQdKy8v7Ncr2T5ZiFXBHkHA"
+   },
+   "title": "कैसे ढूंढे Multibagger Stock || Bazaar Shastra on Zee Business || Sunil Minglani",
+   "published_date": "8y ago",
+   "views": "291K",
+   "extracted_views": 291000,
+   "channel": {
+    "name": "Bazaar Shastra by Sunil Minglani",
+    "link": "https://www.youtube.com/@bazaarshastrabysunilmingla8659",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mACgrrZ_5ezz6ApGJQcyICwlDs7VX3dM9vWQy3AU7QYQ=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "ZaniJwJIwJg",
+   "link": "https://www.youtube.com/watch?v=ZaniJwJIwJg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZaniJwJIwJg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ZaniJwJIwJg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIqKfVI22S4E9FvDvtmad6dgfzEg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/ZaniJwJIwJg/mqdefault_6s.webp?du=3000&sqp=CJDep9YG&rs=AOn4CLDsPJvdo4vAmIsNNxvdUld8ZVPeEQ"
+   },
+   "title": "The Boring Trading Strategy that Actually Works (No one will tell you)",
+   "published_date": "2w ago",
+   "views": "469K",
+   "extracted_views": 469000,
+   "channel": {
+    "name": "Trading Titans by InCred Money and 2 more"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=COzMp9YG&rs=AOn4CLA9-nB_1BOvCP4oPltQgHYcanffog"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "753K",
+   "extracted_views": 753000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "f6cJ0kVQGDU",
+   "link": "https://www.youtube.com/watch?v=f6cJ0kVQGDU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f6cJ0kVQGDU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/f6cJ0kVQGDU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBe8PT_q90dD3Ckt5u2sHgH-mE21A&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/f6cJ0kVQGDU/mqdefault_6s.webp?du=3000&sqp=COnap9YG&rs=AOn4CLByF5rIdJxBe9lbl5Q9T5U6RF8fyg"
+   },
+   "title": "Volume Analysis — The One Thing 90% Traders Ignore on Every Chart",
+   "published_date": "4mo ago",
+   "views": "634K",
+   "extracted_views": 634000,
+   "channel": {
+    "name": "The Brain Titans",
+    "link": "https://www.youtube.com/@TheBrainTitans",
+    "thumbnail": "https://yt3.ggpht.com/2hO3n1F2ggznt5SaBY51f8FAz_iIjZmRjqegKUnUL2r6Tmv-9jw9lkzFUN_vimneODzgqEx-GSQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Dubbed"
+   ]
+  },
+  {
+   "video_id": "v_3s9fk_srQ",
+   "link": "https://www.youtube.com/watch?v=v_3s9fk_srQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v_3s9fk_srQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/v_3s9fk_srQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJEptdDyskllVDgRopi98IQhstLA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/v_3s9fk_srQ/mqdefault_6s.webp?du=3000&sqp=CIDVp9YG&rs=AOn4CLAoHAZFxkAad3WQN23aD8D6I3yTjA"
+   },
+   "title": "छोटे Stocks में काम कैसे करें ? | SSC Episode-33 | Stock market for Beginners | sunilminglani.com",
+   "published_date": "6y ago",
+   "views": "706K",
+   "extracted_views": 706000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "ARM_pD7CVBY",
+   "link": "https://www.youtube.com/watch?v=ARM_pD7CVBY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ARM_pD7CVBY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ARM_pD7CVBY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvtAHOkVQG65W4BEu4a-2Sy3z5bA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/ARM_pD7CVBY/mqdefault_6s.webp?du=3000&sqp=CL6mp9YG&rs=AOn4CLDU9T3kydKFg4xWvOhh4xsL6gh6Zg"
+   },
+   "title": "Multibagger Stocks: Secrets from Raamdeo Agrawal & Manish Chokhani | Anil Singhvi",
+   "published_date": "1y ago",
+   "views": "236K",
+   "extracted_views": 236000,
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness",
+    "thumbnail": "https://yt3.ggpht.com/sxHEe-On1euLaHO6gssZiJXWQpRgjy7duGBWC9qPmDEul_AfSvthGaGOc3uRZEhTUchMBEOJlp0=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "1zblK_4Y6XY",
+   "link": "https://www.youtube.com/watch?v=1zblK_4Y6XY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1zblK_4Y6XY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1zblK_4Y6XY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBoKelawtfPjPafT1c9Fqb3aqzk7Q&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/1zblK_4Y6XY/mqdefault_6s.webp?du=3000&sqp=CPK6p9YG&rs=AOn4CLAeX7Liaxirk2-txXuXtLPCcZjthg"
+   },
+   "title": "The Ugly Truth Behind ₹15Cr Trading : Luck, Skill, Survival & Success | Ashwin Raghavan | FWS 102",
+   "published_date": "6mo ago",
+   "views": "979K",
+   "extracted_views": 979000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "GAr-2Cw4LIQ",
+   "link": "https://www.youtube.com/watch?v=GAr-2Cw4LIQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GAr-2Cw4LIQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GAr-2Cw4LIQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_W4yUu4YRq5bUtYWL3gyEj7Pn0A&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/GAr-2Cw4LIQ/mqdefault_6s.webp?du=3000&sqp=CMDNp9YG&rs=AOn4CLBLmYGhIQwyduMh57iCLuP1VfLDvA"
+   },
+   "title": "The 9:15 AM Options Strategy (Stupid, Simple and Proven) | Ft. Rajesh Jain",
+   "published_date": "2mo ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club",
+    "thumbnail": "https://yt3.ggpht.com/lCs-2XaS_unNd0HRQL6Vxi1bdl4tboIKSed47SrokUIaDveBeKSGyARay_hRKvb9SpsPZDmwdQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "jFlakIKWLcU",
+   "link": "https://www.youtube.com/watch?v=jFlakIKWLcU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jFlakIKWLcU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/jFlakIKWLcU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBsNwht4knNbNbJmn6nz6qeN9Af2Q&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/jFlakIKWLcU/mqdefault_6s.webp?du=3000&sqp=CKLip9YG&rs=AOn4CLBWNgmDCk-hqcu5497DOhncNcAdCQ"
+   },
+   "title": "7 Steps to Analyze a Chart | OLD IS GOLD | Stock Market for Beginners",
+   "published_date": "5y ago",
+   "views": "236K",
+   "extracted_views": 236000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "viGgSTwMdZE",
+   "link": "https://www.youtube.com/watch?v=viGgSTwMdZE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=viGgSTwMdZE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/viGgSTwMdZE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDnhQGVEZyLt1xebJJT14O8nOFo3Q&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/viGgSTwMdZE/mqdefault_6s.webp?du=3000&sqp=CMHHp9YG&rs=AOn4CLBaEsty1oP-59clKuDPv9FW5rgYyA"
+   },
+   "title": "Does this Trader REALLY know why he lost Money? | Losses & Lessons Ep-12",
+   "published_date": "1y ago",
+   "views": "550K",
+   "extracted_views": 550000,
+   "channel": {
+    "name": "A Digital Blogger",
+    "link": "https://www.youtube.com/@ADigitalBlogger",
+    "thumbnail": "https://yt3.ggpht.com/VsBhCNOTQqoKpIvnTrtMYaTUhdD2SYw0I9I2jM1mXfOavHdYMJHChD3Nlkmkh4MqKOk9fFPeFA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q&usqp=CBQ"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILeDZMNEppVUUyNHfAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqngZNZ29JOU43QjJyMmUyZVpkMnM2TDZ3ekRCQXJBQkFvRDhqNEFDZzdDUGdzSXNxT18zOHZ2OE11U0FRb0Q4ajRBQ2c3Q1Bnc0lvS21YNDVqb3RMejBBUW9EOGo0QUNnN0NQZ3NJdFp5aWhlS1Jtdi1tQVFvRDhqNEFDZzdDUGdzSWpjbXR4Ni0tcGRpREFRb0Q4ajRBQ2c3Q1Bnc0k3OGpVM1Atcm9yMzNBUW9EOGo0QUNnN0NQZ3NJcDczRXhZblZyb0xjQVFvRDhqNEFDZzdDUGdzSXR1MmtxZXI4eXFEQ0FRb0Q4ajRBQ2czQ1Bnb0kyZHFpXzduTTJMOERDZ1B5UGdBS0RjSS1DZ2pmOHBHeS1lN3hwUTRLQV9JLUFBb053ajRLQ0syLXpwWFE4OV9PREFvRDhqNEFDZzNDUGdvSW1JR2prdkRFLU5SbENnUHlQZ0FLRHNJLUN3amVrNkMydWZEbmpPc0JDZ1B5UGdBS0RjSS1DZ2kxc01DcXBMckMwMzhLQV9JLUFBb093ajRMQ0xUbF9zbmZudnYtdndFS0FfSS1BQW9Od2o0S0NKYW9pZmJEOU0tSkFRb0Q4ajRBQ2c3Q1Bnc0k5dExqOEwtbHVadlhBUW9EOGo0QUNnM0NQZ29JaE5uZzRZTGJ2NFVZQ2dQeVBnQUtEc0ktQ3dqRjI5aVVpTkxXckl3QkNnUHlQZ0FLRHNJLUN3aVI2N0hnazRub2tMNEJDZ1B5UGdBS0RjSS1DZ2owM3NIYXZaN1o1bDBTRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5LaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmdqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "kpfDfLvv0bI",
+   "link": "https://www.youtube.com/watch?v=kpfDfLvv0bI&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kpfDfLvv0bI",
+   "thumbnail": "https://i.ytimg.com/vi/kpfDfLvv0bI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAF-6fqjJeWSczeoAVeAAYX8Oor-w&usqp=CBQ",
+   "title": "विशवास का पैसा | Ep-8 | SSC Online (Live Recording) | Stock Market for Beginners",
+   "published_date": "5 years ago",
+   "views": "51K views",
+   "extracted_views": 51000,
+   "length": "7:27",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfFOAJOoaSau6xiEf82qh2LlNmGA&usqp=CBQ",
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1 month ago",
+   "views": "469K views",
+   "extracted_views": 469000,
+   "length": "28:50",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ&usqp=CBQ",
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "19 hours ago",
+   "views": "25K views",
+   "extracted_views": 25000,
+   "length": "55:13",
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai"
+   }
+  },
+  {
+   "video_id": "g7CV8vjrZI0",
+   "link": "https://www.youtube.com/watch?v=g7CV8vjrZI0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g7CV8vjrZI0",
+   "thumbnail": "https://i.ytimg.com/vi/g7CV8vjrZI0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCHddThr9bvVvFjqQe0J0XM1YEhTQ&usqp=CBQ",
+   "title": "Share Market| Vijay Kedia कैसे चुनते हैं Multibagger Share?| BIZ Tak",
+   "published_date": "3 years ago",
+   "views": "833K views",
+   "extracted_views": 833000,
+   "length": "44:06",
+   "channel": {
+    "name": "Biz Tak",
+    "link": "https://www.youtube.com/@BizTak"
+   }
+  },
+  {
+   "video_id": "93qJX_uVJG8",
+   "link": "https://www.youtube.com/watch?v=93qJX_uVJG8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=93qJX_uVJG8",
+   "thumbnail": "https://i.ytimg.com/vi/93qJX_uVJG8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDv7Jnif_pb2ohdNSG4_0_7UcfZVQ&usqp=CBQ",
+   "title": "My 5 step Framework to identify the next multibagger stock | How to do fundamental analysis",
+   "published_date": "2 years ago",
+   "views": "123K views",
+   "extracted_views": 123000,
+   "length": "41:29",
+   "channel": {
+    "name": "Sahil Bhadviya",
+    "link": "https://www.youtube.com/@SahilBhadviya"
+   }
+  },
+  {
+   "video_id": "3AS6qJixHqc",
+   "link": "https://www.youtube.com/watch?v=3AS6qJixHqc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3AS6qJixHqc",
+   "thumbnail": "https://i.ytimg.com/vi/3AS6qJixHqc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA6Dsdnoj-TJxIyOtpWOTNK9HtAPw&usqp=CBQ",
+   "title": "SWING Trading कैसे करें ? | SSC Episode-56 | Stock market for Beginners | sunilminglani.com",
+   "published_date": "6 years ago",
+   "views": "1.5M views",
+   "extracted_views": 1500000,
+   "length": "13:49",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "wkEr5qUpNrY",
+   "link": "https://www.youtube.com/watch?v=wkEr5qUpNrY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wkEr5qUpNrY",
+   "thumbnail": "https://i.ytimg.com/vi/wkEr5qUpNrY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAXUD6yObZxy5bWGRZGHywMhVuZEg&usqp=CBQ",
+   "title": "🔰🔶 🔰🔶कहानी 2008 की - Part-4 | #BoycottNegativity | SM LIVE | 22nd May'20",
+   "published_date": "Streamed 6 years ago",
+   "views": "120K views",
+   "extracted_views": 120000,
+   "length": "1:01:47",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "A39iY5_orVk",
+   "link": "https://www.youtube.com/watch?v=A39iY5_orVk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=A39iY5_orVk",
+   "thumbnail": "https://i.ytimg.com/vi/A39iY5_orVk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbxOBEcM0_Ug-9KrCMWwGpBQacdA&usqp=CBQ",
+   "title": "Is the market going to crash? My Strategy Explained",
+   "published_date": "6 days ago",
+   "views": "142K views",
+   "extracted_views": 142000,
+   "length": "1:07:22",
+   "channel": {
+    "name": "SOIC",
+    "link": "https://www.youtube.com/@SOICfinance"
+   }
+  },
+  {
+   "video_id": "DkvHd5ZEeV8",
+   "link": "https://www.youtube.com/watch?v=DkvHd5ZEeV8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DkvHd5ZEeV8",
+   "thumbnail": "https://i.ytimg.com/vi/DkvHd5ZEeV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfVK7vkPkBX_ftnmT2Qy35Q_AjSQ&usqp=CBQ",
+   "title": "A 2x World Trading Champion's Embarrassingly Simple Strategy - Patrick Nill",
+   "published_date": "4 weeks ago",
+   "views": "755K views",
+   "extracted_views": 755000,
+   "length": "24:23",
+   "channel": {
+    "name": "World Class Edge",
+    "link": "https://www.youtube.com/@worldclassedge"
+   }
+  },
+  {
+   "video_id": "DJ1_nQKzny0",
+   "link": "https://www.youtube.com/watch?v=DJ1_nQKzny0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DJ1_nQKzny0",
+   "thumbnail": "https://i.ytimg.com/vi/DJ1_nQKzny0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAllUqPjzh2Ba23XPd0YbPE0-OF7g&usqp=CBQ",
+   "title": "कैसे ढूंढे Multibagger Stock || Bazaar Shastra on Zee Business || Sunil Minglani",
+   "published_date": "8 years ago",
+   "views": "291K views",
+   "extracted_views": 291000,
+   "length": "21:26",
+   "channel": {
+    "name": "Bazaar Shastra by Sunil Minglani",
+    "link": "https://www.youtube.com/@bazaarshastrabysunilmingla8659"
+   }
+  },
+  {
+   "video_id": "ZaniJwJIwJg",
+   "link": "https://www.youtube.com/watch?v=ZaniJwJIwJg&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZaniJwJIwJg",
+   "thumbnail": "https://i.ytimg.com/vi/ZaniJwJIwJg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCIqKfVI22S4E9FvDvtmad6dgfzEg&usqp=CBQ",
+   "title": "The Boring Trading Strategy that Actually Works (No one will tell you)",
+   "published_date": "2 weeks ago",
+   "views": "469K views",
+   "extracted_views": 469000,
+   "length": "49:53",
+   "channel": {
+    "name": "Trading Titans by InCred Money and 2 more"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w&usqp=CBQ",
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2 months ago",
+   "views": "753K views",
+   "extracted_views": 753000,
+   "length": "1:26:00",
+   "channel": {
+    "name": "Investing With Upsurge and 2 more"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC3g2TDRKaVVFMjR3GAYyJSIRIgt4Nkw0SmlVRTI0dzAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC3g2TDRKaVVFMjR3GAYyOCIRIgt4Nkw0SmlVRTI0dzAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC3g2TDRKaVVFMjR3GAYyOCIRIgt4Nkw0SmlVRTI0dzABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=x6L4JiUE24w"
+ },
+ "_fetched_at": "2026-10-10T08:22:12"
+}

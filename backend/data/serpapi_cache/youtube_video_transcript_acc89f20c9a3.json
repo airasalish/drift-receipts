@@ -1,0 +1,31 @@
+{
+ "search_metadata": {
+  "id": "6ac676ff3f79f568ca161bc7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/lRv9XCQ3_9qimllgJRv0i6mDFy4UOY-gvOaxTqd_9WA/6ac676ff3f79f568ca161bc7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/lRv9XCQ3_9qimllgJRv0i6mDFy4UOY-gvOaxTqd_9WA/6ac676ff3f79f568ca161bc7.md",
+  "created_at": "2026-10-07 16:44:47 UTC",
+  "processed_at": "2026-10-07 16:44:47 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=RiW85KlcZzE",
+  "raw_html_file": "https://serpapi.com/searches/lRv9XCQ3_9qimllgJRv0i6mDFy4UOY-gvOaxTqd_9WA/6ac676ff3f79f568ca161bc7.html",
+  "prettify_html_file": "https://serpapi.com/searches/lRv9XCQ3_9qimllgJRv0i6mDFy4UOY-gvOaxTqd_9WA/6ac676ff3f79f568ca161bc7.prettify",
+  "total_time_taken": 6.86
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "RiW85KlcZzE",
+  "language_code": "en"
+ },
+ "search_information": {
+  "results_state": "Fully empty"
+ },
+ "available_transcripts": [
+  {
+   "language_code": "en",
+   "type": "asr",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=RiW85KlcZzE"
+  }
+ ],
+ "error": "YouTube Video Transcript hasn't returned any results for this query. Transcript with other language or auto-generated is available.",
+ "_fetched_at": "2026-10-07T16:44:52"
+}

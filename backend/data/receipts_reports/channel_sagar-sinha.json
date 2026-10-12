@@ -1,0 +1,668 @@
+{
+ "channel": "Sagar Sinha",
+ "channel_url": "https://www.youtube.com/@coachsagarsinha",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "gRNJ-fXE_00",
+   "title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "channel": "Sagar Sinha ",
+   "channel_url": "https://www.youtube.com/@coachsagarsinha",
+   "views": 121215,
+   "length": "25:16",
+   "published_text": "1mo ago",
+   "published_date": "2026-08-13",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/gRNJ-fXE_00/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj3VF_5oTWqumUqg5kslcxljn5Sg",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 5,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "url": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "channel": "Sagar Sinha ",
+   "channel_url": "https://www.youtube.com/@coachsagarsinha",
+   "views": 2030512,
+   "length": "43:22",
+   "published_text": "4mo ago",
+   "published_date": "2026-05-11",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/kDh89kb2t6w/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC36dR1YBoQPfe6FxNq2N38Z-LzzA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 8,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "ikGcjqcCk80",
+   "title": "Bitcoin SIP vs Gold SIP vs Nifty SIP | Bitcoin Crash सबसे बड़ी Opportunity? | SAGAR SINHA",
+   "url": "https://www.youtube.com/watch?v=ikGcjqcCk80",
+   "channel": "Sagar Sinha ",
+   "channel_url": "https://www.youtube.com/@coachsagarsinha",
+   "views": 597742,
+   "length": "25:56",
+   "published_text": "7mo ago",
+   "published_date": "2026-03-09",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ikGcjqcCk80/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8lJigdfnkHo0Si1xeDPRxtrMb6A",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 5,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "v5-TPHSkalE",
+   "title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "channel": "Sagar Sinha Daily",
+   "channel_url": "https://www.youtube.com/@sagarsinhadaily",
+   "views": 58708,
+   "length": "1:28:33",
+   "published_text": "8mo ago",
+   "published_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/v5-TPHSkalE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB50NfW8id0vVFZsltfpopfh_KYfA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 17,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [
+  {
+   "company": "SpaceX",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्पेसx के टोकंस लिस्टेड हैं।",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [],
+   "reason": "SpaceX is cited only as a tokenized stock example, not a recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 613,
+     "text": "एक्सचेंज पर यूएस स्टॉक [हंसी] के टोकन"
+    },
+    {
+     "start_s": 616,
+     "text": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।"
+    },
+    {
+     "start_s": 619,
+     "text": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के"
+    },
+    {
+     "start_s": 621,
+     "text": "टोकंस लिस्टेड हैं। Google के, Apple के"
+    },
+    {
+     "start_s": 622,
+     "text": "इन सब के टोकंस लिस्टेड हैं। अब चकि वो"
+    }
+   ],
+   "video_id": "gRNJ-fXE_00",
+   "video_title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "video_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "timestamp_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00&t=619s",
+   "call_date": "2026-08-13",
+   "date_uncertainty_days": 0,
+   "quote_en": "SpaceX's tokens are listed."
+  },
+  {
+   "company": "Google",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Google के, Apple के",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [
+    {
+     "text": "Google के",
+     "where": "transcript",
+     "start_s": 621
+    }
+   ],
+   "reason": "Google is mentioned as an example of a tokenized US stock, with no explicit recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 613,
+     "text": "एक्सचेंज पर यूएस स्टॉक [हंसी] के टोकन"
+    },
+    {
+     "start_s": 616,
+     "text": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।"
+    },
+    {
+     "start_s": 619,
+     "text": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के"
+    },
+    {
+     "start_s": 621,
+     "text": "टोकंस लिस्टेड हैं। Google के, Apple के"
+    },
+    {
+     "start_s": 622,
+     "text": "इन सब के टोकंस लिस्टेड हैं। अब चकि वो"
+    }
+   ],
+   "video_id": "gRNJ-fXE_00",
+   "video_title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "video_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "timestamp_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00&t=619s",
+   "call_date": "2026-08-13",
+   "date_uncertainty_days": 0,
+   "quote_en": "Google’s, Apple’s"
+  },
+  {
+   "company": "Apple",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Google के, Apple के",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [
+    {
+     "text": "Apple के",
+     "where": "transcript",
+     "start_s": 621
+    }
+   ],
+   "reason": "Apple is referenced only as an example of a tokenized stock, without any buy/sell guidance.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 613,
+     "text": "एक्सचेंज पर यूएस स्टॉक [हंसी] के टोकन"
+    },
+    {
+     "start_s": 616,
+     "text": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।"
+    },
+    {
+     "start_s": 619,
+     "text": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के"
+    },
+    {
+     "start_s": 621,
+     "text": "टोकंस लिस्टेड हैं। Google के, Apple के"
+    },
+    {
+     "start_s": 622,
+     "text": "इन सब के टोकंस लिस्टेड हैं। अब चकि वो"
+    }
+   ],
+   "video_id": "gRNJ-fXE_00",
+   "video_title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "video_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "timestamp_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00&t=619s",
+   "call_date": "2026-08-13",
+   "date_uncertainty_days": 0,
+   "quote_en": "Google’s, Apple’s"
+  },
+  {
+   "company": "Tesla",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Tesla के टोकंस लिस्टेड हैं।",
+   "start_s": 616,
+   "line": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।",
+   "evidence": [
+    {
+     "text": "Tesla के टोकंस लिस्टेड हैं",
+     "where": "transcript",
+     "start_s": 619
+    }
+   ],
+   "reason": "The speaker mentions Tesla tokens as an example, without any buy/sell advice.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 610,
+     "text": "कूपन कोड इस्तेमाल करके। ठीक है? तो उस"
+    },
+    {
+     "start_s": 613,
+     "text": "एक्सचेंज पर यूएस स्टॉक [हंसी] के टोकन"
+    },
+    {
+     "start_s": 616,
+     "text": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।"
+    },
+    {
+     "start_s": 619,
+     "text": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के"
+    },
+    {
+     "start_s": 621,
+     "text": "टोकंस लिस्टेड हैं। Google के, Apple के"
+    }
+   ],
+   "video_id": "gRNJ-fXE_00",
+   "video_title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "video_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "timestamp_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00&t=616s",
+   "call_date": "2026-08-13",
+   "date_uncertainty_days": 0,
+   "quote_en": "Tesla's tokens are listed."
+  },
+  {
+   "company": "Reliance Industries",
+   "symbol_guess": "RELIANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "सर आज वो Jio का सिम बेच रहा है।",
+   "start_s": 4799,
+   "line": "जॉब जॉब वालों के साथ लागू नहीं है। हम अंबानी जैसे लोगों के साथ भी लागू होती है। पूछो कैसे? हम",
+   "evidence": [
+    {
+     "text": "Jio का सिम",
+     "where": "transcript",
+     "start_s": 4804
+    }
+   ],
+   "reason": "The speaker mentions Jio as an example of performance‑based job security, not as a stock pick.",
+   "ticker": {
+    "yahoo_symbol": "RELIANCE.NS",
+    "google_finance": "RELIANCE:NSE",
+    "name": "Reliance Industries Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 4786,
+     "text": "करी हम क्या वो मालिक को हम पसंद आएंगे कभी नहीं कभी नहीं आएंगे ना निकाल फेंके तो तो मेरी जॉब कभी सिक्योर हो सकती है क्या"
+    },
+    {
+     "start_s": 4793,
+     "text": "कभी नहीं हो सकती मेरी जॉब तब तक सिक्योर है जब तक मैं परफॉर्मेंस दे रहा हूं हम सर ये बात सिर्फ हम मिडिल क्लास के साथ या"
+    },
+    {
+     "start_s": 4799,
+     "text": "जॉब जॉब वालों के साथ लागू नहीं है। हम अंबानी जैसे लोगों के साथ भी लागू होती है। पूछो कैसे? हम"
+    },
+    {
+     "start_s": 4804,
+     "text": "सर आज वो Jio का सिम बेच रहा है। हम Jio के सिम में 50 तरह की दिक्कतें आने लग जाए। उसका परफॉर्मेंस खराब हो जाए।"
+    },
+    {
+     "start_s": 4810,
+     "text": "कस्टमर लेगा तुरंत निकाल के फेंक देगा। बात तो सही है। सर मतलब अंबानी जैसे लोगों का भी सर्वाइवल"
+    }
+   ],
+   "video_id": "v5-TPHSkalE",
+   "video_title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "timestamp_url": "https://www.youtube.com/watch?v=v5-TPHSkalE&t=4799s",
+   "call_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "quote_en": "Sir, today he is selling a Jio SIM."
+  },
+  {
+   "company": "Infosys Ltd.",
+   "symbol_guess": "INFY",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "Infosys",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick.",
+   "ticker": {
+    "yahoo_symbol": "INFY.BO",
+    "google_finance": "INFY:BOM",
+    "name": "Infosys Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 3106,
+     "text": "वो रिटर्न आपको पास ऑन कर देते हैं यही म्यूचल फंड होता है हम रीट भी कुछ ऐसा ही होता है उधर सर एक रियल"
+    },
+    {
+     "start_s": 3111,
+     "text": "स्टेट के एक्सपर्ट बैठे होते हैं। वो भी ₹500 महीना महीना करके फंड बड़ा फंड इकट्ठा करते हैं।"
+    },
+    {
+     "start_s": 3117,
+     "text": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।"
+    },
+    {
+     "start_s": 3122,
+     "text": "ओके वो बिल्डिंग्स जैसे बड़े-बड़े मॉल्स होते हैं। बड़ी-बड़ी बिल्डिंग्स में जिसमें Infosys, TCS, विp्रो जैसी कंपनियां हैं"
+    },
+    {
+     "start_s": 3128,
+     "text": "वो कंपनियां रेंट पे लेती हैं। हम तो ये पैसा उन बड़े-बड़े कॉर्पोरेट्स उन बड़ी-बड़ी बिल्डिंग में इन्वेस्ट किया"
+    }
+   ],
+   "video_id": "v5-TPHSkalE",
+   "video_title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "timestamp_url": "https://www.youtube.com/watch?v=v5-TPHSkalE&t=3117s",
+   "call_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "quote_en": "There are companies like Infosys, TCS, Wipro."
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "symbol_guess": "TCS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "TCS",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick.",
+   "ticker": {
+    "yahoo_symbol": "TCS.NS",
+    "google_finance": "TCS:NSE",
+    "name": "Tata Consultancy Services Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3106,
+     "text": "वो रिटर्न आपको पास ऑन कर देते हैं यही म्यूचल फंड होता है हम रीट भी कुछ ऐसा ही होता है उधर सर एक रियल"
+    },
+    {
+     "start_s": 3111,
+     "text": "स्टेट के एक्सपर्ट बैठे होते हैं। वो भी ₹500 महीना महीना करके फंड बड़ा फंड इकट्ठा करते हैं।"
+    },
+    {
+     "start_s": 3117,
+     "text": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।"
+    },
+    {
+     "start_s": 3122,
+     "text": "ओके वो बिल्डिंग्स जैसे बड़े-बड़े मॉल्स होते हैं। बड़ी-बड़ी बिल्डिंग्स में जिसमें Infosys, TCS, विp्रो जैसी कंपनियां हैं"
+    },
+    {
+     "start_s": 3128,
+     "text": "वो कंपनियां रेंट पे लेती हैं। हम तो ये पैसा उन बड़े-बड़े कॉर्पोरेट्स उन बड़ी-बड़ी बिल्डिंग में इन्वेस्ट किया"
+    }
+   ],
+   "video_id": "v5-TPHSkalE",
+   "video_title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "timestamp_url": "https://www.youtube.com/watch?v=v5-TPHSkalE&t=3117s",
+   "call_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "quote_en": "There are companies like Infosys, TCS, Wipro."
+  },
+  {
+   "company": "Wipro Ltd.",
+   "symbol_guess": "WIPRO",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "विp्रो",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick.",
+   "ticker": {
+    "yahoo_symbol": "WIPRO.NS",
+    "google_finance": "WIPRO:NSE",
+    "name": "Wipro Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 3106,
+     "text": "वो रिटर्न आपको पास ऑन कर देते हैं यही म्यूचल फंड होता है हम रीट भी कुछ ऐसा ही होता है उधर सर एक रियल"
+    },
+    {
+     "start_s": 3111,
+     "text": "स्टेट के एक्सपर्ट बैठे होते हैं। वो भी ₹500 महीना महीना करके फंड बड़ा फंड इकट्ठा करते हैं।"
+    },
+    {
+     "start_s": 3117,
+     "text": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।"
+    },
+    {
+     "start_s": 3122,
+     "text": "ओके वो बिल्डिंग्स जैसे बड़े-बड़े मॉल्स होते हैं। बड़ी-बड़ी बिल्डिंग्स में जिसमें Infosys, TCS, विp्रो जैसी कंपनियां हैं"
+    },
+    {
+     "start_s": 3128,
+     "text": "वो कंपनियां रेंट पे लेती हैं। हम तो ये पैसा उन बड़े-बड़े कॉर्पोरेट्स उन बड़ी-बड़ी बिल्डिंग में इन्वेस्ट किया"
+    }
+   ],
+   "video_id": "v5-TPHSkalE",
+   "video_title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "timestamp_url": "https://www.youtube.com/watch?v=v5-TPHSkalE&t=3117s",
+   "call_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "quote_en": "There are companies like Infosys, TCS, Wipro."
+  },
+  {
+   "company": "Jio Financial Services",
+   "symbol_guess": "JIOFIN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Jio फाइनेंस मैं भी ब्रोकरेज के धंधे में आ रहा है।",
+   "start_s": 2087,
+   "line": "500 करोड़ 700 करोड़ लगाता है बेटे की शादी में। हम है ना? अभी नया-नया वेंचर खोला है उसने।",
+   "evidence": [
+    {
+     "text": "Jio फाइनेंस",
+     "where": "transcript",
+     "start_s": 2092
+    }
+   ],
+   "reason": "The speaker mentions Jio Finance in passing without giving any buy/sell advice, so it is listed as a watch.",
+   "ticker": {
+    "yahoo_symbol": "JIOFIN.NS",
+    "google_finance": "JIOFIN:NSE",
+    "name": "Jio Financial Services Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 2075,
+     "text": "है। वो सोच रहा है कि सरकारी नौकरी छोड़ो। 500 की सरकारी नौकरी है। 25 की मिल जाए लेकिन गांव के पास हो जाए।"
+    },
+    {
+     "start_s": 2081,
+     "text": "हम वो ये सोच रहा है किधर है सेटलमेंट? सर अंबानी"
+    },
+    {
+     "start_s": 2087,
+     "text": "500 करोड़ 700 करोड़ लगाता है बेटे की शादी में। हम है ना? अभी नया-नया वेंचर खोला है उसने।"
+    },
+    {
+     "start_s": 2092,
+     "text": "Jio फाइनेंस मैं भी ब्रोकरेज के धंधे में आ रहा है। 2015 में मोबाइल के धंधे में आया है। सिम के धंधे में। उससे पहले भी उसका धंधा चल"
+    },
+    {
+     "start_s": 2099,
+     "text": "रहा था। भारत का सबसे अमीर आदमी नए-नए धंधे खोल रहा है। घर पे बैठ के धंधे खोल लेता होगा क्या? रात भर सोते-सोते?"
+    }
+   ],
+   "video_id": "v5-TPHSkalE",
+   "video_title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "timestamp_url": "https://www.youtube.com/watch?v=v5-TPHSkalE&t=2087s",
+   "call_date": "2026-01-23",
+   "date_uncertainty_days": 0,
+   "quote_en": "Jio Finance is also getting into the brokerage business."
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "featured_picks": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "all_scoreable": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [],
+  "watch_mentions": 9
+ },
+ "regulatory": {
+  "name": "Sagar Sinha",
+  "sebi_pages": [
+   {
+    "title": "कितनी Salary पर कितनी SIP करें पैसा कहाँ लगाएं | Sagar Sinha ...",
+    "url": "https://www.youtube.com/watch?v=zXRTLCRgrIs",
+    "snippet": "How ₹27K SIP Can Build ₹5 Crore | ft. · SIP MASTERCLASS - SIP में पैसा कैसे बढ़ता है | Sagar Sinha · Money Management की ..."
+   },
+   {
+    "title": "4 लाख करोड़ की Fund Safety कैसे करते हैं | Sagar Sinha Show",
+    "url": "https://www.youtube.com/watch?v=lfW6tkkqOLc",
+    "snippet": "4 लाख करोड़ की Fund Safety कैसे करते हैं | Sagar Sinha Show | Connect - Email - biz.sagarsinha@gmail.com Facebook– / ..."
+   },
+   {
+    "title": "Guarantee in Stock Market | Sagar Sinha Shorts",
+    "url": "https://www.youtube.com/shorts/EVWhLWKfkiw",
+    "snippet": "Learn more · @sagarsinhadaily. Subscribe. Guarantee in Stock Market | Sagar Sinha Shorts. Liability vs Assets | Sagar Sinha Shorts. 716."
+   },
+   {
+    "title": "1 लाख कमाने के Real Ideas | Sagar Sinha",
+    "url": "https://open.spotify.com/episode/3HXT8dPm3ushUdEhWC3VaC",
+    "snippet": "Listen to this episode from Sagar Sinha Podcast on Spotify. Invest In Mutual Fund SIP, SWP, Stocks | Open FREE Demat ..."
+   },
+   {
+    "title": "Entry Of Sagar Sinha sir Among 2400 Plus Leaders",
+    "url": "https://www.youtube.com/watch?v=mJoBELCfcLE",
+    "snippet": "Entry Of Sagar Sinha sir Among 2400 Plus Leaders | Love & Respect From Team. @coachsagarsinha325 likes8.1K views4 years ago"
+   },
+   {
+    "title": "Crypto को Regulate करने कि तैयारी ? Sagar Sinha",
+    "url": "https://www.youtube.com/shorts/elbdfDcK_iA",
+    "snippet": "... Sagar Sinha - FREE Official Telegram Channel https://t.me/coachsagarsinha Sagar Sinha Twitter - https://x.com/CoachSagarSinha Best Term ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "मंदी आ रही है... क्या डूब जाएँगे Bank? | SAGAR SINHA Movies Theaters (rJ4ZoKyWGF)",
+    "url": "https://media.unisba.ac.id/8e5aed50/c8c211089kt6mXkWKtE/?share=linkedin&nb=1",
+    "source": "Unisba Media",
+    "date": "09/29/2026, 09:05 PM, +0000 UTC"
+   },
+   {
+    "title": "Finfluencer And Motivational Speaker Sagar Sinha Launches Rs 10 Crore Fund For Start-Ups",
+    "url": "https://www.outlookbusiness.com/news/finfluencer-and-motivational-speaker-sagar-sinha-launches-rs-10-crore-fund-for-start-ups",
+    "source": "Outlook Business",
+    "date": "04/05/2024, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "ShareMarketBasics ,“Share Market म्हणजे काय? | Beginner Guide Marathi 📈”",
+    "url": "https://youtu.be/sPQ9eVuupzw?si=yMpGsPN0ZBHPFNJd",
+    "source": "YouTube",
+    "date": "03/24/2026, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Share Market में ₹36 हज़ार करोड़ का घोटाले का पूरा Hisab Kitab? | Jane Street Case | SEBI | BIZ Tak",
+    "url": "https://youtu.be/N9QPxbmVDOI?si=oFk5vwCFGPGUiGOp",
+    "source": "YouTube",
+    "date": "07/06/2025, 07:00 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 11,
+ "live": false,
+ "generated_at": "2026-10-11T05:33:13"
+}

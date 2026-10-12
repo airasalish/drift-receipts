@@ -1,0 +1,27 @@
+{
+ "calls": [
+  {
+   "company": "Pine Labs Ltd",
+   "symbol_guess": "PINE",
+   "direction": "hold",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इसलिए 15% ये स्टॉक अप है।",
+   "start_s": 168,
+   "line": "ज्यादा स्पेंडिंग में आ रही है। तो जो मैनेजमेंट की बातें हैं वो भी काफी इंटरेस्टिंग है और जो यह एआई को लेकर अग्रेसर होकर कामकाज कर रहे हैं वो भी",
+   "evidence": [
+    {
+     "text": "15% ये स्टॉक अप है",
+     "where": "transcript",
+     "start_s": 175
+    }
+   ],
+   "reason": "The speaker notes a 15% rise and positive developments but does not explicitly advise buying or selling, so the recommendation is treated as a neutral hold."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

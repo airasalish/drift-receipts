@@ -1,0 +1,1493 @@
+{
+ "search_metadata": {
+  "id": "6ac9456009a51a8b65dfa7d8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Vub-iuMGwStHDG_yMwpSeqAJC_DXAFeXOT81YmS4Wso/6ac9456009a51a8b65dfa7d8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Vub-iuMGwStHDG_yMwpSeqAJC_DXAFeXOT81YmS4Wso/6ac9456009a51a8b65dfa7d8.md",
+  "created_at": "2026-10-09 19:49:52 UTC",
+  "processed_at": "2026-10-09 19:49:52 UTC",
+  "google_news_url": "https://news.google.com/search?q=SEBI+finfluencer&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/Vub-iuMGwStHDG_yMwpSeqAJC_DXAFeXOT81YmS4Wso/6ac9456009a51a8b65dfa7d8.html",
+  "total_time_taken": 0.97
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "SEBI finfluencer"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "‘Do not invest because everyone else is’: SEBI launches Project Jagrook to tackle finfluencer-driven investing",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/how-it-works/do-not-invest-because-everyone-else-is-sebi-launches-project-jagrook-to-tackle-finfluencer-driven-investing-112022.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/08/Untitled-design-2026-08-24T104819.293-2026-08-89a2edbde34a19927f967455183cfb28-1019x573.jpg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1OMWt5WjJkR2EzaEhlVTVRVFJEOEFoaWpCU2dLTWdhaFZaVE1wUWM",
+   "date": "10/05/2026, 02:01 PM, +0000 UTC",
+   "iso_date": "2026-10-05T14:01:13Z"
+  },
+  {
+   "position": 2,
+   "title": "SEBI launches Project Jagrook to counter unregulated finfluencers",
+   "source": {
+    "name": "Adgully.com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.adgully.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.adgully.com/post/21744/sebi-launches-project-jagrook-to-counter-unregulated-finfluencers",
+   "thumbnail": "https://erp.adgully.com/artical_image/16c63e5b60c44574661f24edc2c2bd3f.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTBjRmxVY1Y5MFgzRTFiakF5VFJDZkF4ampCU2dLTWdB",
+   "date": "10/06/2026, 05:33 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:33:00Z"
+  },
+  {
+   "position": 3,
+   "title": "India’s Finfluencer Challenge: From Influence to Accountability",
+   "source": {
+    "name": "CFA Institute",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://blogs.cfainstitute.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Garg"
+    ]
+   },
+   "link": "https://blogs.cfainstitute.org/marketintegrity/2026/08/24/indias-finfluencer-challenge-from-influence-to-accountability/",
+   "thumbnail": "https://blogs.cfainstitute.org/marketintegrity/files/2026/08/India-Finfluencers-940x575.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtValY0TkVkUVREYzFabHB2VFJDeEF4akVCU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "SEBI chief draws line for finfluencers: Education is fine; unregistered stock tips are not",
+   "source": {
+    "name": "Buzzincontent",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.buzzincontent.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.buzzincontent.com/news/sebi-chief-draws-line-for-finfluencers-education-is-fine-unregistered-stock-tips-are-not-12627731",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/buzzincontent-1/media/media_files/2026/10/06/sebi-chairman-tuhin-kanta-pandey-2026-10-06-10-15-40.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJhMWxxWldORlNtMTBka2czVFJDZkF4ampCU2dLTWdhaFZvTHNwUWc",
+   "date": "10/06/2026, 04:47 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:47:54Z"
+  },
+  {
+   "position": 5,
+   "title": "Sebi targets 'finfluencer' misconduct to protect retail investors, freezes accounts of perpetrators",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/tech/technology/sebi-targets-finfluencer-misconduct-to-protect-retail-investors-freezes-accounts-of-perpetrators/articleshow/131266398.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131266429,width-1200,height-900,resizemode-4,imgsize-56808/sebi-targets-finfluencer-misconduct-to-protect-retail-investors-freezes-accounts-of-perpetrators.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTVEpTTW1wNmQwUnlhbkZJVFJEZ0F4aUFCU2dLTWdhdHBJYXVRUVE",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Beyond SEBI’s crackdown, how fin brands are driving financial literacy",
+   "source": {
+    "name": "Exchange4Media",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shalinee Mishra"
+    ]
+   },
+   "link": "https://www.exchange4media.com/marketing-news/beyond-sebis-crackdown-how-fin-brands-are-driving-financial-literacy-158937.html",
+   "thumbnail": "https://exchange4media.gumlet.io/news-photo/158937-FinBrandsxCreators.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9Zek5yWTFsT2RrSjFjbXhQVFJDbEFSaXhBaWdCTWdrTk1vU3JTU09hWmdJ",
+   "date": "10/07/2026, 03:39 AM, +0000 UTC",
+   "iso_date": "2026-10-07T03:39:22Z"
+  },
+  {
+   "position": 7,
+   "title": "SEBI Investor Protection Fund Hits Rs 965 Crore, Spending Lags",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/sebi-investor-protection-fund-rs-965-crore-spending-lags-fraud-risks",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/sebi-investor-protection-fund-balloons-to-rs-965-crore-but-spending-lags-what.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFVRjlSVVY4dE9GZHNSRFJWVFJDUUF4ai1CU2dLTWdtQk1aQ2pHaXBOQ3dJ",
+   "date": "10/06/2026, 07:53 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:53:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Likes, Shares, And Liability: The Evolution Of Finfluencer Regulation In India.",
+   "source": {
+    "name": "Live Law",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pratap Venugopal"
+    ]
+   },
+   "link": "https://www.livelaw.in/articles/finfluencer-regulation-sebi-india-investor-protection-market-manipulation-533831",
+   "thumbnail": "https://www.livelaw.in/h-upload/2024/01/19/1500x900_517115-finfluencers.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdTM0ZKV1ZkbE5sUldhak5MVFJDdEF4akxCU2dLTWdrWlU0UUp0ZVJiOXdB",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "62% investors follow finfluencers. Sebi is using AI to hunt down fake tips and fraud",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/business/story/sebi-ai-tool-finfluencers-crackdown-project-sudarsan-fake-investment-tips-social-media-fraud-2967400-2026-08-10",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/sebi-crackdown-financial-influencers-100329872-16x9_0.jpg?VersionId=MgwIc_mBeTVuvVZYCsqlFtl19oPo0CTK&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVTMXBQZDNKSmNVTkxaalUyVFJDZkF4ampCU2dLTWdPbFlnSQ",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Only 6% of finfluencers are SEBI-registered; 33% continue issuing stock recommendations: Report",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anushka Sengupta"
+    ]
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/only-6-of-finfluencers-are-sebi-registered-a-regulatory-wake-up-call/132684989",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132684989,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFlV1JoZVZOWmREWnNRMjlyVFJDZkF4ampCU2dLTWdtTlk0cU5NYWFoRWdF",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Only 6% of finfluencers are SEBI-registered, but one in three recommend stocks",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anishaa Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/only-6-of-finfluencers-are-sebi-registered-but-one-in-three-recommend-stocks-13986256.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606032632_stock1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlka1ppVkZkNk9VWXpXbEJPVFJDZkF4ampCU2dLTWdZcHhJaHVSUVE",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Sebi Annual Report: Know What Changed From Your Social Media Feed to Your Portfolio In FY26",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ayush Khar"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/sebi-annual-report-know-what-changed-from-your-social-media-feed-to-your-portfolio-in-fy26",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-06-24/ccpdws14/AI-adoption-pix.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFMVU5aVEc1Vk9FWnZhRUpsVFJDZkF4ampCU2dLTWdiQk1vejBuQWs",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "SEBI's finfluencer norms shift brand focus from reach to credibility",
+   "source": {
+    "name": "PitchOnnet",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pitchonnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shalinee Mishra"
+    ]
+   },
+   "link": "https://www.pitchonnet.com/pitch-feature/sebis-finfluencer-norms-shift-brand-focus-from-reach-to-credibility-40428.html",
+   "thumbnail": "https://storage.googleapis.com/pitchonnet-news-photo/news-photo/40428.pitch6-(90).jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXlTVmx2WW1oM1QzUmZNSFZIVFJDZ0F4amdCU2dLTWdB",
+   "date": "06/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Lowdown: SEBI wants to treat finfluencers and AI avatars as celebrities under the new ad code",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aakriti Bansal"
+    ]
+   },
+   "link": "https://www.medianama.com/2026/06/223-lowdown-sebi-treat-finfluencers-ai-avatars-celebrities-under-new-ad-code/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2020/10/sebi.gif.gif",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iKkNnNVhNa3M0UjJ3MWVDMVlaRUptVFJCUEdLRUJLQW95QmlGRWlxeWxCZw",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "SEBI registration among finfluencers triples, but one in three still give stock tips",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akshata Gorde"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/sebi-registration-among-finfluencers-triples-but-one-in-three-still-give-stock-tips/article71282188.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/njz2h7/article71282695.ece/alternates/LANDSCAPE_1200/IMG_CCI_UDHindu_KSL_U907_2_1_8PA9QO2T.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1OblZEU0hSdmRHRmtPVkJTVFJDZkF4ampCU2dLTWdrUllwSnBPdWRqS3dJ",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "How SEBI used a novel method to bust finfluencer family’s pump-and-dump scam",
+   "source": {
+    "name": "VCCircle",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vccircle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asha Menon"
+    ]
+   },
+   "link": "https://www.vccircle.com/howsebi-used-a-novel-method-to-bust-finfluencer-family-s-pump-and-dump-scam",
+   "thumbnail": "https://assets.vccircle.com/uploads/2024/11/SEBI.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtUbFJVWkVSMFJIWk9TbmhOVFJDZUF4ak1CU2dLTWdhQk00ekZJUWs",
+   "date": "05/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-25T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "SEBI’s Project Sudarsan flags 20,000 fraudulent posts as 62% of investors are influenced by finfluencers",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kirti Jha"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/sebis-project-sudarsan-flags-20-000-fraudulent-posts-as-62-of-investors-are-influenced-by-finfluencers-11786243711745.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/09/1600x900/logo/Gemini_Generated_Image_53wurx53wurx53wu_1786245429373_1786245434636_23be56b7-73d5-44e0-a01d-6a1bd333d482.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXllVGMwVWpOWFdGcFdkRWR3VFJDZkF4ampCU2dLTWdraEFKSlpnRzF6clFF",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "SEBI's Anti-Finfluencer Push Deepens, But AI Monitoring Remains Absent",
+   "source": {
+    "name": "ETLegalWorld.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://legal.economictimes.indiatimes.com/news/regulators/sebi-intensifies-fight-against-finfluencers-amidst-ai-oversight-challenges/129919191",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-129919191,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhM1l4V21aR09UVTRRMjlyVFJDZkF4ampCU2dLTWdZSlU0eUtSUVk",
+   "date": "03/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-31T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Only 6% Of Finfluencers Are Sebi-Registered, Yet 33% Offer Explicit Stock Recommendations: Report",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/personal-finance/only-6-of-finfluencers-are-sebi-registered-yet-33-offer-explicit-stock-recommendations-report",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-07-29/b5miv9hk/Finfluencers.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9WMU5OVWxkS1ZYVjZVRkpTVFJDZkF4ampCU2dLTWdZSlVJZ3hwUWM",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "SEBI chief flags decline in registered investment advisers, warns of rising finfluencer influence",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/sebi-chief-flags-decline-in-registered-investment-advisers-warns-of-rising-finfluencer-influence/article70749629.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/4v354r/article70749780.ece/alternates/LANDSCAPE_1200/2026-03-11T061949Z_1846316542_RC242KAW02SF_RTRMADP_3_INDIA-INVESTING.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVFSall3YmpoT2NHaHlOMDFHVFJDZkF4ampCU2dLTWdB",
+   "date": "03/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-16T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "SEBI did not penalise most finfluencers: CFA study",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/Industry/sebi-did-not-penalise-958-of-fiinfluencers/article71277855.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/5p8jjs/article71278363.ece/alternates/LANDSCAPE_1200/SEBI-weighs-risGS4G9S0BG.4.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNiSEJ5YmtwS2RqVm1TbUpYVFJDZkF4ampCU2dLTWdrQnhJSkE0MkJVY0FF",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "SEBI cracks down on finfluencer pump-and-dump network; warns retail investors against social media stock tips",
+   "source": {
+    "name": "ANI News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.aninews.in/news/business/sebi-cracks-down-on-finfluencer-pump-and-dump-network-warns-retail-investors-against-social-media-stock-tips20260523110908",
+   "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260523052853.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRXSEZrYjNnMmMzSnpTSEIwVFJEZ0F4aUFCU2dLTWdhdGhJYXVRUVE",
+   "date": "05/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-23T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Project Sudarsan: How Sebi is using AI to police finfluencers with 60% of investors trusting their advice",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advice/articleshow/133099411.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133099500,width-1200,height-900,resizemode-4,imgsize-67822/project-sudarsan-how-sebi-is-using-ai-to-police-finfluencers-with-60-of-investors-trusting-their-advicebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJSbmgyV0d4NFpreFBlVTl6VFJEZ0F4aUFCU2dLTWdhQmdvNXBRUVk",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "SME Stock Fraud: Sebi Bans 7 Unregistered Finfluencers Over Rs 20 Crore Social Media Scam",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ayush Khar"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/sme-stock-fraud-sebi-bans-7-unregistered-finfluencers-over-rs-20-crore-social-media-scam",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-05-23/95rroriz/sebi-finfluencer.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNYM2x0Y1ZCTVozcENZbVZ2VFJDZkF4ampCU2dLTWdhaHBKQ3RPUVk",
+   "date": "05/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-23T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "SEBI skins a notorious finfluencer",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/pulse/sebi-skins-notorious-finfluencer-zerodha-d7nkc",
+   "thumbnail": "https://media.licdn.com/dms/image/v2/D5612AQFR8VhwzJs2FQ/article-cover_image-shrink_720_1280/B56Zr8C8_3JsAI-/0/1765165225294?e=2147483647&v=beta&t=RM8znFsrpBgDqcuG1z63Um__4e5ittfBVJ00LGkz_aI",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRNRGhrYkd0NmVrc3haVWxtVFJDZkF4ampCU2dLTWdZSmdvem1zZ2M",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Finfluencers Under Watch as SEBI Aims to Close a Trading Education Loophole",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/pulse/finfluencers-under-watch-sebi-aims-close-trading-v1awf",
+   "thumbnail": "https://media.licdn.com/dms/image/v2/D4D12AQHOHjoIYNGISw/article-cover_image-shrink_720_1280/B4DZvfBv5_KEAI-/0/1768973337936?e=2147483647&v=beta&t=YUvscfQ5MsXi0li62thSAxYZ4HSNclhI31M781rOYLg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVZbEo0VTJwbk4wUktVVXBWVFJDZkF4amlCU2dLTWdtSkVZNkdvcWMwcndF",
+   "date": "01/21/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-21T08:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Sebi's finfluencer crackdown; Scimplify eyes fresh funds",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/tech/newsletters/tech-top-5/sebis-finfluencer-crackdown-scimplify-eyes-fresh-funds/articleshow/129826437.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-129826437,width-1200,height-900,imgsize-10096,overlay-ettech/editionshow-amp.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXlOQzF5YzFSNWNVdDNVVk5yVFJEZ0F4aUFCU2dLTWdB",
+   "date": "03/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-26T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Sebi Investor Survey 2025: New Investors Listen To Friends, Feeds, And Finfluencers",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/invest/sebi-investor-survey-2025-new-investors-listen-to-friends-feeds-and-finfluencers",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-01-25/7v0q3s4m/Sebi-Investor-Survey-2025-New-Investors-Listen-To-Friends-Feeds-And-Finfluencers?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5OVFZUY0Y5M1IxQlpZV2gxVFJERUF4aW1CU2dLTWdB",
+   "date": "01/26/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-26T08:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Sebi, Google partner to monitor finfluencers' violation of norms",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushboo Tiwari"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sebi-works-with-google-to-crack-down-on-finfluencers-126032501198_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/13/full/1770967469-097.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhPVkpTWjFSWVJXVnVUekEwVFJERUF4aW1CU2dLTWdZdFZaYk9wUWc",
+   "date": "03/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-25T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Regulators intensify global crackdown on finfluencers; SEBI steps up AI-led surveillance in India",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/global-regulators-crack-down-on-finfluencers-as-sebi-enhances-ai-surveillance-in-india/130567823",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-130567823,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNZbmh0YjJwaGNIbE5OMk5sVFJDZkF4ampCU2dLTWdhZGNZN01NUVk",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "SEBI Mandates Disclosure of Registered Names, Numbers on Social Media for Regulated Entities",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prabhanu Kumar Das"
+    ]
+   },
+   "link": "https://www.medianama.com/2026/02/223-sebi-mandates-registration-number-on-social-media/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2021/03/NEW-1280X720-FEATURED-14-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ZM1Y0VDA0NFFUWkxiMGRYVFJDZkF4ampCU2dLTWdZQk1aTGtvZ2s",
+   "date": "02/27/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-27T08:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Finfluencer Advice: What Investors Must Know",
+   "source": {
+    "name": "Rediff",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Karthik Jerome",
+     "Sanjay Kumar Singh"
+    ]
+   },
+   "link": "https://www.rediff.com/getahead/report/finfluencer-advice-what-investors-must-know-personal-finance/20260813.htm",
+   "thumbnail": "https://im.rediff.com/1600-900/getahead/2026/aug/12finfluencers1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1VVWhUVDJsT2RtdDFNVkIxVFJDZkF4ampCU2dLTWdZcE1wU3VHUW8",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Sebi to seize Rs 546cr in biggest order against a ‘finfluencer’",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-to-seize-rs-546cr-in-biggest-order-against-a-finfluencer/articleshow/125777854.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-125777873,width-1280,height-720,resizemode-4/125777873.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlakJWTVZkQldrcHlRekJSVFJDZkF4ampCU2dLTWdhcGRZanRNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "SEBI’s bond ad curbs get thumbs-up, but finfluencers seek clarity",
+   "source": {
+    "name": "Exchange4Media",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shalinee Mishra"
+    ]
+   },
+   "link": "https://www.exchange4media.com/influence-zone-news/sebis-bond-ad-curbs-get-thumbs-up-but-finfluencers-seek-clarity-157600.html",
+   "thumbnail": "https://exchange4media.gumlet.io/news-photo/157600-FinfluencersxCreatorEconomoyxInfluencers.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVdZbXhsVVZoZlpIVlBhazU2VFJDTEF4amFCU2dLTWdB",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Finfluencer Row: SEBI Bans 7 Entities In Social Media Stock Manipulation Scandal",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shrikant Shankar"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/finfluencer-row-sebi-bans-7-entities-in-social-media-stock-manipulation-scandal-11534738",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/6lge5p4k_sebi_625x300_22_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlaMGxEVlcxSmFITlNaVTlhVFJDZkF4ampCU2dLTWdZQm81SnZPUVk",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "SEBI Deploys AI Tools To Curb Finfluencer Risk, Says 62% Of Investors Influenced By Them",
+   "source": {
+    "name": "Outlook Business",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookbusiness.com/corporate/sebi-deploys-ai-tools-to-curb-finfluencer-risk-says-62-of-investors-influenced-by-them",
+   "thumbnail": "https://media.assettype.com/outlookbusiness/2026-05-26/9r4kr8xw/60-61-1-sixteen_nine.avif?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1ORmRUZFVoVkxXcHFTa2hOVFJDZkF4ampCU2dLTWdhSmM1QlJLUWM",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "How safe is it to accept finfluencers' investment recommendations?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Karthik Jerome",
+     "Sanjay Kumar Singh"
+    ]
+   },
+   "link": "https://www.business-standard.com/finance/personal-finance/how-safe-is-it-to-accept-finfluencers-investment-recommendations-126073001609_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-08/02/full/1785686840-6572.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJUa2hzUldObldrb3dVa3h1VFJEZEF4aURCU2dLTWdrQkFaQ0dLdWd0QWdN",
+   "date": "08/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-02T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "How SEBI's AI-powered platform identified over 20,000 fraudulent finfluencer posts",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rajeev Kumar"
+    ]
+   },
+   "link": "https://upstox.com/news/personal-finance/latest-updates/how-sebi-s-ai-powered-platform-identified-over-20-000-fraudulent-finfluencer-posts/article-198329/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sebi-project-sudarshan-for-influencers.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVViSHBNUmxOMExXNVJRWGxPVFJDZkF4ampCU2dLTWdrTmdZN3ZzT2F4emdF",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "SEBI removes 1.2 lakh misleading finfluencer posts, deploys AI ‘Sudarshan’: Chairman",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/money-and-banking/sebi-removes-12-lakh-misleading-finfluencer-posts-deploys-ai-sudarshan-chairman/article70693848.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/6j81p2/article70693927.ece/alternates/LANDSCAPE_1200/PTI03_02_2026_000001A.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVWVkI1VFRZMlNHVlljM0JxVFJDZkF4ampCU2dLTWdhTlU0WXlvUWc",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Sebi leverages AI to combat finfluencer fraud on Google platforms",
+   "source": {
+    "name": "ET CISO",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://ciso.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://ciso.economictimes.indiatimes.com/news/cybercrime-fraud/sebi-leverages-ai-to-combat-finfluencer-fraud-on-google-platforms/129815133",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-129815133,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRhM1l4V21aR09UVTRRMjlyVFJDZkF4ampCU2dLTWdZSlU0eUtSUVk",
+   "date": "03/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-26T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "From scanning finfluencer ads to mutual fund misselling, here's how SEBI is putting AI to work",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/from-scanning-finfluencer-ads-to-mutual-fund-misselling-here-s-how-sebi-is-putting-ai-to-work-13962526.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260630120955_mf11.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlXV1ZITUVJM1dEY3lWbkkxVFJDZkF4ampCU2dLTWdZQmtJN3J0UVk",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "SEBI removes nearly 1 lakh videos of ‘finfluencers’ giving stock tips without financial adviser registration",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sanal Sudevan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2026/Jan/10/sebi-removes-nearly-1-lakh-videos-of-finfluencers-giving-stock-tips-without-financial-adviser-registration",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-11-07/8ca7g1sf/202511073567513.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFhV2hqYzBoSWRrUndUMWsxVFJEQUF4aXNCU2dLTWdhdEk1NlBHUW8",
+   "date": "01/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-10T08:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Lost money after following a finfluencer’s stock tip? Here’s when you can seek legal recourse",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Eshita Gain"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/lost-money-after-following-a-finfluencer-s-stock-tip-here-s-when-you-can-seek-legal-recourse-11787127258096.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/19/1600x900/logo/finfluencer_1787131777500_1787131785291_08c00f57-853a-49f4-8461-a3a5107d593b.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5RbTlIWjJoc1RGb3dialZ0VFJDZkF4ampCU2dLTWdZVkpwZ0xtZ2s",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "SEBI Cracks Down On Finfluencer Avadhut Sathe, Impounds ₹546 Crore For Providing Unregistered Investment...",
+   "source": {
+    "name": "Live Law",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livelaw.in/corporate-law/sebi-cracks-down-on-finfluencer-avadhut-sathe-impounds-546-crore-for-providing-unregistered-investment-advice-312335",
+   "thumbnail": "https://www.livelaw.in/h-upload/2025/12/05/1500x900_634798-finfluencer-avadhut-sathesebi.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFYMFF4WWtkT1RUZFVkRVkyVFJDdEF4akxCU2dLTWdaUlFZSzNJQWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "SEBI registration among finfluencers improves, but disclosure concerns remain: Report",
+   "source": {
+    "name": "Storyboard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/how-it-works/sebi-registration-among-finfluencers-improves-but-disclosure-concerns-remain-report-106036.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/07/Visuals-Page-2026-07-30T113822.472-2026-07-b0d5a2ca9fdf3cb8b57b18f146b0a1d7-1019x573.jpg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpTMnhNVDJ4VldqZ3RTWGRoVFJEOEFoaWpCU2dLTWdB",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Sebi deploys AI tool 'Sudarshan', removes 1.2 lakh misleading 'finfluencer' posts: Tuhin Kanta Pandey",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sebi-deploys-ai-tool-sudarshan-removes-1-2-lakh-misleading-finfluencer-posts-tuhin-kanta-pandey/articleshow/128939153.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-128939325,width-1200,height-900,resizemode-4,imgsize-198784/sebi.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhVMFZ4U0ZkMk4ySkVaRVk0VFJEZ0F4aUFCU2dLTWdZZGNZN01NUVk",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "SEBI Partners Google to Curb Fake Trading Apps, Finfluencers",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.medianama.com/2026/03/223-sebi-google-verify-stock-trading-apps-use-ai-track-finfluencers/",
+   "date": "03/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-26T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Only 6% of finfluencers are SEBI-registered, yet 33% give stock tips",
+   "source": {
+    "name": "Buzzincontent",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.buzzincontent.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.buzzincontent.com/insight/only-6-of-finfluencers-are-sebi-registered-yet-33-give-stock-tips-12212156",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/buzzincontent-1/media/media_files/2026/07/30/fin-influencer-2026-07-30-16-01-57.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFSR0p5UjNWQmNUZHFUbU5PVFJDZkF4ampCU2dLTWdB",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Sebi chairman Tuhin Kanta Pandey has a stern message for finfluencers, ‘rules are…’",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jocelyn Fernandes"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-chairman-tuhin-kanta-pandey-says-regulations-finfluencers-clear-people-rights-have-to-be-respected-misinformation-11765513164722.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/12/1600x900/logo/INDIA-REGULATION-MARKETS-8_1765523162512_1765523182106.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNNemQ0TnpZM2RsZHFNRVJSVFJDZkF4ampCU2dLTWdZTlk1SlFJUWc",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "SEBI targets \"finfluencer\" misconduct to protect retail investors, freezes accounts of perpetrators",
+   "source": {
+    "name": "indiagazette.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiagazette.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiagazette.com/news/279069758/sebi-targets-finfluencer-misconduct-to-protect-retail-investors-freezes-accounts-of-perpetrators",
+   "thumbnail": "https://image.chitra.live/api/v1/wps/06c68d1/04173925-78c4-46b1-baff-adb390ce0305/0/ANI-20260522170934-630x420.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhaR3hHU0c1eWIzQlBhM3A0VFJDa0F4ajJCQ2dLTWdZdGdJaXVRUVE",
+   "date": "05/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-23T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "SEBI Removes Over 1.2 Lakh Misleading ‘Finfluencer’ Posts, Deploys AI Tool ‘Sudarshan’ to Track Violations: Report",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/sebi-removes-over-12-lakh-misleading-finfluencer-posts-deploys-ai-tool-sudarshan-to-track-violations-report/79831.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/Removes02032026Mian.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZNMHg0ZGtKUVYxaHZNVU5zVFJDZUF4amxCU2dLTWdhcEk0anRsUW8",
+   "date": "03/02/2026, 12:05 PM, +0000 UTC",
+   "iso_date": "2026-03-02T12:05:03Z"
+  },
+  {
+   "position": 52,
+   "title": "Markets Ban On Finfluencer, Watchdog Flags Rs 546 Crore \"Unlawful Gain\"",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/india-news/finfluencer-avadhut-sathe-sebi-markets-ban-over-unregistered-stock-tips-charges-9757209",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/racrhsbc_avadhut-sathe_625x300_05_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXVTVaZWs1TlRUQXpSbU5OVFJDeUF4akNCU2dLTWdiQmNwUVVxUWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "33% finfluencers recommend stocks but only 6% are Sebi registered: Report",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/finance/news/33-finfluencers-recommend-stocks-but-only-6-are-sebi-registered-report-126072801516_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/24/full/1761282019-8096.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdRV3MwZGpjd1V6UmtaVEZqVFJDZUF4amtCU2dLTWdhQk1aQlFvUWc",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "From viral reels to registered firms: How Sebi rules are resetting India’s finfluencer economy",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Maryam Farooqui"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/startup/from-viral-reels-to-registered-firms-how-sebi-rules-are-resetting-india-s-finfluencer-economy-13841071.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260224091326_finance-creators.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdPVTEzTkVkeFN6SmpRMVpsVFJDZkF4ampCU2dLTWdZZFFKSUxIZ2s",
+   "date": "02/24/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-24T08:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "SEBI deploys AI tools as annual report finds 62% investors follow finfluencers",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sheersh Kapoor"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/sebi-annual-report-deploys-ai-tools-as-62-pc-investors-follow-finfluencers-19963654.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/tuhin-kanta-pandey-2026-08-7858fb3b4218757676c2cc3dffa0e5f8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZVXg0UzBGcFZHcGpNM014VFJDZkF4ampCU2dLTWdaQkk1d3pHUW8",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "'Balance freedom of expression and misinformation': Sebi chief has a stern warning to finfluencers",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Dec/12/balance-freedom-of-expression-and-misinformation-sebi-chief-has-a-stern-warning-to-finfluencers",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-10-08/g5yh8l4b/ANI_20251008091649.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFORTAyWldZeFduaGxWR3RTVFJEZ0F4aUFCU2dLTWdB",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "SEBI Chief Flags Rising ‘Finfluencer’ Threat As 62% Investors Rely On Unregulated Advice In India",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/videos/sebi-chief-flags-rising-finfluencer-threat-as-62-investors-rely-on-unregulated-advice-in-india-11773747180581.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/03/17/250x250/hqdefault_1773747178783_1773747221100.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFiakF0TjB0Q1RHaDZTQzAyVFJENkFSajZBU2dLTWdrQmdJSWJKQ2hKdUFB",
+   "date": "03/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-17T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Sebi removes 1.2 lakh misleading finfluencer posts, deploys AI 'Sudarshan': Chairman",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/tech/technology/sebi-removes-1-2-lakh-misleading-finfluencer-posts-deploys-ai-sudarshan-chairman/articleshow/128939005.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-128939305,width-1200,height-900,resizemode-4,imgsize-57142/sebi-removes-1-2-lakh-misleading-finfluencer-posts-deploys-ai-sudarshan-chairman.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVWVVZDTVU1YU5rWXpUVEJ1VFJEZ0F4aUFCU2dLTWdhNU01cFJuUWs",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Gen Z’s investing boom has a finfluencer problem",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/the-rise-of-gen-z-investors-navigating-the-finfluencer-landscape/131570760",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-131570760,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdOa1JDUjFnMlFVTklVR2hUVFJDZkF4ampCU2dLTWdtTlk0cU5NYWFoRWdF",
+   "date": "06/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Sarthak Ahuja to Avadhut Sathe: Why authorities are tightening rules on finance influencers",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/photos/brand-makers/finfluencers-sarthak-ahuja-to-avadhut-sathe-why-authorities-are-tightening-rules-on-finance-influencers-95686.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-20T123546.874-2026-04-36490da9960d6f310b4d4ed1614bdd8e-1019x573.png?impolicy=website&width=1200&height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlNemMxY1Vvd2EzbG5VRUU0VFJDZkF4ampCU2dLTWdzQklJWWlWMk1XS1VxdXNR",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "SEBI’s AI Flags 20,000 Fraudulent Financial Posts as 62% of Investors Trust Finfluencers",
+   "source": {
+    "name": "The420.in",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://the420.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://the420.in/sebi-project-sudarsan-ai-finfluencer-fraud-surveillance/",
+   "thumbnail": "https://the420.in/wp-content/uploads/2026/08/sebi.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhRa0YzYUhoME5qUkpkbE5hVFJDZkF4ampCU2dLTWdrQk9KQW9QaVRJcEFJ",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Sebi takes down 1.2 lakh finfluencer posts, deploys AI tool ‘Sudarshan’: Tuhin Kanta Pandey",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/markets/sebi-takes-down-12-lakh-finfluencer-posts-deploys-ai-tool-sudarshan-tuhin-kanta-pandey/130865",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-02-12/fh19ypn3/Sebi-chief.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhSRXBmU1V4VVRtNVJWVkF5VFJDZkF4ampCU2dLTWdZeFJaQ1BJUWs",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Can SEBI Chairman’s New Transparency Push Outshine the Shadow of ‘Finfluencers’?",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/can-sebi-chairmans-new-transparency-push-outshine-the-shadow-of-finfluencers/79194.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/SEBI716.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZZaTFtTmtGMFFYUTFSbnBvVFJDb0FSaXRBaWdCTWdhRkVZVFBsUXM",
+   "date": "12/26/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-26T08:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "AI Tool Sudarshan: SEBI Chief shares how unethical finfluencer are being weeded out",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ai-tool-sudarshan-sebi-chief-shares-how-unethical-finfluencer-are-being-weeded-out/videoshow/128940879.cms",
+   "thumbnail": "https://economictimes.indiatimes.com/thumb/msid-128940879,width-1600,height-900,resizemode-4/markets/stocks/news/ai-tool-sudarshan-sebi-chief-shares-how-unethical-finfluencer-are-being-weeded-out.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFiMDlJYWtkaVQwaHBlSGMzVFJDZkF4ampCU2dLTWdaRlVwVDFyQWM",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Finfluencers are shaping investment choices. How can investors separate advice from noise?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/money/personal-finance/finfluencers-sebi-registration-investment-advice-11788245994695.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/01/1600x900/logo/g7e1e4ca8b1738dafb452e07699be361e2116a54c427c5e1db_1788250437494_1788250437686_f1161075-9d6d-4bb9-a310-546ac44f1ef1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZUMmhSWTFoWFJHdFFUMnMyVFJDZkF4ampCU2dLTWdrTkVKTFdtS2V4NndF",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "SEBI registered finfluencers rise but disclosure gaps remain, says CFA",
+   "source": {
+    "name": "Indian Television Dot Com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indiantelevision.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indiantelevision.com/iworld/sebi-registered-finfluencers-rise-but-disclosure-gaps-remain-says-cfa/",
+   "thumbnail": "https://indiantelevision.com/wp-content/uploads/2026/07/CFA.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJkVUp2VmtkSFVIUlNibDlKVFJDZkF4ampCU2dLTWdhUkpJak1GUW8",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "SEBI Bars Finfluencer Hemant Gupta, Family Over Alleged Rs 20 Crore Pump-and-Dump Scam",
+   "source": {
+    "name": "Pioneer Daily",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://dailypioneer.com/news/slug-lite/sebi-bans-7-individuals-in-rs-20-cr-stock-manipulation-case?year=2026",
+   "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/medium/R300_sebi-bans-7-individuals-in-rs-20-cr-stock-manipulation-case-2026-05-26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5aVzlmV2xkUU1Ya3djVzVOVFJDdUFSaXNBaWdLTWdZaGdJak9NUWc",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "SEBI flags 1.33 lakh misleading finfluencer posts in 2026",
+   "source": {
+    "name": "Indian Television Dot Com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indiantelevision.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indiantelevision.com/iworld/sebi-flags-1-33-lakh-misleading-finfluencer-posts-in-2026/",
+   "thumbnail": "https://indiantelevision.com/wp-content/uploads/2026/03/SEBI1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjbW93WDNsdFJXVjBiMWxIVFJDZkF4ampCU2dLTWdhQms0eXN0UVk",
+   "date": "03/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-23T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "SEBI Orders Recovery Proceedings Worth Over Rs 18 Crore Against Finfluencer ‘Baap of Chart’",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prabhanu Kumar Das"
+    ]
+   },
+   "link": "https://www.medianama.com/2025/12/223-sebi-recovery-proceedings-rs-18-crore-baap-of-chart/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2016/11/rupees-money-payments-bank-cash-free.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHpiazlNT0RObVZHNTZRemhaVFJEUUFoallCQ2dLTWdzQkVJb0dsU1FlUm1yZVBR",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Who is Avadhut Sathe, Pune finfluencer whose trading academy got banned by Sebi",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonu Vivek"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/story/who-is-avadhut-sathe-pune-finfluencer-sebi-ban-stock-market-trading-academy-2831077-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/avadhut-sathe-050326651-16x9_0.png?VersionId=.KsIsgEW14mK3uKf8Jbs3KG_4gFVD7QN&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJOSE13ZEZBNGRHNU5Namt6VFJDZkF4ampCU2dLTWdZbGhvcnN0UVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Over half of finfluencer Avadhut Sathe academy's monthly expenses go to ads, seminar",
+   "source": {
+    "name": "VCCircle",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vccircle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asha Menon"
+    ]
+   },
+   "link": "https://www.vccircle.com/overhalf-of-under-scanner-finfluencer-sathe-s-academy-monthly-expenses-go-to-ads-seminar",
+   "thumbnail": "https://assets.vccircle.com/uploads/2017/01/tax.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNSEZxUzBwdVgxUXdVRkF6VFJDckF4aUFCU2dLTWdZTkVKU29wUWM",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "SEBI Bars Finfluencer Hemant Gupta, Family Over Alleged Rs 20 Crore Pump-and-Dump Scam",
+   "source": {
+    "name": "Pioneer Daily",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://dailypioneer.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://dailypioneer.com/news/sebi-bans-7-individuals-in-rs-20-cr-stock-manipulation-case",
+   "thumbnail": "https://dailypioneer.com/uploads/2026/story/images/big/sebi-bans-7-individuals-in-rs-20-cr-stock-manipulation-case-2026-05-26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNTVVppU0VOSmRFSTVaemRoVFJDbUF4alhCU2dLTWdB",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "From Sarthak Ahuja to Avadhut Sathe: Why regulators are cracking down on finfluencers",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/amp/trending/from-sarthak-ahuja-to-avadhut-sathe-why-regulators-are-cracking-down-on-finfluencers-95657.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-20T123546.874-2026-04-36490da9960d6f310b4d4ed1614bdd8e-1019x573.png?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHphRFF4WlZkSGRtWkdWRE51VFJEOEFoaWpCU2dLTWdzQklJWWlWMk1XS1VxdXNR",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Avadhut Sathe gets SAT reprieve, gets to access funds for basic expenses",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Benn Kochuveedan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Dec/19/avadhut-sathe-gets-sat-reprieve-gets-to-access-funds-for-basic-expenses",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-12-05/t5l0spfk/202512053597201.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTNaMFpLYkcwNWEwZGhXRGhXVFJDZkF4ampCU2dLTWdB",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "SAT permits finfluencer Avadhut Sathe to operate trading academy; sets January 9 as next date of hearing",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/avadhut-sathe-gets-sat-breather/article70415561.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "SEBI Chief's Warning: Finfluencers Distorting Markets As Adviser Numbers Shrink",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shubhayan Bhattacharya"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/sebi-chief-tuhin-kanta-pandey-warning-finfluencers-distorting-markets-as-adviser-numbers-shrink-11222054",
+   "thumbnail": "https://c.ndtvimg.com/2026-03/nk9h1qsc_tuhin-kanta-pandey-pti_625x300_16_March_26.jpg?im=FaceCrop,algorithm=dnn,width=1080,height=607",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZUWEZzV1ZkNmFscE9UbEZ0VFJDZkF4ampCU2dLTWdhdFZZTE9LUWM",
+   "date": "03/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-16T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Who is Avadhut Sathe? All about the finfluencer against whom SEBI ordered impounding of Rs 546 crore",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/who-is-avadhut-sathe-all-about-the-finfluencer-against-whom-sebi-ordered-impounding-of-rs-546-crore-13712301.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822111437_Avadhut-Sathe.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkMUpmWDNvMVZYWktSRE5RVFJERUFSamVBaWdLTWdhTlVwekdJZ2s",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Sebi impounds Rs 546 crore from Avadhut Sathe; bars the finfluencer from securities market amid crackdown",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "George Mathew"
+    ]
+   },
+   "link": "https://indianexpress.com/article/business/sebi-avadhut-sathe-finfluencer-securities-market-10404669/",
+   "thumbnail": "https://images.indianexpress.com/2025/12/Avadhut-Sathe-website.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjbGswVjJFNFRrdEdRMVZ6VFJDZkF4ampCU2dLTWdhaE5vcnNuUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "The finfluencer taught you investing. Who's teaching the finfluencer?",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sakshi Baoker"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/personal-finance/the-finfluencer-taught-you-investing-who-is-teaching-them-19932895.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-c8b74831af0c9c7d92ba4d98b73fbee7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9XbkpJUkZaZk1HaGxWMXBvVFJDZkF4ampCU2dLTWdB",
+   "date": "06/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-28T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Sebi takes down 1.2 lakh finfluencer posts, deploys AI Sudarshan",
+   "source": {
+    "name": "Indian Television Dot Com",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indiantelevision.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indiantelevision.com/iworld/sebi-takes-down-1-2-lakh-finfluencer-posts-deploys-ai-sudarshan/",
+   "thumbnail": "https://indiantelevision.com/wp-content/uploads/2026/03/SEBI.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZUemRWUkZVMlZGUlBkM0p1VFJDZkF4ampCU2dLTWdhTmdaYW5xZ2M",
+   "date": "03/02/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-02T08:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Govt Lets SEBI Order Takedowns of Misleading Stock Posts",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.medianama.com/2025/12/223-sebi-takedown-misleading-stock-content-online/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2020/10/logo-sebi-indianstockmarketguide.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iKkNnNWZZMDV4VEZOWU1VcGtSMWQ1VFJCYkdOd0JLQW95QmdFd2lrWE5CQQ",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Blind Bets? Only 2 Out Of 16 Influencers Giving Stock Recommendations Are Registered",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/blind-bets-only-2-out-of-16-influencers-giving-stock-recommendations-are-registered-11833561",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/or5kdipo_d_625x300_28_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5MVTFYTTNwSGFtSmpUalJZVFJDZkF4ampCU2dLTWdtUlFZNW9vbWM5Q0FJ",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Sebi Bars Finfluencer Avadhut Sathe From Stock Market, Impounds Over Rs 546 Crore",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/news/sebi-bars-finfluencer-avadhut-sathe-from-stock-market-impounds-over-rs-546-crore",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2025-12-05/8vpvmb7i/Avadhut-Sathe-news.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTVmgxZFdoaU1rOXdYMGhXVFJDZkF4ampCU2dLTWdZUlU1QXpJUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "SEBI Initiates ₹18.14 Crore Recovery from Finfluencer Nasir Ansari of ‘Baap of Charts’, 2 Others",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/sebi-initiates-1814-crore-recovery-from-finfluencer-nasir-ansari-of-baap-of-charts-2-others/79146.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/large_NasirAnsari.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlNelIyWTFNNU5qQXdWVXBOVFJDZUF4amxCU2dLTWdtTmNwQm5MdWRNelFF",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "62% investors make decisions on finfluencer recommendations, says Sebi chairman at PaRRVA launch",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/markets/62-investors-make-decisions-on-finfluencer-recommendations-says-sebi-chairman-at-parrva-launch/128624",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-06-18/3y7uuoqv/Tuhin_Kanta_Pandey__SECY_DIPAM_020A9798_copy.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXplSEk1Y0dkU0xWSnBaMDQyVFJDZkF4ampCU2dLTWdhaFZvUU1KZ2c",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "SEBI’s New Regulations: Stricter Norms for Financial Influencers, Simplified Delisting Rules",
+   "source": {
+    "name": "Vajiram & Ravi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://vajiramandravi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://vajiramandravi.com/current-affairs/sebis-new-regulations-stricter-norms-for-financial-influencers-simplified-delisting-rules/",
+   "thumbnail": "https://vajiramias.sgp1.cdn.digitaloceanspaces.com/wp/current-affairs/2025/04/sebis_new_regulations_stricter_norms_for_financial_influencers_simplified_delisting_rules.webp?v=2",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZWMFJFU0Vwa2RuUkNRa0ZCVFJDUEF4aTdCU2dLTWdPbFlnUQ",
+   "date": "10/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-27T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Avadhut Sathe case: Sebi Chair rejects finfluencer’s 'regulatory vacuum' claim",
+   "source": {
+    "name": "Exchange4Media",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.exchange4media.com/digital-news/avadhut-sathe-case-sebi-chair-rejects-finfluencers-regulatory-vacuum-claim-150041.html",
+   "thumbnail": "https://exchange4media.gumlet.io/news-photo/150041-AvadhutSathecase.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMmcyYW1aaVJuaDZZV3QwVFJDTEF4amFCU2dLTWdhdFJaTE9vUWc",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "'Finfluencer' in fix: Why did Sebi impound ₹546 crore ‘earned’ by stock market trainer Avadhut Sathe?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vimal Chander Joshi"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/sebi-crackdown-why-did-market-regulator-impound-rs-546-crore-earned-by-unregistered-investment-advisor-avadhut-sathe-11764936969656.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/mutual_fund_5_1764938628133_1764938633487.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHhUVGgwUWtNd2NXY3hhRmQxVFJDZkF4ampCU2dLTWdzQkFJWWhweVltQUFtUlRB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Sebi launches Rs 18 crore recovery proceedings against ‘Baap of Charts’ finfluencer, others",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sebi-launches-rs-18-crore-recovery-proceedings-against-baap-of-charts-finfluencer-others/articleshow/125994841.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-125994829,width-1200,height-900,resizemode-4,imgsize-76998/sebi-launches-rs-18-crore-recovery-proceedings-against-baap-of-charts-finfluencer-others.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTa2hCU210U1NtOHdaRzExVFJEZ0F4aUFCU2dLTWdhRndZWnh3UVU",
+   "date": "12/16/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-16T08:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "SEBI Proposes Mandatory ID Disclosure On Social Media To Curb Misleading Financial Content",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.medianama.com/2025/12/223-sebi-mandatory-social-media-id-disclosure/",
+   "date": "12/01/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-01T08:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "India must stop reinventing the regulatory wheel when it comes to educating investors",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sen Chaudhury"
+    ]
+   },
+   "link": "https://www.livemint.com/money/finfluencer-securities-market-financial-literacy-avadhut-sathe-social-media-sebi-youth-focused-push-11765731226346.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/15/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRjekZHWTFWelRHdHRhMGd6VFJDMEF4akFCU2dLTWdB",
+   "date": "12/15/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-15T08:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Why smart investors fall for finfluencer scams: Lessons from Sebi’s action against Avadhut Sathe",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shefali Anand"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/finfluencers-mind-games-investors-chase-illusory-wealth-11765891028355.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/16/1600x900/logo/Finfluencers-are-back-in-action--with-fake-screens_1693420206940_1765895954494.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlUWGN6V25VeFdsVTJNVkZZVFJDZkF4ampCU2dLTWdhaEFJenRMQVk",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Who is Avadhut Sathe, finfluencer banned by Sebi for unregistered advisory?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/avadhut-sathe-finfluencer-sebi-ban-disgorgement-unregistered-advisory-125120500178_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/05/full/1764908271-7038.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpSekJNUVZsWVVuVnhjRlpHVFJDSEF4aVBCaWdLTWdZbGRvYnNNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Sebi bans finfluencer Avadhut Sathe, freezes Rs 546 crore in major crackdown",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonu Vivek"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/market/story/sebi-ban-finfluencer-avadhut-sathe-stock-market-biggest-crackdown-impounds-rs-546-crore-2831051-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/sebi-action-on-finfluencers-051936921-16x9_0.png?VersionId=RHfyhIEPfKW_vG.HAEQXEW0O.CyC7rH7&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBSVWhRZGxkMFJqQk9NemxhVFJDZkF4ampCU2dLTWdaSlVwVDFvQWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Sebi bars finfluencer Avadhut Sathe from markets, impounds ₹546 crore for illegal gains from unregistered services",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-finfluencer-avadhut-sathe-546-crore-impounded-illegal-gains-unregistered-services-research-and-advisory-services-11764907661293.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/INDIA-SEBI-0_1764336404903_1764336415199_1764915978043.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTMFV5YkhOdlgyNW5lbEJDVFJDZkF4ampCU2dLTWdZZFJKenJIUW8",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Why Sebi banned Avadhut Sathe and froze ₹546 crore in a major finfluencer crackdown",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/business-news/why-sebi-banned-avadhut-sathe-and-froze-546-crore-in-a-major-finfluencer-crackdown/128581",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-12-06/8cde89uc/avv.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kRmR5ZGpNM1gwZDNhbWh1VFJDZkF4ampCU2dLTWdZVlNKWm9vZ2c",
+   "date": "12/06/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-06T08:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Who is Avadhut Sathe, the finfluencer at the centre of a Sebi probe?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-finfluencer-crackdown-11764934038766.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/avadhutsathe-mob-bnr_1764949123628_1764949136704.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNkbE42UVRGbGMwTlZkME5HVFJDZkF4amlCU2dLTWdZcFpvRHRNUVk",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "SEBI PaRRVA Initiative Strengthens Return Verification and Market Transparency",
+   "source": {
+    "name": "usthadian.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.usthadian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.usthadian.com/sebi-parrva-initiative-strengthens-return-verification-and-market-transparency/",
+   "thumbnail": "https://www.usthadian.com/wp-content/uploads/2025/12/ca-image-final-45.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhjMUU0U0RoV05VOTJNbGxZVFJDZkF4ampCU2dLTWdB",
+   "date": "12/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-13T08:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Sebi refutes finfluencer Avadhut Sathe’s defence, flags misuse of live trading rooms",
+   "source": {
+    "name": "Storyboard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/how-it-works/sebi-refutes-finfluencer-avadhut-sathes-defence-flags-misuse-of-live-trading-rooms-85524.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2025/08/Avadhut-Sathe-2025-08-90235c57b399a75fc1991909ba8f04cd-1019x573.jpg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdVR3hCWTFsR1dUTjRMVGQ2VFJEOEFoaWpCU2dLTWdB",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "From Likes to Licenses: Regulating Finfluencers Amidst Stricter Norms",
+   "source": {
+    "name": "Cyril Amarchand Mangaldas",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://corporate.cyrilamarchandblogs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://corporate.cyrilamarchandblogs.com/2024/08/from-likes-to-licenses-regulating-finfluencers-amidst-stricter-norms/",
+   "thumbnail": "https://corporate.cyrilamarchandblogs.com/wp-content/uploads/sites/857/2024/08/Blog-Image1-655x374.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJXRkJ5YWpkamJGWktjbWRSVFJEMkFoaVBCU2dLTWdhaEk0aHdKUWM",
+   "date": "08/29/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-08-29T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:52"
+}

@@ -1,0 +1,32 @@
+{
+ "calls": [
+  {
+   "company": "IOL Chemicals and Pharmaceuticals Ltd",
+   "symbol_guess": "IOLCP",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": 220.0,
+   "stop_loss": 178.0,
+   "horizon": null,
+   "quote": "220 के टारगेट के लिए अभी आराम से इसमें होल्ड एंड आज के इस प्राइस पर बाय भी कर सकते हैं।",
+   "start_s": 60,
+   "line": "शेयरों की चालान में डिस्कस हुआ था। तो अभी वो टारगेट नहीं आया है। दैट इज 220।",
+   "evidence": [
+    {
+     "text": "बाय भी कर सकते हैं",
+     "where": "transcript",
+     "start_s": 64
+    },
+    {
+     "text": "होल्ड",
+     "where": "transcript",
+     "start_s": 43
+    }
+   ],
+   "reason": "The speaker mentions a target of 220, suggests buying at the current price, and also advises holding, indicating a buy recommendation with explicit price targets."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

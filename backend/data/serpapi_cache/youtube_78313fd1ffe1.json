@@ -1,0 +1,672 @@
+{
+ "search_metadata": {
+  "id": "6acaad23a289711b6cd5cdeb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zgYkIIPlLJtmRCxhhaTzgF5BfuBINwKaR9oGiDqnlK0/6acaad23a289711b6cd5cdeb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zgYkIIPlLJtmRCxhhaTzgF5BfuBINwKaR9oGiDqnlK0/6acaad23a289711b6cd5cdeb.md",
+  "created_at": "2026-10-10 21:24:51 UTC",
+  "processed_at": "2026-10-10 21:24:51 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Yadnya+Investment+Academy+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/zgYkIIPlLJtmRCxhhaTzgF5BfuBINwKaR9oGiDqnlK0/6acaad23a289711b6cd5cdeb.html",
+  "total_time_taken": 3.13
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Yadnya Investment Academy stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 48227,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "The Three Hottest IPOs of 2026 (Not SpaceX)",
+   "link": "https://www.youtube.com/watch?v=6idmoAXnMZg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6idmoAXnMZg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CMC5yJK3Kar3iFdbYy_sPyqTjuQvv3dCKigGyjfvqjxZkEAEgAGDJxp6LwKTYEYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG8o8qwAqgDBMgDCqoEsgJP0Hy3xkjuARHMZ4jeUukBVrcYVXbXrPYA2Dc_slj5Z4-q8FafzN4v71qoii1Yk_v-TJDc64BlboYYhKx7vvdFCbKsuW1pHAPEPUPi9z55PpClMNddWlcrPSXSuXo64hS5rXuyDzmh3NlToyZwC5HYXn3OwX2eO1P4Qxk90cICm2K0UgIW3rqR1kBSNCP_REAr97qUZGKlVz5rdub97OSLN2sC7xdmTZzdSi09EF73ie3OgHoNFisIYkp70Yj0U-nbmW96amseAZrXU1no5W9sCDzilkd_2WBzG5UBylFWzGmoS_1ubOtcrOKrgD_OO30lEQ1j7LwuhZ0vziAr1Ro4oHC49evavzezMHWHUPc_cFV9ADsiXBbJx2HVs9z4rt59p5zwEQQheF1-Nl2Z0WddbQiIBYKn8YZZkgUICBN4iLvZ7QGgBqEBgAes3LXPAZAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIICzZpZG1vQVhuTVpnqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYmNi_w7GwlwNgAZoJJGh0dHBzOi8vc2VjdXJlLmNoYWlraW5hbmFseXRpY3MuY29tL7EJYzlmedKZ7VvICRfICY8ByAnCAZgLAboLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEBgAIBiAIGugMJdmlhdGx6YWFh0AsS0gwCEAHaDCUKChDwqPru0YDOxlISAgEDGg0Ygqfxhlkg9PGZ5d4FQAFKAhAfmg0BEqoNAlVTyA0B0g1oaHR0cHM6Ly9zZWN1cmUuY2hhaWtpbmFuYWx5dGljcy5jb20vP2NpZD1NS1Q4NzE0NDMmZWlkPU1LVDg3MzAyOSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM5MDUxOTQ4ODK4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXZwUla8F99mS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIvYTAw7GwlwMVVuxyCR1K0ji3EAEYASAAEgJ2yfD_BwE&num=1&cid=CAASwgHkaNPB7aDn55vuZFVJWgYnnjRJdHIjjh943iGtptRp9awwq5i9hl7DE1NTrvdAjwj1tTIp48V6jB3jQb8Svn6TDR38fkHv2wQzsIvAVrJesqmL-QCJan2GlEi0_1G8v4ZLq0p6CLv_SBgDPIPC7nyX-_D_vYKa22qoIZ0NRyammgslC1sWN-hXnmY9iVQUzGmpXDeA2cguzYa4cfNBqdv2cPWBGfhjwEzDIZsO-RGXSuOTvu-nh6s-Xb1C4nrTkAuzog&ad_cpn=%5BCPN%5D&sig=AOD64_2ByaaRHtCxDOckUfeHx4-Doi4Sxg&ctype=110&video_id=6idmoAXnMZg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Investing Outlook",
+    "thumbnail": "https://yt3.ggpht.com/QzbWZmEzFkMlgbcwzgcUJs-SINHdXsT0UYR8-RH0TK7YIzHmhRpn7mDWtxGWR0V5VgPUTGBFYIk=s88-c-k-c0x00ffffff-no-rj"
+   },
+   "description": "This “Starburst” could be bigger than the SpaceX IPO",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6idmoAXnMZg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCIwQMf4bRxZIWrhb4h0bovosNsyg"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "From Views to Revenue",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CA3u0JK3Kar3iFdbYy_sPyqTjuQvL2MfGiQHk8fTn-BWwkB8QAiAAYMnGnovApNgRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAdf5wcEDqAMEyAMKqgSzAk_QfLfGSO4BEcxniN5S6QFWtxhVdtes9gDYNz-yWPlnj6rwVp_M3i_vWqiKLViT-_5MkNzrgGVuhhiErHu-90UJsqy5bWkcA8Q9Q-L3Pnk-kKUw111aVys9JdK5ejriFLmte7IPOaHc2VOjJnALkdhefc7BfZ47U_hDGT3RwgKbYrRSAhbeupHWQFI0I_9EQCv3upRkYqVXPmt25v3s5Is3awLvF2ZNnN1KLT0QXveJ7c6Aeg0WKwhiSnvRiPRT6duZb3pqax4BmtdTWejlb2wIPOKWR3_ZYHMblQHKUVbMaahL_W5s61ys4quA-w35c-XbmTGgnZV4e6GEdmNX-98mJftNHB-1nhj30VfC_4Zy_s0QOYy6xwXIbkwKatmF_H2riAA2PFnbTVw2U49IIzRT8c2IBenx6KhakgUICBN48Y-lgwGgBm6AB-_nh4MBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFiY2L_DsbCXA2ABmgkZaHR0cHM6Ly91YmVyYWxsLmNvbS9lbi11c7EJFjSzoDAp51_ICQDICYoCmAsBugtBCAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6Awl2aWF0bHphYWHQCxLSDAIQAdoMJQoKEIC-mayFoOLkVRICAQMaDRjp8eioWiCB4NWc4QVAAUoCEB-aDQESqg0CVVPIDQHSDbQCaHR0cHM6Ly91YmVyYWxsLmNvbS9lbi11cz91dG1fbWVkaXVtPXBwYyZ1dG1fc291cmNlPWdvb2dsZSZ1dG1fdGVybT0mdXRtX2NhbXBhaWduPVVTX0RlbWFuZGdlbl9FTl9BbGwtRGV2aWNlcyZ1dG1faWQ9MjQyNDQ3OTU2MjUmaHNhX2FjYz05NTM4MjQzMTk4JmhzYV9jYW09MjQyNDQ3OTU2MjUmaHNhX2dycD0xOTc4OTcwNTYyNTcmaHNhX2FkPTgyNDc2NTg3MjU1MCZoc2Ffc3JjPSZoc2FfdGd0PSZoc2Ffa3c9JmhzYV9tdD0maHNhX25ldD1hZHdvcmRzJmhzYV92ZXI9MyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjQyNDQ3OTU2MjW4E____________wGIFAGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXobO3Ky641I-6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIvYTAw7GwlwMVVuxyCR1K0ji3EAEYAiAAEgKAWvD_BwE&num=2&cid=CAASwgHkaNPB7aDn55vuZFVJWgYnnjRJdHIjjh943iGtptRp9awwq5i9hl7DE1NTrvdAjwj1tTIp48V6jB3jQb8Svn6TDR38fkHv2wQzsIvAVrJesqmL-QCJan2GlEi0_1G8v4ZLq0p6CLv_SBgDPIPC7nyX-_D_vYKa22qoIZ0NRyammgslC1sWN-hXnmY9iVQUzGmpXDeA2cguzYa4cfNBqdv2cPWBGfhjwEzDIZsO-RGXSuOTvu-nh6s-Xb1C4nrTkAuzog&sig=AOD64_1byNkdvIGJt84he-T0w7TIuyZKhg&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Uberall",
+    "thumbnail": "https://lh6.googleusercontent.com/proxy/D0UK-xyGwC-1_A7Fs2YLFbE23Zk1csIvOzmXO4Lhh9YY_2kBokzI9B0vnbmCSTnsv0ySnfn8Wzf4GPQzsupQaiRtvcbJRL0eVG0LycUvgT_76hzLC0PYvRuRsP-OIaParA"
+   },
+   "description": "1,850 brands across 170 countries put 1.5 million locations on the map with Uberall.",
+   "thumbnail": {
+    "static": "https://lh6.googleusercontent.com/proxy/D0UK-xyGwC-1_A7Fs2YLFbE23Zk1csIvOzmXO4Lhh9YY_2kBokzI9B0vnbmCSTnsv0ySnfn8Wzf4GPQzsupQaiRtvcbJRL0eVG0LycUvgT_76hzLC0PYvRuRsP-OIaParA"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Yadnya Investment Academy",
+   "link": "https://www.youtube.com/@InvestYadnya",
+   "verified": true,
+   "handle": "@InvestYadnya",
+   "subscribers": 945000,
+   "description": "We are Yadnya! Our Mission is to educate and simplify concepts of personal finance for every Indian. The word Yadnya means a ...",
+   "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 3,
+   "title": "Daily Stock Market News (October 9, 2026): TCS Results, US PERM Ban & Oil Surge",
+   "link": "https://www.youtube.com/watch?v=6xE3jXnxFXU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xE3jXnxFXU",
+   "video_id": "6xE3jXnxFXU",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 16158,
+   "length": "17:51",
+   "description": "#stockmarket  #sharemarket  #nifty  #sensex  #tcs  #tcsresults  #greencard  #h1bvisa  #tsmc  #aistocks  #crudeoil ...",
+   "extensions": [
+    "New",
+    "4 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xE3jXnxFXU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2lyyK6g_fZMGLfil7kB_iz6lCWw",
+    "rich": "https://i.ytimg.com/an_webp/6xE3jXnxFXU/mqdefault_6s.webp?du=3000&sqp=CL6YqtYG&rs=AOn4CLDi1fzfKp_j-jHo6-YJNMeRvvn09A"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Friday Investment Satsang with Parimal Ade",
+   "link": "https://www.youtube.com/watch?v=OjX1QSodEww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OjX1QSodEww",
+   "video_id": "OjX1QSodEww",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 1d ago",
+   "views": 9461,
+   "length": "58:42",
+   "description": "Welcome to the Friday Investment Satsang—your weekly dose of unbiased, clear, and focused financial wisdom!\n\nEvery Friday ...",
+   "extensions": [
+    "New",
+    "8 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OjX1QSodEww/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB1aD5SnXrt3XNIQmvZ4Tbv2BJrnQ",
+    "rich": "https://i.ytimg.com/an_webp/OjX1QSodEww/mqdefault_6s.webp?du=3000&sqp=CLDVqtYG&rs=AOn4CLAqiwYhg-SXypi4Ft3OiadySUpiVw"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Daily Stock Market News (October 8, 2026): US Yields, RBI, Kalyan, Senco & Reliance",
+   "link": "https://www.youtube.com/watch?v=uAc45usVqTY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uAc45usVqTY",
+   "video_id": "uAc45usVqTY",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 21802,
+   "length": "17:45",
+   "description": "#stockmarket  #sharemarket  #stockmarketnews  #nifty  #sensex  #rbi  #usmarkets  #bondyields  #rupee  #quickcommerce ...",
+   "extensions": [
+    "New",
+    "5 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/uAc45usVqTY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4iE3Wd9I4dPlCPf8bjisqt2gJ7g",
+    "rich": "https://i.ytimg.com/an_webp/uAc45usVqTY/mqdefault_6s.webp?du=3000&sqp=CNTGqtYG&rs=AOn4CLDk_JRuEfdcQ9X7vaJihC2CI2O-zA"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Why Did the Stock Market Fall Today? | Parimal Ade",
+   "link": "https://www.youtube.com/watch?v=o6NVFfRfX8o",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o6NVFfRfX8o",
+   "video_id": "o6NVFfRfX8o",
+   "channel": {
+    "name": "Parimal Ade and Yadnya Investment Academy",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nE2gxvzRmiFfosT0BAzleqzAqF7VHdzc_M2_dctMR7QP0=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 109666,
+   "length": "11:24",
+   "description": "Is the stock market correction just the beginning or a temporary dip? Today, October 8, 2026, the markets took a sharp turn ...",
+   "extensions": [
+    "New",
+    "2 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/o6NVFfRfX8o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGEsWR3QeTZydlrIJe0MFzYn8kcQ",
+    "rich": "https://i.ytimg.com/an_webp/o6NVFfRfX8o/mqdefault_6s.webp?du=3000&sqp=CIC_qtYG&rs=AOn4CLDD1ATyJPUSgRGu1xMD5e7y798O2Q"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "Daily Stock Market News (Oct 05, 2026): Jio IPO, FPI Outflow & RBI Rate Hike",
+   "link": "https://www.youtube.com/watch?v=7mXfst5PrDA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7mXfst5PrDA",
+   "video_id": "7mXfst5PrDA",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5d ago",
+   "views": 27911,
+   "length": "22:28",
+   "description": "#stockmarket #finance #investing #jioipo #rbi #inflation #crudeoil #tcs #hdfcbank #dmart #kotak #gst #upi #auto #businessnews ...",
+   "extensions": [
+    "New",
+    "8 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/7mXfst5PrDA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvDzFb6svImoLkQTsR8qoGVyzTmw",
+    "rich": "https://i.ytimg.com/an_webp/7mXfst5PrDA/mqdefault_6s.webp?du=3000&sqp=CICwqtYG&rs=AOn4CLBrCfm3ad8zh1AdiEWtE0bed6xEow"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Why Investyadnya Model Portfolio Stands Out: 5 Key Reasons",
+   "link": "https://www.youtube.com/watch?v=4fDJo9KSDUg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4fDJo9KSDUg",
+   "video_id": "4fDJo9KSDUg",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 13230,
+   "length": "8:54",
+   "description": "#Investyadnya, #ModelPortfolio, #InvestmentStrategies, #UniquePortfolio, #PersonalizedInvestment, #InvestmentSuccess ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4fDJo9KSDUg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPgaqZMKPbxi4tjz-t6oj9CepugA",
+    "rich": "https://i.ytimg.com/an_webp/4fDJo9KSDUg/mqdefault_6s.webp?du=3000&sqp=CNDEqtYG&rs=AOn4CLBnkmkFk1UQKPWqGscRITT1wThmVg"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Daily Stock Market News (Sept 25, 2026): US Deficit Widens, India Growth Accelerates, Tata & Insu...",
+   "link": "https://www.youtube.com/watch?v=kig9aQbXrBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kig9aQbXrBM",
+   "video_id": "kig9aQbXrBM",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 20289,
+   "length": "22:50",
+   "description": "In today’s Daily Stock Market News for 25th September 2026, we cover the widening US current account deficit, progress in US ...",
+   "extensions": [
+    "7 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kig9aQbXrBM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtLZ8BGJXoWkgMyPGZ94TfjvDCrA",
+    "rich": "https://i.ytimg.com/an_webp/kig9aQbXrBM/mqdefault_6s.webp?du=3000&sqp=CKaeqtYG&rs=AOn4CLAJzzK0aV9Bv3ejTt-CG9lt1kQoRA"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Does BSE's growth make it a better investment than NSE?",
+   "link": "https://www.youtube.com/watch?v=WRkpfdgLvoQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WRkpfdgLvoQ",
+   "video_id": "WRkpfdgLvoQ",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 27379,
+   "length": "22:16",
+   "description": "Why have BSE and MCX rallied in last 1 year? https://youtu.be/mbdnbSlm60I?feature=shared Are you confused about whether ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/WRkpfdgLvoQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXKXMZEMERl7ofDNp0FIz9FW2ADg",
+    "rich": "https://i.ytimg.com/an_webp/WRkpfdgLvoQ/mqdefault_6s.webp?du=3000&sqp=CIDKqtYG&rs=AOn4CLDj2u2FU_1kPGRL5sDl9RsKdkWzoA"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Daily Stock Market News(01-July-2026): ₹1.25L Cr ISM 2.0, Kotak's Mega Deal & KPIT",
+   "link": "https://www.youtube.com/watch?v=8vcQULv3gB8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8vcQULv3gB8",
+   "video_id": "8vcQULv3gB8",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 11696,
+   "length": "22:44",
+   "description": "Stock Market News Today Japan's leverage trading hits a 30-year high, India's fiscal deficit reaches ₹1.62 lakh crore, and the ...",
+   "extensions": [
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/8vcQULv3gB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDroPfqQ5evZDOQXwP5wNh5dnYbCQ",
+    "rich": "https://i.ytimg.com/an_webp/8vcQULv3gB8/mqdefault_6s.webp?du=3000&sqp=CPnTqtYG&rs=AOn4CLD3qAVj2qWVMIuSgc09I7if36GmpA"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "🔥💰 [Thank me LATER] My FINAL Message for ALL NDVA and PLTR Investors!! #pltr #nvda #tsla",
+   "link": "https://www.youtube.com/watch?v=hTucWsDBUds",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=hTucWsDBUds",
+   "video_id": "hTucWsDBUds",
+   "channel": {
+    "name": "Moneyvest",
+    "link": "https://www.youtube.com/@moneyvestpro",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/fHM6RrW-zya4a1mTGq1sda_rndEjJ0xepySkXJZsbPJGGqA7-gfKw5J1TDrD4qDAqTS1rd5fJK4=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7h ago",
+   "views": 5275,
+   "length": "20:31",
+   "description": "Join 1400+ Members on Moneyvest (40% OFF) ONLY $23/month ▻ https://www.patreon.com/join/moneyvest #nvda #tsla #sofi ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/hTucWsDBUds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUF-7chKWWBukPm8J5fEtu9ugBDA",
+    "rich": "https://i.ytimg.com/an_webp/hTucWsDBUds/mqdefault_6s.webp?du=3000&sqp=CMTXqtYG&rs=AOn4CLB2RInmbXwatd47QPPFbMqd3vULgA"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Russia Fuels Markets, Elon Spooks UBER & LYFT",
+   "link": "https://www.youtube.com/watch?v=nypA7fS9DY4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nypA7fS9DY4",
+   "video_id": "nypA7fS9DY4",
+   "channel": {
+    "name": "STOCK UP! with LARRY JONES",
+    "link": "https://www.youtube.com/@STOCKUPwithLarryJones",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lB-yRnimMLmUNPVpl_XTd0QlXkbiwruaVXDd1cpA0GGUw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "23h ago",
+   "views": 16716,
+   "length": "13:25",
+   "description": "Russia Fuels Markets, Elon Spooks UBER & LYFT ✓ PATHWAY TO FREEDOM: https://seat.live/pathway-to-freedom/larry ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nypA7fS9DY4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5l0E_UzjiFl48XCzDfJq6oHRLfw",
+    "rich": "https://i.ytimg.com/an_webp/nypA7fS9DY4/mqdefault_6s.webp?du=3000&sqp=CKjMqtYG&rs=AOn4CLCiQvte0nndOq59qvzXC-BDVrKRhQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "link": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TcLUY8kbo7Q",
+   "video_id": "TcLUY8kbo7Q",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 3830,
+   "length": "13:18",
+   "description": "Why are Indian IT stocks suddenly rallying? Could the listing of China's memory chip giant CXMT (ChangXin Memory Technologies ...",
+   "extensions": [
+    "6 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TcLUY8kbo7Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiSlRtqozDtMi3raB64AgN0hV3-A",
+    "rich": "https://i.ytimg.com/an_webp/TcLUY8kbo7Q/mqdefault_6s.webp?du=3000&sqp=CJy-qtYG&rs=AOn4CLBKQeSzivkeBqVW-UN7xXPdIB8NZA"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "link": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q8H2r2k8iZA",
+   "video_id": "q8H2r2k8iZA",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 14054,
+   "length": "19:47",
+   "description": "The stock market witnessed mixed signals on July 8, 2026, with global semiconductor weakness impacting sentiment while Indian ...",
+   "extensions": [
+    "33 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/q8H2r2k8iZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB_DBm2jU-DzKyFtfinB97CsYr2w",
+    "rich": "https://i.ytimg.com/an_webp/q8H2r2k8iZA/mqdefault_6s.webp?du=3000&sqp=CKDQqtYG&rs=AOn4CLBjyRlXpGC7I3jpG1uqsFW9kC9ZbA"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Daily Stock Market News (Sept 9, 2026): US–Iran War Pushes Oil Up, ₹35,000 Cr Projects, GE Vernova",
+   "link": "https://www.youtube.com/watch?v=UXW4lAFTR_8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UXW4lAFTR_8",
+   "video_id": "UXW4lAFTR_8",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/QxQ2x8ERIfhQsZskUpxu3JntQPW78H0su2mgMfkmoLdcYYFRt7ashBHcdXKEqrpSVD4QzANQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 20412,
+   "length": "21:50",
+   "description": "https://shorturl.at/gM97l\nHow to Use Artificial Intelligence for Investing - Combo of 5 ebooks\n\nResearch Based Ready-made ...",
+   "extensions": [
+    "7 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UXW4lAFTR_8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASbxrXI_lVEMh113_57VUiMLNP-A",
+    "rich": "https://i.ytimg.com/an_webp/UXW4lAFTR_8/mqdefault_6s.webp?du=3000&sqp=COevqtYG&rs=AOn4CLDcAk8EGCvEbop2jAJMyawhNDDNiA"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 5,
+   "shorts": [
+    {
+     "title": "Defensive Stocks Haven’t Been This Cheap Since 2007!",
+     "link": "https://www.youtube.com/shorts/PpNrNwrlkWY",
+     "thumbnail": "https://i.ytimg.com/vi/PpNrNwrlkWY/frame0.jpg",
+     "views_original": "4.1K views",
+     "views": 4100,
+     "video_id": "PpNrNwrlkWY"
+    },
+    {
+     "title": "Nifty Valuations Are Finally Looking Cheap — But There’s a Catch",
+     "link": "https://www.youtube.com/shorts/ALcpkRSvlYU",
+     "thumbnail": "https://i.ytimg.com/vi/ALcpkRSvlYU/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "ALcpkRSvlYU"
+    },
+    {
+     "title": "Market Volatility: What Should You Actually Do?",
+     "link": "https://www.youtube.com/shorts/eKRip-fEEXY",
+     "thumbnail": "https://i.ytimg.com/vi/eKRip-fEEXY/frame0.jpg",
+     "views_original": "6.4K views",
+     "views": 6400,
+     "video_id": "eKRip-fEEXY"
+    },
+    {
+     "title": "Taiwan Overtakes China: The Trade Shift That Could Break the Markets!",
+     "link": "https://www.youtube.com/shorts/xmfSW3IhRFk",
+     "thumbnail": "https://i.ytimg.com/vi/xmfSW3IhRFk/frame0.jpg",
+     "views_original": "3.5K views",
+     "views": 3500,
+     "video_id": "xmfSW3IhRFk"
+    },
+    {
+     "title": "$700,000,000,000: Big Tech is Going All-In on AI!",
+     "link": "https://www.youtube.com/shorts/Wn6qzcT631k",
+     "thumbnail": "https://i.ytimg.com/vi/Wn6qzcT631k/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "Wn6qzcT631k"
+    }
+   ]
+  },
+  {
+   "position_on_page": 9,
+   "shorts": [
+    {
+     "title": "Mutual Fund's Secret Stash: 10+ Mid & Smallcap Stocks They're Loading Up On!",
+     "link": "https://www.youtube.com/shorts/GkNt0IU--xk",
+     "thumbnail": "https://i.ytimg.com/vi/GkNt0IU--xk/frame0.jpg",
+     "views_original": "11K views",
+     "views": 11000,
+     "video_id": "GkNt0IU--xk"
+    },
+    {
+     "title": "What is co-relation between Bond & Equity | Ep 3 (Part 1) of A-Z Series",
+     "link": "https://www.youtube.com/shorts/Q_hhOBvORgU",
+     "thumbnail": "https://i.ytimg.com/vi/Q_hhOBvORgU/frame0.jpg",
+     "views_original": "2.7K views",
+     "views": 2700,
+     "video_id": "Q_hhOBvORgU"
+    },
+    {
+     "title": "The Brutal Truth About the Stock Market No One Wants to Hear | Parimal Ade",
+     "link": "https://www.youtube.com/shorts/dIfKje8_n80",
+     "thumbnail": "https://i.ytimg.com/vi/dIfKje8_n80/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "dIfKje8_n80"
+    },
+    {
+     "title": "Berkshire Hathaway Buying at all time high US Markets!",
+     "link": "https://www.youtube.com/shorts/f99lqOK1Fec",
+     "thumbnail": "https://i.ytimg.com/vi/f99lqOK1Fec/frame0.jpg",
+     "views_original": "2.6K views",
+     "views": 2600,
+     "video_id": "f99lqOK1Fec"
+    },
+    {
+     "title": "The Market Traps Ep 3: Auditor Resignation — The Manpasand Story",
+     "link": "https://www.youtube.com/shorts/AvyfaE9Urbc",
+     "thumbnail": "https://i.ytimg.com/vi/AvyfaE9Urbc/frame0.jpg",
+     "views_original": "3.1K views",
+     "views": 3100,
+     "video_id": "AvyfaE9Urbc"
+    },
+    {
+     "title": "99% Investors Do THIS Mistake 🚨 | Herd Mentality in Stock Market",
+     "link": "https://www.youtube.com/shorts/wOOzpFZ6m6s",
+     "thumbnail": "https://i.ytimg.com/vi/wOOzpFZ6m6s/frame0.jpg",
+     "views_original": "6.8K views",
+     "views": 6800,
+     "video_id": "wOOzpFZ6m6s"
+    },
+    {
+     "title": "WATCH THIS before you Invest in GLOBAL EQUITIES!",
+     "link": "https://www.youtube.com/shorts/F4UdtlpGwq4",
+     "thumbnail": "https://i.ytimg.com/vi/F4UdtlpGwq4/frame0.jpg",
+     "views_original": "4.7K views",
+     "views": 4700,
+     "video_id": "F4UdtlpGwq4"
+    },
+    {
+     "title": "This Nobel Prize Idea Changed Stock Market Investing Forever!",
+     "link": "https://www.youtube.com/shorts/Twl_MJXMvKI",
+     "thumbnail": "https://i.ytimg.com/vi/Twl_MJXMvKI/frame0.jpg",
+     "views_original": "7.1K views",
+     "views": 7100,
+     "video_id": "Twl_MJXMvKI"
+    },
+    {
+     "title": "Small & Mid Caps Are NOT for Everyone | Why Long-Term SIP Investors Actually Benefit",
+     "link": "https://www.youtube.com/shorts/qTVyHlZTZvA",
+     "thumbnail": "https://i.ytimg.com/vi/qTVyHlZTZvA/frame0.jpg",
+     "views_original": "9.7K views",
+     "views": 9700,
+     "video_id": "qTVyHlZTZvA"
+    },
+    {
+     "title": "The Ultimate Guide on When to Sell a Stock",
+     "link": "https://www.youtube.com/shorts/g4s2i6eASvQ",
+     "thumbnail": "https://i.ytimg.com/vi/g4s2i6eASvQ/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "g4s2i6eASvQ"
+    },
+    {
+     "title": "ETFs vs. Mutual Funds: Only Answer you Need! | Myths vs Data Episode 13",
+     "link": "https://www.youtube.com/shorts/9Clks8itQsE",
+     "thumbnail": "https://i.ytimg.com/vi/9Clks8itQsE/frame0.jpg",
+     "views_original": "20K views",
+     "views": 20000,
+     "video_id": "9Clks8itQsE"
+    },
+    {
+     "title": "Why Negative Returns are Actually a Blessing for Investors?",
+     "link": "https://www.youtube.com/shorts/mtCTmidxnjE",
+     "thumbnail": "https://i.ytimg.com/vi/mtCTmidxnjE/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "mtCTmidxnjE"
+    },
+    {
+     "title": "Why do I Avoid Stock Investing?",
+     "link": "https://www.youtube.com/shorts/pUkbJCsyqXI",
+     "thumbnail": "https://i.ytimg.com/vi/pUkbJCsyqXI/frame0.jpg",
+     "views_original": "4K views",
+     "views": 4000,
+     "video_id": "pUkbJCsyqXI"
+    },
+    {
+     "title": "Mutual Funds vs. Stocks 🔥 The Ultimate Beginner Guide | Parimal Ade",
+     "link": "https://www.youtube.com/shorts/BOX21CRt6E0",
+     "thumbnail": "https://i.ytimg.com/vi/BOX21CRt6E0/frame0.jpg",
+     "views_original": "399K views",
+     "views": 399000,
+     "video_id": "BOX21CRt6E0"
+    },
+    {
+     "title": "Did the US Just Find a $1 Trillion Loophole?",
+     "link": "https://www.youtube.com/shorts/QdbCT3IFIJQ",
+     "thumbnail": "https://i.ytimg.com/vi/QdbCT3IFIJQ/frame0.jpg",
+     "views_original": "4K views",
+     "views": 4000,
+     "video_id": "QdbCT3IFIJQ"
+    },
+    {
+     "title": "The Market Traps Ep 6: When Profit Is Not Real — The Satyam Story",
+     "link": "https://www.youtube.com/shorts/rbx1KHFJ-sY",
+     "thumbnail": "https://i.ytimg.com/vi/rbx1KHFJ-sY/frame0.jpg",
+     "views_original": "2.1K views",
+     "views": 2100,
+     "video_id": "rbx1KHFJ-sY"
+    },
+    {
+     "title": "GDP Growth vs Stock Returns: Why China's Booming Economy Failed Investors?",
+     "link": "https://www.youtube.com/shorts/YMVO0ORHNro",
+     "thumbnail": "https://i.ytimg.com/vi/YMVO0ORHNro/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "YMVO0ORHNro"
+    },
+    {
+     "title": "AUM vs AAUM | 'A to Z series' Episode 1",
+     "link": "https://www.youtube.com/shorts/2pK5xzuRO4M",
+     "thumbnail": "https://i.ytimg.com/vi/2pK5xzuRO4M/frame0.jpg",
+     "views_original": "5.6K views",
+     "views": 5600,
+     "video_id": "2pK5xzuRO4M"
+    },
+    {
+     "title": "MCX Q1FY27 Results Analysis",
+     "link": "https://www.youtube.com/shorts/gtoZweQsJvs",
+     "thumbnail": "https://i.ytimg.com/vi/gtoZweQsJvs/frame0.jpg",
+     "views_original": "1.8K views",
+     "views": 1800,
+     "video_id": "gtoZweQsJvs"
+    },
+    {
+     "title": "Index Funds: Your Money's Superpower or Super Trap?",
+     "link": "https://www.youtube.com/shorts/_Yqz0bGGkgU",
+     "thumbnail": "https://i.ytimg.com/vi/_Yqz0bGGkgU/frame0.jpg",
+     "views_original": "4.9K views",
+     "views": 4900,
+     "video_id": "_Yqz0bGGkgU"
+    }
+   ]
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 15,
+   "title": "Market News, Analysis & Insight LIVE: Share Market Today & Stock Trends",
+   "link": "https://www.youtube.com/playlist?list=PLMRgW5Y9EKSlmmXXVc4pllkpsDFgh7yNL",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya"
+   },
+   "videos": [
+    {
+     "title": "Daily Stock Market News(9 October 2026): TCS Results, US PERM Ban & Oil Surge",
+     "length": "17:51",
+     "link": "https://www.youtube.com/watch?v=6xE3jXnxFXU&list=PLMRgW5Y9EKSlmmXXVc4pllkpsDFgh7yNL&pp=mAUB0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "Daily Stock Market News(8 October 2026): US Yields, RBI, Kalyan, Senco & Reliance",
+     "length": "17:45",
+     "link": "https://www.youtube.com/watch?v=uAc45usVqTY&list=PLMRgW5Y9EKSlmmXXVc4pllkpsDFgh7yNL&pp=mAUB"
+    }
+   ],
+   "video_count": 689,
+   "thumbnail": "https://i.ytimg.com/vi/6xE3jXnxFXU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAYdF_CD_SIODdke9MkLyMb6eHQew"
+  },
+  {
+   "position_on_page": 19,
+   "title": "Stock Market Fundamentals",
+   "link": "https://www.youtube.com/playlist?list=PLMRgW5Y9EKSlvZ9zQNDIsSVNRtMLXNlEi",
+   "channel": {
+    "name": "Yadnya Investment Academy",
+    "link": "https://www.youtube.com/@InvestYadnya"
+   },
+   "videos": [
+    {
+     "title": "How to do SIP in Stocks? Stocks में SIP कैसे करे ?",
+     "length": "8:55",
+     "link": "https://www.youtube.com/watch?v=nXjYIaBNins&list=PLMRgW5Y9EKSlvZ9zQNDIsSVNRtMLXNlEi"
+    },
+    {
+     "title": "What is Revenue? Explanation in Hindi",
+     "length": "6:36",
+     "link": "https://www.youtube.com/watch?v=kuff01viDK8&list=PLMRgW5Y9EKSlvZ9zQNDIsSVNRtMLXNlEi"
+    }
+   ],
+   "video_count": 224,
+   "thumbnail": "https://i.ytimg.com/vi/nXjYIaBNins/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBXn3ePrvyzsg8S2kpYdPMAJ4dEfg"
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Yadnya+Investment+Academy+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Yadnya%20Investment%20Academy%20stocks&sp=SBSCARhVQ1BvaGJTWXE0SVhodjB5eGl5LXNUNGeCAQs2eEUzalhueEZYVYIBC09qWDFRU29kRXd3ggELdUFjNDV1c1ZxVFmCAQtvNk5WRmZSZlg4b4IBCzdtWGZzdDVQckRBggELNGZESm85S1NEVWeCAQtraWc5YVFiWHJCTYIBC1dSa3BmZGdMdm9RggELOHZjUVVMdjNnQjiCASJQTE1SZ1c1WTlFS1NsbW1YWFZjNHBsbGtwc0RGZ2g3eU5MggELaFR1Y1dzREJVZHOCAQtueXBBN2ZTOURZNIIBC1RjTFVZOGtibzdRggEiUExNUmdXNVk5RUtTbHZaOXpRTkRJc1NWTlJ0TUxYTmxFaYIBC3E4SDJyMms4aVpBggELVVhXNGxBRlRSXziyAQYKBAgVEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ1BvaGJTWXE0SVhodjB5eGl5LXNUNGeCAQs2eEUzalhueEZYVYIBC09qWDFRU29kRXd3ggELdUFjNDV1c1ZxVFmCAQtvNk5WRmZSZlg4b4IBCzdtWGZzdDVQckRBggELNGZESm85S1NEVWeCAQtraWc5YVFiWHJCTYIBC1dSa3BmZGdMdm9RggELOHZjUVVMdjNnQjiCASJQTE1SZ1c1WTlFS1NsbW1YWFZjNHBsbGtwc0RGZ2g3eU5MggELaFR1Y1dzREJVZHOCAQtueXBBN2ZTOURZNIIBC1RjTFVZOGtibzdRggEiUExNUmdXNVk5RUtTbHZaOXpRTkRJc1NWTlJ0TUxYTmxFaYIBC3E4SDJyMms4aVpBggELVVhXNGxBRlRSXziyAQYKBAgVEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Yadnya+Investment+Academy+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Yadnya+Investment+Academy+stocks&sp=SBSCARhVQ1BvaGJTWXE0SVhodjB5eGl5LXNUNGeCAQs2eEUzalhueEZYVYIBC09qWDFRU29kRXd3ggELdUFjNDV1c1ZxVFmCAQtvNk5WRmZSZlg4b4IBCzdtWGZzdDVQckRBggELNGZESm85S1NEVWeCAQtraWc5YVFiWHJCTYIBC1dSa3BmZGdMdm9RggELOHZjUVVMdjNnQjiCASJQTE1SZ1c1WTlFS1NsbW1YWFZjNHBsbGtwc0RGZ2g3eU5MggELaFR1Y1dzREJVZHOCAQtueXBBN2ZTOURZNIIBC1RjTFVZOGtibzdRggEiUExNUmdXNVk5RUtTbHZaOXpRTkRJc1NWTlJ0TUxYTmxFaYIBC3E4SDJyMms4aVpBggELVVhXNGxBRlRSXziyAQYKBAgVEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ1BvaGJTWXE0SVhodjB5eGl5LXNUNGeCAQs2eEUzalhueEZYVYIBC09qWDFRU29kRXd3ggELdUFjNDV1c1ZxVFmCAQtvNk5WRmZSZlg4b4IBCzdtWGZzdDVQckRBggELNGZESm85S1NEVWeCAQtraWc5YVFiWHJCTYIBC1dSa3BmZGdMdm9RggELOHZjUVVMdjNnQjiCASJQTE1SZ1c1WTlFS1NsbW1YWFZjNHBsbGtwc0RGZ2g3eU5MggELaFR1Y1dzREJVZHOCAQtueXBBN2ZTOURZNIIBC1RjTFVZOGtibzdRggEiUExNUmdXNVk5RUtTbHZaOXpRTkRJc1NWTlJ0TUxYTmxFaYIBC3E4SDJyMms4aVpBggELVVhXNGxBRlRSXziyAQYKBAgVEALqAQQIAhAZ"
+ },
+ "_fetched_at": "2026-10-10T21:24:52"
+}

@@ -1,0 +1,716 @@
+{
+ "search_metadata": {
+  "id": "6ac9f525ec900df21955427b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zcEuIkxZjEZ_3NQmc630EKUvO4Xa7mLe21mnq64hO7w/6ac9f525ec900df21955427b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zcEuIkxZjEZ_3NQmc630EKUvO4Xa7mLe21mnq64hO7w/6ac9f525ec900df21955427b.md",
+  "created_at": "2026-10-10 08:19:49 UTC",
+  "processed_at": "2026-10-10 08:19:49 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=OXoX8e-hbCU",
+  "raw_html_file": "https://serpapi.com/searches/zcEuIkxZjEZ_3NQmc630EKUvO4Xa7mLe21mnq64hO7w/6ac9f525ec900df21955427b.html",
+  "prettify_html_file": "https://serpapi.com/searches/zcEuIkxZjEZ_3NQmc630EKUvO4Xa7mLe21mnq64hO7w/6ac9f525ec900df21955427b.prettify",
+  "total_time_taken": 1.44
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "OXoX8e-hbCU",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "🔰🔶 🔰🔶How Market Fools You ? 😎 | Sunil Minglani LIVE | 17th Dec'20",
+ "thumbnail": "https://i.ytimg.com/vi/OXoX8e-hbCU/maxresdefault.jpg",
+ "channel": {
+  "name": "Sunil Minglani",
+  "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@SunilMinglani",
+  "subscribers": "1.38M subscribers",
+  "extracted_subscribers": 1380000,
+  "verified": true
+ },
+ "views": "173,055 views",
+ "extracted_views": 173055,
+ "likes": "15K",
+ "extracted_likes": 15000,
+ "published_date": "Streamed live on Dec 17, 2020",
+ "description": {
+  "content": "#SunilMinglaniLive #StockMarketForBeginners #PsychologyMatters \n\nTo Subscribe SM Bulletin, Please Visit Below link OR Download SM Android Application from Google Play Store\nhttps://sunilminglani.com/index.php/w...\n\nTo Buy the NEo Wave Explained Online Program, You can visit the link https://sunilminglani.com/index.php/w...\nOR\nDownload the Sunil Minglani Application from Google Play Store / Apple Store \n\nTo buy Online Technical Analysis Program For Beginners Or Special Calculator... Go To https://sunilminglani.com \nor\nFor Android / Apple Application ...Go to Google Play Store/iOS Store and search \"Sunil Minglani\" \nHelpline Numbers: 8882424222 / 8585954095\n\nTo JOIN our Channel Membership for Exclusive Offers, Click the link Below and join...\n   / @sunilminglani  \n\n \n\nClick the link below and join our Telegram Channel for latest updates :\nTelegram Link : https://t.me/sunilminglani\n\nStock market Basics for beginners in Hindi..\nIs it really difficult to make money in Stock Market.... or do we need to follow some rules ....FIND OUT ..... in my show \"Bazaar Bites\"...and try to find out Psychology of stock market\n  / thesunilminglani  \n  / sunilminglani  \n  / sunilminglani  \n\nWe have also started a new initiative called “ Valid Voice Talks”\nFor More info subscribe us     / vvtalks   and visit http://www.vvtalks.com To open a Demat account with Zerodha, India's No.1 stock broker, please register using the link below... \nhttps://zerodha.com/open-account?c=ZM...",
+  "links": [
+   {
+    "start_index": 0,
+    "length": 18,
+    "text": "#SunilMinglaniLive",
+    "url": "https://www.youtube.com/hashtag/sunilminglanilive",
+    "type": "browse"
+   },
+   {
+    "start_index": 19,
+    "length": 24,
+    "text": "#StockMarketForBeginners",
+    "url": "https://www.youtube.com/hashtag/stockmarketforbeginners",
+    "type": "browse"
+   },
+   {
+    "start_index": 44,
+    "length": 18,
+    "text": "#PsychologyMatters",
+    "url": "https://www.youtube.com/hashtag/psychologymatters",
+    "type": "browse"
+   },
+   {
+    "start_index": 173,
+    "length": 40,
+    "text": "https://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/newsletter"
+   },
+   {
+    "start_index": 284,
+    "length": 40,
+    "text": "https://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/course_details?ref=Mjk1"
+   },
+   {
+    "start_index": 493,
+    "length": 25,
+    "text": "https://sunilminglani.com",
+    "url": "https://sunilminglani.com/"
+   },
+   {
+    "start_index": 750,
+    "length": 21,
+    "text": "   / @sunilminglani  ",
+    "url": "https://www.youtube.com/channel/UCS8WLwuVszq1g2oeBzboUmQ/join"
+   },
+   {
+    "start_index": 864,
+    "length": 26,
+    "text": "https://t.me/sunilminglani",
+    "url": "https://t.me/sunilminglani"
+   },
+   {
+    "start_index": 1123,
+    "length": 22,
+    "text": "  / thesunilminglani  ",
+    "url": "https://www.facebook.com/thesunilminglani"
+   },
+   {
+    "start_index": 1146,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.twitter.com/sunilminglani"
+   },
+   {
+    "start_index": 1166,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.instagram.com/sunilminglani"
+   },
+   {
+    "start_index": 1281,
+    "length": 14,
+    "text": "   / vvtalks  ",
+    "url": "https://www.youtube.com/vvtalks"
+   },
+   {
+    "start_index": 1306,
+    "length": 22,
+    "text": "http://www.vvtalks.com",
+    "url": "http://www.vvtalks.com/"
+   },
+   {
+    "start_index": 1435,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPRLU"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "x63HCoDfAhQ",
+   "link": "https://www.youtube.com/watch?v=x63HCoDfAhQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x63HCoDfAhQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/x63HCoDfAhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIft_RyT0li9tUn9BRtzmJAxYGHg",
+    "rich": "https://i.ytimg.com/an_webp/x63HCoDfAhQ/mqdefault_6s.webp?du=3000&sqp=CLTEp9YG&rs=AOn4CLDjVMLyQosscinsle_lPPZ_5hif5w"
+   },
+   "title": "Protecting the President: Security, VIP Threats & ADC Life | Major Rishabh | FO560 Raj Shamani",
+   "published_date": "4w ago",
+   "views": "34M",
+   "extracted_views": 34000000,
+   "channel": {
+    "name": "Raj Shamani and Rishabh Singh Sambyal ",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "d73vYX8gsuQ",
+   "link": "https://www.youtube.com/watch?v=d73vYX8gsuQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d73vYX8gsuQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/d73vYX8gsuQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrHlDjAYMFRTSM31e7MGAdJTNTjw"
+   },
+   "title": "Data Analytics for Beginners | Data Analytics Training | Data Analytics Course | Intellipaat",
+   "published_date": "Streamed 5y ago",
+   "views": "2.6M",
+   "extracted_views": 2600000,
+   "channel": {
+    "name": "Intellipaat",
+    "link": "https://www.youtube.com/@Intellipaat",
+    "thumbnail": "https://yt3.ggpht.com/0UrFW02_vRoTxrCcv4H6vSDXFwUPcafCf3oXIA6yMFUsVtIvE8EZdS2UMzbdscI7ifON_U7DHQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "2B0LrDY-lTY",
+   "link": "https://www.youtube.com/watch?v=2B0LrDY-lTY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2B0LrDY-lTY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/2B0LrDY-lTY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmBXzl4yzTT6L7oMuyioFG-ipQaw"
+   },
+   "title": "David Ryan: How To Size Positions Like A Three-Time U.S. Investing Champion | Investing With IBD",
+   "published_date": "3y ago",
+   "views": "84K",
+   "extracted_views": 84000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=COzMp9YG&rs=AOn4CLA9-nB_1BOvCP4oPltQgHYcanffog"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "753K",
+   "extracted_views": 753000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "t3OEb5ZWrmg",
+   "link": "https://www.youtube.com/watch?v=t3OEb5ZWrmg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t3OEb5ZWrmg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/t3OEb5ZWrmg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAScmqwWB257TiPzPS9mdUAV7MZnw",
+    "rich": "https://i.ytimg.com/an_webp/t3OEb5ZWrmg/mqdefault_6s.webp?du=3000&sqp=CKDjp9YG&rs=AOn4CLCTskjSRbPorV_LgE8paiuBKOCBlg"
+   },
+   "title": "🔰🔶कहानी 2008 की 🐻😈- Part-1  | Sunil Minglani LIVE | 11th Feb 2020",
+   "published_date": "Streamed 6y ago",
+   "views": "184K",
+   "extracted_views": 184000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "O1jO8BRhrEk",
+   "link": "https://www.youtube.com/watch?v=O1jO8BRhrEk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O1jO8BRhrEk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/O1jO8BRhrEk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrS5ziaq0vycFM7xRo-XFnsh9YPw",
+    "rich": "https://i.ytimg.com/an_webp/O1jO8BRhrEk/mqdefault_6s.webp?du=3000&sqp=CNyqp9YG&rs=AOn4CLB4zwM0Pc51vuaLjdRCOgW52D6p4Q"
+   },
+   "title": "Fed Leaves Rates Unchanged, Chair Powell Speaks (Live Coverage)",
+   "published_date": "Streamed 2y ago",
+   "views": "388K",
+   "extracted_views": 388000,
+   "channel": {
+    "name": "Bloomberg Television",
+    "link": "https://www.youtube.com/@markets",
+    "thumbnail": "https://yt3.ggpht.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "_YVQN6_nkfs",
+   "link": "https://www.youtube.com/watch?v=_YVQN6_nkfs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_YVQN6_nkfs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_YVQN6_nkfs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNrjNaJ2xh3iHvLa0bd8MPlm64ww",
+    "rich": "https://i.ytimg.com/an_webp/_YVQN6_nkfs/mqdefault_6s.webp?du=3000&sqp=CL3Qp9YG&rs=AOn4CLA4e4YrAw9-WTQ-JAFb9hyHXi0QrA"
+   },
+   "title": "Trading for Beginners Part 1 - FULL TRADING COURSE TUTORIAL",
+   "published_date": "3y ago",
+   "views": "10M",
+   "extracted_views": 10000000,
+   "channel": {
+    "name": "Jason Graystone",
+    "link": "https://www.youtube.com/@JasonGraystone",
+    "thumbnail": "https://yt3.ggpht.com/4SzT7UumXP54iq7WGJMPnJdps0nPLBMnJ17D5CXkuaJGij2d7k28b0CsITNTtAf4IPNqXZmRtg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "R4G1lk8jzW8",
+   "link": "https://www.youtube.com/watch?v=R4G1lk8jzW8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R4G1lk8jzW8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/R4G1lk8jzW8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj0siP7m0r0A21q_dTw0Ht2H5Q2w",
+    "rich": "https://i.ytimg.com/an_webp/R4G1lk8jzW8/mqdefault_6s.webp?du=3000&sqp=CLK0p9YG&rs=AOn4CLAyZihzjG04Utd2CGB48L9Vus8t6A"
+   },
+   "title": "Know When To Hold ’Em: Mike Webster On Trading Around A Core Position | Investing With IBD",
+   "published_date": "2y ago",
+   "views": "66K",
+   "extracted_views": 66000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "nSs3vOKKI2E",
+   "link": "https://www.youtube.com/watch?v=nSs3vOKKI2E&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nSs3vOKKI2E",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nSs3vOKKI2E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCO_oPkOCVAyvA0P5Fz6FfgzuhuQ",
+    "rich": "https://i.ytimg.com/an_webp/nSs3vOKKI2E/mqdefault_6s.webp?du=3000&sqp=CKHbp9YG&rs=AOn4CLD5Vs8AJRDFo-9uG4czOJ9GiSo4qA"
+   },
+   "title": "[Meet at 12 PM] Hit 8,000 points and now trending downward... Why??? An emergency dose of peace o...",
+   "published_date": "Streamed 4mo ago",
+   "views": "724K",
+   "extracted_views": 724000,
+   "channel": {
+    "name": "김어준의 겸손은힘들다 뉴스공장",
+    "link": "https://www.youtube.com/@gyeomsonisnothing",
+    "thumbnail": "https://yt3.ggpht.com/HCAmwUnQBZQQqXYBtdGX_OHwO6pMDLsp86CMot_U-rb5IE7cx3R9tldrBIqnTTKIuGwhG-ZUPw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "_21pbizBR9Y",
+   "link": "https://www.youtube.com/watch?v=_21pbizBR9Y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_21pbizBR9Y",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_21pbizBR9Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDn5Sg0j_kCViyFGj6whhdxw-Zl0g",
+    "rich": "https://i.ytimg.com/an_webp/_21pbizBR9Y/mqdefault_6s.webp?du=3000&sqp=CLqmp9YG&rs=AOn4CLBrjiHjtZZB9lKiY0XRddW8ugsXjA"
+   },
+   "title": "Fed Cuts Rates | Chair Powell Holds Press Conference (Live Coverage)",
+   "published_date": "Streamed 2y ago",
+   "views": "819K",
+   "extracted_views": 819000,
+   "channel": {
+    "name": "Bloomberg Television",
+    "link": "https://www.youtube.com/@markets",
+    "thumbnail": "https://yt3.ggpht.com/4-w44catDebzaDSUWgereql0G5_z5o7VpJXuIYL_eZ3H1vXy0lTmrole9V500jTUXCnQPZ5CuKQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Agp76Mps9bQ",
+   "link": "https://www.youtube.com/watch?v=Agp76Mps9bQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Agp76Mps9bQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Agp76Mps9bQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB99TZI4WCFtUiuPsR-P66Of1W79A",
+    "rich": "https://i.ytimg.com/an_webp/Agp76Mps9bQ/mqdefault_6s.webp?du=3000&sqp=CLzjp9YG&rs=AOn4CLBfi9tIsUbBwCcmSkU1P3Dj30Yhzg"
+   },
+   "title": "🔰🔶 🔰🔶SM's Portfolio Approach ? | Sunil Minglani LIVE | 27th Nov'20",
+   "published_date": "Streamed 5y ago",
+   "views": "96K",
+   "extracted_views": 96000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "FySy_46lM6o",
+   "link": "https://www.youtube.com/watch?v=FySy_46lM6o&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FySy_46lM6o",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/FySy_46lM6o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVcGCKMH1wK2AfwzTJarlO4n43gg",
+    "rich": "https://i.ytimg.com/an_webp/FySy_46lM6o/mqdefault_6s.webp?du=3000&sqp=CMDdp9YG&rs=AOn4CLB50OWQYSaS4gEdntx6BcnLSPqPTQ"
+   },
+   "title": "🔰🔶 🔰🔶बड़ी गिरावट का डर ? | Sunil Minglani LIVE | 8th Dec'20",
+   "published_date": "Streamed 5y ago",
+   "views": "63K",
+   "extracted_views": 63000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "E5tINrq4Gms",
+   "link": "https://www.youtube.com/watch?v=E5tINrq4Gms&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E5tINrq4Gms",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/E5tINrq4Gms/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkljj5h3o0jrIQUEZc69Wfl_MONg",
+    "rich": "https://i.ytimg.com/an_webp/E5tINrq4Gms/mqdefault_6s.webp?du=3000&sqp=CPPJp9YG&rs=AOn4CLDS19vEIekjsFhVDcZ3cZkho5YT9w"
+   },
+   "title": "Why Most Investors Sell Right Before They Get Rich | Kushal Lodha #329",
+   "published_date": "4mo ago",
+   "views": "154K",
+   "extracted_views": 154000,
+   "channel": {
+    "name": "Kushal Lodha and Krishan Sharma -Gateway to Financial Freedom",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ",
+    "rich": "https://i.ytimg.com/an_webp/pv5ojiCojjU/mqdefault_6s.webp?du=3000&sqp=COqyp9YG&rs=AOn4CLD7UJhgedjnV3od9CjoWy0YpWTQpg"
+   },
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "19h ago",
+   "views": "25K",
+   "extracted_views": 25000,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "RMQFLc2yslk",
+   "link": "https://www.youtube.com/watch?v=RMQFLc2yslk&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RMQFLc2yslk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RMQFLc2yslk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBvmaDtC8gP9UiUNpNzyBfdM1kg0A",
+    "rich": "https://i.ytimg.com/an_webp/RMQFLc2yslk/mqdefault_6s.webp?du=3000&sqp=CInkp9YG&rs=AOn4CLDBEeMgaWvFXbKkXo7PDHvtAnfOtQ"
+   },
+   "title": "Anil Agarwal in Aap Ki Adalat: An Exclusive Interview with Anil Agarwal on Life, Struggle, and Bu...",
+   "published_date": "6d ago",
+   "views": "296K",
+   "extracted_views": 296000,
+   "channel": {
+    "name": "India TV Aap Ki Adalat",
+    "link": "https://www.youtube.com/@ITVAapKiAdalat",
+    "thumbnail": "https://yt3.ggpht.com/-LKDkXmG8y-gkKDzES5aUI8SYFtDXR8F7351cCACb8OP0ap9MkI5moxwFLoAWNRjVEXKJmH3pQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New",
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "BAw478-X9BQ",
+   "link": "https://www.youtube.com/watch?v=BAw478-X9BQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BAw478-X9BQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BAw478-X9BQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgDtk9PsfrXO-55y5bU7UTM1iCJQ",
+    "rich": "https://i.ytimg.com/an_webp/BAw478-X9BQ/mqdefault_6s.webp?du=3000&sqp=CLjUp9YG&rs=AOn4CLDMWasqPbU70PXZTAT51D6rtiVt1A"
+   },
+   "title": "Why This Trader Says The Stock Market’s Party Isn’t Over Yet | Investing With IBD Podcast",
+   "published_date": "Streamed 1y ago",
+   "views": "14K",
+   "extracted_views": 14000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "q_E_7f3VERM",
+   "link": "https://www.youtube.com/watch?v=q_E_7f3VERM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q_E_7f3VERM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/q_E_7f3VERM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBdC-Y6YFT86689g3dSpaAvKy-mDQ"
+   },
+   "title": "How To Find And Master Your Own Trading Strategy | Investing with IBD",
+   "published_date": "Streamed 11mo ago",
+   "views": "33K",
+   "extracted_views": 33000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "19h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "SOLlWPLmTGI",
+   "link": "https://www.youtube.com/watch?v=SOLlWPLmTGI&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=SOLlWPLmTGI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/SOLlWPLmTGI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCH-Fkzq8wzAOxXuM32TnXWPSoMag",
+    "rich": "https://i.ytimg.com/an_webp/SOLlWPLmTGI/mqdefault_6s.webp?du=3000&sqp=CLLIp9YG&rs=AOn4CLDxTFrtcM4mhn2dS9KwcNjKf0TrNg"
+   },
+   "title": "40 Years of Stock Market Wisdom in 80 Minutes | Long-Term Investing ft. Basant Baheti",
+   "published_date": "10mo ago",
+   "views": "822K",
+   "extracted_views": 822000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "8BSGFUw9xxU",
+   "link": "https://www.youtube.com/watch?v=8BSGFUw9xxU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8BSGFUw9xxU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/8BSGFUw9xxU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBOyaTs8-3pc0FpAx-RIbO6uXAitA",
+    "rich": "https://i.ytimg.com/an_webp/8BSGFUw9xxU/mqdefault_6s.webp?du=3000&sqp=CP28p9YG&rs=AOn4CLAXpVvboxXQHXMXL5k7YNBlI1kbWA"
+   },
+   "title": "Fortune India: Boardroom | Indian equities at a crossroads: What comes next?",
+   "published_date": "6d ago",
+   "views": "12K",
+   "extracted_views": 12000,
+   "channel": {
+    "name": "Fortune India",
+    "link": "https://www.youtube.com/@fortuneindia6059",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l02tHQq16bifHSbR-_qPO8s3m8M37p0c0zH_N-qr5gxQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILT1hvWDhlLWhiQ1XAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnAZNZ3NJbFk3MzRkVENvWXJ3QWRyT2ktc013UVFLdmdRS0FfSS1BQW9Pd2o0TENKU0VfSWFvNGZIV3h3RUtBX0ktQUFvTndqNEtDT1RsZ3ZtWDdQdmVkd29EOGo0QUNnN0NQZ3NJdHFyNnNjUDF3bzdZQVFvRDhqNEFDZzdDUGdzSTNwT2d0cm53NTR6ckFRb0Q4ajRBQ2c3Q1Bnc0k2Tnphc3ZtTjRibTNBUW9EOGo0QUNnM0NQZ29JeWRpR280SGVzNnc3Q2dQeVBnQUtEc0ktQ3dqN281N18tb2JVd3YwQkNnUHlQZ0FLRGNJLUNnanZtb181NUxMdHdFY0tBX0ktQUFvT3dqNExDT0hHcUpUTzk4MlZuUUVLQV9JLUFBb093ajRMQ05hUGhlYmlyZHEyX3dFS0FfSS1BQW9Od2o0S0NMVHJzOU9NX1o2RkFnb0Q4ajRBQ2czQ1Bnb0lxdWVVOWZqZnJKSVhDZ1B5UGdBS0RjSS1DZ2pydE9EVjY0YlN6Uk1LQV9JLUFBb093ajRMQ0xXY29vWGlrWnJfcGdFS0FfSS1BQW9Od2o0S0NObmt5dTNjcFlIaVJBb0Q4ajRBQ2czQ1Bnb0lsT2pmX1B5ZGpvWUVDZ1B5UGdBS0RzSS1Dd2lUb3RUdTNfM1AtS3NCQ2dQeVBnQUtEY0ktQ2dqMDNzSGF2WjdaNWwwS0FfSS1BQW9Od2o0S0NPS1ltWmVQcTdueFNBb0Q4ajRBQ2c3Q1Bnc0lsWTczNGRUQ29ZcndBUklVQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZYUJBZ0FFQUVhQkFnQ0VBTWFCQWdFRUFVYUJBZ0dFQWNhQkFnSUVBa2FCQWdLRUFzYUJBZ01FQTBhQkFnT0VBOGFCQWdRRUJFYUJBZ1NFQk1hQkFnVUVCVWFCQWdXRUJjYUJBZ1lFQmthQkFnYUVCc2FCQWdjRUIwYUJBZ2VFQjhhQkFnZ0VDRWFCQWdpRUNNYUJBZ2tFQ1VhQkFnbUVDY3FGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "x63HCoDfAhQ",
+   "link": "https://www.youtube.com/watch?v=x63HCoDfAhQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x63HCoDfAhQ",
+   "thumbnail": "https://i.ytimg.com/vi/x63HCoDfAhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIft_RyT0li9tUn9BRtzmJAxYGHg",
+   "title": "Protecting the President: Security, VIP Threats & ADC Life | Major Rishabh | FO560 Raj Shamani",
+   "published_date": "4 weeks ago",
+   "views": "34M views",
+   "extracted_views": 34000000,
+   "length": "2:12:47",
+   "channel": {
+    "name": "Raj Shamani and Rishabh Singh Sambyal "
+   }
+  },
+  {
+   "video_id": "d73vYX8gsuQ",
+   "link": "https://www.youtube.com/watch?v=d73vYX8gsuQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d73vYX8gsuQ",
+   "thumbnail": "https://i.ytimg.com/vi/d73vYX8gsuQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrHlDjAYMFRTSM31e7MGAdJTNTjw",
+   "title": "Data Analytics for Beginners | Data Analytics Training | Data Analytics Course | Intellipaat",
+   "published_date": "Streamed 5 years ago",
+   "views": "2.6M views",
+   "extracted_views": 2600000,
+   "length": "3:50:19",
+   "channel": {
+    "name": "Intellipaat",
+    "link": "https://www.youtube.com/@Intellipaat"
+   }
+  },
+  {
+   "video_id": "2B0LrDY-lTY",
+   "link": "https://www.youtube.com/watch?v=2B0LrDY-lTY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2B0LrDY-lTY",
+   "thumbnail": "https://i.ytimg.com/vi/2B0LrDY-lTY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDmBXzl4yzTT6L7oMuyioFG-ipQaw",
+   "title": "David Ryan: How To Size Positions Like A Three-Time U.S. Investing Champion | Investing With IBD",
+   "published_date": "3 years ago",
+   "views": "84K views",
+   "extracted_views": 84000,
+   "length": "1:03:24",
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2 months ago",
+   "views": "753K views",
+   "extracted_views": 753000,
+   "length": "1:26:00",
+   "channel": {
+    "name": "Investing With Upsurge and 2 more"
+   }
+  },
+  {
+   "video_id": "t3OEb5ZWrmg",
+   "link": "https://www.youtube.com/watch?v=t3OEb5ZWrmg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t3OEb5ZWrmg",
+   "thumbnail": "https://i.ytimg.com/vi/t3OEb5ZWrmg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAScmqwWB257TiPzPS9mdUAV7MZnw",
+   "title": "🔰🔶कहानी 2008 की 🐻😈- Part-1  | Sunil Minglani LIVE | 11th Feb 2020",
+   "published_date": "Streamed 6 years ago",
+   "views": "184K views",
+   "extracted_views": 184000,
+   "length": "1:06:42",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "O1jO8BRhrEk",
+   "link": "https://www.youtube.com/watch?v=O1jO8BRhrEk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=O1jO8BRhrEk",
+   "thumbnail": "https://i.ytimg.com/vi/O1jO8BRhrEk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrS5ziaq0vycFM7xRo-XFnsh9YPw",
+   "title": "Fed Leaves Rates Unchanged, Chair Powell Speaks (Live Coverage)",
+   "published_date": "Streamed 2 years ago",
+   "views": "388K views",
+   "extracted_views": 388000,
+   "length": "3:01:31",
+   "channel": {
+    "name": "Bloomberg Television",
+    "link": "https://www.youtube.com/@markets"
+   }
+  },
+  {
+   "video_id": "_YVQN6_nkfs",
+   "link": "https://www.youtube.com/watch?v=_YVQN6_nkfs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_YVQN6_nkfs",
+   "thumbnail": "https://i.ytimg.com/vi/_YVQN6_nkfs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNrjNaJ2xh3iHvLa0bd8MPlm64ww",
+   "title": "Trading for Beginners Part 1 - FULL TRADING COURSE TUTORIAL",
+   "published_date": "3 years ago",
+   "views": "10M views",
+   "extracted_views": 10000000,
+   "length": "2:26:40",
+   "channel": {
+    "name": "Jason Graystone",
+    "link": "https://www.youtube.com/@JasonGraystone"
+   }
+  },
+  {
+   "video_id": "R4G1lk8jzW8",
+   "link": "https://www.youtube.com/watch?v=R4G1lk8jzW8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R4G1lk8jzW8",
+   "thumbnail": "https://i.ytimg.com/vi/R4G1lk8jzW8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCj0siP7m0r0A21q_dTw0Ht2H5Q2w",
+   "title": "Know When To Hold ’Em: Mike Webster On Trading Around A Core Position | Investing With IBD",
+   "published_date": "2 years ago",
+   "views": "66K views",
+   "extracted_views": 66000,
+   "length": "1:15:43",
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily"
+   }
+  },
+  {
+   "video_id": "nSs3vOKKI2E",
+   "link": "https://www.youtube.com/watch?v=nSs3vOKKI2E&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nSs3vOKKI2E",
+   "thumbnail": "https://i.ytimg.com/vi/nSs3vOKKI2E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCO_oPkOCVAyvA0P5Fz6FfgzuhuQ",
+   "title": "[Meet at 12 PM] Hit 8,000 points and now trending downward... Why??? An emergency dose of peace o...",
+   "published_date": "Streamed 4 months ago",
+   "views": "724K views",
+   "extracted_views": 724000,
+   "length": "1:11:45",
+   "channel": {
+    "name": "김어준의 겸손은힘들다 뉴스공장",
+    "link": "https://www.youtube.com/@gyeomsonisnothing"
+   }
+  },
+  {
+   "video_id": "_21pbizBR9Y",
+   "link": "https://www.youtube.com/watch?v=_21pbizBR9Y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_21pbizBR9Y",
+   "thumbnail": "https://i.ytimg.com/vi/_21pbizBR9Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDn5Sg0j_kCViyFGj6whhdxw-Zl0g",
+   "title": "Fed Cuts Rates | Chair Powell Holds Press Conference (Live Coverage)",
+   "published_date": "Streamed 2 years ago",
+   "views": "819K views",
+   "extracted_views": 819000,
+   "length": "2:47:20",
+   "channel": {
+    "name": "Bloomberg Television",
+    "link": "https://www.youtube.com/@markets"
+   }
+  },
+  {
+   "video_id": "Agp76Mps9bQ",
+   "link": "https://www.youtube.com/watch?v=Agp76Mps9bQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Agp76Mps9bQ",
+   "thumbnail": "https://i.ytimg.com/vi/Agp76Mps9bQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB99TZI4WCFtUiuPsR-P66Of1W79A",
+   "title": "🔰🔶 🔰🔶SM's Portfolio Approach ? | Sunil Minglani LIVE | 27th Nov'20",
+   "published_date": "Streamed 5 years ago",
+   "views": "96K views",
+   "extracted_views": 96000,
+   "length": "1:06:20",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "FySy_46lM6o",
+   "link": "https://www.youtube.com/watch?v=FySy_46lM6o&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FySy_46lM6o",
+   "thumbnail": "https://i.ytimg.com/vi/FySy_46lM6o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDVcGCKMH1wK2AfwzTJarlO4n43gg",
+   "title": "🔰🔶 🔰🔶बड़ी गिरावट का डर ? | Sunil Minglani LIVE | 8th Dec'20",
+   "published_date": "Streamed 5 years ago",
+   "views": "63K views",
+   "extracted_views": 63000,
+   "length": "1:04:35",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC09Yb1g4ZS1oYkNVGAYyJSIRIgtPWG9YOGUtaGJDVTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC09Yb1g4ZS1oYkNVGAYyOyIUIgtPWG9YOGUtaGJDVTAAeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC09Yb1g4ZS1oYkNVGAYyOyIUIgtPWG9YOGUtaGJDVTABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=OXoX8e-hbCU"
+ },
+ "_fetched_at": "2026-10-10T08:19:49"
+}

@@ -1,0 +1,256 @@
+{
+ "calls": [
+  {
+   "company": "Suzlon Energy Ltd",
+   "symbol_guess": "SUZLON",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Suuzlon इट इज़ राइट नाउ एट द लेवल ऑफ़ 2.0।",
+   "start_s": 74,
+   "line": "सॉल्व भी होते जाए। तो अगर आप एक्सक्लूसिव ग्रुप का पार्ट बनना चाहते हैं तो इस वीडियो के नीचे जॉइन का बटन है। जॉइन का बटन दबा दीजिए। हम बात करते हैं Suzelon",
+   "evidence": [
+    {
+     "text": "MULTIBAGGER",
+     "where": "title"
+    },
+    {
+     "text": "इट इज़ राइट नाउ",
+     "where": "transcript",
+     "start_s": 82
+    }
+   ],
+   "reason": "The video title frames Suzlon as a multibagger pick and the speaker describes it as \"right now at level 2.0\" and says he is very positive about it, indicating a buy recommendation without an explicit call to purchase."
+  },
+  {
+   "company": "ACC Limited",
+   "symbol_guess": "ACC",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "ACC is mentioned only as a client of Suzlon, not as a stock pick, so it is classified as watch."
+  },
+  {
+   "company": "Adani Group",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Adani is listed among Suzlon's clients and is not presented as a pick, so it is marked watch."
+  },
+  {
+   "company": "Aditya Birla Group",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Mentioned as a client only, not a recommendation."
+  },
+  {
+   "company": "Bajaj Ltd",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Listed as a client, no explicit recommendation."
+  },
+  {
+   "company": "Brookfield Renewable",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Mentioned only as a client of Suzlon."
+  },
+  {
+   "company": "GAIL (India) Ltd",
+   "symbol_guess": "GAIL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Cited as a client, not a stock pick."
+  },
+  {
+   "company": "NTPC Ltd",
+   "symbol_guess": "NTPC",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Only mentioned as a client, so classified as watch."
+  },
+  {
+   "company": "Reliance Industries Ltd",
+   "symbol_guess": "RELIANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इनके क्लाइंट्स हैं ACC adan Aitya Birla PR Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_s": 182,
+   "line": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "evidence": [
+    {
+     "text": "क्लाइंट्स हैं",
+     "where": "transcript",
+     "start_s": 182
+    }
+   ],
+   "reason": "Mentioned as a client, not a recommendation."
+  },
+  {
+   "company": "Shri Cement Ltd",
+   "symbol_guess": "SHRIRAMCEMENT",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "के क्लाइंट है श्री सीमेंट Vedant",
+   "start_s": 190,
+   "line": "Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "evidence": [
+    {
+     "text": "के क्लाइंट है",
+     "where": "transcript",
+     "start_s": 199
+    }
+   ],
+   "reason": "Shri Cement is listed as a client of Suzlon, not a stock pick."
+  },
+  {
+   "company": "Vedanta Ltd",
+   "symbol_guess": "VEDL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "के क्लाइंट है श्री सीमेंट Vedant",
+   "start_s": 190,
+   "line": "Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "evidence": [
+    {
+     "text": "के क्लाइंट है",
+     "where": "transcript",
+     "start_s": 199
+    }
+   ],
+   "reason": "Vedanta is mentioned only as a client, so it is marked watch."
+  },
+  {
+   "company": "Suzlon Energy Ltd",
+   "symbol_guess": "SUZLON",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "और यहां पर इस कंपनी में अगर आपको बाइंग मिल रही है व्हाट यू वांट?",
+   "start_s": 374,
+   "line": "बढ़कर 11% हुए हैं। ये दोनों पॉइंट अगर आप देखोगे एफआईआई और डीआई खरीद रहे हैं। जबकि एफआईआई पूरे मार्केट में सेलिंग कर रहे",
+   "evidence": [
+    {
+     "text": "बाइंग",
+     "where": "transcript",
+     "start_s": 382
+    },
+    {
+     "text": "एफआईआई का अच्छा खासा होल्ड",
+     "where": "transcript",
+     "start_s": 365
+    }
+   ],
+   "reason": "The speaker notes that FIIs are increasing their stake and mentions buying activity, but does not explicitly tell viewers to buy, so the stock is marked as watch."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

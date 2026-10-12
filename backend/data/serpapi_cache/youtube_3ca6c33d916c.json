@@ -1,0 +1,1335 @@
+{
+ "search_metadata": {
+  "id": "6acaaa25dafa5f63629f3378",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/HafaN8hcLTGj4jXFINVSjtj7IbrSCfUoIp1UvY4xeUI/6acaaa25dafa5f63629f3378.json",
+  "markdown_endpoint": "https://serpapi.com/searches/HafaN8hcLTGj4jXFINVSjtj7IbrSCfUoIp1UvY4xeUI/6acaaa25dafa5f63629f3378.md",
+  "created_at": "2026-10-10 21:12:05 UTC",
+  "processed_at": "2026-10-10 21:12:05 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Pushkar+Raj+Thakur+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/HafaN8hcLTGj4jXFINVSjtj7IbrSCfUoIp1UvY4xeUI/6acaaa25dafa5f63629f3378.html",
+  "total_time_taken": 3.6
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Pushkar Raj Thakur stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 2984923,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Investing your way is easier than ever.",
+   "link": "https://www.youtube.com/watch?v=9E01baqH_dg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9E01baqH_dg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CzXobJqrKatGvC-Wzy78Pv7yF6A2S9faTigHowI_BhRVkEAEgAGDJhoCAnKSIFYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHoyqDKAqgDBMgDCqoEzwJP0Gjft1HGFR4UiR4LFsuNaRU26G8XapUv-sPka8rA2-Rpr7i8cncRK50cNWlpVQWjqplvIypA2iRCWZ6gSx2ZWGAfw-YiTuU-eSwS4T9FD9t-IR6lXRLMZIA-M3oikTcLsQv2gZmee2NmITnhCscUcsoV96FbPTouA7E4i_jSwUYQOYHTM3X45v_lShCI5k2hAJI1KtivHAp5Jyiai7EqklMXyiMERgJDyv8CvPZflYpiM0sDWrbpfHoxHBWXZv8NNEuiczZ_EJ0gl7jCHj58x71iZ9O_Z5xcIRSnqIwNlysWHEIx-wYbYifpLYWY2y07Pp2YiePvB5maVMCmiDP7dz7xp2Rf7cY-6UDWur0RuzOGbTlxsXoMHUN2YTeTMIK6XPPTIEfstHoRsqizyM6KdSzJpue090PK6G2KIGTABjaKxzAfXxiIZlmDMG7ogIgFgsaj6laSBQgIE3jSsoK2AaAGoQGAB4C137UBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLOUUwMWJhcUhfZGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjokZTWrrCXA2ABmgkpaHR0cHM6Ly93d3cuZmlkZWxpdHkuY29tL3RyYWRpbmcvb3ZlcnZpZXexCUV8lMDPQx9dyAkXyAmPAcgJwgHICZcCugtBCAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQOAAgGIAgW6Awl2aWNiZnphY2HQCxLgCwGiDB1qFgoUY29tLmZpZGVsaXR5LmFuZHJvaWR4AIgBANIMAhAB2gwmCgsQkNuVu_Tj5-uyARICAQMaDRiCxqPqViCH4YHvzgVAAUoCEB-aDQESqg0CVVPIDQHSDaAEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL044MDUuMjAwOTcwMERPVUJMRUNMSUNLQklETUFOQUdFL0IzNDgyOTQzNi40MzU1Nzc0OTM7ZGNfdHJrX2FpZD02Mjk2ODAwMjA7ZGNfdHJrX2NpZD0yNDY5Mzg0MzE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNUNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JZ3NhajZsYW9BdWZqemdLd0FzYVoxT2dEUURzUTZMNF9KM1R3NkFSTmVhSEt5aVJhVlIyNTd3PT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNDMjZpMFpyT3NhcFlnemVteDRwWEVVUHdBS2lRaVRNb1pxbjdlenRBbDZzcUtia0xsRVVKNHRsakJBdmZmZmZsaUFTVTZ6d1FWREpkQ25kZztkY19wdWJpZD02P2h0dHBzOi8vd3d3LmZpZGVsaXR5LmNvbS90cmFkaW5nL292ZXJ2aWV3P2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzMwODMyOTczMLAT68miJbgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReTgK7kj0PpsroXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0dqU1q6wlwMV5dnyAR0_XgHdEAEYASAAEgKXgPD_BwE&num=1&cid=CAASqgHkaLJiWsMsvw4ffTbJr7hOI8JQMrfToNlGPAUOfJ9DrRbVL6yMBfdh22aOVskb3gosnPfk_-_-H-fAlvzRkrr1vJut1SjO9PkT8wlS0QLcGUU2PZ_hJjJ2D0_T_mfAWk8jsMdYhkxDwRfiMLx9d_mykzF4HJzTa6p67rRq1HRmOjsZDd-PR2u0rg49Qtgl1zsf43pNLw0cS_lTx4G4jy1BeKoq5CU7Vep2hQ&ad_cpn=%5BCPN%5D&sig=AOD64_1_nidgeJ8ilx_M6We0lRT4zOf6hg&ctype=110&video_id=9E01baqH_dg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Fidelity Investments",
+    "thumbnail": "https://yt3.ggpht.com/proxy/rYDdfS1uRZy1k5V3Bgl5zpOFzWcMxuK6xQvIr1XTzC89vv8VBxauNipnOUMaIZNdSWtSDVbOg3eEob9uthgYQYZEGi_R78PP7UPUIEfbZAF5rEk8Ggfh0s-KJAPY9UueQlv8mKPZNvSuYfnpwt38h6NkhfwMCCwxFmmniBIc3_JiyhFD76WolcNMjAb5KNfAqVW-14ltkv2XwHMlDd_HnSGZzUkG_Fv9QL6zPaHZkwUqlwkDpiAl9D23Ff6WQIR0vjja=w68-h68-nd"
+   },
+   "description": "It’s easy to set up recurring investments in stocks & ETFs.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9E01baqH_dg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Ob9kFAaaxbOK36ohu4BWNw7xhA"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "See why growing businesses rely on Bluehost for fast and dependable web hosting",
+   "link": "https://www.youtube.com/watch?v=b_7ozoOBxqg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=b_7ozoOBxqg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CutrfJqrKatGvC-Wzy78Pv7yF6A2YkdmUigHP9-PuvRalqKrktUYQAyAAYMmGgICcpIgVggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAeq1sJwDqAMEyAMKqgTPAk_QaN-3UcYVHhSJHgsWy41pFTbobxdqlS_6w-RrysDb5GmvuLxydxErnRw1aWlVBaOqmW8jKkDaJEJZnqBLHZlYYB_D5iJO5T55LBLhP0UP234hHqVdEsxkgD4zeiKRNwuxC_aBmZ57Y2YhOeEKxxRyyhX3oVs9Oi4DsTiL-NLBRhA5gdMzdfjm_-VKEIjmTaEAkjUq2K8cCnknKJqLsSqSUxfKIwRGAkPK_wK89l-VimIzSwNatul8ejEcFZdm_w00S6JzNn8QnSCXuMIePnzHvWJn079nnFwhFKeojA2XKxYcQjHzDRtiMOkt2ab1ODg-nZiJ4-8HmZpU3KeIM_t3UoPIsb4KQGuq-DR_QylEHmC9M_M43SFpQ3ZhN4pVruVb84EkNu-0ejepvLDIzop1LMmm57SlR7vrbYogZMAGEJHTMx9fGIhmWZpVQreHiAXVhfyAVJIFBwgTeL7A7WOgBqEBgAf-yc9jkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLYl83b3pvT0J4cWeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjokZTWrrCXA2ABmgkkaHR0cHM6Ly93d3cuYmx1ZWhvc3QuY29tL3dlYi1ob3N0aW5nsQly2l7ZN1fACcgJF8gJjwHICcIByAmXAroLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsB0gwCEAHaDCYKCxDg3L6844KeuqkBEgIBAxoNGNWF_IBUIP_ht9bnBUABSgIQH5oNARKqDQJVU8gNAdIN7wRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjIyMDIwMS4yMjc5NTA3SFhfQkRNL0IzNzA0NDAzNi40NTg3ODQxNDU7ZGNfdHJrX2FpZD02NTMzNjQ2NzI7ZGNfdHJrX2NpZD0yNjYxMTQ2NzI7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNENqSUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaElJMVlYOGdGU29BdUxiV0xBQzV0V1A1Z05BT3hDNjJFUjhzd3V1eUV1anlVbldhc3R0Y3RLajtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0R3Q1NJOEFRM21SUGtSeG1MM2t0NWE4Xy1pY2ZWb0o5eTYtZTRWRlhkeUtJdEliU2ltUzBMWnJFdWNCTGptek5TZDd2RzZoOF9jVU5qZDdnO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuYmx1ZWhvc3QuY29tL3dlYi1ob3N0aW5nP3V0bV9zb3VyY2U9ZGNtJnV0bV9tZWRpdW09dmlkZW8mdXRtX2NhbXBhaWduPXByb3NwZWN0aW5nJmNoYW5uZWxpZD1QOTlDMTA0UzUxMk4wQjE1QTE1MUQ0RTAwMDBWMTA0JmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMjU1MDYxMDY0NbATnfClJbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRcrRsQa7DpmPLoXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0dqU1q6wlwMV5dnyAR0_XgHdEAEYAyAAEgK3-vD_BwE&num=3&cid=CAASqgHkaLJiWsMsvw4ffTbJr7hOI8JQMrfToNlGPAUOfJ9DrRbVL6yMBfdh22aOVskb3gosnPfk_-_-H-fAlvzRkrr1vJut1SjO9PkT8wlS0QLcGUU2PZ_hJjJ2D0_T_mfAWk8jsMdYhkxDwRfiMLx9d_mykzF4HJzTa6p67rRq1HRmOjsZDd-PR2u0rg49Qtgl1zsf43pNLw0cS_lTx4G4jy1BeKoq5CU7Vep2hQ&ad_cpn=%5BCPN%5D&sig=AOD64_1tJ7VbVThkbLn208r9rVnTZqMOwA&ctype=110&video_id=b_7ozoOBxqg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Bluehost",
+    "thumbnail": "https://yt3.ggpht.com/proxy/jAPrkXlRhLRR9x7jn76UYc0mtyyTq_mcs4i0-WD3Sw6FM7vREKk85KRa_7F3zJ9zj9bEiOL4-QsRHAjDlvaYnl8RcbpcHAEB_pobiIt7DX-tL8binjNOkFxkxGiSsa1-nag8NsHLBACgOAM3HScI2AUUVk9ERE3UN4oVKe_CxLCY4thywfu8CSHROteBelr3h6txU0iIwh4olEOxO_c2fPi_Tftq-Hl01f_o7N4RVjf962uCgj5Y2WOZml-QJO3nLrWf=w68-h68-nd"
+   },
+   "description": "Build and grow your online presence with web hosting designed for your business",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/b_7ozoOBxqg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhMIFsoZTAP&rs=AOn4CLD5EC9A4_DCtgmIFb4QKFkXdSXxHw"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "It’s your world. Trade it.",
+   "link": "https://www.youtube.com/watch?v=lNy4F_FxCAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lNy4F_FxCAE",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cz2WrJqrKatGvC-Wzy78Pv7yF6A3zxev2iQGOu8zI2RWwkB8QBCAAYMmGgICcpIgVggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAfCI8KoBqAMEyAMKqgTQAk_QaN-3UcYVHhSJHgsWy41pFTbobxdqlS_6w-RrysDb5GmvuLxydxErnRw1aWlVBaOqmW8jKkDaJEJZnqBLHZlYYB_D5iJO5T55LBLhP0UP234hHqVdEsxkgD4zeiKRNwuxC_aBmZ57Y2YhOeEKxxRyyhX3oVs9Oi4DsTiL-NLBRhA5gdMzdfjm_-VKEIjmTaEAkjUq2K8cCnknKJqLsSqSUxfKIwRGAkPK_wK89l-VimIzSwNatul8ejEcFZdm_w00S6JzNn8QnSCXuMIePnzHvWJn079nnFwhFKeojA2XKxYcQjHCCxtiI-kt48qNciE-nZiJ4-8HmZpU7v2IM_t3XYLTB1ztxj7pQNa6vXS6mIVtOXGxeiSC2OZYDHBNnfyK4SIsN7BKSISeuYsl1Cb4B-um7KceNfHzgJoCZMwSu9ydT-FPOohoT3hNca5WCIgFwLXK8FaSBQgIE3ixwfbVAqAGoQGAB_j2j9UCkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfqsbECqAe-t7ECqAeZtbECqAeFwbECqAfrpbECqAfKqbECkggLbE55NEZfRnhDQUWoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjokZTWrrCXA2ABmgkqaHR0cHM6Ly93d3cuZm9yZXguY29tL2VuLXVzL2xwL3RyYWRpbmctZngvsQmQodvg_TkAkMgJF8gJjwHICcIByAmXAroLQQgDEAUYBCAHKAEwHEABSABYfWAAaABwAYgBAJgBAaIBCAoAqAIB2AICqAEB2AEDgAIBiAIFugMJdmljYmZ6YWNh0AsS4AsBogw3YhcKFWNvbS5nYWluY2FwaXRhbC5mb3JleGoXChVjb20uZ2FpbmNhcGl0YWwuZm9yZXh4AIgBANIMAhAB2gwlCgoQsIbelJXG3K5yEgIBAxoNGMC1yvBWINiGj5jEBUABSgIQH5oNARKqDQJVU8gNAdIN3QRodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjU4NzcuNDEzMDkzMkZPUkVYLkNPTVVTLVlPVVRVQkUvQjI4NTQxODg2LjQzNDc2OTY3ODtkY190cmtfYWlkPTYzOTkxMjY5ODtkY190cmtfY2lkPTI1NTcxMzg0MTtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE4Q2pRS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloUUl3TFhLOEZhb0FySEI5dFVDc0FLbm90dm9BMEE3RU9hQWx0UUNzTFdZaHJTXzhGNjFDcUVLTzZibWdBPT07Y2lkPTAwMTAwNTA0Njk7dXRtX3NvdXJjZT15b3V0dWJlX3VzO3V0bV9tZWRpdW09ZGlzcGxheTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0NNZEZyUFJ5ZlE5aXIwLUFaOG1HTVNIVUxBdFJLaE1iTG5adHZGVHplMFU5UFdIV0tPTWJkczBhZUI5WnBzM1kwNjdkSllaZENIeGcyQmRRO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuZm9yZXguY29tL2VuLXVzL2xwL3RyYWRpbmctZngvP2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzMyMTU0OTUwNLATjJ2qJbgT____________AbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqRczXv-7raRRVroXBigAMAA4AdAYAfAYAcIZAggB&ase=2&gclid=EAIaIQobChMI0dqU1q6wlwMV5dnyAR0_XgHdEAEYBCAAEgL8mvD_BwE&num=4&cid=CAASqgHkaLJiWsMsvw4ffTbJr7hOI8JQMrfToNlGPAUOfJ9DrRbVL6yMBfdh22aOVskb3gosnPfk_-_-H-fAlvzRkrr1vJut1SjO9PkT8wlS0QLcGUU2PZ_hJjJ2D0_T_mfAWk8jsMdYhkxDwRfiMLx9d_mykzF4HJzTa6p67rRq1HRmOjsZDd-PR2u0rg49Qtgl1zsf43pNLw0cS_lTx4G4jy1BeKoq5CU7Vep2hQ&ad_cpn=%5BCPN%5D&sig=AOD64_0UjFpElKfi1YVu2aaI-pmwcUx3dQ&ctype=110&video_id=lNy4F_FxCAE&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "FOREX.com",
+    "thumbnail": "https://yt3.ggpht.com/proxy/e38alSWjQvv7Ce-Qq07ITps1TqkjY45NCXCxo8WLAKUB0QMQ0rK1ECd-Cohb8vaNMsKEv-WrqPwK7AQ7gAvf2I_0Bq3bwsY-NMoqJkNFW9IH4dsVInj1_0ODeNaoybI0tMfIiIahKMoXHFVMObjY7VReYaVt5-jnuQihRKv4C_Ed58CvK4dYPRkHXEkI0MHZsHQzzhTf8-LYtKh-cg8jGsxK7PlWWLVNkqnyW3pT4DhyN9qG2mgWBNq-7gEZ_tLDfHcL=w68-h68-nd"
+   },
+   "description": "Find your freedom in FX.",
+   "thumbnail": {
+    "static": "https://tpc.googlesyndication.com/simgad/10121680929984851251"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+   "verified": true,
+   "handle": "@PushkarRajThakurOfficial",
+   "subscribers": 15400000,
+   "description": "Pushkar Raj Thakur is India's Leading Stock Market Educator, Finance Influencer & Business Coach. He is a Guinness World ...",
+   "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "latest_from_pushkar_raj_thakur_stock_market_educator_📈": [
+  {
+   "position_on_page": 3,
+   "title": "How to Invest in Dubai Real Estate & Make Money in 2026?  Ft. @vinayshah-themasterofdubai8924  🇦🇪",
+   "link": "https://www.youtube.com/watch?v=NmG2mDiJ2JA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NmG2mDiJ2JA",
+   "video_id": "NmG2mDiJ2JA",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈 and Vinay Shah - The Master Of Dubai Real Estate",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "14h ago",
+   "views": 48499,
+   "length": "1:08:41",
+   "description": "Call/WhatsApp: +971585874647** In this special episode of **Unplugged**, Pushkar Raj Thakur sits down with **Mr. Vinay Shah, ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/NmG2mDiJ2JA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAz5MhCm6t2RiWyBfGEqngzc4cdJg",
+    "rich": "https://i.ytimg.com/an_webp/NmG2mDiJ2JA/mqdefault_6s.webp?du=3000&sqp=CPC_qtYG&rs=AOn4CLCoHPhXwARbpF0Ht_8z0j0_iHDjbg"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "10 October Protest EXPOSED | 4 Stages of Destabilising a Country Explained...",
+   "link": "https://www.youtube.com/watch?v=io47W5zQ_Iw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=io47W5zQ_Iw",
+   "video_id": "io47W5zQ_Iw",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 315345,
+   "length": "21:41",
+   "description": "Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/io47W5zQ_Iw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUzRETbrSOXYU9HkTRVMrTKdUHSA",
+    "rich": "https://i.ytimg.com/an_webp/io47W5zQ_Iw/mqdefault_6s.webp?du=3000&sqp=CJjBqtYG&rs=AOn4CLBIM_EA3KggWUVVRr26Xf20gKL1Wg"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "₹30,000 Cr/M SIP Still… Market Crash??",
+   "link": "https://www.youtube.com/watch?v=xlJGkCnCYgo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xlJGkCnCYgo",
+   "video_id": "xlJGkCnCYgo",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 240646,
+   "length": "12:45",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xlJGkCnCYgo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46nEI1L84Q1VqPFMA8uLDqUn2rw",
+    "rich": "https://i.ytimg.com/an_webp/xlJGkCnCYgo/mqdefault_6s.webp?du=3000&sqp=CPyOqtYG&rs=AOn4CLCHlQuZAm5asCtIdjh8PdglGs8hZQ"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "Bad News for Health Insurance Policy Holders | 10% Co Payment Compulsory Now.. ⚠️ ",
+   "link": "https://www.youtube.com/watch?v=_OaBtxJdUuk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_OaBtxJdUuk",
+   "video_id": "_OaBtxJdUuk",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3d ago",
+   "views": 101658,
+   "length": "12:33",
+   "description": "Get Spam-Free Health Insurance Advice https://ditto.sh/2ystvs Whether you already have a health insurance policy or are ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_OaBtxJdUuk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMC9lYnmDhMcCTIF7DCt_S33eR7Q",
+    "rich": "https://i.ytimg.com/an_webp/_OaBtxJdUuk/mqdefault_6s.webp?du=3000&sqp=COC6qtYG&rs=AOn4CLCa8U3AGVzpgMd5-A8otmTP1EZaCQ"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "How to Earn Money by House Flipping | My New Real Estate Business Explained",
+   "link": "https://www.youtube.com/watch?v=yOh3F_shOXo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yOh3F_shOXo",
+   "video_id": "yOh3F_shOXo",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4d ago",
+   "views": 208990,
+   "length": "32:13",
+   "description": "Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/yOh3F_shOXo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUHHxzsFSr-WrQLwUsQ56gACnCbQ",
+    "rich": "https://i.ytimg.com/an_webp/yOh3F_shOXo/mqdefault_6s.webp?du=3000&sqp=CI7CqtYG&rs=AOn4CLAVQ-w-hoat6OzoQ1fywzsRlN-8Ag"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "How to Be a Real Estate Millionaire?",
+   "link": "https://www.youtube.com/watch?v=Zx77T4a204A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zx77T4a204A",
+   "video_id": "Zx77T4a204A",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6d ago",
+   "views": 208680,
+   "length": "38:27",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Zx77T4a204A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP_tQy9f2quaIqV1sJuNE0xIwvyA",
+    "rich": "https://i.ytimg.com/an_webp/Zx77T4a204A/mqdefault_6s.webp?du=3000&sqp=CODGqtYG&rs=AOn4CLBWTROUcSSwSG2cXSRRAhREVHjZmQ"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "What Happened Wrong with Vishwaguru India? | Stock Market & Economy Crash",
+   "link": "https://www.youtube.com/watch?v=RDDmL1LpZTI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RDDmL1LpZTI",
+   "video_id": "RDDmL1LpZTI",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7d ago",
+   "views": 340863,
+   "length": "12:45",
+   "description": "Start Trading with Shark Exchange: https://sharkexchange.in/referral?code=GBG920 ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RDDmL1LpZTI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByKzxTvho0gWsIha_5OPrzJse8Zg",
+    "rich": "https://i.ytimg.com/an_webp/RDDmL1LpZTI/mqdefault_6s.webp?du=3000&sqp=COigqtYG&rs=AOn4CLBjBPlyzuc2vsOvwV1mIOouq2iYqQ"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "30 Lakh Crore Scam in Stock Market? 📉 | Allegations by Rahul Gandhi Explained..",
+   "link": "https://www.youtube.com/watch?v=3QKeWAOQmSE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3QKeWAOQmSE",
+   "video_id": "3QKeWAOQmSE",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7d ago",
+   "views": 365153,
+   "length": "8:07",
+   "description": "Start Trading with Shark Exchange: https://sharkexchange.in/referral?code=GBG920 ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3QKeWAOQmSE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJUAnUuQkHiaDJrGQmoEkrAIOZ1Q",
+    "rich": "https://i.ytimg.com/an_webp/3QKeWAOQmSE/mqdefault_6s.webp?du=3000&sqp=CMqSqtYG&rs=AOn4CLDjVwR0wdfmyjSVlyEj3fJGuOm9Tg"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "Stock Market Bloodbath! What’s Next for Investors? 🚨",
+   "link": "https://www.youtube.com/watch?v=ts7XOdkS0fA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ts7XOdkS0fA",
+   "video_id": "ts7XOdkS0fA",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 295435,
+   "length": "14:51",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ts7XOdkS0fA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9magHzxZw8eFCWeObE1j7D0daeQ",
+    "rich": "https://i.ytimg.com/an_webp/ts7XOdkS0fA/mqdefault_6s.webp?du=3000&sqp=CMC2qtYG&rs=AOn4CLCnWfMxhX_gQ4QCwR89N0VllMEjlQ"
+   }
+  },
+  {
+   "position_on_page": "hidden",
+   "title": "Mistakes by Government that led to Stock Market Crash? 📉 ",
+   "link": "https://www.youtube.com/watch?v=QNtc25yqfRk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QNtc25yqfRk",
+   "video_id": "QNtc25yqfRk",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 330991,
+   "length": "18:42",
+   "description": "Join my team Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/QNtc25yqfRk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBx2JqIcqD56fW9fxy3o2F1kDIolQ",
+    "rich": "https://i.ytimg.com/an_webp/QNtc25yqfRk/mqdefault_6s.webp?du=3000&sqp=CLymqtYG&rs=AOn4CLApQyQY11jG1pk14GE9Z27EmVpL0g"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 5,
+   "shorts": [
+    {
+     "title": "Paid Protesters या Peaceful Protesters? आखिर क्या है सच्चाई? 🤔 | Protest Exposed",
+     "link": "https://www.youtube.com/shorts/EdMAbSdaooM",
+     "thumbnail": "https://i.ytimg.com/vi/EdMAbSdaooM/frame0.jpg",
+     "views_original": "47K views",
+     "views": 47000,
+     "video_id": "EdMAbSdaooM"
+    },
+    {
+     "title": "Health Insurance lene se pehle ye 4 cheezein zaroor check karein!",
+     "link": "https://www.youtube.com/shorts/tbad9sb20hQ",
+     "thumbnail": "https://i.ytimg.com/vi/tbad9sb20hQ/frame0.jpg",
+     "views_original": "44K views",
+     "views": 44000,
+     "video_id": "tbad9sb20hQ"
+    },
+    {
+     "title": "Bad News For Health Insurance Holders!",
+     "link": "https://www.youtube.com/shorts/kpmAABcgHNQ",
+     "thumbnail": "https://i.ytimg.com/vi/kpmAABcgHNQ/frame0.jpg",
+     "views_original": "357K views",
+     "views": 357000,
+     "video_id": "kpmAABcgHNQ"
+    },
+    {
+     "title": "New IPO – Apply✅ or Not❌? 📊",
+     "link": "https://www.youtube.com/shorts/ugvfuBGs8kQ",
+     "thumbnail": "https://i.ytimg.com/vi/ugvfuBGs8kQ/frame0.jpg",
+     "views_original": "98K views",
+     "views": 98000,
+     "video_id": "ugvfuBGs8kQ"
+    },
+    {
+     "title": "US Iran War Ending Now! Impact on Stock Market",
+     "link": "https://www.youtube.com/shorts/3UTcfD9xweM",
+     "thumbnail": "https://i.ytimg.com/vi/3UTcfD9xweM/frame0.jpg",
+     "views_original": "319K views",
+     "views": 319000,
+     "video_id": "3UTcfD9xweM"
+    },
+    {
+     "title": "Europe on HIGH ALERT?",
+     "link": "https://www.youtube.com/shorts/0aBcNVJExnQ",
+     "thumbnail": "https://i.ytimg.com/vi/0aBcNVJExnQ/frame0.jpg",
+     "views_original": "1M views",
+     "views": 1000000,
+     "video_id": "0aBcNVJExnQ"
+    },
+    {
+     "title": "How to get Small Loan Easily?",
+     "link": "https://www.youtube.com/shorts/PoxFR8QSVoI",
+     "thumbnail": "https://i.ytimg.com/vi/PoxFR8QSVoI/frame0.jpg",
+     "views_original": "46K views",
+     "views": 46000,
+     "video_id": "PoxFR8QSVoI"
+    },
+    {
+     "title": "Loan देकर अमीर कैसे बनें?",
+     "link": "https://www.youtube.com/shorts/wE5LW3rxMyU",
+     "thumbnail": "https://i.ytimg.com/vi/wE5LW3rxMyU/frame0.jpg",
+     "views_original": "60K views",
+     "views": 60000,
+     "video_id": "wE5LW3rxMyU"
+    },
+    {
+     "title": "💰 Salary से Wealth Creation इतनी मुश्किल क्यों?",
+     "link": "https://www.youtube.com/shorts/hxkq8QdoHyA",
+     "thumbnail": "https://i.ytimg.com/vi/hxkq8QdoHyA/frame0.jpg",
+     "views_original": "44K views",
+     "views": 44000,
+     "video_id": "hxkq8QdoHyA"
+    },
+    {
+     "title": "Kya United Kingdom ke 4 tukde hone wale hain? 😱",
+     "link": "https://www.youtube.com/shorts/8cDGS7gqqTk",
+     "thumbnail": "https://i.ytimg.com/vi/8cDGS7gqqTk/frame0.jpg",
+     "views_original": "240K views",
+     "views": 240000,
+     "video_id": "8cDGS7gqqTk"
+    },
+    {
+     "title": "अमीर लोग गरीब लोगों को अपना पैसा क्यों नहीं देते?",
+     "link": "https://www.youtube.com/shorts/u45j8KUvNFw",
+     "thumbnail": "https://i.ytimg.com/vi/u45j8KUvNFw/frame0.jpg",
+     "views_original": "461K views",
+     "views": 461000,
+     "video_id": "u45j8KUvNFw"
+    },
+    {
+     "title": "What is P2P Lending? | P2P Loans Explained in Simple Language",
+     "link": "https://www.youtube.com/shorts/UU-dNMNTZ0I",
+     "thumbnail": "https://i.ytimg.com/vi/UU-dNMNTZ0I/frame0.jpg",
+     "views_original": "60K views",
+     "views": 60000,
+     "video_id": "UU-dNMNTZ0I"
+    },
+    {
+     "title": "Is the Stock Market Crash Coming? | US Market Bubble Explained",
+     "link": "https://www.youtube.com/shorts/YkbRYnFMVBY",
+     "thumbnail": "https://i.ytimg.com/vi/YkbRYnFMVBY/frame0.jpg",
+     "views_original": "350K views",
+     "views": 350000,
+     "video_id": "YkbRYnFMVBY"
+    },
+    {
+     "title": "9 Types Of Income You Can Earn!",
+     "link": "https://www.youtube.com/shorts/FbVVDQYBvg8",
+     "thumbnail": "https://i.ytimg.com/vi/FbVVDQYBvg8/frame0.jpg",
+     "views_original": "1.7M views",
+     "views": 1700000,
+     "video_id": "FbVVDQYBvg8"
+    },
+    {
+     "title": "Apple ने India को दिया धोखा!",
+     "link": "https://www.youtube.com/shorts/zc8cLznWqO8",
+     "thumbnail": "https://i.ytimg.com/vi/zc8cLznWqO8/frame0.jpg",
+     "views_original": "1.9M views",
+     "views": 1900000,
+     "video_id": "zc8cLznWqO8"
+    },
+    {
+     "title": "Apple’s ₹4.5 Lakh Phone vs a Car! 📱🚗 | Apple Stock Trading Explained",
+     "link": "https://www.youtube.com/shorts/okZ7WYwCXz8",
+     "thumbnail": "https://i.ytimg.com/vi/okZ7WYwCXz8/frame0.jpg",
+     "views_original": "1.3M views",
+     "views": 1300000,
+     "video_id": "okZ7WYwCXz8"
+    },
+    {
+     "title": "🚨 The Biggest IPO Could Trigger a Market Crash? | Stock Market Warning 📉",
+     "link": "https://www.youtube.com/shorts/On5UdAyl7nY",
+     "thumbnail": "https://i.ytimg.com/vi/On5UdAyl7nY/frame0.jpg",
+     "views_original": "1.1M views",
+     "views": 1100000,
+     "video_id": "On5UdAyl7nY"
+    },
+    {
+     "title": "Global Bond Sell-Off 🚨 Is a Stock Market Crash Coming? | The Truth About Rising Bond Yields",
+     "link": "https://www.youtube.com/shorts/qjoiV8apw-o",
+     "thumbnail": "https://i.ytimg.com/vi/qjoiV8apw-o/frame0.jpg",
+     "views_original": "196K views",
+     "views": 196000,
+     "video_id": "qjoiV8apw-o"
+    },
+    {
+     "title": "India’s 7.8% GDP Growth: Real Growth or Data Manipulation? 🤔🇮🇳",
+     "link": "https://www.youtube.com/shorts/FfU79DseC6M",
+     "thumbnail": "https://i.ytimg.com/vi/FfU79DseC6M/frame0.jpg",
+     "views_original": "335K views",
+     "views": 335000,
+     "video_id": "FfU79DseC6M"
+    },
+    {
+     "title": "My Positive Dubai Taxi Lost & Found Experience",
+     "link": "https://www.youtube.com/shorts/LxBlTD4V1LI",
+     "thumbnail": "https://i.ytimg.com/vi/LxBlTD4V1LI/frame0.jpg",
+     "views_original": "4.1M views",
+     "views": 4099999,
+     "video_id": "LxBlTD4V1LI"
+    },
+    {
+     "title": "Operation Sindoor 2.0?",
+     "link": "https://www.youtube.com/shorts/8ThudvTQHEc",
+     "thumbnail": "https://i.ytimg.com/vi/8ThudvTQHEc/frame0.jpg",
+     "views_original": "593K views",
+     "views": 593000,
+     "video_id": "8ThudvTQHEc"
+    },
+    {
+     "title": "Teaching My #Daughter About #Money 💰",
+     "link": "https://www.youtube.com/shorts/14rFB4JydyA",
+     "thumbnail": "https://i.ytimg.com/vi/14rFB4JydyA/frame0.jpg",
+     "views_original": "1M views",
+     "views": 1000000,
+     "video_id": "14rFB4JydyA"
+    },
+    {
+     "title": "Farmer Rat Experiment: Ek aisi kahani jo aapki soch badal degi!",
+     "link": "https://www.youtube.com/shorts/EFo0Hihu_Ec",
+     "thumbnail": "https://i.ytimg.com/vi/EFo0Hihu_Ec/frame0.jpg",
+     "views_original": "313K views",
+     "views": 313000,
+     "video_id": "EFo0Hihu_Ec"
+    },
+    {
+     "title": "“Unlimited Money Hack! No Limits, Only Growth!” 🔥",
+     "link": "https://www.youtube.com/shorts/2gZ9Bs6_ZvY",
+     "thumbnail": "https://i.ytimg.com/vi/2gZ9Bs6_ZvY/frame0.jpg",
+     "views_original": "8.9M views",
+     "views": 8900000,
+     "video_id": "2gZ9Bs6_ZvY"
+    },
+    {
+     "title": "बच्चे को सिर्फ आराम की जिंदगी देना ही parenting नहीं है। ❤️",
+     "link": "https://www.youtube.com/shorts/gZkfOAcqlXw",
+     "thumbnail": "https://i.ytimg.com/vi/gZkfOAcqlXw/frame0.jpg",
+     "views_original": "694K views",
+     "views": 694000,
+     "video_id": "gZkfOAcqlXw"
+    },
+    {
+     "title": "🐢 Don’t Follow the Crowd!",
+     "link": "https://www.youtube.com/shorts/D_oQAVyFUm4",
+     "thumbnail": "https://i.ytimg.com/vi/D_oQAVyFUm4/frame0.jpg",
+     "views_original": "748K views",
+     "views": 748000,
+     "video_id": "D_oQAVyFUm4"
+    },
+    {
+     "title": "🔥 Legal Tax Hacks jo dekhne mein illegal lagte hain, but actually completely legal hain! 💰",
+     "link": "https://www.youtube.com/shorts/J1gjwb-yXNE",
+     "thumbnail": "https://i.ytimg.com/vi/J1gjwb-yXNE/frame0.jpg",
+     "views_original": "194K views",
+     "views": 194000,
+     "video_id": "J1gjwb-yXNE"
+    },
+    {
+     "title": "Learn Intraday Trading Today!",
+     "link": "https://www.youtube.com/shorts/etWU61GALis",
+     "thumbnail": "https://i.ytimg.com/vi/etWU61GALis/frame0.jpg",
+     "views_original": "146K views",
+     "views": 146000,
+     "video_id": "etWU61GALis"
+    },
+    {
+     "title": "Sunk Cost Fallacy: Ek Psychological Trap Jo Aapka Time Aur Paisa Dono Barbaad Karta Hai!",
+     "link": "https://www.youtube.com/shorts/aXWKqc9uwdA",
+     "thumbnail": "https://i.ytimg.com/vi/aXWKqc9uwdA/frame0.jpg",
+     "views_original": "984K views",
+     "views": 984000,
+     "video_id": "aXWKqc9uwdA"
+    },
+    {
+     "title": "The Most Powerful Man In This World🌎",
+     "link": "https://www.youtube.com/shorts/J5TKW7CLgPk",
+     "thumbnail": "https://i.ytimg.com/vi/J5TKW7CLgPk/frame0.jpg",
+     "views_original": "540K views",
+     "views": 540000,
+     "video_id": "J5TKW7CLgPk"
+    },
+    {
+     "title": "Silver ETF Investment: Sirf ₹23 Se Chandi Mein Invest Kaise Kare? | Silver ETF Explained",
+     "link": "https://www.youtube.com/shorts/uKxxFWZXKgM",
+     "thumbnail": "https://i.ytimg.com/vi/uKxxFWZXKgM/frame0.jpg",
+     "views_original": "93K views",
+     "views": 93000,
+     "video_id": "uKxxFWZXKgM"
+    },
+    {
+     "title": "Nifty 50 ETF Se India Ki Growth Kaise Pakde? | SIP for Beginners",
+     "link": "https://www.youtube.com/shorts/q1VmUgSxVWA",
+     "thumbnail": "https://i.ytimg.com/vi/q1VmUgSxVWA/frame0.jpg",
+     "views_original": "1.1M views",
+     "views": 1100000,
+     "video_id": "q1VmUgSxVWA"
+    },
+    {
+     "title": "Biggest Gold Rally Coming?",
+     "link": "https://www.youtube.com/shorts/uGPeAm0Ccuc",
+     "thumbnail": "https://i.ytimg.com/vi/uGPeAm0Ccuc/frame0.jpg",
+     "views_original": "282K views",
+     "views": 282000,
+     "video_id": "uGPeAm0Ccuc"
+    },
+    {
+     "title": "Is Sonam Wangchuk really a Fraud?",
+     "link": "https://www.youtube.com/shorts/iSx54KDYgQs",
+     "thumbnail": "https://i.ytimg.com/vi/iSx54KDYgQs/frame0.jpg",
+     "views_original": "740K views",
+     "views": 740000,
+     "video_id": "iSx54KDYgQs"
+    },
+    {
+     "title": "Gold Investment Under ₹22?",
+     "link": "https://www.youtube.com/shorts/cAnSt1t9UW8",
+     "thumbnail": "https://i.ytimg.com/vi/cAnSt1t9UW8/frame0.jpg",
+     "views_original": "79K views",
+     "views": 79000,
+     "video_id": "cAnSt1t9UW8"
+    },
+    {
+     "title": "How to Trade Forex Legally in India 🇮🇳",
+     "link": "https://www.youtube.com/shorts/3PWuBT0mEQc",
+     "thumbnail": "https://i.ytimg.com/vi/3PWuBT0mEQc/frame0.jpg",
+     "views_original": "212K views",
+     "views": 212000,
+     "video_id": "3PWuBT0mEQc"
+    },
+    {
+     "title": "2 Most Traded Penny Stocks!",
+     "link": "https://www.youtube.com/shorts/lJdyqTmdXK8",
+     "thumbnail": "https://i.ytimg.com/vi/lJdyqTmdXK8/frame0.jpg",
+     "views_original": "412K views",
+     "views": 412000,
+     "video_id": "lJdyqTmdXK8"
+    },
+    {
+     "title": "Trump Strikes Iran Again?",
+     "link": "https://www.youtube.com/shorts/Hgo4TCtZawM",
+     "thumbnail": "https://i.ytimg.com/vi/Hgo4TCtZawM/frame0.jpg",
+     "views_original": "263K views",
+     "views": 263000,
+     "video_id": "Hgo4TCtZawM"
+    },
+    {
+     "title": "Big Profits with 3 Investing Rules!",
+     "link": "https://www.youtube.com/shorts/W-aQpUODEO0",
+     "thumbnail": "https://i.ytimg.com/vi/W-aQpUODEO0/frame0.jpg",
+     "views_original": "418K views",
+     "views": 418000,
+     "video_id": "W-aQpUODEO0"
+    },
+    {
+     "title": "India's Money is Flowing Out!",
+     "link": "https://www.youtube.com/shorts/qi1p-dbGwNg",
+     "thumbnail": "https://i.ytimg.com/vi/qi1p-dbGwNg/frame0.jpg",
+     "views_original": "197K views",
+     "views": 197000,
+     "video_id": "qi1p-dbGwNg"
+    }
+   ]
+  },
+  {
+   "position_on_page": 7,
+   "shorts": [
+    {
+     "title": "Stock Market Crash Course Book by Pushkar Raj Thakur",
+     "link": "https://www.youtube.com/shorts/aWangOKHrBM",
+     "thumbnail": "https://i.ytimg.com/vi/aWangOKHrBM/frame0.jpg",
+     "views_original": "559K views",
+     "views": 559000,
+     "video_id": "aWangOKHrBM"
+    },
+    {
+     "title": "How to Start Investing in Share Market? How to Make Money from Stock Market | ft. Pushkar Raj Thakur",
+     "link": "https://www.youtube.com/shorts/jyUEjJvcTnY",
+     "thumbnail": "https://i.ytimg.com/vi/jyUEjJvcTnY/frame0.jpg",
+     "views_original": "203K views",
+     "views": 203000,
+     "video_id": "jyUEjJvcTnY"
+    },
+    {
+     "title": "13 May Pushkar pod clip 2vivek",
+     "link": "https://www.youtube.com/shorts/NLRc-mQ0_C4",
+     "thumbnail": "https://i.ytimg.com/vi/NLRc-mQ0_C4/frame0.jpg",
+     "views_original": "9.2K views",
+     "views": 9200,
+     "video_id": "NLRc-mQ0_C4"
+    },
+    {
+     "title": "King of Stock Market || Rs.1000 से Rs.20 करोड़ Strategy Revealed",
+     "link": "https://www.youtube.com/shorts/5Lg__m0M4DQ",
+     "thumbnail": "https://i.ytimg.com/vi/5Lg__m0M4DQ/frame0.jpg",
+     "views_original": "701K views",
+     "views": 701000,
+     "video_id": "5Lg__m0M4DQ"
+    },
+    {
+     "title": "Invest in China's Top 93 Stocks!",
+     "link": "https://www.youtube.com/shorts/RfCknuxZmwU",
+     "thumbnail": "https://i.ytimg.com/vi/RfCknuxZmwU/frame0.jpg",
+     "views_original": "72K views",
+     "views": 72000,
+     "video_id": "RfCknuxZmwU"
+    }
+   ]
+  },
+  {
+   "position_on_page": 11,
+   "shorts": [
+    {
+     "title": "King of Stock Market || Rs.1000 से Rs.20 करोड़ Strategy Revealed",
+     "link": "https://www.youtube.com/shorts/5Lg__m0M4DQ",
+     "thumbnail": "https://i.ytimg.com/vi/5Lg__m0M4DQ/frame0.jpg",
+     "views_original": "701K views",
+     "views": 701000,
+     "video_id": "5Lg__m0M4DQ"
+    },
+    {
+     "title": "Invest in China's Top 93 Stocks!",
+     "link": "https://www.youtube.com/shorts/RfCknuxZmwU",
+     "thumbnail": "https://i.ytimg.com/vi/RfCknuxZmwU/frame0.jpg",
+     "views_original": "72K views",
+     "views": 72000,
+     "video_id": "RfCknuxZmwU"
+    },
+    {
+     "title": "“Unlimited Money Hack! No Limits, Only Growth!” 🔥",
+     "link": "https://www.youtube.com/shorts/2gZ9Bs6_ZvY",
+     "thumbnail": "https://i.ytimg.com/vi/2gZ9Bs6_ZvY/frame0.jpg",
+     "views_original": "8.9M views",
+     "views": 8900000,
+     "video_id": "2gZ9Bs6_ZvY"
+    },
+    {
+     "title": "$300B Cancelled! Trump's U-Turn!",
+     "link": "https://www.youtube.com/shorts/1wcQqaWcg6s",
+     "thumbnail": "https://i.ytimg.com/vi/1wcQqaWcg6s/frame0.jpg",
+     "views_original": "249K views",
+     "views": 249000,
+     "video_id": "1wcQqaWcg6s"
+    },
+    {
+     "title": "Stock Market Growth Conclave🔥 #SMGC2023 | PushkarRajThakur | #Sharemarket",
+     "link": "https://www.youtube.com/shorts/i3KY7eufDak",
+     "thumbnail": "https://i.ytimg.com/vi/i3KY7eufDak/frame0.jpg",
+     "views_original": "3.7M views",
+     "views": 3700000,
+     "video_id": "i3KY7eufDak"
+    },
+    {
+     "title": "Donald Trump - G.O.A.T 🔥 | How to Make Money from Stock Market | ft. Pushkar Raj Thakur",
+     "link": "https://www.youtube.com/shorts/zenvakKNOSk",
+     "thumbnail": "https://i.ytimg.com/vi/zenvakKNOSk/frame0.jpg",
+     "views_original": "1.4M views",
+     "views": 1400000,
+     "video_id": "zenvakKNOSk"
+    },
+    {
+     "title": "#Mclaren 🔥",
+     "link": "https://www.youtube.com/shorts/QPPlJ27c4b4",
+     "thumbnail": "https://i.ytimg.com/vi/QPPlJ27c4b4/frame0.jpg",
+     "views_original": "2.1M views",
+     "views": 2100000,
+     "video_id": "QPPlJ27c4b4"
+    },
+    {
+     "title": "Should You Invest in Stock Market Now?",
+     "link": "https://www.youtube.com/shorts/EA9rWLWtLBk",
+     "thumbnail": "https://i.ytimg.com/vi/EA9rWLWtLBk/frame0.jpg",
+     "views_original": "226K views",
+     "views": 226000,
+     "video_id": "EA9rWLWtLBk"
+    },
+    {
+     "title": "How ₹6 Crore Could Potentially Grow to ₹40+ Crore 📈",
+     "link": "https://www.youtube.com/shorts/A17W2yWnFsU",
+     "thumbnail": "https://i.ytimg.com/vi/A17W2yWnFsU/frame0.jpg",
+     "views_original": "1.5M views",
+     "views": 1500000,
+     "video_id": "A17W2yWnFsU"
+    },
+    {
+     "title": "Markets Recovering Fast! Should You Invest Now?",
+     "link": "https://www.youtube.com/shorts/TiKIOtzdELc",
+     "thumbnail": "https://i.ytimg.com/vi/TiKIOtzdELc/frame0.jpg",
+     "views_original": "83K views",
+     "views": 83000,
+     "video_id": "TiKIOtzdELc"
+    },
+    {
+     "title": "Sigma Rule of Pushkar Raj Thakur || First Video of Pushkar Raj Thakur",
+     "link": "https://www.youtube.com/shorts/BvER72ybbmQ",
+     "thumbnail": "https://i.ytimg.com/vi/BvER72ybbmQ/frame0.jpg",
+     "views_original": "244K views",
+     "views": 244000,
+     "video_id": "BvER72ybbmQ"
+    },
+    {
+     "title": "My View on #Adani’s Fall in Today’s Debate on @RepublicWorld with #ArnabGoswami ✨",
+     "link": "https://www.youtube.com/shorts/NGqfH9ZSXS4",
+     "thumbnail": "https://i.ytimg.com/vi/NGqfH9ZSXS4/frame0.jpg",
+     "views_original": "1.1M views",
+     "views": 1100000,
+     "video_id": "NGqfH9ZSXS4"
+    },
+    {
+     "title": "Earn ₹44 Crore by Investing ₹100 Daily | Stock Market ETF Compounding",
+     "link": "https://www.youtube.com/shorts/bvLD0wxljUQ",
+     "thumbnail": "https://i.ytimg.com/vi/bvLD0wxljUQ/frame0.jpg",
+     "views_original": "5.3M views",
+     "views": 5300000,
+     "video_id": "bvLD0wxljUQ"
+    },
+    {
+     "title": "Stock Market Prediction | Understand Technicals & Probability of Profit",
+     "link": "https://www.youtube.com/shorts/q0ZyD2UmH_o",
+     "thumbnail": "https://i.ytimg.com/vi/q0ZyD2UmH_o/frame0.jpg",
+     "views_original": "136K views",
+     "views": 136000,
+     "video_id": "q0ZyD2UmH_o"
+    },
+    {
+     "title": "Future Trading Secrets",
+     "link": "https://www.youtube.com/shorts/lVi0l2UGthg",
+     "thumbnail": "https://i.ytimg.com/vi/lVi0l2UGthg/frame0.jpg",
+     "views_original": "75K views",
+     "views": 75000,
+     "video_id": "lVi0l2UGthg"
+    },
+    {
+     "title": "How much return should you expect from the stock market 🤑#shorts #pushkarrajthakur",
+     "link": "https://www.youtube.com/shorts/6czl1dPZ1PM",
+     "thumbnail": "https://i.ytimg.com/vi/6czl1dPZ1PM/frame0.jpg",
+     "views_original": "7.3K views",
+     "views": 7300,
+     "video_id": "6czl1dPZ1PM"
+    },
+    {
+     "title": "🚀 Quick Money vs Long-Term Wealth – Ek Vyapari Ki Soch! 💰📈",
+     "link": "https://www.youtube.com/shorts/V0rvrEOD52Y",
+     "thumbnail": "https://i.ytimg.com/vi/V0rvrEOD52Y/frame0.jpg",
+     "views_original": "2.8M views",
+     "views": 2800000,
+     "video_id": "V0rvrEOD52Y"
+    },
+    {
+     "title": "RSI Secrets Revealed!",
+     "link": "https://www.youtube.com/shorts/KN7vE2cCiq8",
+     "thumbnail": "https://i.ytimg.com/vi/KN7vE2cCiq8/frame0.jpg",
+     "views_original": "69K views",
+     "views": 69000,
+     "video_id": "KN7vE2cCiq8"
+    },
+    {
+     "title": "Aj Gold Neechey kaise Gir Gaya?📈",
+     "link": "https://www.youtube.com/shorts/XSySw61hjRk",
+     "thumbnail": "https://i.ytimg.com/vi/XSySw61hjRk/frame0.jpg",
+     "views_original": "685K views",
+     "views": 685000,
+     "video_id": "XSySw61hjRk"
+    },
+    {
+     "title": "ETF'S EXPLAINED BY PUSHKAR RAJ THAKUR #abhishekvyas #viral #trending #Business #pushkarrajthakur",
+     "link": "https://www.youtube.com/shorts/YQu9LC-PIjc",
+     "thumbnail": "https://i.ytimg.com/vi/YQu9LC-PIjc/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "YQu9LC-PIjc"
+    }
+   ]
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 6,
+   "title": "Stock Market Crash Course for Beginners | Free Share Market Course",
+   "link": "https://www.youtube.com/playlist?list=PLxNHpNhDaEFJsuzKNrMbr_SESDCCLmSu4",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   },
+   "videos": [
+    {
+     "title": "Share Market Crash Course for Beginners | Learn Stock Market #FREE",
+     "length": "21:55",
+     "link": "https://www.youtube.com/watch?v=3WI9RZODuag&list=PLxNHpNhDaEFJsuzKNrMbr_SESDCCLmSu4"
+    },
+    {
+     "title": "Fundamental Analysis Complete Course | How to Select Best Stocks for Investment in Share Market",
+     "length": "46:24",
+     "link": "https://www.youtube.com/watch?v=sx8sBN2prAE&list=PLxNHpNhDaEFJsuzKNrMbr_SESDCCLmSu4"
+    }
+   ],
+   "video_count": 23,
+   "thumbnail": "https://i.ytimg.com/vi/3WI9RZODuag/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAMvSuNSEllfexZK1nRq6wXgFKxbA"
+  },
+  {
+   "position_on_page": 9,
+   "title": "Basic to Advance Stock Market",
+   "link": "https://www.youtube.com/playlist?list=PLxNHpNhDaEFLngQFq3dIQvQO2hPZdAE8t",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   },
+   "videos": [
+    {
+     "title": "Stock Market Basic to Advance | Learn Share Market for Beginners | Investment & Trading by PRT",
+     "length": "30:15",
+     "link": "https://www.youtube.com/watch?v=8rIviI0ZKNA&list=PLxNHpNhDaEFLngQFq3dIQvQO2hPZdAE8t"
+    },
+    {
+     "title": "How to Start Investing in Stock Market? What is ETF? Where to Invest Money?",
+     "length": "22:37",
+     "link": "https://www.youtube.com/watch?v=-APjlRq8Usw&list=PLxNHpNhDaEFLngQFq3dIQvQO2hPZdAE8t"
+    }
+   ],
+   "video_count": 21,
+   "thumbnail": "https://i.ytimg.com/vi/8rIviI0ZKNA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBilK2gTMidtAUl9TbZOLVMomEz6A"
+  },
+  {
+   "position_on_page": 12,
+   "title": "Share Market Mastery",
+   "link": "https://www.youtube.com/playlist?list=PLxNHpNhDaEFJ8vaGyZ0w8bAaPUUIkO6Rx",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   },
+   "videos": [
+    {
+     "title": "Complete #StockMarket Knowledge in Just 1 Video | Basics of Share Market for Beginners Explained",
+     "length": "35:18",
+     "link": "https://www.youtube.com/watch?v=by9_zHQzeZk&list=PLxNHpNhDaEFJ8vaGyZ0w8bAaPUUIkO6Rx"
+    },
+    {
+     "title": "#OptionsTrading Live for Beginners | How to Make Money in #ShareMarket? | Live Demo on #Upstox",
+     "length": "18:40",
+     "link": "https://www.youtube.com/watch?v=ZsqSucH58D4&list=PLxNHpNhDaEFJ8vaGyZ0w8bAaPUUIkO6Rx"
+    }
+   ],
+   "video_count": 280,
+   "thumbnail": "https://i.ytimg.com/vi/by9_zHQzeZk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDiIMruUWJQCOOHIp-gPgE0C9eCug"
+  },
+  {
+   "position_on_page": 15,
+   "title": "Free Complete Candlestick Patterns Course | Technical Analysis in Share Market",
+   "link": "https://www.youtube.com/playlist?list=PLxNHpNhDaEFIZwO9g_q5JDibAiq5dFkpg",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   },
+   "videos": [
+    {
+     "title": "Free Complete Candlestick Patterns Course | Episode 1 | All Single Candlesticks | Technical Analysis",
+     "length": "43:04",
+     "link": "https://www.youtube.com/watch?v=EVlQgmirnCg&list=PLxNHpNhDaEFIZwO9g_q5JDibAiq5dFkpg"
+    },
+    {
+     "title": "All 2 Candlestick Patterns | Free Complete #CandlestickPatterns Course | Episode 2 | Stock Market",
+     "length": "34:39",
+     "link": "https://www.youtube.com/watch?v=_zpOuUopkUU&list=PLxNHpNhDaEFIZwO9g_q5JDibAiq5dFkpg"
+    }
+   ],
+   "video_count": 6,
+   "thumbnail": "https://i.ytimg.com/vi/EVlQgmirnCg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDmzGHHtEZgyxo2Ep4GInR4mR9IPA"
+  },
+  {
+   "position_on_page": 16,
+   "title": "Share Market For Beginners Step By Step Guide",
+   "link": "https://www.youtube.com/playlist?list=PLxNHpNhDaEFIVma-7cP7GFg85Ax_ZQ19L",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   },
+   "videos": [
+    {
+     "title": "Basics of Stock Market | Share Market for Beginners | Investing & Trading Step by Step Free Course",
+     "length": "42:52",
+     "link": "https://www.youtube.com/watch?v=b0_CsTFjtus&list=PLxNHpNhDaEFIVma-7cP7GFg85Ax_ZQ19L"
+    },
+    {
+     "title": "Fundamental Analysis | Share Market for Beginners | How to Find Discounted Stocks for Investment?",
+     "length": "47:02",
+     "link": "https://www.youtube.com/watch?v=5hIbptSM6m4&list=PLxNHpNhDaEFIVma-7cP7GFg85Ax_ZQ19L"
+    }
+   ],
+   "video_count": 29,
+   "thumbnail": "https://i.ytimg.com/vi/b0_CsTFjtus/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAE4NJ9Bj8Ay014Kfm0IViDSXmj3A"
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 8,
+   "title": "Complete #StockMarket Knowledge in Just 1 Video | Basics of Share Market for Beginners Explained",
+   "link": "https://www.youtube.com/watch?v=by9_zHQzeZk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=by9_zHQzeZk",
+   "video_id": "by9_zHQzeZk",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 4865211,
+   "length": "35:18",
+   "description": "In this video you will learn everything about Stock Market, from Basic Knowledge to How People Make Money from #StockMarket ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/by9_zHQzeZk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9RoDDUKEFuOFVSGwNiau9Wd3b7g",
+    "rich": "https://i.ytimg.com/an_webp/by9_zHQzeZk/mqdefault_6s.webp?du=3000&sqp=CKW4qtYG&rs=AOn4CLBtu9B2A0e10g-1q2seGde6pe1S2w"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "How to Be a Real Estate Millionaire?",
+   "link": "https://www.youtube.com/watch?v=Zx77T4a204A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zx77T4a204A",
+   "video_id": "Zx77T4a204A",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6d ago",
+   "views": 208680,
+   "length": "38:27",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Zx77T4a204A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP_tQy9f2quaIqV1sJuNE0xIwvyA",
+    "rich": "https://i.ytimg.com/an_webp/Zx77T4a204A/mqdefault_6s.webp?du=3000&sqp=CODGqtYG&rs=AOn4CLBWTROUcSSwSG2cXSRRAhREVHjZmQ"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "How to Start Investing in Share Market? How to Make Money from Stock Market Trading?",
+   "link": "https://www.youtube.com/watch?v=BeVw7UH_i9U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BeVw7UH_i9U",
+   "video_id": "BeVw7UH_i9U",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 16336353,
+   "length": "19:14",
+   "description": "Open Free Demat Account on Lemonn: https://lemonn.co.in/affiliate-deeplink?data=2ydcwi Use Referral Code: 2ydcwi ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BeVw7UH_i9U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCUA5u84FQNhfXbdsD232Mwc_UEw",
+    "rich": "https://i.ytimg.com/an_webp/BeVw7UH_i9U/mqdefault_6s.webp?du=3000&sqp=COuzqtYG&rs=AOn4CLAcRd79Vof5jq_bb6-S6gc6oXcPgA"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "How to Start Investing in Stock Market? What is ETF? Where to Invest Money?",
+   "link": "https://www.youtube.com/watch?v=-APjlRq8Usw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-APjlRq8Usw",
+   "video_id": "-APjlRq8Usw",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 1505285,
+   "length": "22:37",
+   "description": "Open Free Demat Account on Lemonn: https://lemonn.co.in/affiliate-deeplink?data=2ydcwi Use Referral Code: 2ydcwi ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/-APjlRq8Usw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ql83vnajQY2x1_UQXbBmDdTHcA",
+    "rich": "https://i.ytimg.com/an_webp/-APjlRq8Usw/mqdefault_6s.webp?du=3000&sqp=CKSuqtYG&rs=AOn4CLALJQMSRtel1XFslqpydze11pen1g"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "How to Earn Money by House Flipping | My New Real Estate Business Explained",
+   "link": "https://www.youtube.com/watch?v=yOh3F_shOXo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yOh3F_shOXo",
+   "video_id": "yOh3F_shOXo",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4d ago",
+   "views": 208990,
+   "length": "32:13",
+   "description": "Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/yOh3F_shOXo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUHHxzsFSr-WrQLwUsQ56gACnCbQ",
+    "rich": "https://i.ytimg.com/an_webp/yOh3F_shOXo/mqdefault_6s.webp?du=3000&sqp=CI7CqtYG&rs=AOn4CLAVQ-w-hoat6OzoQ1fywzsRlN-8Ag"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "₹30,000 Cr/M SIP Still… Market Crash??",
+   "link": "https://www.youtube.com/watch?v=xlJGkCnCYgo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xlJGkCnCYgo",
+   "video_id": "xlJGkCnCYgo",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 240646,
+   "length": "12:45",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xlJGkCnCYgo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA46nEI1L84Q1VqPFMA8uLDqUn2rw",
+    "rich": "https://i.ytimg.com/an_webp/xlJGkCnCYgo/mqdefault_6s.webp?du=3000&sqp=CPyOqtYG&rs=AOn4CLCHlQuZAm5asCtIdjh8PdglGs8hZQ"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "WTF is Happening in Stock Market? 📉",
+   "link": "https://www.youtube.com/watch?v=V5SIDV9Yqew",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V5SIDV9Yqew",
+   "video_id": "V5SIDV9Yqew",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4w ago",
+   "views": 227689,
+   "length": "21:46",
+   "description": "Start Trading here With Delta Exchange India: https://www.delta.exchange/?code=PVIXHL ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/V5SIDV9Yqew/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmgJtZcQJgTlmD9htAHNuddR5tTA",
+    "rich": "https://i.ytimg.com/an_webp/V5SIDV9Yqew/mqdefault_6s.webp?du=3000&sqp=CIikqtYG&rs=AOn4CLCyhr4s09w0bQ9yeaoOO9NJolzDZg"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "link": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ok26ypzWKGE",
+   "video_id": "ok26ypzWKGE",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 396432,
+   "length": "14:53",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ok26ypzWKGE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv74lEtJhcHTL4UGU7WZQTvsfbQA",
+    "rich": "https://i.ytimg.com/an_webp/ok26ypzWKGE/mqdefault_6s.webp?du=3000&sqp=CJywqtYG&rs=AOn4CLCT0MIbIrRkeMwJPWNjdwLDnx-X_A"
+   }
+  },
+  {
+   "position_on_page": 23,
+   "title": "What Happened in BRICS? 🚨 Impact on Stock Market Explained",
+   "link": "https://www.youtube.com/watch?v=qVYWIRuzP94",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qVYWIRuzP94",
+   "video_id": "qVYWIRuzP94",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 506839,
+   "length": "13:14",
+   "description": "Start Trading with Shark Exchange: https://sharkexchange.in/referral?code=GBG920 ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/qVYWIRuzP94/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAdIEohYm3CMcJm_Hv7gJtM7tCUw",
+    "rich": "https://i.ytimg.com/an_webp/qVYWIRuzP94/mqdefault_6s.webp?du=3000&sqp=CLaoqtYG&rs=AOn4CLBteWhMFvFxFfYWHh71gsymeFHv4w"
+   }
+  },
+  {
+   "position_on_page": 24,
+   "title": "Bad News for Health Insurance Policy Holders | 10% Co Payment Compulsory Now.. ⚠️ ",
+   "link": "https://www.youtube.com/watch?v=_OaBtxJdUuk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_OaBtxJdUuk",
+   "video_id": "_OaBtxJdUuk",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3d ago",
+   "views": 101658,
+   "length": "12:33",
+   "description": "Get Spam-Free Health Insurance Advice https://ditto.sh/2ystvs Whether you already have a health insurance policy or are ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_OaBtxJdUuk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMC9lYnmDhMcCTIF7DCt_S33eR7Q",
+    "rich": "https://i.ytimg.com/an_webp/_OaBtxJdUuk/mqdefault_6s.webp?du=3000&sqp=COC6qtYG&rs=AOn4CLCa8U3AGVzpgMd5-A8otmTP1EZaCQ"
+   }
+  },
+  {
+   "position_on_page": 25,
+   "title": "Stock Market Bloodbath! What’s Next for Investors? 🚨",
+   "link": "https://www.youtube.com/watch?v=ts7XOdkS0fA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ts7XOdkS0fA",
+   "video_id": "ts7XOdkS0fA",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 295435,
+   "length": "14:51",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ts7XOdkS0fA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9magHzxZw8eFCWeObE1j7D0daeQ",
+    "rich": "https://i.ytimg.com/an_webp/ts7XOdkS0fA/mqdefault_6s.webp?du=3000&sqp=CMC2qtYG&rs=AOn4CLCnWfMxhX_gQ4QCwR89N0VllMEjlQ"
+   }
+  },
+  {
+   "position_on_page": 26,
+   "title": "Buy These 5 Things Once You Get Money 💰",
+   "link": "https://www.youtube.com/watch?v=h9qYJRU98K0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h9qYJRU98K0",
+   "video_id": "h9qYJRU98K0",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 180465,
+   "length": "39:56",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/h9qYJRU98K0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLH7wdi6Hu3DK5sjc8-DbSBiDYDA",
+    "rich": "https://i.ytimg.com/an_webp/h9qYJRU98K0/mqdefault_6s.webp?du=3000&sqp=CM3FqtYG&rs=AOn4CLB6A8RiuZvNsAjSznYS2yLlw2wYMQ"
+   }
+  },
+  {
+   "position_on_page": 27,
+   "title": "How SIP Can Actually Make You Rich? (Real Strategy)",
+   "link": "https://www.youtube.com/watch?v=515BSTMXyzw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=515BSTMXyzw",
+   "video_id": "515BSTMXyzw",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "13d ago",
+   "views": 153565,
+   "length": "12:22",
+   "description": "Investing Pro: https://www.investing-referral.com/get70 Get InvestingPro's AI-Driven Strategies and AI-based Charts Technical ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/515BSTMXyzw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfEslFVjCIxfRm3ZAjDgZVJc5ahA",
+    "rich": "https://i.ytimg.com/an_webp/515BSTMXyzw/mqdefault_6s.webp?du=3000&sqp=CKybqtYG&rs=AOn4CLCwZms9Mf-vMycrYK9Yd0a9kQUDSA"
+   }
+  },
+  {
+   "position_on_page": 28,
+   "title": "Nifty ₹20,000 Possible? Shocking Data Analysis You Must See! 📉",
+   "link": "https://www.youtube.com/watch?v=nXP9pHdq_9Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nXP9pHdq_9Q",
+   "video_id": "nXP9pHdq_9Q",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 197694,
+   "length": "13:00",
+   "description": "Start Trading with Shark Exchange: https://sharkexchange.in/referral?code=GBG920 ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nXP9pHdq_9Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0wbvWVQFf5FvN3cRkQ0svffD-YQ",
+    "rich": "https://i.ytimg.com/an_webp/nXP9pHdq_9Q/mqdefault_6s.webp?du=3000&sqp=CKTMqtYG&rs=AOn4CLBF2t-QDoASstlqY6z5M23Xk90VSg"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Pushkar+Raj+Thakur+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Pushkar%20Raj%20Thakur%20stocks&sp=SBSCARhVQ0VBQXp2Mk9CcXhzU2N6S0oyUVp5R1GCASJQTHhOSHBOaERhRUZKc3V6S05yTWJyX1NFU0RDQ0xtU3U0ggELYnk5X3pIUXplWmuCASJQTHhOSHBOaERhRUZMbmdRRnEzZElRdlFPMmhQWmRBRTh0ggELWng3N1Q0YTIwNEGCASJQTHhOSHBOaERhRUZKOHZhR3laMHc4YkFhUFVVSWtPNlJ4ggELQmVWdzdVSF9pOVWCASJQTHhOSHBOaERhRUZJWndPOWdfcTVKRGliQWlxNWRGa3BnggEiUEx4TkhwTmhEYUVGSVZtYS03Y1A3R0ZnODVBeF9aUTE5TIIBCy1BUGpsUnE4VXN3ggELeU9oM0Zfc2hPWG-CAQt4bEpHa0NuQ1lnb4IBC1Y1U0lEVjlZcWV3ggELb2syNnlweldLR0WCAQtxVllXSVJ1elA5NIIBC19PYUJ0eEpkVXVrggELdHM3WE9ka1MwZkGCAQtoOXFZSlJVOThLMIIBCzUxNUJTVE1YeXp3ggELblhQOXBIZHFfOVGyAQYKBAgcEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ0VBQXp2Mk9CcXhzU2N6S0oyUVp5R1GCASJQTHhOSHBOaERhRUZKc3V6S05yTWJyX1NFU0RDQ0xtU3U0ggELYnk5X3pIUXplWmuCASJQTHhOSHBOaERhRUZMbmdRRnEzZElRdlFPMmhQWmRBRTh0ggELWng3N1Q0YTIwNEGCASJQTHhOSHBOaERhRUZKOHZhR3laMHc4YkFhUFVVSWtPNlJ4ggELQmVWdzdVSF9pOVWCASJQTHhOSHBOaERhRUZJWndPOWdfcTVKRGliQWlxNWRGa3BnggEiUEx4TkhwTmhEYUVGSVZtYS03Y1A3R0ZnODVBeF9aUTE5TIIBCy1BUGpsUnE4VXN3ggELeU9oM0Zfc2hPWG-CAQt4bEpHa0NuQ1lnb4IBC1Y1U0lEVjlZcWV3ggELb2syNnlweldLR0WCAQtxVllXSVJ1elA5NIIBC19PYUJ0eEpkVXVrggELdHM3WE9ka1MwZkGCAQtoOXFZSlJVOThLMIIBCzUxNUJTVE1YeXp3ggELblhQOXBIZHFfOVGyAQYKBAgcEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pushkar+Raj+Thakur+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pushkar+Raj+Thakur+stocks&sp=SBSCARhVQ0VBQXp2Mk9CcXhzU2N6S0oyUVp5R1GCASJQTHhOSHBOaERhRUZKc3V6S05yTWJyX1NFU0RDQ0xtU3U0ggELYnk5X3pIUXplWmuCASJQTHhOSHBOaERhRUZMbmdRRnEzZElRdlFPMmhQWmRBRTh0ggELWng3N1Q0YTIwNEGCASJQTHhOSHBOaERhRUZKOHZhR3laMHc4YkFhUFVVSWtPNlJ4ggELQmVWdzdVSF9pOVWCASJQTHhOSHBOaERhRUZJWndPOWdfcTVKRGliQWlxNWRGa3BnggEiUEx4TkhwTmhEYUVGSVZtYS03Y1A3R0ZnODVBeF9aUTE5TIIBCy1BUGpsUnE4VXN3ggELeU9oM0Zfc2hPWG-CAQt4bEpHa0NuQ1lnb4IBC1Y1U0lEVjlZcWV3ggELb2syNnlweldLR0WCAQtxVllXSVJ1elA5NIIBC19PYUJ0eEpkVXVrggELdHM3WE9ka1MwZkGCAQtoOXFZSlJVOThLMIIBCzUxNUJTVE1YeXp3ggELblhQOXBIZHFfOVGyAQYKBAgcEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ0VBQXp2Mk9CcXhzU2N6S0oyUVp5R1GCASJQTHhOSHBOaERhRUZKc3V6S05yTWJyX1NFU0RDQ0xtU3U0ggELYnk5X3pIUXplWmuCASJQTHhOSHBOaERhRUZMbmdRRnEzZElRdlFPMmhQWmRBRTh0ggELWng3N1Q0YTIwNEGCASJQTHhOSHBOaERhRUZKOHZhR3laMHc4YkFhUFVVSWtPNlJ4ggELQmVWdzdVSF9pOVWCASJQTHhOSHBOaERhRUZJWndPOWdfcTVKRGliQWlxNWRGa3BnggEiUEx4TkhwTmhEYUVGSVZtYS03Y1A3R0ZnODVBeF9aUTE5TIIBCy1BUGpsUnE4VXN3ggELeU9oM0Zfc2hPWG-CAQt4bEpHa0NuQ1lnb4IBC1Y1U0lEVjlZcWV3ggELb2syNnlweldLR0WCAQtxVllXSVJ1elA5NIIBC19PYUJ0eEpkVXVrggELdHM3WE9ka1MwZkGCAQtoOXFZSlJVOThLMIIBCzUxNUJTVE1YeXp3ggELblhQOXBIZHFfOVGyAQYKBAgcEALqAQQIAhAZ"
+ },
+ "_fetched_at": "2026-10-10T21:12:06"
+}

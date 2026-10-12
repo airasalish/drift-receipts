@@ -1,0 +1,21 @@
+{
+ "calls": [
+  {
+   "company": "Lalitha Jewellery Mart",
+   "symbol_guess": "LALITHA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ఇంట్రెస్టింగ్ వాచ్ లిస్ట్ స్టాక్ గా చెప్పుకోవచ్చు.",
+   "start_s": 655,
+   "line": "ఇగ్నోర్ చేయకూడదు. అండ్ స్టాక్ ఆల్రెడీ స్ట్రాంగ్ లిస్టెడ్ ప్రీమియం తో ట్రేడ్ అవుతుంది. కాబట్టి లాంగ్ టర్మ్ లో ఇన్వెస్టర్ పర్స్పెక్టివ్ లో కంపెనీ",
+   "evidence": [],
+   "reason": "The speaker describes the stock as an interesting watch‑list stock, indicating it should be monitored rather than bought or sold directly."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 3,
+ "llm_failed_chunks": 0
+}

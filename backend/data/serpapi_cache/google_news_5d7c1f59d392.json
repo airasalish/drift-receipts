@@ -1,0 +1,1434 @@
+{
+ "search_metadata": {
+  "id": "6ac9455deb6ec540d410545a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/MI8nKDj8Mq0TkWpwJVCn3ZJlasN1ninxLH5oildCJFY/6ac9455deb6ec540d410545a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/MI8nKDj8Mq0TkWpwJVCn3ZJlasN1ninxLH5oildCJFY/6ac9455deb6ec540d410545a.md",
+  "created_at": "2026-10-09 19:49:49 UTC",
+  "processed_at": "2026-10-09 19:49:49 UTC",
+  "google_news_url": "https://news.google.com/search?q=ideaForge+Technology+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/MI8nKDj8Mq0TkWpwJVCn3ZJlasN1ninxLH5oildCJFY/6ac9455deb6ec540d410545a.html",
+  "total_time_taken": 2.1
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "ideaForge Technology share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "ideaForge signs ₹151 crore loan agreement with Technology Development Board for YETI project",
+   "source": {
+    "name": "IndiaIPO",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiaipo.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiaipo.in/news/detail/ideaforge-signs-151-crore-loan-agreement-with-technology-development-board-for-yeti-project",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/ideaforge-technology-2026-07-65d2c6518f9b3295d2deeceed4e52d71.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRaelI0Y1VoMVpURTRPRWM1VFJDZkF4ampCU2dLTWdNQllBdw",
+   "date": "10/09/2026, 06:34 PM, +0000 UTC",
+   "iso_date": "2026-10-09T18:34:54Z"
+  },
+  {
+   "position": 2,
+   "title": "Missed ideaForge Technology's Run? Here's What Early Buyers Saw",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/capital-goods/nse-ideaforge/ideaforge-technology-shares/news/missed-ideaforge-technologys-run-heres-what-early-buyers-saw",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3021000-choice2-card/1788948713663?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVhMjAxUW1GWFQxOXBaRGsxVFJDZkF4ampCU2dLTWdZQm9Jd21SUVk",
+   "date": "10/08/2026, 03:49 PM, +0000 UTC",
+   "iso_date": "2026-10-08T15:49:32Z"
+  },
+  {
+   "position": 3,
+   "title": "ideaForge signs ₹151 crore loan agreement with Technology Development Board for YETI project",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/ideaforge-technology-share-price-signs-rs-151-crore-loan-agreement-with-technology-development-board-for-yeti-project-20008807.htm/amp",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/ideaforge-technology-2026-07-65d2c6518f9b3295d2deeceed4e52d71.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRaelI0Y1VoMVpURTRPRWM1VFJDZkF4ampCU2dLTWdNQllBdw",
+   "date": "10/09/2026, 04:38 PM, +0000 UTC",
+   "iso_date": "2026-10-09T16:38:27Z"
+  },
+  {
+   "position": 4,
+   "title": "Certain Equity Shares of ideaForge Technology Limited are subject to a Lock-Up Agreement Ending on 8-OCT-2026.",
+   "source": {
+    "name": "www.marketscreener.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketscreener.com/news/certain-equity-shares-of-ideaforge-technology-limited-are-subject-to-a-lock-up-agreement-ending-on-8-ce785ddedf8bf527",
+   "date": "10/08/2026, 12:36 AM, +0000 UTC",
+   "iso_date": "2026-10-08T00:36:36Z"
+  },
+  {
+   "position": 5,
+   "title": "IdeaForge CEO Ankit Mehta Pledges 2.8 Lakh Shares For Personal Financial Requirements",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:ba8fb7fa83bd6:0-ideaforge-ceo-ankit-mehta-pledges-2-8-lakh-shares-for-personal-financial-requirements/",
+   "date": "10/05/2026, 03:32 PM, +0000 UTC",
+   "iso_date": "2026-10-05T15:32:00Z"
+  },
+  {
+   "position": 6,
+   "title": "ideaForge Founder Ankit Mehta Pledges 2.8 Lakh Shares For “Personal Requirements\"",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Palak Sharma"
+    ]
+   },
+   "link": "https://inc42.com/buzz/ideaforge-founder-ankit-mehta-pledges-2-8-lakh-shares-for-personal-requirements/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/10/ideaforge-report-featured-1-1-1-760x570.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1TbXRJTVVZeFFUZHVMVnBqVFJEZ0F4aUFCU2dLTWdtQkFvZ0hFcXR6RkFF",
+   "date": "10/05/2026, 08:30 AM, +0000 UTC",
+   "iso_date": "2026-10-05T08:30:41Z"
+  },
+  {
+   "position": 7,
+   "title": "ideaForge Technology shares drop over 9% in two days. JM Financial downgrades rating",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-rating/articleshow/133173401.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133173555,width-1200,height-900,resizemode-4,imgsize-2235111/ideaforge-technology-shares-drop-over-9-in-two-days-jm-financial-downgrades-ratingbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlVFZyYXpaaWMxTjRiMnBUVFJEZ0F4aUFCU2dLTWdZQnNZUzJ3QVE",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Ideaforge promoter Ankit Mehta pledges 2.8 lakh shares to Infina Finance",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-promoter-ankit-mehta-pledges-2-8-lakh-shares-infina-finance/52725949",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-promoter-ankit-mehta-pledges-2-8-lakh-shares-infina-finance.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJZVGN0UmxOb1NVTkJjbVV0VFJDaUF4amRCU2dLTWdZZFk0NXVMUWM",
+   "date": "10/06/2026, 09:33 PM, +0000 UTC",
+   "iso_date": "2026-10-06T21:33:24Z"
+  },
+  {
+   "position": 9,
+   "title": "ideaForge Technology (NSE:IDEAFORGE): What Does Its Q2 FY27 Reg 74(5) Certificate Confirm?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/ideaforge-technology-nseideaforge-what-does-its-q2-fy27-reg-745-certificate-confirm",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/default_image/3d35f32e-d7ad-4c89-8347-404f161e1868.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVMGR5WldWeGEzRm1ORkZCVFJERUF4aW5CU2dLTWdrVmdveUp3V1ZGN1FF",
+   "date": "10/07/2026, 06:22 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:22:00Z"
+  },
+  {
+   "position": 10,
+   "title": "ideaForge Technology Shares Rise Over 1% As Company Launches QIP",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/ideaforge-technology-shares-rise-over-1percent-as-company-launches-qip-july-8-2026",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/ideaforge_technology_shares_rise_over_1_.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUViMjFKYURSSGQxbEdPVzAwVFJDZkF4ampCU2dLTWdZQlU0eERvZ1U",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "ideaForge Technology Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/321106/ideaforge-technology-ltd/peer-comparison/",
+   "date": "08/29/2026, 09:52 PM, +0000 UTC",
+   "iso_date": "2026-08-29T21:52:54Z"
+  },
+  {
+   "position": 12,
+   "title": "Drone maker ideaForge CEO Ankit Mehta pledges 2.8 lakh shares for ‘personal financial requirements’",
+   "source": {
+    "name": "Indian Startup News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://indianstartupnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sumit Vishwakarma"
+    ]
+   },
+   "link": "https://indianstartupnews.com/news/drone-maker-ideaforge-ceo-ankit-mehta-pledges-28-lakh-shares-for-personal-financial-requirements-12626144",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/indianstartupnews/media/media_files/2026/05/02/ideaforge-ceo-ankit-mehta-2026-05-02-19-10-45.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9TRWN0U1V4TlQzWlhkekZOVFJEZ0F4aUFCU2dLTWdhaGRZVHJMUVk",
+   "date": "10/05/2026, 03:18 PM, +0000 UTC",
+   "iso_date": "2026-10-05T15:18:06Z"
+  },
+  {
+   "position": 13,
+   "title": "Ideaforge Technology Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-share-price-target-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/07134843/Ideaforge-Technology-Share-Price-Target-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVVbE5QZHpNdGVYWjJOMVJ0VFJDZUF4amxCU2dLTWdB",
+   "date": "05/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-07T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "IdeaForge shares jump over 17% after defence tech firm records net profits in Q4 results; details here",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/idea-forge-shares-jump-over-17-after-defence-tech-firm-records-net-profits-in-q4-results-details-here/article-193054/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ideaforge-technology.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlVMGQ2WjA1SFUzVndlVVZ5VFJERUF4aW1CU2dLTWdZUlVLQ1dvQWs",
+   "date": "05/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-03T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "ideaForge Technology shares slide 5% after Q1 gross profit margin falls 49%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ideaforge-technology-shares-slide-5-after-q1-gross-profit-margin-falls-49/articleshow/133147754.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133147792,width-1200,height-900,resizemode-4,imgsize-9984/ideaforge-technology-shares-slide-5-after-q1-gross-profit-margin-falls-49br.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNURTl1UlZad1ozbEZMV2RxVFJEZ0F4aUFCU2dLTWdZVklZSHI0QUU",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Bearish: Analysts Just Cut Their ideaForge Technology Limited (NSE:IDEAFORGE) Revenue and EPS estimates",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/capital-goods/nse-ideaforge/ideaforge-technology-shares/news/bearish-analysts-just-cut-their-ideaforge-technology-limited",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3021000-choice2-main-header/1585186565541?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNNakJNVEVwUVNHRkJjakpxVFJDZkF4ampCU2dLTWdZQmtJcnVTQVU",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "ideaForge Technology Ltd Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/321106/ideaforge-technology-ltd/shareholding/",
+   "date": "08/31/2026, 05:47 AM, +0000 UTC",
+   "iso_date": "2026-08-31T05:47:55Z"
+  },
+  {
+   "position": 18,
+   "title": "ideaForge Technology receives ₹545.86 million GST demand for FY22-24",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-receives-545-86-cr-gst-demand-fy22-24/52468617",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-receives-545-86-cr-gst-demand-fy22-24.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdTV1pDVGt0V1kzbFhTRFJxVFJDaUF4amRCU2dLTWdZQlVJNUpxUVk",
+   "date": "10/05/2026, 08:17 AM, +0000 UTC",
+   "iso_date": "2026-10-05T08:17:04Z"
+  },
+  {
+   "position": 19,
+   "title": "ideaForge Technology shares rally 8% after strong Q4 turnaround, posts Rs 60 crore profit",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ideaforge-technology-shares-rally-8-after-strong-q4-turnaround-posts-rs-60-crore-profit/articleshow/130816614.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130816584,width-1200,height-900,resizemode-4,imgsize-85018/ideaforge-technology-shares-rally-8-after-strong-q4-turnaround-posts-rs-60-crore-profit.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFNbmxwUnpKSE0wOU5WakZDVFJEZ0F4aUFCU2dLTWdtTkFvanBFZXRyRXdF",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "ideaForge Technology bulk deal: BNP Paribas buys Rs 39 crore worth shares in this multibagger",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ideaforge-technology-bulk-deal-bnp-paribas-buys-rs-39-crore-worth-shares-in-this-multibagger/articleshow/130834855.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130834848,width-1200,height-900,resizemode-4,imgsize-85526/ideaforge-technology-bulk-deal-bnp-paribas-buys-rs-39-crore-worth-shares-in-this-multibagger.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFNbmxwUnpKSE0wOU5WakZDVFJEZ0F4aUFCU2dLTWdtTkFvanBFZXRyRXdF",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Why ideaForge Technology Share Price is Rising",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=05/04/2026&story=8&title=Why-ideaForge-Technology-Share-Price-is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2025/01022025-image2-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdiRXhPUzFkcVptbDNSVFZ3VFJEYkFSamVBaWdLTWdhVmNveXR1UVU",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Ideaforge Technology Share Price Slides 5% Even As Q1 Net Loss Narrows, Revenue Soars",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/ideaforge-technology-share-price-slides-even-as-q1-net-loss-narrows-revenue-soars-11892858",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/f396ba8c_drone.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVhV1ZyUlhGR1MwNTFVRVZ1VFJDZkF4ampCU2dLTWdhbHdKRDBRQVk",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Ideaforge zooms 144% since April, hits 2-year high; what's driving stock?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/ideaforge-zooms-144-since-april-hits-2-year-high-what-s-driving-stock-126060400258_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/24/full/1750763427-1321.jpg?im=FitAndFill=(382,233)",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFRbDlOYlRaR00xVmlZMEpTVFJEcEFSai1BaWdLTWdhWk00aXRUUVE",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Drone stock IdeaForge Technology share price jumps over 4% after launch of ₹500-crore QIP",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-technology-share-price-jumps-over-4-after-launch-of-rs-500-crore-qip-11783488778200.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/g8d737116538effc89f_1783488958255_1783488958433_aa518a51-bf07-4c29-b06f-cb3b517c0dce.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURSamsxWWtJd1YxaG5jM3BNVFJDZkF4ampCU2dLTWdrVkFJN0xNYVVlZ1FN",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "ideaForge Technology Limited (NSE:IDEAFORGE) surges 15%; individual investors who own 44% shares profited along with insiders",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/capital-goods/nse-ideaforge/ideaforge-technology-shares/news/ideaforge-technology-limited-nseideaforge-surges-15-individu",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3021000-choice2-main-header/1585186565541?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNNakJNVEVwUVNHRkJjakpxVFJDZkF4ampCU2dLTWdZQmtJcnVTQVU",
+   "date": "02/01/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-01T08:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "IdeaForge’s revenue jumps over 5X to Rs 69 Cr in Q1 FY27; loss narrows 89%",
+   "source": {
+    "name": "Entrackr",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shailesh Mahato"
+    ]
+   },
+   "link": "https://entrackr.com/fintrackr/ideaforges-revenue-jumps-over-5x-to-rs-69-cr-in-q1-fy27-loss-narrows-89-12248854",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/08/11/ideaforge-2026-06-04-00-08-52-2026-08-11-12-49-37.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRXa2RKTms5UWVsOWFjSFZGVFJDZkF4ampCU2dLTWdhSlk1RGtKZ2c",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Ideaforge Technology allots 8,826 equity shares under ESOS",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/ideaforge-technology-allots-8-826-equity-shares-under-esos-126092200589_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "‘India’s drone leader’: Buy Ideaforge stock for 27% upside, says Ashika Securities - check share price target",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-gets-buy-rating-ashika-sees-27-upside-check-target-price-11790422161462.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/26/1600x900/logo/ideaforge_1790423676563_8ImJ_1790423690805_ZtfU_e88b0384-c9bd-4b79-b9e6-9184ec1e2555_CImh.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVVVlV3ZUhWMmJXRTFlRGgxVFJDZkF4ampCU2dLTWdZRklwcm1JUWc",
+   "date": "09/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-26T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Ideaforge Technology - FIIs turn buyers after two quarters of selling; 15 stocks rally up to 265%, 6 turn multibaggers",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/fiis-turn-buyers-after-two-quarters-of-selling-15-stocks-rally-up-to-265-6-turn-multibaggers/ideaforge-technology/slideshow/131905043.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131905130,width-480,height-360,imgsize-100136,resizemode-75/back-in-favor.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFSVU5WTXkxeU5qaFZlSEZMVFJEb0FoamdBeWdLTWdrQm9JYUgwdVJNY1FF",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Ideaforge Tech Standalone June 2026 Net Sales at Rs 68.42 crore, up 435.34% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/ideaforge-tech-standalone-june-2026-net-sales-at-rs-68-42-crore-up-435-34-y-o-y-14001750.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Below All Moving Averages and Now at Lower Circuit: Ideaforge Technology Ltd Loses 4.67% in a Single Session",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/ideaforge-technology-ltd-plunges-to-lower-circuit-amid-heavy-selling-pressure-4214804",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/IdeaforgeTechno_stocks_hitting_lower_circuit_4214804.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlNM000ZVU1SFNURlpjRzF6VFJDaUFSaTJBaWdCTWdZOU01QXpIUWc",
+   "date": "10/05/2026, 05:47 AM, +0000 UTC",
+   "iso_date": "2026-10-05T05:47:47Z"
+  },
+  {
+   "position": 32,
+   "title": "Why Is Ideaforge Technology Share Price Falling Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-is-ideaforge-technology-share-price-falling",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Why-Is-Ideaforge-Technology-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NalZvUVhwVVgycGliakpMVFJDZUF4amxCU2dLTWdZTlFvTUpYUUk",
+   "date": "06/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-15T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Multibagger drone stock ideaForge Technology share price jumps 8% to 52-week high on strong Q4 results",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-drone-stock-ideaforge-technology-share-price-jumps-8-to-52-week-high-on-strong-q4-results-11777953673653.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/05/1600x900/logo/ideaforge_share_price_1777953971100_1777953971275.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBlVEpSVlRoV01uSlBhRkEwVFJDZkF4ampCU2dLTWdrVkFKREtMV1llZ0FN",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "IdeaForge shares settle at 20% upper circuit as drone tech firm swings to profit in Q4",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/ideaforge-shares-settle-at-20-upper-circuit-as-drone-tech-firm-swings-to-profit-in-q4-13908078.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/06/IdeaForge_Technology3.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTMk5uYlRKR2RtVjVOWHBtVFJDZkF4ampCU2dLTWdhbGRKS3RMUWM",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "ideaForge Technology ESOP Allotment of 8,826 Shares in Sep 2026",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/ideaforge-technology-nseideaforge-what-triggered-the-fresh-allotment-of-8826-equity-shares",
+   "date": "09/22/2026, 06:13 AM, +0000 UTC",
+   "iso_date": "2026-09-22T06:13:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Pros and Cons of ideaForge Technology Share 2026 | Drone UAV",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-and-cons-of-investing-in-ideaforge-technology-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-and-cons-of-investing-in-ideaforge-technology-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNaMEZ1ZG0xVGJsWnBXRFpRVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Ideaforge Shares hit upper-circuit. Closes at 52-week high.",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/ideaforge-shares-hit-upper-circuit-closes-at-52-week-high",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "ideaForge Technology launches ₹500 crore QIP at ₹795 per share",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/ideaforge-technology-share-price-launches-rs-500-crore-qip-at-rs-795-per-share-19940452.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/ideaforge-technology-2026-07-65d2c6518f9b3295d2deeceed4e52d71.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRaelI0Y1VoMVpURTRPRWM1VFJDZkF4ampCU2dLTWdNQllBdw",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Ideaforge Technology Ltd Share Price Today NSE/BSE Charts",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/investment/stocks/ideaforge-technology-ltd",
+   "date": "09/05/2026, 03:32 AM, +0000 UTC",
+   "iso_date": "2026-09-05T03:32:59Z"
+  },
+  {
+   "position": 40,
+   "title": "Ideaforge Technology Share Price Today May 5 2026 at Rs 731 52-Week High on Strong Q4",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-share-price-today-may-5-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/05132141/Ideaforge-Technology-Share-Price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURVbXhsUTBwYU5EVlFUV3R0VFJDZUF4amxCU2dLTWdB",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Drone stock ideaForge share price hits 5% upper circuit, 52-week high as board approves ₹500 crore fundraise",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/drone-stock-ideaforge-share-price-hits-5-upper-circuit-52-week-high-as-board-approves-rs-500-crore-fundraise-11780546512236.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/04/1600x900/logo/drone_stock_ideaforge_1780546904104_1780546904234_28a845c4-a2e5-4d73-8437-be4626cba79a.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlkMTh0VVcxMFoweHhNRlpuVFJDZkF4amlCU2dLTWdrNUFKWXhLV2dXWUFN",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Ideaforge Technology Ltd Locks at Upper Circuit With 5% Gain — Buyers Queue, Sellers Absent",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/ideaforge-technology-ltd-hits-upper-circuit-amid-strong-buying-pressure-4211306",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/IdeaforgeTechno_stocks_hitting_upper_circuit_4211306.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlOM1J4ZFdWTlVtODNUMFZ2VFJDaUFSaTJBaWdCTWdZOU01QXpIUWc",
+   "date": "10/02/2026, 07:45 PM, +0000 UTC",
+   "iso_date": "2026-10-02T19:45:20Z"
+  },
+  {
+   "position": 43,
+   "title": "ideaForge shares hit 52-week high on announcing ₹500 crore fundraise via QIP, preferential issue",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kamal Joshi"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/idea-forge-shares-hit-52-week-high-on-announcing-500-crore-fundraise-via-qip-preferential-issue/article-194785/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ideaforge-share-price-qip-500-cr.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZhMHN6T0VGQlltVkRSbk5wVFJDZkF4ampCU2dLTWdhcEk1UnZsUWM",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "IdeaForge Clarifies Japan MoU; Shares Jump Nearly 8%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/ideaforgeeases-concerns-on-japan-mou-shares-rally",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/04/ideaforge_eases_concerns_on_japan_mou_shares_rally.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVVMDF2V20weVh6ZGZiVzFCVFJDZkF4ampCU2dLTWdNQmtnWQ",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "ideaForge shares hit 52-week high as Q4 results trigger surge",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/ideaforge-shares-hit-52-week-high-as-q4-results-trigger-surge/article70937443.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/m96air/article70937523.ece/alternates/LANDSCAPE_1200/IMG_Ideaforge_2_1_DDBE3TLD.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJVekpYTFc5V2RVZG1hRXRSVFJDZkF4ampCU2dLTWdZUlE0cnRNUVk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Ideaforge hits 20% upper circuit amid huge volumes on strong Q4 show",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/ideaforge-hits-20-upper-circuit-amid-huge-volumes-on-strong-q4-show-126050400786_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/02/full/1725300335-2278.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBkbFJVTUVNd2NEbFNiVGhHVFJEREF4aW5CU2dLTWdhNU1JeTBHQWc",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Ideaforge Technology Q1 Results: Earnings Call Recording Now Available Online",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-q1-results-earnings-call-recording-now-available-online/47986416",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-q1-results-earnings-call-recording-now-available-online.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUxaM0k1YUVkbGExbHlhbFJyVFJDZkF4ampCU2dLTWdNQjBBUQ",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Ideaforge Technology closes trading window ahead of Q2FY27 results",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-closes-trading-window-ahead-q2fy27-results/51858575",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-closes-trading-window-ahead-q2fy27-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRYMWxhTVRabU0wbFdNMVpwVFJDaUF4amRCU2dLTWdhQlVaQ3NzUVk",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "ideaForge Technology Allots 23,347 Equity Shares Under Employee Stock Option Scheme",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-allots-23-347-equity-shares-under-employee-stock-option-scheme/37691370",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-allots-23-347-equity-shares-under-employee-stock-option-scheme.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxRVTF0YVRCTFEzbFZOMVZTVFJDdEF4akxCU2dLTWdZQmNJek5MUVk",
+   "date": "04/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-13T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "ideaForge Technology Q1 Results: Earnings call scheduled for Aug 11",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-q1-results-earnings-call-scheduled-for-aug-11/47388414",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-q1-results-earnings-call-scheduled-for-aug-11.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhaWGRuTFRaVVpuVlFjRlZOVFJDaUF4amRCU2dLTWdtVmtwSXl1U2FEN2dF",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "ideaForge Technology seeks ₹5,000 million via postal ballot",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-board-to-meet-on-june-3-to-consider-fund-raising/41600131",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-board-to-meet-on-june-3-to-consider-fund-raising.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRhakZwZW5VMlp6Rm9TMlJSVFJDaUF4amRCU2dLTWdhZGM1Yk1MUWM",
+   "date": "05/29/2026, 11:37 AM, +0000 UTC",
+   "iso_date": "2026-05-29T11:37:46Z"
+  },
+  {
+   "position": 52,
+   "title": "​Multibagger smallcaps: FIIs raised stakes in these 14 stocks for 2 straight quarters; shares soared up to 450%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/multibagger-smallcaps-fiis-raised-stakesinthese-14-stocksfortwo-straight-quartersshares-soared-upto450/ideaforge-technology/slideshow/132512654.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132513055,width-480,height-360,imgsize-42842,resizemode-75/smart-money.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNOSFp3VVVFMlMzTmxTelJ2VFJEb0FoamdBeWdLTWdtSlFZemxzT1kwcWdJ",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "This drone maker stock rallies 17% to 52-week high on strong Q4 results. Do you own?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/ideaforge-share-price-rallies-17-on-strong-q4-results-do-you-own-11777867018332.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/ideaForge_1777868269837_1777868269955.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1la1U0V2s0dGRUSnZaRWhtVFJDZkF4ampCU2dLTWdZUlU0N0xMUVk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Stock Alert: JSW Infra, Ideaforge Tech, Uno Minda, Orchid Pharma",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-jsw-infra-ideaforge-tech-uno-minda-orchid-pharma-126070800197_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Ideaforge Technology Q4 Results 2026: Date, Revenue, PAT And Analyst Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-q4-results-2026-preview",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/16133042/Ideaforge-Technology-Q4-Results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVWSFl0UVhGTVRtbFFiMk5FVFJDUUF4ai1CU2dLTWdB",
+   "date": "04/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-16T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Ideaforge Tech Consolidated March 2026 Net Sales at Rs 141.04 crore, up 594.45% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/ideaforge-tech-consolidated-march-2026-net-sales-at-rs-141-04-crore-up-594-45-y-o-y-13907757.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "From ₹1,344 to ₹301 and back: Stock surges to 18-month high after best month since listing",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/buzzing-stock-surge-from-1344-to-301-and-rebound-18-month-high-q4-profit-best-month-return-ws-e-19898862.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/05/image-2026-05-e500afef006ace8acd08e08de4c52c46.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5VbGx6UW5kUFIzZGpWblZWVFJDZkF4ampCU2dLTWdhVkFvcXNsUVU",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "ideaForge launches ₹500 crore QIP at ₹795 per share to cut debt",
+   "source": {
+    "name": "Dealroom",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://app.dealroom.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://app.dealroom.co/news/note/ideaforge-launches-500-crore-qip-at-795-per-share-to-cut-debt",
+   "thumbnail": "https://sg-imgs.dealroom.co/66560d4b590f0369632f01b0c5dfc107.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpiVzlIWm1GVGFXMWlTbGxDVFJDM0FSaVVBaWdCTWdhUmM0b3FNZ1k",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Stocks To Watch Today, July 8, 2026: ideaForge, 3i Infotech, Capital SFB, Adani Enterprises & Uno Minda",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/stocks-to-watch-today-july-8-2026-ideaforge-3i-infotech-capital-sfb-adani-enterprises-uno-minda",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/Stocks-to-watch-today-july-8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUbWRqTVRNeFlsQlZPRFZIVFJDZkF4amlCU2dLTWdZQlVJWmpJZ2M",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Ideaforge Technology drops over 5% to 8-month low as Q3 loss doubles",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ananya Chaudhuri"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/ideaforge-technology-drops-over-5-to-8-month-low-as-q3-loss-doubles-126012300298_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-06/28/full/1687947852-8808.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWelUwYVRJdFFWbFpia3MzVFJDa0F4amFCU2dLTWdZcFZKVE5yUWM",
+   "date": "01/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-23T08:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "ideaForge Technology 19th AGM on Aug 5, 2026; FY26 Revenue Rises 36.71%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-schedules-19th-agm-for-august-5/45204105",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-schedules-19th-agm-for-august-5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhOak5vTXpCcmR6bERVVEphVFJDaUF4amRCU2dLTWdhVlVaYXNxUWM",
+   "date": "07/10/2026, 04:47 AM, +0000 UTC",
+   "iso_date": "2026-07-10T04:47:36Z"
+  },
+  {
+   "position": 62,
+   "title": "ideaForge shares surge over 17% after Q4 profit; IIFL sees 95% upside for drone-maker",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rhea Bhatia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/ideaforge-share-price-q4-result-reaction-profit-from-loss-margin-low-costs-fy27-outlook-iifl-upgrade-target-19897859.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/03/ideaforge-shares-2026-03-c2c55a51b9b4285433e616084a5bad0c.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9RMlkwTVMwd05GWlVXRVpmVFJDZkF4ampCU2dLTWdhVnNaSVR2UVk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "ideaForge Technology to host investor meeting on September 22",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-host-investor-meeting-september-22/51187887",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-host-investor-meeting-september-22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHhNVFZQUjJ0WFpXUnFNbkkxVFJDaUF4amRCU2dLTWdNQlVRdw",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Ideaforge Technology Q4 FY26 Results: Net Loss as per NSE/BSE exchange filing",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-q4-fy26-results",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/30150810/Ideaforge-Technology-Q4-FY26-Results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXa041YldkRmFscFZVbWxpVFJDZUF4amxCU2dLTWdhWklvQ3RGUW8",
+   "date": "05/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-02T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Ideaforge Technology reports consolidated net loss of Rs 2.59 crore in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/ideaforge-technology-reports-consolidated-net-loss-of-rs-2-59-crore-in-the-june-2026-quarter-126081100263_1.html",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Ideaforge Q2 FY27: Date and Expectations",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-q2-results-fy27-preview-date-expectations",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/ideaforge-technology-q2-results-fy27-preview-date-expectations.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVaRmx2UWtSWlMwcEdUakpwVFJDUUF4ai1CU2dLTWdhQk1KS2ptZ2s",
+   "date": "09/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-10T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "IdeaForge Technology Allots 7,026 Equity Shares Under ESO",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/ideaforge-technology-allots-7026-equity-shares-under-eso",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/02/ideaforge_technology_allots_7_026_equity_shares_under_eso.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1jVGxSYVdwVmQwOXZXbmRyVFJDZkF4ampCU2dLTWdB",
+   "date": "02/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-16T08:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "ideaForge raises ₹500 crore via QIP; here's how the defence stock reacted",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/ideaforge-raises-500-crore-via-qip-heres-how-the-defence-stock-reacted/148151",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2025-02-11/x7oce0gu/iStock-1386847296-1.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhPVm93TVhaRVpGVkdhQzFvVFJDZkF4ampCU2dLTWdZQllZNG5zZ1k",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Ideaforge Technology Ltd leads gainers in 'B' group",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/ideaforge-technology-ltd-leads-gainers-in-b-group-126050400566_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "ideaForge Technology Promoter Vipul Joshi Pledges 3,70,370 Equity Shares Under SEBI Regulation 31",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-promoter-vipul-joshi-pledges-3-70-370-equity-shares-under-sebi-regulation-31/37085010",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-promoter-vipul-joshi-pledges-3-70-370-equity-shares-under-sebi-regulation-31.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNaVFZuT1VkRVRuRkxVM05qVFJDdEF4akxCU2dLTWdrQlVJUWh3T055RGdJ",
+   "date": "04/07/2026, 05:29 AM, +0000 UTC",
+   "iso_date": "2026-04-07T05:29:48Z"
+  },
+  {
+   "position": 71,
+   "title": "ideaForge Technology Q4 FY26 Earnings: Record ₹141 Cr Revenue, 52.6% EBITDA Margin and ₹310 Cr FY27 Order Book",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-delivers-record-q4-fy26-performance-revenue-soars-to-141-crores-ebitda-margin-at-52-6/40039003",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-delivers-record-q4-fy26-performance-revenue-soars-to-141-crores-ebitda-margin-at-52-6.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1TVkI0YmpNeWVHVkpURnBNVFJDdEF4akxCU2dLTWdZQmNZYXJzUVk",
+   "date": "05/11/2026, 10:02 AM, +0000 UTC",
+   "iso_date": "2026-05-11T10:02:53Z"
+  },
+  {
+   "position": 72,
+   "title": "ideaForge Technology discloses corporate presentation on June 07, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-discloses-corporate-presentation-on-june-07-2026/42387342",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-discloses-corporate-presentation-on-june-07-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZMWGhMTTBkMlZIbHdNalZtVFJDaUF4amRCU2dLTWdhQmNaSkxMUWM",
+   "date": "06/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-07T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Ideaforge Technology shares extend winning streak to 3rd day, hit 52-week high – Here’s the trigger",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritik Raj"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/ideaforge-technology-shares-extend-winning-streak-to-3rd-day-hit-52-week-high-heres-the-trigger-534848-2026-06-04",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a21191ea1430-earlier--an-investor-presentation-submitted-to-the-exchanges--ideaforge-reported-booking-its-largest-042008200-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNORzF5WTBobWRVSmFhbVpxVFJDZkF4ampCU2dLTWdZZFlJck5wUWM",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "IdeaForge Technology narrows net loss to ₹199.36 million in FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-narrows-net-loss-to-199-36-million-in-fy26/44969045",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-narrows-net-loss-to-199-36-million-in-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhXbFZHVG1ZemVrczFia3g1VFJDaUF4amRCU2dLTWdNRllnZw",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Ideaforge Technology allots 62.89 lakh equity shares under QIP issue",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/ideaforge-technology-allots-62-89-lakh-equity-shares-under-qip-issue-126071100450_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-11T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Ideaforge Technology Q1 FY27 Results: Revenue, Net Loss & Key Hig",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-q1-results-fy27-loss-2-crore",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Ideaforge Technology Ltd Locks at Lower Circuit With 5.0% Loss — Sellers Queue, No Buyers in Sight",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/ideaforge-technology-ltd-hits-lower-circuit-amid-heavy-selling-pressure-4070571",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/6/IdeaforgeTechno_stocks_hitting_lower_circuit_4070571.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNVVkZLVlhoTlNFOUZSRTlGVFJDUkF4ajlCU2dLTWdB",
+   "date": "06/24/2026, 07:43 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:43:55Z"
+  },
+  {
+   "position": 78,
+   "title": "ideaForge Technology Allots 88,366 Equity Shares Under ESOP Scheme, Paid-Up Capital Rises to Rs. 43,38,76,410",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-allots-88-366-equity-shares-under-esop-scheme-paid-up-capital-rises-to-rs-43-38-76-410/39439575",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-allots-88-366-equity-shares-under-esop-scheme-paid-up-capital-rises-to-rs-43-38-76-410.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhNM0pFZEVwWExVOXdUelkwVFJDdEF4akxCU2dLTWdrQklJS0xxU2JvRkFF",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Why IdeaForge Technology Share Price is Rising",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=11/17/2025&story=8&title=Why-IdeaForge-Technology-Share-Price-is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2025/11142025-image5-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9RekE1VURWaVYwNTNZWEIzVFJEYkFSamVBaWdLTWdhWmNveExyUVU",
+   "date": "11/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-17T08:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Why Are Investors Suddenly Bullish on IDEAFORGE Stock?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/technology/why-are-investors-suddenly-bullish-on-ideaforge-stock",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/featured_image/9ef2d97c-7794-48f9-bcba-71e350438248-6260.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRRbEphVGxKemNucEdkMWhXVFJERUF4aW5CU2dLTWdZVlJKTHBvUWM",
+   "date": "05/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-14T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "ideaForge Technology shares tank 5% as Q3 net loss widens by 41% YoY",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ideaforge-technology-shares-tank-5-as-q3-net-loss-widens-by-41-yoy/articleshow/127239435.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-127239393,width-1200,height-900,resizemode-4,imgsize-93293/ideaforge-tech-delivers-weak-q3-net-loss-widens.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFVVXBUZUU1bmVHTllaRVJuVFJEZ0F4aUFCU2dLTWdNWmNRNA",
+   "date": "01/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-23T08:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "IdeaForge gains 5% after board approves ₹500 crore fundraise; stock nearly doubles in 2026",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gareema Bangad"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/ideaforge-share-price-upper-circuit-500-crore-fund-raise-methods-stock-nearly-doubles-in-2026-ws-l-19919284.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/03/ideaforge-shares-2026-03-c2c55a51b9b4285433e616084a5bad0c.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9RMlkwTVMwd05GWlVXRVpmVFJDZkF4ampCU2dLTWdhVnNaSVR2UVk",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "ideaForge Technology Promoter Ankit Mehta Pledges 3.70 Lakh Equity Shares",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-promoter-ankit-mehta-pledges-3-70-lakh-equity-shares/37084741",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-promoter-ankit-mehta-pledges-3-70-lakh-equity-shares.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5kbFIxU21aNGVXaEtRVlpOVFJDdEF4akxCU2dLTWdrQlFJUUFOR1FHMkFB",
+   "date": "04/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-07T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "ideaForge Technology ESOP Allotment of 14,135 Shares August 2026",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/ideaforge-technology-nseideaforge-what-prompted-the-fresh-allotment-of-14135-equity-shares",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "ideaForge Raises ₹500 Cr Via QIP; Allots 62.9 Lakh Shares",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anjali Jain"
+    ]
+   },
+   "link": "https://inc42.com/buzz/ideaforge-raises-%E2%82%B9500-cr-via-qip-allots-62-9-lakh-shares/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2026/06/ideaForge-feature-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJTakZRYzFFMmJYSXdkblozVFJEZ0F4aUFCU2dLTWdtVmNZb0tRbVU5ekFF",
+   "date": "07/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-11T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Multibagger Defence Drone Company Receives In-Principle Approval for Rs 151 Crore Government Funding; FII & DII Stake Increases",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/multibagger-defence-drone-company-receives-in-principle-approval-for-rs-151-crore-government-funding-fii-dii-stake-increases-58716",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F58716%2FDefence-Drone-Stocks-to-Buy.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDRlVkZmZDJsTmFtNUhNWGx4VFJDUUF4al9CU2dLTWdB",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Ideaforge Technology Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-technology-stock-prediction-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Ideaforge-Technology-Stock-Prediction-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDBSVkZDVWpWNWFGTjBPREptVFJDZUF4amxCU2dLTWdB",
+   "date": "06/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-15T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "HFCL, Ideaforge, among 10 smallcap stocks that more than doubled in the first 25 sessions of FY27​",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/hfcl-ideaforge-among-10-smallcap-stocks-that-more-than-doubled-in-the-first-25-sessions-of-fy27/sterlite-technologies/slideshow/131055234.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131055420,width-480,height-360,imgsize-13136,resizemode-75/unprecedented-rally.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhjbkI1WVcwdGVuWnBXakJTVFJEb0FoamVBeWdLTWdZQk1vaEdQUVU",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "ideaForge Technology Q4FY26 Results: ₹60.40 Cr Profit, Earnings Call Audio Available",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-reports-strong-q4-turnaround-with-60-40-crore-net-profit/39140956",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-reports-strong-q4-turnaround-with-60-40-crore-net-profit.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5SbnBxYUV4b05WOTBPR3RtVFJDdEF4akxCU2dLTWdrQmNJUXJOR1ZURmdF",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Stocks to Watch Today: Orchid Pharma, HCL Tech, EMS, Silver Touch, Knack Packaging, Ganesh Infraworld,...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-orchid-pharma-hcl-tech-ems-silver-touch-knack-packaging-ganesh-infraworld-ideaforge-embassy-developments-in-focus-on-8-july-13968369.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/12/20241212004919_stock-market-new-pixabay.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFlbVEyVEVWaGIyVTNkRFZEVFJDZkF4ampCU2dLTWdZVk5JYnFvUVE",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Stocks to watch: Cochin Shipyard, Premier Energies, ideaForge Tech among shares in focus today; check list here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-cochin-shipyard-premier-energies-ideaforge-tech-among-shares-in-focus-today-check-list-here-11783475189066.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/08/1600x900/logo/stock_1783476788967_1783476789108_7591e897-8c72-422f-81e7-93e970a97664.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRRMEUzU0RCM2JrbFFiVzAwVFJDZkF4ampCU2dLTWdrQkFJd0hJbWtlWUFN",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Ideaforge Technology raises ₹500 crore via QIP at ₹795 per share",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/equity-markets/ideaforge-technology-opens-qip-with-floor-price-set-at-835-86-per-share/44999880",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-opens-qip-with-floor-price-set-at-835-86-per-share.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlkVVV5VFhSVExXWmhRMEY2VFJDaUF4amRCU2dLTWdaQlVJYlVwQVE",
+   "date": "07/07/2026, 11:55 PM, +0000 UTC",
+   "iso_date": "2026-07-07T23:55:34Z"
+  },
+  {
+   "position": 93,
+   "title": "ideaForge Technology Confirms Non-Large Corporate Status Under SEBI Framework",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-confirms-non-large-corporate-status-under-sebi-framework/37694085",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-confirms-non-large-corporate-status-under-sebi-framework.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtia0paVDFseUxVWjFMWHBYVFJDdEF4akxCU2dLTWdZQmNJYk1NUVE",
+   "date": "04/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-13T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "ideaForge Technology Schedules Q4 FY26 Earnings Conference Call for May 4, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ideaforge-technology-schedules-q4-fy26-earnings-conference-call-for-may-4-2026/38543906",
+   "thumbnail": "https://news-images.dhan.co/ideaforge-technology-schedules-q4-fy26-earnings-conference-call-for-may-4-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTRWxpVWpRNWF6RnJZMHhHVFJDdEF4akxCU2dLTWdZQmNJcU1zUVU",
+   "date": "04/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-23T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Ideaforge Technology Slips 3.6%: Drone Maker Approaches Key Support at ₹710 - High Beta Stocks",
+   "source": {
+    "name": "https://www.siam.in/",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.siam.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.siam.in/aticles-market/Ideaforge-Technology-Slips-36-Drone-Maker-Approaches-Key-Support-at-710-59-12963",
+   "thumbnail": "https://asserts.assertsseo.click/manifest/usstock/2026-09-10/charts/ideaforge_ns_chart_e56e7958.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhVlZHUjI5WU1XbFNXV1V6VFJDdEFSaWpBaWdCTWdZQkFZSW5YUUk",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "MarketsMOJO Upgrades Ideaforge Technology Ltd to Hold on Strong Financial and Technical Gains",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/marketsmojo-upgrades-ideaforge-technology-ltd-to-hold-on-strong-financial-and-technical-gains-3980965",
+   "date": "05/08/2026, 03:30 AM, +0000 UTC",
+   "iso_date": "2026-05-08T03:30:56Z"
+  },
+  {
+   "position": 97,
+   "title": "ideaForge Share Price Hits 52-Week High: Rs 500 Cr Fundraise",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ideaforge-share-price-hits-52-week-high-500-crore-fundraise",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/ideaForge-Share-Price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtaMUJqYzFBdFoycFNZVXBDVFJDZUF4amxCU2dLTWdtVllZSXhNV0tDdUFB",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "ideaForge gets board nod to raise up to Rs 500 Cr through QIP",
+   "source": {
+    "name": "Entrackr",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://entrackr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://entrackr.com/news/ideaforge-gets-board-nod-to-raise-rs-500-cr-through-qip-11985895",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/entrackr/media/media_files/2026/06/04/ideaforge-2026-06-04-00-08-52.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkMmxIUkRaWVoxWkZkV3h5VFJDZkF4ampCU2dLTWdhSlk1RGtKZ2c",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Drone maker ideaForge soars to profit in Q4; FY26 revenue surges 40% to Rs 226 crore",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/tech/technology/drone-maker-ideaforge-soars-to-profit-in-q4-fy26-revenue-surges-40-to-rs-226-crore/articleshow/130672818.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130672902,width-1200,height-900,resizemode-4,imgsize-708368/ideaforge.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXVaMjlvVGtzNGREaGpabWN4VFJEZ0F4aUFCU2dLTWd1Wk00enNMYWRNTVptb3FR",
+   "date": "05/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-01T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Ideaforge Technology gains on securing multiple orders worth Rs 23.62 crore",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/ideaforge-technology-gains-on-securing-multiple-orders-worth-rs-23-62-crore165116",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Drone_203.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRXbFZLUzFaMGNrSmZVM1JKVFJDM0FSaVRBaWdCTWdhaFE1TE1JUWc",
+   "date": "10/01/2026, 07:05 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:05:56Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:50"
+}

@@ -1,0 +1,604 @@
+{
+ "search_metadata": {
+  "id": "6ac9f772c0d7a3db640c39f4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/cLP7dl95WUZ-emwZR3SplEcnf2uuKS54SFKBHNBFDmk/6ac9f772c0d7a3db640c39f4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/cLP7dl95WUZ-emwZR3SplEcnf2uuKS54SFKBHNBFDmk/6ac9f772c0d7a3db640c39f4.md",
+  "created_at": "2026-10-10 08:29:38 UTC",
+  "processed_at": "2026-10-10 08:29:38 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Pranjal+Kamra+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/cLP7dl95WUZ-emwZR3SplEcnf2uuKS54SFKBHNBFDmk/6ac9f772c0d7a3db640c39f4.html",
+  "total_time_taken": 2.16
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Pranjal Kamra stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 1057895,
+  "video_results_state": "Results for exact spelling"
+ },
+ "channel_results": [
+  {
+   "position_on_page": 1,
+   "title": "Pranjal Kamra",
+   "link": "https://www.youtube.com/@pranjalkamra",
+   "verified": true,
+   "handle": "@pranjalkamra",
+   "subscribers": 6500000,
+   "description": "Finology is the #FinancialFreedom Company! 10 minute Financial Plan Easy Stock Screener 30 Stocks to Invest ...",
+   "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 2,
+   "title": "Stock Market classes with Pranjal Kamra",
+   "link": "https://www.youtube.com/playlist?list=PLFQ0hRWyH11RS4KUPadj6aoC2KtEHVIfN",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra"
+   },
+   "videos": [
+    {
+     "title": "Stock Market For Beginners | How can Beginners Start Investing in Share Market | Hindi",
+     "length": "23:06",
+     "link": "https://www.youtube.com/watch?v=3UF0ymVdYLA&list=PLFQ0hRWyH11RS4KUPadj6aoC2KtEHVIfN"
+    },
+    {
+     "title": "Stock Market Classes with Pranjal Kamra - Lesson 1 | Stock Market Basics for Beginners in Hindi",
+     "length": "16:43",
+     "link": "https://www.youtube.com/watch?v=RieqxXMds64&list=PLFQ0hRWyH11RS4KUPadj6aoC2KtEHVIfN"
+    }
+   ],
+   "video_count": 27,
+   "thumbnail": "https://i.ytimg.com/vi/3UF0ymVdYLA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAWtXZRBpRDkgA_KoRsMHS4VKPRuA"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 3,
+   "shorts": [
+    {
+     "title": "5 Books To Master Investing",
+     "link": "https://www.youtube.com/shorts/FAugIucPUaE",
+     "thumbnail": "https://i.ytimg.com/vi/FAugIucPUaE/frame0.jpg",
+     "views_original": "218K views",
+     "views": 218000,
+     "video_id": "FAugIucPUaE"
+    },
+    {
+     "title": "Confused which stocks to buy?",
+     "link": "https://www.youtube.com/shorts/IPQ3Yyd2adc",
+     "thumbnail": "https://i.ytimg.com/vi/IPQ3Yyd2adc/frame0.jpg",
+     "views_original": "36K views",
+     "views": 36000,
+     "video_id": "IPQ3Yyd2adc"
+    },
+    {
+     "title": "Can You Really Manifest Wealth?",
+     "link": "https://www.youtube.com/shorts/iaAdIU69I3Y",
+     "thumbnail": "https://i.ytimg.com/vi/iaAdIU69I3Y/frame0.jpg",
+     "views_original": "26K views",
+     "views": 26000,
+     "video_id": "iaAdIU69I3Y"
+    },
+    {
+     "title": "Right Time To Invest in Stocks!",
+     "link": "https://www.youtube.com/shorts/_XYj5K2VgYo",
+     "thumbnail": "https://i.ytimg.com/vi/_XYj5K2VgYo/frame0.jpg",
+     "views_original": "56K views",
+     "views": 56000,
+     "video_id": "_XYj5K2VgYo"
+    },
+    {
+     "title": "This or That ft. Stock Market!",
+     "link": "https://www.youtube.com/shorts/eGiOXnqEPiM",
+     "thumbnail": "https://i.ytimg.com/vi/eGiOXnqEPiM/frame0.jpg",
+     "views_original": "185K views",
+     "views": 185000,
+     "video_id": "eGiOXnqEPiM"
+    }
+   ]
+  },
+  {
+   "position_on_page": 7,
+   "shorts": [
+    {
+     "title": "Pranjal Kamra on Stock Market Secrets | Idea To IPO | Financial Freedom",
+     "link": "https://www.youtube.com/shorts/dIU5soQ9MXQ",
+     "thumbnail": "https://i.ytimg.com/vi/dIU5soQ9MXQ/frame0.jpg",
+     "views_original": "15K views",
+     "views": 15000,
+     "video_id": "dIU5soQ9MXQ"
+    },
+    {
+     "title": "When to Sell Your Stocks?",
+     "link": "https://www.youtube.com/shorts/veh28g7LrEQ",
+     "thumbnail": "https://i.ytimg.com/vi/veh28g7LrEQ/frame0.jpg",
+     "views_original": "43K views",
+     "views": 43000,
+     "video_id": "veh28g7LrEQ"
+    },
+    {
+     "title": "Truth About Predicting the Stock Market | Ft. Pranjal Kamra",
+     "link": "https://www.youtube.com/shorts/UuAJmAO36P8",
+     "thumbnail": "https://i.ytimg.com/vi/UuAJmAO36P8/frame0.jpg",
+     "views_original": "1.7K views",
+     "views": 1700,
+     "video_id": "UuAJmAO36P8"
+    },
+    {
+     "title": "Please Don’t invest in stocks ! #sharemarket",
+     "link": "https://www.youtube.com/shorts/YDc_wyAjHME",
+     "thumbnail": "https://i.ytimg.com/vi/YDc_wyAjHME/frame0.jpg",
+     "views_original": "9.1M views",
+     "views": 9100000,
+     "video_id": "YDc_wyAjHME"
+    },
+    {
+     "title": "Stock Market Down? What is going on?",
+     "link": "https://www.youtube.com/shorts/6P6I7eDWBzA",
+     "thumbnail": "https://i.ytimg.com/vi/6P6I7eDWBzA/frame0.jpg",
+     "views_original": "131K views",
+     "views": 131000,
+     "video_id": "6P6I7eDWBzA"
+    },
+    {
+     "title": "Lazy People Get Rich ! Stock Market learning ( Day 4 of #Finology100 )",
+     "link": "https://www.youtube.com/shorts/wkHDH86sb08",
+     "thumbnail": "https://i.ytimg.com/vi/wkHDH86sb08/frame0.jpg",
+     "views_original": "360K views",
+     "views": 360000,
+     "video_id": "wkHDH86sb08"
+    },
+    {
+     "title": "4 Free Investing Websites I use",
+     "link": "https://www.youtube.com/shorts/jPoik4JUxJo",
+     "thumbnail": "https://i.ytimg.com/vi/jPoik4JUxJo/frame0.jpg",
+     "views_original": "1.4M views",
+     "views": 1400000,
+     "video_id": "jPoik4JUxJo"
+    },
+    {
+     "title": "Stocks or Mutual Funds??🤔",
+     "link": "https://www.youtube.com/shorts/96I1PzIqIXI",
+     "thumbnail": "https://i.ytimg.com/vi/96I1PzIqIXI/frame0.jpg",
+     "views_original": "251K views",
+     "views": 251000,
+     "video_id": "96I1PzIqIXI"
+    },
+    {
+     "title": "How to Double Your Money by Investing in Share Market | Best Stocks Portfolio by Pranjal Kamra",
+     "link": "https://www.youtube.com/shorts/95LsGqXupFE",
+     "thumbnail": "https://i.ytimg.com/vi/95LsGqXupFE/frame0.jpg",
+     "views_original": "596K views",
+     "views": 596000,
+     "video_id": "95LsGqXupFE"
+    },
+    {
+     "title": "What to do in a Stock Market Crash?",
+     "link": "https://www.youtube.com/shorts/oFNZgOloYJE",
+     "thumbnail": "https://i.ytimg.com/vi/oFNZgOloYJE/frame0.jpg",
+     "views_original": "50K views",
+     "views": 50000,
+     "video_id": "oFNZgOloYJE"
+    },
+    {
+     "title": "Do you Buy Stocks When Market Is Open ?",
+     "link": "https://www.youtube.com/shorts/GDDZeU8-qSU",
+     "thumbnail": "https://i.ytimg.com/vi/GDDZeU8-qSU/frame0.jpg",
+     "views_original": "584K views",
+     "views": 584000,
+     "video_id": "GDDZeU8-qSU"
+    },
+    {
+     "title": "@pranjalkamra  investment portfolio reveal #investing #stock_market #nifty",
+     "link": "https://www.youtube.com/shorts/qUN2GoDzoKU",
+     "thumbnail": "https://i.ytimg.com/vi/qUN2GoDzoKU/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "qUN2GoDzoKU"
+    },
+    {
+     "title": "Job Chali Gayi To? Emergency Fund Samjho | Pranjal Kamra #Shorts",
+     "link": "https://www.youtube.com/shorts/M2A0Sst3_3A",
+     "thumbnail": "https://i.ytimg.com/vi/M2A0Sst3_3A/frame0.jpg",
+     "views_original": "13 views",
+     "views": 13,
+     "video_id": "M2A0Sst3_3A"
+    },
+    {
+     "title": "Start SIP on this DATE!",
+     "link": "https://www.youtube.com/shorts/f124OwrP804",
+     "thumbnail": "https://i.ytimg.com/vi/f124OwrP804/frame0.jpg",
+     "views_original": "142K views",
+     "views": 142000,
+     "video_id": "f124OwrP804"
+    },
+    {
+     "title": "How Pranjal Kamra Selects the Best Stocks for Investment | Josh Talks  @JoshTalksStockMarket ​",
+     "link": "https://www.youtube.com/shorts/9_lM57YtDj4",
+     "thumbnail": "https://i.ytimg.com/vi/9_lM57YtDj4/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "9_lM57YtDj4"
+    },
+    {
+     "title": "Real Estate or Stocks?",
+     "link": "https://www.youtube.com/shorts/eWgE5nR6Q7Y",
+     "thumbnail": "https://i.ytimg.com/vi/eWgE5nR6Q7Y/frame0.jpg",
+     "views_original": "42K views",
+     "views": 42000,
+     "video_id": "eWgE5nR6Q7Y"
+    },
+    {
+     "title": "F&O Trading? Think Again.",
+     "link": "https://www.youtube.com/shorts/B-rqihJeZRY",
+     "thumbnail": "https://i.ytimg.com/vi/B-rqihJeZRY/frame0.jpg",
+     "views_original": "57K views",
+     "views": 57000,
+     "video_id": "B-rqihJeZRY"
+    },
+    {
+     "title": "| How to Research Stocks | |Finology Ticker | Pranjal Kamra | #finance #stocks #stockmarket",
+     "link": "https://www.youtube.com/shorts/3geLKb7hncI",
+     "thumbnail": "https://i.ytimg.com/vi/3geLKb7hncI/frame0.jpg",
+     "views_original": "5.1K views",
+     "views": 5100,
+     "video_id": "3geLKb7hncI"
+    },
+    {
+     "title": "Biggest Financial Trap in 2026!",
+     "link": "https://www.youtube.com/shorts/t38PXBeF9KM",
+     "thumbnail": "https://i.ytimg.com/vi/t38PXBeF9KM/frame0.jpg",
+     "views_original": "107K views",
+     "views": 107000,
+     "video_id": "t38PXBeF9KM"
+    },
+    {
+     "title": "The Reality of Full-Time Trading: Is It Right for You? Ft. Pranjal Kamra @theshaktiarorashow",
+     "link": "https://www.youtube.com/shorts/Ytex_jVJ67k",
+     "thumbnail": "https://i.ytimg.com/vi/Ytex_jVJ67k/frame0.jpg",
+     "views_original": "21K views",
+     "views": 21000,
+     "video_id": "Ytex_jVJ67k"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 4,
+   "title": "How to Find Attractive Stocks at Bargain Prices ?",
+   "link": "https://www.youtube.com/watch?v=737SS12ZvYo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=737SS12ZvYo",
+   "video_id": "737SS12ZvYo",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 149453,
+   "length": "14:29",
+   "description": "Most people look for cheap stocks, but cheap doesn't always mean good. A stock at ₹50 can be overpriced while a stock at ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/737SS12ZvYo/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD6rvw0mpiloxkrRuCv_bRPfQn3JQ",
+    "rich": "https://i.ytimg.com/an_webp/737SS12ZvYo/mqdefault_6s.webp?du=3000&sqp=CMzlp9YG&rs=AOn4CLBeQDebVjI4lFyil9BJiER5uCIlLA"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "6-Step Stock Analysis Formula",
+   "link": "https://www.youtube.com/watch?v=tFJiI0Dqkk0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tFJiI0Dqkk0",
+   "video_id": "tFJiI0Dqkk0",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 224785,
+   "length": "14:41",
+   "description": "If you've ever wondered how professional investors build a high-conviction watchlist of fundamentally strong stocks, this video is ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tFJiI0Dqkk0/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDi_je7xwoU_JF_V_Taf1gnDTeqLA",
+    "rich": "https://i.ytimg.com/an_webp/tFJiI0Dqkk0/mqdefault_6s.webp?du=3000&sqp=CM6mp9YG&rs=AOn4CLCT2mvLS--e0F_WCazX2dfyO5HRsw"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "My Opinion on Stock Market Trading",
+   "link": "https://www.youtube.com/watch?v=BmYpKjwpvrw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BmYpKjwpvrw",
+   "video_id": "BmYpKjwpvrw",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 97670,
+   "length": "19:40",
+   "description": "When I realised I have rarely spoken about trading, I knew I had to make this video. In this video, I have compared the strategies ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BmYpKjwpvrw/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBtn4c5tTD7mQ-ZZUi6w6Y9cSnOzQ",
+    "rich": "https://i.ytimg.com/an_webp/BmYpKjwpvrw/mqdefault_6s.webp?du=3000&sqp=CPCyp9YG&rs=AOn4CLDYp-6bZhNTp7QLJD9iHTXPlbhH-w"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "10 Types of Stocks that I Like",
+   "link": "https://www.youtube.com/watch?v=sMFP8VaqrBY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sMFP8VaqrBY",
+   "video_id": "sMFP8VaqrBY",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6mo ago",
+   "views": 73137,
+   "length": "11:26",
+   "description": "Identifying which stocks to remove from a portfolio is as critical as selecting which ones to buy. Following our analysis of structural ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sMFP8VaqrBY/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBc01EmQQYq8wETzQFs4ppIhS8Vbg",
+    "rich": "https://i.ytimg.com/an_webp/sMFP8VaqrBY/mqdefault_6s.webp?du=3000&sqp=CP63p9YG&rs=AOn4CLB_e2dhadzKo-RhCeyNvBiEiu8HtQ"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "What happened to the Indian Stock Market?",
+   "link": "https://www.youtube.com/watch?v=xEk2do30B1I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xEk2do30B1I",
+   "video_id": "xEk2do30B1I",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 526705,
+   "length": "16:36",
+   "description": "Are you feeling anxious about the recent stock market decline and wondering what your next move should be? In this video, we ...",
+   "extensions": [
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xEk2do30B1I/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvUueoVW55VMjid2xAgfdy-ugE2Q",
+    "rich": "https://i.ytimg.com/an_webp/xEk2do30B1I/mqdefault_6s.webp?du=3000&sqp=CMbjp9YG&rs=AOn4CLALVu0Peva4uGU049CioxDJlyhMOQ"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "My Complete Stock Selection Process Explained",
+   "link": "https://www.youtube.com/watch?v=BXPPUsXUl7A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BXPPUsXUl7A",
+   "video_id": "BXPPUsXUl7A",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 41006,
+   "length": "20:05",
+   "description": "Building a reliable financial product for Indian investors requires balancing rigorous research with real-world execution.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BXPPUsXUl7A/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwjo8z1uz0Y5MjjunvQe7bUt7XZQ",
+    "rich": "https://i.ytimg.com/an_webp/BXPPUsXUl7A/mqdefault_6s.webp?du=3000&sqp=CKDsp9YG&rs=AOn4CLCZ8V7GyeHIlowzHabSnHlydgW45w"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Picking Good Stocks for Yourself",
+   "link": "https://www.youtube.com/watch?v=Ckz4X6kvD08",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ckz4X6kvD08",
+   "video_id": "Ckz4X6kvD08",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 2166792,
+   "length": "16:06",
+   "description": "Are you interested in investing in the stock market but don't know where to start? In this video, we'll walk you through the process ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Ckz4X6kvD08/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCm9FzZNcx24v4s4z1tKBaYjfLk5A",
+    "rich": "https://i.ytimg.com/an_webp/Ckz4X6kvD08/mqdefault_6s.webp?du=3000&sqp=CKPpp9YG&rs=AOn4CLAvpOajbBWKx_YlrOlUMHnWaUWX3Q"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Complete Stock Market Course for Beginners 2026 by Pranjal Kamra, CEO-Finology",
+   "link": "https://www.youtube.com/watch?v=F32EKg9WL64",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F32EKg9WL64",
+   "video_id": "F32EKg9WL64",
+   "channel": {
+    "name": "Capital Markets - Masters’ Union University",
+    "link": "https://www.youtube.com/@CapitalMarketsTrading",
+    "thumbnail": "https://yt3.ggpht.com/V8Bgf1RoLNkAIZv_fnUuK-S_3SL2B_2V_GtONZcJCYcJWv3IUjrTJ-3T9Mh4p16NyojlRoJNiKg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 23713,
+   "length": "2:50:25",
+   "description": "Complete stock market course for beginners in Hindi, taught by Pranjal Kamra (Founder & CEO, Finology). 3 hours covering ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/F32EKg9WL64/hqdefault.jpg?sqp=-oaymwEnCOADEI4CSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBRsnuSJyu6qJwFia97x-jrq7Llxw",
+    "rich": "https://i.ytimg.com/an_webp/F32EKg9WL64/mqdefault_6s.webp?du=3000&sqp=COLOp9YG&rs=AOn4CLD1j0so3kKZqeMDizyVHe-zMFpDyg"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "How to do Fundamental Analysis for Beginners | Stock Market classes for Beginners",
+   "link": "https://www.youtube.com/watch?v=6P_naNghHIQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6P_naNghHIQ",
+   "video_id": "6P_naNghHIQ",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6y ago",
+   "views": 471426,
+   "length": "22:21",
+   "description": "If you are a stock market beginner and you want to invest in the stock market, then learning Fundamental analysis is a great way to ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6P_naNghHIQ/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBFwj-zIOfKckygGX4QrwwYIWWq0A",
+    "rich": "https://i.ytimg.com/an_webp/6P_naNghHIQ/mqdefault_6s.webp?du=3000&sqp=CMDup9YG&rs=AOn4CLBryab-5vT0iSyBgamrSqwBsuqslQ"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Trading vs investment ! Pranjal Kamra's Insights",
+   "link": "https://www.youtube.com/watch?v=xUe2IpYLyf4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xUe2IpYLyf4",
+   "video_id": "xUe2IpYLyf4",
+   "channel": {
+    "name": "Arthik Abhijaan",
+    "link": "https://www.youtube.com/@ArthikAbhijaan",
+    "thumbnail": "https://yt3.ggpht.com/B0ajDn1webVrv0zNzcKE5inuUk1jGPWTBVjOKOpmO_7Vg7X5fAOiRsIWWyUknwxL1s18f32xYg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 778,
+   "length": "2:21",
+   "description": "Trading vs Investing | Pranjal Kamra's Opinion | Is Trading Really a Loss-Making Game? Is trading the right way to make money, ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xUe2IpYLyf4/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAzgNC5bBJ0NT8WMx9tb24o8A04RA",
+    "rich": "https://i.ytimg.com/an_webp/xUe2IpYLyf4/mqdefault_6s.webp?du=3000&sqp=CMzQp9YG&rs=AOn4CLDBlnovuQSkFddv6BQ-94qB6If2Vw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "How to analyze FMCG stocks like ITC, HUL | How to pick FMCG stocks | Stock market classes episode 9",
+   "link": "https://www.youtube.com/watch?v=UBHN3c9NDaU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UBHN3c9NDaU",
+   "video_id": "UBHN3c9NDaU",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 340548,
+   "length": "17:45",
+   "description": "While starting investing, one always suggests starting with companies that fall under their circle of competence and one common ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UBHN3c9NDaU/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCTwKHscOp0mg575FMJIGZgDTG3sA",
+    "rich": "https://i.ytimg.com/an_webp/UBHN3c9NDaU/mqdefault_6s.webp?du=3000&sqp=CIrQp9YG&rs=AOn4CLCwWe7yxZBP7DEAbuzzP2Tg4CiQeA"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Stocks that I Avoid",
+   "link": "https://www.youtube.com/watch?v=4jZTIeLpK44",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4jZTIeLpK44",
+   "video_id": "4jZTIeLpK44",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 110311,
+   "length": "10:44",
+   "description": "In this video, I walk you through 5 key reasons why I often reject a stock/company, even if it looks promising on the surface.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4jZTIeLpK44/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtEDZANuyMHHkthAQHdXSzqCIz6A",
+    "rich": "https://i.ytimg.com/an_webp/4jZTIeLpK44/mqdefault_6s.webp?du=3000&sqp=CJ7fp9YG&rs=AOn4CLDcasL2ff-oMuDR0nSapqlIIZV9Fw"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "How to Generate Stock Ideas in 2026",
+   "link": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YaPZ4E3-j3Q",
+   "video_id": "YaPZ4E3-j3Q",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 58127,
+   "length": "17:40",
+   "description": "Get Spam-Free Insurance Advice by Ditto   https://ditto.sh/a2xs5h Looking for good stocks to buy today? In this video, we break ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YaPZ4E3-j3Q/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBPO6sT08I8SglRJvKnB3dPjylsYQ",
+    "rich": "https://i.ytimg.com/an_webp/YaPZ4E3-j3Q/mqdefault_6s.webp?du=3000&sqp=CPjrp9YG&rs=AOn4CLBoUTRlWUcIhy3tzzfHGB6M__3xwg"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "IT Sector Fall | What Should Investors Do?",
+   "link": "https://www.youtube.com/watch?v=ortGqJN5VdI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ortGqJN5VdI",
+   "video_id": "ortGqJN5VdI",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 108148,
+   "length": "12:42",
+   "description": "The Indian IT sector has hit a major roadblock. Triggered by Accenture's massive revenue guidance cut, market heavyweights like ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ortGqJN5VdI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkmnGccPDAlPoBllB1Nq5dmfrYvg",
+    "rich": "https://i.ytimg.com/an_webp/ortGqJN5VdI/mqdefault_6s.webp?du=3000&sqp=CNrsp9YG&rs=AOn4CLBPl2u7T2LzQA0Q0n1GSbiUYuRznA"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "How to pick Good stocks.",
+   "link": "https://www.youtube.com/watch?v=d5PNNxsPwX4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d5PNNxsPwX4",
+   "video_id": "d5PNNxsPwX4",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 178726,
+   "length": "11:44",
+   "description": "Welcome to Investing Classes by Pranjal! In this episode, we will learn how to pick great stocks by examining key criteria that you ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/d5PNNxsPwX4/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_SH656zb6Vxo8icSoPz-NdMUm-g",
+    "rich": "https://i.ytimg.com/an_webp/d5PNNxsPwX4/mqdefault_6s.webp?du=3000&sqp=CPbbp9YG&rs=AOn4CLAVs3TwZ1515tR_13yf0LmAFxYRTg"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Pranjal+Kamra+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Pranjal%20Kamra%20stocks&sp=SBSCARhVQ3dBZFFVdVBUNmxhTi1BUVIxN2ZlMWeCASJQTEZRMGhSV3lIMTFSUzRLVVBhZGo2YW9DMkt0RUhWSWZOggELNzM3U1MxMlp2WW-CAQt0RkppSTBEcWtrMIIBC0JtWXBLandwdnJ3ggELc01GUDhWYXFyQlmCAQt4RWsyZG8zMEIxSYIBC0JYUFBVc1hVbDdBggELQ2t6NFg2a3ZEMDiCAQtGMzJFS2c5V0w2NIIBCzZQX25hTmdoSElRggELeFVlMklwWUx5ZjSCAQtVQkhOM2M5TkRhVYIBCzRqWlRJZUxwSzQ0ggELWWFQWjRFMy1qM1GCAQtvcnRHcUpONVZkSYIBC2Q1UE5OeHNQd1g0sgEGCgQIExAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCARhVQ3dBZFFVdVBUNmxhTi1BUVIxN2ZlMWeCASJQTEZRMGhSV3lIMTFSUzRLVVBhZGo2YW9DMkt0RUhWSWZOggELNzM3U1MxMlp2WW-CAQt0RkppSTBEcWtrMIIBC0JtWXBLandwdnJ3ggELc01GUDhWYXFyQlmCAQt4RWsyZG8zMEIxSYIBC0JYUFBVc1hVbDdBggELQ2t6NFg2a3ZEMDiCAQtGMzJFS2c5V0w2NIIBCzZQX25hTmdoSElRggELeFVlMklwWUx5ZjSCAQtVQkhOM2M5TkRhVYIBCzRqWlRJZUxwSzQ0ggELWWFQWjRFMy1qM1GCAQtvcnRHcUpONVZkSYIBC2Q1UE5OeHNQd1g0sgEGCgQIExAC6gEECAIQGQ%3D%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pranjal+Kamra+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pranjal+Kamra+stocks&sp=SBSCARhVQ3dBZFFVdVBUNmxhTi1BUVIxN2ZlMWeCASJQTEZRMGhSV3lIMTFSUzRLVVBhZGo2YW9DMkt0RUhWSWZOggELNzM3U1MxMlp2WW-CAQt0RkppSTBEcWtrMIIBC0JtWXBLandwdnJ3ggELc01GUDhWYXFyQlmCAQt4RWsyZG8zMEIxSYIBC0JYUFBVc1hVbDdBggELQ2t6NFg2a3ZEMDiCAQtGMzJFS2c5V0w2NIIBCzZQX25hTmdoSElRggELeFVlMklwWUx5ZjSCAQtVQkhOM2M5TkRhVYIBCzRqWlRJZUxwSzQ0ggELWWFQWjRFMy1qM1GCAQtvcnRHcUpONVZkSYIBC2Q1UE5OeHNQd1g0sgEGCgQIExAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCARhVQ3dBZFFVdVBUNmxhTi1BUVIxN2ZlMWeCASJQTEZRMGhSV3lIMTFSUzRLVVBhZGo2YW9DMkt0RUhWSWZOggELNzM3U1MxMlp2WW-CAQt0RkppSTBEcWtrMIIBC0JtWXBLandwdnJ3ggELc01GUDhWYXFyQlmCAQt4RWsyZG8zMEIxSYIBC0JYUFBVc1hVbDdBggELQ2t6NFg2a3ZEMDiCAQtGMzJFS2c5V0w2NIIBCzZQX25hTmdoSElRggELeFVlMklwWUx5ZjSCAQtVQkhOM2M5TkRhVYIBCzRqWlRJZUxwSzQ0ggELWWFQWjRFMy1qM1GCAQtvcnRHcUpONVZkSYIBC2Q1UE5OeHNQd1g0sgEGCgQIExAC6gEECAIQGQ%3D%3D"
+ },
+ "_fetched_at": "2026-10-10T08:29:38"
+}

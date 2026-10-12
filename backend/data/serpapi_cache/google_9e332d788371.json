@@ -1,0 +1,43 @@
+{
+ "search_metadata": {
+  "id": "6ac67747302394c87a9023a7",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/BCEGC9cp_q4CDiNcEPOE5oj9V5fnayzn0Pyzd-rykkM/6ac67747302394c87a9023a7.json",
+  "markdown_endpoint": "https://serpapi.com/searches/BCEGC9cp_q4CDiNcEPOE5oj9V5fnayzn0Pyzd-rykkM/6ac67747302394c87a9023a7.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/BCEGC9cp_q4CDiNcEPOE5oj9V5fnayzn0Pyzd-rykkM/6ac67747302394c87a9023a7.json_with_pixel_position",
+  "created_at": "2026-10-07 16:45:59 UTC",
+  "processed_at": "2026-10-07 16:45:59 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Pranay+Phulkar%22&oq=site%3Asebi.gov.in+%22Pranay+Phulkar%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/BCEGC9cp_q4CDiNcEPOE5oj9V5fnayzn0Pyzd-rykkM/6ac67747302394c87a9023a7.html",
+  "total_time_taken": 35.31
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Pranay Phulkar\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Pranay Phulkar\"",
+  "total_results": 0,
+  "time_taken_displayed": 0.13,
+  "organic_results_state": "Fully empty"
+ },
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "Some results may have been removed under data protection law in Europe. Learn more",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/policies/faq",
+      "text": "Learn more"
+     }
+    ]
+   }
+  ]
+ },
+ "_fetched_at": "2026-10-07T16:46:33"
+}

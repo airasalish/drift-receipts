@@ -1,0 +1,696 @@
+{
+ "search_metadata": {
+  "id": "6acb1d04a1de12f2a17c8d91",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/drosLyjTQEA2_9Y_YRO89Dwu5kAlYIr_AjHInnrtFW8/6acb1d04a1de12f2a17c8d91.json",
+  "markdown_endpoint": "https://serpapi.com/searches/drosLyjTQEA2_9Y_YRO89Dwu5kAlYIr_AjHInnrtFW8/6acb1d04a1de12f2a17c8d91.md",
+  "created_at": "2026-10-11 05:22:12 UTC",
+  "processed_at": "2026-10-11 05:22:12 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Sagar+Sinha+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/drosLyjTQEA2_9Y_YRO89Dwu5kAlYIr_AjHInnrtFW8/6acb1d04a1de12f2a17c8d91.html",
+  "total_time_taken": 2.65
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Sagar Sinha stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 2908020,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Target stability with Core and Core-Plus Bond ETFs",
+   "link": "https://www.youtube.com/watch?v=9AAgktTcV_0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9AAgktTcV_0",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CyCpIBR3Lav-zDcrN-L4PktHogQOwnfzMiAGmjNDoyRWwkB8QASAAYMme5YzkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAZvxwPQpqAMEyAMKqgTKAk_QOq0sCLhvn0QP61vQTdn-V1Eq3zxe4BOm8Gu2ZRjIXO0cW5h8V1rZYuW1yY4R5YAG5cb174b_fJl34WYWkR9t9hn8WS4mJ29VrpeeRR0S4tce7SvaavlN3Tc7B0H00B-N1N3OWjfTLvGmNnU5oc8JptBNv_89ZT5vSOoeo-CTPIHJiWvv34_d1e4FcP0VhFzckXd9a6Iv51onliW8A1fT20jtSO5zsus70EbTdD4z7hZCIIClaDJgpAtI1WlUn-wXTWSMtM167mEszyp4qnTseTb7-J5QKQLfPVFbSLxpDRqKYsecVPXzpwhVyB-eH2cPR19HzdjG-jFMZlnEinpBIm-MncT8e8O7N1-y5EyDVKis-CWHh1q2IoIeiwP0XuNxf8h_YV0EPd7n5VaKUrnbXY5i1b2MtkuEFHKwj0EEmHJdLjzRNwf9kYgFm-DcpVeSBQgIE3jnn96CBaAGoQGAB5upkdQEkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECqAfCyLECkggLOUFBZ2t0VGNWXzCoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjotcOcnLGXA2ABmglLaHR0cHM6Ly9hZHZpc29ycy52YW5ndWFyZC5jb20vc3RyYXRlZ2llcy9maXhlZC1pbmNvbWUvYm9uZC1mdW5kcy9jb3JlLWJvbmRzsQmF9ED28EisQsgJF8gJjwHICcIBugs9CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQOAAgGIAhK6AwV2aWNiZtALE-ALAdIMAhABmg0BE6oNAlVTyA0B0g2QBGh0dHBzOi8vYWQuZG91YmxlY2xpY2submV0L2RkbS90cmFja2Nsay9OMjk5Mi4zOTQ5MzIxUE1QUkVDSVNJT05EVjM2MC9CMzQ2NTA5NDQuNDM5MTk4NTEwO2RjX3Rya19haWQ9NjMzNTA0MDQ4O2RjX3Rya19jaWQ9MjQ5NzY1MjIzO2RjX2RibV90b2tlbj1BT2plTE5FQUFBQTZDalFLREFnQUZRQUFBQUFkQUFBQUFCSU1DQUFWQUFBQUFCMEFBQUFBSWhRSW0tRGNwVmVvQXVlZjNvSUZzQUtBdHZIb0EwQTdFT19wTXhOUDZkQ3BPLW14RE9EMF82QlRzUlE9O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2dkcHI9JHtHRFBSfTtnZHByX2NvbnNlbnQ9JHtHRFBSX0NPTlNFTlRfNzU1fTtsdGQ9O2RjX3Rkdj0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNBdzFVRTRNTkhySWxnWEVGR18ya2dfc3BaSjBmblN6U002MjVad0JKYzlqQ0ROMVd4S2hxbG82S19oODg4LVcxUDhoQ25sc29EN1FLOXlRZztkY19wdWJpZD02P2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzQzMjk5ODkzObAT6-qEILgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAagWAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXtjjH6wlES0G6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIv8rDnJyxlwMVyibeAR2SKDowEAEYASAAEgJ_5fD_BwE&num=1&cid=CAASqgHkaI-mXhmt9DGePhVaFZFB_Y__Unk3nI3sO6TOP9mLgaHLZfzIAt4Q-DyJe4f8SfiGWbdf38rmgfo645qSoQaEQJtBAELZhEswFvcQdWxwsPfgh00GUlQctlN2QKHpbRL6qqFB9JJuoJtve5k0gv8KIu4f8k2ddLz866Vk5K2VoYJbJxRIYjYAIVheP9aKAnuGsAxEdMQYZ7wgmqRZTW1ZyLtOQMkes_3rUQ&ad_cpn=%5BCPN%5D&sig=AOD64_0MIZhpXQDnmbhlnQAWrhgD0aSR2w&ctype=110&video_id=9AAgktTcV_0&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Vanguard",
+    "thumbnail": "https://yt3.ggpht.com/proxy/mLnudnHGKpfuJiFV-RHcAZM0-E8TJK_0l7Zzl9OocafprbIZFd08ea7lDXt2D1koSjn6Ycr_frHv3W0P64-TIP05DAWR9CHJTzaVT-c8XAC0aDZPkr7-JGU8bVz_xEUqjtSN6x2NmXsA0n3bKgS0qLJDjHwYMpNGhe-KwDsU1DdS2dsh2-0PHxZEMzrG3cqwS-k3mu7DXMyjlXt48ci5BLq5iY3oMRHl84wxcE50LDViej_Ol1sCVIzJarSMxeS1fS4Kp7c=w68-h68-nd"
+   },
+   "description": "VCRB and VPLS can help dampen volatility when stability matters most.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9AAgktTcV_0/hqdefault.jpg?sqp=-oaymwE9COADEI4CSFryq4qpAy8IARUAAAAAGAElAADIQj0AgKJDeAHwAQH4Af4JgALQBYoCDAgAEAEYfyATKCYwDw==&rs=AOn4CLBpUEwqCJraiSxMWGqBXAKH7-Ugtg"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Go From Click to Cart",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CC-xlBR3Lav-zDcrN-L4PktHogQPf_-aSigH_r8qA0hawkB8QAiAAYMme5YzkpMATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSMmbwCqAMEyAMKqgSmAk_QOq0sCLhvn0QP61vQTdn-V1Eq3zxe4BOm8Gu2ZRjIXO0cW5h8V1rZYuW1yY4R5YAG5cb174b_fJl34WYWkR9t9hn8WS4mJ29VrpeeRR0S4tce7SvaavlN3Tc7B0H00B-N1N3OWjfTLvGmNnU5oc8JptBNv_89ZT5vSOoeo-CTPIHJiWvv34_d1e4FcP0VhFzckXd9a6Iv51onliW8A1fT20jtSO5zsus70EbTdD4z7hZCIIClaDJgpAtI1WlUn-wXTWSMtM167mEszyp4qnTseTb7-J5QKQLfPVFbSN9nDRqKYseUToWKpRpWU6ow0ParUN272u5L81dwGvrCAH07L81Q3mfW9yyWmq7ABHQj6V9s8beJpMvpRuqVhQNxv0AFxidhyIgFwuz-3FmSBQgIE3iX96THAaAGboAH9f7zxgGQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB77ZsQKoB6vFG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAtIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOi1w5ycsZcDYAGaCTFodHRwczovL2dldHN0YXJ0ZWQudGlrdG9rLmNvbS9waGFzZTMvY3BnLWluZHVzdHJ5sQmrh-kLjy8amcgJAMgJigKYCwG6Cz0IAxAFGAQgCCgBMBxAAUgAWE5gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpY2Jm0AsSogwhahoKGGNvbS5zcy5hbmRyb2lkLnVnYy50cmlsbHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDcYBaHR0cHM6Ly9nZXRzdGFydGVkLnRpa3Rvay5jb20vcGhhc2UzL2NwZy1pbmR1c3RyeT9waGFzZT0zJmxhbmc9ZW4mYXR0cl9zb3VyY2U9Z29vZ2xlJmF0dHJfbWVkaXVtPWRlbWFuZC1nZW4mYXR0cl9hZGdyb3VwX2lkPTE5ODM2NzY3NDcwNiZjcmVhdGl2ZT04MTg5ODkxNDkzMjEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTI0MDg1NzcxODQyuBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwG6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMIv8rDnJyxlwMVyibeAR2SKDowEAEYAiAAEgKK7PD_BwE&num=2&cid=CAASqgHkaI-mXhmt9DGePhVaFZFB_Y__Unk3nI3sO6TOP9mLgaHLZfzIAt4Q-DyJe4f8SfiGWbdf38rmgfo645qSoQaEQJtBAELZhEswFvcQdWxwsPfgh00GUlQctlN2QKHpbRL6qqFB9JJuoJtve5k0gv8KIu4f8k2ddLz866Vk5K2VoYJbJxRIYjYAIVheP9aKAnuGsAxEdMQYZ7wgmqRZTW1ZyLtOQMkes_3rUQ&sig=AOD64_3EhwuT_lXVqw_V-YkgXrUBoPlzPQ&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "TikTok For Business",
+    "thumbnail": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   },
+   "description": "There's only one TikTok, where home and living essentials are discovered daily.",
+   "thumbnail": {
+    "static": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Investing your way is easier than ever.",
+   "link": "https://www.youtube.com/watch?v=9E01baqH_dg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9E01baqH_dg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CWoAZBR3Lav-zDcrN-L4PktHogQOS9faTigHowI_BhRVkEAMgAGDJnuWM5KTAE4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHoyqDKAqgDBMgDCqoEyAJP0DqtLAi4b59ED-tb0E3Z_ldRKt88XuATpvBrtmUYyFztHFuYfFda2WLltcmOEeWABuXG9e-G_3yZd-FmFpEfbfYZ_FkuJidvVa6XnkUdEuLXHu0r2mr5Td03OwdB9NAfjdTdzlo30y7xpjZ1OaHPCabQTb__PWU-b0jqHqPgkzyByYlr79-P3dXuBXD9FYRc3JF3fWuiL-daJ5YlvANX09tI7Ujuc7LrO9BG03Q-M-4WQiCApWgyYKQLSNVpVJ_sF01kjLTNeu5hLM8qeKp07Hk2-_ieUCkC3z1RW0j7bA0ag2LH5FnX5L8IVc8fnR_3W1R001OBhxvXmDNErAmfpqQ6zyUmOer3hD66Yu7OCoAo3POMhV-hz3MXp1bssnBq2dd9BD_Agoj_Qex0gUpDLBug61-ArrpTHbkJ7hLNNbp8RcPfqGaSiAWCxqPqVpIFCAgTeNKygrYBoAahAYAHgLXftQGQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKSCAs5RTAxYmFxSF9kZ6gIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWOi1w5ycsZcDYAGaCSlodHRwczovL3d3dy5maWRlbGl0eS5jb20vdHJhZGluZy9vdmVydmlld7EJRXyUwM9DH13ICRfICY8ByAnCAcgJlwK6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDBXZpY2Jm0AsS4AsBogwdahYKFGNvbS5maWRlbGl0eS5hbmRyb2lkeACIAQDSDAIQAZoNARKqDQJVU8gNAdINoARodHRwczovL2FkLmRvdWJsZWNsaWNrLm5ldC9kZG0vdHJhY2tjbGsvTjgwNS4yMDA5NzAwRE9VQkxFQ0xJQ0tCSURNQU5BR0UvQjM0ODI5NDM2LjQzNTU3NzQ5MztkY190cmtfYWlkPTYyOTY4MDAyMDtkY190cmtfY2lkPTI0NjkzODQzMTtkY19kYm1fdG9rZW49QU9qZUxORUFBQUE1Q2pNS0RBZ0FGUUFBQUFBZEFBQUFBQklNQ0FBVkFBQUFBQjBBQUFBQUloTUlnc2FqNmxhb0F1Zmp6Z0t3QXNhWjFPZ0RRRHNRNkw0X0ozVHc2QVJOZWFIS3lpUmFWUjI1N3c9PTtkY19sYXQ9O2RjX3JkaWQ9O3RhZ19mb3JfY2hpbGRfZGlyZWN0ZWRfdHJlYXRtZW50PTt0ZnVhPTtsdGQ9O2RjX3Rkdj0xO2RjX3RyYW5zcGFyZW50PTE7ZGNfcnVpPTE7ZGNfZXBzPUFIYXM4Y0RJeHJtQy1FQlJpT1Jhc0Y3dERyOWNhWFZmS2RyY1BFTnQzaDlFbmJzUERJNjJhd1RVRXc2eHVVMVdpR21mTFpDZDNRX0dVQW9Cd3poa1BRO2RjX3B1YmlkPTY_aHR0cHM6Ly93d3cuZmlkZWxpdHkuY29tL3RyYWRpbmcvb3ZlcnZpZXc_Z2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzMzA4MzI5NzMwsBPryaIluBP___________8BiBQBsBQDwBWBgIBA0BUB2BUBmBYBqBYB4hYCCAGAFwGKFxgIAxgBIAEoATABOAFAAUgBUAFYAWACaAGgFwGpF5OAruSPQ-myuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMIv8rDnJyxlwMVyibeAR2SKDowEAEYAyAAEgJAlPD_BwE&num=3&cid=CAASqgHkaI-mXhmt9DGePhVaFZFB_Y__Unk3nI3sO6TOP9mLgaHLZfzIAt4Q-DyJe4f8SfiGWbdf38rmgfo645qSoQaEQJtBAELZhEswFvcQdWxwsPfgh00GUlQctlN2QKHpbRL6qqFB9JJuoJtve5k0gv8KIu4f8k2ddLz866Vk5K2VoYJbJxRIYjYAIVheP9aKAnuGsAxEdMQYZ7wgmqRZTW1ZyLtOQMkes_3rUQ&ad_cpn=%5BCPN%5D&sig=AOD64_0yTLiRdI5BLoIdWMAKRM2rnZaTWg&ctype=110&video_id=9E01baqH_dg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Fidelity Investments",
+    "thumbnail": "https://yt3.ggpht.com/proxy/rYDdfS1uRZy1k5V3Bgl5zpOFzWcMxuK6xQvIr1XTzC89vv8VBxauNipnOUMaIZNdSWtSDVbOg3eEob9uthgYQYZEGi_R78PP7UPUIEfbZAF5rEk8Ggfh0s-KJAPY9UueQlv8mKPZNvSuYfnpwt38h6NkhfwMCCwxFmmniBIc3_JiyhFD76WolcNMjAb5KNfAqVW-14ltkv2XwHMlDd_HnSGZzUkG_Fv9QL6zPaHZkwUqlwkDpiAl9D23Ff6WQIR0vjja=w68-h68-nd"
+   },
+   "description": "It’s easy to set up recurring investments in stocks & ETFs.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9E01baqH_dg/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBIWJXd3HKlZt4c5E2slh_-Db6GFA"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Sagar Sinha ",
+   "link": "https://www.youtube.com/@coachsagarsinha",
+   "verified": true,
+   "handle": "@coachsagarsinha",
+   "subscribers": 5170000,
+   "description": "Learn Finance the Desi Way with Sagar Sinha! Welcome to the official channel of Sagar Sinha – a Finance Educator who teaches ...",
+   "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 9,
+   "title": "Sagar Sinha Podcast",
+   "link": "https://www.youtube.com/@sagarsinhapodcast_",
+   "handle": "@sagarsinhapodcast_",
+   "subscribers": 837000,
+   "description": "Welcome to The Sagar Sinha Show! A one-of-a-kind podcast that brings together remarkable personalities from diverse fields, ...",
+   "thumbnail": "https://yt3.ggpht.com/rEfcmM7hRif6Fln1HJhloenVkbktH9vvQ8xfiSnYsl-li6jHcfEBA-gSraG6I2bJ9W4oqhDgew=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 16,
+   "title": "Sagar Sinha Daily",
+   "link": "https://www.youtube.com/@sagarsinhadaily",
+   "verified": true,
+   "handle": "@sagarsinhadaily",
+   "subscribers": 1330000,
+   "description": "This Is Official Channel Created By Mr. Sagar Sinha. Our Main Channel Is \"Sagar Sinha\".",
+   "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 3,
+   "title": "Stock Market Trading",
+   "link": "https://www.youtube.com/playlist?list=PLIVE5eiuAW8AxthvnI9Osczlaa-Is1roL",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   },
+   "videos": [
+    {
+     "title": "How To Select Stocks For Intraday Trading | SAGAR SINHA",
+     "length": "51:15",
+     "link": "https://www.youtube.com/watch?v=CtXMNGn6-vE&list=PLIVE5eiuAW8AxthvnI9Osczlaa-Is1roL"
+    },
+    {
+     "title": "Intraday Trading Strategy | सबसे छोटा Stoploss सबसे बड़ा Target? | Kushal Varshney | SAGAR SINHA",
+     "length": "44:00",
+     "link": "https://www.youtube.com/watch?v=b0D4mvFZa5k&list=PLIVE5eiuAW8AxthvnI9Osczlaa-Is1roL"
+    }
+   ],
+   "video_count": 24,
+   "thumbnail": "https://i.ytimg.com/vi/CtXMNGn6-vE/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDQbIgGM8qXHuTleww49J79009zyw"
+  },
+  {
+   "position_on_page": 5,
+   "title": "FREE Trading Course",
+   "link": "https://www.youtube.com/playlist?list=PLIVE5eiuAW8CN1Yc7DnmoehQJl0zRo6YA",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   },
+   "videos": [
+    {
+     "title": "Intraday Trading | Support Resistance Strategy | Class - 6 | SAGAR SINHA",
+     "length": "44:17",
+     "link": "https://www.youtube.com/watch?v=ROShVG0ylGg&list=PLIVE5eiuAW8CN1Yc7DnmoehQJl0zRo6YA&pp=0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "Types Of Trading | FREE Trading Course | Class - 5 | SAGAR SINHA",
+     "length": "42:49",
+     "link": "https://www.youtube.com/watch?v=4oHb3IOaghY&list=PLIVE5eiuAW8CN1Yc7DnmoehQJl0zRo6YA"
+    }
+   ],
+   "video_count": 6,
+   "thumbnail": "https://i.ytimg.com/vi/ROShVG0ylGg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBQvyLRCG1CHm29UtvC9DR8QzUeSw"
+  },
+  {
+   "position_on_page": 15,
+   "title": "ETF Investing & Trading",
+   "link": "https://www.youtube.com/playlist?list=PLIVE5eiuAW8CdWmHzOptpUpnp_Ovhyqfs",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   },
+   "videos": [
+    {
+     "title": "Top 25 ETFs Of 2025 | ETF Investing Explained | Sagar Sinha",
+     "length": "13:48",
+     "link": "https://www.youtube.com/watch?v=WQl8d7iRXBg&list=PLIVE5eiuAW8CdWmHzOptpUpnp_Ovhyqfs"
+    },
+    {
+     "title": "Gold Price Soars to ₹1,67,375  | Gold Price 2025 Update | Sagar Sinha",
+     "length": "10:48",
+     "link": "https://www.youtube.com/watch?v=jEt3Nc3X5Bw&list=PLIVE5eiuAW8CdWmHzOptpUpnp_Ovhyqfs"
+    }
+   ],
+   "video_count": 11,
+   "thumbnail": "https://i.ytimg.com/vi/WQl8d7iRXBg/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAunh7BdGdBH8PB0XFuZc-piKmltw"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 6,
+   "shorts": [
+    {
+     "title": "India के 5 असली Trader कौन हैं? | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/mGGdikKtPM8",
+     "thumbnail": "https://i.ytimg.com/vi/mGGdikKtPM8/frame0.jpg",
+     "views_original": "3.7K views",
+     "views": 3700,
+     "video_id": "mGGdikKtPM8"
+    },
+    {
+     "title": "Mutual Fund Bubble है, फिर भी कभी नहीं फूटेगा | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/euPSKJ905ok",
+     "thumbnail": "https://i.ytimg.com/vi/euPSKJ905ok/frame0.jpg",
+     "views_original": "62K views",
+     "views": 62000,
+     "video_id": "euPSKJ905ok"
+    },
+    {
+     "title": "किस Strategy से आप Buy Sell करते हो | Sagar Sinha Show",
+     "link": "https://www.youtube.com/shorts/uRDJsqwYf_4",
+     "thumbnail": "https://i.ytimg.com/vi/uRDJsqwYf_4/frame0.jpg",
+     "views_original": "61K views",
+     "views": 61000,
+     "video_id": "uRDJsqwYf_4"
+    },
+    {
+     "title": "SIP का असली Power ₹100 से 1 Cr? | SAGAR SINHA",
+     "link": "https://www.youtube.com/shorts/nmeJTTfyjsk",
+     "thumbnail": "https://i.ytimg.com/vi/nmeJTTfyjsk/frame0.jpg",
+     "views_original": "357 views",
+     "views": 357,
+     "video_id": "nmeJTTfyjsk"
+    },
+    {
+     "title": "Budget Day पर कौन Trader कमाएगा, कौन पिटेगा? | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/ZueaUN8aw24",
+     "thumbnail": "https://i.ytimg.com/vi/ZueaUN8aw24/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "ZueaUN8aw24"
+    }
+   ]
+  },
+  {
+   "position_on_page": 11,
+   "shorts": [
+    {
+     "title": "महंगी गाड़ी और Luxury Lifestyle अच्छे Trader की निशानी नहीं होती | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/_LDpdSwklLI",
+     "thumbnail": "https://i.ytimg.com/vi/_LDpdSwklLI/frame0.jpg",
+     "views_original": "75K views",
+     "views": 75000,
+     "video_id": "_LDpdSwklLI"
+    },
+    {
+     "title": "क्या Trading से Defender खरीदना Possible है | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/Y8v2jO7o5ok",
+     "thumbnail": "https://i.ytimg.com/vi/Y8v2jO7o5ok/frame0.jpg",
+     "views_original": "178K views",
+     "views": 178000,
+     "video_id": "Y8v2jO7o5ok"
+    },
+    {
+     "title": "Singapore से हमे ये सीखना चाहिए | SAGAR SINHA",
+     "link": "https://www.youtube.com/shorts/5DfwWJGs1xY",
+     "thumbnail": "https://i.ytimg.com/vi/5DfwWJGs1xY/frame0.jpg",
+     "views_original": "174K views",
+     "views": 174000,
+     "video_id": "5DfwWJGs1xY"
+    },
+    {
+     "title": "Forex का इतना Promotion क्यों समझिए कमीशन का खेल | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/0BP3_Uyt_Fc",
+     "thumbnail": "https://i.ytimg.com/vi/0BP3_Uyt_Fc/frame0.jpg",
+     "views_original": "38K views",
+     "views": 38000,
+     "video_id": "0BP3_Uyt_Fc"
+    },
+    {
+     "title": "असली Trader Trade लगाकर Laptop बंद कर देता है | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/pwzGfCVuA2U",
+     "thumbnail": "https://i.ytimg.com/vi/pwzGfCVuA2U/frame0.jpg",
+     "views_original": "53K views",
+     "views": 53000,
+     "video_id": "pwzGfCVuA2U"
+    },
+    {
+     "title": "पानी के बीच एक अनोखा Apple Store | Sagar Sinha",
+     "link": "https://www.youtube.com/shorts/2DunqBDir6w",
+     "thumbnail": "https://i.ytimg.com/vi/2DunqBDir6w/frame0.jpg",
+     "views_original": "9.3K views",
+     "views": 9300,
+     "video_id": "2DunqBDir6w"
+    },
+    {
+     "title": "Nifty 50 | Sagar Sinha Show",
+     "link": "https://www.youtube.com/shorts/36C9lZ-0PRU",
+     "thumbnail": "https://i.ytimg.com/vi/36C9lZ-0PRU/frame0.jpg",
+     "views_original": "13K views",
+     "views": 13000,
+     "video_id": "36C9lZ-0PRU"
+    },
+    {
+     "title": "Bicoin Event में जीता Gold Bar | Sagar Sinha",
+     "link": "https://www.youtube.com/shorts/OuAAGcy8hmA",
+     "thumbnail": "https://i.ytimg.com/vi/OuAAGcy8hmA/frame0.jpg",
+     "views_original": "17K views",
+     "views": 17000,
+     "video_id": "OuAAGcy8hmA"
+    },
+    {
+     "title": "The Right Strategy to Invest Money | SAGAR SINHA",
+     "link": "https://www.youtube.com/shorts/cBo5SzSFCdo",
+     "thumbnail": "https://i.ytimg.com/vi/cBo5SzSFCdo/frame0.jpg",
+     "views_original": "549 views",
+     "views": 549,
+     "video_id": "cBo5SzSFCdo"
+    },
+    {
+     "title": "Profit दे रहे Stocks—Hold करें या निकल जाएं | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/0YfUXX1x1Q0",
+     "thumbnail": "https://i.ytimg.com/vi/0YfUXX1x1Q0/frame0.jpg",
+     "views_original": "44K views",
+     "views": 44000,
+     "video_id": "0YfUXX1x1Q0"
+    },
+    {
+     "title": "Sagar Sinha Live On CNBC | Crypto SIP",
+     "link": "https://www.youtube.com/shorts/MtbQXKoExYk",
+     "thumbnail": "https://i.ytimg.com/vi/MtbQXKoExYk/frame0.jpg",
+     "views_original": "153K views",
+     "views": 153000,
+     "video_id": "MtbQXKoExYk"
+    },
+    {
+     "title": "Top 3 Investment Asset किसने दिया सबसे ज़्यादा Growth | Sagar Sinha",
+     "link": "https://www.youtube.com/shorts/F77uwgsWcd8",
+     "thumbnail": "https://i.ytimg.com/vi/F77uwgsWcd8/frame0.jpg",
+     "views_original": "222K views",
+     "views": 222000,
+     "video_id": "F77uwgsWcd8"
+    },
+    {
+     "title": "Trading में मेहनत के बाद भी पैसा क्यों नहीं बनता | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/XLlOcjllB6E",
+     "thumbnail": "https://i.ytimg.com/vi/XLlOcjllB6E/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "XLlOcjllB6E"
+    },
+    {
+     "title": "जानिए Pushkar Raj Thakur कहाँ Invest करते है | Sagar Sinha Show",
+     "link": "https://www.youtube.com/shorts/8WamXqCbZYE",
+     "thumbnail": "https://i.ytimg.com/vi/8WamXqCbZYE/frame0.jpg",
+     "views_original": "539K views",
+     "views": 539000,
+     "video_id": "8WamXqCbZYE"
+    },
+    {
+     "title": "Share Market का बेसिक रूल😱 | Sagar Sinha Shorts",
+     "link": "https://www.youtube.com/shorts/rGvlNsAk55c",
+     "thumbnail": "https://i.ytimg.com/vi/rGvlNsAk55c/frame0.jpg",
+     "views_original": "166K views",
+     "views": 166000,
+     "video_id": "rGvlNsAk55c"
+    },
+    {
+     "title": "Best Way To Invest 10K R",
+     "link": "https://www.youtube.com/shorts/Nb3UCYzHd90",
+     "thumbnail": "https://i.ytimg.com/vi/Nb3UCYzHd90/frame0.jpg",
+     "views_original": "128K views",
+     "views": 128000,
+     "video_id": "Nb3UCYzHd90"
+    },
+    {
+     "title": "पैसा ही सब कुछ हैं | Sagar Sinha",
+     "link": "https://www.youtube.com/shorts/mgY3DvuasUk",
+     "thumbnail": "https://i.ytimg.com/vi/mgY3DvuasUk/frame0.jpg",
+     "views_original": "327K views",
+     "views": 327000,
+     "video_id": "mgY3DvuasUk"
+    },
+    {
+     "title": "Trading Mentor चुनने से पहले ये सच जान लें | Sagar Sinha Podcast",
+     "link": "https://www.youtube.com/shorts/cKPM9Cyr1WA",
+     "thumbnail": "https://i.ytimg.com/vi/cKPM9Cyr1WA/frame0.jpg",
+     "views_original": "18K views",
+     "views": 18000,
+     "video_id": "cKPM9Cyr1WA"
+    },
+    {
+     "title": "Drive | Sagar Sinha",
+     "link": "https://www.youtube.com/shorts/kY6ZSvaYio4",
+     "thumbnail": "https://i.ytimg.com/vi/kY6ZSvaYio4/frame0.jpg",
+     "views_original": "648K views",
+     "views": 648000,
+     "video_id": "kY6ZSvaYio4"
+    },
+    {
+     "title": "सोना अब 24 घंटे | SAGAR SINHA",
+     "link": "https://www.youtube.com/shorts/BO-H_-mzUOA",
+     "thumbnail": "https://i.ytimg.com/vi/BO-H_-mzUOA/frame0.jpg",
+     "views_original": "1.5M views",
+     "views": 1500000,
+     "video_id": "BO-H_-mzUOA"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 8,
+   "title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+   "link": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v5-TPHSkalE",
+   "video_id": "v5-TPHSkalE",
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8mo ago",
+   "views": 58708,
+   "length": "1:28:33",
+   "description": "Invest In Mutual Fund SIP, SWP, Stocks | Open FREE Demat Account https://tinyurl.com/firstpunji Crypto Trading FREE ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/v5-TPHSkalE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB50NfW8id0vVFZsltfpopfh_KYfA"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Nifty Falling, Nasdaq Rising? Complete US Stocks Investment Guide | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=G9Ru2K0ImPI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G9Ru2K0ImPI",
+   "video_id": "G9Ru2K0ImPI",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 372453,
+   "length": "25:48",
+   "description": "I use Vested to invest in US Stocks https://vested.app.link/coachsagar Indian markets have struggled in 2026 while major US ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/G9Ru2K0ImPI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRbvcqzunPs1vW6d6idhQ6151WLA"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Share Market क्या है? | Basics Of Stock Market | Sagar Sinha",
+   "link": "https://www.youtube.com/watch?v=3wWI0S37OaE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3wWI0S37OaE",
+   "video_id": "3wWI0S37OaE",
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 441049,
+   "length": "42:06",
+   "description": "Understand What is Share Market & Basics of Stock Market in simple words. #ShareMarket #StockMarket #Investing For Brand ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3wWI0S37OaE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCLqRwi2bK7DEqn7hnfZbGk0lPllw"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "How To Trade In US Market | US Market Trading For Beginners | US Stock Trading | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gRNJ-fXE_00",
+   "video_id": "gRNJ-fXE_00",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 121215,
+   "length": "25:16",
+   "description": "CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/gRNJ-fXE_00/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDj3VF_5oTWqumUqg5kslcxljn5Sg"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Best Investment Plan For Your Child | Best Child Financial Plan | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=tPIHG6h_UfA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tPIHG6h_UfA",
+   "video_id": "tPIHG6h_UfA",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 246546,
+   "length": "35:00",
+   "description": "Best Term Insurance - 15% Discount - https://tinyurl.com/TERM10OCTMAIN Best Health Insurance - 25% Discount ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tPIHG6h_UfA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdutklKW99bu5ShUbd-HEFEG0aOw"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Stock Analysis कैसे करें | Stock Selection Strategy For Beginners | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=XPH1RnB0inY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XPH1RnB0inY",
+   "video_id": "XPH1RnB0inY",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 4940279,
+   "length": "42:20",
+   "description": "SagarSinha #stockmarket #investing #invest #investingforbeginners #sharemarket #stockanalysis #stocks #sharemarketanalysis ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XPH1RnB0inY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBqkwmyZ3uyq0040sbL9oQKpx7kvQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Mutual Fund सबसे बड़ा Fraud है | Sagar Sinha Podcast",
+   "link": "https://www.youtube.com/watch?v=Np8RZMglfns",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Np8RZMglfns",
+   "video_id": "Np8RZMglfns",
+   "channel": {
+    "name": "Sagar Sinha Podcast",
+    "link": "https://www.youtube.com/@sagarsinhapodcast_",
+    "thumbnail": "https://yt3.ggpht.com/rEfcmM7hRif6Fln1HJhloenVkbktH9vvQ8xfiSnYsl-li6jHcfEBA-gSraG6I2bJ9W4oqhDgew=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4d ago",
+   "views": 61061,
+   "length": "1:36:28",
+   "description": "In this episode of Sagar Sinha Podcast, we sit with Pankaj Bhardwaj for an insightful conversation around **Mutual Funds, fake ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Np8RZMglfns/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWwi0rOFNDhfbMUm8hhAjqRTqXzw"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "video_id": "kDh89kb2t6w",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 2030512,
+   "length": "43:22",
+   "description": "CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kDh89kb2t6w/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC36dR1YBoQPfe6FxNq2N38Z-LzzA"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "Trader की कोई Respect नही है । Option Trading | Power Of Stocks | Sagar Sinha Show |",
+   "link": "https://www.youtube.com/watch?v=q21xVvAb-tM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q21xVvAb-tM",
+   "video_id": "q21xVvAb-tM",
+   "channel": {
+    "name": "Sagar Sinha Podcast",
+    "link": "https://www.youtube.com/@sagarsinhapodcast_",
+    "thumbnail": "https://yt3.ggpht.com/rEfcmM7hRif6Fln1HJhloenVkbktH9vvQ8xfiSnYsl-li6jHcfEBA-gSraG6I2bJ9W4oqhDgew=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 167871,
+   "length": "59:26",
+   "description": "SagarSinha #SagarSinhaShow #podcast #newpodcast #trader #investmentadvice #businesstvshow #trading #tradingstrategy In ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/q21xVvAb-tM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6uChBRSrM6_XUxksn1LJHlCCjmA"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Gold & Silver Are Hiding Something BIG! Nobody Is Talking About This",
+   "link": "https://www.youtube.com/watch?v=MEy32YwJzik",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MEy32YwJzik",
+   "video_id": "MEy32YwJzik",
+   "channel": {
+    "name": "Dr. Gold & Silver",
+    "link": "https://www.youtube.com/@drtayyabqazi",
+    "thumbnail": "https://yt3.ggpht.com/wAinR9T6Sgt8F-Saoo3X5pb4mFjsMSfwnpD8xK93WVXCzEawuLrfFF1NA0zJHfwD2d_o0UVW=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "13h ago",
+   "views": 1400,
+   "length": "11:26",
+   "description": "What if the biggest opportunity in gold and silver begins when the stock market starts to struggle? Gold and silver are sending ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MEy32YwJzik/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBk5dXulOpd329Df7O2OXr6GjEUrg"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "SOMETHING HUGE IS ABOUT TO HAPPEN TO GOLD & SILVER! JIM ROGERS' SHOCKING WARNING FOR INVESTORS",
+   "link": "https://www.youtube.com/watch?v=oi8qYIoPKNQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oi8qYIoPKNQ",
+   "video_id": "oi8qYIoPKNQ",
+   "channel": {
+    "name": "ROGERS MINDSET",
+    "link": "https://www.youtube.com/@ROGERSMINDSET",
+    "thumbnail": "https://yt3.ggpht.com/UC-1fDoB1GHSNKlk5mfH2bJ9Kqng6OyN99cRgny8cvZMQ23oPXEIPCB_C_nwdJv-5OlrJ--6iQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5h ago",
+   "views": 1126,
+   "length": "28:17",
+   "description": "gold #Silver #JimRogers #GoldPrice #SilverPrice #GoldInvesting #SilverInvesting DESCRIPTION: Something huge could be on ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/oi8qYIoPKNQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQV4Cy02JuL64uITiNSpTB5m5DMg"
+   }
+  },
+  {
+   "position_on_page": 23,
+   "title": "Bitcoin SIP vs Gold SIP vs Nifty SIP | Bitcoin Crash सबसे बड़ी Opportunity? | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=ikGcjqcCk80",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ikGcjqcCk80",
+   "video_id": "ikGcjqcCk80",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7mo ago",
+   "views": 597742,
+   "length": "25:56",
+   "description": "CoinDCX (Crypto,Gold, US Stocks) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ikGcjqcCk80/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8lJigdfnkHo0Si1xeDPRxtrMb6A"
+   }
+  },
+  {
+   "position_on_page": 24,
+   "title": "How To Select Stocks For Intraday Trading | SAGAR SINHA",
+   "link": "https://www.youtube.com/watch?v=CtXMNGn6-vE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CtXMNGn6-vE",
+   "video_id": "CtXMNGn6-vE",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 905205,
+   "length": "51:15",
+   "description": "Kushal sir's sunday webinar: https://rzp.io/rzp/primesunday Kushal sir's FREE Telegram Channel: ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CtXMNGn6-vE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzT0EIzYhGsyxn3HJDE6RamaTADg"
+   }
+  },
+  {
+   "position_on_page": 25,
+   "title": "Beginner’s Guide to Crypto Trading | Where to Start? | @BudhilVyas | Sagar Sinha Show",
+   "link": "https://www.youtube.com/watch?v=j4JYJwYAvro",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j4JYJwYAvro",
+   "video_id": "j4JYJwYAvro",
+   "channel": {
+    "name": "Sagar Sinha Podcast",
+    "link": "https://www.youtube.com/@sagarsinhapodcast_",
+    "thumbnail": "https://yt3.ggpht.com/rEfcmM7hRif6Fln1HJhloenVkbktH9vvQ8xfiSnYsl-li6jHcfEBA-gSraG6I2bJ9W4oqhDgew=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 280650,
+   "length": "42:13",
+   "description": "CoinDCX (Crypto) - Get 20% Discount On Brokerage Using This Link https://join.coindcx.com/invite/Az7y2 Trade In Cypto ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/j4JYJwYAvro/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGRmQAIDDPIZrXarxu_ae7g3ch0w"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Sagar+Sinha+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Sagar%20Sinha%20stocks&sp=SBSCARhVQ1RSMVRrOFNhTU85cXc5MzBrSU9NSFGCASJQTElWRTVlaXVBVzhBeHRodm5JOU9zY3psYWEtSXMxcm9MggEiUExJVkU1ZWl1QVc4Q04xWWM3RG5tb2VoUUpsMHpSbzZZQYIBC3Y1LVRQSFNrYWxFggEYVUNRbm1NQkRiTndscjk4SWI0OGx2NkdBggELRzlSdTJLMEltUEmCAQszd1dJMFMzN09hRYIBC2dSTkotZlhFXzAwggELdFBJSEc2aF9VZkGCASJQTElWRTVlaXVBVzhDZFdtSHpPcHRwVXBucF9Pdmh5cWZzggEYVUNWdk5ocTA3NjZvT293cEVURGlDTVFnggELWFBIMVJuQjBpblmCAQtOcDhSWk1nbGZuc4IBC2tEaDg5a2IydDZ3ggELcTIxeFZ2QWItdE2CAQtNRXkzMll3Snppa4IBC29pOHFZSW9QS05RggELaWtHY2pxY0NrODCCAQtDdFhNTkduNi12RYIBC2o0SllKd1lBdnJvsgEGCgQIGhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCARhVQ1RSMVRrOFNhTU85cXc5MzBrSU9NSFGCASJQTElWRTVlaXVBVzhBeHRodm5JOU9zY3psYWEtSXMxcm9MggEiUExJVkU1ZWl1QVc4Q04xWWM3RG5tb2VoUUpsMHpSbzZZQYIBC3Y1LVRQSFNrYWxFggEYVUNRbm1NQkRiTndscjk4SWI0OGx2NkdBggELRzlSdTJLMEltUEmCAQszd1dJMFMzN09hRYIBC2dSTkotZlhFXzAwggELdFBJSEc2aF9VZkGCASJQTElWRTVlaXVBVzhDZFdtSHpPcHRwVXBucF9Pdmh5cWZzggEYVUNWdk5ocTA3NjZvT293cEVURGlDTVFnggELWFBIMVJuQjBpblmCAQtOcDhSWk1nbGZuc4IBC2tEaDg5a2IydDZ3ggELcTIxeFZ2QWItdE2CAQtNRXkzMll3Snppa4IBC29pOHFZSW9QS05RggELaWtHY2pxY0NrODCCAQtDdFhNTkduNi12RYIBC2o0SllKd1lBdnJvsgEGCgQIGhAC6gEECAIQGQ%3D%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Sagar+Sinha+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Sagar+Sinha+stocks&sp=SBSCARhVQ1RSMVRrOFNhTU85cXc5MzBrSU9NSFGCASJQTElWRTVlaXVBVzhBeHRodm5JOU9zY3psYWEtSXMxcm9MggEiUExJVkU1ZWl1QVc4Q04xWWM3RG5tb2VoUUpsMHpSbzZZQYIBC3Y1LVRQSFNrYWxFggEYVUNRbm1NQkRiTndscjk4SWI0OGx2NkdBggELRzlSdTJLMEltUEmCAQszd1dJMFMzN09hRYIBC2dSTkotZlhFXzAwggELdFBJSEc2aF9VZkGCASJQTElWRTVlaXVBVzhDZFdtSHpPcHRwVXBucF9Pdmh5cWZzggEYVUNWdk5ocTA3NjZvT293cEVURGlDTVFnggELWFBIMVJuQjBpblmCAQtOcDhSWk1nbGZuc4IBC2tEaDg5a2IydDZ3ggELcTIxeFZ2QWItdE2CAQtNRXkzMll3Snppa4IBC29pOHFZSW9QS05RggELaWtHY2pxY0NrODCCAQtDdFhNTkduNi12RYIBC2o0SllKd1lBdnJvsgEGCgQIGhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCARhVQ1RSMVRrOFNhTU85cXc5MzBrSU9NSFGCASJQTElWRTVlaXVBVzhBeHRodm5JOU9zY3psYWEtSXMxcm9MggEiUExJVkU1ZWl1QVc4Q04xWWM3RG5tb2VoUUpsMHpSbzZZQYIBC3Y1LVRQSFNrYWxFggEYVUNRbm1NQkRiTndscjk4SWI0OGx2NkdBggELRzlSdTJLMEltUEmCAQszd1dJMFMzN09hRYIBC2dSTkotZlhFXzAwggELdFBJSEc2aF9VZkGCASJQTElWRTVlaXVBVzhDZFdtSHpPcHRwVXBucF9Pdmh5cWZzggEYVUNWdk5ocTA3NjZvT293cEVURGlDTVFnggELWFBIMVJuQjBpblmCAQtOcDhSWk1nbGZuc4IBC2tEaDg5a2IydDZ3ggELcTIxeFZ2QWItdE2CAQtNRXkzMll3Snppa4IBC29pOHFZSW9QS05RggELaWtHY2pxY0NrODCCAQtDdFhNTkduNi12RYIBC2o0SllKd1lBdnJvsgEGCgQIGhAC6gEECAIQGQ%3D%3D"
+ },
+ "_fetched_at": "2026-10-11T05:22:12"
+}

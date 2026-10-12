@@ -1,0 +1,1478 @@
+{
+ "search_metadata": {
+  "id": "6ac94522fbbebb40204d5b09",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/NlWsx2eYQapJ_QACtlzehsTdt8wC2qQjvt6OYxQ7fxI/6ac94522fbbebb40204d5b09.json",
+  "markdown_endpoint": "https://serpapi.com/searches/NlWsx2eYQapJ_QACtlzehsTdt8wC2qQjvt6OYxQ7fxI/6ac94522fbbebb40204d5b09.md",
+  "created_at": "2026-10-09 19:48:50 UTC",
+  "processed_at": "2026-10-09 19:48:50 UTC",
+  "google_news_url": "https://news.google.com/search?q=Adani+Ports+and+Special+Economic+Zone+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/NlWsx2eYQapJ_QACtlzehsTdt8wC2qQjvt6OYxQ7fxI/6ac94522fbbebb40204d5b09.html",
+  "total_time_taken": 1.25
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Adani Ports and Special Economic Zone share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Adani group stocks under pressure; Enterprises, Green Energy tank up to 7%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-group-stocks-under-pressure-enterprises-green-energy-down-up-to-7-126100800485_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/29/full/1785317030-0301.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5SbE5HY0MweVpVZEVXSGhYVFJERkF4aWxCU2dLTWdNWm9Bdw",
+   "date": "10/08/2026, 07:06 AM, +0000 UTC",
+   "iso_date": "2026-10-08T07:06:20Z"
+  },
+  {
+   "position": 2,
+   "title": "Adani Ports block deal: Shares worth ₹1,234 crore change hands",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sheersh Kapoor"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/adani-ports-block-deal-shares-worth-rs-1234-crore-change-hands-20008580.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/adani-ports-2026-04-b617887ba38ffb94632227c69cadbb77.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFka3AyTm05d2FtVlVZV3BVVFJDZkF4ampCU2dLTWdZQmNJUXFLZ2M",
+   "date": "10/09/2026, 10:49 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:49:01Z"
+  },
+  {
+   "position": 3,
+   "title": "Adani Ports, GMR Airports rise up to 5% amid block deal reports; check details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/amp/markets/stocks/story/adani-ports-gmr-airports-rise-amid-block-deal-reports-check-details-560692-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac8c6339e238-adani-ports-stock-closed-336-or-rs-5720-higher-at-rs-1760-on-friday-094714578-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlYemR6TXpSbFFXSndibVpQVFJDZkF4ampCU2dLTWdhaFU0Yk1MUVk",
+   "date": "10/09/2026, 10:47 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:47:59Z"
+  },
+  {
+   "position": 4,
+   "title": "Adani Group stocks surge up to 3 pc; Reliance Industries, BSE shares drag",
+   "source": {
+    "name": "The Hans India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehansindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehansindia.com/business/adani-group-stocks-surge-up-to-3-pc-reliance-industries-bse-shares-drag-1130676",
+   "thumbnail": "https://assets.thehansindia.com/h-upload/2026/10/09/1711551-adani-group-stocks-rallied-up-to-3-per-cent-as-domestic-equity.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUhhbWs0UkcxWldEUm5NR3BNVFJDdEF4akxCU2dLTWdB",
+   "date": "10/09/2026, 11:17 AM, +0000 UTC",
+   "iso_date": "2026-10-09T11:17:20Z"
+  },
+  {
+   "position": 5,
+   "title": "News by CNBC TV18 on TradingView, 2026-10-09 — cnbctv:358b2c236094b:0",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/cnbctv:358b2c236094b:0/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/09/2026, 10:49 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:49:01Z"
+  },
+  {
+   "position": 6,
+   "title": "Adani Ports Share Price drops in second straight session",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-share-consecutive-price-fall-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/Adani_Ports_and_Special_Economic_Zone_ADANIPORTS_Share_Price_Fall_Streak_second_straight_session_of_decline_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlORTl1TFhsV1FVaFBlbmN4VFJDUkF4ai1CU2dLTWdZQk1JYkRHZ28",
+   "date": "10/08/2026, 05:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:37:21Z"
+  },
+  {
+   "position": 7,
+   "title": "Adani Ports, GMR Airports rise up to 5% amid block deal reports; check details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-gmr-airports-rise-amid-block-deal-reports-check-details-560692-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac8c6339e238-adani-ports-stock-closed-336-or-rs-5720-higher-at-rs-1760-on-friday-094714578-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdjblJQWlhCeE5YRkJlSEprVFJDZkF4ampCU2dLTWdhaFU0Yk1MUVk",
+   "date": "10/09/2026, 10:47 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:47:59Z"
+  },
+  {
+   "position": 8,
+   "title": "Adani Ports & Special Economic Zone Ltd Rallies 3.12% and Approaches Key Moving Averages",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/adani-ports-special-economic-zone-ltd-hits-intraday-high-with-312-surge-4220305",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/AdaniPortsSpeci_priceRelatedfactors_4220305.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kbVpPUWpaU1IxZzNiMXBFVFJDaUFSaTJBaWdCTWdZQlVvZ2kwd00",
+   "date": "10/09/2026, 05:16 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:16:37Z"
+  },
+  {
+   "position": 9,
+   "title": "Adani Ports Sets Up Subsidiary for Two Paradip Port Berths",
+   "source": {
+    "name": "Construction World",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.constructionworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.constructionworld.in/transport-infrastructure/ports-and-shipping/adani-ports-sets-up-subsidiary-for-two-paradip-port-berths/98504",
+   "thumbnail": "https://www.constructionworld.in/assets/uploads/img_40714_1791530509.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9VbFE0YldaWWJIVkpRMFkyVFJDZkFSaS1BaWdCTWdrWkk0SUxtcWhVOHdB",
+   "date": "10/09/2026, 07:56 AM, +0000 UTC",
+   "iso_date": "2026-10-09T07:56:07Z"
+  },
+  {
+   "position": 10,
+   "title": "APSEZ FY26 revenue grows 25%, outperforms guidance",
+   "source": {
+    "name": "Adani Ports and SEZ Ltd",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.adaniports.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ashwani Gupta"
+    ]
+   },
+   "link": "https://www.adaniports.com/newsroom/media-releases/apsez-fy26-revenue-grows-25-outperforms-guidance",
+   "thumbnail": "https://www.adaniports.com/-/media/project/ports/newsroom/adani-ports-image.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXJhR3RqWVVwYWNrOUdZMmhVVFJEREF4aXBCU2dLTWdNQlVBSQ",
+   "date": "04/30/2026, 01:32 PM, +0000 UTC",
+   "iso_date": "2026-04-30T13:32:32Z"
+  },
+  {
+   "position": 11,
+   "title": "Adani Ports board to meet on July 29 to consider Q1FY27 results",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-board-to-meet-on-july-29-to-consider-q1fy27-results/44988539",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-board-to-meet-on-july-29-to-consider-q1fy27-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVROWFF0VERodlkwSnZWRFJNVFJDaUF4amRCU2dLTWdZQlVZYnVRQVE",
+   "date": "10/04/2026, 04:55 AM, +0000 UTC",
+   "iso_date": "2026-10-04T04:55:34Z"
+  },
+  {
+   "position": 12,
+   "title": "Adani Ports and Special Economic Zone shares rise 2.06% in today's session",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/adani-ports-and-special-economic-zone-shares-rise-2-06-in-today-s-session-alpha-article-14005608.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250320041134_sensex_nifty-marketup_sensexup-Niftyup.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWblZ2ZUhKZlEyZzNRVTAzVFJDZkF4ampCU2dLTWdZMU1ZaTJHQWs",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "APSEZ and MSC Group deepen long-term partnership; MSC’s terminal arm, TiL, to invest in 49% share in Vizhinjam port in total deal value of USD 2.85bn",
+   "source": {
+    "name": "Adani",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.adani.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.adani.com/newsroom/media-releases/apsez-and-msc-group-deepen-long-term-partnership",
+   "thumbnail": "https://www.adani.com/-/media/project/adaniv1/newsroom/media-releases/thumbnails/apsez-and-msc-group-partnership-thumbnail.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdSbk42Wkc5SVYxY3llVGhzVFJDd0FSaWVBaWdCTWdrTmNJb3RNZVl0RVFF",
+   "date": "06/30/2026, 05:07 AM, +0000 UTC",
+   "iso_date": "2026-06-30T05:07:51Z"
+  },
+  {
+   "position": 14,
+   "title": "Adani Ports stock adds 18 million tonnes at Paradip",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/adani-ports-stock-adds-18-million-tonnes-at-paradip/70263211",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405049_1200_1200.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhWVU4wTVVaRk16VmpRbmhaVFJDcUJCaXFCQ2dLTWdhUllvcXNyUWc",
+   "date": "10/08/2026, 07:26 AM, +0000 UTC",
+   "iso_date": "2026-10-08T07:26:20Z"
+  },
+  {
+   "position": 15,
+   "title": "Adani Ports Share Price Fall: Valuation and Sector View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-share-price-fall-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/KPIT_Technologies_Ltd_KPITTECH_Share_Price_Hits_Fresh_52_Week_Low_Stock_Trades_at_Rs_4855_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllSGxsWm1kNVZFWkVhMjk1VFJDUUF4ai1CU2dLTWdZQlFJemlIZ2s",
+   "date": "10/07/2026, 11:31 AM, +0000 UTC",
+   "iso_date": "2026-10-07T11:31:09Z"
+  },
+  {
+   "position": 16,
+   "title": "Adani Ports & Special Economic Zone Ltd Hits Intraday Low Amid Price Pressure",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/adani-ports-special-economic-zone-ltd-hits-intraday-low-amid-price-pressure-4218912",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/AdaniPortsSpeci_priceRelatedfactors_4218912.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUa2hLWVcxTlQzRXdRbmM1VFJDaUFSaTJBaWdCTWdZQk1ZaEMwd00",
+   "date": "10/08/2026, 05:09 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:09:07Z"
+  },
+  {
+   "position": 17,
+   "title": "Adani Ports Share Price News: Price Fall and Peer Check",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-share-price-price-fall-2026-09-28",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/adani-ports-and-special-economic-zone-adaniports-share-price-falls-2-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRXblZIZVhkSVoxQnZUa0pOVFJDUUF4ai1CU2dLTWdhQktackRuZ2s",
+   "date": "09/28/2026, 06:22 AM, +0000 UTC",
+   "iso_date": "2026-09-28T06:22:49Z"
+  },
+  {
+   "position": 18,
+   "title": "Stocks in news: Titan, HCL Tech, Adani Ports and Utkarsh SFB",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-titan-hcl-tech-adani-ports-and-utkarsh-sfb/articleshow/134746122.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134746292,width-1200,height-900,resizemode-4,imgsize-179406/stocks-in-news-titan-hcl-tech-adani-ports-and-utkarsh-sfb.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiemd0WWpodk9WbGxWekpQVFJEZ0F4aUFCU2dLTWdZSlU0eEZwUWc",
+   "date": "10/07/2026, 12:30 AM, +0000 UTC",
+   "iso_date": "2026-10-07T00:30:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Analysts Have Made A Financial Statement On Adani Ports and Special Economic Zone Limited's (NSE:ADANIPORTS) First-Quarter Report",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-adaniports/adani-ports-and-special-economic-zone-shares/news/analysts-have-made-a-financial-statement-on-adani-ports-and",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice2-main-header/1585186783086?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWxRbGxYVlhaUU9HUm1NM0JTVFJDZkF4ampCU2dLTWdzQkFJQ0NNU010czJqa29n",
+   "date": "08/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-01T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Adani Group's most valuable company sets new record; shares major business update",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/adani-groups-most-valuable-company-sets-new-record-shares-major-business-update-11790931996322.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/02/1600x900/logo/Adani_Group_Sets_New_Record_1790932161236_0j9b_1790932174952_DYrx_2a50e1eb-2616-410c-bd76-e8080019baa9_13hD.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlURU0wWDNNMFVVeFhXa2RQVFJDZkF4amlCU2dLTWdtQkFZNkRrV2cxVVFF",
+   "date": "10/02/2026, 09:11 AM, +0000 UTC",
+   "iso_date": "2026-10-02T09:11:04Z"
+  },
+  {
+   "position": 21,
+   "title": "Nomura retains 'Buy' on Adani Ports, JSW Infrastructure; sees steady Q2",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/nomura-retains-buy-on-adani-ports-jsw-infrastructure-sees-steady-q2-14045473.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240502075630_adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiRVY1YzBwelJHOWpZM0pLVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "10/06/2026, 05:05 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:05:33Z"
+  },
+  {
+   "position": 22,
+   "title": "Adani Ports to host investor meet in Singapore on November 18-19",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-sez-host-investor-meet-singapore-november-18-19/52758676",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-sez-host-investor-meet-singapore-november-18-19.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9VRzU1VW5CemJGQmtOMUpTVFJDaUF4amRCU2dLTWdZRklKSW1zZ1k",
+   "date": "10/05/2026, 10:45 PM, +0000 UTC",
+   "iso_date": "2026-10-05T22:45:02Z"
+  },
+  {
+   "position": 23,
+   "title": "Adani Ports Share Price Today: price rise and valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-ltd-share-price-price-rise-2026-09-18",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Adani_Ports_and_Special_Economic_Zone_Ltd_ADANIPORTS_Adani_Ports_Share_Price_rises_231_as_stock_hits_Rs_177650_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlia3BoTnpjM2IzTTBWMDA0VFJDUUF4ai1CU2dLTWdZQlFJVGltZ2s",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Adani Ports Share Price Today: Market Cap and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-share-price-price-fall-2026-08-31",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/Adani_Ports_and_Special_Economic_Zone_ADANIPORTS_Adani_Ports_Share_Price_Falls_246_as_Stock_Slides_to_Rs_16631_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSSEpaZEdwR1JIQm5TR2w2VFJDUUF4ai1CU2dLTWdZQk1JaWpHZ28",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Why You Might Be Interested In Adani Ports and Special Economic Zone Limited (NSE:ADANIPORTS) For Its Upcoming Dividend",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-adaniports/adani-ports-and-special-economic-zone-shares/news/why-you-might-be-interested-in-adani-ports-and-special-econo-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice2-main-header/1585186783086?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWxRbGxYVlhaUU9HUm1NM0JTVFJDZkF4ampCU2dLTWdzQkFJQ0NNU010czJqa29n",
+   "date": "06/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Adani Ports and Special Economic Zone Stock Signals to Watch This",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/adani-ports-and-special-economic-zone-stock-signals-investors-are-watching",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Adani Ports and Special Economic Zone shares fall 2.20 percent to Rs 1,779.30",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/adani-ports-and-special-economic-zone-shares-fall-2-20-percent-to-rs-1-779-30-alpha-article-13981709.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250218095653_volatile_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTM1JyV2sxVmR6TldlVGx2VFJDZkF4ampCU2dLTWdhTmNaUUlzUWM",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Last line of defence! How 7 Nifty stocks survived the market’s two-month bloodbath",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/last-line-of-defence-how-7-nifty-stocks-survived-the-markets-two-month-bloodbath/articleshow/134722719.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134722719,width-1200,height-900,resizemode-4,imgsize-2310112/last-line-of-defence-how-7-nifty-stocks-survived-the-markets-two-month-bloodbath.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHplVWhOZEhWV1lXWlJWMHQ1VFJEZ0F4aUFCU2dLTWdrQllJWktzYVU5VVFF",
+   "date": "10/06/2026, 04:15 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:15:03Z"
+  },
+  {
+   "position": 29,
+   "title": "APSEZ to start Dedicated Empty Container Yard operations at Mundra Port and SEZ",
+   "source": {
+    "name": "Adani",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.adani.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.adani.com/newsroom/media-releases/apsez-to-start-dedicated-empty-container-yard-operations-at-mundra-port-and-sez",
+   "thumbnail": "https://www.adani.com/-/media/project/adaniv1/newsroom/media-releases/thumbnails/apsez-and-msc-group-partnership-thumbnail.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdSbk42Wkc5SVYxY3llVGhzVFJDd0FSaWVBaWdCTWdrTmNJb3RNZVl0RVFF",
+   "date": "09/04/2026, 06:15 AM, +0000 UTC",
+   "iso_date": "2026-09-04T06:15:33Z"
+  },
+  {
+   "position": 30,
+   "title": "Adani Ports and Special Economic Zone shares decline 2.02% to Rs 1,685.00",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/adani-ports-and-special-economic-zone-shares-decline-2-02-to-rs-1-685-00-alpha-article-13987952.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Adani Ports Shares Gain Nearly 2% As Swiss Group MSC Aims to Invest $1.4 Billion in Vizhinjam Port",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/adani-ports-shares-gain-nearly-2percent-as-swiss-group-msc-aims-to-invest-1-4-billion-in-vizhinjam-port",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/chatgpt_image_jun_30_2026_12_30_51_pm_1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNMVZ0VTBOTlZrMVhSMDlUVFJDZkF4amlCU2dLTWdZQllJampLZ1E",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Adani Enterprises, Adani Power, Adani Ports: Why four Adani Group stocks are in focus today",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/adani-enterprises-adani-power-adani-ports-why-four-adani-group-stocks-are-in-focus-today/article-201022/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/adani-group-sept-29-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjRVpYT1dkck4yTkVORGhaVFJDZkF4ampCU2dLTWdhUmdZeG5SZ1U",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Adani Ports & Special Economic Zone Ltd Actuals & Estimates (NSE:ADANIPORTS)",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-ADANIPORTS/forecast-actuals-and-estimates/",
+   "date": "06/25/2026, 08:40 PM, +0000 UTC",
+   "iso_date": "2026-06-25T20:40:31Z"
+  },
+  {
+   "position": 34,
+   "title": "Adani Ports and Special Economic Zone (NSE:ADANIPORTS) Strong Profits May Be Masking Some Underlying Issues",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-adaniports/adani-ports-and-special-economic-zone-shares/news/adani-ports-and-special-economic-zone-nseadaniports-strong-p",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice2-main-header/1585186783086?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWxRbGxYVlhaUU9HUm1NM0JTVFJDZkF4ampCU2dLTWdzQkFJQ0NNU010czJqa29n",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Adani Ports & Special Economic Zone Ltd Share Price Today NSE/BSE Charts",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/investment/stocks/adani-ports-special-economic-zone-ltd",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=%2Fnew-landing%2Fbg-mandala-new.webp&w=3840&q=90",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlMV2t6VDFOM2JHMTRlSFUyVFJDX0FSaUlBaWdCTWdPWkF4WQ",
+   "date": "08/24/2026, 05:04 PM, +0000 UTC",
+   "iso_date": "2026-08-24T17:04:21Z"
+  },
+  {
+   "position": 36,
+   "title": "Why Adani Stocks are rising today? Key details",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/why-adani-stocks-are-rising-today-key-details",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Adani Ports may outperform on volume, profit growth expectations for FY27",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prasad Sahu"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-ports-may-outperform-on-volume-profit-growth-expectations-for-fy27-126092301115_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-11/13/full/1699843456-3697.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlTVEEwYWt0RVRHeFBNVkpLVFJERUF4aW1CU2dLTWdZQnNKQm9RZ1k",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Adani Ports stock extends losses after Q1 results despite brokerages seeing up to 28% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/adani-ports-stock-extends-losses-after-q1-results-despite-brokerages-seeing-up-to-28-upside-13987910.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240502075630_adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiRVY1YzBwelJHOWpZM0pLVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Adani Ports Q1 net profit rises 10% to Rs 3,650 crore; revenue climbs 19% on-year",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/adani-ports-q1-net-profit-rises-9-to-rs-3-620-crore-revenue-jumps-19-on-year-13986902.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240502075630_adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiRVY1YzBwelJHOWpZM0pLVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Adani Ports and SEZ shares rise over 1% as August cargo volumes hit record 50 MMT, jump 19% YoY",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/adani-ports-and-sez-shares-rise-over-1-as-august-cargo-volumes-hit-record-50-mmt-jump-19-yoy-14020703.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/07/20240715130142_Adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZXbGhUY2tJd1YwaHlhVUpzVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Adani Ports and Special Economic Zone Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43397/adani-ports-and-special-economic-zone-ltd/peer-comparison/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/adaniports.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWVnB2WTJab1UwbFBWRFJuVFJESUFSaklBU2dCTWdZVms0aU1UUU0",
+   "date": "08/29/2026, 07:37 PM, +0000 UTC",
+   "iso_date": "2026-08-29T19:37:38Z"
+  },
+  {
+   "position": 42,
+   "title": "ADANIPORTS Forecast — Price Target — Prediction for 2027",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-ADANIPORTS/forecast-price-target/",
+   "date": "06/25/2026, 03:20 PM, +0000 UTC",
+   "iso_date": "2026-06-25T15:20:38Z"
+  },
+  {
+   "position": 43,
+   "title": "Adani Ports Q2 Results FY27: Date and Expectations",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/adani-ports-q2-results-fy27-preview-date-expectations",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/adani-ports-q2-results-fy27-preview-date-expectations.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ZWE0wTm5aaU5teHVOMWw0VFJDUUF4ai1CU2dLTWdZQlFZNmpuZ2s",
+   "date": "09/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-08T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Adani Ports and Special Economic Zone Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43397/adani-ports-and-special-economic-zone-ltd/company-financial/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/adaniports.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWVnB2WTJab1UwbFBWRFJuVFJESUFSaklBU2dCTWdZVms0aU1UUU0",
+   "date": "08/29/2026, 09:08 AM, +0000 UTC",
+   "iso_date": "2026-08-29T09:08:53Z"
+  },
+  {
+   "position": 45,
+   "title": "Adani Ports hits new life-time high; Emkay lifts target price by 5%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-ports-share-price-hits-new-life-time-high-emkay-research-lifts-target-price-by-5-to-2-000-126070100380_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-02/22/full/1677030479-8698.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZORVZLTjNVMVZqbG1Va0Y2VFJEUUF4anNCQ2dLTWdNQmtBQQ",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Adani Ports & Special Economic Zone Ltd is Rated Hold",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/adani-ports-special-economic-zone-ltd-is-rated-hold-4211939",
+   "date": "10/02/2026, 07:12 AM, +0000 UTC",
+   "iso_date": "2026-10-02T07:12:12Z"
+  },
+  {
+   "position": 47,
+   "title": "Adani Ports and Special Economic Zone Ltd. Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43397/adani-ports-and-special-economic-zone-ltd/key-ratios/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/adaniports.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRWVnB2WTJab1UwbFBWRFJuVFJESUFSaklBU2dCTWdZVms0aU1UUU0",
+   "date": "08/30/2026, 05:55 AM, +0000 UTC",
+   "iso_date": "2026-08-30T05:55:32Z"
+  },
+  {
+   "position": 48,
+   "title": "Adani Ports shares rise 2.06% to Rs 1,698.40",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/adani-ports-shares-rise-2-06-to-rs-1-698-40-alpha-article-13990145.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250305041212_stock_market_recovery_1280x720.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1YME50WW1obmNtSndMWFZMVFJDZkF4ampCU2dLTWdZQmdJZ0N3UVE",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Adani Ports Share Price Declines Amid Market Volatility",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/adani-ports-and-special-economic-zone-ltd-share-price-fall-today",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/07/Adani_Ports_and_Special_Economic_Zone_Ltd_ADANIPORTS_Adani_Ports_Share_Price_Declines_Amid_Market_Volatility_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhVXR3Y0hKa1ZHRkRhM2hmVFJDUUF4ai1CU2dLTWdZQk1JakRHZ28",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Adani Ports shares shed 3% after Q1 results. Here's why Nomura and other brokerages see up to 24% upside",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/adani-ports-shares-shed-3-after-q1-results-heres-why-nomura-and-other-brokerages-see-up-to-24-upside/articleshow/132726589.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132726583,width-1200,height-900,resizemode-4,imgsize-16603/adani-ports-shares-shed-3-after-q1-results-heres-why-nomura-and-other-brokerages-see-up-to-24-upside.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5XbVJpY0VaNlNYcDBRa3BMVFJEZ0F4aUFCU2dLTWdrQmNJSXJLaWM5Y0FF",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Adani Ports share price tanks 3% after Q1 results 2026. Should you buy, sell or hold?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/adani-ports-share-price-tanks-3-after-q1-results-2026-should-you-buy-sell-or-hold-11785387716752.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/30/1600x900/logo/stock_1785388128367_1785388128488_2347aa59-68c9-4e16-a798-db394f8ca5ce.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxiQzFyY1cxeE9YTktPVll4VFJDZkF4ampCU2dLTWdZaE5KVE1vUWc",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Nomura raises Adani Ports share price target by 12%. Here are 3 major reasons why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/nomura-raises-adani-ports-share-price-target-by-12-here-are-3-major-reasons-why/articleshow/131764118.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131765416,width-1200,height-900,resizemode-4,imgsize-12072/nomura-raises-adani-ports-share-price-target-by-12-here-are-3-major-reasons-why.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFORkEwY1U5WmFsUmpRblI1VFJEZ0F4aUFCU2dLTWdZSlVveFF3UVE",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "MSC’s Terminal Arm TiL To Invest in 49% Share in Adani Vizhinjam Port; Total Deal Value USD 2.85 Bn",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/msc-buys-49percent-stake-in-adani-vizhinjam-port-for-1-4b",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/msc_s_terminal_arm_til_to_invest_in_49_share_in_adani_vizhinjam_port.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVkWGx6TTNkbGMxWTJjWHBPVFJDZkF4ampCU2dLTWdZQmdJekRMZ2M",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Adani Ports stock falls after promoter entity sell 2% stake for ₹7,486 crore",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/markets/adani-ports-stock-falls-after-promoter-entity-sell-2-stake-for-7486-crore/article70941704.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/br4tfw/article70941754.ece/alternates/LANDSCAPE_1200/Adani-GangavaraGVPFP3IV4.3.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXJjRkZyZDJaSGFURTRiVkpRVFJDZkF4ampCU2dLTWdNQlVBUQ",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Adani Ports Stock Falls After Stake Sale",
+   "source": {
+    "name": "Rediff MoneyWiz",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://money.rediff.com/news/market/adani-ports-stock-falls-after-stake-sale/46466320260505",
+   "thumbnail": "https://im.rediff.com/1200-900/money/2023/aug/13adani-ports.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVOREJ3TkRKb0xXa3lha1ZsVFJEZ0F4aUFCU2dLTWdrWmNJN3RyR1ltVHdF",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Adani Ports Q1 FY27 Beat Fails to Impress; Shares Slide Despite Strong Results",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikki Lodha"
+    ]
+   },
+   "link": "https://www.niftytrader.in/markets/adani-ports-q1-fy27-beat-stock-slides/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/07/Adani-Ports-Q1-FY27-Beat-Fails-to-Impress-Shares-Slide-Despite-Strong-Results-860x425.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZjbTlpTWpWNk5EQTNkak5KVFJDRkF4aVVCaWdLTWdtQmNJZ0lMZVZxcVFJ",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Adani Ports shares jump 2%, top Nifty gainer; HSBC bullish after record August cargo volume, sees big upside",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:045048e42094b:0-adani-ports-shares-jump-2-top-nifty-gainer-hsbc-bullish-after-record-august-cargo-volume-sees-big-upside/",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Adani Ports Consolidated June 2026 Net Sales at Rs 10,820.80 crore, up 18.57% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/adani-ports-consolidated-june-2026-net-sales-at-rs-10820-80-crore-up-18-57-y-o-y-13993353.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Adani Ports Share Price Declines Amid Market Volatility",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/adani-ports-and-special-economic-zone-ltd-share-price-fall-today-2",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/Adani_Ports_and_Special_Economic_Zone_Ltd_ADANIPORTS_Adani_Ports_Share_Price_Declines_Amid_Market_Volatility_bearish-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBSMTlKYkY4NGJHZDVWVUl0VFJDUUF4ai1CU2dLTWdZQlFJYkRuZ2s",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Adani Ports: Up 37% from 52-week low, Adani Group stock gets target price upgrade",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-share-price-target-52-week-low-adani-stock-gets-target-price-upgrade-554746-2026-09-11",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa372e429d0c-shares-of-adani-ports-closed-at-rs-1757-on-thursday-market-cap-of-the-firm-stood-at-rs-404-lakh-cr-11175547-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjSEk0TkZWVlMwb3dNWEJRVFJDZkF4ampCU2dLTWdZZEJKNnJGUXM",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Adani Ports Cargo volumes jump 15% from last year in July, near 50 MT mark",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/adani-ports-and-special-economic-zone-share-price-july-business-update-cargo-volume-logistics-rail-q1-results-19960095.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/adani-ports-2026-04-b617887ba38ffb94632227c69cadbb77.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFka3AyTm05d2FtVlVZV3BVVFJDZkF4ampCU2dLTWdZQmNJUXFLZ2M",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Adani Ports says MSC's TiL to invest $1.4 billion for 49% stake in Vizhinjam Port; shares gain over 1%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/adani-ports-says-msc-s-til-to-invest-1-4-billion-for-49-stake-in-vizhinjam-port-shares-gain-over-1-13961907.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/12/20241216025802_421912136.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVXWGhOYmxKT1YxcFJYMDlUVFJDZkF4ampCU2dLTWdNQlVBUQ",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Adani Ports shares snap 2-day fall, rise over 1% after Goldman Sachs raises target price",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/adani-ports-shares-snap-2-day-fall-rise-over-1-after-goldman-sachs-raises-target-price/articleshow/131521558.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131521543,width-1200,height-900,resizemode-4,imgsize-32066/adani-ports-shares-snap-2-day-fall-rise-over-1-after-goldman-sachs-raises-target-price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxXSGR4Y0hjd2JqbGxlWEZGVFJEZ0F4aUFCU2dLTWdNUkVBZw",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Adani Ports shares jump as handled cargo volume surges 13% YoY to 46.8 MMT in June; check business updates",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/adani-ports-shares-jump-as-handled-cargo-volume-surges-13-yo-y-to-46-8-mmt-in-june-check-business-updates/article-196261/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/adaniports33121.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSMnRpZDAxR1NUaFRNVFo2VFJDZkF4ampCU2dLTWdhUmdZeEhSZ1U",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Adani Ports stock rating: Brokerages bullish on MSC's $1.4 billion Vizhinjam deal; check target prices,...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/adani-ports-stock-rating-brokerages-bullish-on-msc-s-1-4-billion-vizhinjam-deal-check-target-prices-upside-13962879.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240502075630_adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiRVY1YzBwelJHOWpZM0pLVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Adani Ports down 6% in 2 days post Q1 nos; Equirus maintains 'LONG' rating",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-ports-down-6-in-two-days-post-q1-results-equirus-maintains-long-rating-126073000518_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-02/08/full/1675823817-8872.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhlVjlYUzJnelgyUlBlV3hHVFJEUUF4anNCQ2dLTWdrQmtJQkxSR09wY2dF",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Top gainers and losers, September 29: Titan, Wipro shares fall 3%, Adani Enterprises surges 5%; check list",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/top-gainers-and-losers-september-29-titan-wipro-shares-fall-3-adani-enterprises-surges-5-check-list/article-201071/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/nifty-sensex-sept-29-top-gainers-and-losers.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhZbFpLVUZOYVltRXdUbU5yVFJEZ0F4aUFCU2dLTWdhSlpZd3B1Z1U",
+   "date": "09/29/2026, 11:01 AM, +0000 UTC",
+   "iso_date": "2026-09-29T11:01:53Z"
+  },
+  {
+   "position": 68,
+   "title": "Adani Ports shares get their highest price target from HSBC who projects a 21% upside",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/adani-ports-share-price-hsbc-gives-highest-target-on-street-buy-returns-fy31-goals-risks-19945801.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-f81bcd7ff75f03e17804ab016515e4ba.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtVV1ZCWlhsa1gwZHFSRXBOVFJDZkF4ampCU2dLTWdhVm9ZRHJYQUk",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Adani Ports shares rise 2.06% to Rs 1,698.40",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:33f2f1076094b:0-adani-ports-shares-rise-2-06-to-rs-1-698-40/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Adani Ports and Special Economic Zone - Negative Breakout: These 11 stocks cross below their 200 DMAs",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/negative-breakout-these-11-stocks-cross-below-their-200-dmas/adani-ports-and-special-economic-zone/slideshow/133666017.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133666048,width-480,height-360,imgsize-33140,resizemode-75/downside-ahead.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJPRjlSYTFkcVVFcHVkREEyVFJEbkFoamdBeWdLTWdZQmNZN29OUVk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Adani Ports stock in focus as Nomura, Jefferies stay bullish after strong May cargo growth; check target prices",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:c63a5084f094b:0-adani-ports-stock-in-focus-as-nomura-jefferies-stay-bullish-after-strong-may-cargo-growth-check-target-prices/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Adani Ports May Update: Cargo volumes up 16%, logistics rail volumes slides 19% YoY",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/adani-ports-share-price-may-update-cargo-volumes-up-16-logistics-rail-volumes-slides-19-yoy-ws-l-19917933.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/05/ports-2026-05-c0bbaaf1b20acae4ef975143a5d0dd32.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhPRE5qVjNWMWJsQkxTMmhyVFJDZkF4ampCU2dLTWdrQmNJYUlxbWRVY0FF",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Earnings call transcript: Adani Ports posts strong Q1 2026 growth, shares fall 3.1%",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-adani-ports-posts-strong-q1-2026-growth-shares-fall-31-93CH-4820849",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Adani Ports to hold US non-deal roadshow from August 24 to 28",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-sez-hold-non-deal-roadshow-us-this-month/48525123",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-sez-hold-non-deal-roadshow-us-this-month.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDJSRGc1TjNka1ozcFJjMlYxVFJDZkF4ampCU2dLTWdzQkFJUWtqQ1hnQ0xwWVJR",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Adani Ports shares up 3% intraday, 18% in one month; what's fuelling rally?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-ports-shares-up-3-intraday-18-in-one-month-what-s-fuelling-rally-126051300612_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-09/27/full/1695783029-9673.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlOSEZHZERoSGN6bHRWM001VFJERUF4aW1CU2dLTWdZQmlKYUVNZ2M",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Adani Ports Stock And Gulf Port Shares In Focus As Cargo Routes Shift",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sasha Jovanovic"
+    ]
+   },
+   "link": "https://finance.yahoo.com/markets/stocks/articles/adani-ports-stock-gulf-port-051515502.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/e94f92ba45b4930b73ce97e828de89d30870d8bc1df6a61f9854932874f8ad96/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F5b89925c8e157f51aa4e9945fb57ad2d.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iOkNnNXVRa00yU2tGUVdVMVJRVlkzVFJDZkF4ampCU2dLTWhFQk1JQkJKYUl0dEFpLU94NTNzQ3J4QVE",
+   "date": "09/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-19T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Why are Adani stocks in demand? ATGL soars 15%; Energy, Ports gain up to 4%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/why-are-adani-stocks-in-demand-atgl-soars-15-energy-ports-gain-up-to-4-126091800630_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/22/full/1779421243-6577.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1abDlRVDFNMk5taFRiMWxXVFJERUF4aW1CU2dLTWdNZGNRUQ",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Adani Ports Reports 46.3 MMT Cargo Volume in July'26, Up 15% Year-on-Year",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-handles-46-3-mmt-cargo-in-jul-26-up-15-yoy/47272336",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-handles-46-3-mmt-cargo-in-jul-26-up-15-yoy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWlPV1psWDIxME9FTkhjbFJRVFJDaUF4amRCU2dLTWdtQmtJZ0d3YVJFRFFJ",
+   "date": "08/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-02T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Adani Ports & Special Economic Zone consolidated net profit rises 9.23% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/adani-ports-special-economic-zone-consolidated-net-profit-rises-9-23-in-the-june-2026-quarter-126072900745_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Adani Ports among 3 stock ideas for today by Bonanza's Kunal Kamble",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/adani-ports-among-3-stock-ideas-for-today-by-bonanza-s-kunal-kamble-126091100091_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/20/full/1773945705-5146.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhbmhOZGtSeE4xSkJWVFZRVFJDZkF4ampCU2dLTWdhTklvWVFtUWc",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Adani Ports and Special Economic Zone To Launch Dedicated Empty Container Yard at Mundra Port",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/adani-ports-and-special-economic-zone-to-launch-dedicated-empty-container-yard-at-mundra-port",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/adani_ports_and_special_economic_zone_to_launch_dedicated_empty_container_yard_at_mundra_port-3.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhkMGhOVkcxc1F6aDJiems1VFJDZkF4ampCU2dLTWdB",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Adani Ports Q1 Net Profit Hits ₹3,620 Crore, Company Clarifies UK Expansion Rumours",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/adani-ports-q1-net-profit-hits-3-620-crore-company-clarifies-uk-expansion-rumours-3270-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3270_PE_1_CORPORATE_29_07_2026_16x9_0728b616ce.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBYeTExYUhoSlVHSjRXWGhaVFJDb0FSaXRBaWdCTWdrWlk0cUtzU1JjaVFJ",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Vizhinjam deal triggers next growth wave for Adani Ports and SEZ",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prasad Sahu"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/volume-gains-ahead-for-adani-ports-and-sez-after-vizhinjam-port-deal-126070101160_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/02/full/1746183140-4334.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVNhelpTUXpoQlJrTmlTV1k0VFJDbEF4allCU2dLTWdNQmtBZw",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Adani Ports Share Price Rallies Over 2% After Record August Cargo Volume; JPMorgan, Macquarie, HSBC Stay Bullish",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/adani-ports-share-price-rally-over-2-after-record-august-cargo-volume-jpmorgan-macquarie-hsbc-stay-bullish-11995537",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/n8itp8ao_adani-ports_625x300_30_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNUa1ZxUWtacWExZHFlR3RFVFJDZkF4ampCU2dLTWdrQk1JSUNHMnBUMUFB",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Adani Ports shares remain a 'near-consensus buy' among analysts after May update; check price targets",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/adani-ports-shares-remain-a-near-consensus-buy-among-analysts-after-may-update-check-price-targets-ws-l-19918246.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/05/ports-2026-05-c0bbaaf1b20acae4ef975143a5d0dd32.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhPRE5qVjNWMWJsQkxTMmhyVFJDZkF4ampCU2dLTWdrQmNJYUlxbWRVY0FF",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Adani Ports and Special Economic Zone - Nestle India, 4 other stocks hit 52-week highs, rally up to 55% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/nestle-india-4-other-stocks-hit-52-week-highs-rally-up-to-55-in-a-month/adani-ports-and-special-economic-zone/slideshow/130828710.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-130828858,width-480,height-360,imgsize-145428,resizemode-75/new-peaks.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9UbUZ6VDNoeWJXSlVSSFZQVFJEbkFoamdBeWdLTWdrSk1JekdvV2MxamdF",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Adani Ports and SEZ share Pros and Cons 2026: India's Port Market Leader Analysed",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-cons-investing-adaniports-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-cons-investing-adaniports-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVWa2wxY2xSaU1qSlJiMHBCVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Adani Ports Q4 results: Net profit climbs 10% to ₹3,329 crore, dividend recommended; check record date",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/earnings/adani-ports-q4-results-net-profit-climbs-10-to-3-329-crore-dividend-recommended-check-record-date/article-192990/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/adani-ports-q4-results-dividend-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBjMGx4YjNGaE1XMUJZM1l3VFJDZkF4ampCU2dLTWdrQmNJUzF3Q1Y3NmdF",
+   "date": "04/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-30T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Q1 results 2026: Adani Enterprises to Asian Paints among companies to declare Q1 results today; full list here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/q1-results-2026-adani-enterprises-to-asian-paints-among-companies-to-declare-q1-results-today-full-list-here-11785291983470.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/stock_1785293031253_1785293031403_989eb34c-b67d-4d41-8e25-96f4fecb94f2.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdZblJ3ZUZSTFZsZGZZMVZJVFJDZkF4ampCU2dLTWdrSkFZYXR1V1FlZ0FN",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "MSC-Adani Vizhinjam port deal: State govt. approval needed for share transfer",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/news/national/kerala/msc-adani-vizhinjam-port-deal-state-govt-approval-needed-for-share-transfer/article71170413.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Adani Ports shares gain as August cargo volume rises 19% to 50 MT led by dry cargo, containers",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/adani-ports-and-special-economic-zone-share-price-august-business-update-cargo-volumes-containers-fy27-handling-guidance-19982243.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/adani-ports-2026-04-b617887ba38ffb94632227c69cadbb77.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFka3AyTm05d2FtVlVZV3BVVFJDZkF4ampCU2dLTWdZQmNJUXFLZ2M",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Adani Ports stock extends losses after Q1 results despite brokerages seeing up to 28% upside",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:32a2f2157094b:0-adani-ports-stock-extends-losses-after-q1-results-despite-brokerages-seeing-up-to-28-upside/",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Adani Ports schedules investor meetings in Mumbai for August 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-schedules-investor-meetings-in-mumbai-for-august-2026/47575584",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-schedules-investor-meetings-in-mumbai-for-august-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBRVWc0V2pCSU5qZEVlbXR2VFJDZkF4ampCU2dLTWdNSllBSQ",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Adani Ports to start dedicated empty container yard operations at Mundra Port",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/adani-ports-and-special-economic-zone-share-price-to-start-dedicated-empty-container-yard-operations-at-mundra-19983777.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/adani-ports-2026-04-b617887ba38ffb94632227c69cadbb77.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFka3AyTm05d2FtVlVZV3BVVFJDZkF4ampCU2dLTWdZQmNJUXFLZ2M",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Stock Picks Today: HCLTech, Swiggy, Ather Energy, Oil India, Adani Ports And More On Brokerages' Radar",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/stock-picks-today-hcltech-swiggy-adani-ports-ather-energy-adani-enterprises-manipal-health-oil-india-coforge-vodafone-idea-adani-energy-and-more-on-br-12025937",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/00nkbjj4_brokerage-radar_625x300_04_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBWekZwUTJWQ2VDMVhhbnBtVFJDZkF4ampCU2dLTWdhQlVZd01vUWM",
+   "date": "09/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-10T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Adani Ports shares: CLSA retains 'Outperform'; highlights logistics, marine growth",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/trending-stocks/story/adani-ports-shares-clsa-retains-outperform-highlights-logistics-marine-growth-557225-2026-09-23",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab3713cde3e2-the-company-has-set-a-fy31-target-of-1-billion-tonnes-bt-of-traffic--implying-a-compound-annual-gr-232707739-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXdZMmc0UVdKelFqbHNZVlp1VFJDZkF4ampCU2dLTWdrRklJS211R0lkU3dJ",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Adani Ports approves FY26 results and dividend at 27th AGM",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/adani-ports-sez-concludes-27th-agm-via-video-conferencing/43859444",
+   "thumbnail": "https://news-images.dhan.co/adani-ports-sez-concludes-27th-agm-via-video-conferencing.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5OVGRXYkZsdlRUbHJSWEpTVFJDaUF4amRCU2dLTWdZQmNJaHN3UVE",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Adani Ports and SEZ to launch dedicated empty container yard at Mundra Port",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/news/adani-ports-and-sez-to-launch-dedicated-empty-container-yard-at-mundra-port-126090400463_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-07/12/full/1720749139-547.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpjWEI0V2xoMWFFZ3pYMHRGVFJERUF4aW1CU2dLTWdZSnRJeklSUVU",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Adani Power, Adani Green, Adani Ports: Bernstein targets; this Adani stock offers highest upside",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/adani-ports-adani-power-adani-green-target-prices-bernstein-raises-ports-tp-rs-1973-549816-2026-08-18",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a842c2cd6bf5-it-revised-its-target-for-adani-ports--special-economic-zone-ltd-to-rs-1-973-per-share--valuing-ada-185551700-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBRVVZ3WjJwQlgzaE5lbXRqVFJDZkF4ampCU2dLTWdhQlFwajBHQW8",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Adani Ports shares hit record high on robust April business updates",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rohan Takalkar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/adani-ports-shares-hit-record-high-on-robust-april-business-updates/article-193074/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/adani-ports.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ibkZDWmxscGVHUTRVazVqVFJDZkF4ampCU2dLTWdZSmdJYm5PUVk",
+   "date": "05/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-03T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:48:50"
+}

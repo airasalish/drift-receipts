@@ -1,0 +1,534 @@
+{
+ "search_metadata": {
+  "id": "6ac6805e55ba65cd01bc7a8b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/O8k7z6Ca1BnELl7a_uLIOUE8YK4w3RWe0oePHecTCXs/6ac6805e55ba65cd01bc7a8b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/O8k7z6Ca1BnELl7a_uLIOUE8YK4w3RWe0oePHecTCXs/6ac6805e55ba65cd01bc7a8b.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/O8k7z6Ca1BnELl7a_uLIOUE8YK4w3RWe0oePHecTCXs/6ac6805e55ba65cd01bc7a8b.json_with_pixel_position",
+  "created_at": "2026-10-07 17:24:46 UTC",
+  "processed_at": "2026-10-07 17:24:46 UTC",
+  "google_url": "https://www.google.com/search?q=LT+Elevators+share+price&oq=LT+Elevators+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/O8k7z6Ca1BnELl7a_uLIOUE8YK4w3RWe0oePHecTCXs/6ac6805e55ba65cd01bc7a8b.html",
+  "total_time_taken": 1.22
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "LT Elevators share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "LT Elevators share price",
+  "total_results": 101,
+  "time_taken_displayed": 0.55,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "LT Elevator Ltd",
+  "type": "BOM: 544518",
+  "entity_type": "finance",
+  "kgmid": "/g/11x_q8tyh9",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11x_q8tyh9&hl=en-IN&q=LT+Elevator+Ltd",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en-IN&kgmid=%2Fg%2F11x_q8tyh9&q=LT+Elevator+Ltd",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAaVBMVEX___-tra25AADOzs6ysrLa2tqnp6eSkpL8_PyJiYnU1NTs7Ozy8vLn5-fh4eH4-Pjourq8vLzExMTgnp59fX1paWnWfn7ZjY2bm5twcHDAGRn56OjDKytUVFRkZGTntbXYhYX23d3el5c1VJFLAAAA4UlEQVRIie2PjW7DIAyEjx9jAiQUkm6s3ZKl7_-Q86KqXZ9hfBKcJXP4DHQ6nU7nhcnSvYhyZWVVESWlnDdAEo0nYcveS8_CsMGo5BFJceCqXJ4WO4kOlSifgbBMlGet9dv7CTSo0XJkW51ooumPEWhHAHal-g8xnovNuGh91Z_yJOBLmmttoblH5ldjMeEwLsF4bPpbpm5w5m4c3Ppc1tmYxgymPErUkGJeUwyDKHDZJa3-NboG52pBsw8jsYyJMDHKaMM8pCaHmQNw3W_zfNuDfFmWgkm2e0btdDqdzv_kB-3_Cjp4AZREAAAAAElFTkSuQmCC.png",
+    "source": "https://www.mstock.com/ipo/l.-t.-elevator-ltd/ipo1040"
+   }
+  ],
+  "founded": "2008",
+  "number_of_employees": "351 (2026)",
+  "headquarters": "India",
+  "headquarters_links": [
+   {
+    "text": "India",
+    "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=India&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpj6h2kvN4t0x6usWcoZs6u4X7oynE7gqqzh3uEPKO1iIlnirpUOBargO7M1GD_pDB2CjOJBjBEkC-t9RNNYjxbmUthmXp0S4ftbt6rJKb7Jy5MULGnmGRuW8IYeJVkwyp6Z6asMMIBe-QXVFFQAuqBXz8fUc&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQmxN6BAhHEAI"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Quarterly financials"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the share price of LT food?",
+   "type": "ai_overview",
+   "page_token": "dlzT_HicHdBdboIwAADg7DI-DorRBROz2NHCTKxa-gN9WaBVEMpPlA3lbXfZqXaaJfuO8H3_2Etb_z4l5TD0t5XjjOP4XHRdYU_Pumuc7PZotaMza_NM16vlyxK8nvUa3Ub41o3wyPteBNRlSNk9UykBUBKAhXF3IPZMoypCWGioZOqwQzRlrn_LQJkIDijlPspdC-lEuhxhImpf6FBdTWTv-UQwAzaQzXYnE4q09Bc8BoMANFGIvOuAWOOJPhXosRckynF_SD38eeKioohS08LYVOIuQnfBLBx0i3sCTBuz0kpGJz4VMQaFS5EpdaTiYw2aVA7HWGxcbQk1HE_hZQtpRB57qbjmaDihvhG1UanY3Km3yDIAQ1JhbmoLWWDms7P-Ws9n_2Prj3MzrPprV_wBTMB30A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=dlzT_HicHdBdboIwAADg7DI-DorRBROz2NHCTKxa-gN9WaBVEMpPlA3lbXfZqXaaJfuO8H3_2Etb_z4l5TD0t5XjjOP4XHRdYU_Pumuc7PZotaMza_NM16vlyxK8nvUa3Ub41o3wyPteBNRlSNk9UykBUBKAhXF3IPZMoypCWGioZOqwQzRlrn_LQJkIDijlPspdC-lEuhxhImpf6FBdTWTv-UQwAzaQzXYnE4q09Bc8BoMANFGIvOuAWOOJPhXosRckynF_SD38eeKioohS08LYVOIuQnfBLBx0i3sCTBuz0kpGJz4VMQaFS5EpdaTiYw2aVA7HWGxcbQk1HE_hZQtpRB57qbjmaDihvhG1UanY3Km3yDIAQ1JhbmoLWWDms7P-Ws9n_2Prj3MzrPprV_wBTMB30A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzaGFyZSBwcmljZSBvZiBMVCBmb29kPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQnphR0Z5WlNCd2NtbGpaU0J2WmlCc2RDQm1iMjlrIiwiYnMiOiJjNFhQUVF1Q1FCQ0dZYnJPcVZQRVhocXRRMTM5QXhJVUVRbGRwTTZMcmptME9iRk9TdjgtRFlJVmlzN3o4UElOSEdCLUxyVWcxU2lsd2JyVXp1RGRVV2FRQzB4U0xKanpPRnFvc1AzTnJMd1o3Q0R3WS16b1FwVzJQby1qVUdIN0I4RUdsbjRvZXpobktzRmFPTHQ2NjA1SkdrZFROYkdOSFI2RmNfMkVBdFpmSzhQeFItbnVXMnNhTGV4d3VhOXkwaXRNNkVaaXVzOEROZU5lbUktZ0h2aVI4ZWdGIiwiaWQiOiJmY19YNERHYXB2UkJNZmFrUElQNHJTUXVBc18yIn0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBzaGFyZSBwcmljZSBvZiBMVCBmb29kPyIsImxrIjoiR2lKM2FHRjBJR2x6SUhSb1pTQnphR0Z5WlNCd2NtbGpaU0J2WmlCc2RDQm1iMjlrIiwiYnMiOiJjNFhQUVF1Q1FCQ0dZYnJPcVZQRVhocXRRMTM5QXhJVUVRbGRwTTZMcmptME9iRk9TdjgtRFlJVmlzN3o4UElOSEdCLUxyVWcxU2lsd2JyVXp1RGRVV2FRQzB4U0xKanpPRnFvc1AzTnJMd1o3Q0R3WS16b1FwVzJQby1qVUdIN0I4RUdsbjRvZXpobktzRmFPTHQ2NjA1SkdrZFROYkdOSFI2RmNfMkVBdFpmSzhQeFItbnVXMnNhTGV4d3VhOXkwaXRNNkVaaXVzOEROZU5lbUktZ0h2aVI4ZWdGIiwiaWQiOiJmY19YNERHYXB2UkJNZmFrUElQNHJTUXVBc18yIn0%3D"
+  },
+  {
+   "question": "What is the original share price?",
+   "type": "ai_overview",
+   "page_token": "LQ8cpXicHdDdToMwGIDheDMeOmBBsyWLsaNdJYPZYgvlxLCWDcfHwA35O_NevCqvRuMFvM_B-_UN7-fy56Yr2ra5Lmezvu_vjnV9hPxO19Usu45nPdMZwD7T5fL-4d5-POgV_nxG649nxETTSI9bkdNMKubE2IQailTmhJCW4UuObWEsXu-tMIiAf_DYHbm9SDQlRbAZgtAuB-E9Tekr8RlIlEuyzsViVCfVC1J0LDGdwbqNxSIITmaXQ7GTmLuC8Gu04VRVthdYgb1N0iHaAOIAdO9BoQBlEU3n4qxd5gyZnsyJl9gyk3Qy2fx1ba-xy1JJqrwCEktoE8sfd5Sst7F7xoVRIf7zE-SI0g_TilwEBhZS_1UkEumhfmeCT_oElRDNNiDwqaxjm3loVA744Rw6TslFC3cUAhBjtwfdrea3_z9Xb4eqXTaX-vgL6ruDgA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LQ8cpXicHdDdToMwGIDheDMeOmBBsyWLsaNdJYPZYgvlxLCWDcfHwA35O_NevCqvRuMFvM_B-_UN7-fy56Yr2ra5Lmezvu_vjnV9hPxO19Usu45nPdMZwD7T5fL-4d5-POgV_nxG649nxETTSI9bkdNMKubE2IQailTmhJCW4UuObWEsXu-tMIiAf_DYHbm9SDQlRbAZgtAuB-E9Tekr8RlIlEuyzsViVCfVC1J0LDGdwbqNxSIITmaXQ7GTmLuC8Gu04VRVthdYgb1N0iHaAOIAdO9BoQBlEU3n4qxd5gyZnsyJl9gyk3Qy2fx1ba-xy1JJqrwCEktoE8sfd5Sst7F7xoVRIf7zE-SI0g_TilwEBhZS_1UkEumhfmeCT_oElRDNNiDwqaxjm3loVA744Rw6TslFC3cUAhBjtwfdrea3_z9Xb4eqXTaX-vgL6ruDgA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvcmlnaW5hbCBzaGFyZSBwcmljZT8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0J2Y21sbmFXNWhiQ0J6YUdGeVpTQndjbWxqWlEiLCJicyI6ImM0WFBRUXVDUUJDR1lick9xVlBFWGhxdFExMzlBeElVRVFsZHBNNkxyam0wT2JGT1N2OC1EWUlWaXM3ejhQSU5IR0ItTHJVZzFTaWx3YnJVenVEZFVXYVFDMHhTTEpqek9GcW9zUDNOckx3WjdDRHdZLXpvUXBXMlBvLWpVR0g3QjhFR2xuNG9lemhuS3NGYU9MdDY2MDVKR2tkVE5iR05IUjZGY18yRUF0WmZLOFB4Ui1udVcyc2FMZXh3dWE5eTBpdE02RVppdXM4RE5lTmVtSS1nSHZpUjhlZ0YiLCJpZCI6ImZjX1g0REdhcHZSQk1mYWtQSVA0clNRdUFzXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBvcmlnaW5hbCBzaGFyZSBwcmljZT8iLCJsayI6IkdpQjNhR0YwSUdseklIUm9aU0J2Y21sbmFXNWhiQ0J6YUdGeVpTQndjbWxqWlEiLCJicyI6ImM0WFBRUXVDUUJDR1lick9xVlBFWGhxdFExMzlBeElVRVFsZHBNNkxyam0wT2JGT1N2OC1EWUlWaXM3ejhQSU5IR0ItTHJVZzFTaWx3YnJVenVEZFVXYVFDMHhTTEpqek9GcW9zUDNOckx3WjdDRHdZLXpvUXBXMlBvLWpVR0g3QjhFR2xuNG9lemhuS3NGYU9MdDY2MDVKR2tkVE5iR05IUjZGY18yRUF0WmZLOFB4Ui1udVcyc2FMZXh3dWE5eTBpdE02RVppdXM4RE5lTmVtSS1nSHZpUjhlZ0YiLCJpZCI6ImZjX1g0REdhcHZSQk1mYWtQSVA0clNRdUFzXzIifQ%3D%3D"
+  },
+  {
+   "question": "What is the current stock price of LVLT?",
+   "type": "ai_overview",
+   "page_token": "2lRYuHicHdBfboIwHADg7DI-Tv5kLpqYJUgr4uzCD9ravizQoiitoDJB33aXnWqnWbLvCN_3jzmc6t-nW9V17XU2Hvd9_7xvmr0pn1Vjx_n1flJjlRtT5KqeTV4n7ttOzdHXKlicV0FC25aF4KTcTYuQUMaBczv9yJC7LmncFZxx4sSCRtopItGldrjo0FwKHKyzTAc601XJK5CRFgWHFKhrgNM-xXjIM7JUJ9iCwdcU4Ygth3Nmpo_cc5uSQ5I-aoewuMsxDnNXNnxZvUvTeLnRE23BEkO90gSCRfIokfI2GNPM3w_Cb3vhgLepJdv48Yt02rDEQQ18SvgSdYkFQJUWBEEktoFH65hIiy8UmYREcUa3LFBDc0goPNTRWIaxLHDcl5zcgYEgRx1xhBfkEZMN6oYSEV_3o526zf3R_-f8c2e7WXtp9n8KwYMS",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=2lRYuHicHdBfboIwHADg7DI-Tv5kLpqYJUgr4uzCD9ravizQoiitoDJB33aXnWqnWbLvCN_3jzmc6t-nW9V17XU2Hvd9_7xvmr0pn1Vjx_n1flJjlRtT5KqeTV4n7ttOzdHXKlicV0FC25aF4KTcTYuQUMaBczv9yJC7LmncFZxx4sSCRtopItGldrjo0FwKHKyzTAc601XJK5CRFgWHFKhrgNM-xXjIM7JUJ9iCwdcU4Ygth3Nmpo_cc5uSQ5I-aoewuMsxDnNXNnxZvUvTeLnRE23BEkO90gSCRfIokfI2GNPM3w_Cb3vhgLepJdv48Yt02rDEQQ18SvgSdYkFQJUWBEEktoFH65hIiy8UmYREcUa3LFBDc0goPNTRWIaxLHDcl5zcgYEgRx1xhBfkEZMN6oYSEV_3o526zf3R_-f8c2e7WXtp9n8KwYMS",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0b2NrIHByaWNlIG9mIExWTFQ/IiwibGsiOiJHaFpzZG14MElITjBiMk5ySUhCeWFXTmxJSFJ2WkdGNSIsImJzIjoiYzRYUFFRdUNRQkNHWWJyT3FWUEVYaHF0UTEzOUF4SVVFUWxkcE02THJqbTBPYkZPU3Y4LURZSVZpczd6OFBJTkhHQi1MclVnMVNpbHdiclV6dURkVVdhUUMweFNMSmp6T0Zxb3NQM05yTHdaN0NEd1ktem9RcFcyUG8talVHSDdCOEVHbG40b2V6aG5Lc0ZhT0x0NjYwNUpHa2RUTmJHTkhSNkZjXzJFQXRaZks4UHhSLW51VzJzYUxleHd1YTl5MGl0TTZFWml1czhETmVOZW1JLWdIdmlSOGVnRiIsImlkIjoiZmNfWDRER2FwdlJCTWZha1BJUDRyU1F1QXNfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0b2NrIHByaWNlIG9mIExWTFQ%2FIiwibGsiOiJHaFpzZG14MElITjBiMk5ySUhCeWFXTmxJSFJ2WkdGNSIsImJzIjoiYzRYUFFRdUNRQkNHWWJyT3FWUEVYaHF0UTEzOUF4SVVFUWxkcE02THJqbTBPYkZPU3Y4LURZSVZpczd6OFBJTkhHQi1MclVnMVNpbHdiclV6dURkVVdhUUMweFNMSmp6T0Zxb3NQM05yTHdaN0NEd1ktem9RcFcyUG8talVHSDdCOEVHbG40b2V6aG5Lc0ZhT0x0NjYwNUpHa2RUTmJHTkhSNkZjXzJFQXRaZks4UHhSLW51VzJzYUxleHd1YTl5MGl0TTZFWml1czhETmVOZW1JLWdIdmlSOGVnRiIsImlkIjoiZmNfWDRER2FwdlJCTWZha1BJUDRyU1F1QXNfMiJ9"
+  },
+  {
+   "question": "What is the current share price of Otis Elevator (India) Limited?",
+   "type": "ai_overview",
+   "page_token": "LxG6GnicHdFRbpswGABg7TJ9bDAkWYkUTSOBMCacYvPb4JfJMSUkmJgGd1Dedpc990A9zaR9V_j-_NWXW_v55aOxth82i8U4jo9nY8765VGZbiGH95taKKn1Sap2s_66Rt9qtQ3NuNsNY5BB37M9cWjnT8eIjawQR3xgpmrROnMG51iYifJmqOIeS64lv0X0WDBZus1exsmaFZpUjnZLblx8QCh3jVPN6YqEykLbvJeaNThmNXb7GvYVUuyMMFRefiAWQjFQd7miof9THvwdifpIar-m_MkyL9qBa59FN5W8S66gg-cTRZK3fpA5jaEueiW6n_FM5KnAiXLsa8ZSm3LxlnNUKx2lHPwQNFsJ6HNSfEeSqSWE0x1DcsljY0_7Fom2iXGeBGkrInpNprCpShySuCwCF9oEiy66Q6gzHCc5FCxQk7lkQGZ11R3kASXg_8DoyRMeBoKYQ1GzpJ3OXwoxM5SOkD3U6vfWe_j_sP1Vd3bT3835H6a2lN8",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LxG6GnicHdFRbpswGABg7TJ9bDAkWYkUTSOBMCacYvPb4JfJMSUkmJgGd1Dedpc990A9zaR9V_j-_NWXW_v55aOxth82i8U4jo9nY8765VGZbiGH95taKKn1Sap2s_66Rt9qtQ3NuNsNY5BB37M9cWjnT8eIjawQR3xgpmrROnMG51iYifJmqOIeS64lv0X0WDBZus1exsmaFZpUjnZLblx8QCh3jVPN6YqEykLbvJeaNThmNXb7GvYVUuyMMFRefiAWQjFQd7miof9THvwdifpIar-m_MkyL9qBa59FN5W8S66gg-cTRZK3fpA5jaEueiW6n_FM5KnAiXLsa8ZSm3LxlnNUKx2lHPwQNFsJ6HNSfEeSqSWE0x1DcsljY0_7Fom2iXGeBGkrInpNprCpShySuCwCF9oEiy66Q6gzHCc5FCxQk7lkQGZ11R3kASXg_8DoyRMeBoKYQ1GzpJ3OXwoxM5SOkD3U6vfWe_j_sP1Vd3bT3835H6a2lN8",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHNoYXJlIHByaWNlIG9mIE90aXMgRWxldmF0b3IgKEluZGlhKSBMaW1pdGVkPyIsImxrIjoiR2g5dmRHbHpJR1ZzWlhaaGRHOXlJR2x1WkdsaElITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImM0WFBRUXVDUUJDR1lick9xVlBFWGhxdFExMzlBeElVRVFsZHBNNkxyam0wT2JGT1N2OC1EWUlWaXM3ejhQSU5IR0ItTHJVZzFTaWx3YnJVenVEZFVXYVFDMHhTTEpqek9GcW9zUDNOckx3WjdDRHdZLXpvUXBXMlBvLWpVR0g3QjhFR2xuNG9lemhuS3NGYU9MdDY2MDVKR2tkVE5iR05IUjZGY18yRUF0WmZLOFB4Ui1udVcyc2FMZXh3dWE5eTBpdE02RVppdXM4RE5lTmVtSS1nSHZpUjhlZ0YiLCJpZCI6ImZjX1g0REdhcHZSQk1mYWtQSVA0clNRdUFzXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSlpXZFdVbWRxVm5SQ1V5MVBjSGhNYkRaSk9GYzRjRzlRVFRodk1HMXRTVzVYVjAxcFJEQlVVVlJLVkU1R2RUaEhWbU56Y1ROMlIxZDJObGRJWWpsdlUzRTBPVkJzVnkxalExbHhUMGd5YUV4S2RYcERPWFZoVFdGR2R4SVhXRFJFUjJGd2RsSkNUV1poYTFCSlVEUnlVMUYxUVhNYUlrRkVjM0k1WmxSV1NIZDJZbTFSTURCNU4zaGxWR1pEV0hWTlRWaEJOSE5GWW5jIiwiZmN2IjoiMyIsImVpIjoiWDRER2FwdlJCTWZha1BJUDRyU1F1QXMiLCJxYyI6IkNoaHNkQ0JsYkdWMllYUnZjbk1nYzJoaGNtVWdjSEpwWTJVUUFIM2tKeHdfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHNoYXJlIHByaWNlIG9mIE90aXMgRWxldmF0b3IgKEluZGlhKSBMaW1pdGVkPyIsImxrIjoiR2g5dmRHbHpJR1ZzWlhaaGRHOXlJR2x1WkdsaElITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImM0WFBRUXVDUUJDR1lick9xVlBFWGhxdFExMzlBeElVRVFsZHBNNkxyam0wT2JGT1N2OC1EWUlWaXM3ejhQSU5IR0ItTHJVZzFTaWx3YnJVenVEZFVXYVFDMHhTTEpqek9GcW9zUDNOckx3WjdDRHdZLXpvUXBXMlBvLWpVR0g3QjhFR2xuNG9lemhuS3NGYU9MdDY2MDVKR2tkVE5iR05IUjZGY18yRUF0WmZLOFB4Ui1udVcyc2FMZXh3dWE5eTBpdE02RVppdXM4RE5lTmVtSS1nSHZpUjhlZ0YiLCJpZCI6ImZjX1g0REdhcHZSQk1mYWtQSVA0clNRdUFzXzIifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "The share price of L. T. Elevator Ltd (BSE: 544518) is ₹328.10 as of October 7, 2026."
+   },
+   {
+    "type": "heading",
+    "snippet": "Stock Overview"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Current Price: ₹328.10"
+     },
+     {
+      "snippet": "Previous Close: ₹321.70"
+     },
+     {
+      "snippet": "Day's Range: ₹328.05 – ₹328.10"
+     },
+     {
+      "snippet": "52-Week Range: ₹130.00 – ₹380.40"
+     },
+     {
+      "snippet": "Market Capitalization: ~₹685 Crore",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "P/E Ratio: ~26.3"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can track live updates and financial metrics directly on Screener.",
+    "snippet_links": [
+     {
+      "text": "Screener",
+      "link": "https://www.screener.in/company/544518/consolidated/"
+     }
+    ],
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you want, I can share more details about their financial performance, shareholding pattern, or peer comparison."
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "L. T. Elevator Ltd share price | About L. T. Elevator | Key Insights - Screener",
+    "link": "https://www.screener.in/company/544518/consolidated/",
+    "snippet": "Business Profile: L.T. Elevator Limited (Incorporated 2008, Market Cap ₹685 Cr, CMP ₹322) manufactures end-to-end elevator solutions and automated parking systems ...",
+    "source": "Screener",
+    "source_icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.screener.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   }
+  ]
+ },
+ "answer_box": {
+  "type": "finance_results",
+  "title": "You said: LT Elevators share priceLT Elevators share price",
+  "exchange": "BOM",
+  "stock": "544518",
+  "currency": "INR",
+  "price": 328.1,
+  "price_movement": {
+   "percentage": 1.99,
+   "movement": "Up",
+   "date": "today"
+  },
+  "market": {
+   "closed": false,
+   "date": "7 Oct, 3:30 pm IST"
+  },
+  "table": [
+   {
+    "name": "Open",
+    "value": 328.05
+   },
+   {
+    "name": "High",
+    "value": 328.1
+   },
+   {
+    "name": "Low",
+    "value": 328.05
+   },
+   {
+    "name": "Mkt cap",
+    "value": 697.72
+   },
+   {
+    "name": "P/E ratio",
+    "value": 26.35
+   },
+   {
+    "name": "52-wk high",
+    "value": 380.4
+   },
+   {
+    "name": "Dividend",
+    "value": "-"
+   },
+   {
+    "name": "Qtrly div amt",
+    "value": "-"
+   },
+   {
+    "name": "52-wk low",
+    "value": 130.0
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "LT Elevator Limited (LTELEVATOR.BO)",
+   "link": "https://sg.finance.yahoo.com/quote/LTELEVATOR.BO/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVt-oHfHQWn2j6z9Te0H970Zu6-0fBnu2giPj6SGEaibwjPh7zRwM71EoFYJDupGgRhsmVpE92NcrvS8g8bLJehlsOULAQI-9ak0hhHRBMkxd4XGYWndXHwYMYUkPOArRfSkf4ctpFqA&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://sg.finance.yahoo.com › quote › LTELEVATOR",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp",
+   "snippet": "Find the latest L. T. Elevator Limited (LTELEVATOR.BO) stock quote, history, news and other vital information … 52-week range 125.33 - 380.40 Volume 16,000 Avg.",
+   "snippet_highlighted_words": [
+    "L. T. Elevator",
+    "stock quote"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Find the latest L. T. Elevator Limited (LTELEVATOR.BO) stock quote, history, news and other vital information … 52-week range 125.33 - 380.40 Volume 16,000 Avg.",
+     "source_info_link": "https://sg.finance.yahoo.com/quote/LTELEVATOR.BO/",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnQtb0hmSFFXbjJqNno5VGUwSDk3MFp1Ni0wZkJudTJnaVBqNlNHRWFpYndqUGg3elJ3TTcxRW9GWUpEdXBHZ1Joc21WcEU5Mk5jcnZTOGc4YkxKZWhsc09VTEFRSS05YWswaGhIUkJNa3hkNFhHWVduZFhId1lNWVVrUE9BclJmU2tmNGN0cEZxQRIEGgIIABqzBRIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKh4KAmx0FV0EnUAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFSSkyz8aBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFQAAAAAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRWIf7FAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnQtb0hmSFFXbjJqNno5VGUwSDk3MFp1Ni0wZkJudTJnaVBqNlNHRWFpYndqUGg3elJ3TTcxRW9GWUpEdXBHZ1Joc21WcEU5Mk5jcnZTOGc4YkxKZWhsc09VTEFRSS05YWswaGhIUkJNa3hkNFhHWVduZFhId1lNWVVrUE9BclJmU2tmNGN0cEZxQToqPGI-TFQgRWxldmF0b3I8L2I-IExpbWl0ZWQgKExURUxFVkFUT1IuQk8pQrABRmluZCB0aGUgbGF0ZXN0IDxiPkwuIFQuIEVsZXZhdG9yPC9iPiBMaW1pdGVkIChMVEVMRVZBVE9SLkJPKSA8Yj5zdG9jayBxdW90ZTwvYj4sIGhpc3RvcnksIG5ld3MgYW5kIG90aGVyIHZpdGFsIGluZm9ybWF0aW9uIOKApiA1Mi13ZWVrIHJhbmdlIDEyNS4zMyAtIDM4MC40MCBWb2x1bWUgMTYsMDAwIEF2Zy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnQtb0hmSFFXbjJqNno5VGUwSDk3MFp1Ni0wZkJudTJnaVBqNlNHRWFpYndqUGg3elJ3TTcxRW9GWUpEdXBHZ1Joc21WcEU5Mk5jcnZTOGc4YkxKZWhsc09VTEFRSS05YWswaGhIUkJNa3hkNFhHWVduZFhId1lNWVVrUE9BclJmU2tmNGN0cEZxQRIEGgIIABqzBRIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkCPBQgAEAAYACAAKh4KAmx0FV0EnUAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFSSkyz8aBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFQAAAAAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRWIf7FAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVnQtb0hmSFFXbjJqNno5VGUwSDk3MFp1Ni0wZkJudTJnaVBqNlNHRWFpYndqUGg3elJ3TTcxRW9GWUpEdXBHZ1Joc21WcEU5Mk5jcnZTOGc4YkxKZWhsc09VTEFRSS05YWswaGhIUkJNa3hkNFhHWVduZFhId1lNWVVrUE9BclJmU2tmNGN0cEZxQToqPGI-TFQgRWxldmF0b3I8L2I-IExpbWl0ZWQgKExURUxFVkFUT1IuQk8pQrABRmluZCB0aGUgbGF0ZXN0IDxiPkwuIFQuIEVsZXZhdG9yPC9iPiBMaW1pdGVkIChMVEVMRVZBVE9SLkJPKSA8Yj5zdG9jayBxdW90ZTwvYj4sIGhpc3RvcnksIG5ld3MgYW5kIG90aGVyIHZpdGFsIGluZm9ybWF0aW9uIOKApiA1Mi13ZWVrIHJhbmdlIDEyNS4zMyAtIDM4MC40MCBWb2x1bWUgMTYsMDAwIEF2Zy4iAhABSABYAGgA",
+   "source": "Yahoo Finance Singapore"
+  },
+  {
+   "position": 2,
+   "title": "L T Elevator IPO - Check Issue Date, Price, Lot Size & Details",
+   "link": "https://groww.in/ipo/l-t-elevator-ipo",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVbGSgvRmuDx5naNfF2Su-fZQJrlrvzJ3Z8jVCcoDSx6z7x76vN9zQYQzNQohqVkvLjyxqHqpHwFo-E8E2R88Hmuo0jbRTlC6JcWxy-DGBMtGkefA7idIbrSAY2Q&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://groww.in › IPO",
+   "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-AfxqJMbaDQ4-oz57z2N6xzIgdgK2wVH-b3inC_DyxtJ2Bbz_rdAiOxzhrWxjAAD-_sOdA-dni_gS9f4-DilazYMDEn3gQrs4Ng1VR1uOQbwMhHpPWWe8vxjm74fQ17Vtdv-hyZt58Cf509wyNe5tn0xl6OV46X4K-PdLjkXu86a9Q3zs1kfRAGTsan7ksJf8pzxSJv7TrGWU6WwYhGqWHwpwVJKOf3Fix_v0-MvOWzyhNeZFIAgfqlEUx77DNv0XH_lX5anfc1hzKXLZDYQzU7SKVPa8gL32UPP3Fs5dPXQghLw5YU5ZJlBZgk59ySKE-u72H5joXqY2_CAhSSAWzq8v0htSiTT_ksAY_a8Vi0crv0e4X08N7awg2YbDbKXJ1k6AAAA.webp",
+   "snippet": "Closes on 16 Sep ₹2,43,200.00 / Price range ₹76 - ₹78 Lot size 1,600 Issue size 39.37 Cr Face value 10. Individual investor Price is ₹76 - ₹78.",
+   "snippet_highlighted_words": [
+    "Price",
+    "Price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Closes on 16 Sep ₹2,43,200.00 / Price range ₹76 - ₹78 Lot size 1,600 Issue size 39.37 Cr Face value 10. Individual investor Price is ₹76 - ₹78.",
+     "source_info_link": "https://groww.in/ipo/l-t-elevator-ipo",
+     "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-AfxqJMbaDQ4-oz57z2N6xzIgdgK2wVH-b3inC_DyxtJ2Bbz_rdAiOxzhrWxjAAD-_sOdA-dni_gS9f4-DilazYMDEn3gQrs4Ng1VR1uOQbwMhHpPWWe8vxjm74fQ17Vtdv-hyZt58Cf509wyNe5tn0xl6OV46X4K-PdLjkXu86a9Q3zs1kfRAGTsan7ksJf8pzxSJv7TrGWU6WwYhGqWHwpwVJKOf3Fix_v0-MvOWzyhNeZFIAgfqlEUx77DNv0XH_lX5anfc1hzKXLZDYQzU7SKVPa8gL32UPP3Fs5dPXQghLw5YU5ZJlBZgk59ySKE-u72H5joXqY2_CAhSSAWzq8v0htSiTT_ksAY_a8Vi0crv0e4X08N7awg2YbDbKXJ1k6AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmJHU2d2Um11RHg1bmFOZkYyU3UtZlpRSnJscnZ6SjNaOGpWQ2NvRFN4Nno3eDc2dk45elFZUXpOUW9ocVZrdkxqeXhxSHFwSHdGby1FOEUyUjg4SG11bzBqYlJUbEM2SmNXeHktREdCTXRHa2VmQTdpZEliclNBWTJREgQaAggAGsAFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJwFCAAQABgAIAAqHgoCbHQVtsmUQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVrCNKPxoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVbUIzPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFbJFYUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWYkdTZ3ZSbXVEeDVuYU5mRjJTdS1mWlFKcmxydnpKM1o4alZDY29EU3g2ejd4NzZ2Tjl6UVlRek5Rb2hxVmt2TGp5eHFIcXBId0ZvLUU4RTJSODhIbXVvMGpiUlRsQzZKY1d4eS1ER0JNdEdrZWZBN2lkSWJyU0FZMlE6UDxiPkwgVCBFbGV2YXRvcjwvYj4gSVBPIC0gQ2hlY2sgSXNzdWUgRGF0ZSwgPGI-UHJpY2U8L2I-LCBMb3QgU2l6ZSAmYW1wOyBEZXRhaWxzQqcBQ2xvc2VzIG9uIDE2IFNlcCDigrkyLDQzLDIwMC4wMCAvIDxiPlByaWNlPC9iPiByYW5nZSDigrk3NiAtIOKCuTc4IExvdCBzaXplIDEsNjAwIElzc3VlIHNpemUgMzkuMzcgQ3IgRmFjZSB2YWx1ZSAxMC4gSW5kaXZpZHVhbCBpbnZlc3RvciA8Yj5QcmljZTwvYj4gaXMg4oK5NzYgLSDigrk3OC4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVmJHU2d2Um11RHg1bmFOZkYyU3UtZlpRSnJscnZ6SjNaOGpWQ2NvRFN4Nno3eDc2dk45elFZUXpOUW9ocVZrdkxqeXhxSHFwSHdGby1FOEUyUjg4SG11bzBqYlJUbEM2SmNXeHktREdCTXRHa2VmQTdpZEliclNBWTJREgQaAggAGsAFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQJwFCAAQABgAIAAqHgoCbHQVtsmUQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVrCNKPxoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVbUIzPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFbJFYUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWYkdTZ3ZSbXVEeDVuYU5mRjJTdS1mWlFKcmxydnpKM1o4alZDY29EU3g2ejd4NzZ2Tjl6UVlRek5Rb2hxVmt2TGp5eHFIcXBId0ZvLUU4RTJSODhIbXVvMGpiUlRsQzZKY1d4eS1ER0JNdEdrZWZBN2lkSWJyU0FZMlE6UDxiPkwgVCBFbGV2YXRvcjwvYj4gSVBPIC0gQ2hlY2sgSXNzdWUgRGF0ZSwgPGI-UHJpY2U8L2I-LCBMb3QgU2l6ZSAmYW1wOyBEZXRhaWxzQqcBQ2xvc2VzIG9uIDE2IFNlcCDigrkyLDQzLDIwMC4wMCAvIDxiPlByaWNlPC9iPiByYW5nZSDigrk3NiAtIOKCuTc4IExvdCBzaXplIDEsNjAwIElzc3VlIHNpemUgMzkuMzcgQ3IgRmFjZSB2YWx1ZSAxMC4gSW5kaXZpZHVhbCBpbnZlc3RvciA8Yj5QcmljZTwvYj4gaXMg4oK5NzYgLSDigrk3OC4iAhABSABYAGgA",
+   "source": "Groww"
+  },
+  {
+   "position": 3,
+   "title": "LT Elevator Ltd Stock Price Today | BO: LTEL Live",
+   "link": "https://www.investing.com/equities/lt-elevator-bo",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVIMloGsz4DHZAZDL2DAU7ykt1kT0a7N2DcFXonFEd66gmpLlhy--VMUtIvP-BCb_vzTvHq5e-uwtV9ucDA92uYL9RrL6pB2XwpkaFrFZH2r9TRaqlTZdXmNvrWu_YqOI9LXO9po3VEw&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.investing.com › equities › lt-elevator-bo",
+   "favicon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAACwBQCdASocABwAPtEutFooIagoGAEAGglnAFMBJKPLo-fhgZ9TGBoZG5nDZ1b13gTIEZPOTSAA_sse9EwTbflHWb2gh3wvnjCfTWKsvtpwMus55pe_-1f8k2tfTvxOSkD4dyd1-M6NYVVxyGM2jwc7QaSI2-6wfcYI34WwMknzQ80Vkh7RUNCz5U-8qLPftf4Esv5lD7Ug36Rsay9a3allaxjvkhQxDBb5PQKWuKilV-NOSzBLerMucbPci90_-npP37g__FUn7jF16bwUSVmhZ5l3FtXfHj8EYU_pTwQx9xWDM_dr31IGAkBfxt7omOl279SDPuRmUv43YoGX0TTqYAAAAA.webp",
+   "snippet": "The LT Elevator Ltd stock price today is 328.65. LT Elevator is listed and trades on the Bombay Stock Exchange. 52-week range spans from 125.33 INR to 369.50 ...",
+   "snippet_highlighted_words": [
+    "LT Elevator",
+    "stock price",
+    "LT Elevator",
+    "Stock"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The LT Elevator Ltd stock price today is 328.65. LT Elevator is listed and trades on the Bombay Stock Exchange. 52-week range spans from 125.33 INR to 369.50 ...",
+     "source_info_link": "https://www.investing.com/equities/lt-elevator-bo",
+     "icon": "https://serpapi.com/images/i/UklGRhABAABXRUJQVlA4IAQBAACwBQCdASocABwAPtEutFooIagoGAEAGglnAFMBJKPLo-fhgZ9TGBoZG5nDZ1b13gTIEZPOTSAA_sse9EwTbflHWb2gh3wvnjCfTWKsvtpwMus55pe_-1f8k2tfTvxOSkD4dyd1-M6NYVVxyGM2jwc7QaSI2-6wfcYI34WwMknzQ80Vkh7RUNCz5U-8qLPftf4Esv5lD7Ug36Rsay9a3allaxjvkhQxDBb5PQKWuKilV-NOSzBLerMucbPci90_-npP37g__FUn7jF16bwUSVmhZ5l3FtXfHj8EYU_pTwQx9xWDM_dr31IGAkBfxt7omOl279SDPuRmUv43YoGX0TTqYAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVklNbG9Hc3o0REhaQVpETDJEQVU3eWt0MWtUMGE3TjJEY0ZYb25GRWQ2NmdtcExsaHktLVZNVXRJdlAtQkNiX3Z6VHZIcTVlLXV3dFY5dWNEQTkydVlMOVJyTDZwQjJYd3BrYUZyRlpIMnI5VFJhcWxUWmRYbU52cld1X1lxT0k5TFhPOXBvM1ZFdxIEGgIIABraBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2BQgAEAAYACAAKh4KAmx0FSZQnEAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFcdheT8aBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFQ46mj8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRVQY41AGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVklNbG9Hc3o0REhaQVpETDJEQVU3eWt0MWtUMGE3TjJEY0ZYb25GRWQ2NmdtcExsaHktLVZNVXRJdlAtQkNiX3Z6VHZIcTVlLXV3dFY5dWNEQTkydVlMOVJyTDZwQjJYd3BrYUZyRlpIMnI5VFJhcWxUWmRYbU52cld1X1lxT0k5TFhPOXBvM1ZFdzo_PGI-TFQgRWxldmF0b3I8L2I-IEx0ZCA8Yj5TdG9jayBQcmljZTwvYj4gVG9kYXkgfCBCTzogTFRFTCBMaXZlQsIBVGhlIDxiPkxUIEVsZXZhdG9yPC9iPiBMdGQgPGI-c3RvY2sgcHJpY2U8L2I-IHRvZGF5IGlzIDMyOC42NS4gPGI-TFQgRWxldmF0b3I8L2I-IGlzIGxpc3RlZCBhbmQgdHJhZGVzIG9uIHRoZSBCb21iYXkgPGI-U3RvY2s8L2I-IEV4Y2hhbmdlLiA1Mi13ZWVrIHJhbmdlIHNwYW5zIGZyb20gMTI1LjMzIElOUiB0byAzNjkuNTAmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVklNbG9Hc3o0REhaQVpETDJEQVU3eWt0MWtUMGE3TjJEY0ZYb25GRWQ2NmdtcExsaHktLVZNVXRJdlAtQkNiX3Z6VHZIcTVlLXV3dFY5dWNEQTkydVlMOVJyTDZwQjJYd3BrYUZyRlpIMnI5VFJhcWxUWmRYbU52cld1X1lxT0k5TFhPOXBvM1ZFdxIEGgIIABraBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2BQgAEAAYACAAKh4KAmx0FSZQnEAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFcdheT8aBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFQ46mj8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRVQY41AGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVklNbG9Hc3o0REhaQVpETDJEQVU3eWt0MWtUMGE3TjJEY0ZYb25GRWQ2NmdtcExsaHktLVZNVXRJdlAtQkNiX3Z6VHZIcTVlLXV3dFY5dWNEQTkydVlMOVJyTDZwQjJYd3BrYUZyRlpIMnI5VFJhcWxUWmRYbU52cld1X1lxT0k5TFhPOXBvM1ZFdzo_PGI-TFQgRWxldmF0b3I8L2I-IEx0ZCA8Yj5TdG9jayBQcmljZTwvYj4gVG9kYXkgfCBCTzogTFRFTCBMaXZlQsIBVGhlIDxiPkxUIEVsZXZhdG9yPC9iPiBMdGQgPGI-c3RvY2sgcHJpY2U8L2I-IHRvZGF5IGlzIDMyOC42NS4gPGI-TFQgRWxldmF0b3I8L2I-IGlzIGxpc3RlZCBhbmQgdHJhZGVzIG9uIHRoZSBCb21iYXkgPGI-U3RvY2s8L2I-IEV4Y2hhbmdlLiA1Mi13ZWVrIHJhbmdlIHNwYW5zIGZyb20gMTI1LjMzIElOUiB0byAzNjkuNTAmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Investing.com"
+  },
+  {
+   "position": 4,
+   "title": "LT Elevator Ltd. - - Company Brief",
+   "link": "https://indiaadvantage.co.in/company-profile/lt-elevator",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVj_msJp0jjMRM9UjAe9TuPt6D8DHvI31JJ6Wj8XxWFLiCY4Yh-xGXuclnG1aRuNES9lZ6Fc-W53B9q_c5vht17b-LhYhjSjvfncoMhlaDJjTFXkMMWv_pLsvuxghn8DzWQ_SHDKqRkN65RIxNLt4&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://indiaadvantage.co.in › company-profile › lt-elev...",
+   "favicon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAMs4E98jMIlYbKiiNBile3nCfiOX1W9xkD8AAP79KpAyhx77_xAjtWHmk1q73WY0M1DSibI05P7rVHmJEQTcgnKXA0aeZvMdtklXYiSZDuo02lB5CRdSCOpJ_11uUk6BhdYTIOD1WRBvmUu3iSMNWlY7nVj9BDp0f0dOtgUkVP4eRzOujLndBL105dtk2zJUkLlKKiMsuZ1Zsehl-ZhDHiIj8Fo9TECZr9MIAAA.webp",
+   "snippet": "290.90 on the BSE. The scrip opened at Rs. 305.40 and has touched a high and low of Rs. 305.40 and Rs. 305.40 respectively. So far 18400 shares were traded on ...",
+   "snippet_highlighted_words": [
+    "shares"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "290.90 on the BSE. The scrip opened at Rs. 305.40 and has touched a high and low of Rs. 305.40 and Rs. 305.40 respectively. So far 18400 shares were traded on ...",
+     "source_info_link": "https://indiaadvantage.co.in/company-profile/lt-elevator",
+     "icon": "https://serpapi.com/images/i/UklGRtIAAABXRUJQVlA4IMYAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAMs4E98jMIlYbKiiNBile3nCfiOX1W9xkD8AAP79KpAyhx77_xAjtWHmk1q73WY0M1DSibI05P7rVHmJEQTcgnKXA0aeZvMdtklXYiSZDuo02lB5CRdSCOpJ_11uUk6BhdYTIOD1WRBvmUu3iSMNWlY7nVj9BDp0f0dOtgUkVP4eRzOujLndBL105dtk2zJUkLlKKiMsuZ1Zsehl-ZhDHiIj8Fo9TECZr9MIAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmpfbXNKcDBqak1STTlVakFlOVR1UHQ2RDhESHZJMzFKSjZXajhYeFdGTGlDWTRZaC14R1h1Y2xuRzFhUnVORVM5bFo2RmMtVzUzQjlxX2M1dmh0MTdiLUxoWWhqU2p2Zm5jb01obGFESmpURlhrTU1Xdl9wTHN2dXhnaG44RHpXUV9TSERLcVJrTjY1Ukl4Tkx0NBIEGgIIABrLBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCnBQgAEAAYACAAKh4KAmx0FY2aM0AaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFQAAAAAaBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFS8inz8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRUoB3k_GgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmpfbXNKcDBqak1STTlVakFlOVR1UHQ2RDhESHZJMzFKSjZXajhYeFdGTGlDWTRZaC14R1h1Y2xuRzFhUnVORVM5bFo2RmMtVzUzQjlxX2M1dmh0MTdiLUxoWWhqU2p2Zm5jb01obGFESmpURlhrTU1Xdl9wTHN2dXhnaG44RHpXUV9TSERLcVJrTjY1Ukl4Tkx0NDo7PGI-TFQgRWxldmF0b3I8L2I-IEx0ZC4gLSAtIENvbXBhbnkgQnJpZWYgLSBJbmRpYSBBZHZhbnRhZ2VCrgEyOTAuOTAgb24gdGhlIEJTRS4gVGhlIHNjcmlwIG9wZW5lZCBhdCBScy4gMzA1LjQwIGFuZCBoYXMgdG91Y2hlZCBhIGhpZ2ggYW5kIGxvdyBvZiBScy4gMzA1LjQwIGFuZCBScy4gMzA1LjQwIHJlc3BlY3RpdmVseS4gU28gZmFyIDE4NDAwIDxiPnNoYXJlczwvYj4gd2VyZSB0cmFkZWQgb24mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmpfbXNKcDBqak1STTlVakFlOVR1UHQ2RDhESHZJMzFKSjZXajhYeFdGTGlDWTRZaC14R1h1Y2xuRzFhUnVORVM5bFo2RmMtVzUzQjlxX2M1dmh0MTdiLUxoWWhqU2p2Zm5jb01obGFESmpURlhrTU1Xdl9wTHN2dXhnaG44RHpXUV9TSERLcVJrTjY1Ukl4Tkx0NBIEGgIIABrLBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCnBQgAEAAYACAAKh4KAmx0FY2aM0AaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFQAAAAAaBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFS8inz8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRUoB3k_GgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVmpfbXNKcDBqak1STTlVakFlOVR1UHQ2RDhESHZJMzFKSjZXajhYeFdGTGlDWTRZaC14R1h1Y2xuRzFhUnVORVM5bFo2RmMtVzUzQjlxX2M1dmh0MTdiLUxoWWhqU2p2Zm5jb01obGFESmpURlhrTU1Xdl9wTHN2dXhnaG44RHpXUV9TSERLcVJrTjY1Ukl4Tkx0NDo7PGI-TFQgRWxldmF0b3I8L2I-IEx0ZC4gLSAtIENvbXBhbnkgQnJpZWYgLSBJbmRpYSBBZHZhbnRhZ2VCrgEyOTAuOTAgb24gdGhlIEJTRS4gVGhlIHNjcmlwIG9wZW5lZCBhdCBScy4gMzA1LjQwIGFuZCBoYXMgdG91Y2hlZCBhIGhpZ2ggYW5kIGxvdyBvZiBScy4gMzA1LjQwIGFuZCBScy4gMzA1LjQwIHJlc3BlY3RpdmVseS4gU28gZmFyIDE4NDAwIDxiPnNoYXJlczwvYj4gd2VyZSB0cmFkZWQgb24mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "India Advantage",
+   "read_more_link": "https://indiaadvantage.co.in/company-profile/lt-elevator#:~:text=L.T.%20Elevator%20to%20acquire%20DYPC"
+  },
+  {
+   "position": 5,
+   "title": "L. T. Elevator Ltd Share Price Today - LIVE NSE/BSE",
+   "link": "https://www.motilaloswal.com/share-market/l-t-elevator-ltd",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdQHrOzAV3lLTZDekebORyf4rEyFEQ8UAfWJ9OqiZzNAdIG0bpU9mFWviI7536KMRMLaCuGzwFY_NKlXRe6VGliTeZHtekn48BeTbZpYh7qT_-pQWAdUI2t3geHLpFlSmLRmHdwo2QYy1RjUH6XWqR1AQtcRRLA&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECD8QAQ&uoh=1",
+   "displayed_link": "https://www.motilaloswal.com › Share Market",
+   "favicon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0glcgG2A57OyQCIo_YnUK0rdOu2NgmpHqGYi39ic2SBnvwA35R94AA_v0vqVBFb2_Mn94s533sNJj59G7kcgMXOhJsnd_nuB_63CnlTMhl3fOjx8itsfnsjq3q_H4gZPwEbkUsGtNFf9_eCru_-GfoWRY_3KnqBeMqbbMOZjcNflUDLWIf-Fe0RX-Xt6o-iVv9aTFPxDpghtI3xGUCUKNlHGxQvXXLmQD58-i_2rRvropr-bgrKVm_Yenjx8ABIYLRLccTbR2ZEX40R8WxyJ1VE42QLX-_g8sn86AeX0JxQTRhkc3OH8k_SxGvOlSQvhK-xx0BsdlVUTNRVxmA4e6tf1TgagGxxTbBnJJqulTAvjOtX1tJztPQf_6ISDaOBdQaQy_Ti8goF-wyGnknfgwK02l0Iwd1B7c6Yg8IRRMue9nxmgl7WbHUfxmmqT-w8a7g9GAAAA.webp",
+   "snippet": "L. T. Elevator Ltd Share Price Today - Get LIVE NSE/BSE price details, Performance analysis, chart, shareholding pattern, technical analysis, financial and ...",
+   "snippet_highlighted_words": [
+    "L. T. Elevator Ltd Share Price Today"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "L. T. Elevator Ltd Share Price Today - Get LIVE NSE/BSE price details, Performance analysis, chart, shareholding pattern, technical analysis, financial and ...",
+     "source_info_link": "https://www.motilaloswal.com/share-market/l-t-elevator-ltd",
+     "icon": "https://serpapi.com/images/i/UklGRnwBAABXRUJQVlA4IHABAAAwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0glcgG2A57OyQCIo_YnUK0rdOu2NgmpHqGYi39ic2SBnvwA35R94AA_v0vqVBFb2_Mn94s533sNJj59G7kcgMXOhJsnd_nuB_63CnlTMhl3fOjx8itsfnsjq3q_H4gZPwEbkUsGtNFf9_eCru_-GfoWRY_3KnqBeMqbbMOZjcNflUDLWIf-Fe0RX-Xt6o-iVv9aTFPxDpghtI3xGUCUKNlHGxQvXXLmQD58-i_2rRvropr-bgrKVm_Yenjx8ABIYLRLccTbR2ZEX40R8WxyJ1VE42QLX-_g8sn86AeX0JxQTRhkc3OH8k_SxGvOlSQvhK-xx0BsdlVUTNRVxmA4e6tf1TgagGxxTbBnJJqulTAvjOtX1tJztPQf_6ISDaOBdQaQy_Ti8goF-wyGnknfgwK02l0Iwd1B7c6Yg8IRRMue9nxmgl7WbHUfxmmqT-w8a7g9GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNsTFRaRGVrZWJPUnlmNHJFeUZFUThVQWZXSjlPcWlaek5BZElHMGJwVTltRld2aUk3NTM2S01STUxhQ3VHendGWV9OS2xYUmU2VkdsaVRlWkh0ZWtuNDhCZVRiWnBZaDdxVF8tcFFXQWRVSTJ0M2dlSExwRmxTbUxSbUhkd28yUVl5MVJqVUg2WFdxUjFBUXRjUlJMQRIEGgIIABrRBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCtBQgAEAAYACAAKh4KAmx0FWJSiEAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFQAAAAAaBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFd2wkEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRXsce9AGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNsTFRaRGVrZWJPUnlmNHJFeUZFUThVQWZXSjlPcWlaek5BZElHMGJwVTltRld2aUk3NTM2S01STUxhQ3VHendGWV9OS2xYUmU2VkdsaVRlWkh0ZWtuNDhCZVRiWnBZaDdxVF8tcFFXQWRVSTJ0M2dlSExwRmxTbUxSbUhkd28yUVl5MVJqVUg2WFdxUjFBUXRjUlJMQTpBPGI-TC4gVC4gRWxldmF0b3I8L2I-IEx0ZCA8Yj5TaGFyZSBQcmljZTwvYj4gVG9kYXkgLSBMSVZFIE5TRS9CU0VCqwE8Yj5MLiBULiBFbGV2YXRvciBMdGQgU2hhcmUgUHJpY2UgVG9kYXk8L2I-IC0gR2V0IExJVkUgTlNFL0JTRSBwcmljZSBkZXRhaWxzLCBQZXJmb3JtYW5jZSBhbmFseXNpcywgY2hhcnQsIHNoYXJlaG9sZGluZyBwYXR0ZXJuLCB0ZWNobmljYWwgYW5hbHlzaXMsIGZpbmFuY2lhbCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNsTFRaRGVrZWJPUnlmNHJFeUZFUThVQWZXSjlPcWlaek5BZElHMGJwVTltRld2aUk3NTM2S01STUxhQ3VHendGWV9OS2xYUmU2VkdsaVRlWkh0ZWtuNDhCZVRiWnBZaDdxVF8tcFFXQWRVSTJ0M2dlSExwRmxTbUxSbUhkd28yUVl5MVJqVUg2WFdxUjFBUXRjUlJMQRIEGgIIABrRBRIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCtBQgAEAAYACAAKh4KAmx0FWJSiEAaCmxpZXV0ZW5hbnQaB2l2O3A7bHQqMgoJZWxldmF0b3JzFQAAAAAaBmEgbGlmdBoIZWxldmF0b3IaDml2O3A7ZWxldmF0b3JzKlAKBXNoYXJlFd2wkEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRXsce9AGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMqwBL2dvdG8_dXJsPUNBRVNkUUhyT3pBVjNsTFRaRGVrZWJPUnlmNHJFeUZFUThVQWZXSjlPcWlaek5BZElHMGJwVTltRld2aUk3NTM2S01STUxhQ3VHendGWV9OS2xYUmU2VkdsaVRlWkh0ZWtuNDhCZVRiWnBZaDdxVF8tcFFXQWRVSTJ0M2dlSExwRmxTbUxSbUhkd28yUVl5MVJqVUg2WFdxUjFBUXRjUlJMQTpBPGI-TC4gVC4gRWxldmF0b3I8L2I-IEx0ZCA8Yj5TaGFyZSBQcmljZTwvYj4gVG9kYXkgLSBMSVZFIE5TRS9CU0VCqwE8Yj5MLiBULiBFbGV2YXRvciBMdGQgU2hhcmUgUHJpY2UgVG9kYXk8L2I-IC0gR2V0IExJVkUgTlNFL0JTRSBwcmljZSBkZXRhaWxzLCBQZXJmb3JtYW5jZSBhbmFseXNpcywgY2hhcnQsIHNoYXJlaG9sZGluZyBwYXR0ZXJuLCB0ZWNobmljYWwgYW5hbHlzaXMsIGZpbmFuY2lhbCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Motilal Oswal"
+  },
+  {
+   "position": 6,
+   "title": "L T Elevator Ltd Live Stock Price , Ltelevator Live Share ...",
+   "link": "https://beta.bseindia.com/stock-share-price/l-t-elevator-ltd/ltelevator/544518/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFd1T7Ja7w4JBDdXgu-DO2TBtoHXpay7soMsbnppCxMNybDwm2f6iudIjVh5zJPelJypiEBkF7jhx_HrUhK6xW-ckgn1hcckoB0y9bg5_8tpAG9pZPzP3K0WbS-3uatixwbUSldUgQkDWlk20D_-FT-GdprC_vm6djqEmLce9teF79DJ-kEc&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://beta.bseindia.com › stock-share-price › ltelevator",
+   "snippet": "Ltelevator Live Share Price, 544518. Change % -1.99. Sales -- 1,442.82 0.07 0.03 PAT -- 94.06. Equity -- 192.61 5.19 3.00 Face Value 10.00 10.00 5.00 10.00",
+   "snippet_highlighted_words": [
+    "Share Price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Ltelevator Live Share Price, 544518. Change % -1.99. Sales -- 1,442.82 0.07 0.03 PAT -- 94.06. Equity -- 192.61 5.19 3.00 Face Value 10.00 10.00 5.00 10.00",
+     "source_info_link": "https://beta.bseindia.com/stock-share-price/l-t-elevator-ltd/ltelevator/544518/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkMVQ3SmE3dzRKQkRkWGd1LURPMlRCdG9IWHBheTdzb01zYm5wcEN4TU55YkR3bTJmNml1ZElqVmg1ekpQZWxKeXBpRUJrRjdqaHhfSHJVaEs2eFctY2tnbjFoY2Nrb0IweTliZzVfOHRwQUc5cFpQelAzSzBXYlMtM3VhdGl4d2JVU2xkVWdRa0RXbGsyMERfLUZULUdkcHJDX3ZtNmRqcUVtTGNlOXRlRjc5REota0VjEgQaAggAGvUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNEFCAAQABgAIAAqHgoCbHQVFDsBQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVAAAAABoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVoMpwQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFWzBqkAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmQxVDdKYTd3NEpCRGRYZ3UtRE8yVEJ0b0hYcGF5N3NvTXNibnBwQ3hNTnliRHdtMmY2aXVkSWpWaDV6SlBlbEp5cGlFQmtGN2poeF9IclVoSzZ4Vy1ja2duMWhjY2tvQjB5OWJnNV84dHBBRzlwWlB6UDNLMFdiUy0zdWF0aXh3YlVTbGRVZ1FrRFdsazIwRF8tRlQtR2RwckNfdm02ZGpxRW1MY2U5dGVGNzlESi1rRWM6UTxiPkwgVCBFbGV2YXRvcjwvYj4gTHRkIExpdmUgPGI-U3RvY2sgUHJpY2U8L2I-ICwgTHRlbGV2YXRvciBMaXZlIFNoYXJlIC4uLiAtIEJTRUKiAUx0ZWxldmF0b3IgTGl2ZSA8Yj5TaGFyZSBQcmljZTwvYj4sIDU0NDUxOC4gQ2hhbmdlICUgLTEuOTkuIFNhbGVzIC0tIDEsNDQyLjgyIDAuMDcgMC4wMyBQQVQgLS0gOTQuMDYuIEVxdWl0eSAtLSAxOTIuNjEgNS4xOSAzLjAwIEZhY2UgVmFsdWUgMTAuMDAgMTAuMDAgNS4wMCAxMC4wMCICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CskBL2dvdG8_dXJsPUNBRVNpZ0VCNnpzd0ZkMVQ3SmE3dzRKQkRkWGd1LURPMlRCdG9IWHBheTdzb01zYm5wcEN4TU55YkR3bTJmNml1ZElqVmg1ekpQZWxKeXBpRUJrRjdqaHhfSHJVaEs2eFctY2tnbjFoY2Nrb0IweTliZzVfOHRwQUc5cFpQelAzSzBXYlMtM3VhdGl4d2JVU2xkVWdRa0RXbGsyMERfLUZULUdkcHJDX3ZtNmRqcUVtTGNlOXRlRjc5REota0VjEgQaAggAGvUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNEFCAAQABgAIAAqHgoCbHQVFDsBQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVAAAAABoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVoMpwQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFWzBqkAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyyQEvZ290bz91cmw9Q0FFU2lnRUI2enN3RmQxVDdKYTd3NEpCRGRYZ3UtRE8yVEJ0b0hYcGF5N3NvTXNibnBwQ3hNTnliRHdtMmY2aXVkSWpWaDV6SlBlbEp5cGlFQmtGN2poeF9IclVoSzZ4Vy1ja2duMWhjY2tvQjB5OWJnNV84dHBBRzlwWlB6UDNLMFdiUy0zdWF0aXh3YlVTbGRVZ1FrRFdsazIwRF8tRlQtR2RwckNfdm02ZGpxRW1MY2U5dGVGNzlESi1rRWM6UTxiPkwgVCBFbGV2YXRvcjwvYj4gTHRkIExpdmUgPGI-U3RvY2sgUHJpY2U8L2I-ICwgTHRlbGV2YXRvciBMaXZlIFNoYXJlIC4uLiAtIEJTRUKiAUx0ZWxldmF0b3IgTGl2ZSA8Yj5TaGFyZSBQcmljZTwvYj4sIDU0NDUxOC4gQ2hhbmdlICUgLTEuOTkuIFNhbGVzIC0tIDEsNDQyLjgyIDAuMDcgMC4wMyBQQVQgLS0gOTQuMDYuIEVxdWl0eSAtLSAxOTIuNjEgNS4xOSAzLjAwIEZhY2UgVmFsdWUgMTAuMDAgMTAuMDAgNS4wMCAxMC4wMCICEAFIAFgAaAA",
+   "source": "BSE"
+  },
+  {
+   "position": 7,
+   "title": "L. T. Elevator Ltd Share Price History & Performance",
+   "link": "https://anandrathi.com/stocks/l-t-elevator-ltd/share-price-history",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVgB7ZMNH8Wkq5zISt8CEy7AqGxlGbga5Y3TncBnDMh1PLz51U0WOcGjf5aY0j31pTL_psG3hc5GMfkHrbbNfbcpiDMlcSCHSo_VZA-sMpAFClVdh5xSZVS5bAliJsES87yjMMOkIq9jDIQ9hmkakQGlXRaN3IVaj_&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECD4QAQ&uoh=1",
+   "displayed_link": "https://anandrathi.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAACQBQCdASocABwAPtE-tFooIigoFAEAGglkALsB1gOfKzpTjbMe_SGhBwZOgfjgM_xYK2J6gAD-2J2ip2-FlHVsW-d1XQv5wjTnEOST-wtDuK3yzSCKKbuR1wgS-7ZCGJXL-IunvAN6kyLtIPhcnNz0PEY0uesu-yFMOASEqGphO9kz8IwBqxFuw6jQRtZWeWJuuQwymYDAyRICqj7HFpcmzgfeVt7b0aUD6PzpClvctH9OC68GMBqgvZt90qhanzxqBTjdkh5zck3iAJkAAA.webp",
+   "snippet": "₹321.70 +6.30 (+2.00%) L. T. Elevator traded between a low of ₹315.40 and a high of ₹350.85.",
+   "snippet_highlighted_words": [
+    "₹321.70"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "₹321.70 +6.30 (+2.00%) L. T. Elevator traded between a low of ₹315.40 and a high of ₹350.85.",
+     "source_info_link": "https://anandrathi.com/stocks/l-t-elevator-ltd/share-price-history",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAACQBQCdASocABwAPtE-tFooIigoFAEAGglkALsB1gOfKzpTjbMe_SGhBwZOgfjgM_xYK2J6gAD-2J2ip2-FlHVsW-d1XQv5wjTnEOST-wtDuK3yzSCKKbuR1wgS-7ZCGJXL-IunvAN6kyLtIPhcnNz0PEY0uesu-yFMOASEqGphO9kz8IwBqxFuw6jQRtZWeWJuuQwymYDAyRICqj7HFpcmzgfeVt7b0aUD6PzpClvctH9OC68GMBqgvZt90qhanzxqBTjdkh5zck3iAJkAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCN1pNTkg4V2txNXpJU3Q4Q0V5N0FxR3hsR2JnYTVZM1RuY0JuRE1oMVBMejUxVTBXT2NHamY1YVkwajMxcFRMX3BzRzNoYzVHTWZrSHJiYk5mYmNwaURNbGNTQ0hTb19WWkEtc01wQUZDbFZkaDV4U1pWUzViQWxpSnNFUzg3eWpNTU9rSXE5akRJUTlobWtha1FHbFhSYU4zSVZhal8SBBoCCAAanQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA-QQIABAAGAAgACoeCgJsdBVeX2VAGgpsaWV1dGVuYW50GgdpdjtwO2x0KjIKCWVsZXZhdG9ycxUAAAAAGgZhIGxpZnQaCGVsZXZhdG9yGg5pdjtwO2VsZXZhdG9ycypQCgVzaGFyZRX29JVAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UqXQoFcHJpY2UVxtuiQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZnQjdaTU5IOFdrcTV6SVN0OENFeTdBcUd4bEdiZ2E1WTNUbmNCbkRNaDFQTHo1MVUwV09jR2pmNWFZMGozMXBUTF9wc0czaGM1R01ma0hyYmJOZmJjcGlETWxjU0NIU29fVlpBLXNNcEFGQ2xWZGg1eFNaVlM1YkFsaUpzRVM4N3lqTU1Pa0lxOWpESVE5aG1rYWtRR2xYUmFOM0lWYWpfOkY8Yj5MLiBULiBFbGV2YXRvcjwvYj4gTHRkIDxiPlNoYXJlIFByaWNlPC9iPiBIaXN0b3J5ICZhbXA7IFBlcmZvcm1hbmNlQmk8Yj7igrkzMjEuNzA8L2I-ICs2LjMwICgrMi4wMCUpIEwuIFQuIEVsZXZhdG9yIHRyYWRlZCBiZXR3ZWVuIGEgbG93IG9mIOKCuTMxNS40MCBhbmQgYSBoaWdoIG9mIOKCuTM1MC44NS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVmdCN1pNTkg4V2txNXpJU3Q4Q0V5N0FxR3hsR2JnYTVZM1RuY0JuRE1oMVBMejUxVTBXT2NHamY1YVkwajMxcFRMX3BzRzNoYzVHTWZrSHJiYk5mYmNwaURNbGNTQ0hTb19WWkEtc01wQUZDbFZkaDV4U1pWUzViQWxpSnNFUzg3eWpNTU9rSXE5akRJUTlobWtha1FHbFhSYU4zSVZhal8SBBoCCAAanQUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA-QQIABAAGAAgACoeCgJsdBVeX2VAGgpsaWV1dGVuYW50GgdpdjtwO2x0KjIKCWVsZXZhdG9ycxUAAAAAGgZhIGxpZnQaCGVsZXZhdG9yGg5pdjtwO2VsZXZhdG9ycypQCgVzaGFyZRX29JVAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UqXQoFcHJpY2UVxtuiQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZTK2AS9nb3RvP3VybD1DQUVTZlFIck96QVZnQjdaTU5IOFdrcTV6SVN0OENFeTdBcUd4bEdiZ2E1WTNUbmNCbkRNaDFQTHo1MVUwV09jR2pmNWFZMGozMXBUTF9wc0czaGM1R01ma0hyYmJOZmJjcGlETWxjU0NIU29fVlpBLXNNcEFGQ2xWZGg1eFNaVlM1YkFsaUpzRVM4N3lqTU1Pa0lxOWpESVE5aG1rYWtRR2xYUmFOM0lWYWpfOkY8Yj5MLiBULiBFbGV2YXRvcjwvYj4gTHRkIDxiPlNoYXJlIFByaWNlPC9iPiBIaXN0b3J5ICZhbXA7IFBlcmZvcm1hbmNlQmk8Yj7igrkzMjEuNzA8L2I-ICs2LjMwICgrMi4wMCUpIEwuIFQuIEVsZXZhdG9yIHRyYWRlZCBiZXR3ZWVuIGEgbG93IG9mIOKCuTMxNS40MCBhbmQgYSBoaWdoIG9mIOKCuTM1MC44NS4iAhABSABYAGgA",
+   "source": "Anand Rathi"
+  },
+  {
+   "position": 8,
+   "title": "Dream Debut! LT Elevator share price lists at ₹136.10 on ...",
+   "link": "https://www.livemint.com/market/stock-market-news/dream-debut-lt-elevator-share-price-lists-at-rs-136-10-on-bse-sme-a-premium-of-74-49-from-ipo-price-11758255454790.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAES5QEB6zswFcNkEC6JGoF0FJPNxlCRlISuIrWHZJv2bZRZe9Edt4U_jgz4ca__nmt190Mm6jY58-qCFcCGyTpRkpL7E4YNbNMp1uzBNk84BBFC78qQWNP8UG5q8z0LMcC_6iyBWbzsNHfx14SmbOVI9EQVjp1GpxrjYkDKk_DhrQXJz_K2LXHzQKGmreR0KBmuxxZOsLcn4kmrJjoJxKe5EJZlJqW7M2GM4NDinsKPG1QjLxf4C2jWgv05iYVvnYXdC6SLxp0h3JX0SMllDgU05dBX5B7pPpusT_AV1HpAjmyrl9bftWgC&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://www.livemint.com › Markets › Stock Markets",
+   "favicon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp",
+   "date": "19 Sept 2025",
+   "snippet": "LT Elevator shares debuted at ₹136.10 on BSE SME, a 74.49% premium over the issue price of ₹78.",
+   "snippet_highlighted_words": [
+    "LT Elevator shares debuted at ₹136.10"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "LT Elevator shares debuted at ₹136.10 on BSE SME, a 74.49% premium over the issue price of ₹78.",
+     "source_info_link": "https://www.livemint.com/market/stock-market-news/dream-debut-lt-elevator-share-price-lists-at-rs-136-10-on-bse-sme-a-premium-of-74-49-from-ipo-price-11758255454790.html",
+     "icon": "https://serpapi.com/images/i/UklGRvwAAABXRUJQVlA4IPAAAADwBQCdASocABwAPtEutFooIagoGAEAGglsAJ0vd_nN6GxAt_8B6IEr5Sa3OnZh3gObpTQY9ojIUAD-kqv0KFfJdZC2Z-5KaKLQeVwl0qFmm66U2or_4tCYT2WQHIIm_CMv-G0m-zrnNQQuvrPn68PyAvSiX9BUhBh6eMFt0wPCpHtTtrrr3Y8tYwWsdLOz_By74Fp_uf-Pvr3_g3J6gcEvN9VaQPkp_rnp53JmtE1Cxef4RuhJ1IDkC4MivffCdKl3y1kKmten5wTgtvpuP7pNh87u0Uv4O1c21B-8tb98gUOXFGjg1UBb7rFkuMpYAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsICL2dvdG8_dXJsPUNBRVM1UUVCNnpzd0ZjTmtFQzZKR29GMEZKUE54bENSbElTdUlyV0haSnYyYlpSWmU5RWR0NFVfamd6NGNhX19ubXQxOTBNbTZqWTU4LXFDRmNDR3lUcFJrcEw3RTRZTmJOTXAxdXpCTms4NEJCRkM3OHFRV05QOFVHNXE4ejBMTWNDXzZpeUJXYnpzTkhmeDE0U21iT1ZJOUVRVmpwMUdweHJqWWtES2tfRGhyUVhKel9LMkxYSHpRS0dtcmVSMEtCbXV4eFpPc0xjbjRrbXJKam9KeEtlNUVKWmxKcVc3TTJHTTRORGluc0tQRzFRakx4ZjRDMmpXZ3YwNWlZVnZuWVhkQzZTTHhwMGgzSlgwU01sbERnVTA1ZEJYNUI3cFBwdXNUX0FWMUhwQWpteXJsOWJmdFdnQxIEGgIIABqvBhICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIkGCAAQABgAIAAqHgoCbHQVkOvbQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVAAAAABoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVCPvTQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFYpl-UAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UywgIvZ290bz91cmw9Q0FFUzVRRUI2enN3RmNOa0VDNkpHb0YwRkpQTnhsQ1JsSVN1SXJXSFpKdjJiWlJaZTlFZHQ0VV9qZ3o0Y2FfX25tdDE5ME1tNmpZNTgtcUNGY0NHeVRwUmtwTDdFNFlOYk5NcDF1ekJOazg0QkJGQzc4cVFXTlA4VUc1cTh6MExNY0NfNml5QldienNOSGZ4MTRTbWJPVkk5RVFWanAxR3B4cmpZa0RLa19EaHJRWEp6X0syTFhIelFLR21yZVIwS0JtdXh4Wk9zTGNuNGttckpqb0p4S2U1RUpabEpxVzdNMkdNNE5EaW5zS1BHMVFqTHhmNEMyaldndjA1aVlWdm5ZWGRDNlNMeHAwaDNKWDBTTWxsRGdVMDVkQlg1QjdwUHB1c1RfQVYxSHBBam15cmw5YmZ0V2dDOklEcmVhbSBEZWJ1dCEgPGI-TFQgRWxldmF0b3Igc2hhcmUgcHJpY2U8L2I-IGxpc3RzIGF0IOKCuTEzNi4xMCAuLi4gLSBNaW50Qmo8Yj5MVCBFbGV2YXRvciBzaGFyZXMgZGVidXRlZCBhdCDigrkxMzYuMTA8L2I-IG9uIEJTRSBTTUUsIGEgNzQuNDklIHByZW1pdW0gb3ZlciB0aGUgaXNzdWUgcHJpY2Ugb2Yg4oK5NzguIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsICL2dvdG8_dXJsPUNBRVM1UUVCNnpzd0ZjTmtFQzZKR29GMEZKUE54bENSbElTdUlyV0haSnYyYlpSWmU5RWR0NFVfamd6NGNhX19ubXQxOTBNbTZqWTU4LXFDRmNDR3lUcFJrcEw3RTRZTmJOTXAxdXpCTms4NEJCRkM3OHFRV05QOFVHNXE4ejBMTWNDXzZpeUJXYnpzTkhmeDE0U21iT1ZJOUVRVmpwMUdweHJqWWtES2tfRGhyUVhKel9LMkxYSHpRS0dtcmVSMEtCbXV4eFpPc0xjbjRrbXJKam9KeEtlNUVKWmxKcVc3TTJHTTRORGluc0tQRzFRakx4ZjRDMmpXZ3YwNWlZVnZuWVhkQzZTTHhwMGgzSlgwU01sbERnVTA1ZEJYNUI3cFBwdXNUX0FWMUhwQWpteXJsOWJmdFdnQxIEGgIIABqvBhICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQIkGCAAQABgAIAAqHgoCbHQVkOvbQBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVAAAAABoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVCPvTQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFYpl-UAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UywgIvZ290bz91cmw9Q0FFUzVRRUI2enN3RmNOa0VDNkpHb0YwRkpQTnhsQ1JsSVN1SXJXSFpKdjJiWlJaZTlFZHQ0VV9qZ3o0Y2FfX25tdDE5ME1tNmpZNTgtcUNGY0NHeVRwUmtwTDdFNFlOYk5NcDF1ekJOazg0QkJGQzc4cVFXTlA4VUc1cTh6MExNY0NfNml5QldienNOSGZ4MTRTbWJPVkk5RVFWanAxR3B4cmpZa0RLa19EaHJRWEp6X0syTFhIelFLR21yZVIwS0JtdXh4Wk9zTGNuNGttckpqb0p4S2U1RUpabEpxVzdNMkdNNE5EaW5zS1BHMVFqTHhmNEMyaldndjA1aVlWdm5ZWGRDNlNMeHAwaDNKWDBTTWxsRGdVMDVkQlg1QjdwUHB1c1RfQVYxSHBBam15cmw5YmZ0V2dDOklEcmVhbSBEZWJ1dCEgPGI-TFQgRWxldmF0b3Igc2hhcmUgcHJpY2U8L2I-IGxpc3RzIGF0IOKCuTEzNi4xMCAuLi4gLSBNaW50Qmo8Yj5MVCBFbGV2YXRvciBzaGFyZXMgZGVidXRlZCBhdCDigrkxMzYuMTA8L2I-IG9uIEJTRSBTTUUsIGEgNzQuNDklIHByZW1pdW0gb3ZlciB0aGUgaXNzdWUgcHJpY2Ugb2Yg4oK5NzguIgIQAUgAWABoAA",
+   "source": "Livemint"
+  },
+  {
+   "position": 9,
+   "title": "L. T. Elevator Ltd IPO Date, Price Band, Lot Size, ...",
+   "link": "https://www.mstock.com/ipo/l.-t.-elevator-ltd/ipo1040",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVhB-UuBatxk_Yv5x-ISQ_0v2M978-b0pvHeAPI_Na9yM7lE6cG8h1TzGAUsYX1fvLv8HagCu1ZaGzw_dspWGyXlcXb973DQA-7ktqmfrPgOwjVD4kNpQtvaA8WXl-SRjRoxZtC_Cblznu6r8&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQFnoECEAQAQ&uoh=1",
+   "displayed_link": "https://www.mstock.com › Investment Products › IPO",
+   "favicon": "https://serpapi.com/images/i/UklGRpAAAABXRUJQVlA4IIQAAACQAgCdASoQABAAAsBMJZQCxC8AGZb2MAiUv162AAD-5v7_ln9dNMFoO09q_zXLp1tf-_9_mfDbRp8QuyO55-plm4Q3FNOtG0TyaRUjbZfiTKUB4VS_SLLWK7AuA0NNMKZDRzyYLN91DF9eREAh2dQMlqSFjnwOkD9SkMP9cxvydVDUAAA.webp",
+   "snippet": "IPO L. T. Elevator Ltd IPO · Price Range. ₹76 - ₹78 · Min. Quantity. 3,200 Shares · Closes on. September 16, 2025 · Min. investment. ₹2,49,600 ...",
+   "snippet_highlighted_words": [
+    "Price Range. ₹76 - ₹78"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "IPO L. T. Elevator Ltd IPO · Price Range. ₹76 - ₹78 · Min. Quantity. 3,200 Shares · Closes on. September 16, 2025 · Min. investment. ₹2,49,600 ...",
+     "source_info_link": "https://www.mstock.com/ipo/l.-t.-elevator-ltd/ipo1040",
+     "icon": "https://serpapi.com/images/i/UklGRpAAAABXRUJQVlA4IIQAAACQAgCdASoQABAAAsBMJZQCxC8AGZb2MAiUv162AAD-5v7_ln9dNMFoO09q_zXLp1tf-_9_mfDbRp8QuyO55-plm4Q3FNOtG0TyaRUjbZfiTKUB4VS_SLLWK7AuA0NNMKZDRzyYLN91DF9eREAh2dQMlqSFjnwOkD9SkMP9cxvydVDUAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmhCLVV1QmF0eGtfWXY1eC1JU1FfMHYyTTk3OC1iMHB2SGVBUElfTmE5eU03bEU2Y0c4aDFUekdBVXNZWDFmdkx2OEhhZ0N1MVphR3p3X2RzcFdHeVhsY1hiOTczRFFBLTdrdHFtZnJQZ093alZENGtOcFF0dmFBOFdYbC1TUmpSb3hadENfQ2Jsem51NnI4EgQaAggAGvIFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQM4FCAAQABgAIAAqHgoCbHQVYJ65QBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVHawAPxoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVpoO0PxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFT2kcUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWaEItVXVCYXR4a19ZdjV4LUlTUV8wdjJNOTc4LWIwcHZIZUFQSV9OYTl5TTdsRTZjRzhoMVR6R0FVc1lYMWZ2THY4SGFnQ3UxWmFHendfZHNwV0d5WGxjWGI5NzNEUUEtN2t0cW1mclBnT3dqVkQ0a05wUXR2YUE4V1hsLVNSalJveFp0Q19DYmx6bnU2cjg6VDxiPkwuIFQuIEVsZXZhdG9yPC9iPiBMdGQgSVBPIERhdGUsIDxiPlByaWNlPC9iPiBCYW5kLCBMb3QgU2l6ZSAuLi4gLSBtLjxiPlN0b2NrPC9iPkLAAUlQTyBMLiBULiBFbGV2YXRvciBMdGQgSVBPICZtaWRkb3Q7IDxiPlByaWNlIFJhbmdlLiDigrk3NiAtIOKCuTc4PC9iPiAmbWlkZG90OyBNaW4uIFF1YW50aXR5LiAzLDIwMCBTaGFyZXMgJm1pZGRvdDsgQ2xvc2VzIG9uLiBTZXB0ZW1iZXIgMTYsIDIwMjUgJm1pZGRvdDsgTWluLiBpbnZlc3RtZW50LiDigrkyLDQ5LDYwMCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmhCLVV1QmF0eGtfWXY1eC1JU1FfMHYyTTk3OC1iMHB2SGVBUElfTmE5eU03bEU2Y0c4aDFUekdBVXNZWDFmdkx2OEhhZ0N1MVphR3p3X2RzcFdHeVhsY1hiOTczRFFBLTdrdHFtZnJQZ093alZENGtOcFF0dmFBOFdYbC1TUmpSb3hadENfQ2Jsem51NnI4EgQaAggAGvIFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQM4FCAAQABgAIAAqHgoCbHQVYJ65QBoKbGlldXRlbmFudBoHaXY7cDtsdCoyCgllbGV2YXRvcnMVHawAPxoGYSBsaWZ0GghlbGV2YXRvchoOaXY7cDtlbGV2YXRvcnMqUAoFc2hhcmUVpoO0PxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFT2kcUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWaEItVXVCYXR4a19ZdjV4LUlTUV8wdjJNOTc4LWIwcHZIZUFQSV9OYTl5TTdsRTZjRzhoMVR6R0FVc1lYMWZ2THY4SGFnQ3UxWmFHendfZHNwV0d5WGxjWGI5NzNEUUEtN2t0cW1mclBnT3dqVkQ0a05wUXR2YUE4V1hsLVNSalJveFp0Q19DYmx6bnU2cjg6VDxiPkwuIFQuIEVsZXZhdG9yPC9iPiBMdGQgSVBPIERhdGUsIDxiPlByaWNlPC9iPiBCYW5kLCBMb3QgU2l6ZSAuLi4gLSBtLjxiPlN0b2NrPC9iPkLAAUlQTyBMLiBULiBFbGV2YXRvciBMdGQgSVBPICZtaWRkb3Q7IDxiPlByaWNlIFJhbmdlLiDigrk3NiAtIOKCuTc4PC9iPiAmbWlkZG90OyBNaW4uIFF1YW50aXR5LiAzLDIwMCBTaGFyZXMgJm1pZGRvdDsgQ2xvc2VzIG9uLiBTZXB0ZW1iZXIgMTYsIDIwMjUgJm1pZGRvdDsgTWluLiBpbnZlc3RtZW50LiDigrkyLDQ5LDYwMCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "m.Stock",
+   "read_more_link": "https://www.mstock.com/ipo/l.-t.-elevator-ltd/ipo1040#:~:text=L.%20T.%20Elevator%20Ltd%20IPO&text=Price%20Range,%E2%82%B976%20%2D%20%E2%82%B978&text=Min.%20Quantity,3%2C200%20Shares&text=Closes%20on,September%2016%2C%202025&text=Min.%20investment,%E2%82%B92%2C49%2C600"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Airfloa Rail Technology IPO listing price",
+   "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=Airfloa+Rail+Technology+IPO+listing+price&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Airfloa+Rail+Technology+IPO+listing+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Groww price band",
+   "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=Groww+price+band&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ1QJ6BAhDEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Groww+price+band"
+  },
+  {
+   "block_position": 1,
+   "query": "Urban company unlisted shares",
+   "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=Urban+company+unlisted+shares&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Urban+company+unlisted+shares"
+  },
+  {
+   "block_position": 1,
+   "query": "Railway IPO",
+   "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=Railway+IPO&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Railway+IPO"
+  },
+  {
+   "block_position": 1,
+   "query": "Urban Company IPO listing",
+   "link": "https://www.google.com/search?sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&q=Urban+Company+IPO+listing&sa=X&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Urban+Company+IPO+listing"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=10&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8NMDegQIVhAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=10&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAE",
+   "3": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=20&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAG",
+   "4": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=30&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAI",
+   "5": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=40&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAK",
+   "6": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=50&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAM",
+   "7": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=60&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAO",
+   "8": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=70&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAQ",
+   "9": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=80&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAS",
+   "10": "https://www.google.com/search?q=LT+Elevators+share+price&sca_esv=6afa7192b3504ec0&hl=en&gl=in&sxsrf=APpeQnsbsJeyne8y3kSiAaT7RZZf1NspjQ:1791393887081&ei=X4DGapvRBMfakPIP4rSQuAs&start=90&sa=N&sstk=AS6-VmK5IcE4xm3sHTniAX6SU3UvGqrlpFelDBrxK6UAHKaN5dRzsNfngOrhevxvNlgRscmSHw-rCN3dx79HCJUM6yOwnwILRswrtQ&ved=2ahUKEwjb_KqitqiXAxVHLUQIHWIaBLcQ8tMDegQIVhAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=LT+Elevators+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-07T17:24:46"
+}

@@ -1,0 +1,32 @@
+{
+ "calls": [
+  {
+   "company": "Bajaj Finance",
+   "symbol_guess": "BAJAJFINSV",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एक्विजिशन वो डेफिनेटली Bajaj Finance के लिए यहां पे कैसे हेल्प करेगा",
+   "start_s": 1214,
+   "line": "सिक्योरिटी क्वांटम टेक्नोलॉजी फinटेक एंड कंज्यूमर टेक्नोलॉजी ये सबके लिए तो जो ट्रू फैन का इन्होंने जो किया है",
+   "evidence": [
+    {
+     "text": "Bajaj Finance",
+     "where": "transcript",
+     "start_s": 1222
+    },
+    {
+     "text": "हेल्प करेगा",
+     "where": "transcript",
+     "start_s": 1222
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Finance in the context of an acquisition helping the company, but does not explicitly advise buying or selling, so it is treated as a watch."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 4,
+ "llm_failed_chunks": 0
+}

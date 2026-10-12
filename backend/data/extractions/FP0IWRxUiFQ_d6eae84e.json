@@ -1,0 +1,21 @@
+{
+ "calls": [
+  {
+   "company": "Sadhana Broadcast Limited",
+   "symbol_guess": "SADHBROAD",
+   "direction": "avoid",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्टॉक का रिजल्ट कितना ही क्यों अच्छा हो जाए हमें बाय नहीं बनानी है",
+   "start_s": 119,
+   "line": "बेसिस पे नंबर 135 करोड़ का अच्छा खास मुनाफा देखने को मिला है बट अगर हम बात करें स्टॉक में कंटीन्यूअस ग्रामर बने हुए सो इस टाइम पर आपको बाय नहीं करनी है",
+   "evidence": [],
+   "reason": "The speaker explicitly advises not to buy the stock despite good results, indicating an avoid recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

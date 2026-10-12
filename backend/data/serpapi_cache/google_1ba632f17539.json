@@ -1,0 +1,356 @@
+{
+ "search_metadata": {
+  "id": "6ac9f76c3d40b66bd06993d5",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/DbFl23_pIJ88UTAtqWIgQNx0jUqZ8lRGCiRl5AV48iM/6ac9f76c3d40b66bd06993d5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/DbFl23_pIJ88UTAtqWIgQNx0jUqZ8lRGCiRl5AV48iM/6ac9f76c3d40b66bd06993d5.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/DbFl23_pIJ88UTAtqWIgQNx0jUqZ8lRGCiRl5AV48iM/6ac9f76c3d40b66bd06993d5.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:32 UTC",
+  "processed_at": "2026-10-10 08:29:32 UTC",
+  "google_url": "https://www.google.com/search?q=Meta+Platforms+Inc.+share+price&oq=Meta+Platforms+Inc.+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/DbFl23_pIJ88UTAtqWIgQNx0jUqZ8lRGCiRl5AV48iM/6ac9f76c3d40b66bd06993d5.html",
+  "total_time_taken": 0.55
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Meta Platforms Inc. share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Meta Platforms Inc. share price",
+  "total_results": 3620000000,
+  "time_taken_displayed": 0.43,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "related_questions": [
+  {
+   "question": "What does INC-5.2 stand for?",
+   "type": "ai_overview",
+   "page_token": "MokofXicHdDbToMwGADg-DK7lJOdZsliwgA7AkwKf4HeGChjbC2HSCdjd76LT-XTmPg9wvf9I8-9-H3IWqXGaaNp8zw_nobhJI-PfOi0clp6rvFSyqrkYrN-XhuvDd-602TvhtmOYRypQ_TEqosS1DrIGSO5naTYKxJdYZIWipneGzcHRXt7V2NqkAtFmeR6eDb0GFhJL-01FTd0BLnEHb0mLs3ovRYVjjAxQwMyZKcuEhke3zmlZQXoRlKviLwB8bxtQLC56sEs7wQAs4B5vmDwguBC2IGOS6gbKtZrDJ2_MOkdUllYKeaJ1_kxE2PLcxYQh14rhx4qw2443J5ScMu98Fxu7RGTvs9gdCId5RHUQWxSWUG7z1zakLztQ8nOFbirhn9trdV_2Paj6dRm_BxOf65XeBw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=MokofXicHdDbToMwGADg-DK7lJOdZsliwgA7AkwKf4HeGChjbC2HSCdjd76LT-XTmPg9wvf9I8-9-H3IWqXGaaNp8zw_nobhJI-PfOi0clp6rvFSyqrkYrN-XhuvDd-602TvhtmOYRypQ_TEqosS1DrIGSO5naTYKxJdYZIWipneGzcHRXt7V2NqkAtFmeR6eDb0GFhJL-01FTd0BLnEHb0mLs3ovRYVjjAxQwMyZKcuEhke3zmlZQXoRlKviLwB8bxtQLC56sEs7wQAs4B5vmDwguBC2IGOS6gbKtZrDJ2_MOkdUllYKeaJ1_kxE2PLcxYQh14rhx4qw2443J5ScMu98Fxu7RGTvs9gdCId5RHUQWxSWUG7z1zakLztQ8nOFbirhn9trdV_2Paj6dRm_BxOf65XeBw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFZrbDFTSFZXV0Y5dWJETjRORmswY1VKSmNEUTRSSGR3TlZsS2JGVlRjMnRWZVhjd2VXcE5aMVIwZDFOV1QwcDNjbWxmWTA1Rk9XcE1NbXhoWHpnNWRXVkhkVEJhU1dGTlYwOUhXR1J2TVRndE1sRndiRTlpVFc0eVp4SVdZbEJtU21GeGRrdEVOVzVzTlU1dlVGOXhUSGhOUVJvaVFVUnpjamxtVVZsYU1XdHhURTVLY21zMWEwOWZXV3hLZFhwUU5HSnhZek5IWnciLCJmY3YiOiIzIiwiZWkiOiJiUGZKYXF2S0Q1bmw1Tm9QX3FMeE1BIiwicWMiOiJDaDV0WlhSaElIQnNZWFJtYjNKdGN5QnBibU1nYzJoaGNtVWdjSEpwWTJVUUFIMi1oVmtfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgSU5DLTUuMiBzdGFuZCBmb3I/IiwibGsiOiJHaEZwYm1NZ05TNHlJR1oxYkd3Z1ptOXliUSIsImJzIjoiYy1NeTVwSUp6MGdzVVVqSlR5MVc4UFJ6MWpYVk0xSW9Ma25NUzFGSXl5LXlOeEtXRXN6TVMxWUFpYWFWNXVTQUJITUZHQUUiLCJpZCI6ImZjX2JQZkphcXZLRDVubDVOb1BfcUx4TUFfMSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTFZrbDFTSFZXV0Y5dWJETjRORmswY1VKSmNEUTRSSGR3TlZsS2JGVlRjMnRWZVhjd2VXcE5aMVIwZDFOV1QwcDNjbWxmWTA1Rk9XcE1NbXhoWHpnNWRXVkhkVEJhU1dGTlYwOUhXR1J2TVRndE1sRndiRTlpVFc0eVp4SVdZbEJtU21GeGRrdEVOVzVzTlU1dlVGOXhUSGhOUVJvaVFVUnpjamxtVVZsYU1XdHhURTVLY21zMWEwOWZXV3hLZFhwUU5HSnhZek5IWnciLCJmY3YiOiIzIiwiZWkiOiJiUGZKYXF2S0Q1bmw1Tm9QX3FMeE1BIiwicWMiOiJDaDV0WlhSaElIQnNZWFJtYjNKdGN5QnBibU1nYzJoaGNtVWdjSEpwWTJVUUFIMi1oVmtfIiwicXVlc3Rpb24iOiJXaGF0IGRvZXMgSU5DLTUuMiBzdGFuZCBmb3I%2FIiwibGsiOiJHaEZwYm1NZ05TNHlJR1oxYkd3Z1ptOXliUSIsImJzIjoiYy1NeTVwSUp6MGdzVVVqSlR5MVc4UFJ6MWpYVk0xSW9Ma25NUzFGSXl5LXlOeEtXRXN6TVMxWUFpYWFWNXVTQUJITUZHQUUiLCJpZCI6ImZjX2JQZkphcXZLRDVubDVOb1BfcUx4TUFfMSJ9"
+  }
+ ],
+ "ai_overview": {
+  "page_token": "ecQ3y3iczVXbcqJIGH6AfY7hJomgxJikiprqJiCoqG1iEnNDIWCDclAwArmbd9nH2CfZp9nmFCFRJzMXU9uWNN3993_--H787dje6t-__rG223V4S9NRFDWw72PHbOi-S2th4un0wnfCQLe-Y4ezPcpyONOjQv810E3b4HQr8F2TSnYcS-khx1Cmzc3Hi5622fXv2p7THvpjdTOIFUBl2jh1roXmkhiLlyGt0uSx-sbekUUjbJie2oUNASnqW2B2e1ButJgW2xjRmktkwB8cWACIPMnbCggnxAD8kjpZBoBHQH7fQHxx8L5DNlB6QH6CnK_xcWW5d8TLwgF1KbndCIBhKXPCGaGiNwKFLaBk4QA0-VJA-5Er88vl6XwcjKi4Mt0LVTN-NBJZqa0AjxUwJgEUNvgP0nlWaxajTEyKRgocCRN00nMgIiApmEf2aTEyfF6-hqW2bkRKgmgDkwZm6HlApiZt65aevQRh2tf8ww3ji6Lg2tFNx1Ws_kYUrJVy4XYlFrC9UUTrcyLn-JphGqqlMt-zdbPVbDM3bOf6PMOUHr6DKqyC6rEbCK3nK-lZwY1BAzZLOJEE7fNcLwwE_qFK8ekF-VNqy0H68lAOIV9p-8JkJpmk-5VS80smd6XYk0nCAYyEmlK59BB8hpNQEykMoqI5Mc4OcBFJRSP5sOxtwNrZ6HM0n_tREWCumOf5XE_RmRiADxmxwKQadK2DU_cQsMV09okfEZxmfXpZXkhvDiFxVf74RYJp7q0irBKBZQXtSo6hmNaDnEFhRZb3FkL8pLiTOSa8F4iHNd_5I1WHqbLZT7BzdPS_JCWXuPkAgyp8pJfJK-NupvaaT5AobaE6g8lOncj3y-gwXHx3_mskpP-_MFVSFCoo6iim4JcwJcvwEEUJxWnu656iUkzxGOMjmBrkmCopKj0rKWpctZpH8wlTQrjHVIIyilKOUdQvYwqexFRZpEOYmh7GlHwMUxlFVTFlKahGUbWqv1NUBVO_QVH936WoDGJmPtX56nWJj_KW9LKKx8P2Sz98mO78h-lY86S2KPRHkYt_ylsLd3vraoZzrtrGLWz1tolxrpIN_9Y0qA2nmFvtbOxo24UfuOGZ7OmNs9DSAvNsHdi6SblO4HOM1mktmvfMMhZ3-tU6WW0n8cX40bIGw9ZyNI03ntGOk3juDjUsPLOMI3a3UBg_xomvSZed4CpkZ27nORpOer3rIYuY5qvs-cmMH156L9drdve0YBU0WLUvZlfilBFx555dIPXteXdhxG-zibEWYmfNPk4Ta2FqAYIo8yvkxkK3Z_fX0VOH7AQ6R4p96YEeAk8AaASEoIch-QKSP5kHZB745JsrzQC6S1FNhbqmmuGOa7WZjqlp7GLR6bQ0vUW5eJusuRuGCr2Aa_4HTC1U0w",
+  "serpapi_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ecQ3y3iczVXbcqJIGH6AfY7hJomgxJikiprqJiCoqG1iEnNDIWCDclAwArmbd9nH2CfZp9nmFCFRJzMXU9uWNN3993_--H787dje6t-__rG223V4S9NRFDWw72PHbOi-S2th4un0wnfCQLe-Y4ezPcpyONOjQv810E3b4HQr8F2TSnYcS-khx1Cmzc3Hi5622fXv2p7THvpjdTOIFUBl2jh1roXmkhiLlyGt0uSx-sbekUUjbJie2oUNASnqW2B2e1ButJgW2xjRmktkwB8cWACIPMnbCggnxAD8kjpZBoBHQH7fQHxx8L5DNlB6QH6CnK_xcWW5d8TLwgF1KbndCIBhKXPCGaGiNwKFLaBk4QA0-VJA-5Er88vl6XwcjKi4Mt0LVTN-NBJZqa0AjxUwJgEUNvgP0nlWaxajTEyKRgocCRN00nMgIiApmEf2aTEyfF6-hqW2bkRKgmgDkwZm6HlApiZt65aevQRh2tf8ww3ji6Lg2tFNx1Ws_kYUrJVy4XYlFrC9UUTrcyLn-JphGqqlMt-zdbPVbDM3bOf6PMOUHr6DKqyC6rEbCK3nK-lZwY1BAzZLOJEE7fNcLwwE_qFK8ekF-VNqy0H68lAOIV9p-8JkJpmk-5VS80smd6XYk0nCAYyEmlK59BB8hpNQEykMoqI5Mc4OcBFJRSP5sOxtwNrZ6HM0n_tREWCumOf5XE_RmRiADxmxwKQadK2DU_cQsMV09okfEZxmfXpZXkhvDiFxVf74RYJp7q0irBKBZQXtSo6hmNaDnEFhRZb3FkL8pLiTOSa8F4iHNd_5I1WHqbLZT7BzdPS_JCWXuPkAgyp8pJfJK-NupvaaT5AobaE6g8lOncj3y-gwXHx3_mskpP-_MFVSFCoo6iim4JcwJcvwEEUJxWnu656iUkzxGOMjmBrkmCopKj0rKWpctZpH8wlTQrjHVIIyilKOUdQvYwqexFRZpEOYmh7GlHwMUxlFVTFlKahGUbWqv1NUBVO_QVH936WoDGJmPtX56nWJj_KW9LKKx8P2Sz98mO78h-lY86S2KPRHkYt_ylsLd3vraoZzrtrGLWz1tolxrpIN_9Y0qA2nmFvtbOxo24UfuOGZ7OmNs9DSAvNsHdi6SblO4HOM1mktmvfMMhZ3-tU6WW0n8cX40bIGw9ZyNI03ntGOk3juDjUsPLOMI3a3UBg_xomvSZed4CpkZ27nORpOer3rIYuY5qvs-cmMH156L9drdve0YBU0WLUvZlfilBFx555dIPXteXdhxG-zibEWYmfNPk4Ta2FqAYIo8yvkxkK3Z_fX0VOH7AQ6R4p96YEeAk8AaASEoIch-QKSP5kHZB745JsrzQC6S1FNhbqmmuGOa7WZjqlp7GLR6bQ0vUW5eJusuRuGCr2Aa_4HTC1U0w"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Inc. | Tech and Business News for Entrepreneurs and Leaders",
+   "link": "https://www.inc.com/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTwHrOzAVzxegbMWPd6RCOnzI9krEOY-BgEkZJ-F9bBvOBBbDE1UpjHx1rVWTOgZfR34fEGnrIZYI-cNjuT3bHrH4PoGaeWeE9eiJ4ReEpA8&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.inc.com",
+   "favicon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADQBACdASocABwAPtE-tFooIigoFAEAGglpAAQ97xuJgAdmt7mf16EvqEIjD22QAAD-93ID8Pz_EuALZXeHcDfRDca6PcYfi2f76KUnXgY_btPZzA4xGVkN_SX1qXvP3_4abcHxXdUjR0zj4qtmtIP9mGYrP_-LB3AXxWwvGPtUc89UW2Lqeb14rZ_wtWkXr_Kzks4ack7o52YAAAA.webp",
+   "snippet": "Inc. media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.",
+   "snippet_highlighted_words": [
+    "Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Inc. media is the entrepreneurs source for ideas, resources and advice on how to successfully start, run and grow your business.",
+     "source_info_link": "https://www.inc.com/",
+     "icon": "https://serpapi.com/images/i/UklGRqgAAABXRUJQVlA4IJwAAADQBACdASocABwAPtE-tFooIigoFAEAGglpAAQ97xuJgAdmt7mf16EvqEIjD22QAAD-93ID8Pz_EuALZXeHcDfRDca6PcYfi2f76KUnXgY_btPZzA4xGVkN_SX1qXvP3_4abcHxXdUjR0zj4qtmtIP9mGYrP_-LB3AXxWwvGPtUc89UW2Lqeb14rZ_wtWkXr_Kzks4ack7o52YAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWenhlZ2JNV1BkNlJDT256STlrckVPWS1CZ0VrWkotRjliQnZPQkJiREUxVXBqSHgxclZXVE9nWmZSMzRmRUducklaWUktY05qdVQzYkhySDRQb0dhZVdlRTllaUo0UmVFcEE4EgQaAggAGpEFEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA6wQIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFb_eDj0aCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxVMOERAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUwMJs-GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVMqQ9PRoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTJ5L2dvdG8_dXJsPUNBRVNUd0hyT3pBVnp4ZWdiTVdQZDZSQ09uekk5a3JFT1ktQmdFa1pKLUY5YkJ2T0JCYkRFMVVwakh4MXJWV1RPZ1pmUjM0ZkVHbnJJWllJLWNOanVUM2JIckg0UG9HYWVXZUU5ZWlKNFJlRXBBODpCPGI-SW5jPC9iPi4gfCBUZWNoIGFuZCBCdXNpbmVzcyBOZXdzIGZvciBFbnRyZXByZW5ldXJzIGFuZCBMZWFkZXJzQocBPGI-SW5jPC9iPi4gbWVkaWEgaXMgdGhlIGVudHJlcHJlbmV1cnMgc291cmNlIGZvciBpZGVhcywgcmVzb3VyY2VzIGFuZCBhZHZpY2Ugb24gaG93IHRvIHN1Y2Nlc3NmdWxseSBzdGFydCwgcnVuIGFuZCBncm93IHlvdXIgYnVzaW5lc3MuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnkvZ290bz91cmw9Q0FFU1R3SHJPekFWenhlZ2JNV1BkNlJDT256STlrckVPWS1CZ0VrWkotRjliQnZPQkJiREUxVXBqSHgxclZXVE9nWmZSMzRmRUducklaWUktY05qdVQzYkhySDRQb0dhZVdlRTllaUo0UmVFcEE4EgQaAggAGpEFEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA6wQIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFb_eDj0aCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxVMOERAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUwMJs-GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVMqQ9PRoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTJ5L2dvdG8_dXJsPUNBRVNUd0hyT3pBVnp4ZWdiTVdQZDZSQ09uekk5a3JFT1ktQmdFa1pKLUY5YkJ2T0JCYkRFMVVwakh4MXJWV1RPZ1pmUjM0ZkVHbnJJWllJLWNOanVUM2JIckg0UG9HYWVXZUU5ZWlKNFJlRXBBODpCPGI-SW5jPC9iPi4gfCBUZWNoIGFuZCBCdXNpbmVzcyBOZXdzIGZvciBFbnRyZXByZW5ldXJzIGFuZCBMZWFkZXJzQocBPGI-SW5jPC9iPi4gbWVkaWEgaXMgdGhlIGVudHJlcHJlbmV1cnMgc291cmNlIGZvciBpZGVhcywgcmVzb3VyY2VzIGFuZCBhZHZpY2Ugb24gaG93IHRvIHN1Y2Nlc3NmdWxseSBzdGFydCwgcnVuIGFuZCBncm93IHlvdXIgYnVzaW5lc3MuIgIQAUgAWABoAA",
+   "source": "inc.com"
+  },
+  {
+   "position": 2,
+   "title": "EU Inc. – making business easier in the European Union",
+   "link": "https://commission.europa.eu/news-and-media/news/eu-inc-making-business-easier-european-union-2026-03-18_en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESpgEB6zswFXlWi-uMauYNHMByDIqeX1X8GiSWXIa0hIUNNQZ9UsDISoTpwttruSPoYnpwa4zn4A93Y1VrXttOkzWxShDqu9zCxGUTtTY6At6RbngypWGGz0mVBlQ9O8I5XMpGolr2MfqwpO-ndGYtjkoKJyhYFoW06DNpguSajQAFMP0DK79Ny4JY14LT55_mWvhQHCUmrRnhbWhjjkdK4YFwelv0kRTN&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECCUQAQ&uoh=1",
+   "displayed_link": "https://commission.europa.eu › ... › News",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGgloAMD1oCWYAgCw93Hbqn60OwPzrypICpwAAP7-wh4GvYxoJ6S6IG-fC8krOmq9v_Zvg5Zk_5x334M892WyK0Ad4LTs7f09Mh1fC0s_K0Z3MWbXQ6LcqKFFq4Ei82akLdDNSEqzhJjMPqqhRNexvEzt6mCx7FEBO2RfAvuxG3aEAhg4vYgjYNZLLCgfVx8GmNlo-Uf2YkvfsCslwEA7Y6PWDkL9SpGgLvkeaMBYjQziuOkI-g-AAA.webp",
+   "date": "18 Mar 2026",
+   "snippet": "European Commission proposes EU Inc., a single, digital set of corporate rules to help you set up a business within 48 hours.",
+   "snippet_highlighted_words": [
+    "Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "European Commission proposes EU Inc., a single, digital set of corporate rules to help you set up a business within 48 hours.",
+     "source_info_link": "https://commission.europa.eu/news-and-media/news/eu-inc-making-business-easier-european-union-2026-03-18_en",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGgloAMD1oCWYAgCw93Hbqn60OwPzrypICpwAAP7-wh4GvYxoJ6S6IG-fC8krOmq9v_Zvg5Zk_5x334M892WyK0Ad4LTs7f09Mh1fC0s_K0Z3MWbXQ6LcqKFFq4Ei82akLdDNSEqzhJjMPqqhRNexvEzt6mCx7FEBO2RfAvuxG3aEAhg4vYgjYNZLLCgfVx8GmNlo-Uf2YkvfsCslwEA7Y6PWDkL9SpGgLvkeaMBYjQziuOkI-g-AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZYbFdpLXVNYXVZTkhNQnlESXFlWDFYOEdpU1dYSWEwaElVTk5RWjlVc0RJU29UcHd0dHJ1U1BvWW5wd2E0em40QTkzWTFWclh0dE9reld4U2hEcXU5ekN4R1VUdFRZNkF0NlJibmd5cFdHR3owbVZCbFE5TzhJNVhNcEdvbHIyTWZxd3BPLW5kR1l0amtvS0p5aFlGb1cwNkROcGd1U2FqUUFGTVAwREs3OU55NEpZMTRMVDU1X21XdmhRSENVbXJSbmhiV2hqamtkSzRZRndlbHYwa1JUThIEGgIIABqBBhICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVaB48QBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUV3Q8XPhoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2Uy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlhsV2ktdU1hdVlOSE1CeURJcWVYMVg4R2lTV1hJYTBoSVVOTlFaOVVzRElTb1Rwd3R0cnVTUG9ZbnB3YTR6bjRBOTNZMVZyWHR0T2t6V3hTaERxdTl6Q3hHVVR0VFk2QXQ2UmJuZ3lwV0dHejBtVkJsUTlPOEk1WE1wR29scjJNZnF3cE8tbmRHWXRqa29LSnloWUZvVzA2RE5wZ3VTYWpRQUZNUDBESzc5Tnk0SlkxNExUNTVfbVd2aFFIQ1VtclJuaGJXaGpqa2RLNFlGd2VsdjBrUlROOj9FVSA8Yj5JbmM8L2I-LiDigJMgbWFraW5nIGJ1c2luZXNzIGVhc2llciBpbiB0aGUgRXVyb3BlYW4gVW5pb25ChAFFdXJvcGVhbiBDb21taXNzaW9uIHByb3Bvc2VzIEVVIDxiPkluYzwvYj4uLCBhIHNpbmdsZSwgZGlnaXRhbCBzZXQgb2YgY29ycG9yYXRlIHJ1bGVzIHRvIGhlbHAgeW91IHNldCB1cCBhIGJ1c2luZXNzIHdpdGhpbiA0OCBob3Vycy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cu4BL2dvdG8_dXJsPUNBRVNwZ0VCNnpzd0ZYbFdpLXVNYXVZTkhNQnlESXFlWDFYOEdpU1dYSWEwaElVTk5RWjlVc0RJU29UcHd0dHJ1U1BvWW5wd2E0em40QTkzWTFWclh0dE9reld4U2hEcXU5ekN4R1VUdFRZNkF0NlJibmd5cFdHR3owbVZCbFE5TzhJNVhNcEdvbHIyTWZxd3BPLW5kR1l0amtvS0p5aFlGb1cwNkROcGd1U2FqUUFGTVAwREs3OU55NEpZMTRMVDU1X21XdmhRSENVbXJSbmhiV2hqamtkSzRZRndlbHYwa1JUThIEGgIIABqBBhICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNsFCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVaB48QBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUV3Q8XPhoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2Uy7gEvZ290bz91cmw9Q0FFU3BnRUI2enN3RlhsV2ktdU1hdVlOSE1CeURJcWVYMVg4R2lTV1hJYTBoSVVOTlFaOVVzRElTb1Rwd3R0cnVTUG9ZbnB3YTR6bjRBOTNZMVZyWHR0T2t6V3hTaERxdTl6Q3hHVVR0VFk2QXQ2UmJuZ3lwV0dHejBtVkJsUTlPOEk1WE1wR29scjJNZnF3cE8tbmRHWXRqa29LSnloWUZvVzA2RE5wZ3VTYWpRQUZNUDBESzc5Tnk0SlkxNExUNTVfbVd2aFFIQ1VtclJuaGJXaGpqa2RLNFlGd2VsdjBrUlROOj9FVSA8Yj5JbmM8L2I-LiDigJMgbWFraW5nIGJ1c2luZXNzIGVhc2llciBpbiB0aGUgRXVyb3BlYW4gVW5pb25ChAFFdXJvcGVhbiBDb21taXNzaW9uIHByb3Bvc2VzIEVVIDxiPkluYzwvYj4uLCBhIHNpbmdsZSwgZGlnaXRhbCBzZXQgb2YgY29ycG9yYXRlIHJ1bGVzIHRvIGhlbHAgeW91IHNldCB1cCBhIGJ1c2luZXNzIHdpdGhpbiA0OCBob3Vycy4iAhABSABYAGgA",
+   "source": "European Commission"
+  },
+  {
+   "position": 3,
+   "title": "Intergovernmental Negotiating Committee on Plastic ...",
+   "link": "https://www.unep.org/inc-plastic-pollution",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVE0fR7JPGSPxOlHn5eBlDMgm4D6rulxcFw0UpmtlF4LWEmXbjuhVoishXXanoax3n9-wErpugbaU3fwHpkaXnLWp6DAuTEJMgnq9u31YMOtW8OoRc94J7cfMFIggSyLWQ&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECB8QAQ&uoh=1",
+   "displayed_link": "https://www.unep.org › inc-plastic-pollution",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0g2vwLs7z4Fj_o8Da1EK6o4luqRLnjV6VgAU4NzagSLYuNbAD-9gX76eaMvenYEezPo5hUTy7Vmk8mSADHXmYqa6FRicf7a6MqOUa9ob6OB7NPzQqj--G4KPkl7a8DoEEL778BTlgWniF_sjga2gR86KzqA8u9BXG3ET-ctozOVX-H6V9pV8IpeL0ul1-8Du1AUH_EEOcwJ5ip117g2hWR2x39RVBfbRUdJGacCacXY7d8v7Zuk7Czlea759q7r7JVygTMW5epqm_BE6OyLT2kZro-rQbbAQLERmw4w25kSl0gAA.webp",
+   "snippet": "Following the resignation of the former INC Chair, the Bureau of the INC, at its meeting held on 30 October 2025, agreed that a one-day resumed session ...",
+   "snippet_highlighted_words": [
+    "INC",
+    "INC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Following the resignation of the former INC Chair, the Bureau of the INC, at its meeting held on 30 October 2025, agreed that a one-day resumed session ...",
+     "source_info_link": "https://www.unep.org/inc-plastic-pollution",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0g2vwLs7z4Fj_o8Da1EK6o4luqRLnjV6VgAU4NzagSLYuNbAD-9gX76eaMvenYEezPo5hUTy7Vmk8mSADHXmYqa6FRicf7a6MqOUa9ob6OB7NPzQqj--G4KPkl7a8DoEEL778BTlgWniF_sjga2gR86KzqA8u9BXG3ET-ctozOVX-H6V9pV8IpeL0ul1-8Du1AUH_EEOcwJ5ip117g2hWR2x39RVBfbRUdJGacCacXY7d8v7Zuk7Czlea759q7r7JVygTMW5epqm_BE6OyLT2kZro-rQbbAQLERmw4w25kSl0gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkUwZlI3SlBHU1B4T2xIbjVlQmxETWdtNEQ2cnVseGNGdzBVcG10bEY0TFdFbVhianVoVm9pc2hYWGFub2F4M245LXdFcnB1Z2JhVTNmd0hwa2FYbkxXcDZEQXVURUpNZ25xOXUzMVlNT3RXOE9vUmM5NEo3Y2ZNRklnZ1N5TFdREgQaAggAGtAFEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxV-Sfo_GgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRVqd4U9GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVAAAAABoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZFMGZSN0pQR1NQeE9sSG41ZUJsRE1nbTRENnJ1bHhjRncwVXBtdGxGNExXRW1YYmp1aFZvaXNoWFhhbm9heDNuOS13RXJwdWdiYVUzZndIcGthWG5MV3A2REF1VEVKTWducTl1MzFZTU90VzhPb1JjOTRKN2NmTUZJZ2dTeUxXUTo8SW50ZXJnb3Zlcm5tZW50YWwgTmVnb3RpYXRpbmcgQ29tbWl0dGVlIG9uIFBsYXN0aWMgUG9sbHV0aW9uQq4BRm9sbG93aW5nIHRoZSByZXNpZ25hdGlvbiBvZiB0aGUgZm9ybWVyIDxiPklOQzwvYj4gQ2hhaXIsIHRoZSBCdXJlYXUgb2YgdGhlIDxiPklOQzwvYj4sIGF0IGl0cyBtZWV0aW5nIGhlbGQgb24gMzAgT2N0b2JlciAyMDI1LCBhZ3JlZWQgdGhhdCBhIG9uZS1kYXkgcmVzdW1lZCBzZXNzaW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkUwZlI3SlBHU1B4T2xIbjVlQmxETWdtNEQ2cnVseGNGdzBVcG10bEY0TFdFbVhianVoVm9pc2hYWGFub2F4M245LXdFcnB1Z2JhVTNmd0hwa2FYbkxXcDZEQXVURUpNZ25xOXUzMVlNT3RXOE9vUmM5NEo3Y2ZNRklnZ1N5TFdREgQaAggAGtAFEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAqgUIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxV-Sfo_GgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRVqd4U9GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVAAAAABoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZFMGZSN0pQR1NQeE9sSG41ZUJsRE1nbTRENnJ1bHhjRncwVXBtdGxGNExXRW1YYmp1aFZvaXNoWFhhbm9heDNuOS13RXJwdWdiYVUzZndIcGthWG5MV3A2REF1VEVKTWducTl1MzFZTU90VzhPb1JjOTRKN2NmTUZJZ2dTeUxXUTo8SW50ZXJnb3Zlcm5tZW50YWwgTmVnb3RpYXRpbmcgQ29tbWl0dGVlIG9uIFBsYXN0aWMgUG9sbHV0aW9uQq4BRm9sbG93aW5nIHRoZSByZXNpZ25hdGlvbiBvZiB0aGUgZm9ybWVyIDxiPklOQzwvYj4gQ2hhaXIsIHRoZSBCdXJlYXUgb2YgdGhlIDxiPklOQzwvYj4sIGF0IGl0cyBtZWV0aW5nIGhlbGQgb24gMzAgT2N0b2JlciAyMDI1LCBhZ3JlZWQgdGhhdCBhIG9uZS1kYXkgcmVzdW1lZCBzZXNzaW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "UNEP - UN Environment Programme",
+   "read_more_link": "https://www.unep.org/inc-plastic-pollution#:~:text=Following%20the%20resignation%20of%20the,that%20a%20one%2Dday%20resumed%20session"
+  },
+  {
+   "position": 4,
+   "title": "Indian Nursing Council",
+   "link": "https://www.indiannursingcouncil.org/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAV-7RfjifeS7BC1Cl7-HDT42WS5bB1L9k-tgEpOGnfkL4QtC6buIDcj87QgUntZtztrINTvVhE_dx_6FoqoG7_V3sEPQSGLjWW-uMrPqfdot29e871wq-ePetPgw&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://www.indiannursingcouncil.org",
+   "snippet": "About INC. The Indian Nursing Council is an Autonomous Body under the Government of India, Ministry of Health & Family Welfare was constituted by the Central ...",
+   "snippet_highlighted_words": [
+    "INC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "About INC. The Indian Nursing Council is an Autonomous Body under the Government of India, Ministry of Health & Family Welfare was constituted by the Central ...",
+     "source_info_link": "https://www.indiannursingcouncil.org/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVi03UmZqaWZlUzdCQzFDbDctSERUNDJXUzViQjFMOWstdGdFcE9HbmZrTDRRdEM2YnVJRGNqODdRZ1VudFp0enRySU5UdlZoRV9keF82Rm9xb0c3X1Yzc0VQUVNHTGpXVy11TXJQcWZkb3QyOWU4NzF3cS1lUGV0UGd3EgQaAggAGqcFEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxViAbM-GgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUBDa49GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVAAAAABoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYtN1JmamlmZVM3QkMxQ2w3LUhEVDQyV1M1YkIxTDlrLXRnRXBPR25ma0w0UXRDNmJ1SURjajg3UWdVbnRadHp0cklOVHZWaEVfZHhfNkZvcW9HN19WM3NFUFFTR0xqV1ctdU1yUHFmZG90MjllODcxd3EtZVBldFBndzoWSW5kaWFuIE51cnNpbmcgQ291bmNpbEKxAUFib3V0IDxiPklOQzwvYj4uIFRoZSBJbmRpYW4gTnVyc2luZyBDb3VuY2lsIGlzIGFuIEF1dG9ub21vdXMgQm9keSB1bmRlciB0aGUgR292ZXJubWVudCBvZiBJbmRpYSwgTWluaXN0cnkgb2YgSGVhbHRoICZhbXA7IEZhbWlseSBXZWxmYXJlIHdhcyBjb25zdGl0dXRlZCBieSB0aGUgQ2VudHJhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVi03UmZqaWZlUzdCQzFDbDctSERUNDJXUzViQjFMOWstdGdFcE9HbmZrTDRRdEM2YnVJRGNqODdRZ1VudFp0enRySU5UdlZoRV9keF82Rm9xb0c3X1Yzc0VQUVNHTGpXVy11TXJQcWZkb3QyOWU4NzF3cS1lUGV0UGd3EgQaAggAGqcFEgIIARoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAgQUIABAAGAAgACoaCgRtZXRhFQAAAAAaDW1ldGFwbGF0Zm9ybXMqKQoJcGxhdGZvcm1zFQAAAAAaCHBsYXRmb3JtGg1tZXRhcGxhdGZvcm1zKjIKA2luYxViAbM-GgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUBDa49GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVAAAAABoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKQAS9nb3RvP3VybD1DQUVTWUFIck96QVYtN1JmamlmZVM3QkMxQ2w3LUhEVDQyV1M1YkIxTDlrLXRnRXBPR25ma0w0UXRDNmJ1SURjajg3UWdVbnRadHp0cklOVHZWaEVfZHhfNkZvcW9HN19WM3NFUFFTR0xqV1ctdU1yUHFmZG90MjllODcxd3EtZVBldFBndzoWSW5kaWFuIE51cnNpbmcgQ291bmNpbEKxAUFib3V0IDxiPklOQzwvYj4uIFRoZSBJbmRpYW4gTnVyc2luZyBDb3VuY2lsIGlzIGFuIEF1dG9ub21vdXMgQm9keSB1bmRlciB0aGUgR292ZXJubWVudCBvZiBJbmRpYSwgTWluaXN0cnkgb2YgSGVhbHRoICZhbXA7IEZhbWlseSBXZWxmYXJlIHdhcyBjb25zdGl0dXRlZCBieSB0aGUgQ2VudHJhbCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Indian Nursing Council",
+   "read_more_link": "https://www.indiannursingcouncil.org/#:~:text=About%20INC,was%20constituted%20by%20the%20Central"
+  },
+  {
+   "position": 5,
+   "title": "Shionogi Inc. - A Discovery-Based Pharmaceutical Company",
+   "link": "https://www.shionogi.com/us/en/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVPHUukhAd14kXcaSfGkdq4YMXSNBk0zyL0Jz4ZKVyRt31F_xFKW7fNvvx4E1LoygPTSjoN3M85EckwVRCAjoMPW7PD6qA4saSx1jsEAgBFgzz76_Qew&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECCYQAQ&uoh=1",
+   "displayed_link": "https://www.shionogi.com › ...",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALsvgEAA3k85gHfX5lk1T9LvZA9TH6zBwOVA3v7tyqGXpFOOdCf40wTjmbV0AAD-9gio66UeMiJv9s5AcmK4Hhh9jm1PLvr0ZJnHKpvx3gzQ2h2kEm3vQ9N8jPti8A6zRbUl-lVqYKtAZGWCjm1HCC84jXHYe0NPjeHXM9LzVK9hK2eDNYgR9cPKpeFHfTF9GpWy0Y_Ed0Tn96wWkNlljLTenudJP_-LdfNgvz_3Eupuv3hSSyeC4YFP75l2DMTgQV9RHDW8x4x7nmrsG2amW130_4Zpds7GWIHZBlusaHETvhQveif-5BJPWsJ6mhERwTQuqBL7jXmu9P4FVJE65n2X4_z3opQffCUyk1W8xBQa0aEXJ9j9YvoGVUrORCXvoogs5hEVT7yeB5ZekAAA.webp",
+   "snippet": "Shionogi Inc. is dedicated to advancing the greater good by developing, partnering, and commercializing medicine to treat serious unmet medical needs.",
+   "snippet_highlighted_words": [
+    "Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Shionogi Inc. is dedicated to advancing the greater good by developing, partnering, and commercializing medicine to treat serious unmet medical needs.",
+     "source_info_link": "https://www.shionogi.com/us/en/",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsALsvgEAA3k85gHfX5lk1T9LvZA9TH6zBwOVA3v7tyqGXpFOOdCf40wTjmbV0AAD-9gio66UeMiJv9s5AcmK4Hhh9jm1PLvr0ZJnHKpvx3gzQ2h2kEm3vQ9N8jPti8A6zRbUl-lVqYKtAZGWCjm1HCC84jXHYe0NPjeHXM9LzVK9hK2eDNYgR9cPKpeFHfTF9GpWy0Y_Ed0Tn96wWkNlljLTenudJP_-LdfNgvz_3Eupuv3hSSyeC4YFP75l2DMTgQV9RHDW8x4x7nmrsG2amW130_4Zpds7GWIHZBlusaHETvhQveif-5BJPWsJ6mhERwTQuqBL7jXmu9P4FVJE65n2X4_z3opQffCUyk1W8xBQa0aEXJ9j9YvoGVUrORCXvoogs5hEVT7yeB5ZekAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlBIVXVraEFkMTRrWGNhU2ZHa2RxNFlNWFNOQmswenlMMEp6NFpLVnlSdDMxRl94RktXN2ZOdnZ4NEUxTG95Z1BUU2pvTjNNODVFY2t3VlJDQWpvTVBXN1BENnFBNHNhU3gxanNFQWdCRmd6ejc2X1FldxIEGgIIABq0BRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQI4FCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVUKjWPxoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVAAAAABoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyiAEvZ290bz91cmw9Q0FFU1dnSHJPekFWUEhVdWtoQWQxNGtYY2FTZkdrZHE0WU1YU05CazB6eUwwSno0WktWeVJ0MzFGX3hGS1c3Zk52dng0RTFMb3lnUFRTam9OM004NUVja3dWUkNBam9NUFc3UEQ2cUE0c2FTeDFqc0VBZ0JGZ3p6NzZfUWV3Oj9TaGlvbm9naSA8Yj5JbmM8L2I-LiAtIEEgRGlzY292ZXJ5LUJhc2VkIFBoYXJtYWNldXRpY2FsIENvbXBhbnlCnQFTaGlvbm9naSA8Yj5JbmM8L2I-LiBpcyBkZWRpY2F0ZWQgdG8gYWR2YW5jaW5nIHRoZSBncmVhdGVyIGdvb2QgYnkgZGV2ZWxvcGluZywgcGFydG5lcmluZywgYW5kIGNvbW1lcmNpYWxpemluZyBtZWRpY2luZSB0byB0cmVhdCBzZXJpb3VzIHVubWV0IG1lZGljYWwgbmVlZHMuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVlBIVXVraEFkMTRrWGNhU2ZHa2RxNFlNWFNOQmswenlMMEp6NFpLVnlSdDMxRl94RktXN2ZOdnZ4NEUxTG95Z1BUU2pvTjNNODVFY2t3VlJDQWpvTVBXN1BENnFBNHNhU3gxanNFQWdCRmd6ejc2X1FldxIEGgIIABq0BRICCAAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQI4FCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVUKjWPxoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVAAAAABoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyiAEvZ290bz91cmw9Q0FFU1dnSHJPekFWUEhVdWtoQWQxNGtYY2FTZkdrZHE0WU1YU05CazB6eUwwSno0WktWeVJ0MzFGX3hGS1c3Zk52dng0RTFMb3lnUFRTam9OM004NUVja3dWUkNBam9NUFc3UEQ2cUE0c2FTeDFqc0VBZ0JGZ3p6NzZfUWV3Oj9TaGlvbm9naSA8Yj5JbmM8L2I-LiAtIEEgRGlzY292ZXJ5LUJhc2VkIFBoYXJtYWNldXRpY2FsIENvbXBhbnlCnQFTaGlvbm9naSA8Yj5JbmM8L2I-LiBpcyBkZWRpY2F0ZWQgdG8gYWR2YW5jaW5nIHRoZSBncmVhdGVyIGdvb2QgYnkgZGV2ZWxvcGluZywgcGFydG5lcmluZywgYW5kIGNvbW1lcmNpYWxpemluZyBtZWRpY2luZSB0byB0cmVhdCBzZXJpb3VzIHVubWV0IG1lZGljYWwgbmVlZHMuIgIQAUgAWABoAA",
+   "source": "Shionogi Inc."
+  },
+  {
+   "position": 6,
+   "title": "Gorillaz - Feel Good Inc. (Official Video)",
+   "link": "https://www.youtube.com/watch?v=HyHNuVaZJ-k",
+   "displayed_link": "119.4Cr+ views · 10 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76c3d40b66bd06993d5/images/-F6O11f9FBZi1UFpoQ74byZaH6nP2N1wB_sjDZOaV0k.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Official HD Video for Gorillaz' fantastic track Feel Good Inc. Subscribe to Gorillaz https://gorillaz.os.fan/signup Follow Gorillaz: ...",
+   "duration": "4:15",
+   "about_this_result": {
+    "source": {
+     "description": "Official HD Video for Gorillaz' fantastic track Feel Good Inc. Subscribe to Gorillaz https://gorillaz.os.fan/signup Follow Gorillaz: ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnpESWF5UHFaanNGczd1LWlYdVlMMWlRaXdMZm9LUnpkbFU0dGd5Rkd0Zlh5bjZvQTVYYVhYLUNCQTFldnJGT3g4NE9ia2xTY19IUThlcXBSYVc1VXpzMXVTVVRWM2dvZC1xZjRuVmg5Zkduc2dVWHV2aXpzMGhUNFc0QUllMjE3TkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVnpESWF5UHFaanNGczd1LWlYdVlMMWlRaXdMZm9LUnpkbFU0dGd5Rkd0Zlh5bjZvQTVYYVhYLUNCQTFldnJGT3g4NE9ia2xTY19IUThlcXBSYVc1VXpzMXVTVVRWM2dvZC1xZjRuVmg5Zkduc2dVWHV2aXpzMGhUNFc0QUllMjE3TkESFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQEo5-QVwzw_Mt9WNglpJIb5KJJ9MyrlVsX6A",
+   "source": "YouTube · Gorillaz"
+  },
+  {
+   "position": 7,
+   "title": "Indian National Congress",
+   "link": "https://inc.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESSgHrOzAVsGBZqj8KgCB2F2Ra-yS9ghdrUpIk1guYtNTPiCsXfnqDerZqvBqKYXVM_pCfqgN9wwYfojcE98QpmVJAiMo5azR6hEJU&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://inc.in",
+   "favicon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAADwAgCdASoQABAAAsBMJbACdFQAuwDeACIaKUzYaIOAXAD--EBWVl5GRTccXqoEifOwFxCO3wROCp5Dfi7GoU0kU0DsnwbAQOBGhuw09-I3c-lUmNirhgdf6z7ZyOGUsGMc93eCf5rK7JSlOjsdKS2CPIzLGKQk6Myvn7DVTZMrCF2xdblLn_8pjmOx_x6FLi_178V57P_HoWsr_VmoOg44YtQFc_5ZxdsVFCeXYbx5-wKMiSBqAAAA.webp",
+   "snippet": "Welcome to inc.in, the digital hub of the Indian National Congress. Explore a platform dedicated to fostering positive change and progress in India.",
+   "snippet_highlighted_words": [
+    "inc",
+    "platform"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to inc.in, the digital hub of the Indian National Congress. Explore a platform dedicated to fostering positive change and progress in India.",
+     "source_info_link": "https://inc.in/",
+     "icon": "https://serpapi.com/images/i/UklGRsQAAABXRUJQVlA4ILgAAADwAgCdASoQABAAAsBMJbACdFQAuwDeACIaKUzYaIOAXAD--EBWVl5GRTccXqoEifOwFxCO3wROCp5Dfi7GoU0kU0DsnwbAQOBGhuw09-I3c-lUmNirhgdf6z7ZyOGUsGMc93eCf5rK7JSlOjsdKS2CPIzLGKQk6Myvn7DVTZMrCF2xdblLn_8pjmOx_x6FLi_178V57P_HoWsr_VmoOg44YtQFc_5ZxdsVFCeXYbx5-wKMiSBqAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CnIvZ290bz91cmw9Q0FFU1NnSHJPekFWc0dCWnFqOEtnQ0IyRjJSYS15UzlnaGRyVXBJazFndVl0TlRQaUNzWGZucURlclpxdkJxS1lYVk1fcENmcWdOOXd3WWZvamNFOThRcG1WSkFpTW81YXpSNmhFSlUSBBoCCAAa-wQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDVBAgAEAAYACAAKhoKBG1ldGEVAAAAABoNbWV0YXBsYXRmb3JtcyopCglwbGF0Zm9ybXMVAAAAABoIcGxhdGZvcm0aDW1ldGFwbGF0Zm9ybXMqMgoDaW5jFZ34mkAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFQAAAAAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRUAAAAAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMnIvZ290bz91cmw9Q0FFU1NnSHJPekFWc0dCWnFqOEtnQ0IyRjJSYS15UzlnaGRyVXBJazFndVl0TlRQaUNzWGZucURlclpxdkJxS1lYVk1fcENmcWdOOXd3WWZvamNFOThRcG1WSkFpTW81YXpSNmhFSlU6GEluZGlhbiBOYXRpb25hbCBDb25ncmVzc0KiAVdlbGNvbWUgdG8gPGI-aW5jPC9iPi5pbiwgdGhlIGRpZ2l0YWwgaHViIG9mIHRoZSBJbmRpYW4gTmF0aW9uYWwgQ29uZ3Jlc3MuIEV4cGxvcmUgYSA8Yj5wbGF0Zm9ybTwvYj4gZGVkaWNhdGVkIHRvIGZvc3RlcmluZyBwb3NpdGl2ZSBjaGFuZ2UgYW5kIHByb2dyZXNzIGluIEluZGlhLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CnIvZ290bz91cmw9Q0FFU1NnSHJPekFWc0dCWnFqOEtnQ0IyRjJSYS15UzlnaGRyVXBJazFndVl0TlRQaUNzWGZucURlclpxdkJxS1lYVk1fcENmcWdOOXd3WWZvamNFOThRcG1WSkFpTW81YXpSNmhFSlUSBBoCCAAa-wQSAggBGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDVBAgAEAAYACAAKhoKBG1ldGEVAAAAABoNbWV0YXBsYXRmb3JtcyopCglwbGF0Zm9ybXMVAAAAABoIcGxhdGZvcm0aDW1ldGFwbGF0Zm9ybXMqMgoDaW5jFZ34mkAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFQAAAAAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRUAAAAAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMnIvZ290bz91cmw9Q0FFU1NnSHJPekFWc0dCWnFqOEtnQ0IyRjJSYS15UzlnaGRyVXBJazFndVl0TlRQaUNzWGZucURlclpxdkJxS1lYVk1fcENmcWdOOXd3WWZvamNFOThRcG1WSkFpTW81YXpSNmhFSlU6GEluZGlhbiBOYXRpb25hbCBDb25ncmVzc0KiAVdlbGNvbWUgdG8gPGI-aW5jPC9iPi5pbiwgdGhlIGRpZ2l0YWwgaHViIG9mIHRoZSBJbmRpYW4gTmF0aW9uYWwgQ29uZ3Jlc3MuIEV4cGxvcmUgYSA8Yj5wbGF0Zm9ybTwvYj4gZGVkaWNhdGVkIHRvIGZvc3RlcmluZyBwb3NpdGl2ZSBjaGFuZ2UgYW5kIHByb2dyZXNzIGluIEluZGlhLiICEAFIAFgAaAA",
+   "source": "inc.in"
+  },
+  {
+   "position": 8,
+   "title": "EU Inc.: A new harmonised corporate legal regime",
+   "link": "https://commission.europa.eu/topics/business-and-industry/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESygEB6zswFYmKiicsy_xz79Ox4A53EgTEd7z-7KIdHUOUqDoR3qSNEGXGB4d4kPDsOiE5-rIfgAwG2kF_61hX9zVZpztKD_Y7HyAM1PPNyinHBBmb_RF_1hlAZB17Wfnc9X0bjV4Yo6SQtcTrd1pOViEMkAEe5B4iMzqY70twnH2kuEvbqiC4a0VhIH1NYHIxceMgTfSQaqw_LqfeDYbZ-OPKTNsoxSKBsRMa5vRm4Fcl21yPQ-RfemGXPCthlNFzoW9iYwftEOQr-OO_&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://commission.europa.eu › business-and-industry",
+   "favicon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGgloAMD1oCWYAgCw93Hbqn60OwPzrypICpwAAP7-wh4GvYxoJ6S6IG-fC8krOmq9v_Zvg5Zk_5x334M892WyK0Ad4LTs7f09Mh1fC0s_K0Z3MWbXQ6LcqKFFq4Ei82akLdDNSEqzhJjMPqqhRNexvEzt6mCx7FEBO2RfAvuxG3aEAhg4vYgjYNZLLCgfVx8GmNlo-Uf2YkvfsCslwEA7Y6PWDkL9SpGgLvkeaMBYjQziuOkI-g-AAA.webp",
+   "snippet": "The objective is to enable innovative companies to operate under a single, harmonised set of EU-wide rules, covering relevant aspects of corporate, insolvency, ...",
+   "about_this_result": {
+    "source": {
+     "description": "The objective is to enable innovative companies to operate under a single, harmonised set of EU-wide rules, covering relevant aspects of corporate, insolvency, ...",
+     "source_info_link": "https://commission.europa.eu/topics/business-and-industry/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en",
+     "icon": "https://serpapi.com/images/i/UklGRtoAAABXRUJQVlA4IM4AAAAQBQCdASocABwAPtEutFooIagoGAEAGgloAMD1oCWYAgCw93Hbqn60OwPzrypICpwAAP7-wh4GvYxoJ6S6IG-fC8krOmq9v_Zvg5Zk_5x334M892WyK0Ad4LTs7f09Mh1fC0s_K0Z3MWbXQ6LcqKFFq4Ei82akLdDNSEqzhJjMPqqhRNexvEzt6mCx7FEBO2RfAvuxG3aEAhg4vYgjYNZLLCgfVx8GmNlo-Uf2YkvfsCslwEA7Y6PWDkL9SpGgLvkeaMBYjQziuOkI-g-AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZZbUtpaWNzeV94ejc5T3g0QTUzRWdURWQ3ei03S0lkSFVPVXFEb1IzcVNORUdYR0I0ZDRrUERzT2lFNS1ySWZnQXdHMmtGXzYxaFg5elZacHp0S0RfWTdIeUFNMVBQTnlpbkhCQm1iX1JGXzFobEFaQjE3V2ZuYzlYMGJqVjRZbzZTUXRjVHJkMXBPVmlFTWtBRWU1QjRpTXpxWTcwdHduSDJrdUV2YnFpQzRhMFZoSUgxTllISXhjZU1nVGZTUWFxd19McWZlRFliWi1PUEtUTnNveFNLQnNSTWE1dlJtNEZjbDIxeVBRLVJmZW1HWFBDdGhsTkZ6b1c5aVl3ZnRFT1FyLU9PXxIEGgIIABrNBhICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQKcGCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVhD9GQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVR9_OPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyngIvZ290bz91cmw9Q0FFU3lnRUI2enN3RlltS2lpY3N5X3h6NzlPeDRBNTNFZ1RFZDd6LTdLSWRIVU9VcURvUjNxU05FR1hHQjRkNGtQRHNPaUU1LXJJZmdBd0cya0ZfNjFoWDl6VlpwenRLRF9ZN0h5QU0xUFBOeWluSEJCbWJfUkZfMWhsQVpCMTdXZm5jOVgwYmpWNFlvNlNRdGNUcmQxcE9WaUVNa0FFZTVCNGlNenFZNzB0d25IMmt1RXZicWlDNGEwVmhJSDFOWUhJeGNlTWdUZlNRYXF3X0xxZmVEWWJaLU9QS1ROc294U0tCc1JNYTV2Um00RmNsMjF5UFEtUmZlbUdYUEN0aGxORnpvVzlpWXdmdEVPUXItT09fOjdFVSA8Yj5JbmM8L2I-LjogQSBuZXcgaGFybW9uaXNlZCBjb3Jwb3JhdGUgbGVnYWwgcmVnaW1lQqgBVGhlIG9iamVjdGl2ZSBpcyB0byBlbmFibGUgaW5ub3ZhdGl2ZSBjb21wYW5pZXMgdG8gb3BlcmF0ZSB1bmRlciBhIHNpbmdsZSwgaGFybW9uaXNlZCBzZXQgb2YgRVUtd2lkZSBydWxlcywgY292ZXJpbmcgcmVsZXZhbnQgYXNwZWN0cyBvZiBjb3Jwb3JhdGUsIGluc29sdmVuY3ksJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp4CL2dvdG8_dXJsPUNBRVN5Z0VCNnpzd0ZZbUtpaWNzeV94ejc5T3g0QTUzRWdURWQ3ei03S0lkSFVPVXFEb1IzcVNORUdYR0I0ZDRrUERzT2lFNS1ySWZnQXdHMmtGXzYxaFg5elZacHp0S0RfWTdIeUFNMVBQTnlpbkhCQm1iX1JGXzFobEFaQjE3V2ZuYzlYMGJqVjRZbzZTUXRjVHJkMXBPVmlFTWtBRWU1QjRpTXpxWTcwdHduSDJrdUV2YnFpQzRhMFZoSUgxTllISXhjZU1nVGZTUWFxd19McWZlRFliWi1PUEtUTnNveFNLQnNSTWE1dlJtNEZjbDIxeVBRLVJmZW1HWFBDdGhsTkZ6b1c5aVl3ZnRFT1FyLU9PXxIEGgIIABrNBhICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQKcGCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMVhD9GQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVR9_OPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyngIvZ290bz91cmw9Q0FFU3lnRUI2enN3RlltS2lpY3N5X3h6NzlPeDRBNTNFZ1RFZDd6LTdLSWRIVU9VcURvUjNxU05FR1hHQjRkNGtQRHNPaUU1LXJJZmdBd0cya0ZfNjFoWDl6VlpwenRLRF9ZN0h5QU0xUFBOeWluSEJCbWJfUkZfMWhsQVpCMTdXZm5jOVgwYmpWNFlvNlNRdGNUcmQxcE9WaUVNa0FFZTVCNGlNenFZNzB0d25IMmt1RXZicWlDNGEwVmhJSDFOWUhJeGNlTWdUZlNRYXF3X0xxZmVEWWJaLU9QS1ROc294U0tCc1JNYTV2Um00RmNsMjF5UFEtUmZlbUdYUEN0aGxORnpvVzlpWXdmdEVPUXItT09fOjdFVSA8Yj5JbmM8L2I-LjogQSBuZXcgaGFybW9uaXNlZCBjb3Jwb3JhdGUgbGVnYWwgcmVnaW1lQqgBVGhlIG9iamVjdGl2ZSBpcyB0byBlbmFibGUgaW5ub3ZhdGl2ZSBjb21wYW5pZXMgdG8gb3BlcmF0ZSB1bmRlciBhIHNpbmdsZSwgaGFybW9uaXNlZCBzZXQgb2YgRVUtd2lkZSBydWxlcywgY292ZXJpbmcgcmVsZXZhbnQgYXNwZWN0cyBvZiBjb3Jwb3JhdGUsIGluc29sdmVuY3ksJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "European Commission",
+   "read_more_link": "https://commission.europa.eu/topics/business-and-industry/company-law-and-corporate-governance/eu-inc-new-harmonised-corporate-legal-regime_en#:~:text=The%20objective%20is%20to%20enable,insolvency%2C%20labour%20and%20tax%20law."
+  },
+  {
+   "position": 9,
+   "title": "Second Part of the Fifth Session (INC-5.2)",
+   "link": "https://www.unep.org/inc-plastic-pollution/session-5.2",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScQHrOzAVaW1s_WPhQ116PbO5eoJf1RoSZhRW6PZ4YU393jjnMDCE-n14Ao-zcz0m3p4s7yWV5g2XOy05Yjze9KuwnhYcBZZ2q3Nw6R77chg4Qszy7RfyGzbvMkZuwh5haVraGkEdMWAy6ZEkOYGcwLSo&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.unep.org › inc-plastic-pollution › session-5",
+   "favicon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0g2vwLs7z4Fj_o8Da1EK6o4luqRLnjV6VgAU4NzagSLYuNbAD-9gX76eaMvenYEezPo5hUTy7Vmk8mSADHXmYqa6FRicf7a6MqOUa9ob6OB7NPzQqj--G4KPkl7a8DoEEL778BTlgWniF_sjga2gR86KzqA8u9BXG3ET-ctozOVX-H6V9pV8IpeL0ul1-8Du1AUH_EEOcwJ5ip117g2hWR2x39RVBfbRUdJGacCacXY7d8v7Zuk7Czlea759q7r7JVygTMW5epqm_BE6OyLT2kZro-rQbbAQLERmw4w25kSl0gAA.webp",
+   "snippet": "The resumed fifth session was preceded by regional consultations on 4 August 2025. The report of the INC on the work of the second part of its fifth session.",
+   "snippet_highlighted_words": [
+    "INC"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The resumed fifth session was preceded by regional consultations on 4 August 2025. The report of the INC on the work of the second part of its fifth session.",
+     "source_info_link": "https://www.unep.org/inc-plastic-pollution/session-5.2",
+     "icon": "https://serpapi.com/images/i/UklGRgoBAABXRUJQVlA4IP4AAACwBgCdASocABwAPtE-tFooIigoFAEAGglsAJ0g2vwLs7z4Fj_o8Da1EK6o4luqRLnjV6VgAU4NzagSLYuNbAD-9gX76eaMvenYEezPo5hUTy7Vmk8mSADHXmYqa6FRicf7a6MqOUa9ob6OB7NPzQqj--G4KPkl7a8DoEEL778BTlgWniF_sjga2gR86KzqA8u9BXG3ET-ctozOVX-H6V9pV8IpeL0ul1-8Du1AUH_EEOcwJ5ip117g2hWR2x39RVBfbRUdJGacCacXY7d8v7Zuk7Czlea759q7r7JVygTMW5epqm_BE6OyLT2kZro-rQbbAQLERmw4w25kSl0gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmFXMXNfV1BoUTExNlBiTzVlb0pmMVJvU1poUlc2UFo0WVUzOTNqam5NRENFLW4xNEFvLXpjejBtM3A0czd5V1Y1ZzJYT3kwNVlqemU5S3V3bmhZY0JaWjJxM053NlI3N2NoZzRRc3p5N1JmeUd6YnZNa1p1d2g1aGFWcmFHa0VkTVdBeTZaRWtPWUdjd0xTbxIEGgIIABrSBRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMV3vHQPxoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVAAAAABoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWYVcxc19XUGhRMTE2UGJPNWVvSmYxUm9TWmhSVzZQWjRZVTM5M2pqbk1EQ0UtbjE0QW8temN6MG0zcDRzN3lXVjVnMlhPeTA1WWp6ZTlLdXduaFljQlpaMnEzTnc2Ujc3Y2hnNFFzenk3UmZ5R3pidk1rWnV3aDVoYVZyYUdrRWRNV0F5NlpFa09ZR2N3TFNvOjhTZWNvbmQgUGFydCBvZiB0aGUgRmlmdGggU2Vzc2lvbiAoPGI-SU5DPC9iPi01LjIpIC0gVU5FUEKkAVRoZSByZXN1bWVkIGZpZnRoIHNlc3Npb24gd2FzIHByZWNlZGVkIGJ5IHJlZ2lvbmFsIGNvbnN1bHRhdGlvbnMgb24gNCBBdWd1c3QgMjAyNS4gVGhlIHJlcG9ydCBvZiB0aGUgPGI-SU5DPC9iPiBvbiB0aGUgd29yayBvZiB0aGUgc2Vjb25kIHBhcnQgb2YgaXRzIGZpZnRoIHNlc3Npb24uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqYBL2dvdG8_dXJsPUNBRVNjUUhyT3pBVmFXMXNfV1BoUTExNlBiTzVlb0pmMVJvU1poUlc2UFo0WVUzOTNqam5NRENFLW4xNEFvLXpjejBtM3A0czd5V1Y1ZzJYT3kwNVlqemU5S3V3bmhZY0JaWjJxM053NlI3N2NoZzRRc3p5N1JmeUd6YnZNa1p1d2g1aGFWcmFHa0VkTVdBeTZaRWtPWUdjd0xTbxIEGgIIABrSBRICCAEaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKwFCAAQABgAIAAqGgoEbWV0YRUAAAAAGg1tZXRhcGxhdGZvcm1zKikKCXBsYXRmb3JtcxUAAAAAGghwbGF0Zm9ybRoNbWV0YXBsYXRmb3JtcyoyCgNpbmMV3vHQPxoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVAAAAABoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFQAAAAAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UypgEvZ290bz91cmw9Q0FFU2NRSHJPekFWYVcxc19XUGhRMTE2UGJPNWVvSmYxUm9TWmhSVzZQWjRZVTM5M2pqbk1EQ0UtbjE0QW8temN6MG0zcDRzN3lXVjVnMlhPeTA1WWp6ZTlLdXduaFljQlpaMnEzTnc2Ujc3Y2hnNFFzenk3UmZ5R3pidk1rWnV3aDVoYVZyYUdrRWRNV0F5NlpFa09ZR2N3TFNvOjhTZWNvbmQgUGFydCBvZiB0aGUgRmlmdGggU2Vzc2lvbiAoPGI-SU5DPC9iPi01LjIpIC0gVU5FUEKkAVRoZSByZXN1bWVkIGZpZnRoIHNlc3Npb24gd2FzIHByZWNlZGVkIGJ5IHJlZ2lvbmFsIGNvbnN1bHRhdGlvbnMgb24gNCBBdWd1c3QgMjAyNS4gVGhlIHJlcG9ydCBvZiB0aGUgPGI-SU5DPC9iPiBvbiB0aGUgd29yayBvZiB0aGUgc2Vjb25kIHBhcnQgb2YgaXRzIGZpZnRoIHNlc3Npb24uIgIQAUgAWABoAA",
+   "source": "UNEP - UN Environment Programme",
+   "read_more_link": "https://www.unep.org/inc-plastic-pollution/session-5.2#:~:text=The%20resumed%20fifth%20session%20was,part%20of%20its%20fifth%20session."
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "INC registration online login",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+registration+online+login&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+registration+online+login"
+  },
+  {
+   "block_position": 1,
+   "query": "INC suitability letter download",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+suitability+letter+download&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAhAEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+suitability+letter+download"
+  },
+  {
+   "block_position": 1,
+   "query": "INC Registration Certificate download",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+Registration+Certificate+download&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg_EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+Registration+Certificate+download"
+  },
+  {
+   "block_position": 1,
+   "query": "INC Registration Certificate download pdf",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+Registration+Certificate+download+pdf&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg-EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+Registration+Certificate+download+pdf"
+  },
+  {
+   "block_position": 1,
+   "query": "INC 6 plastic treaty",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+6+plastic+treaty&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+6+plastic+treaty"
+  },
+  {
+   "block_position": 1,
+   "query": "INC NRTS",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+NRTS&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg9EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+NRTS"
+  },
+  {
+   "block_position": 1,
+   "query": "INC list 2026-27 pdf download",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+list+2026-27+pdf+download&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+list+2026-27+pdf+download"
+  },
+  {
+   "block_position": 1,
+   "query": "INC Suitability login",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&q=INC+Suitability+login&sa=X&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ1QJ6BAg5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=INC+Suitability+login"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Meta+Platforms+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&ei=bPfJaqvKD5nl5NoP_qLxMA&start=10&sa=N&sstk=AS6-VmJ-eYpd6L2CkjFi8PeX6CkQSLJCfP41hNTy9kGkODx2RgF5tClQGqw_WZoSzBlzDzN7T3STeY3PjEkIStrTHtHvDh5g1uCkXA&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ8NMDegQIMxAG",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Meta+Platforms+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnuWyFCx8c9KlyH85M5DiotYIF0IwQ:1791620972262&ei=bPfJaqvKD5nl5NoP_qLxMA&start=10&sa=N&sstk=AS6-VmJ-eYpd6L2CkjFi8PeX6CkQSLJCfP41hNTy9kGkODx2RgF5tClQGqw_WZoSzBlzDzN7T3STeY3PjEkIStrTHtHvDh5g1uCkXA&ved=2ahUKEwirsP6chK-XAxWZMlkFHX5RHAYQ8tMDegQIMxAE"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Meta+Platforms+Inc.+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Meta+Platforms+Inc.+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Meta+Platforms+Inc.+share+price&start=10"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:31"
+}

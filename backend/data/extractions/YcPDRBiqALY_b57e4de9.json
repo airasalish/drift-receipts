@@ -1,0 +1,148 @@
+{
+ "calls": [
+  {
+   "company": "Pearl Global Industries Limited",
+   "symbol_guess": "PEARL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "first company that we analyze is Pearl Global Industries Limited",
+   "start_s": 38,
+   "line": "semi-registered analyst. So please do not construe this as financial advice.",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    },
+    {
+     "text": "first company that we analyze",
+     "where": "transcript",
+     "start_s": 42
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker introduces Pearl Global as the first pick."
+  },
+  {
+   "company": "Lalita Dwellers Limited",
+   "symbol_guess": "LALITADWEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the second company is Lalita Dwellers",
+   "start_s": 295,
+   "line": "consistent compounder if you look at the last 5 years sales growth profit growth so Pearl Global is one company which you can study further right the second",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker introduces Lalita Dwellers as the second pick."
+  },
+  {
+   "company": "Lalitha Dwellers",
+   "symbol_guess": "LALITDWEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies",
+   "start_s": 303,
+   "line": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies Even in",
+   "evidence": [
+    {
+     "text": "Best GROWTH STOCKS",
+     "where": "title"
+    },
+    {
+     "text": "company is Lalita Dwellers",
+     "where": "transcript",
+     "start_s": 303
+    }
+   ],
+   "reason": "The video title frames the content as growth stock picks and the speaker introduces Lalitha Dwellers as a company to study, so it is treated as a buy recommendation."
+  },
+  {
+   "company": "Titan Company Ltd",
+   "symbol_guess": "TITAN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Your Titan or for that instance a PNG is a B2C player which kind of gets the gold and everything manufactured",
+   "start_s": 320,
+   "line": "which manufactures jewelry and sells it to B2C companies. Right. Your Titan or for that instance a PNG is a B2C player which kind of gets the gold and",
+   "evidence": [
+    {
+     "text": "example",
+     "where": "transcript",
+     "start_s": 311
+    },
+    {
+     "text": "Titan",
+     "where": "transcript",
+     "start_s": 320
+    }
+   ],
+   "reason": "Titan is mentioned only as an example of a B2C player, not presented as a pick."
+  },
+  {
+   "company": "LT Elevators",
+   "symbol_guess": "LTEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "The third company is LT Elevators.",
+   "start_s": 380,
+   "line": "profit growth for Lalita dwellers. So you need to study this company further.",
+   "evidence": [
+    {
+     "text": "Best GROWTH STOCKS",
+     "where": "title"
+    },
+    {
+     "text": "The third company is LT Elevators",
+     "where": "transcript",
+     "start_s": 384
+    }
+   ],
+   "reason": "The title signals buy picks and the speaker lists LT Elevators as the third company, making it a buy recommendation."
+  },
+  {
+   "company": "AON Industries",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "AON industries did a solid sales growth profit growth but I think in 2026 the growth has almost vanished",
+   "start_s": 461,
+   "line": "than 100% there is another competitor two kind of LT elevators which is called as AON industries so 2025 if you look at",
+   "evidence": [
+    {
+     "text": "competitor",
+     "where": "transcript",
+     "start_s": 461
+    },
+    {
+     "text": "AON industries",
+     "where": "transcript",
+     "start_s": 461
+    }
+   ],
+   "reason": "AON Industries is referenced as a competitor and not recommended as a pick."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

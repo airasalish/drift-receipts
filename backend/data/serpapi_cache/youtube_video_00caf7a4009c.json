@@ -1,0 +1,744 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdc7f6d5ee4f29dc5412",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/lqDxgLhRG4BDQGIEgYSplD2dYM0r8XyJH36GFFvpIhs/6ac7bdc7f6d5ee4f29dc5412.json",
+  "markdown_endpoint": "https://serpapi.com/searches/lqDxgLhRG4BDQGIEgYSplD2dYM0r8XyJH36GFFvpIhs/6ac7bdc7f6d5ee4f29dc5412.md",
+  "created_at": "2026-10-08 15:59:03 UTC",
+  "processed_at": "2026-10-08 15:59:03 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=zTccLzL-KLY",
+  "raw_html_file": "https://serpapi.com/searches/lqDxgLhRG4BDQGIEgYSplD2dYM0r8XyJH36GFFvpIhs/6ac7bdc7f6d5ee4f29dc5412.html",
+  "prettify_html_file": "https://serpapi.com/searches/lqDxgLhRG4BDQGIEgYSplD2dYM0r8XyJH36GFFvpIhs/6ac7bdc7f6d5ee4f29dc5412.prettify",
+  "total_time_taken": 1.28
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "zTccLzL-KLY",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "What is the right time to sell shares in stock market?",
+ "thumbnail": "https://i.ytimg.com/vi/zTccLzL-KLY/maxresdefault.jpg",
+ "channel": {
+  "name": "Avadhut Sathe Trading Academy",
+  "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+  "subscribers": "916K subscribers",
+  "extracted_subscribers": 916000,
+  "verified": true
+ },
+ "views": "20,893 views",
+ "extracted_views": 20893,
+ "likes": "111",
+ "extracted_likes": 111,
+ "published_date": "Jun 4, 2023",
+ "description": {
+  "content": "Do you buy shares but find it hard to determine when to sell them?\nThis radio clip is for you!\n\nFinancial Trader, Trainer & Mentor Avadhut Sathe shares his words of wisdom and valuable insights on the ideal time to sell shares based on his 3+ decades of rich experience.\n\nHe speaks about the importance of technical analysis, determining exit conditions, and a few effective thumb rules you can follow to decide your exits.\n\nThank you @927bigfm & @vrajeshhirjee for this wonderful podcast\n\nEnroll now for our upcoming Eye-Opener Webinar - Wealth Creation through Equity Investing/Trading: \nhttps://bit.ly/upcoming-eye-openers\n\n#stocktraders #sharemarketing #sharemarketknowledge #stock #market #sharemarkettraining #AvadhutSathe #ASTA #avadhutsathetradingacademy #podcast #radiopodcast #vrajeshhirjee #bigfm #financepodcast #stockmarketpodcast #FinancePodcast",
+  "links": [
+   {
+    "start_index": 590,
+    "length": 35,
+    "text": "https://bit.ly/upcoming-eye-openers",
+    "url": "https://bit.ly/upcoming-eye-openers"
+   },
+   {
+    "start_index": 627,
+    "length": 13,
+    "text": "#stocktraders",
+    "url": "https://www.youtube.com/hashtag/stocktraders",
+    "type": "browse"
+   },
+   {
+    "start_index": 641,
+    "length": 15,
+    "text": "#sharemarketing",
+    "url": "https://www.youtube.com/hashtag/sharemarketing",
+    "type": "browse"
+   },
+   {
+    "start_index": 657,
+    "length": 21,
+    "text": "#sharemarketknowledge",
+    "url": "https://www.youtube.com/hashtag/sharemarketknowledge",
+    "type": "browse"
+   },
+   {
+    "start_index": 679,
+    "length": 6,
+    "text": "#stock",
+    "url": "https://www.youtube.com/hashtag/stock",
+    "type": "browse"
+   },
+   {
+    "start_index": 686,
+    "length": 7,
+    "text": "#market",
+    "url": "https://www.youtube.com/hashtag/market",
+    "type": "browse"
+   },
+   {
+    "start_index": 694,
+    "length": 20,
+    "text": "#sharemarkettraining",
+    "url": "https://www.youtube.com/hashtag/sharemarkettraining",
+    "type": "browse"
+   },
+   {
+    "start_index": 715,
+    "length": 13,
+    "text": "#AvadhutSathe",
+    "url": "https://www.youtube.com/hashtag/avadhutsathe",
+    "type": "browse"
+   },
+   {
+    "start_index": 729,
+    "length": 5,
+    "text": "#ASTA",
+    "url": "https://www.youtube.com/hashtag/asta",
+    "type": "browse"
+   },
+   {
+    "start_index": 735,
+    "length": 27,
+    "text": "#avadhutsathetradingacademy",
+    "url": "https://www.youtube.com/hashtag/avadhutsathetradingacademy",
+    "type": "browse"
+   },
+   {
+    "start_index": 763,
+    "length": 8,
+    "text": "#podcast",
+    "url": "https://www.youtube.com/hashtag/podcast",
+    "type": "browse"
+   },
+   {
+    "start_index": 772,
+    "length": 13,
+    "text": "#radiopodcast",
+    "url": "https://www.youtube.com/hashtag/radiopodcast",
+    "type": "browse"
+   },
+   {
+    "start_index": 786,
+    "length": 14,
+    "text": "#vrajeshhirjee",
+    "url": "https://www.youtube.com/hashtag/vrajeshhirjee",
+    "type": "browse"
+   },
+   {
+    "start_index": 801,
+    "length": 6,
+    "text": "#bigfm",
+    "url": "https://www.youtube.com/hashtag/bigfm",
+    "type": "browse"
+   },
+   {
+    "start_index": 808,
+    "length": 15,
+    "text": "#financepodcast",
+    "url": "https://www.youtube.com/hashtag/financepodcast",
+    "type": "browse"
+   },
+   {
+    "start_index": 824,
+    "length": 19,
+    "text": "#stockmarketpodcast",
+    "url": "https://www.youtube.com/hashtag/stockmarketpodcast",
+    "type": "browse"
+   },
+   {
+    "start_index": 844,
+    "length": 15,
+    "text": "#FinancePodcast",
+    "url": "https://www.youtube.com/hashtag/financepodcast",
+    "type": "browse"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "zhGLaj2k9is",
+   "link": "https://www.youtube.com/watch?v=zhGLaj2k9is",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zhGLaj2k9is",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zhGLaj2k9is/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjMIaSbt56DUPGdWWgk6MyXBa0Kg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/zhGLaj2k9is/mqdefault_6s.webp?du=3000&sqp=CPztntYG&rs=AOn4CLA4ETNkzapYlAuwT5yhGR5nCD9Urw"
+   },
+   "title": "Share Market Today: Final Trade में कहां दिखा Action? अब कहां मिलेगा अच्छा मौका? | Kamai Ka Adda",
+   "published_date": "4h ago",
+   "views": "4.8K",
+   "extracted_views": 4800,
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz",
+    "thumbnail": "https://yt3.ggpht.com/WtM9ZMpGO79fza5Bd0A51JOjsm6rX6_aNMZdw6m1hTv8viMWJo5nvHzWxHg8auRkelGPkCDHCSw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=CLrJntYG&rs=AOn4CLBIfytvqsiTxpPnxYVyGU_D3XLe2w"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "743K",
+   "extracted_views": 743000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "g6l2slG9hq0",
+   "link": "https://www.youtube.com/watch?v=g6l2slG9hq0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g6l2slG9hq0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/g6l2slG9hq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAehydd3diLek4yCAHjVKq4AanBCw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/g6l2slG9hq0/mqdefault_6s.webp?du=3000&sqp=CMHkntYG&rs=AOn4CLCDkXbr9l_lTGw9BAoG23Ek1OLDog"
+   },
+   "title": "Your Money Is Already Gone\" | Jim Rickards’ 90-Day Warning to All Americans",
+   "published_date": "23h ago",
+   "views": "262K",
+   "extracted_views": 262000,
+   "channel": {
+    "name": "Global Money Signals",
+    "link": "https://www.youtube.com/@GlobalMoneySignals_fanpage",
+    "thumbnail": "https://yt3.ggpht.com/8FULoVOfJzSm3CzCeGip4GrsWPHqAa-bMGJEZLIwU_dXwcPxTuRReKLEAWBrdXPskU98oFIaEA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/sKQbZZNB7Ww/mqdefault_6s.webp?du=3000&sqp=CKjgntYG&rs=AOn4CLDOhF3NQpNP4OzIM-WKoxpQbeLY2g"
+   },
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "3w ago",
+   "views": "453K",
+   "extracted_views": 453000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "12aTO5XMs7M",
+   "link": "https://www.youtube.com/watch?v=12aTO5XMs7M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=12aTO5XMs7M",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/12aTO5XMs7M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHWnFHsr_lITwggK4ShmXs-I2uzA&usqp=CBQ"
+   },
+   "title": "🔴 LIVE | Mastering Reversal Zones Using Market Structure | Ft. Mukesh Jha",
+   "published_date": "Streamed 3h ago",
+   "views": "6.9K",
+   "extracted_views": 6900,
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club",
+    "thumbnail": "https://yt3.ggpht.com/lCs-2XaS_unNd0HRQL6Vxi1bdl4tboIKSed47SrokUIaDveBeKSGyARay_hRKvb9SpsPZDmwdQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CPHxntYG&rs=AOn4CLAdz0yGg4wzsTZISRE3beNT5kldew"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "TN5aKByr3Rs",
+   "link": "https://www.youtube.com/watch?v=TN5aKByr3Rs&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TN5aKByr3Rs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TN5aKByr3Rs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZnzxrb3Gs727IARKd3LnGm1KmlQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/TN5aKByr3Rs/mqdefault_6s.webp?du=3000&sqp=COXLntYG&rs=AOn4CLBFTHG_-xi2uYLyJaKZs449wGi1SA"
+   },
+   "title": "Go from $10,000 to $1M in just 3 years",
+   "published_date": "1y ago",
+   "views": "1.9M",
+   "extracted_views": 1900000,
+   "channel": {
+    "name": "My First Million",
+    "link": "https://www.youtube.com/@MyFirstMillionPod",
+    "thumbnail": "https://yt3.ggpht.com/BZUEtMBQyhsDlobpQl4esoPOLwz1uh_B8M5QsxWoGAaEpHkTnWhsqH5tukqBXrTEo-50UYwB0A=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "_YVQN6_nkfs",
+   "link": "https://www.youtube.com/watch?v=_YVQN6_nkfs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_YVQN6_nkfs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_YVQN6_nkfs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNrjNaJ2xh3iHvLa0bd8MPlm64ww&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/_YVQN6_nkfs/mqdefault_6s.webp?du=3000&sqp=CN3tntYG&rs=AOn4CLBhNhRvQ760RUYpze9KbnlbO7z07g"
+   },
+   "title": "Trading for Beginners Part 1 - FULL TRADING COURSE TUTORIAL",
+   "published_date": "3y ago",
+   "views": "10M",
+   "extracted_views": 10000000,
+   "channel": {
+    "name": "Jason Graystone",
+    "link": "https://www.youtube.com/@JasonGraystone",
+    "thumbnail": "https://yt3.ggpht.com/4SzT7UumXP54iq7WGJMPnJdps0nPLBMnJ17D5CXkuaJGij2d7k28b0CsITNTtAf4IPNqXZmRtg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "h3VtHBQZ9Ys",
+   "link": "https://www.youtube.com/watch?v=h3VtHBQZ9Ys",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h3VtHBQZ9Ys",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/h3VtHBQZ9Ys/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqWnsuzn2CcAq6kKKrcJ0qw4MEZQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/h3VtHBQZ9Ys/mqdefault_6s.webp?du=3000&sqp=CN_jntYG&rs=AOn4CLBiHrKbqoB4nww2pEA2VR5-SPUmNA"
+   },
+   "title": "Market Correction: What Should You Buy, Hold or Avoid Now? | Devina Mehra",
+   "published_date": "2d ago",
+   "views": "27K",
+   "extracted_views": 27000,
+   "channel": {
+    "name": "First Global",
+    "link": "https://www.youtube.com/@FirstGlobalSecurities",
+    "thumbnail": "https://yt3.ggpht.com/WigXwUZgp_9Dh2Khao9btivhgYOahX6rzxEXq7narj0aXx2q84-mQNmhK-M5_0WG0GeaDPmHxw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "V9Ra8klDzrM",
+   "link": "https://www.youtube.com/watch?v=V9Ra8klDzrM&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V9Ra8klDzrM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/V9Ra8klDzrM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMph7gEjcQgLzN37I-ySsdoPxgwg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/V9Ra8klDzrM/mqdefault_6s.webp?du=3000&sqp=CKrGntYG&rs=AOn4CLBO8gVHl4TGjBKKpMm95KZdUmuTIQ"
+   },
+   "title": "Build a Trading Algo with AI | No Coding Required",
+   "published_date": "1mo ago",
+   "views": "559K",
+   "extracted_views": 559000,
+   "channel": {
+    "name": "Zerodha Varsity and Zerodha",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/iVMRAOSB96c/mqdefault_6s.webp?du=3000&sqp=COX1ntYG&rs=AOn4CLAkbbc7W3kYiAH0Go1aiBMkaxZ9qw"
+   },
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1mo ago",
+   "views": "443K",
+   "extracted_views": 443000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "oQXS-9tnB8c",
+   "link": "https://www.youtube.com/watch?v=oQXS-9tnB8c&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oQXS-9tnB8c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/oQXS-9tnB8c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbPW0wjGo2q52RCr66NplMjCzGxg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/oQXS-9tnB8c/mqdefault_6s.webp?du=3000&sqp=CMLvntYG&rs=AOn4CLAxCqrUmVP9qwAquqwcRtn1wDEwsg"
+   },
+   "title": "Warren Buffett: If I Had to Build a Portfolio for 2026 with $10,000",
+   "published_date": "10mo ago",
+   "views": "735K",
+   "extracted_views": 735000,
+   "channel": {
+    "name": "Insider Whales",
+    "link": "https://www.youtube.com/@insiderwhales",
+    "thumbnail": "https://yt3.ggpht.com/2MUEg3Q3ORdXETd6ofFGXkbPMBYZuxeHfLdAFWjnswawUuwfHJElbuveambgnhpiPRfIXqV4T9c=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "zspMXJVbfAY",
+   "link": "https://www.youtube.com/watch?v=zspMXJVbfAY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zspMXJVbfAY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zspMXJVbfAY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAxft5WmIyb_Fd3aLnbAsFytQOsGA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/zspMXJVbfAY/mqdefault_6s.webp?du=3000&sqp=CI7sntYG&rs=AOn4CLB_6dN_Rx2axxuW9bz7-X70OlI5Bg"
+   },
+   "title": "How Trading Like an Idiot Makes Me $10,000/Month (15 Minutes a Day)",
+   "published_date": "4mo ago",
+   "views": "2.3M",
+   "extracted_views": 2300000,
+   "channel": {
+    "name": "The Rumers",
+    "link": "https://www.youtube.com/@the.rumers",
+    "thumbnail": "https://yt3.ggpht.com/r8JHYRhKpToBruTHwjO_NSswGnBRXMaiISNfWWzGZTIpm35_o6dyhRmsgBjHjRP1Jle160_V1g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpKm7B9cuTRHDDGfnuE68TYvhUkg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/XnuL9djH9bU/mqdefault_6s.webp?du=3000&sqp=CK7cntYG&rs=AOn4CLA-9unfeXFbHERRQhyqRlR3D1zOJw"
+   },
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2h ago",
+   "views": "7.9K",
+   "extracted_views": 7900,
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64",
+    "thumbnail": "https://yt3.ggpht.com/x7xszwIkJYvggWS6E8aPMcVTbU-C2KMLkX7_2d4XfYYTk0ht2-g1WPW78Md7SVj9J4b1Yore=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "dFc-BUe506s",
+   "link": "https://www.youtube.com/watch?v=dFc-BUe506s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dFc-BUe506s",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/dFc-BUe506s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCyZUtHiK4IwyvajNya9JRk1hKGog&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/dFc-BUe506s/mqdefault_6s.webp?du=3000&sqp=CIPuntYG&rs=AOn4CLCSKpFHFrojtqDItBnSflaes_QRIQ"
+   },
+   "title": "Complete Practical Accountant Course |Accounting, GST, TDS, Tally, Final Accounts | With Certificate",
+   "published_date": "4mo ago",
+   "views": "983K",
+   "extracted_views": 983000,
+   "channel": {
+    "name": "Accounts Advice",
+    "link": "https://www.youtube.com/@AccountsAdvice",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nAE-PPEAg5jRusp41I7rMpGFLuq6OXgS6BwsPx6egnKg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "o1kv2MV7gKI",
+   "link": "https://www.youtube.com/watch?v=o1kv2MV7gKI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=o1kv2MV7gKI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/o1kv2MV7gKI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCW8GoFRVLkRP-fUpyFlPdwm0rmHQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/o1kv2MV7gKI/mqdefault_6s.webp?du=3000&sqp=CJrmntYG&rs=AOn4CLA0NDT9C1AkASxFZqBgAR5kqiVEeg"
+   },
+   "title": "Stock Market Course 2.0 | 2026 Multibaggers | Entry/Exit Strategies | Fundamental & Technicals",
+   "published_date": "7mo ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "CIVIL BEINGS",
+    "link": "https://www.youtube.com/@civilbeings",
+    "thumbnail": "https://yt3.ggpht.com/Nx0L4ED2EgPRhNyiFVRZ9txBp436bODwP__GUlgIBW7z1waKU5bJofenPt_rvGDUIwby2dhQ2xs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "5lrA2UaYsBM",
+   "link": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5lrA2UaYsBM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5lrA2UaYsBM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-02pUst4aNiFgOVwsiQQ7u4wM6A&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/5lrA2UaYsBM/mqdefault_6s.webp?du=3000&sqp=CO7antYG&rs=AOn4CLDzM95MexF6fOpL6Az_aJWw55lHNg"
+   },
+   "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
+   "published_date": "3w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wRBi0DT9dvY",
+   "link": "https://www.youtube.com/watch?v=wRBi0DT9dvY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRBi0DT9dvY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wRBi0DT9dvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5avpIa4UxVlq8SPvz-lC0D0q_Iw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/wRBi0DT9dvY/mqdefault_6s.webp?du=3000&sqp=CPy7ntYG&rs=AOn4CLCl-OJZ7keFFEY3hEAhvTucQm2q_Q"
+   },
+   "title": "Where Should Your Money Go in a Crisis? Stocks, Gold, Cash & Real Estate | Shashank Udupa | FWS",
+   "published_date": "9d ago",
+   "views": "424K",
+   "extracted_views": 424000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Fk4LriCyhEc",
+   "link": "https://www.youtube.com/watch?v=Fk4LriCyhEc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fk4LriCyhEc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Fk4LriCyhEc/hqdefault_custom_2.jpg?sqp=CNT5ntYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDJWKrIBAHL8g8PztNz75IDF1IS2w",
+    "rich": "https://i.ytimg.com/an_webp/Fk4LriCyhEc/mqdefault_6s.webp?du=3000&sqp=CInEntYG&rs=AOn4CLCkoLqUbLMCzpviERSkbN9l0GSlGg"
+   },
+   "title": "What Happens After a Stock Hits a 52-Week High? | The Long & The Short Ep. 55",
+   "published_date": "1d ago",
+   "views": "15K",
+   "extracted_views": 15000,
+   "channel": {
+    "name": "In The Money by Zerodha",
+    "link": "https://www.youtube.com/@InTheMoneybyZerodha",
+    "thumbnail": "https://yt3.ggpht.com/kAFuMSzqYtiJ3iUv1UzQQEYa6N_TwFL0jAXRymwgk8B4zyohcaFcHesoxKeCk-mA3Qu7pn9mONw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "LBLJNJ0OY0E",
+   "link": "https://www.youtube.com/watch?v=LBLJNJ0OY0E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LBLJNJ0OY0E",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LBLJNJ0OY0E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBse1ICsDug-fm1F4hIL2vbbkazCw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/LBLJNJ0OY0E/mqdefault_6s.webp?du=3000&sqp=CI7dntYG&rs=AOn4CLCqWdtvD1tN4Aphpy4zddn706oUXw"
+   },
+   "title": "Plot vs Gold vs SIP vs Home Loan — AND the Winner Is… You’ll Be Shocked! | Rahul Jain",
+   "published_date": "1mo ago",
+   "views": "1.9M",
+   "extracted_views": 1900000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILelRjY0x6TC1LTFnAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqoAZNZ29Jd2NhNTZNbW1zb2tzMnM2TDZ3ekZCQXJDQkFvRDhqNEFDZzdDUGdzSXEteVQ3YVB0NG9qT0FRb0Q4ajRBQ2c3Q1Bnc0kzcE9ndHJudzU0enJBUW9EOGo0QUNnN0NQZ3NJclkzMmphWFczZFNEQVFvRDhqNEFDZzdDUGdzSTdOcUhtdG5zaHRLd0FRb0Q4ajRBQ2c3Q1Bnc0lzLWV5cnJubnBMUFhBUW9EOGo0QUNnN0NQZ3NJN2Jia2lwcmd5SjMxQVFvRDhqNEFDZzNDUGdvSW03cXY1WUhGbHU5TUNnUHlQZ0FLRHNJLUN3ajdvNTdfLW9iVXd2MEJDZ1B5UGdBS0RzSS1Dd2lMNi1lZ3dhUGJ1b2NCQ2dQeVBnQUtEY0ktQ2dpem5ZX0twTjZXNmxjS0FfSS1BQW9Pd2o0TENLZnZoNlNPb01TcGlRRUtBX0ktQUFvT3dqNExDTWVQbk51OTNfU0NvUUVLQV9JLUFBb093ajRMQ0liNDdhckppNVBsemdFS0FfSS1BQW9Od2o0S0NMWHJuOGJkX3VLOVhnb0Q4ajRBQ2czQ1Bnb0lxNmZudmRUQXo2dDBDZ1B5UGdBS0RzSS1Dd2lpZ2U2cmpQdkxyS01CQ2dQeVBnQUtEc0ktQ3dpVDRPSzBsSnV3cmVZQkNnUHlQZ0FLRHNJLUN3ajI3ZlduZzlxWWlNRUJDZ1B5UGdBS0RjSS1DZ2pIaU1xRjR2V0NweFlLQV9JLUFBb053ajRLQ01IR3VlakpwcktKTEJJVUFBSUVCZ2dLREE0UUVoUVdHQm9jSGlBaUpDWWFCQWdBRUFFYUJBZ0NFQU1hQkFnRUVBVWFCQWdHRUFjYUJBZ0lFQWthQkFnS0VBc2FCQWdNRUEwYUJBZ09FQThhQkFnUUVCRWFCQWdTRUJNYUJBZ1VFQlVhQkFnV0VCY2FCQWdZRUJrYUJBZ2FFQnNhQkFnY0VCMGFCQWdlRUI4YUJBZ2dFQ0VhQkFnaUVDTWFCQWdrRUNVYUJBZ21FQ2NxRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbWoPd2F0Y2gtbmV4dC1mZWVk",
+ "end_screen_videos": [
+  {
+   "video_id": "zhGLaj2k9is",
+   "link": "https://www.youtube.com/watch?v=zhGLaj2k9is",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zhGLaj2k9is",
+   "thumbnail": "https://i.ytimg.com/vi/zhGLaj2k9is/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjMIaSbt56DUPGdWWgk6MyXBa0Kg&usqp=CBQ",
+   "title": "Share Market Today: Final Trade में कहां दिखा Action? अब कहां मिलेगा अच्छा मौका? | Kamai Ka Adda",
+   "published_date": "4 hours ago",
+   "views": "4.8K views",
+   "extracted_views": 4800,
+   "length": "1:40:57",
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w&usqp=CBQ",
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2 months ago",
+   "views": "743K views",
+   "extracted_views": 743000,
+   "length": "1:26:00",
+   "channel": {
+    "name": "Investing With Upsurge and 2 more"
+   }
+  },
+  {
+   "video_id": "g6l2slG9hq0",
+   "link": "https://www.youtube.com/watch?v=g6l2slG9hq0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g6l2slG9hq0",
+   "thumbnail": "https://i.ytimg.com/vi/g6l2slG9hq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAehydd3diLek4yCAHjVKq4AanBCw&usqp=CBQ",
+   "title": "Your Money Is Already Gone\" | Jim Rickards’ 90-Day Warning to All Americans",
+   "published_date": "23 hours ago",
+   "views": "262K views",
+   "extracted_views": 262000,
+   "length": "26:02",
+   "channel": {
+    "name": "Global Money Signals",
+    "link": "https://www.youtube.com/@GlobalMoneySignals_fanpage"
+   }
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A&usqp=CBQ",
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "3 weeks ago",
+   "views": "453K views",
+   "extracted_views": 453000,
+   "length": "58:52",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "12aTO5XMs7M",
+   "link": "https://www.youtube.com/watch?v=12aTO5XMs7M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=12aTO5XMs7M",
+   "thumbnail": "https://i.ytimg.com/vi/12aTO5XMs7M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAHWnFHsr_lITwggK4ShmXs-I2uzA&usqp=CBQ",
+   "title": "🔴 LIVE | Mastering Reversal Zones Using Market Structure | Ft. Mukesh Jha",
+   "published_date": "Streamed 3 hours ago",
+   "views": "6.9K views",
+   "extracted_views": 6900,
+   "length": "1:07:41",
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club"
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g&usqp=CBQ",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1M views",
+   "extracted_views": 1000000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "TN5aKByr3Rs",
+   "link": "https://www.youtube.com/watch?v=TN5aKByr3Rs&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TN5aKByr3Rs",
+   "thumbnail": "https://i.ytimg.com/vi/TN5aKByr3Rs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZnzxrb3Gs727IARKd3LnGm1KmlQ&usqp=CBQ",
+   "title": "Go from $10,000 to $1M in just 3 years",
+   "published_date": "1 year ago",
+   "views": "1.9M views",
+   "extracted_views": 1900000,
+   "length": "1:17:55",
+   "channel": {
+    "name": "My First Million",
+    "link": "https://www.youtube.com/@MyFirstMillionPod"
+   }
+  },
+  {
+   "video_id": "_YVQN6_nkfs",
+   "link": "https://www.youtube.com/watch?v=_YVQN6_nkfs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_YVQN6_nkfs",
+   "thumbnail": "https://i.ytimg.com/vi/_YVQN6_nkfs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNrjNaJ2xh3iHvLa0bd8MPlm64ww&usqp=CBQ",
+   "title": "Trading for Beginners Part 1 - FULL TRADING COURSE TUTORIAL",
+   "published_date": "3 years ago",
+   "views": "10M views",
+   "extracted_views": 10000000,
+   "length": "2:26:40",
+   "channel": {
+    "name": "Jason Graystone",
+    "link": "https://www.youtube.com/@JasonGraystone"
+   }
+  },
+  {
+   "video_id": "h3VtHBQZ9Ys",
+   "link": "https://www.youtube.com/watch?v=h3VtHBQZ9Ys",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h3VtHBQZ9Ys",
+   "thumbnail": "https://i.ytimg.com/vi/h3VtHBQZ9Ys/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqWnsuzn2CcAq6kKKrcJ0qw4MEZQ&usqp=CBQ",
+   "title": "Market Correction: What Should You Buy, Hold or Avoid Now? | Devina Mehra",
+   "published_date": "2 days ago",
+   "views": "27K views",
+   "extracted_views": 27000,
+   "length": "12:58",
+   "channel": {
+    "name": "First Global",
+    "link": "https://www.youtube.com/@FirstGlobalSecurities"
+   }
+  },
+  {
+   "video_id": "V9Ra8klDzrM",
+   "link": "https://www.youtube.com/watch?v=V9Ra8klDzrM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V9Ra8klDzrM",
+   "thumbnail": "https://i.ytimg.com/vi/V9Ra8klDzrM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMph7gEjcQgLzN37I-ySsdoPxgwg&usqp=CBQ",
+   "title": "Build a Trading Algo with AI | No Coding Required",
+   "published_date": "1 month ago",
+   "views": "559K views",
+   "extracted_views": 559000,
+   "length": "50:53",
+   "channel": {
+    "name": "Zerodha Varsity and Zerodha"
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw&usqp=CBQ",
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1 month ago",
+   "views": "443K views",
+   "extracted_views": 443000,
+   "length": "1:01:48",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "oQXS-9tnB8c",
+   "link": "https://www.youtube.com/watch?v=oQXS-9tnB8c&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oQXS-9tnB8c",
+   "thumbnail": "https://i.ytimg.com/vi/oQXS-9tnB8c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbPW0wjGo2q52RCr66NplMjCzGxg&usqp=CBQ",
+   "title": "Warren Buffett: If I Had to Build a Portfolio for 2026 with $10,000",
+   "published_date": "10 months ago",
+   "views": "735K views",
+   "extracted_views": 735000,
+   "length": "35:58",
+   "channel": {
+    "name": "Insider Whales",
+    "link": "https://www.youtube.com/@insiderwhales"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC3pUY2NMekwtS0xZGAYyJSIRIgt6VGNjTHpMLUtMWTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC3pUY2NMekwtS0xZGAYyOCIRIgt6VGNjTHpMLUtMWTAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC3pUY2NMekwtS0xZGAYyOCIRIgt6VGNjTHpMLUtMWTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=zTccLzL-KLY"
+ },
+ "_fetched_at": "2026-10-08T15:59:02"
+}

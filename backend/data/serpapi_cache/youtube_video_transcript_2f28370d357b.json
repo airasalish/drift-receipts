@@ -1,0 +1,142 @@
+{
+ "search_metadata": {
+  "id": "6ac7bfe955ba65314ec99ca8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/8nYFkbEFApCRFzRKTHdxVYnIAwuhtnC0Mgf97zMZFmY/6ac7bfe955ba65314ec99ca8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/8nYFkbEFApCRFzRKTHdxVYnIAwuhtnC0Mgf97zMZFmY/6ac7bfe955ba65314ec99ca8.md",
+  "created_at": "2026-10-08 16:08:09 UTC",
+  "processed_at": "2026-10-08 16:08:09 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=_pHlTxDOlOk",
+  "raw_html_file": "https://serpapi.com/searches/8nYFkbEFApCRFzRKTHdxVYnIAwuhtnC0Mgf97zMZFmY/6ac7bfe955ba65314ec99ca8.html",
+  "prettify_html_file": "https://serpapi.com/searches/8nYFkbEFApCRFzRKTHdxVYnIAwuhtnC0Mgf97zMZFmY/6ac7bfe955ba65314ec99ca8.prettify",
+  "total_time_taken": 21.72
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "_pHlTxDOlOk",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "को तो चलिए सर सुजॉन पे जरा बातचीत कर लेते हैं। इन्होंने सवाल तो नहीं किया लेकिन मैं सवाल कर लेता हूं। अह जो टारगेट",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 6000,
+   "snippet": "दिए गए थे जो है आपकी तरफ से अंबाला जी की तरफ से टारगेट हिट हो गए हैं। अह पहला जो टारगेट था 50 वाला। अब क्या करें? क्योंकि अह दूसरा आपने बताया था रुकावट है 61 की।",
+   "start_time_text": "0:06",
+   "start_time_label": "6 seconds"
+  },
+  {
+   "start_ms": 18000,
+   "snippet": "अभी क्या करें? और अब बहुत लोगों के सवाल हैं कि आप भी खरीद सकते हैं। काफ़ी लोगों के खरीद के पास आ गया होगा क्योंकि 55 के आसपास के बहुत सारे सवाल हमने देखे थे। 50",
+   "start_time_text": "0:18",
+   "start_time_label": "18 seconds"
+  },
+  {
+   "start_ms": 27000,
+   "snippet": "के आसपास के पास देखे थे। कुछ लोगों ने हो सकता है 40 के आसपास जब हम लोगों ने बोला खरीदने के लिए वहां भी खरीदे हो तो उनको तो अच्छा प्रॉफिट मिल रहा है। क्या करें सर अभी सुजल सिरफन पे?",
+   "start_time_text": "0:27",
+   "start_time_label": "27 seconds"
+  },
+  {
+   "start_ms": 36000,
+   "snippet": "सर एक अंग्रेजी में कहावत है बिहाइंड एव्री सक्सेसफुल मैन देयर इज अ वूमन अपने चैनल के लिए थोड़ा सा इसको चेंज कर देते हैं। बिहाइंड एव्री पावरफुल स्टॉक",
+   "start_time_text": "0:36",
+   "start_time_label": "36 seconds"
+  },
+  {
+   "start_ms": 45000,
+   "snippet": "देयर इज अ वूमन कॉल्ड वीएल अंबाला मैम। और मैंने तो सर ₹60 से बाइंग करते करते ₹40 के लेवल पे भी एक बार मतलब कॉन्फिडेंस हिल",
+   "start_time_text": "0:45",
+   "start_time_label": "45 seconds"
+  },
+  {
+   "start_ms": 54000,
+   "snippet": "जाता है सर आदमी का। बट जहां से उन्होंने इसका हाथ पकड़ा और क्लियर केस है सर मैं गलत नहीं बोलूंगा मैं तो उस टाइम भी बोलने लग गया था कि 34 ऑड लेवल्स आपको देखने को",
+   "start_time_text": "0:54",
+   "start_time_label": "54 seconds"
+  },
+  {
+   "start_ms": 62000,
+   "snippet": "मिल सकते हैं उस हिसाब से मेंटली प्रिपयर्ड रहिए 60 से 40 देख लेता है आदमी ₹6 का डाउन साइड तो और मान ही सकता है आ सकता है बट वो बहुत ज्यादा इस पे स्टिक",
+   "start_time_text": "1:02",
+   "start_time_label": "1 minute, 2 seconds"
+  },
+  {
+   "start_ms": 70000,
+   "snippet": "अराउंड रही और बहुत अच्छा रिवर्सल दिया है इसमें एक चीज मैं और ऐड करता हूं सर अगर आप इसके चार्टिकल पैटर्न्स देखेंगे देयर",
+   "start_time_text": "1:10",
+   "start_time_label": "1 minute, 10 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "हैज़ बीन अ क्लियर केस बाइंग इंटरेस्ट वॉल्यूम बहुत अच्छा बिल्ड अप देखने को मिल रहा है जिस तरीके से पोजीशंड अब जब तक यह",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 86000,
+   "snippet": "आपको मेंटेन करता हुआ दे रहा है बहुत कंफर्टेबली इसका जो 200 डे मूविंग एवरेज है अराउंड 50",
+   "start_time_text": "1:26",
+   "start_time_label": "1 minute, 26 seconds"
+  },
+  {
+   "start_ms": 93000,
+   "snippet": "का है इसको हम 4980 के ऊपर जब तक मेंटेन करता हुआ आपको दिखता है क्लोजिंग बेसिस वो लेवल नहीं ब्रीच करता है ₹60 का लेवल आपको",
+   "start_time_text": "1:33",
+   "start_time_label": "1 minute, 33 seconds"
+  },
+  {
+   "start_ms": 101000,
+   "snippet": "क्लियर केस ये दिखा सकता है मोमेंटम के लिए आप बने रहें मैं समझता हूं बोनस परिवार के सब सदस्यों के पास होगा जिनके",
+   "start_time_text": "1:41",
+   "start_time_label": "1 minute, 41 seconds"
+  },
+  {
+   "start_ms": 108000,
+   "snippet": "पास नहीं है उनको मैं कहूंगा आपने थोड़ी सी एक लेट कर दिया है बट कोई प्रॉब्लम वाली बात नहीं है। हमारे टारगेट्स और भी",
+   "start_time_text": "1:48",
+   "start_time_label": "1 minute, 48 seconds"
+  },
+  {
+   "start_ms": 115000,
+   "snippet": "ऊपर के हैं। आप एक काम करें 50% यहां लें और 50% दूसरा कहां लेंगे? अगर 54 लेवल्स के ऊपर मेंटेन करेगा तो रिमेनिंग 50% ले",
+   "start_time_text": "1:55",
+   "start_time_label": "1 minute, 55 seconds"
+  },
+  {
+   "start_ms": 124000,
+   "snippet": "लेंगे। अदरवाइज किसी भी मार्केट करेक्शन में अगर हमें वापस 46 45 के लेवल्स में दिखेगा 50% बाहर ले लेंगे। स्टैग मैनर में करेंगे बाइंग। 6061 का होगा पहला टारगेट।",
+   "start_time_text": "2:04",
+   "start_time_label": "2 minutes, 4 seconds"
+  },
+  {
+   "start_ms": 135000,
+   "snippet": "61 के टारगेट को जैसे ही यह ब्रीच करेगा उसके बाद देगा आपको 74। ये 74 आपको एक दो क्वार्टर वेट करना पड़ सकता है और 74 के",
+   "start_time_text": "2:15",
+   "start_time_label": "2 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 142000,
+   "snippet": "बाद 86 और फिर 114 और एक चीज मैं ऐड करना चाहूंगा सर अभी क्योंकि एक वो अभी अंशुल",
+   "start_time_text": "2:22",
+   "start_time_label": "2 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 150000,
+   "snippet": "सर का एक अपडेट आया मुझे लगता है कई कई बार कुछ कन्फ्यूजन हो जाता है क्योंकि एजेस लॉजिस्टिक्स मैंने फोन कॉल मतलब WhatsApp पे दी थी कॉल",
+   "start_time_text": "2:30",
+   "start_time_label": "2 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 159000,
+   "snippet": "और उस पे कमेंट आया कि ₹665 आप बता रहे थे ₹695 चल रहा था जब आपकी कॉल आई थी सर उस दिन ₹679 का तो हाई था तो लोग बोले तो कई बार दर्शकों से गलती हो जाती हैं सर।",
+   "start_time_text": "2:39",
+   "start_time_label": "2 minutes, 39 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:08:29"
+}

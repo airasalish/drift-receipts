@@ -1,0 +1,207 @@
+{
+ "calls": [
+  {
+   "company": "Ambuja Cements",
+   "symbol_guess": "AMBJA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "डंकिन अंबुजा सीमेंट हैंड",
+   "start_s": 332,
+   "line": "कॉल मैंने खरीदा है और उसके सामने 410 के बेचे समरेश में कंधों पर तो मैं नेटवर्क",
+   "evidence": [
+    {
+     "text": "अंबुजा सीमेंट",
+     "where": "transcript",
+     "start_s": 339
+    }
+   ],
+   "reason": "The company is mentioned in passing without a clear buy/sell recommendation."
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": "TATAMOTORS",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप वांट टो बाय थिस बाय टाटा मोटर्स और एंबुलेंस Reliance",
+   "start_s": 344,
+   "line": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय",
+   "evidence": [
+    {
+     "text": "वांट टो बाय",
+     "where": "transcript",
+     "start_s": 344
+    },
+    {
+     "text": "टाटा मोटर्स",
+     "where": "transcript",
+     "start_s": 344
+    }
+   ],
+   "reason": "The speaker explicitly tells viewers to buy Tata Motors."
+  },
+  {
+   "company": "Reliance Industries",
+   "symbol_guess": "RELIANCE",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप वांट टो बाय थिस बाय टाटा मोटर्स और एंबुलेंस Reliance",
+   "start_s": 344,
+   "line": "बात बताओ या आयशर मोटर्स और एंबुलेंस टाटा मोटर्स अ GN हैव सोल्ड अट आप वांट टो बाय",
+   "evidence": [
+    {
+     "text": "वांट टो बाय",
+     "where": "transcript",
+     "start_s": 344
+    },
+    {
+     "text": "Reliance",
+     "where": "transcript",
+     "start_s": 351
+    }
+   ],
+   "reason": "The speaker explicitly tells viewers to buy Reliance."
+  },
+  {
+   "company": "Sun Pharmaceutical Industries",
+   "symbol_guess": "SUNPHARMA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "और सन फार्मा पर नजर हो",
+   "start_s": 2756,
+   "line": "हैंड शोल्डर चेक इन वर्ड इन छोड़ यह सब रिकॉर्ड दिख रहा है 6 सवा 100 इस पर नजर",
+   "evidence": [
+    {
+     "text": "सन फार्मा",
+     "where": "transcript",
+     "start_s": 2762
+    }
+   ],
+   "reason": "The speaker says to keep an eye on Sun Pharma, indicating a watch stance rather than a direct buy or sell recommendation."
+  },
+  {
+   "company": "Mahindra & Mahindra",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "महिंद्रा एंड महिंद्रा को आप देखो तो मुझे ऐसा लगता है",
+   "start_s": 2800,
+   "line": "गुड शेयरिंग ऑटो ऑटो सेक्टर 99 वह भी बहुत ही बढ़िया कर",
+   "evidence": [],
+   "reason": "The speaker mentions Mahindra & Mahindra without any explicit buy/sell recommendation, so it is classified as watch."
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "टाटा मोटर्स से ज्यादा बाप एंबुलेंस",
+   "start_s": 2838,
+   "line": "तरफ खाना भी टैग वे 217 शुक्राचार्य देता है MS Word",
+   "evidence": [],
+   "reason": "Tata Motors is referenced in passing with no clear recommendation, so it is marked as watch."
+  },
+  {
+   "company": "Bharti Airtel",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "मैं भी एयरटेल का रेजिस्टेंस इन थिस रेस्टोरेंट",
+   "start_s": 3089,
+   "line": "अब मुझे ऐसा लगता है कि रणबीर ग्राम व पोस्ट मुझे ऐसा लग रहा है कि यह जो बहाया",
+   "evidence": [],
+   "reason": "Airtel is mentioned only as a reference point, not as a pick, so it is watch."
+  },
+  {
+   "company": "Infosys",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इन्फोसिस और यह सारे स्टाफ",
+   "start_s": 3108,
+   "line": "है तो यहां तक जा सकता है फिर बाद में मिठास है ऑन उन्हें गर्म टेक्नोलॉजी का",
+   "evidence": [],
+   "reason": "Infosys is brought up without any explicit advice, thus classified as watch."
+  },
+  {
+   "company": "Maruti Suzuki",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बैंक का तो उसमें कुछ एक 10,000 का लास्ट दिख रहा है एंड मारुति एक लौंग किया",
+   "start_s": 3349,
+   "line": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड",
+   "evidence": [],
+   "reason": "Maruti Suzuki appears in a casual comment without explicit recommendation, so it is watch."
+  },
+  {
+   "company": "IndusInd Bank",
+   "symbol_guess": "INDUSINDBK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पोजीशन इंडसइंड",
+   "start_s": 3349,
+   "line": "अकाउंट में ऐसा है कि यह मेरा चेरी कर रहा हूं पोजीशन इंडसइंड",
+   "evidence": [
+    {
+     "text": "पोजीशन",
+     "where": "transcript",
+     "start_s": 3349
+    }
+   ],
+   "reason": "The speaker mentions holding a position in IndusInd Bank but does not give any explicit buy or sell advice."
+  },
+  {
+   "company": "Maruti Suzuki",
+   "symbol_guess": "MARUTI",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "रिटेल पैक कल लॉन्ग किया था",
+   "start_s": 3362,
+   "line": "सीरवी अच्छा पनीर विल पुट स्प्रेड है ओके यह और एक मारुति",
+   "evidence": [
+    {
+     "text": "लॉन्ग किया",
+     "where": "transcript",
+     "start_s": 3370
+    }
+   ],
+   "reason": "The speaker says they went long on Maruti Suzuki, indicating a bullish stance, though no direct recommendation to buy is given."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 7,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,394 @@
+{
+ "search_metadata": {
+  "id": "6ac7bfc2d0a88f8ed925e124",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/VvKZGsxxeLyGzIlB07Wzdi9AShsR4mYgyNPVsZ2pCSg/6ac7bfc2d0a88f8ed925e124.json",
+  "markdown_endpoint": "https://serpapi.com/searches/VvKZGsxxeLyGzIlB07Wzdi9AShsR4mYgyNPVsZ2pCSg/6ac7bfc2d0a88f8ed925e124.md",
+  "created_at": "2026-10-08 16:07:30 UTC",
+  "processed_at": "2026-10-08 16:07:30 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=xhdq3yAq_uo",
+  "raw_html_file": "https://serpapi.com/searches/VvKZGsxxeLyGzIlB07Wzdi9AShsR4mYgyNPVsZ2pCSg/6ac7bfc2d0a88f8ed925e124.html",
+  "prettify_html_file": "https://serpapi.com/searches/VvKZGsxxeLyGzIlB07Wzdi9AShsR4mYgyNPVsZ2pCSg/6ac7bfc2d0a88f8ed925e124.prettify",
+  "total_time_taken": 7.86
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "xhdq3yAq_uo",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "जय श्री राम जय श्री महाकाल Suzelon अब यह कंपनी के ऊपर वीडियो बनाना इसलिए भी जरूरी था क्योंकि आप लोगों ने पिछले चार वीडियोस",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 8000,
+   "snippet": "में करीब-करीब 100 से ऊपर कमेंट्स इस चीज के ऊपर करें कि Suzzlon में क्या करें? जो लोग काफी टाइम से मेरे को फॉलो कर रहे हैं",
+   "start_time_text": "0:08",
+   "start_time_label": "8 seconds"
+  },
+  {
+   "start_ms": 16000,
+   "snippet": "उनको पता है कि Suzzelon में हम लोगों ने 40 के करीब-करीब बाइंग करी थी और 55 के करीब-करीब हमने सेल किया था। वी कुडंट सेल",
+   "start_time_text": "0:16",
+   "start_time_label": "16 seconds"
+  },
+  {
+   "start_ms": 23000,
+   "snippet": "एट द टॉप जो कि मार्केट में जरूरी नहीं है कि हर बार हो। हां बट अभी वापस Suzelon 38 के करीब आ चुका है। तो क्या करना चाहिए?",
+   "start_time_text": "0:23",
+   "start_time_label": "23 seconds"
+  },
+  {
+   "start_ms": 31000,
+   "snippet": "कैसे सोें इस कंपनी के बारे में? इन सारी चीजों के ऊपर एक डिटेल वीडियो आपके सामने है। बट ये ध्यान रखिएगा इसको बाइंग सेलिंग रेकमेंडेशन के हिसाब से मत देखिए। इसको",
+   "start_time_text": "0:31",
+   "start_time_label": "31 seconds"
+  },
+  {
+   "start_ms": 39000,
+   "snippet": "प्योरली समझिए कि जब इस तरह की कंपनी अपने सपोर्ट्स पे आती है तो क्या सपोर्ट्स पे लेना बनता है? और क्या इस कंपनी का फ्यूचर",
+   "start_time_text": "0:39",
+   "start_time_label": "39 seconds"
+  },
+  {
+   "start_ms": 46000,
+   "snippet": "ब्राइट है? तो यह ध्यान रखिएगा कि इसको बाइंग सेलिंग के हिसाब से नहीं देखना है।",
+   "start_time_text": "0:46",
+   "start_time_label": "46 seconds"
+  },
+  {
+   "start_ms": 51000,
+   "snippet": "और अगर आप इसके अलावा मेरा एक्सक्लूसिव कंटेंट देखना चाहते हैं तो इस वीडियो के नीचे जॉइन का बटन है वो जॉइन का बटन दबा दीजिए जहां पर आप एक्सक्लूसिव ग्रुप का",
+   "start_time_text": "0:51",
+   "start_time_label": "51 seconds"
+  },
+  {
+   "start_ms": 58000,
+   "snippet": "पार्ट बन जाएंगे और वहां पर अब चल रहे हैं टोटल मिला के फोर फंडामेंटल्स। पहला यू कमेंट आई मेक का एक तो है ही है। दूसरा",
+   "start_time_text": "0:58",
+   "start_time_label": "58 seconds"
+  },
+  {
+   "start_ms": 67000,
+   "snippet": "मैं लाइव आता हूं आप लोगों के लिए। तीसरा हम बात करते हैं मुनाफे की बात पर और अब मैं वेबिनार्स भी ले रहा हूं आप लोगों के लिए ताकि आपके क्वेश्चंस और क्लियरली",
+   "start_time_text": "1:07",
+   "start_time_label": "1 minute, 7 seconds"
+  },
+  {
+   "start_ms": 74000,
+   "snippet": "सॉल्व भी होते जाए। तो अगर आप एक्सक्लूसिव ग्रुप का पार्ट बनना चाहते हैं तो इस वीडियो के नीचे जॉइन का बटन है। जॉइन का बटन दबा दीजिए। हम बात करते हैं Suzelon",
+   "start_time_text": "1:14",
+   "start_time_label": "1 minute, 14 seconds"
+  },
+  {
+   "start_ms": 82000,
+   "snippet": "की। अब Suzelon में ये हम बात कर सकते हैं कि Suzlon इट इज़ राइट नाउ एट द लेवल ऑफ़ 2.0। कहने का मतलब पहले जो Suzelon की",
+   "start_time_text": "1:22",
+   "start_time_label": "1 minute, 22 seconds"
+  },
+  {
+   "start_ms": 90000,
+   "snippet": "कहानी थी। मैंने अपने काफी पुराने वीडियोस में बहुत सारी बार इसके बारे में डिटेल डिस्कशन किया है। तो अब वापस उसके ऊपर नहीं जाऊंगा मैं। बट आगे का देखेंगे कि",
+   "start_time_text": "1:30",
+   "start_time_label": "1 minute, 30 seconds"
+  },
+  {
+   "start_ms": 98000,
+   "snippet": "Suzelon में भी क्या हुआ। पेनी स्टॉक था जो अब रिवाइव हो गई है कंपनी और 2.0 जो Suzelon का पार्ट चल रहा है उसमें आर ईटेक",
+   "start_time_text": "1:38",
+   "start_time_label": "1 minute, 38 seconds"
+  },
+  {
+   "start_ms": 106000,
+   "snippet": "इज द मोस्टेंट थिंग जहां पर ये लोग जा रहे हैं रिन्यूएबल एनर्जी टेक्नोलॉजी की बात कर रहे हैं और एक डेवलपमेंट कंपनी बन चुकी है ये एकिस्टिंग इनके पास अभी जो दो",
+   "start_time_text": "1:46",
+   "start_time_label": "1 minute, 46 seconds"
+  },
+  {
+   "start_ms": 115000,
+   "snippet": "प्रोडक्ट्स हैं वो बहुत स्ट्रांग है दैट इज S14 टरबाइन जो कि बहुत ज्यादा इसका सबसे",
+   "start_time_text": "1:55",
+   "start_time_label": "1 minute, 55 seconds"
+  },
+  {
+   "start_ms": 121000,
+   "snippet": "ज्यादा चलने वाला प्रोडक्ट वही है और S120 S14 जो टरबाइन है उसका 80% % से ज्यादा का जो सोर्सिंग है वो इंडिया से ही होता है।",
+   "start_time_text": "2:01",
+   "start_time_label": "2 minutes, 1 second"
+  },
+  {
+   "start_ms": 132000,
+   "snippet": "मतलब एक तरह से मेक इन इंडिया वाला कांसेप्ट है। ऑब्वियस सी बात है मोदी जी वुड बी वेरी हैप्पी विद दिस। ठीक है? है तो मेक इन इंडिया का सबसे ज्यादा जो रूप",
+   "start_time_text": "2:12",
+   "start_time_label": "2 minutes, 12 seconds"
+  },
+  {
+   "start_ms": 139000,
+   "snippet": "लिया है अच्छा खासा रूप आया है वो Suzelon में आया है। S14 की जो मैं बात कर रहा हूं 90% से ज्यादा के जो ऑर्डर्स हैं वो इसी",
+   "start_time_text": "2:19",
+   "start_time_label": "2 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 148000,
+   "snippet": "के हैं। मतलब एक तरह का इनका फ्लैशिप प्रोडक्ट वो बन चुका है। S13 विंड टरबाइन जनरेटर है जो कि अब इन्होंने उसको बेहतर",
+   "start_time_text": "2:28",
+   "start_time_label": "2 minutes, 28 seconds"
+  },
+  {
+   "start_ms": 157000,
+   "snippet": "कर दिया है। जहां पर 3.15 मेगावाट्स तक यह एक्सटेंड कर सकता है। ऑर्डर बुक की अगर मैं बात करूं तो 6135",
+   "start_time_text": "2:37",
+   "start_time_label": "2 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 165000,
+   "snippet": "मेगावाट्स का इनके पास ऑर्डर बुक है जो कि जुलाई 2026 तक का मैं आपको बता रहा हूं अभी और 88% ऑफ द ऑर्डर बुक है S14 का। तो",
+   "start_time_text": "2:45",
+   "start_time_label": "2 minutes, 45 seconds"
+  },
+  {
+   "start_ms": 175000,
+   "snippet": "इससे आपको एक चीज क्लियर हो गई होगी कि S1 144 इनका एक बहुत ही स्ट्रांग प्रोडक्ट है और जिस हिसाब से ये चल रहा है फ्यूचर भी",
+   "start_time_text": "2:55",
+   "start_time_label": "2 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 182000,
+   "snippet": "उसका काफी ब्राइट ही दिख रहा है। इनके क्लाइंट्स हैं ACC adan Aitya Birla PR",
+   "start_time_text": "3:02",
+   "start_time_label": "3 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 190000,
+   "snippet": "Bajaj Brukfield GEL NTPC oएggc Reliance Industries मोटा भाई भी इन्हीं",
+   "start_time_text": "3:10",
+   "start_time_label": "3 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 199000,
+   "snippet": "के क्लाइंट है श्री सीमेंट Vedant ये सारे कंपनीज़ इनके क्लाइंट्स हैं। तो अगर आप क्लाइंट बुक भी देखोगे तो बहुत अच्छी है।",
+   "start_time_text": "3:19",
+   "start_time_label": "3 minutes, 19 seconds"
+  },
+  {
+   "start_ms": 206000,
+   "snippet": "ऑर्डर बुक बहुत अच्छी है। अब फिर इतना गिर क्यों रहा है? देखो पहली चीज़ समझो मार्केट का सेंटीमेंट भी वैसा है। ऐज़ ऑफ़ नाउ अगर",
+   "start_time_text": "3:26",
+   "start_time_label": "3 minutes, 26 seconds"
+  },
+  {
+   "start_ms": 214000,
+   "snippet": "आप देख रहे हो वॉर के सेंटीमेंट्स जिस हिसाब से चल रहे हैं कहीं पर भी सर्टेनिटी नहीं है। हर जगह अनसर्टेनिटी ज्यादा है तो",
+   "start_time_text": "3:34",
+   "start_time_label": "3 minutes, 34 seconds"
+  },
+  {
+   "start_ms": 221000,
+   "snippet": "ऑटोमेटिकली पूरे मार्केट पे जब प्रेशर बनेगा तो इनके ऊपर भी बनेगा ही ना। अब पूरा मार्केट अगर अपने टॉप से 20% नीचे",
+   "start_time_text": "3:41",
+   "start_time_label": "3 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 228000,
+   "snippet": "जाएगा तो ऐसी कंपनीज जो कि थोड़ी सी वनरेबल ज्यादा होती हैं जिनका बीटा थोड़ा हाई होता है। अगर मार्केट 20% गिरता है तो",
+   "start_time_text": "3:48",
+   "start_time_label": "3 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 236000,
+   "snippet": "ये 40-45% गिरती हैं। बट मजेदार बात ये है ये अभी अपने हैं सपोर्ट पे। उसके ऊपर मैं आऊंगा जब हम टेक्निकल्स के ऊपर बात",
+   "start_time_text": "3:56",
+   "start_time_label": "3 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 243000,
+   "snippet": "करेंगे। एज ऑफ नाउ अगर इनका बिजनेस भी मैं देखूं तो 98% का जो बिज़नेस इनको आता है, रेवेन्यू आता है वो डोमेस्टिक है। सिर्फ",
+   "start_time_text": "4:03",
+   "start_time_label": "4 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 250000,
+   "snippet": "2% ही ऐसा है जो एक्सपोर्ट ये लोग कर रहे हैं। वैल्यू्यूएशन जबरदस्त है। जबरदस्त 16.87 का इनका प्राइस अर्निंग रेशियो है।",
+   "start_time_text": "4:10",
+   "start_time_label": "4 minutes, 10 seconds"
+  },
+  {
+   "start_ms": 261000,
+   "snippet": "अगर मैं इसको मार्केट से कंपेयर करने जाऊं तो मार्केट का 33 है। तो उस हिसाब से देखा जाए तो इनके वैल्यू्यूएशंस अमेजिंग है। और",
+   "start_time_text": "4:21",
+   "start_time_label": "4 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 269000,
+   "snippet": "अगर ऐसे वैल्यू्यूएशंस मिल रहे हैं और अगर यहां से मार्केट रिवर्स करता है क्योंकि सपोर्ट पर है मार्केट भी तो ऑटोमेटिकली यह",
+   "start_time_text": "4:29",
+   "start_time_label": "4 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 276000,
+   "snippet": "वाली कंपनीज़ अगर मार्केट 20% बढ़ेगा तो ये भी फिर बढ़ेंगे 40% के करीब-करीब। सो ऑनेस्टली स्पीकिंग मतलब आई एम वेरी",
+   "start_time_text": "4:36",
+   "start_time_label": "4 minutes, 36 seconds"
+  },
+  {
+   "start_ms": 283000,
+   "snippet": "पॉजिटिव फॉर Suzzlon जो कि मैं पिछले कुछ वीडियोस से भी था। बट ऑटोमेटिकली जब होता है कि ₹50 से गिर के 38 39 पे आ जाए शेयर",
+   "start_time_text": "4:43",
+   "start_time_label": "4 minutes, 43 seconds"
+  },
+  {
+   "start_ms": 290000,
+   "snippet": "25% की गिरावट आ जाती है तो मन में डर लगता है और लगना वाजबी भी है। इनके फाइनशियल्स देख लेते हैं। अभी सेप्टेंबर क्वार्टर खत्म होगा तो अक्टूबर में जब",
+   "start_time_text": "4:50",
+   "start_time_label": "4 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 298000,
+   "snippet": "आएगा इनके रिजल्ट्स आएंगे तब तो हम एक सेपरेट वीडियो रिजल्ट्स के ऊपर बनाएंगे।",
+   "start_time_text": "4:58",
+   "start_time_label": "4 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 302000,
+   "snippet": "बट अभी तक जो जून के नंबर्स हैं हमारे उसके ऊपर फोकस कर लेते हैं। 38 29 करोड़ का इनका रेवेन्यू था जून 26 में। अगर इसको जून 25 से मैं कंपेयर करूं तो 3132 था।",
+   "start_time_text": "5:02",
+   "start_time_label": "5 minutes, 2 seconds"
+  },
+  {
+   "start_ms": 313000,
+   "snippet": "मतलब इफेक्टिवली 20% का आपका ईयर ऑन ईयर रेवेन्यू बढ़ा है। दैट्स गुड। एक बस थोड़ा नेगेटिव लगा मार्केट से लेके तो वो था कि",
+   "start_time_text": "5:13",
+   "start_time_label": "5 minutes, 13 seconds"
+  },
+  {
+   "start_ms": 322000,
+   "snippet": "पहले यह ₹100 पे ₹19 कमा रहे अब यह ₹100 पर ₹16 ही कमा रहे हैं। जब आपका ऑपरेटिंग मार्जिन कम हो जाता है ना तो आपको कहीं ना",
+   "start_time_text": "5:22",
+   "start_time_label": "5 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 331000,
+   "snippet": "कहीं कहीं ना कहीं आपको थोड़ा सा डर लगना वाजिबी भी है। जबकि प्रॉफिट आफ्टर टैक्स भी गिरा है। 324 करोड़ से गिरकर 305 करोड़",
+   "start_time_text": "5:31",
+   "start_time_label": "5 minutes, 31 seconds"
+  },
+  {
+   "start_ms": 340000,
+   "snippet": "हुआ है। अगर इसको मार्च क्वार्टर से मैं कंपेयर करूं जो कि अब नहीं करा जा सकता क्योंकि मार्च क्वार्टर ऐसी कंपनीज़ के लिए एक अलग सेगमेंट हो जाता है। रीज़न क्योंकि",
+   "start_time_text": "5:40",
+   "start_time_label": "5 minutes, 40 seconds"
+  },
+  {
+   "start_ms": 348000,
+   "snippet": "मार्च क्वार्टर में गवर्नमेंट के बहुत सारे ऐसे कॉन्ट्रैक्ट्स होते हैं, पेमेंट्स होते हैं जो कॉन्ट्रैक्ट्स का एक्सपायरी भी होती है। तो इसको अपन मार्च क्वार्टर से कंपेयर ना करें तो ज्यादा",
+   "start_time_text": "5:48",
+   "start_time_label": "5 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 355000,
+   "snippet": "बेहतर प्रमोटर अब देखो क्योंकि पेनी स्टॉक है रिवाइव हुई थी तो प्रमोटर इतने ज्यादा होंगे तो सही नहीं 13% से गिर के 11% हुए",
+   "start_time_text": "5:55",
+   "start_time_label": "5 minutes, 55 seconds"
+  },
+  {
+   "start_ms": 365000,
+   "snippet": "हैं प्रमोटर एफआईआई 22% से बढ़ के 24% हुए हैं। मतलब एफआईआई का अच्छा खासा होल्ड है इस कंपनी में। इनफैक्ट डीआईआई भी 8% से",
+   "start_time_text": "6:05",
+   "start_time_label": "6 minutes, 5 seconds"
+  },
+  {
+   "start_ms": 374000,
+   "snippet": "बढ़कर 11% हुए हैं। ये दोनों पॉइंट अगर आप देखोगे एफआईआई और डीआई खरीद रहे हैं। जबकि एफआईआई पूरे मार्केट में सेलिंग कर रहे",
+   "start_time_text": "6:14",
+   "start_time_label": "6 minutes, 14 seconds"
+  },
+  {
+   "start_ms": 382000,
+   "snippet": "हैं। और यहां पर इस कंपनी में अगर आपको बाइंग मिल रही है व्हाट यू वांट? इसके अलावा आपको क्या चाहिए अब कंपनी के लिए?",
+   "start_time_text": "6:22",
+   "start_time_label": "6 minutes, 22 seconds"
+  },
+  {
+   "start_ms": 390000,
+   "snippet": "डीआईआई भी 8% से बढ़कर 11% हुए हैं। अगेन दैट्स अ पॉजिटिव पॉइंट। पब्लिक जो पहले 55% थी वो गिर के हुई है 53%। तो प्रमोटर",
+   "start_time_text": "6:30",
+   "start_time_label": "6 minutes, 30 seconds"
+  },
+  {
+   "start_ms": 398000,
+   "snippet": "और पब्लिक बेच रहे हैं, बेचा है और एफआई डीआई खरीद रहे हैं। तो ये एक तरह से देखा जाए तो अच्छा ही है। एफआई डीआई अगर आपकी कंपनी में इंटरेस्टेड हैं तो ऑटोमेटिकली",
+   "start_time_text": "6:38",
+   "start_time_label": "6 minutes, 38 seconds"
+  },
+  {
+   "start_ms": 407000,
+   "snippet": "दे फील कि हां मार्केट में कहीं ना कहीं इसमें रिवाइवल आएगा। बात करते हैं टेक्निकल्स की। 38 एक बहुत ज्यादा",
+   "start_time_text": "6:47",
+   "start_time_label": "6 minutes, 47 seconds"
+  },
+  {
+   "start_ms": 416000,
+   "snippet": "क्रिटिकल सपोर्ट है। अगर 38 क्रॉस कर जाता है, नीचे जाता है तो पेन थोड़ा बढ़ सकता",
+   "start_time_text": "6:56",
+   "start_time_label": "6 minutes, 56 seconds"
+  },
+  {
+   "start_ms": 423000,
+   "snippet": "है। और अगर 38 से रिवाइव हो गया तो यहां पर 50 54 तक जाने की वापस उम्मीद चालू हो जाएगी। बट क्योंकि आपको रिवर्सल चाहिए तो",
+   "start_time_text": "7:03",
+   "start_time_label": "7 minutes, 3 seconds"
+  },
+  {
+   "start_ms": 431000,
+   "snippet": "आपको नीचे जैसे 38 के करीब आया तो आपको एक अच्छा रिवर्सल चाहिए। इदर अ ग्रीन गुड कैंडल और अ हैमर और अ डोजी व्हिच फॉलोस द",
+   "start_time_text": "7:11",
+   "start_time_label": "7 minutes, 11 seconds"
+  },
+  {
+   "start_ms": 441000,
+   "snippet": "नेक्स्ट बुलिश ट्रेंड। ठीक है? तो थोड़ा सब्र करना पड़ेगा। रही बात इतना अगर आप डिटेल में सब कुछ सीखना चाहते हैं तो आप",
+   "start_time_text": "7:21",
+   "start_time_label": "7 minutes, 21 seconds"
+  },
+  {
+   "start_ms": 449000,
+   "snippet": "सबको पता है मेरा कोर्स है द लॉजिकल इन्वेस्टर जिसकी नई बैच मैं चालू कर रहा हूं 10th ऑफ़ अक्टूबर से और ये बैच जो मैं चालू करूंगा अगेन फंडामेंटल टेक्निकल",
+   "start_time_text": "7:29",
+   "start_time_label": "7 minutes, 29 seconds"
+  },
+  {
+   "start_ms": 457000,
+   "snippet": "एनालिसिस दोनों सिखाते हैं इसमें। कब एंट्री करनी चाहिए, कब एग्जिट करना चाहिए, क्या दिमाग से इन्वेस्ट करना चाहिए, किस लेवल पर बैठना चाहिए? कैसे पेशेंस आता है?",
+   "start_time_text": "7:37",
+   "start_time_label": "7 minutes, 37 seconds"
+  },
+  {
+   "start_ms": 464000,
+   "snippet": "जिओपॉलिटिक्स को कैसे समझें? ये सारी चीजें उसमें सिखाई जाती है। वीकेंड बैच होती है। सैटरडे संडेस की बैचेस होती है।",
+   "start_time_text": "7:44",
+   "start_time_label": "7 minutes, 44 seconds"
+  },
+  {
+   "start_ms": 470000,
+   "snippet": "बड़ा मजा आता है। एक घंटा मैं पढ़ाता हूं और एक घंटा आप लोगों से फिर बातचीत करता हूं ताकि हमारा भी पर्सनल टच रहे। बैच साइज भी होता है छोटा। अगर आप इंटरेस्टेड",
+   "start_time_text": "7:50",
+   "start_time_label": "7 minutes, 50 seconds"
+  },
+  {
+   "start_ms": 478000,
+   "snippet": "हैं स्क्रीन पर आपके पास नंबर है। आप उसके ऊपर कॉल करिए या WhatsApp करिए एंड देन यू कैन डेफिनेटली जॉइन द बैच। और कमेंट करके बताइएगा ये वीडियो आपको कैसा लगा? क्या",
+   "start_time_text": "7:58",
+   "start_time_label": "7 minutes, 58 seconds"
+  },
+  {
+   "start_ms": 486000,
+   "snippet": "आपको समझ में आया कि Suzuelon में क्या करना चाहिए? शेयर करिएगा अपने दोस्तों के साथ। मैं मिलता हूं अगले वीडियो में। टिल देन जय श्री राम। जय श्री महाकाल।",
+   "start_time_text": "8:06",
+   "start_time_label": "8 minutes, 6 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:07:36"
+}

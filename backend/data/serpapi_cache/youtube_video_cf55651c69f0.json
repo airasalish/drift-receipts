@@ -1,0 +1,676 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5e0dc74d0da36ba252d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/E6ictvqgQ7fmucqVoTrNB0lUfC8_Up72MqSuQdn1vnw/6ac9f5e0dc74d0da36ba252d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/E6ictvqgQ7fmucqVoTrNB0lUfC8_Up72MqSuQdn1vnw/6ac9f5e0dc74d0da36ba252d.md",
+  "created_at": "2026-10-10 08:22:56 UTC",
+  "processed_at": "2026-10-10 08:22:56 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=EG4acdv-H-4",
+  "raw_html_file": "https://serpapi.com/searches/E6ictvqgQ7fmucqVoTrNB0lUfC8_Up72MqSuQdn1vnw/6ac9f5e0dc74d0da36ba252d.html",
+  "prettify_html_file": "https://serpapi.com/searches/E6ictvqgQ7fmucqVoTrNB0lUfC8_Up72MqSuQdn1vnw/6ac9f5e0dc74d0da36ba252d.prettify",
+  "total_time_taken": 0.91
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "EG4acdv-H-4",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Waiting for the US Stock Market to fall? (Well, it will keep going up. Here's why)",
+ "thumbnail": "https://i.ytimg.com/vi/EG4acdv-H-4/maxresdefault.jpg",
+ "channel": {
+  "name": "Akshat Shrivastava",
+  "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AkshatZayn",
+  "subscribers": "2.27M subscribers",
+  "extracted_subscribers": 2270000,
+  "verified": true
+ },
+ "views": "113,537 views",
+ "extracted_views": 113537,
+ "likes": "1.6K",
+ "extracted_likes": 1600,
+ "published_date": "Aug 20, 2026",
+ "description": {
+  "content": "👉 Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): https://wisdomhatch.com/courses/globa...\n________________\n👉 I use Vested to invest in US Stocks. EXCLUSIVE $10 bonus on 1st Deposit if you sign up using this link:\nhttps://vested.app.link/akshat\n\n[DISCLAIMER: US Securities on Vested are offered through VF Securities Inc.. This post is in partnership with and sponsored by Vested. Creator may also hold shares in Vested]\n________________\n👉 Get daily stock market updates: (only at 179/month):\n   / @akshatzayn  \n______________\nWhich stock market is expected to perform better in the future?\n\nWatch this video till the end to understand fundamentally.\n\nPLEASE NOTE: THIS IS NOT AN INVESTMENT ADVICE. PLEASE DO YOUR OWN DUE DILIGENCE\n****\nLinkedin►  / akshatshrivastavainsead  \nTwitter►  / akshat_world  \nInstagram►   / akshat.world  \n***********************\nAttributions:\nStock videos from Pixabay and Pexels\nLogos: Wikipedia Commons",
+  "links": [
+   {
+    "start_index": 94,
+    "length": 40,
+    "text": "ttps://wisdomhatch.com/courses/globa...\n",
+    "url": "https://wisdomhatch.com/courses/global-investing-community/"
+   },
+   {
+    "start_index": 259,
+    "length": 30,
+    "text": "tps://vested.app.link/akshat\n\n",
+    "url": "https://vested.app.link/akshat"
+   },
+   {
+    "start_index": 539,
+    "length": 18,
+    "text": "/ @akshatzayn  \n__",
+    "url": "https://www.youtube.com/channel/UCqW8jxh4tH1Z1sWPbkGWL4g/join"
+   },
+   {
+    "start_index": 792,
+    "length": 29,
+    "text": " akshatshrivastavainsead  \nTw",
+    "url": "https://www.linkedin.com/in/akshatshrivastavainsead/"
+   },
+   {
+    "start_index": 830,
+    "length": 18,
+    "text": " akshat_world  \nIn",
+    "url": "https://twitter.com/Akshat_World"
+   },
+   {
+    "start_index": 860,
+    "length": 18,
+    "text": " akshat.world  \n**",
+    "url": "https://www.instagram.com/akshat.world/"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "xIt_he3f4lY",
+   "link": "https://www.youtube.com/watch?v=xIt_he3f4lY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xIt_he3f4lY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xIt_he3f4lY/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAKGWlefcEll4L0bjfY4-IVatuB4Q&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/xIt_he3f4lY/mqdefault_6s.webp?du=3000&sqp=CNTJp9YG&rs=AOn4CLCS1I0St6hypmzLMLGU45aqIOJUyA&usqp=CCY"
+   },
+   "title": "Should NRIs even invest in India? | Akshat Shrivastava",
+   "published_date": "1mo ago",
+   "views": "97K",
+   "extracted_views": 97000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "yN-hmoHixY8",
+   "link": "https://www.youtube.com/watch?v=yN-hmoHixY8&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yN-hmoHixY8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/yN-hmoHixY8/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBUX6rkfq3PWX_6tp64KtMjTdfQyA&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/yN-hmoHixY8/mqdefault_6s.webp?du=3000&sqp=CLbUp9YG&rs=AOn4CLAZaK53uPNsc0uh93kpoMRouKUigA&usqp=CCY"
+   },
+   "title": "Home Prices Could Fall Up to 50% as Mortgages Head for 9%, Peter Schiff Warns",
+   "published_date": "2d ago",
+   "views": "251K",
+   "extracted_views": 251000,
+   "channel": {
+    "name": "Kitco NEWS and Peter Schiff",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCUlVhHz32OwWIYhJOjYecD0P7vZw&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/4WvqWxmPynM/mqdefault_6s.webp?du=3000&sqp=CPPDp9YG&rs=AOn4CLCzMQQll9aJmeBeB_h6GyWCdM6yKw&usqp=CCY"
+   },
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "2d ago",
+   "views": "606K",
+   "extracted_views": 606000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "tvERE-Beu2U",
+   "link": "https://www.youtube.com/watch?v=tvERE-Beu2U&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tvERE-Beu2U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tvERE-Beu2U/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBpEPdmL_Zmo6Rn1vpO6GUtq9gQvw&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/tvERE-Beu2U/mqdefault_6s.webp?du=3000&sqp=CMjEp9YG&rs=AOn4CLBcEHz1Jp31B-3OPmjzdBxUYLLtZA&usqp=CCY"
+   },
+   "title": "Trading LIVE with a World TOP Ranked Scalper (EXTREME Accuracy)",
+   "published_date": "1y ago",
+   "views": "4.7M",
+   "extracted_views": 4700000,
+   "channel": {
+    "name": "Chart Fanatics",
+    "link": "https://www.youtube.com/@chart-fanatics",
+    "thumbnail": "https://yt3.ggpht.com/zYPtMICcH6Sh3FhwR7TRXslSDnQItCcBdrumNuJDySiOr3ozkuPcwsmaHKLure8F-WqcWS0w=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBhi679tjP3so3gKNmCZ6PsTyC-Jw&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CL_bp9YG&rs=AOn4CLDD51Rz0dT8mXUez4Lfiizjjj-k0g&usqp=CCY"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "DzNXvsMw2ik",
+   "link": "https://www.youtube.com/watch?v=DzNXvsMw2ik&pp=ugUEEgJlbtIHCQk3DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DzNXvsMw2ik",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/DzNXvsMw2ik/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAHASea3ZpTLUUMFD72GuRMlAjU1w&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/DzNXvsMw2ik/mqdefault_6s.webp?du=3000&sqp=CLzVp9YG&rs=AOn4CLAgrC8jkJPVA-ZyRf_pQhJqCJBkqg&usqp=CCY"
+   },
+   "title": "Monster Moves, Long-Term Trends And Wisdom For Your Portfolio | Investing with IBD",
+   "published_date": "Streamed 1mo ago",
+   "views": "56K",
+   "extracted_views": 56000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "TD15Tm_XJbs",
+   "link": "https://www.youtube.com/watch?v=TD15Tm_XJbs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TD15Tm_XJbs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TD15Tm_XJbs/hqdefault_custom_1.jpg?sqp=CLDqp9YG-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBjjX5zc4TndUjNuOzxdDD0yiMHRQ&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/TD15Tm_XJbs/mqdefault_6s.webp?du=3000&sqp=CLm1p9YG&rs=AOn4CLAVfETnKCTcdgBpuhhZTF5RFDrTlw&usqp=CCY"
+   },
+   "title": "The First Domino in the US Debt Crisis",
+   "published_date": "1d ago",
+   "views": "213K",
+   "extracted_views": 213000,
+   "channel": {
+    "name": "Mark Tilbury Economics",
+    "link": "https://www.youtube.com/@MarksEconomics",
+    "thumbnail": "https://yt3.ggpht.com/8dLKG15YyUvRvd8gaUdyd72neE7G_9brYXx4mE9uugbTIXHRl7LJNJDwF_PNgXCIJRG-FI8f74U=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "lTCzIDITaac",
+   "link": "https://www.youtube.com/watch?v=lTCzIDITaac",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lTCzIDITaac",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/lTCzIDITaac/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCQLp2pBQFT6iNVElUv44llwrb8sQ&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/lTCzIDITaac/mqdefault_6s.webp?du=3000&sqp=CLXQp9YG&rs=AOn4CLB8ws8s-NAYYK6ockIxUQNWek6-ug&usqp=CCY"
+   },
+   "title": "India vs. China vs. US: Who Wins the Next Decade? | WTF is Finance | Ep 1 ft. Ruchir Sharma",
+   "published_date": "1y ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "Nikhil Kamath",
+    "link": "https://www.youtube.com/@nikhil.kamath",
+    "thumbnail": "https://yt3.ggpht.com/XGYri31DcKi98pan5DYErwHPuPSQbUX97DpRzp-652rpXvrXuokR_YJrSdm6LJJORJkTvL7kBF0=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "CpIk_P1S3iM",
+   "link": "https://www.youtube.com/watch?v=CpIk_P1S3iM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CpIk_P1S3iM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CpIk_P1S3iM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBE4M3EGfArwjOKTd2ASeMr21v2IA&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/CpIk_P1S3iM/mqdefault_6s.webp?du=3000&sqp=CPfOp9YG&rs=AOn4CLBPfLqjDmELitzbCPw6VEek06E68w&usqp=CCY"
+   },
+   "title": "‘Very Similar To 1987': Here's What Bonds Break Next | Mike McGlone",
+   "published_date": "1d ago",
+   "views": "74K",
+   "extracted_views": 74000,
+   "channel": {
+    "name": "David Lin ",
+    "link": "https://www.youtube.com/@TheDavidLinReport",
+    "thumbnail": "https://yt3.ggpht.com/jAF80no0G0wu5YesHd7oAlBzTyhhV9zCQfDVDg3mOBWtALZVHrWs3nSLdYH59oUL-d0v9LxB=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "fLg6JtN80JM",
+   "link": "https://www.youtube.com/watch?v=fLg6JtN80JM&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fLg6JtN80JM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/fLg6JtN80JM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAN7T9f_YpCF8JnBCHPais7ZFVEeA&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/fLg6JtN80JM/mqdefault_6s.webp?du=3000&sqp=CLbVp9YG&rs=AOn4CLBUsUFp0ACxBA5slwsIjYIdmuRb6w&usqp=CCY"
+   },
+   "title": "“New Highs Are The Best Time To Buy” — Art Hogan’s Playbook For S&P 8,000",
+   "published_date": "1d ago",
+   "views": "50K",
+   "extracted_views": 50000,
+   "channel": {
+    "name": "TheStreet",
+    "link": "https://www.youtube.com/@TheStreet",
+    "thumbnail": "https://yt3.ggpht.com/ZSip_4-HWRT9BvL6NIP2LGIQte6WXzqlwQS6MKezlwSmCvLUf8xTjCbjWHFLpLa2wvGd0xeKnA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "Zw0I7kb6zg4",
+   "link": "https://www.youtube.com/watch?v=Zw0I7kb6zg4&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zw0I7kb6zg4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Zw0I7kb6zg4/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLACu34JjhnNxIzmybPJXFYTdoJMKg&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/Zw0I7kb6zg4/mqdefault_6s.webp?du=3000&sqp=CPapp9YG&rs=AOn4CLB3Gc0taB6Gu3Mc_ofjCwbYb7nj9g&usqp=CCY"
+   },
+   "title": "'Big Short' Investor Explains How the AI Bubble Will Burst",
+   "published_date": "7d ago",
+   "views": "3M",
+   "extracted_views": 3000000,
+   "channel": {
+    "name": "New Money",
+    "link": "https://www.youtube.com/@NewMoneyYouTube",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nGDNKRGWx9DDjeQWiF_DDjj-370lL0W0u2jpQ8Urh4rpo=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wqQuIdtfvU0",
+   "link": "https://www.youtube.com/watch?v=wqQuIdtfvU0&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wqQuIdtfvU0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wqQuIdtfvU0/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAv4n4oIjiStCSYWDjH6PWa0gf72g&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/wqQuIdtfvU0/mqdefault_6s.webp?du=3000&sqp=CKLlp9YG&rs=AOn4CLASuKmxQv7R4zYuYT-kZVJwJMqhUw&usqp=CCY"
+   },
+   "title": "₹90,000 Crore of your money is trapped in Red Tape | Growwing India ft. Sanjeev Sanyal",
+   "published_date": "7d ago",
+   "views": "98K",
+   "extracted_views": 98000,
+   "channel": {
+    "name": "Thrive by Groww",
+    "link": "https://www.youtube.com/@ThrivebyGroww",
+    "thumbnail": "https://yt3.ggpht.com/d6kp6Tfb2xKNLKGoztvED3ItBKyf-bAaINVA1Fv10kPWkMCDq00X_bGW3WpE0F08ucjlK7levA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "pLmt5WEqrc8",
+   "link": "https://www.youtube.com/watch?v=pLmt5WEqrc8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLmt5WEqrc8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pLmt5WEqrc8/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCxfgx-3SSljtl-14uZ5BMNOL3GEQ&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/pLmt5WEqrc8/mqdefault_6s.webp?du=3000&sqp=CJ7Gp9YG&rs=AOn4CLDOgtFFSbYMgamEbKQf2ZEVZeiRxg&usqp=CCY"
+   },
+   "title": "How Banks Actually Create Money in India | Ex-SEBI Official Explains",
+   "published_date": "7d ago",
+   "views": "51K",
+   "extracted_views": 51000,
+   "channel": {
+    "name": "Zerodha Varsity",
+    "link": "https://www.youtube.com/@varsitybyzerodha",
+    "thumbnail": "https://yt3.ggpht.com/1sgOk7YkQWV-xdDa7jyTJZPyHHIFC-Cl0UdS4HvfVjAYRqDZ32-OOtyueC6wm6HYeY7S8AJE=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLDjBfGb0T7pf56mU9yreKe3Fti2iA&usqp=CCY"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "UHHNH4Ji02A",
+   "link": "https://www.youtube.com/watch?v=UHHNH4Ji02A&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UHHNH4Ji02A",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UHHNH4Ji02A/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCwnehQrbD_uVvBVRC5or80baVJzw&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/UHHNH4Ji02A/mqdefault_6s.webp?du=3000&sqp=CLDVp9YG&rs=AOn4CLDgsZajuyKdzrNYgb57H08NR-0JbQ&usqp=CCY"
+   },
+   "title": "If You're STILL a Nike Shareholder After Earnings… Get Ready!",
+   "published_date": "1d ago",
+   "views": "97K",
+   "extracted_views": 97000,
+   "channel": {
+    "name": "Everything Money",
+    "link": "https://www.youtube.com/@EverythingMoney",
+    "thumbnail": "https://yt3.ggpht.com/epbSLPsuUsySttGb1YYeauX1Mfu25b11xyeuUvfw2iTXlwtjPyL7Nt9R2heXZf00VOJSzWwJCw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "YYaigqQ7NTk",
+   "link": "https://www.youtube.com/watch?v=YYaigqQ7NTk&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YYaigqQ7NTk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YYaigqQ7NTk/hqdefault_custom_2.jpg?sqp=CLDqp9YG-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCYCUM-3y0O_vpjVfid5p0Ju0PTxQ&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/YYaigqQ7NTk/mqdefault_6s.webp?du=3000&sqp=CObYp9YG&rs=AOn4CLAwdcxJSY8JWO6XJtJSYB15x35H4A&usqp=CCY"
+   },
+   "title": "Michael Burry issues biggest short since 2007 (it’s happening again)",
+   "published_date": "4h ago",
+   "views": "29K",
+   "extracted_views": 29000,
+   "channel": {
+    "name": "Reventure Consulting",
+    "link": "https://www.youtube.com/@ReventureConsulting",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mYRb0FRUaLLMR4epZEHqU55rK737qKpcrsXvbGElbgQw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "GsXbQWd4TwM",
+   "link": "https://www.youtube.com/watch?v=GsXbQWd4TwM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GsXbQWd4TwM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GsXbQWd4TwM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLB-DoBcNokyC7pyUX8BFRkPr_wo9w&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/GsXbQWd4TwM/mqdefault_6s.webp?du=3000&sqp=CKS8p9YG&rs=AOn4CLBFyNyL3hppoxrnLqoOwBtd2SHIcA&usqp=CCY"
+   },
+   "title": "Politics Chat, October 9, 2026",
+   "published_date": "Streamed 9h ago",
+   "views": "269K",
+   "extracted_views": 269000,
+   "channel": {
+    "name": "Heather Cox Richardson",
+    "link": "https://www.youtube.com/@heathercoxrichardson",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_m-8x3ZHXs1gcdbja8A87HIRTFX4TfUgXLzVxeMn8Jg3g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCHI68M27dOJiCHj5vzkNeDVtzJ4w&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=COzMp9YG&rs=AOn4CLA9-nB_1BOvCP4oPltQgHYcanffog&usqp=CCY"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "753K",
+   "extracted_views": 753000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAPJJMz1p3yHfpfIHlZQCbHSa4EjA&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/NZ0fsllxcdE/mqdefault_6s.webp?du=3000&sqp=CO7Cp9YG&rs=AOn4CLBpv5hy0gh8E5hXXTTs5P5OMaGZEw&usqp=CCY"
+   },
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2w ago",
+   "views": "319K",
+   "extracted_views": 319000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "3ZvWbsE_tFQ",
+   "link": "https://www.youtube.com/watch?v=3ZvWbsE_tFQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3ZvWbsE_tFQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3ZvWbsE_tFQ/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBcn-8FfbaUkU2IUGORkng6hbmx2w&usqp=CCY",
+    "rich": "https://i.ytimg.com/an_webp/3ZvWbsE_tFQ/mqdefault_6s.webp?du=3000&sqp=CNDOp9YG&rs=AOn4CLBSDtY78sd2MfPS7XPi_CUGcjT9jQ&usqp=CCY"
+   },
+   "title": "Generational Wealth Is Being Built Now. Don’t Be Left Behind",
+   "published_date": "1d ago",
+   "views": "129K",
+   "extracted_views": 129000,
+   "channel": {
+    "name": "BWB - Business With Brian",
+    "link": "https://www.youtube.com/@BusinessWithBrian",
+    "thumbnail": "https://yt3.ggpht.com/jJkstO5mMwYql_GLOu5INARSEW_T9MI1--gFWtbqEvY5CXOGEBkATpVsP2MSzIITW8q43xeipg4=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILRUc0YWNkdi1ILTTAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnAZNZ3NJMU9qLWllek45YzNkQWRyT2ktc013UVFLdmdRS0FfSS1BQW9Pd2o0TENOYkVfLTdlOE5fRnhBRUtBX0ktQUFvT3dqNExDSS1MaTQtb3MtanZ5QUVLQV9JLUFBb093ajRMQ1BPVXY4eXh5X3ExNFFFS0FfSS1BQW9Pd2o0TENPWDItb0stb3NUNHRnRUtBX0ktQUFvT3dqNExDTzIyNUlxYTRNaWQ5UUVLQV9JLUFBb053ajRLQ0ttMHc1bnM5OVdaRHdvRDhqNEFDZzNDUGdvSXU4dmNfdWFwM3A1TUNnUHlQZ0FLRHNJLUN3aW4wODJRZy1Tc21KVUJDZ1B5UGdBS0RjSS1DZ2lqdk12cXo1LUp5UW9LQV9JLUFBb053ajRLQ0pPaDg1dnR4STdjZkFvRDhqNEFDZzNDUGdvSWpwenJ0LVNkd29abkNnUHlQZ0FLRHNJLUN3ak4tdjdhbmNTTDBzSUJDZ1B5UGdBS0RzSS1Dd2pQMjZxSjFyenIzS1FCQ2dQeVBnQUtEY0ktQ2dqMDNzSGF2WjdaNWwwS0FfSS1BQW9Od2o0S0NPQ21pNVA0b19PNFVBb0Q4ajRBQ2czQ1Bnb0l1ZXJzb2FyUXFNTmhDZ1B5UGdBS0RjSS1DZ2lEbnVHN2x1ajI0aG9LQV9JLUFBb093ajRMQ042VG9MYTU4T2VNNndFS0FfSS1BQW9Od2o0S0NOSGp4Y3VsOXNmT05Rb0Q4ajRBQ2c3Q1Bnc0kxT2otaWV6TjljM2RBUklVQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZYUJBZ0FFQUVhQkFnQ0VBTWFCQWdFRUFVYUJBZ0dFQWNhQkFnSUVBa2FCQWdLRUFzYUJBZ01FQTBhQkFnT0VBOGFCQWdRRUJFYUJBZ1NFQk1hQkFnVUVCVWFCQWdXRUJjYUJBZ1lFQmthQkFnYUVCc2FCQWdjRUIwYUJBZ2VFQjhhQkFnZ0VDRWFCQWdpRUNNYUJBZ2tFQ1VhQkFnbUVDY3FGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "xIt_he3f4lY",
+   "link": "https://www.youtube.com/watch?v=xIt_he3f4lY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xIt_he3f4lY",
+   "thumbnail": "https://i.ytimg.com/vi/xIt_he3f4lY/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAKGWlefcEll4L0bjfY4-IVatuB4Q",
+   "title": "Should NRIs even invest in India? | Akshat Shrivastava",
+   "published_date": "1 month ago",
+   "views": "97K views",
+   "extracted_views": 97000,
+   "length": "21:08",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "yN-hmoHixY8",
+   "link": "https://www.youtube.com/watch?v=yN-hmoHixY8&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yN-hmoHixY8",
+   "thumbnail": "https://i.ytimg.com/vi/yN-hmoHixY8/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBUX6rkfq3PWX_6tp64KtMjTdfQyA",
+   "title": "Home Prices Could Fall Up to 50% as Mortgages Head for 9%, Peter Schiff Warns",
+   "published_date": "2 days ago",
+   "views": "251K views",
+   "extracted_views": 251000,
+   "length": "1:04:05",
+   "channel": {
+    "name": "Kitco NEWS and Peter Schiff"
+   }
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCUlVhHz32OwWIYhJOjYecD0P7vZw",
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "2 days ago",
+   "views": "606K views",
+   "extracted_views": 606000,
+   "length": "20:54",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "tvERE-Beu2U",
+   "link": "https://www.youtube.com/watch?v=tvERE-Beu2U&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tvERE-Beu2U",
+   "thumbnail": "https://i.ytimg.com/vi/tvERE-Beu2U/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBpEPdmL_Zmo6Rn1vpO6GUtq9gQvw",
+   "title": "Trading LIVE with a World TOP Ranked Scalper (EXTREME Accuracy)",
+   "published_date": "1 year ago",
+   "views": "4.7M views",
+   "extracted_views": 4700000,
+   "length": "3:34:10",
+   "channel": {
+    "name": "Chart Fanatics",
+    "link": "https://www.youtube.com/@chart-fanatics"
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBhi679tjP3so3gKNmCZ6PsTyC-Jw",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1.1M views",
+   "extracted_views": 1100000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "DzNXvsMw2ik",
+   "link": "https://www.youtube.com/watch?v=DzNXvsMw2ik&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DzNXvsMw2ik",
+   "thumbnail": "https://i.ytimg.com/vi/DzNXvsMw2ik/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAHASea3ZpTLUUMFD72GuRMlAjU1w",
+   "title": "Monster Moves, Long-Term Trends And Wisdom For Your Portfolio | Investing with IBD",
+   "published_date": "Streamed 1 month ago",
+   "views": "56K views",
+   "extracted_views": 56000,
+   "length": "51:51",
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily"
+   }
+  },
+  {
+   "video_id": "TD15Tm_XJbs",
+   "link": "https://www.youtube.com/watch?v=TD15Tm_XJbs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TD15Tm_XJbs",
+   "thumbnail": "https://i.ytimg.com/vi/TD15Tm_XJbs/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAc0HOrhlIx9hyKtrDYw_3TIs2MBQ",
+   "title": "The First Domino in the US Debt Crisis",
+   "published_date": "1 day ago",
+   "views": "213K views",
+   "extracted_views": 213000,
+   "length": "27:15",
+   "channel": {
+    "name": "Mark Tilbury Economics",
+    "link": "https://www.youtube.com/@MarksEconomics"
+   }
+  },
+  {
+   "video_id": "lTCzIDITaac",
+   "link": "https://www.youtube.com/watch?v=lTCzIDITaac",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lTCzIDITaac",
+   "thumbnail": "https://i.ytimg.com/vi/lTCzIDITaac/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLCQLp2pBQFT6iNVElUv44llwrb8sQ",
+   "title": "India vs. China vs. US: Who Wins the Next Decade? | WTF is Finance | Ep 1 ft. Ruchir Sharma",
+   "published_date": "1 year ago",
+   "views": "1.1M views",
+   "extracted_views": 1100000,
+   "length": "2:59:44",
+   "channel": {
+    "name": "Nikhil Kamath",
+    "link": "https://www.youtube.com/@nikhil.kamath"
+   }
+  },
+  {
+   "video_id": "CpIk_P1S3iM",
+   "link": "https://www.youtube.com/watch?v=CpIk_P1S3iM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CpIk_P1S3iM",
+   "thumbnail": "https://i.ytimg.com/vi/CpIk_P1S3iM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLBE4M3EGfArwjOKTd2ASeMr21v2IA",
+   "title": "‘Very Similar To 1987': Here's What Bonds Break Next | Mike McGlone",
+   "published_date": "1 day ago",
+   "views": "74K views",
+   "extracted_views": 74000,
+   "length": "38:46",
+   "channel": {
+    "name": "David Lin ",
+    "link": "https://www.youtube.com/@TheDavidLinReport"
+   }
+  },
+  {
+   "video_id": "fLg6JtN80JM",
+   "link": "https://www.youtube.com/watch?v=fLg6JtN80JM&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fLg6JtN80JM",
+   "thumbnail": "https://i.ytimg.com/vi/fLg6JtN80JM/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAN7T9f_YpCF8JnBCHPais7ZFVEeA",
+   "title": "“New Highs Are The Best Time To Buy” — Art Hogan’s Playbook For S&P 8,000",
+   "published_date": "1 day ago",
+   "views": "50K views",
+   "extracted_views": 50000,
+   "length": "20:05",
+   "channel": {
+    "name": "TheStreet",
+    "link": "https://www.youtube.com/@TheStreet"
+   }
+  },
+  {
+   "video_id": "Zw0I7kb6zg4",
+   "link": "https://www.youtube.com/watch?v=Zw0I7kb6zg4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zw0I7kb6zg4",
+   "thumbnail": "https://i.ytimg.com/vi/Zw0I7kb6zg4/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLACu34JjhnNxIzmybPJXFYTdoJMKg",
+   "title": "'Big Short' Investor Explains How the AI Bubble Will Burst",
+   "published_date": "7 days ago",
+   "views": "3M views",
+   "extracted_views": 3000000,
+   "length": "44:10",
+   "channel": {
+    "name": "New Money",
+    "link": "https://www.youtube.com/@NewMoneyYouTube"
+   }
+  },
+  {
+   "video_id": "wqQuIdtfvU0",
+   "link": "https://www.youtube.com/watch?v=wqQuIdtfvU0&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wqQuIdtfvU0",
+   "thumbnail": "https://i.ytimg.com/vi/wqQuIdtfvU0/hqdefault.jpg?sqp=-oaymwErCNACELwBSFryq4qpAx0IARUAAIhCGAHYAQHiAQoIGBACGAY4AUABuALzGA==&rs=AOn4CLAv4n4oIjiStCSYWDjH6PWa0gf72g",
+   "title": "₹90,000 Crore of your money is trapped in Red Tape | Growwing India ft. Sanjeev Sanyal",
+   "published_date": "7 days ago",
+   "views": "98K views",
+   "extracted_views": 98000,
+   "length": "48:48",
+   "channel": {
+    "name": "Thrive by Groww",
+    "link": "https://www.youtube.com/@ThrivebyGroww"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC0VHNGFjZHYtSC00GAYyJSIRIgtFRzRhY2R2LUgtNDAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC0VHNGFjZHYtSC00GAYyOyIUIgtFRzRhY2R2LUgtNDAAeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC0VHNGFjZHYtSC00GAYyOyIUIgtFRzRhY2R2LUgtNDABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=EG4acdv-H-4"
+ },
+ "_fetched_at": "2026-10-10T08:22:55"
+}

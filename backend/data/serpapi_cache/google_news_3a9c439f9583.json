@@ -1,0 +1,1553 @@
+{
+ "search_metadata": {
+  "id": "6ac9455971b492e19e243ab5",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/5rj9d36m1vZwEIiSUy30msy9aNFrqbe6D9N0sckygG8/6ac9455971b492e19e243ab5.json",
+  "markdown_endpoint": "https://serpapi.com/searches/5rj9d36m1vZwEIiSUy30msy9aNFrqbe6D9N0sckygG8/6ac9455971b492e19e243ab5.md",
+  "created_at": "2026-10-09 19:49:45 UTC",
+  "processed_at": "2026-10-09 19:49:45 UTC",
+  "google_news_url": "https://news.google.com/search?q=Suzlon+Energy+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/5rj9d36m1vZwEIiSUy30msy9aNFrqbe6D9N0sckygG8/6ac9455971b492e19e243ab5.html",
+  "total_time_taken": 1.12
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Suzlon Energy share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Where could Suzlon Energy share price be in the next 5 years?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-share-price-suzlon-energy-stock-price-energy-stocks-india-11791369296958.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/pexels-photo-7947707_1791370532098_BWwK_1791370555499_CpzQ_0cefa0f7-b72f-4489-8a55-aa52cb781319_Rmkv.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRUblkzZW5oQ1VVVmlTbW81VFJDZkF4amlCU2dLTWdZRmNJaUdQZ1U",
+   "date": "10/08/2026, 03:30 AM, +0000 UTC",
+   "iso_date": "2026-10-08T03:30:45Z"
+  },
+  {
+   "position": 2,
+   "title": "Where could Suzlon Energy share price be in the next 5 years?",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:d7b80fe2eb59c:0-where-could-suzlon-energy-share-price-be-in-the-next-5-years/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/08/2026, 06:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:37:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Suzlon Energy Ltd. Share Price news after 52-week trough",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-suzlon-energy-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/sagar-cements-ltd-sagcem-52-week-low-streak-second-straight-session-near-yearly.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXVjlCWjBSYVIweEZRazlEVFJDUUF4ai1CU2dLTWdhQktaYmluZ2s",
+   "date": "10/08/2026, 04:05 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:05:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Suzlon Energy (NSE:SUZLON): What Does Its Q2 FY27 Reg 74(5) Certificate Confirm?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/suzlon-energy-nsesuzlon-what-does-its-q2-fy27-reg-745-certificate-confirm",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/default_image/3d35f32e-d7ad-4c89-8347-404f161e1868.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVMGR5WldWeGEzRm1ORkZCVFJERUF4aW5CU2dLTWdrVmdveUp3V1ZGN1FF",
+   "date": "10/09/2026, 09:22 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:22:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Suzlon shares in 'deeply' oversold zone, hit fresh 52-week low; what should investors do?",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/trending-stocks/story/suzlon-shares-in-oversold-zone-hit-fresh-52-week-low-what-should-investors-do-560298-2026-10-08",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac71ced4b9e5-suzlon-energy-stock-is-trading-below-its-10-day--20-day--30-day--50-day--100-day--150-day-and-200-da-083244289-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXZNWHB2YVhwUGVGaFRNR3RUVFJDZkF4ampCU2dLTWdPaFJRWQ",
+   "date": "10/08/2026, 04:32 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:32:55Z"
+  },
+  {
+   "position": 6,
+   "title": "Suzlon Energy share: 25% dip in YTD! Will there be a trend reversal? Experts weigh in | Support, target price, rationale",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-share-25-dip-in-ytd-will-there-be-a-trend-reversal-experts-weigh-in-support-target-price-rationale-11791357987651.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Suzlon_share_price_Target_Stocks_to_buy_today__1791358340717_27KH_1791358340886_Ithq_cdb07ce4-3c56-4db8-ae91-7cbde92765c9_82Zv.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhSM0IzZURCTmJVMWlUM0pQVFJDZkF4ampCU2dLTWdZSklKQ2x0Z1k",
+   "date": "10/07/2026, 08:17 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:17:51Z"
+  },
+  {
+   "position": 7,
+   "title": "Solar Stock In Focus: Suzlon Energy Share Price Falls Over 3%. Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Maumita Mitra"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/solar-stock-in-focus-suzlon-energy-share-price-falls-over-3-know-why-12090474",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/ame0p4cg_suzlon-shares-under-pressure_625x300_24_September_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJaRlZhWHpWV01EUjRRMGhVVFJDZkF4ampCU2dLTWdZQllJRkY1Z0E",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Suzlon Energy shares fall 2% to near six-month low, down 15% in one month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-fall-2-to-near-six-month-low-down-15-in-one-month/articleshow/134533844.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134533862,width-1200,height-900,resizemode-4,imgsize-151176/suzlon-energy-shares-fall-2-to-near-six-month-low-down-15-in-one-monthbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDNUbWR1Y0hweVJFWmxkbXhXVFJEZ0F4aUFCU2dLTWdzQkFZendKR1doaEtvZ2t3",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Suzlon Energy shares fall nearly 4% after ₹134 crore large trade; Stock below key moving averages",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/suzlon-energy-share-price-large-deal-value-size-buyer-seller-buy-sell-returns-19997336.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/chatgpt-image-sep-24-2026-10-39-10-am-1-2026-09-45d6b20d719fb5e317cfd6491bfc5b3a.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJablZhVDFsV01FRTFZVkJKVFJDZkF4ampCU2dLTWdtQkVKS2tHS285Y1FF",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Suzlon Energy vs Inox Wind vs NTPC vs CESC vs Tata Power: Best Expert Pick In Power Utility Segment Revealed!",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/suzlon-energy-vs-inox-wind-vs-ntpc-vs-cesc-vs-tata-power-best-expert-pick-in-power-utility-segment-1514691.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/powerutilitycomparison6-1781166543.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdVVXBuVEY5dVZYbERaakV6VFJEU0FoallCQ2dLTWdhQjhJU24xQU0",
+   "date": "10/05/2026, 05:05 PM, +0000 UTC",
+   "iso_date": "2026-10-05T17:05:16Z"
+  },
+  {
+   "position": 11,
+   "title": "Analysts Have Made A Financial Statement On Suzlon Energy Limited's (NSE:SUZLON) First-Quarter Report",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/capital-goods/nse-suzlon/suzlon-energy-shares/news/analysts-have-made-a-financial-statement-on-suzlon-energy-li",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3052000-choice2-main-header/1585186800829?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlPRmhyYTJWbVpucGZORmRrVFJDZkF4ampCU2dLTWdZQkFKSndpQWs",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Suzlon shares in recovery mode after hitting 52-week low: Key factors for investors",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/amp/markets/trending-stocks/story/suzlon-shares-in-recovery-mode-after-hitting-52-week-low-key-factors-for-investors-560591-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac88d2b53b0e-suzlon-energy-stock-hit-a-high-of-rs-3737-in-the-current-session-the-stock-fell-to-its-52-week-low-094353824-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZVMnN6YkRWaE9FcG9TRmhGVFJDZkF4ampCU2dLTWdB",
+   "date": "10/09/2026, 07:01 AM, +0000 UTC",
+   "iso_date": "2026-10-09T07:01:22Z"
+  },
+  {
+   "position": 13,
+   "title": "Share price down 29% in 2026, retail investors’ favourite wind energy stock under pressure - Where is the bottom?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Ksheerasagar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/share-price-down-29-in-2026-retail-investors-favourite-wind-energy-stock-under-pressure-where-is-the-bottom-11791556837036.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Wind_Energy_Market_Downturn_1791562428240_alqH_1791562432980_bLxF_e1691e62-a2af-451a-b898-43b250d84882_3Y0g.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU1RMG96TkRCT1REbG9NM1pzVFJDb0FSaXNBaWdCTWdB",
+   "date": "10/09/2026, 04:14 PM, +0000 UTC",
+   "iso_date": "2026-10-09T16:14:34Z"
+  },
+  {
+   "position": 14,
+   "title": "Suzlon Energy 52 Week Low Streak: Second Straight Session",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chaitanya Auti"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-suzlon-energy-ltd-share-near-52-week-consecutive-low-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/sal-steel-ltd-hits-lower-circuit-on-bse-5-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRabHBTTTFJd09YRjRhMWhFVFJDUUF4ai1CU2dLTWdhQk1aYkNHZ2s",
+   "date": "10/05/2026, 06:28 AM, +0000 UTC",
+   "iso_date": "2026-10-05T06:28:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Suzlon Energy vs Torrent Power vs Waaree Energies: Comparison",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/suzlon-vs-torrent-power-vs-waaree-energies",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/suzlon-vs-torrent-power-vs-waaree-energies-which-stock-should-you-track.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRYMlZPYzA5TVNXTm9lVWhyVFJDUUF4ai1CU2dLTWdZQkdaeWptZ2s",
+   "date": "10/08/2026, 05:48 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:48:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Suzlon, Waaree, NTPC Green, ACME Solar share price targets; rising power demand may drive Q2",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-waaree-ntpc-green-acme-solar-share-price-targets-rising-power-demand-may-drive-q2-560092-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5f056c6ffb-for-suzlon--centrum-expects-revenue-growth-of-166-per-cent-yoy-in-the-september-quarter--led-by-hig-071013789-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlZMFV5Wlc0eVVtSkhZVXhVVFJDZkF4ampCU2dLTWdZTmNJYW1LZ2M",
+   "date": "10/07/2026, 07:10 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:10:52Z"
+  },
+  {
+   "position": 17,
+   "title": "Suzlon, Waaree, Premier, ACME, Clean Max, Emmvee, Vikram: RE stocks to buy ahead of Q2, targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-waaree-premier-acme-clean-max-emmvee-vikram-re-stocks-to-buy-ahead-of-q2-targets-560675-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac8bc0ba21ab-on-stocks-anand-rathi-has-hold-recommendations-on--target-for-premier-energies-is-set-at-rs-904-an-090354315-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW9SWFEzUVRKTGRtVnFkbTB6VFJDZkF4ampCU2dLTWdNWm9Bbw",
+   "date": "10/09/2026, 10:01 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:01:56Z"
+  },
+  {
+   "position": 18,
+   "title": "Suzlon shares crash 30% in 3 months! Will it bounce back, or more pain ahead? Explained with support, resistance",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-shares-crash-30-in-3-months-will-it-bounce-back-or-more-pain-ahead-explained-with-support-resistance-11790322011663.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/25/1600x900/logo/Suzlon_1790324214298_b3mP_1790324224045_dE7Z_1262ec1a-d7dd-4b18-a722-c428c10e354b_H5h4.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZkMk01TkZWWE5WTkdZazlEVFJDZkF4amlCU2dLTWdrSlFwSlByYWF4U1FJ",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Suzlon Energy share price target: Brokerages see up to 35% upside potential. Here’s why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-share-price-target-brokerages-see-up-to-35-upside-potential-heres-why/articleshow/132700108.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132701249,width-1200,height-900,resizemode-4,imgsize-2150099/suzlon-energy-share-price-target-brokerages-see-up-to-35-upside-potential-heres-why.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURkbXBvVUZsd1oyUkJaMVZ5VFJEZ0F4aUFCU2dLTWdtSjBJU21TT1NadUFB",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Suzlon Energy vs NTPC Green vs NHPC: Wind, Solar or Hydro? Which Energy Stock Deserves Spot In Your Portfolio?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/suzlon-energy-vs-ntpc-green-vs-nhpc-wind-solar-or-hydro-which-energy-stock-portfolio-1515875.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/suzloncomparisonntpcnhpc6-1781607571.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNPVGgzV1ZWeVl5MVlVVlpHVFJEU0FoallCQ2dLTWdtQkVKQUdFU1l1cGdJ",
+   "date": "10/02/2026, 03:07 PM, +0000 UTC",
+   "iso_date": "2026-10-02T15:07:03Z"
+  },
+  {
+   "position": 21,
+   "title": "Suzlon Energy shares oversold on charts; Geojit expects 16% upside",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-energy-shares-oversold-on-charts-but-geojit-expects-16-upside-548473-2026-08-11",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a7ac60ed89c5-suzlon-energy-stock-is-trading-lower-than-its-10-day--20-day--30-day--50-day--100-day--150-day-and-2-114945254-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlURXhXZUV0NlNtc3RiRWhXVFJDZkF4ampCU2dLTWdZQlk0eWxMZ2c",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Suzlon Energy Share Price Up 3.54%: Price, Sector Analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-suzlon-energy-ltd-share-price-rise-2026-08-17",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/Suzlon_Energy_Ltd_SUZLON_Suzlon_Energy_Share_Price_Rises_354_Today_Clears_Large_Cap_Threshold_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTWGcyT1RoTmFtcHRValpRVFJDUUF4ai1CU2dLTWdZQkdacWpHZ2s",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Suzlon share: Shareholders approve all resolutions at 31st AGM | What does it mean for renewable energy stock?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-share-shareholders-approve-all-resolutions-at-31st-agm-what-does-it-mean-for-renewable-energy-stock-11789358812887.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/14/1600x900/logo/Suzlon_share_price_target_Stock_market_News_1789361227386_17065c83-d960-453b-8edb-fa82458835ec_1789361227519_518df352-f646-46ae-96eb-da6a8e3979ea_d6c4cd25-017c-42cc-98f3-10405e376aab_e8f6c20b-084b-4e1d-a438-b5e8da6ef49d.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdVbkZKTmpBMlNYZFROMWhXVFJDZkF4ampCU2dLTWdZSkFJeWtuZ2s",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Suzlon Energy shares gain 2.08% to Rs 48.08",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:d93d216fb094b:0-suzlon-energy-shares-gain-2-08-to-rs-48-08/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Suzlon Energy Share Price News With Valuation and Peer View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-suzlon-energy-share-price-price-fall-2026-09-28",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/suzlon-energy-suzlon-share-price-falls-2-08-as-large-cap-stock-trades-at-rs-39.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlXazVMVDJ0QmIzQXdVRUozVFJDUUF4ai1CU2dLTWdhQk1aYkRtZ2s",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Suzlon Energy Stock Signals to Watch This Week",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/suzlon-energy-stock-signals-investors-are-watching-2",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/suzlon-energy-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZRak5sUjFOR04yRlNWMGhoVFJDUUF4ai1CU2dLTWdZQk1JN0RtZ2s",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Suzlon Energy shares extend decline, fall over 11% in 2 days; brokerages cut price targets",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/suzlon-energy-shares-extend-decline-fall-over-11-in-2-days-brokerages-cut-price-targets-13986880.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718025235_Sensex_nifty_market_down_Sensex.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXplVGQxUjJoMlZXRnNOSFIyVFJDZkF4ampCU2dLTWdrWkFaYlVxS2lTSkFN",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Suzlon Energy shares crash 10% to 3-month low after Q1 results. What’s spooking investors?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-crash-10-to-3-month-low-after-q1-results-whats-spooking-investors/articleshow/132681258.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132681258,width-1200,height-900,resizemode-4,imgsize-81655/suzlon-energy-shares-crash-10-to-3-month-low-after-q1-results-whats-spooking-investors.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVFaMkpLT1RBd1ZWaFhlbTFwVFJEZ0F4aUFCU2dLTWdNUjhnbw",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Suzlon Energy shares rise after US judge directs Pentagon to lift wind project freeze",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Surbhi Khanna"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-us-judge-directs-pentagon-to-lift-wind-project-freeze/articleshow/133027955.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133027987,width-1200,height-900,resizemode-4,imgsize-32276/suzlon-energy-shares-rise-after-us-judge-directs-pentagon-to-lift-wind-project-freezebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWR1JvZWpSRVVVbzBlSGx3VFJEZ0F4aUFCU2dLTWdhTmRwUkhyZ2M",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Suzlon Energy Shares Tumble Nearly 10% Despite 22.5% Revenue Growth in Q1 FY27: Here's What Investors Should Know",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/suzlon-energy-shares-tumble-nearly-10-despite-22-5-revenue-growth-in-q1-fy27-heres-what-investors-should-know",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Suzlon Energy stock: Despite 24% gain from 52 week low, analyst not in favour of 'fresh buying'",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-energy-stock-price-target-gain-from-52-week-low-buy-sell-hold-549985-2026-08-19",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a854abde9d10-suzlon-energy-stock-is-trading-lower-than-its-5-day--10-day--20-day--30-day--50-day--100-day--150-da-191832291-16x9.png?size=948:533",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtTMGhZYjJkb1dUZDNTa1pYVFJDZkF4ampCU2dLTWdtQlFZcWpKaVl0TVFF",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Suzlon Energy vs IREDA: Which Is A Better Renewable Energy Stock? MCap, Roe, Dividend Comparison",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/suzlon-energy-vs-ireda-which-is-a-better-renewable-energy-stock-mcap-roe-dividend-comparison-1504087.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/04/iredavssuzlon6-1776938376.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNRbTVzTXpCbVFVMTJWams0VFJEU0FoallCQ2dLTWdZSklLU21tQW8",
+   "date": "10/01/2026, 05:51 PM, +0000 UTC",
+   "iso_date": "2026-10-01T17:51:16Z"
+  },
+  {
+   "position": 33,
+   "title": "Suzlon share price down by 7% in one month - Will stock bounce back? Experts decode | Outlook",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-share-price-down-by-7-in-one-month-will-stock-bounce-back-experts-decode-outlook-11789109125436.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/11/1600x900/logo/Suzlon_share_price_today_Stock_market_today_1789109411521_6c2c41ad-acd4-43b7-b45d-598f2b0430d9_1789109411672_4044d61a-441a-4396-a26a-268f04e26ff1_7f430338-bf63-4340-af80-d4344c8166e9_9a68df5c-6f84-4bbf-bf51-0c1e1aa026a7.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBOMDFOTTBKbFNIVkpkRUpaVFJDZkF4ampCU2dLTWdZSkFJeWtuZ2s",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Suzlon Energy shares dive 15% after Q1 results; should you buy?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/suzlon-energy-shares-dive-15-after-q1-results-should-you-buy-126072900548_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/07/full/1644172650-5671.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZiV294V1RrNFVtaDRPV2xDVFJEUUF4anNCQ2dLTWdhUmM1WnRyUWM",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Suzlon Energy shares drop nearly 10% after Q1 PAT falls 6%; revenue up 22%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/suzlon-energy-shares-drop-7-after-q1-pat-falls-6-revenue-up-22-126072800781_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/full/1780656066-1768.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUMjV2Y0ZsUWFtcDJWVTFYVFJEVEF4aVJCU2dLTWdhSjRvWkl6Z0k",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Suzlon Energy shares rise 4%, extends five-day rally to nearly 18%. Should you buy?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-jumps-4-extends-five-day-rally-to-nearly-18-should-you-buy/articleshow/130323898.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130323956,width-1200,height-900,resizemode-4,imgsize-60594/suzlon-energy-jumps-4-extends-five-day-rally-to-nearly-18-should-you-buy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthMDFOVkZoSVdtdGhWMkpqVFJEZ0F4aUFCU2dLTWdhbFZaTHNwUVk",
+   "date": "04/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-17T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Suzlon Energy shares jump 3%: Why brokers see up to 36% upside for ‘most investible Indian wind player’",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-jump-3-why-brokers-see-up-to-36-upside-for-most-investible-indian-wind-player/articleshow/131735969.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131736002,width-1200,height-900,resizemode-4,imgsize-63552/suzlon-energy-shares-jump-3-why-brokers-see-up-to-36-upside-for-most-investible-indian-wind-player.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtVblJrVUZGNGFHRkRRazVhVFJEZ0F4aUFCU2dLTWdZWlVJanB2UVE",
+   "date": "06/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-15T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "India's wind power capacity may cross 250 Gw by 2035: Suzlon's Girish Tanti",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shine Jacob"
+    ]
+   },
+   "link": "https://www.business-standard.com/companies/people/india-s-wind-power-capacity-may-cross-250-gw-by-2035-suzlon-s-girish-tanti-126100701182_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/03/full/1780506650-3909.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlOekZsUkZsaFYzY3RlREY1VFJERUF4aW1CU2dLTWdZcE5vanRuUWs",
+   "date": "10/07/2026, 02:09 PM, +0000 UTC",
+   "iso_date": "2026-10-07T14:09:20Z"
+  },
+  {
+   "position": 39,
+   "title": "Earnings call transcript: Suzlon Energy Q1 2026 shares fall as margins lag growth",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-suzlon-energy-q1-2026-shares-fall-as-margins-lag-growth-93CH-4816817",
+   "thumbnail": "https://i-invdn-com.investing.com/news/LYNXNPEC0E0NG_L.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9iak5GVGpGTlZ6TlNhRGxTVFJERUF4aW5CU2dLTWdhVmdZb1N2UVE",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Why The Suzlon Energy (NSEI:SUZLON) Story Is Shifting On Cautious Cyclical Assumptions",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finance.yahoo.com/sectors/energy/articles/why-suzlon-energy-nsei-suzlon-130823310.html",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Suzlon share price trading below Rs 50 mark for 14 days; buy, sell or hold?",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-energy-share-price-targets-stock-trading-below-rs-50-mark-for-14-days-549557-2026-08-17",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a82bf9f305e3-suzlon-energy-stock-has-turned-oversold-on-charts-with-rsi-falling-to-rs-289-170025519-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhVM2h4WjBsellsZHlSR3BDVFJDZkF4ampCU2dLTWdrQllvcmdxbVJNVVFF",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Suzlon Energy Share Price Falls Again: Streak Analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-suzlon-energy-share-consecutive-price-fall-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Suzlon_Energy_SUZLON_Share_Price_Fall_Streak_Extends_to_Second_Straight_Session_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdaWEJZU2xwR1RFWXdWakYzVFJDUUF4ai1CU2dLTWdZQkdvYmltZ2s",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Suzlon Energy's (NSE:SUZLON) Earnings Might Be Weaker Than You Think",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/capital-goods/nse-suzlon/suzlon-energy-shares/news/suzlon-energys-nsesuzlon-earnings-might-be-weaker-than-you-t",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3052000-choice2-main-header/1585186800829?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlPRmhyYTJWbVpucGZORmRrVFJDZkF4ampCU2dLTWdZQkFKSndpQWs",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Suzlon Energy Q1 Results: Net profit falls 6% YoY to Rs 305 crore; stock sinks 7%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/suzlon-energy-q1-results-net-profit-falls-6-yoy-to-rs-305-crore-but-revenue-rises-22/articleshow/132679287.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132679228,width-1200,height-900,resizemode-4,imgsize-5654/jm-financial-on-suzlon.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZVMnRrVkZocU5sbHpjMWhXVFJEZ0F4aUFCU2dLTWdhUlJwaEhxZ2c",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Why Suzlon Energy shares plunged more than 9% after Q1 results",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/why-did-suzlon-energy-shares-plunge-over-9-after-q1-results/150534",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2023-05/e6dc2312-3b5a-42fa-81b0-1b1d1c589d80/Suzlon_06301_copy.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhkbE5vZGpSdFFTMURaRGMzVFJDZkF4ampCU2dLTWdhQmdKVFRzQWM",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Suzlon Energy shares fall 2.10%, trades at Rs 47.97",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:7d72e7399094b:0-suzlon-energy-shares-fall-2-10-trades-at-rs-47-97/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Suzlon Energy, Adani Power share prices fall: Check 1-week, 1-year and 5-year returns",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-adani-power-share-prices-fall-check-1-week-1-year-and-5-year-returns-11789532352034.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/16/1600x900/logo/adani_suzlon_1789534287194_UYXF_1789534297180_StCS_633477c2-351d-41db-aac8-2d3504632170_k0g0.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxaMUJRUkZCMWVEWlVaakpwVFJDZkF4ampCU2dLTWdZRjBZQ2x4Z1E",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Suzlon Energy shares gain 15% one week: Further rally or sharp correction ahead?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-gain-15-one-week-further-rally-or-sharp-correction-ahead/articleshow/130407939.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130407918,width-1200,height-900,resizemode-4,imgsize-60594/suzlon-energy-shares-jump-3-as-firm-wins-sixth-repeat-order-for-100-mw-from-gail.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthMDFOVkZoSVdtdGhWMkpqVFJEZ0F4aUFCU2dLTWdhbFZaTHNwUVk",
+   "date": "04/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-21T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Suzlon Energy and a 30 GW opportunity in Indian wind energy that nobody is talking about",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vinnii Motiwala"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/suzlon-energy-share-price-wind-energy-opportunities-repowering-capacity-acquisition-margins-target-19998199.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/suzlon-turbinejpg-2026-09-3dba0d8b610d8add7632e83b673d9aea.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWxXSGhtY1dGdVdFcE9WM0V4VFJDZkF4ampCU2dLTWdPaFZBdw",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Suzlon Energy shares down 13% in a month. What should investors do now?",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhay Shukla"
+    ]
+   },
+   "link": "https://www.zeebiz.com/market-news/news-suzlon-energy-shares-down-13-in-a-month-what-should-investors-do-now-399879",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/08/04/411162-suzlon-energy.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZielZvU0VsVWNUVk1URTk1VFJEOEFSakFBeWdLTWdZUklhTExHQXM",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Suzlon Energy shares fall 2.08% to Rs 47.15 at 1:45 PM",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:ea69db947094b:0-suzlon-energy-shares-fall-2-08-to-rs-47-15-at-1-45-pm/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "FII-powered Suzlon Energy shares sit 15% below 52-week high. Will 2.0 roadmap deliver for 56 lakh investor",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/fii-powered-suzlon-energy-shares-sit-15-below-52-week-high-will-2-0-roadmap-deliver-for-56-lakh-investors/articleshow/131954692.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131954699,width-1200,height-900,resizemode-4,imgsize-2414470/fii-powered-suzlon-energy-shares-sit-15-below-52-week-high-will-2-0-roadmap-deliver-for-56-lakh-investors.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBUbmhWWlhOUmJtOW5SemRuVFJEZ0F4aUFCU2dLTWdZQllJTE4wQUk",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Suzlon Energy shares drop 2% after 35% rally in April so far. Should you buy?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-drop-2-after-35-rally-in-april-so-far-should-you-buy/articleshow/130384566.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130384564,width-1200,height-900,resizemode-4,imgsize-60594/suzlon-energy-shares-drop-2-after-35-rally-in-april-so-far-should-you-buy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthMDFOVkZoSVdtdGhWMkpqVFJEZ0F4aUFCU2dLTWdhbFZaTHNwUVk",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Why Suzlon Energy Share Price is Falling",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=07/06/2026&story=5&title=Why-Suzlon-Energy-Share-Price-is-Falling",
+   "thumbnail": "https://www.eqimg.com/images/2025/1920x1080/11242025-image2-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVMVU0VHpOVlJYaEtXVEZxVFJDZkF4ampCU2dLTWdhUmtvcVBRUVU",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Suzlon Energy shares jump over 6%. Why brokerages call it India’s most investible wind energy stock?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-jump-over-6-why-brokerages-call-it-indias-most-investible-wind-energy-stock/articleshow/131760586.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131760581,width-1200,height-900,resizemode-4,imgsize-48326/suzlon-energy-shares-jump-over-6-why-brokerages-call-it-indias-most-investible-wind-energy-stock.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZbmd4UzBVMmFtMU1UVGRvVFJEZ0F4aUFCU2dLTWdaQkFZNjFrQW8",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Suzlon shares: Is the multibagger's dream run over? What investors should expect next",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/story/suzlon-energy-shares-is-the-multibaggers-dream-run-over-what-investors-should-expect-next-545097-2026-07-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a634d55160b2-that-distinction-matters-in-renewable-energy--where-long-term-business-optimism-does-not-always-tran-243231873-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJOR1J0VUhKT1JWOUdRWEp5VFJDZkF4ampCU2dLTWdhbFpKRE1OUWM",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Why Suzlon Energy Share Price is Rising?",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=04/15/2026&story=10&title=Why-Suzlon-Energy-Share-Price-is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2026/04152026-image3-thumb-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHdUWHBEUVc1dVdHcERTRzFQVFJEQUFoaUFCQ2dLTWdNdFlBZw",
+   "date": "04/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-15T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Suzlon Revival: From ₹2 Penny Stock to Renewable Leader",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/sky-learn/market-wtf-by-sky/suzlon-penny-stock-revival",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/Why-Suzlon-revived-from-a-Rs2-penny-stock-2.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBjV2czYjJoalNubHhiM1J4VFJDZkF4amlCU2dLTWdrQllZNFR4U1RCU2dJ",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Here's why shares of Suzlon Energy and Inox Wind gained up to 6% on Monday",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/suzlon-energy-inox-wind-share-price-key-reasons-why-stocks-went-up-monday-cerc-permission-impact-19970944.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/wind-2026-07-fcf3a4a52bfe2360e074b10e022cace0.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpkbmgxUldNMFVHbFRkR0Y1VFJDZkF4ampCU2dLTWdNUjhBZw",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Suzlon Energy share price rises 3% after Q4 results. Experts say buy now",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/suzlon-energy-share-price-rises-3-after-q4-results-should-you-buy-sell-or-hold-11779775481050.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/26/1600x900/logo/pexels-photo-6801647_1759976624214_1759976636647_1779775843864_acd67962-ad6a-4259-875a-2ac9aba0b537.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhjRzlQZVZsc05sRTRPRlExVFJDZkF4ampCU2dLTWdrQkFJQXFXbUZjcFFJ",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Suzlon Share Price Jumps 5% Despite Weak Stock Market Trend. Time To Buy The Stock?",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/suzlon-share-price-jumps-5-amid-weak-stock-market-trend-time-to-buy-the-renewable-energy-stock-11920312",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/3qdjg2qs_suzlon_625x300_29_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlVVVZpTURSRFltUnpXa0pxVFJDZkF4ampCU2dLTWdhdGNaendMQWc",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Pros and Cons of Investing in Suzlon Energy",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=07/30/2026&story=2&title=Pros-and-Cons-of-Investing-in-Suzlon-Energy",
+   "thumbnail": "https://www.eqimg.com/images/2026/02232026-image3-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXBWRFpGZVhOelJEaDROREEyVFJEYkFSamVBaWdLTWdNQmtCUQ",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Suzlon Shares jump 5%. Closes in green for third straight session",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/suzlon-shares-jump-5-closes-in-green-for-third-straight-session",
+   "thumbnail": "https://iiflcapprodinfolinestg.blob.core.windows.net/uploads/2025/08/power-768x432.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNU9WR2gzZEVWNFVIWmZkVE5QVFJDZkF4ampCU2dLTWdNQm9BNA",
+   "date": "05/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-27T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Suzlon Energy Shares in Focus as SAT Declines Immediate Relief in SEBI Case",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/suzlon-energy-shares-in-focus-as-sat-declines-immediate-relief-in-sebi-case/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/06/Suzlon-Shares-Fall-Further-2-On-Profit-After-Sharp-Q4-Results-Surge-EP.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxkMjkxUTFVdGVYVjBhV2hoVFJDZkF4amlCU2dLTWdZQmtKTHpOQWM",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Stock Below Rs 50: This Multibagger Renewable Energy Stock Secures 250 MW Wind Order From Torrent Green Energy; Partnership Crosses 1.3 GW",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/stock-below-rs-50-this-multibagger-renewable-energy-stock-secures-250-mw-wind-order-from-torrent-green-energy-partnership-crosses-13-gw-59186",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F59186%2FRenewable-Energy-Company---Solar---Wind---Power1.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVZVFJYTTNWc1VVRkZNM3BpVFJDUUF4al9CU2dLTWdNQllBSQ",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Suzlon Energy Consolidated June 2026 Net Sales at Rs 3,829.09 crore, up 22.27% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/suzlon-energy-consolidated-june-2026-net-sales-at-rs-3829-09-crore-up-22-27-y-o-y-13992254.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Suzlon Energy shares gain 2.10% in today's session",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/suzlon-energy-shares-gain-2-10-in-today-s-session-alpha-article-13991602.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250218095653_volatile_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTM1JyV2sxVmR6TldlVGx2VFJDZkF4ampCU2dLTWdhTmNaUUlzUWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Suzlon Wins 200 MW Ayana Wind Order; Shares Fall 0.07%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/suzlon-secures-200-mw-wind-energy-order-from-ayana-renewable-power",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/image-2026-09-08T095458.844.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVliVmN6UVZGbFNscElVMHh0VFJDZkF4amlCU2dLTWdB",
+   "date": "09/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-08T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Suzlon Wins 201.6 MW Waaree Wind Order; Stock Trades Flat",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/suzlon-bags-201-6-mw-waaree-wind-order-shares-trade-flat",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/8CE7385B-B979-421E-B89A-A6BEBF9BBC98.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpUMlZsUVhOcFRHaG5ZWGhoVFJDZkF4amlCU2dLTWdhQmFJNmpxZ1k",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Multibagger renewable energy stock Suzlon Energy share price gains on 105 MW order win; do you own?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-renewable-energy-stock-suzlon-energy-share-price-gains-on-105-mw-order-win-do-you-own-11782795470907.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/30/1600x900/logo/suzlon_energy_share_price_1782795501075_1782795501289_ece36794-489b-4cf7-bb1c-a3ba28b4ea72.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlUamQxYUVJNVUyWk9VV2N6VFJDZkF4ampCU2dLTWdaWkFLeFpnQTA",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Suzlon Energy share price outlook: Key support, resistance and next targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-energy-share-price-outlook-key-support-resistance-and-next-targets-543414-2026-07-16",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a58b3aa1882a-the-key-support-zone-is-placed-at-rs-49-50-investors-holding-the-stock-can-continue-with-a-strict-s-163412722-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlaa1Y2U0hSSVJqUkNkSFZOVFJDZkF4ampCU2dLTWdZVkZJeElvZ2M",
+   "date": "07/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-16T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Suzlon Energy Shares Gain Over 2%, Premier, Waaree Energies Trade In Green: Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/suzlon-energy-shares-gain-over-2-premier-waaree-energies-trade-in-green-heres-why-11858541",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/e7v6l7r4_suzlon_625x300_29_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZZbUZtYmtsWFUyVTViSGhaVFJDZkF4ampCU2dLTWdhQk00aW5zZ2M",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Suzlon Energy Ltd up for third consecutive session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/suzlon-energy-ltd-up-for-third-consecutive-session-126061600554_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Suzlon Energy consolidated net profit declines 5.89% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/suzlon-energy-consolidated-net-profit-declines-5-89-in-the-june-2026-quarter-126072800758_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Suzlon Energy Shares Gain 2.12% in Early Trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/suzlon-energy-shares-gain-2-12-in-early-trade-alpha-article-13993157.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250130061113_Stock-Market-News.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdWVGxMUjNaWk5XdFBXVFJwVFJDZkF4ampCU2dLTWdZQldKSUFLd2M",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Buy Suzlon Energy; target of Rs 65: ICICI Securities",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-suzlon-energy-target-of-rs-65-icici-securities-2-13987144.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070502_Buy1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXllRFpUTWxsV1VtaGZZeTFaVFJDZkF4ampCU2dLTWdPVlV4QQ",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Suzlon Share Price Falls Despite Torrent Partnership, Rs 10,000 Cr Andhra Pradesh Plan",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Yukta Baid"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/suzlon-share-price-falls-despite-torrent-partnership-rs-10-000-cr-andhra-pradesh-plan-11954855",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/3qdjg2qs_suzlon_625x300_29_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZOVEZHWTJwWFFURnVjRzlHVFJDZkF4ampCU2dLTWdhdGNaendMQWc",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Suzlon Energy secures 250 MW wind order from Torrent Green Energy",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/suzlon-energy-secures-250-mw-wind-order-from-torrent-green-energy-126082500209_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Suzlon share price: Stock in the red despite fresh order win; key details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-share-price-stock-in-the-red-despite-fresh-order-win-key-details-551109-2026-08-25",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8d6e1825070-suzlon-energy-said-it-will-supply-76-flagship-s144-wind-turbines-33-mw-each-along-with-grid-integ-252730760-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxUMnhZWW5WbGRYRnhRWHBwVFJDZkF4ampCU2dLTWdZQm9JS092UVE",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Suzlon Energy share price targets, technicals ahead of Q1 earnings season",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-energy-share-price-targets-technicals-ahead-of-q1-earnings-season-540449-2026-07-02",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a4606b8334b3-suzlon-energy-share-price-is-trading-above-its-10-day--20-day--30-day--50-day--100-day--150-day-and-023530929-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFUREU0VlU5WmFUTk5TRXhFVFJDZkF4ampCU2dLTWdZTk1KS2xyZ2M",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Suzlon Energy shares rise after Q4 results. What are Motilal Oswal, Nuvama saying?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-q4-results-what-are-motilal-oswal-nuvama-saying/articleshow/131321360.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131321380,width-1200,height-900,resizemode-4,imgsize-6070/suzlon-energy-shares-rise-after-q4-results-what-are-motilal-oswal-nuvama-saying.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1jMVZRT1hvNE9XUjVSVFJNVFJEZ0F4aUFCU2dLTWdZbFJhQ3NuUWs",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Suzlon Energy Ltd slips for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/suzlon-energy-ltd-slips-for-fifth-straight-session-126070700616_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Suzlon Energy soars 7%, trades at 7-month high; what's driving stock?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/suzlon-energy-soars-7-trades-at-7-month-high-what-s-driving-stock-126061600481_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/05/full/1780656066-1768.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUMjV2Y0ZsUWFtcDJWVTFYVFJEVEF4aVJCU2dLTWdhSjRvWkl6Z0k",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Waaree Energies, Adani Green Energy, NTPC Green, Suzlon Energy: How renewable energy stocks are performing on August 10",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/waaree-energies-adani-green-energy-ntpc-green-suzlon-energy-how-renewable-energy-stocks-are-performing-on-august-10-2026/article-198369/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/waaree-energies-premier-ntpc-green-adani-suzlon-energy-aug-10-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpja3BXVkZVeWVVNXZabmg1VFJDZkF4ampCU2dLTWdNQnNnQQ",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Suzlon share price up: What Vinod Tanti told shareholders in latest annual report",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-share-price-up-what-vinod-tanti-told-shareholders-in-latest-annual-report-550239-2026-08-20",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a868a314ad4a-suzlon-energy-shares-have-10-buy-calls--two-hold-ratings-and-nil-sell-recommendation-the-12-mon-200131700-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJia0V6TTJOV2NUVkxiWEJpVFJDZkF4ampCU2dLTWdZcHRJeHV4UVE",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Suzlon Energy - Titan, Infosys among 10 stocks with highest HNI holdings in Q1; check full list",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/titan-infosys-among-10-stocks-with-highest-hni-holdings-in-q1-check-full-list/suzlon-energy/slideshow/133557616.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133558046,width-480,height-360,imgsize-139354,resizemode-75/money-moves.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZWMHRCVlhWb1RHWmtaMFp2VFJEb0FoamdBeWdLTWdZQm9JcG9UZ1U",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Suzlon Energy Shares Decline Over 6% After Q1 Profit Falls, Margin Contracts",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anirudh Saligrama"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/suzlon-energy-shares-decline-after-q1-profit-falls-margin-contracts-11831933",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/4s60quho_oil_625x300_28_July_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlVV1l4ZHkxRWNXaEtSa3AyVFJDZkF4ampCU2dLTWdhQmtaTERQZ1k",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Waaree Energies, Suzlon Energy, Premier Energies, Adani Green: Here's how renewable energy stocks are performing on August 17",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/waaree-energies-suzlon-energy-premier-energies-adani-green-here-s-how-renewable-energy-stocks-are-performing-on-august-17-2026/article-198735/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/waaree-energies-adani-green-premier-energies-suzlon-aug-17-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUNNREZUYmkwM05YQm1PR1l4VFJDZkF4ampCU2dLTWdNQlVBdw",
+   "date": "08/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-16T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Suzlon Energy shares rally 51% in seven weeks: More upside ahead? Key technical levels to watch out for",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-rally-51-in-seven-weeks-more-upside-ahead-key-technical-levels-to-watch-out-for/articleshow/130570619.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130570614,width-1200,height-900,resizemode-4,imgsize-53884/suzlon-energy-shares-rally-51-in-seven-weeks-more-upside-ahead-key-technical-levels-to-watch-out-for.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjV2xzZURJMGVtNXhUblZmVFJEZ0F4aUFCU2dLTWdhVlVJUUp3Z00",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Suzlon, NCC, Inox Wind, IREDA, Kaynes Technology: Price targets for multibaggers at 52-week lows",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/suzlon-ncc-inox-wind-ireda-kaynes-technology-price-targets-for-multibaggers-at-52-week-low-560155-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac6143b24b4f-the-crash-in-these-multibaggers-has-brought-them-close-to-the-oversold-zone-with-rsis-nearing-the-30-074322112-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVTVTFaV25ZMlMySmFVa010VFJDZkF4ampCU2dLTWdZMUlZalJIQVU",
+   "date": "10/07/2026, 09:43 AM, +0000 UTC",
+   "iso_date": "2026-10-07T09:43:33Z"
+  },
+  {
+   "position": 91,
+   "title": "Suzlon Energy Shares Tumble 10% After Q1 Earnings",
+   "source": {
+    "name": "Rediff MoneyWiz",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://money.rediff.com/news/market/suzlon-energy-shares-tumble-10-after-q1-earnings/51411220260728",
+   "thumbnail": "https://im.rediff.com/1200-900/news/2020/oct/stock-market-3a-o.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWpSM0IxVjNaVVYzcGpZMjFKVFJEZ0F4aUFCU2dLTWdzQklJVGxIT1RZalprTmdn",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Stocks in news: Premier Energies, Suzlon Energy, Paytm, Hindalco, ONGC",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-premier-energies-suzlon-energy-paytm-hindalco-ongc/articleshow/131319903.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131319900,width-1200,height-900,resizemode-4,imgsize-95072/stocks-in-news.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtNVTFRV1RNM1owSmZlRkZNVFJEZ0F4aUFCU2dLTWdhZGtvcU53UVE",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Suzlon Energy shares rise 2% after firm announces foray into solar, battery storage businesses under 'Suzl",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-rise-2-after-firm-announces-foray-into-solar-battery-storage-businesses-under-suzlon-2-0/articleshow/131497281.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131497284,width-1200,height-900,resizemode-4,imgsize-34888/suzlon-energy-shares-rise-2-after-firm-announces-foray-into-solar-battery-storage-businesses-under-suzlon-2-0.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZjREZFVEhOMmNubHZNazR4VFJEZ0F4aUFCU2dLTWdhQk5wakFKZ2s",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Buy Suzlon Energy Ltd For Target Rs.56 By Geojit Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-suzlon-energy-ltd-for-target-rs-56-by-geojit-financial-services-ltd828939",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Suzlon%20Energy%20Ltd.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBURVExT1dSM1oxVmxVMVpuVFJEZUFoajBBeWdLTWdZWmM1UktyUWM",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Suzlon Energy Ltd. Share Price Falls 9.63% Amid High Volume",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/suzlon-energy-ltd-share-price-fall-2026-07-28",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/07/Suzlon_Energy_Ltd_SUZLON_Share_Price_Falls_963_Amid_High_Volume_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1TbGRVT1VoV1lUSmFaRU55VFJDUUF4ai1CU2dLTWdhQk1acWptZ2s",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Suzlon Energy shares jump 4%, extend gains for second session. Should you buy this renewable energy player",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/suzlon-energy-shares-jump-4-extend-gains-for-second-session-should-you-buy-this-renewable-energy-player/articleshow/130545381.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130545369,width-1200,height-900,resizemode-4,imgsize-60594/suzlon-energy-shares-jump-4-extend-gains-for-second-session-should-you-buy-this-renewable-energy-player.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWthMDFOVkZoSVdtdGhWMkpqVFJEZ0F4aUFCU2dLTWdhbFZaTHNwUVk",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Suzlon sizzles: Stock gains 3%, up 49% from 52-week low; more steam left?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/suzlon-energy-share-price-gains-3-up-49-from-52-week-low-more-steam-left-126061500249_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-09/09/full/1725863429-5638.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9ORXBSWkdFM2RsUm9OREpDVFJENUF4amZCQ2dLTWdhWmtveE1QUVU",
+   "date": "06/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-15T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Suzlon Energy shares plummet 5% after Sebi levies ₹29 crore penalty",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/suzlon-energy-shares-plummet-5-after-sebi-levies-29-crore-penalty/140702",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-04-08/vwnu4g51/image.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBTUzEyVTI5YVpTMDVjRzVSVFJDZkF4ampCU2dLTWdZRlFZaWxxZ1k",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Suzlon Energy share price tumbles 10% in two days after Q1 results. Should you buy the dip?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/multibagger-stock-suzlon-energy-share-price-tumbles-10-in-2-days-after-suzlon-q1-results-2026-should-you-buy-the-dip-11785299236024.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/29/1600x900/logo/Suzlon_energy_share_price_1785299286782_1785299286913_f607f4d4-79c0-4f5c-ac83-f3e34051e064.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNWM00yU0ZnMGFFUjVlVXhsVFJDZkF4ampCU2dLTWdrSkFJcFpnRzJLYndF",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Suzlon Share Price Slumps Over 12% In One Month. Here Are Three Key Reasons Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Yukta Baid"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/suzlon-share-price-slumped-over-12-percent-in-one-month-here-are-three-key-reasons-why-11893946",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/3qdjg2qs_suzlon_625x300_29_July_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlVVVZpTURSRFltUnpXa0pxVFJDZkF4ampCU2dLTWdhdGNaendMQWc",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:44"
+}

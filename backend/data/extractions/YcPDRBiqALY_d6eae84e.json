@@ -1,0 +1,83 @@
+{
+ "calls": [
+  {
+   "company": "Pearl Global Industries Limited",
+   "symbol_guess": "PEARL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the first company that we analyze is Pearl Global Industries Limited",
+   "start_s": 38,
+   "line": "semi-registered analyst. So please do not construe this as financial advice.",
+   "evidence": [
+    {
+     "text": "Best GROWTH STOCKS",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as top growth picks and the speaker introduces Pearl Global as the first company, so it is treated as a buy recommendation."
+  },
+  {
+   "company": "Lalita Dwellers Ltd",
+   "symbol_guess": "LALITDWEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the second company is Lalita Dwellers",
+   "start_s": 295,
+   "line": "consistent compounder if you look at the last 5 years sales growth profit growth so Pearl Global is one company which you can study further right the second",
+   "evidence": [
+    {
+     "text": "Best GROWTH STOCKS",
+     "where": "title"
+    }
+   ],
+   "reason": "The title suggests buy picks and the speaker presents Lalita Dwellers as the second company, so it is classified as a buy recommendation."
+  },
+  {
+   "company": "Lalitha Dwellers",
+   "symbol_guess": "LALITDWEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies Even in",
+   "start_s": 303,
+   "line": "company is Lalita Dwellers right so this is a very recently IPOed company now similar to textile companies Even in",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker presents Lalitha Dwellers as a pick."
+  },
+  {
+   "company": "LT Elevators",
+   "symbol_guess": "LTEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "The third company is LT Elevators. It's a micro cap company.",
+   "start_s": 380,
+   "line": "profit growth for Lalita dwellers. So you need to study this company further.",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker presents LT Elevators as a pick."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

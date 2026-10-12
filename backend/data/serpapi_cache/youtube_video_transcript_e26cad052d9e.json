@@ -1,0 +1,82 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf1010c26d1f7427e255",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/nyd8zAxJROD-xGNt1vBsDUveFj8s2R7soqzcrwplj8I/6ac7bf1010c26d1f7427e255.json",
+  "markdown_endpoint": "https://serpapi.com/searches/nyd8zAxJROD-xGNt1vBsDUveFj8s2R7soqzcrwplj8I/6ac7bf1010c26d1f7427e255.md",
+  "created_at": "2026-10-08 16:04:32 UTC",
+  "processed_at": "2026-10-08 16:04:32 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=4JYb-L8IE_Q",
+  "raw_html_file": "https://serpapi.com/searches/nyd8zAxJROD-xGNt1vBsDUveFj8s2R7soqzcrwplj8I/6ac7bf1010c26d1f7427e255.html",
+  "prettify_html_file": "https://serpapi.com/searches/nyd8zAxJROD-xGNt1vBsDUveFj8s2R7soqzcrwplj8I/6ac7bf1010c26d1f7427e255.prettify",
+  "total_time_taken": 6.57
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "4JYb-L8IE_Q",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "सर मास्टर कार्ड एशिया ने यहां पर करीब-करीब 4.31% हिस्सेदारी जो है वह बेची है और यह डील ₹187.75",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "पर शेयर के भाव पर हुई है और करीब ₹934 करोड़ के आसपास ये डील होती हुई दिखाई दी है। ICICI Penal एसोसिएट जनरल और कई सारे",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 15000,
+   "snippet": "दूसरे इन्वेस्टर्स ने शेयर इसमें खरीदे हैं। आज प्रेशर है सर Pाइ LS को लेकर के 189 के आसपास ट्रेड करता हुआ अह क्या करना चाहिए सर 18 90 के आसपास?",
+   "start_time_text": "0:15",
+   "start_time_label": "15 seconds"
+  },
+  {
+   "start_ms": 27000,
+   "snippet": "देखिए खरीदारी की सलाह है और हमारा व्यू पॉजिटिव है और नो डाउट बीच में कुछ कुछ खबरें आई थी और उसके चलते स्टॉक में एक",
+   "start_time_text": "0:27",
+   "start_time_label": "27 seconds"
+  },
+  {
+   "start_ms": 34000,
+   "snippet": "कंसोलिडेशन ही बना और अभी भी वो कंसोलिडेशन बरकरार है बस बट उसमें एक चीज देखेंगे कि उस कंसोलिडेशन में 22 पॉजिटिव",
+   "start_time_text": "0:34",
+   "start_time_label": "34 seconds"
+  },
+  {
+   "start_ms": 42000,
+   "snippet": "बने हुए हैं। तो अभी भी 200 डेमा सारे इंपॉर्टेंट मूविंग एवरेजेस डेली सुपर ट्रेंड ये सबको स्टॉक सस्टेन कर पा रहा है। तो कोई भी न्यूज़ का इंपैक्ट ऐसा अभी",
+   "start_time_text": "0:42",
+   "start_time_label": "42 seconds"
+  },
+  {
+   "start_ms": 51000,
+   "snippet": "तक तो दिखा नहीं है। तो हमारा तो व्यू अभी भी स्टिल पॉजिटिव है। और 180 179 का एसएल लगा के यहां पे बाय एंड होल्ड करने की",
+   "start_time_text": "0:51",
+   "start_time_label": "51 seconds"
+  },
+  {
+   "start_ms": 60000,
+   "snippet": "सलाह है। पहला टारगेट 205 जो बहुत छोटा सा अभी स्विंग हाई है। 205 निकलने के बाद हम 225 तक की रैली बाइन लैब से एक्सपेक्ट",
+   "start_time_text": "1:00",
+   "start_time_label": "1 minute"
+  },
+  {
+   "start_ms": 69000,
+   "snippet": "करते हैं। व्यू पॉजिटिव है। बाय एंड होल्ड कीजिए 179 के स्टॉप लॉस के साथ और जो 225 तक का मूवमेंट है 2 से 2 1/2 महीने में देखने को मिल सकता है।",
+   "start_time_text": "1:09",
+   "start_time_label": "1 minute, 9 seconds"
+  },
+  {
+   "start_ms": 78000,
+   "snippet": "2 से 2 1/2 महीने में देखने को मिल सकता है। ये बात यहां पर निकल कर के आई है। के लिए तो ये नजरिया है यहां",
+   "start_time_text": "1:18",
+   "start_time_label": "1 minute, 18 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:04:37"
+}

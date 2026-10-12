@@ -1,0 +1,845 @@
+{
+ "search_metadata": {
+  "id": "6ac9f519932b0edc5bc5bbc6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Ve9E3JB6QZGfeCkdX1Zxd9IG8sbUTx6T7j-5DT9PMrA/6ac9f519932b0edc5bc5bbc6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Ve9E3JB6QZGfeCkdX1Zxd9IG8sbUTx6T7j-5DT9PMrA/6ac9f519932b0edc5bc5bbc6.md",
+  "created_at": "2026-10-10 08:19:37 UTC",
+  "processed_at": "2026-10-10 08:19:37 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=bb2necZmuqY",
+  "raw_html_file": "https://serpapi.com/searches/Ve9E3JB6QZGfeCkdX1Zxd9IG8sbUTx6T7j-5DT9PMrA/6ac9f519932b0edc5bc5bbc6.html",
+  "prettify_html_file": "https://serpapi.com/searches/Ve9E3JB6QZGfeCkdX1Zxd9IG8sbUTx6T7j-5DT9PMrA/6ac9f519932b0edc5bc5bbc6.prettify",
+  "total_time_taken": 1.0
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "bb2necZmuqY",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Is Another Harshad Mehta Era Coming? | Biggest Bull Run or Crash? | Trump Tariffs | Sunil Minglani",
+ "thumbnail": "https://i.ytimg.com/vi/bb2necZmuqY/maxresdefault.jpg",
+ "channel": {
+  "name": "Sunil Minglani",
+  "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@SunilMinglani",
+  "subscribers": "1.38M subscribers",
+  "extracted_subscribers": 1380000,
+  "verified": true
+ },
+ "views": "90,327 views",
+ "extracted_views": 90327,
+ "likes": "6.1K",
+ "extracted_likes": 6100,
+ "published_date": "Aug 15, 2025",
+ "description": {
+  "content": "#sunilminglani #harshadmehta #trumptariffs #indianeconomy \nIn this video, Sunil Minglani draws powerful parallels between the Harshad Mehta era of the 1990s and today’s Indian stock market, highlighting how history can often repeat itself. He explains patterns that led to a massive bull run back then and that could play out again in today’s environment. The discussion delves deeper into whether we can expect a significant rise and subsequent crash in the coming days, and how retail investors should prepare themselves for both scenarios.\n\nSunil also addresses the growing concerns around SIP inflows, questioning whether short-term economic pressures could disrupt the steady stream of money into mutual funds. Alongside this, he analyses current global affairs, including the slowdown in the US economy and the uncertainty created by Donald Trump’s tariff policies, and how these external factors could directly impact the Indian stock market....... Watch and never forget to share it with needy people 🙏\n\n#stockmarketforbeginners #psychologymatters  #harshadmehtascam #scam1992 #investment #retailinvestors #donaldtrump #useconomy  #indianstockmarket #stockmarketindia #sharemarket #sharemarketnews #sharebazaar #stockmarketinvesting #bullrun #stockmarketcrash \n============================================================\nDemat account with Zerodha, , please register using the link below... \nhttps://zerodha.com/open-account?c=ZM...\n============================================================\nTo subscribe to Master Trader Online, Please Visit the link below OR download the SM Android Application from the Google Play Store\nhttps://sunilminglani.com/index.php/w...\n*Call/WhatsApp at 8882424222 / 8585954095 /9711830634 or email at teamsunilminglani@gmail.com for any queries.\n============================================================\n✔ Android Application Link: https://play.google.com/store/apps/de...\n✔ iOS Application Link- https://apps.apple.com/in/app/sunil-m...\n=============================================================\nTo subscribe to the SM Bulletin, Please Visit the link below OR Download the SM Android Application from Google Play Store\nhttps://sunilminglani.com/index.php/w...\n=============================================================\nTo buy the Online Technical Analysis Program For Beginners, Go To https://sunilminglani.com/index.php/w...\nor\nFor Android / Apple Application ...Go to Google Play Store/iOS Store and search \"Sunil Minglani\" \nWatch Demo Video with the link below:\n   • ORIGINAL CLIP | No.1 Online Technical Anal...  \n=============================================================\nTo buy the NEo Wave Explained Online Program, you can visit the link https://sunilminglani.com/index.php/w...\nOR\nDownload the Sunil Minglani Application from the Google Play Store / Apple Store \n========================================================\n✔ To JOIN our Channel Membership for Exclusive Offers, Click the Link Below and join...\n   / @sunilminglani  \n========================================================\n✔ Click the link below and join our Telegram Channel for the latest updates :\nTelegram Link: https://t.me/sunilminglani\n========================================================\nSocial Media Links :\n✔ Facebook-   / thesunilminglani  \n✔ Twitter-   / sunilminglani  \n✔Instagram-   / sunilminglani  \n========================================================\nWe have also started a new initiative called “ Valid Voice Talks”\nFor More info, subscribe to us     / vvtalks   ===========================================================",
+  "links": [
+   {
+    "start_index": 0,
+    "length": 14,
+    "text": "#sunilminglani",
+    "url": "https://www.youtube.com/hashtag/sunilminglani",
+    "type": "browse"
+   },
+   {
+    "start_index": 15,
+    "length": 13,
+    "text": "#harshadmehta",
+    "url": "https://www.youtube.com/hashtag/harshadmehta",
+    "type": "browse"
+   },
+   {
+    "start_index": 29,
+    "length": 13,
+    "text": "#trumptariffs",
+    "url": "https://www.youtube.com/hashtag/trumptariffs",
+    "type": "browse"
+   },
+   {
+    "start_index": 43,
+    "length": 14,
+    "text": "#indianeconomy",
+    "url": "https://www.youtube.com/hashtag/indianeconomy",
+    "type": "browse"
+   },
+   {
+    "start_index": 1013,
+    "length": 24,
+    "text": "stockmarketforbeginners ",
+    "url": "https://www.youtube.com/hashtag/stockmarketforbeginners",
+    "type": "browse"
+   },
+   {
+    "start_index": 1038,
+    "length": 18,
+    "text": "psychologymatters ",
+    "url": "https://www.youtube.com/hashtag/psychologymatters",
+    "type": "browse"
+   },
+   {
+    "start_index": 1058,
+    "length": 17,
+    "text": "harshadmehtascam ",
+    "url": "https://www.youtube.com/hashtag/harshadmehtascam",
+    "type": "browse"
+   },
+   {
+    "start_index": 1076,
+    "length": 9,
+    "text": "scam1992 ",
+    "url": "https://www.youtube.com/hashtag/scam1992",
+    "type": "browse"
+   },
+   {
+    "start_index": 1086,
+    "length": 11,
+    "text": "investment ",
+    "url": "https://www.youtube.com/hashtag/investment",
+    "type": "browse"
+   },
+   {
+    "start_index": 1098,
+    "length": 16,
+    "text": "retailinvestors ",
+    "url": "https://www.youtube.com/hashtag/retailinvestors",
+    "type": "browse"
+   },
+   {
+    "start_index": 1115,
+    "length": 12,
+    "text": "donaldtrump ",
+    "url": "https://www.youtube.com/hashtag/donaldtrump",
+    "type": "browse"
+   },
+   {
+    "start_index": 1128,
+    "length": 10,
+    "text": "useconomy ",
+    "url": "https://www.youtube.com/hashtag/useconomy",
+    "type": "browse"
+   },
+   {
+    "start_index": 1140,
+    "length": 18,
+    "text": "indianstockmarket ",
+    "url": "https://www.youtube.com/hashtag/indianstockmarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 1159,
+    "length": 17,
+    "text": "stockmarketindia ",
+    "url": "https://www.youtube.com/hashtag/stockmarketindia",
+    "type": "browse"
+   },
+   {
+    "start_index": 1177,
+    "length": 12,
+    "text": "sharemarket ",
+    "url": "https://www.youtube.com/hashtag/sharemarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 1190,
+    "length": 16,
+    "text": "sharemarketnews ",
+    "url": "https://www.youtube.com/hashtag/sharemarketnews",
+    "type": "browse"
+   },
+   {
+    "start_index": 1207,
+    "length": 12,
+    "text": "sharebazaar ",
+    "url": "https://www.youtube.com/hashtag/sharebazaar",
+    "type": "browse"
+   },
+   {
+    "start_index": 1220,
+    "length": 21,
+    "text": "stockmarketinvesting ",
+    "url": "https://www.youtube.com/hashtag/stockmarketinvesting",
+    "type": "browse"
+   },
+   {
+    "start_index": 1242,
+    "length": 8,
+    "text": "bullrun ",
+    "url": "https://www.youtube.com/hashtag/bullrun",
+    "type": "browse"
+   },
+   {
+    "start_index": 1251,
+    "length": 17,
+    "text": "stockmarketcrash ",
+    "url": "https://www.youtube.com/hashtag/stockmarketcrash",
+    "type": "browse"
+   },
+   {
+    "start_index": 1402,
+    "length": 40,
+    "text": "ttps://zerodha.com/open-account?c=ZM...\n",
+    "url": "https://zerodha.com/open-account?c=ZMPRLU"
+   },
+   {
+    "start_index": 1636,
+    "length": 40,
+    "text": "ttps://sunilminglani.com/index.php/w...\n",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/course_details?ref=MzA1"
+   },
+   {
+    "start_index": 1877,
+    "length": 40,
+    "text": "ttps://play.google.com/store/apps/de...\n",
+    "url": "https://play.google.com/store/apps/details?id=com.Minglani.SunilMinglani"
+   },
+   {
+    "start_index": 1942,
+    "length": 40,
+    "text": "ttps://apps.apple.com/in/app/sunil-m...\n",
+    "url": "https://apps.apple.com/in/app/sunil-minglani/id1440292849"
+   },
+   {
+    "start_index": 2168,
+    "length": 40,
+    "text": "ttps://sunilminglani.com/index.php/w...\n",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/newsletter"
+   },
+   {
+    "start_index": 2337,
+    "length": 40,
+    "text": "ttps://sunilminglani.com/index.php/w...\n",
+    "url": "https://sunilminglani.com/index.php/web_panel/services/course_details?ref=MjU1"
+   },
+   {
+    "start_index": 2517,
+    "length": 52,
+    "text": "  • ORIGINAL CLIP | No.1 Online Technical Anal...  \n",
+    "url": "https://www.youtube.com/watch?v=qgoee9M91zs",
+    "type": "watch"
+   },
+   {
+    "start_index": 2701,
+    "length": 39,
+    "text": "ttps://sunilminglani.com/index.php/w...",
+    "url": "https://sunilminglani.com/index.php/w.."
+   },
+   {
+    "start_index": 2972,
+    "length": 21,
+    "text": "  / @sunilminglani  \n",
+    "url": "https://www.youtube.com/channel/UCS8WLwuVszq1g2oeBzboUmQ/join"
+   },
+   {
+    "start_index": 3144,
+    "length": 26,
+    "text": "ttps://t.me/sunilminglani\n",
+    "url": "https://t.me/sunilminglani"
+   },
+   {
+    "start_index": 3261,
+    "length": 22,
+    "text": " / thesunilminglani  \n",
+    "url": "https://www.facebook.com/thesunilminglani"
+   },
+   {
+    "start_index": 3295,
+    "length": 19,
+    "text": " / sunilminglani  \n",
+    "url": "https://www.twitter.com/sunilminglani"
+   },
+   {
+    "start_index": 3327,
+    "length": 19,
+    "text": " / sunilminglani  \n",
+    "url": "https://www.instagram.com/sunilminglani"
+   },
+   {
+    "start_index": 3502,
+    "length": 14,
+    "text": "  / vvtalks   ",
+    "url": "https://www.youtube.com/vvtalks"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ",
+    "rich": "https://i.ytimg.com/an_webp/pv5ojiCojjU/mqdefault_6s.webp?du=3000&sqp=COqyp9YG&rs=AOn4CLD7UJhgedjnV3od9CjoWy0YpWTQpg"
+   },
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "19h ago",
+   "views": "25K",
+   "extracted_views": 25000,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "-dwsQSDKYuM",
+   "link": "https://www.youtube.com/watch?v=-dwsQSDKYuM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-dwsQSDKYuM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/-dwsQSDKYuM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVn_FG3bHuf6k0eAaWkkyMizi3RQ",
+    "rich": "https://i.ytimg.com/an_webp/-dwsQSDKYuM/mqdefault_6s.webp?du=3000&sqp=CMzep9YG&rs=AOn4CLDNz_y673RVX2BJQUtPVOWo9qBWyQ"
+   },
+   "title": "USA BEGS RUSSIA FOR 48 LAKH TONS OF DIESEL | Trump-Putin deal, but India gets Sanctioned? | Kinjal",
+   "published_date": "2h ago",
+   "views": "33K",
+   "extracted_views": 33000,
+   "channel": {
+    "name": "World Affairs by Unacademy",
+    "link": "https://www.youtube.com/@WorldAffairsUnacademy",
+    "thumbnail": "https://yt3.ggpht.com/gACFYVpRYiIeRN87biFtdyY_uTVfwsmVgI_C8mcoJBwKqp3ZFtle5QQnGmu0hIUV8mTmwL_beHg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "t3OEb5ZWrmg",
+   "link": "https://www.youtube.com/watch?v=t3OEb5ZWrmg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t3OEb5ZWrmg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/t3OEb5ZWrmg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAScmqwWB257TiPzPS9mdUAV7MZnw",
+    "rich": "https://i.ytimg.com/an_webp/t3OEb5ZWrmg/mqdefault_6s.webp?du=3000&sqp=CKDjp9YG&rs=AOn4CLCTskjSRbPorV_LgE8paiuBKOCBlg"
+   },
+   "title": "🔰🔶कहानी 2008 की 🐻😈- Part-1  | Sunil Minglani LIVE | 11th Feb 2020",
+   "published_date": "Streamed 6y ago",
+   "views": "184K",
+   "extracted_views": 184000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "j8Ys8ZldrME",
+   "link": "https://www.youtube.com/watch?v=j8Ys8ZldrME",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8Ys8ZldrME",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/j8Ys8ZldrME/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh8SgVeZ_mPkh6Mm8yrHyvHyNQaQ",
+    "rich": "https://i.ytimg.com/an_webp/j8Ys8ZldrME/mqdefault_6s.webp?du=3000&sqp=CMzQp9YG&rs=AOn4CLD-pQlc8TSlICgBAn6Zh7XpSkm-TA"
+   },
+   "title": "Pleasure + Pain= Market 🤩😪| Psychology Matters | Sunil Minglani",
+   "published_date": "1y ago",
+   "views": "89K",
+   "extracted_views": 89000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=COzMp9YG&rs=AOn4CLA9-nB_1BOvCP4oPltQgHYcanffog"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "753K",
+   "extracted_views": 753000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "JRE8mNk9z_A",
+   "link": "https://www.youtube.com/watch?v=JRE8mNk9z_A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JRE8mNk9z_A",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/JRE8mNk9z_A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgbvkWTVAW9ywhxeJRX2SqDpNsIg",
+    "rich": "https://i.ytimg.com/an_webp/JRE8mNk9z_A/mqdefault_6s.webp?du=3000&sqp=CMDlp9YG&rs=AOn4CLBmYObhN_Qij0amA5cCMFc5q94_9Q"
+   },
+   "title": "Worst Decision Of RBI, Demonetisation, PM Modi & Indian Economy - Raghuram Rajan | FO151 Raj Shamani",
+   "published_date": "2y ago",
+   "views": "3.3M",
+   "extracted_views": 3300000,
+   "channel": {
+    "name": "Raj Shamani",
+    "link": "https://www.youtube.com/@rajshamani",
+    "thumbnail": "https://yt3.ggpht.com/qSVJkhoSs6lw5cNMsZAJ8ZAk1pxiewDb_gLtnzOsyM5TWQ6YggQj0eBetOLSxFuJqgxsyQ73NA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pLmt5WEqrc8",
+   "link": "https://www.youtube.com/watch?v=pLmt5WEqrc8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLmt5WEqrc8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pLmt5WEqrc8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV_sai8H9HtPh-5p6-uGoIau3LgA",
+    "rich": "https://i.ytimg.com/an_webp/pLmt5WEqrc8/mqdefault_6s.webp?du=3000&sqp=CJ7Gp9YG&rs=AOn4CLDOgtFFSbYMgamEbKQf2ZEVZeiRxg"
+   },
+   "title": "How Banks Actually Create Money in India | Ex-SEBI Official Explains",
+   "published_date": "7d ago",
+   "views": "51K",
+   "extracted_views": 51000,
+   "channel": {
+    "name": "Zerodha Varsity",
+    "link": "https://www.youtube.com/@varsitybyzerodha",
+    "thumbnail": "https://yt3.ggpht.com/1sgOk7YkQWV-xdDa7jyTJZPyHHIFC-Cl0UdS4HvfVjAYRqDZ32-OOtyueC6wm6HYeY7S8AJE=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "ykN3r9-2iyU",
+   "link": "https://www.youtube.com/watch?v=ykN3r9-2iyU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ykN3r9-2iyU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ykN3r9-2iyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4aYXNvd4VRTRyafsRv9dZkQXpZQ",
+    "rich": "https://i.ytimg.com/an_webp/ykN3r9-2iyU/mqdefault_6s.webp?du=3000&sqp=CP63p9YG&rs=AOn4CLACSiZ-UgI1nOUAyfGcoAjm1s4kCg"
+   },
+   "title": "Professor Pape: PROOF Trump Is Planning MAJOR Iran Escalation",
+   "published_date": "15h ago",
+   "views": "442K",
+   "extracted_views": 442000,
+   "channel": {
+    "name": "Breaking Points",
+    "link": "https://www.youtube.com/@breakingpoints",
+    "thumbnail": "https://yt3.ggpht.com/cGmY4x-DMQwLeGiQH3uHc0qQzQdrv-ygrASjf8hI0XPshxoYtWn1X2CdrMo5uAae4HqLFl06wg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "V3SAYBJxGTg",
+   "link": "https://www.youtube.com/watch?v=V3SAYBJxGTg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V3SAYBJxGTg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/V3SAYBJxGTg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBtkvvT8XbXOlBO2ncfMvpzqBxf9g",
+    "rich": "https://i.ytimg.com/an_webp/V3SAYBJxGTg/mqdefault_6s.webp?du=3000&sqp=CLi5p9YG&rs=AOn4CLBfmd0mhAVSVDnsDnuODyWe-G7WeA"
+   },
+   "title": "US Suspends PERM for Infosys, Tata & Wipro: What Happens Next?",
+   "published_date": "Streamed 1d ago",
+   "views": "542K",
+   "extracted_views": 542000,
+   "channel": {
+    "name": "PGurus",
+    "link": "https://www.youtube.com/@PGurus1",
+    "thumbnail": "https://yt3.ggpht.com/l4yblcrSL0buVlVgzDwVbtYf_GP7kQ0qr6fV5kroc8iLHFpLMkgHHHFDg1ER9Aln0nLQNgdmgA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "fBxZPQZyNp0",
+   "link": "https://www.youtube.com/watch?v=fBxZPQZyNp0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fBxZPQZyNp0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/fBxZPQZyNp0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXljGbjvjnXcOuR2Zn8F__4gVeAQ",
+    "rich": "https://i.ytimg.com/an_webp/fBxZPQZyNp0/mqdefault_6s.webp?du=3000&sqp=CMG-p9YG&rs=AOn4CLAt7_dPxG8bb_wKG4-pDpt8vD-7mg"
+   },
+   "title": "USA Debt Crisis, Trade Wars, Cyber Power & India’s Future | Kirttan Shah | FO462 Raj Shamani",
+   "published_date": "8mo ago",
+   "views": "3.3M",
+   "extracted_views": 3300000,
+   "channel": {
+    "name": "Raj Shamani and Kirttan Shah",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "kW40klgo0hY",
+   "link": "https://www.youtube.com/watch?v=kW40klgo0hY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kW40klgo0hY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kW40klgo0hY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApf1Z7zFUiwnhtPRcoW6bdpLjwBw",
+    "rich": "https://i.ytimg.com/an_webp/kW40klgo0hY/mqdefault_6s.webp?du=3000&sqp=CN6dp9YG&rs=AOn4CLDmIEHLfTYgMRPjCrFm0W-dfqr03w"
+   },
+   "title": "Tata Feud: Delhi Darbar Wants a Foothold in Bombay House; That's No Good for Shareholder Democracy",
+   "published_date": "2d ago",
+   "views": "13K",
+   "extracted_views": 13000,
+   "channel": {
+    "name": "Rajesh Mahapatra",
+    "link": "https://www.youtube.com/@rajesh-mahapatra",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqHM-ef8LWbmlvgQL7KhkWXmGkulsGkw8bXbnKgRdqgcg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "rGpqP5B89vk",
+   "link": "https://www.youtube.com/watch?v=rGpqP5B89vk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rGpqP5B89vk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rGpqP5B89vk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvT521j7YHV2j8Hh-WjHAgZ0uNKg",
+    "rich": "https://i.ytimg.com/an_webp/rGpqP5B89vk/mqdefault_6s.webp?du=3000&sqp=CKfbp9YG&rs=AOn4CLD3Kij7uCOiNnWSCMbHDrFMYAacbA"
+   },
+   "title": "Weekly Market Outlook on - Nifty, BankNifty, Sectors, OCD, PCR for the week starting 12th Oct 26.",
+   "published_date": "4h ago",
+   "views": "1.4K",
+   "extracted_views": 1400,
+   "channel": {
+    "name": "Dr. Kiran Jadhav",
+    "link": "https://www.youtube.com/@kiranjadhav6890",
+    "thumbnail": "https://yt3.ggpht.com/NKmszlsKBdqDWeMQsjtYDfDKuC10zfXG0SXhTq-KMMflGgyCek2fgJGi66RJDD_1bz8YPA9zog=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "19h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "LUzFocSa8gM",
+   "link": "https://www.youtube.com/watch?v=LUzFocSa8gM&pp=ugUHEgVlbi1VU9IHCQk3DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LUzFocSa8gM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LUzFocSa8gM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtVdUoaOswUzSZBkWKtaaJMrw-Wg",
+    "rich": "https://i.ytimg.com/an_webp/LUzFocSa8gM/mqdefault_6s.webp?du=3000&sqp=CIjmp9YG&rs=AOn4CLAda4zeV6AyefaBtCRc0PRXNxlPwg"
+   },
+   "title": "🔰🔶 🔰🔶Market's Wisdom | Sunil Minglani LIVE | 11th September'20",
+   "published_date": "Streamed 6y ago",
+   "views": "85K",
+   "extracted_views": 85000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "zSkxqtTbEGU",
+   "link": "https://www.youtube.com/watch?v=zSkxqtTbEGU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zSkxqtTbEGU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zSkxqtTbEGU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiWJCXc42RCLFYLLDsqQygQ6UaAQ",
+    "rich": "https://i.ytimg.com/an_webp/zSkxqtTbEGU/mqdefault_6s.webp?du=3000&sqp=CI_mp9YG&rs=AOn4CLD5WPsHtD0OkecICLFS-0ruMQON_g"
+   },
+   "title": "Top Geopolitical Expert: Why America Is No Longer The World's Leader | Ian Bremmer|FO545 Raj Shamani",
+   "published_date": "2mo ago",
+   "views": "1.5M",
+   "extracted_views": 1500000,
+   "channel": {
+    "name": "Raj Shamani and Ian Bremmer",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "PdoVd-uxeHE",
+   "link": "https://www.youtube.com/watch?v=PdoVd-uxeHE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PdoVd-uxeHE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PdoVd-uxeHE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB593aPATVHeV0IGo7vTiDbjH5SSg",
+    "rich": "https://i.ytimg.com/an_webp/PdoVd-uxeHE/mqdefault_6s.webp?du=3000&sqp=CJrhp9YG&rs=AOn4CLC-USfTr4SGL2YPk87pL-O8Run77w"
+   },
+   "title": "What Happens When a Country’s Debt Grows Faster Than Its Economy? | Ft. Krishan Sharma",
+   "published_date": "2w ago",
+   "views": "280K",
+   "extracted_views": 280000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pct6aPprW7c",
+   "link": "https://www.youtube.com/watch?v=pct6aPprW7c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pct6aPprW7c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pct6aPprW7c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKEI79gGvgD979JfZaEFwm8txaCA",
+    "rich": "https://i.ytimg.com/an_webp/pct6aPprW7c/mqdefault_6s.webp?du=3000&sqp=CLXRp9YG&rs=AOn4CLCobuUkOuoWXtxcAMKsZekeOqOT5g"
+   },
+   "title": "- Sushil Kedia Exclusive: बाजार में आगे क्या होगा? Gold-Silver, Crude और Stocks का Outlook",
+   "published_date": "2d ago",
+   "views": "83K",
+   "extracted_views": 83000,
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness",
+    "thumbnail": "https://yt3.ggpht.com/sxHEe-On1euLaHO6gssZiJXWQpRgjy7duGBWC9qPmDEul_AfSvthGaGOc3uRZEhTUchMBEOJlp0=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "MXpg_ehgRzc",
+   "link": "https://www.youtube.com/watch?v=MXpg_ehgRzc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MXpg_ehgRzc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MXpg_ehgRzc/hqdefault_custom_2.jpg?sqp=CITop9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBo011L5TyrnX9TaUWgpfvu1Fjz9w",
+    "rich": "https://i.ytimg.com/an_webp/MXpg_ehgRzc/mqdefault_6s.webp?du=3000&sqp=CKbpp9YG&rs=AOn4CLBwVwiqAsMjxiAe37WT-bVBuu02Mg"
+   },
+   "title": "अमेरिकी Bond Yield से भारत को बड़ा झटका? #vijaysardana #dollar #trump #modi #rupee #bond #yield",
+   "published_date": "4d ago",
+   "views": "462K",
+   "extracted_views": 462000,
+   "channel": {
+    "name": "Vijay Sardana INSIGHTS",
+    "link": "https://www.youtube.com/@vijaysardanainsights",
+    "thumbnail": "https://yt3.ggpht.com/5HeQZWr7UWTLRUt_lG8KKAnCB3XNkiZQWzMVt4BvUw_GL_nZhsR9rfJCe5Jj1VmQt-w9lUXJPNE=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "OzCNuqUtHZg",
+   "link": "https://www.youtube.com/watch?v=OzCNuqUtHZg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OzCNuqUtHZg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OzCNuqUtHZg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdp-aHBvac1jV0NVV0lK7_yDYHWA",
+    "rich": "https://i.ytimg.com/an_webp/OzCNuqUtHZg/mqdefault_6s.webp?du=3000&sqp=CPjhp9YG&rs=AOn4CLA0Ru1MOpgED_eRQV-YVLuTOe_6ZA"
+   },
+   "title": "AMERICANS CELEBRATE CRASH OF INDIAN STOCK MARKET | So Much Hate For Bharat? | By Prashant Dhawan",
+   "published_date": "23h ago",
+   "views": "920K",
+   "extracted_views": 920000,
+   "channel": {
+    "name": "Adda247 Skills",
+    "link": "https://www.youtube.com/@adda247-skills",
+    "thumbnail": "https://yt3.ggpht.com/j68Hr1NtrD4LLjZgfO_4An4CFJgUlJeLj4NZATFCWePPH5oWlr-Q0xgODZ9R7qZ7mehbRRJ9=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILYmIybmVjWm11cVnAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqgAZNZ29JbUx1MHFhcTNvNWc3MnM2TDZ3eXRCQXFxQkFvRDhqNEFDZzdDUGdzSXRaeWloZUtSbXYtbUFRb0Q4ajRBQ2c3Q1Bnc0k0OFdwaHBLSWktNzVBUW9EOGo0QUNnN0NQZ3NJNk56YXN2bU40Ym0zQVFvRDhqNEFDZzdDUGdzSXdkbjJ5cG1laS1PUEFRb0Q4ajRBQ2c3Q1Bnc0kzcE9ndHJudzU0enJBUW9EOGo0QUNnM0NQZ29JOEpfM3lZMlR6NGdsQ2dQeVBnQUtEc0ktQ3dqUDI2cUoxcnpyM0tRQkNnUHlQZ0FLQV9JLUFBb093ajRMQ0tXVzJ2Mzk5ZDJoeWdFS0FfSS1BQW9Od2o0S0NMaXl4Sk9CaktDNlZ3b0Q4ajRBQ2czQ1Bnb0luZTNJczlDbmxvNThDZ1B5UGdBS0RzSS1Dd2lXcEtQQnBaS050NUVCQ2dQeVBnQUtEc0ktQ3dqNTdmT0QtY2VhdGF3QkNnUHlQZ0FLRGNJLUNnajAzc0hhdlo3WjVsMEtBX0ktQUFvTndqNEtDSVBrNjZTY3RMR21MUW9EOGo0QUNnN0NQZ3NJNWFEc3BxMjF6SlROQVFvRDhqNEFDZzNDUGdvSThmREYzZjZ1aGUwOUNnUHlQZ0FLRHNJLUN3aTN0NjNUajgzZTVhVUJDZ1B5UGdBS0RjSS1DZ2kzam9IRDNwLVl2VEVLQV9JLUFBb053ajRLQ0ppN3RLbXF0Nk9ZT3hJVUFBSUVCZ2dLREE0UEVSTVZGeGtiSFI4aEl5VWFCQWdBRUFFYUJBZ0NFQU1hQkFnRUVBVWFCQWdHRUFjYUJBZ0lFQWthQkFnS0VBc2FCQWdNRUEwYUJBZ1BFQkFhQkFnUkVCSWFCQWdURUJRYUJBZ1ZFQllhQkFnWEVCZ2FCQWdaRUJvYUJBZ2JFQndhQkFnZEVCNGFCQWdmRUNBYUJBZ2hFQ0lhQkFnakVDUWFCQWdsRUNZcUZBQUNCQVlJQ2d3T0R4RVRGUmNaR3gwZklTTWxqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ",
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "19 hours ago",
+   "views": "25K views",
+   "extracted_views": 25000,
+   "length": "55:13",
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai"
+   }
+  },
+  {
+   "video_id": "-dwsQSDKYuM",
+   "link": "https://www.youtube.com/watch?v=-dwsQSDKYuM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-dwsQSDKYuM",
+   "thumbnail": "https://i.ytimg.com/vi/-dwsQSDKYuM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVn_FG3bHuf6k0eAaWkkyMizi3RQ",
+   "title": "USA BEGS RUSSIA FOR 48 LAKH TONS OF DIESEL | Trump-Putin deal, but India gets Sanctioned? | Kinjal",
+   "published_date": "2 hours ago",
+   "views": "33K views",
+   "extracted_views": 33000,
+   "length": "17:27",
+   "channel": {
+    "name": "World Affairs by Unacademy",
+    "link": "https://www.youtube.com/@WorldAffairsUnacademy"
+   }
+  },
+  {
+   "video_id": "t3OEb5ZWrmg",
+   "link": "https://www.youtube.com/watch?v=t3OEb5ZWrmg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t3OEb5ZWrmg",
+   "thumbnail": "https://i.ytimg.com/vi/t3OEb5ZWrmg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAScmqwWB257TiPzPS9mdUAV7MZnw",
+   "title": "🔰🔶कहानी 2008 की 🐻😈- Part-1  | Sunil Minglani LIVE | 11th Feb 2020",
+   "published_date": "Streamed 6 years ago",
+   "views": "184K views",
+   "extracted_views": 184000,
+   "length": "1:06:42",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "j8Ys8ZldrME",
+   "link": "https://www.youtube.com/watch?v=j8Ys8ZldrME",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=j8Ys8ZldrME",
+   "thumbnail": "https://i.ytimg.com/vi/j8Ys8ZldrME/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh8SgVeZ_mPkh6Mm8yrHyvHyNQaQ",
+   "title": "Pleasure + Pain= Market 🤩😪| Psychology Matters | Sunil Minglani",
+   "published_date": "1 year ago",
+   "views": "89K views",
+   "extracted_views": 89000,
+   "length": "46:42",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2 months ago",
+   "views": "753K views",
+   "extracted_views": 753000,
+   "length": "1:26:00",
+   "channel": {
+    "name": "Investing With Upsurge and 2 more"
+   }
+  },
+  {
+   "video_id": "JRE8mNk9z_A",
+   "link": "https://www.youtube.com/watch?v=JRE8mNk9z_A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JRE8mNk9z_A",
+   "thumbnail": "https://i.ytimg.com/vi/JRE8mNk9z_A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgbvkWTVAW9ywhxeJRX2SqDpNsIg",
+   "title": "Worst Decision Of RBI, Demonetisation, PM Modi & Indian Economy - Raghuram Rajan | FO151 Raj Shamani",
+   "published_date": "2 years ago",
+   "views": "3.3M views",
+   "extracted_views": 3300000,
+   "length": "59:54",
+   "channel": {
+    "name": "Raj Shamani",
+    "link": "https://www.youtube.com/@rajshamani"
+   }
+  },
+  {
+   "video_id": "pLmt5WEqrc8",
+   "link": "https://www.youtube.com/watch?v=pLmt5WEqrc8&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLmt5WEqrc8",
+   "thumbnail": "https://i.ytimg.com/vi/pLmt5WEqrc8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDV_sai8H9HtPh-5p6-uGoIau3LgA",
+   "title": "How Banks Actually Create Money in India | Ex-SEBI Official Explains",
+   "published_date": "7 days ago",
+   "views": "51K views",
+   "extracted_views": 51000,
+   "length": "1:09:28",
+   "channel": {
+    "name": "Zerodha Varsity",
+    "link": "https://www.youtube.com/@varsitybyzerodha"
+   }
+  },
+  {
+   "video_id": "ykN3r9-2iyU",
+   "link": "https://www.youtube.com/watch?v=ykN3r9-2iyU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ykN3r9-2iyU",
+   "thumbnail": "https://i.ytimg.com/vi/ykN3r9-2iyU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4aYXNvd4VRTRyafsRv9dZkQXpZQ",
+   "title": "Professor Pape: PROOF Trump Is Planning MAJOR Iran Escalation",
+   "published_date": "15 hours ago",
+   "views": "442K views",
+   "extracted_views": 442000,
+   "length": "28:52",
+   "channel": {
+    "name": "Breaking Points",
+    "link": "https://www.youtube.com/@breakingpoints"
+   }
+  },
+  {
+   "video_id": "V3SAYBJxGTg",
+   "link": "https://www.youtube.com/watch?v=V3SAYBJxGTg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V3SAYBJxGTg",
+   "thumbnail": "https://i.ytimg.com/vi/V3SAYBJxGTg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBtkvvT8XbXOlBO2ncfMvpzqBxf9g",
+   "title": "US Suspends PERM for Infosys, Tata & Wipro: What Happens Next?",
+   "published_date": "Streamed 1 day ago",
+   "views": "542K views",
+   "extracted_views": 542000,
+   "length": "26:26",
+   "channel": {
+    "name": "PGurus",
+    "link": "https://www.youtube.com/@PGurus1"
+   }
+  },
+  {
+   "video_id": "fBxZPQZyNp0",
+   "link": "https://www.youtube.com/watch?v=fBxZPQZyNp0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fBxZPQZyNp0",
+   "thumbnail": "https://i.ytimg.com/vi/fBxZPQZyNp0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCXljGbjvjnXcOuR2Zn8F__4gVeAQ",
+   "title": "USA Debt Crisis, Trade Wars, Cyber Power & India’s Future | Kirttan Shah | FO462 Raj Shamani",
+   "published_date": "8 months ago",
+   "views": "3.3M views",
+   "extracted_views": 3300000,
+   "length": "2:20:05",
+   "channel": {
+    "name": "Raj Shamani and Kirttan Shah"
+   }
+  },
+  {
+   "video_id": "kW40klgo0hY",
+   "link": "https://www.youtube.com/watch?v=kW40klgo0hY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kW40klgo0hY",
+   "thumbnail": "https://i.ytimg.com/vi/kW40klgo0hY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLApf1Z7zFUiwnhtPRcoW6bdpLjwBw",
+   "title": "Tata Feud: Delhi Darbar Wants a Foothold in Bombay House; That's No Good for Shareholder Democracy",
+   "published_date": "2 days ago",
+   "views": "13K views",
+   "extracted_views": 13000,
+   "length": "36:28",
+   "channel": {
+    "name": "Rajesh Mahapatra",
+    "link": "https://www.youtube.com/@rajesh-mahapatra"
+   }
+  },
+  {
+   "video_id": "rGpqP5B89vk",
+   "link": "https://www.youtube.com/watch?v=rGpqP5B89vk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rGpqP5B89vk",
+   "thumbnail": "https://i.ytimg.com/vi/rGpqP5B89vk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvT521j7YHV2j8Hh-WjHAgZ0uNKg",
+   "title": "Weekly Market Outlook on - Nifty, BankNifty, Sectors, OCD, PCR for the week starting 12th Oct 26.",
+   "published_date": "4 hours ago",
+   "views": "1.4K views",
+   "extracted_views": 1400,
+   "length": "18:20",
+   "channel": {
+    "name": "Dr. Kiran Jadhav",
+    "link": "https://www.youtube.com/@kiranjadhav6890"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC2JiMm5lY1ptdXFZGAYyJSIRIgtiYjJuZWNabXVxWTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC2JiMm5lY1ptdXFZGAYyVSIuIgtiYjJuZWNabXVxWTAAeAKqAhpVZ3pYN2VsNWRKb3ZmMUJuOWl0NEFhQUJBZzABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC2JiMm5lY1ptdXFZGAYyOCIRIgtiYjJuZWNabXVxWTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=bb2necZmuqY"
+ },
+ "_fetched_at": "2026-10-10T08:19:36"
+}

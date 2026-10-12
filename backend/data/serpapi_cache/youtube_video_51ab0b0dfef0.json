@@ -1,0 +1,723 @@
+{
+ "search_metadata": {
+  "id": "6acaaa2a45a66ac226ecb6e6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Q4LQameXDZ6jxCh7THu-msQ8iFvfgoOkr2yfqgelQa0/6acaaa2a45a66ac226ecb6e6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Q4LQameXDZ6jxCh7THu-msQ8iFvfgoOkr2yfqgelQa0/6acaaa2a45a66ac226ecb6e6.md",
+  "created_at": "2026-10-10 21:12:10 UTC",
+  "processed_at": "2026-10-10 21:12:10 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=h9qYJRU98K0",
+  "raw_html_file": "https://serpapi.com/searches/Q4LQameXDZ6jxCh7THu-msQ8iFvfgoOkr2yfqgelQa0/6acaaa2a45a66ac226ecb6e6.html",
+  "prettify_html_file": "https://serpapi.com/searches/Q4LQameXDZ6jxCh7THu-msQ8iFvfgoOkr2yfqgelQa0/6acaaa2a45a66ac226ecb6e6.prettify",
+  "total_time_taken": 0.88
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "h9qYJRU98K0",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Buy These 5 Things Once You Get Money 💰",
+ "thumbnail": "https://i.ytimg.com/vi/h9qYJRU98K0/maxresdefault.jpg",
+ "channel": {
+  "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+  "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+  "subscribers": "15.4M subscribers",
+  "extracted_subscribers": 15400000,
+  "verified": true
+ },
+ "views": "180,504 views",
+ "extracted_views": 180504,
+ "likes": "6K",
+ "extracted_likes": 6000,
+ "published_date": "Premiered Aug 16, 2026",
+ "description": {
+  "content": "Investing Pro: https://www.investing-referral.com/get70\n\nGet InvestingPro's AI-Driven Strategies and AI-based Charts Technical Analysis from the above link.\n\n\n***************************************************************** \n\n👉 Start Investing in Stock Market 📈 Open Free Demat Account: https://upstox.com/open-account/?f=2YPX\n\n*****************************************************************  \n\nOpen Your Copy Trading Account on Mirrorpip\n👉https://trade.mirrorpip.com/#/login \n\n***************************************************************** \n\n🚀 CRYPTO TRADING AUTOMATION MASTERY BOOTCAMP: https://rzp.io/rzp/5DAYBATCH\n\n🔥 Attend 5 Days | Learn. Automate. Earn.\n\n💸 Offer Alert:\nJoin the 5-Day LIVE Workshop at just ₹499  \n\n\n*****************************************************************\n\n#MoneyTips #Investing #PersonalFinance\n\nAbout Pushkar Raj Thakur :\n\nPushkar Raj Thakur is India's Leading Educator & Finance Coach. \n\nHe Holds 2 Guinness World Records for the Largest Financial Investment Lesson and Largest Social Media Marketing Lesson. \n\nWith 15 Million+ Subscribers on Youtube & 2 Million+  Followers Instagram, he is consistently creating content around Financial Education, Stock Market and Current Affairs.\n\nNISM Certified Research Analyst\n\nNISM Certified Mutual Fund Distributor\n\nIRDA Certified\n\nFollow us on:\n\n👉 Telegram: https://t.me/PushkarRajThakurOfficial\n\n👉 Whatsapp: ‎ https://whatsapp.com/channel/0029VbCJ...\n\n👉 Facebook:   / pushkarrajthakurofficialpage  \n\n👉 Instagram:   / pushkarrajthakur  \n\n👉 Youtube:     / @pushkarrajthakurofficial  \n\n👉 Twitter: https://x.com/PushkarRThakur\n\n👉 LinkedIn:   / pushkarrajthakur  \n\n👉 http://www.pushkarrajthakur.com\n\nTo Join Our Courses Call @ 9999 470 710",
+  "links": [
+   {
+    "start_index": 15,
+    "length": 40,
+    "text": "https://www.investing-referral.com/get70",
+    "url": "https://www.investing-referral.com/get70"
+   },
+   {
+    "start_index": 290,
+    "length": 39,
+    "text": "tps://upstox.com/open-account/?f=2YPX\n\n",
+    "url": "https://upstox.com/open-account/?f=2YPX"
+   },
+   {
+    "start_index": 446,
+    "length": 35,
+    "text": "ps://trade.mirrorpip.com/#/login \n\n",
+    "url": "https://trade.mirrorpip.com/#/login"
+   },
+   {
+    "start_index": 599,
+    "length": 28,
+    "text": "s://rzp.io/rzp/5DAYBATCH\n\n🔥 ",
+    "url": "https://rzp.io/rzp/5DAYBATCH"
+   },
+   {
+    "start_index": 801,
+    "length": 10,
+    "text": "Tips #Inve",
+    "url": "https://www.youtube.com/hashtag/moneytips",
+    "type": "browse"
+   },
+   {
+    "start_index": 812,
+    "length": 10,
+    "text": "ting #Pers",
+    "url": "https://www.youtube.com/hashtag/investing",
+    "type": "browse"
+   },
+   {
+    "start_index": 823,
+    "length": 16,
+    "text": "nalFinance\n\nAbou",
+    "url": "https://www.youtube.com/hashtag/personalfinance",
+    "type": "browse"
+   },
+   {
+    "start_index": 1349,
+    "length": 37,
+    "text": "/t.me/PushkarRajThakurOfficial\n\n👉 Wha",
+    "url": "https://t.me/PushkarRajThakurOfficial"
+   },
+   {
+    "start_index": 1403,
+    "length": 40,
+    "text": "whatsapp.com/channel/0029VbCJ...\n\n👉 Face",
+    "url": "https://whatsapp.com/channel/0029VbCJyC14SpkBF9wiq62k"
+   },
+   {
+    "start_index": 1458,
+    "length": 34,
+    "text": "arrajthakurofficialpage  \n\n👉 Insta",
+    "url": "https://www.facebook.com/pushkarrajthakurofficialpage"
+   },
+   {
+    "start_index": 1508,
+    "length": 22,
+    "text": "rrajthakur  \n\n👉 Youtub",
+    "url": "https://www.instagram.com/pushkarrajthakur"
+   },
+   {
+    "start_index": 1545,
+    "length": 32,
+    "text": "arrajthakurofficial  \n\n👉 Twitter",
+    "url": "https://www.youtube.com/channel/UCEAAzv2OBqxsSczKJ2QZyGQ",
+    "type": "channel"
+   },
+   {
+    "start_index": 1591,
+    "length": 28,
+    "text": "m/PushkarRThakur\n\n👉 LinkedIn",
+    "url": "https://x.com/PushkarRThakur"
+   },
+   {
+    "start_index": 1634,
+    "length": 22,
+    "text": "jthakur  \n\n👉 http://ww",
+    "url": "https://www.linkedin.com/in/pushkarrajthakur"
+   },
+   {
+    "start_index": 1661,
+    "length": 31,
+    "text": "hkarrajthakur.com\n\nTo Join Our ",
+    "url": "http://www.pushkarrajthakur.com/"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "8UxtLqDZtuo",
+   "link": "https://www.youtube.com/watch?v=8UxtLqDZtuo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8UxtLqDZtuo",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/8UxtLqDZtuo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATpHvMkeRozzPuW2rns8GJ8h09nA",
+    "rich": "https://i.ytimg.com/an_webp/8UxtLqDZtuo/mqdefault_6s.webp?du=3000&sqp=CPbEqtYG&rs=AOn4CLBgknEKulHsWzOlWc2lqAK4QNeaiQ"
+   },
+   "title": "Why Most People Never Get Rich (5 Common Mistakes)",
+   "published_date": "2mo ago",
+   "views": "158K",
+   "extracted_views": 158000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "QfcdNGjsv70",
+   "link": "https://www.youtube.com/watch?v=QfcdNGjsv70&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QfcdNGjsv70",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/QfcdNGjsv70/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBz0CzRuc3gfT4x5JR9lL_AIKvJPg",
+    "rich": "https://i.ytimg.com/an_webp/QfcdNGjsv70/mqdefault_6s.webp?du=3000&sqp=CICcqtYG&rs=AOn4CLChvdZaXuBNRh1NEZZ2r5WVC5LUWg"
+   },
+   "title": "Money Expert: What To Do With Every Paycheck To Stop Being Broke | Jaspreet Singh",
+   "published_date": "2d ago",
+   "views": "325K",
+   "extracted_views": 325000,
+   "channel": {
+    "name": "Jay Shetty Podcast",
+    "link": "https://www.youtube.com/@JayShettyPodcast.",
+    "thumbnail": "https://yt3.ggpht.com/FPk4BUkb_OaCmCW7oiBaFWo4e25JqPV5mMWq3GMIGRBKikyGasog1d49He-fu16BlB5oSpXWaA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "MVLhT9RwJSY",
+   "link": "https://www.youtube.com/watch?v=MVLhT9RwJSY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MVLhT9RwJSY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MVLhT9RwJSY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdXHFJ3cTV-1MAEQSmpmSEpY78Kg",
+    "rich": "https://i.ytimg.com/an_webp/MVLhT9RwJSY/mqdefault_6s.webp?du=3000&sqp=CNKtqtYG&rs=AOn4CLDgwTjolqRLcMo4FNKz0qGGgcotMw"
+   },
+   "title": "Before You Buy US Stocks, Check These Numbers",
+   "published_date": "6h ago",
+   "views": "34K",
+   "extracted_views": 34000,
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo",
+    "thumbnail": "https://yt3.ggpht.com/Xmf5LtdlD2A7hOScjvc0nh87d1YfbfF458lN7Ot5T1a1CQePP6vNEmhZuj0x0TSz-37DBMzUsw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "tY-Uc7z2Y0Y",
+   "link": "https://www.youtube.com/watch?v=tY-Uc7z2Y0Y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tY-Uc7z2Y0Y",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tY-Uc7z2Y0Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkMvpSX7FKuDuIr1UppLnm_mQklA",
+    "rich": "https://i.ytimg.com/an_webp/tY-Uc7z2Y0Y/mqdefault_6s.webp?du=3000&sqp=CIjUqtYG&rs=AOn4CLDX6BfhiOOWh0yqeyLOr4739pAyDQ"
+   },
+   "title": "Why Looking Poor is Important?",
+   "published_date": "2mo ago",
+   "views": "583K",
+   "extracted_views": 583000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A",
+    "rich": "https://i.ytimg.com/an_webp/sKQbZZNB7Ww/mqdefault_6s.webp?du=3000&sqp=CIjUqtYG&rs=AOn4CLCocJRaaSjgcySth93GKs8WOYVkvg"
+   },
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "4w ago",
+   "views": "461K",
+   "extracted_views": 461000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "S60hcIVG-8k",
+   "link": "https://www.youtube.com/watch?v=S60hcIVG-8k",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S60hcIVG-8k",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/S60hcIVG-8k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYM7hxf7pHcYO4KcHfq3qOO-kE3A",
+    "rich": "https://i.ytimg.com/an_webp/S60hcIVG-8k/mqdefault_6s.webp?du=3000&sqp=CJurqtYG&rs=AOn4CLAIQVBQ6nu50_UU7YDQqzNC37fTUg"
+   },
+   "title": "How Much Money Should You Have At 25, 30, 35, 40 In India?",
+   "published_date": "1mo ago",
+   "views": "861K",
+   "extracted_views": 861000,
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo",
+    "thumbnail": "https://yt3.ggpht.com/Xmf5LtdlD2A7hOScjvc0nh87d1YfbfF458lN7Ot5T1a1CQePP6vNEmhZuj0x0TSz-37DBMzUsw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "r3teXG_UJxs",
+   "link": "https://www.youtube.com/watch?v=r3teXG_UJxs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r3teXG_UJxs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/r3teXG_UJxs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAhg7AQqrDnogY6JbBDCoVKC5LuA",
+    "rich": "https://i.ytimg.com/an_webp/r3teXG_UJxs/mqdefault_6s.webp?du=3000&sqp=CO65qtYG&rs=AOn4CLAD1fobZ22zn-qL_N28d6XxmQtb7A"
+   },
+   "title": "How to Build Wealth in India With ₹1 Lakh a Month: Wealth Manager Secrets ft. Feroze Azeez | FWS 72",
+   "published_date": "1y ago",
+   "views": "755K",
+   "extracted_views": 755000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=CL6sqtYG&rs=AOn4CLAISOoEoVeRFur5DIQsoYe6z5uYxw"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "757K",
+   "extracted_views": 757000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "7JfL4P6ip-4",
+   "link": "https://www.youtube.com/watch?v=7JfL4P6ip-4&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7JfL4P6ip-4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/7JfL4P6ip-4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtQPlfzi7BUkBQUo2Zn4I8adpDkg",
+    "rich": "https://i.ytimg.com/an_webp/7JfL4P6ip-4/mqdefault_6s.webp?du=3000&sqp=COrCqtYG&rs=AOn4CLD5lbYAhKUEJd0X8382QYe-QqXu8g"
+   },
+   "title": "Flat कभी मत लेना - फंसोगे! | SAGAR SINHA",
+   "published_date": "1mo ago",
+   "views": "1.8M",
+   "extracted_views": 1800000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+    "rich": "https://i.ytimg.com/an_webp/kDh89kb2t6w/mqdefault_6s.webp?du=3000&sqp=CLCnqtYG&rs=AOn4CLCUF3VvRtt_pHkngRyymek7fugv8w"
+   },
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4mo ago",
+   "views": "2M",
+   "extracted_views": 2000000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "r-WQtRmPfS0",
+   "link": "https://www.youtube.com/watch?v=r-WQtRmPfS0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-WQtRmPfS0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/r-WQtRmPfS0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAliKcgEf9fazBuCM_niwrgRpnIhw",
+    "rich": "https://i.ytimg.com/an_webp/r-WQtRmPfS0/mqdefault_6s.webp?du=3000&sqp=CLmzqtYG&rs=AOn4CLCbvWpjxSZKe7PBXNCjodERTCiVmA"
+   },
+   "title": "7 Smart Moves to Make Before You Turn 18 💡",
+   "published_date": "1mo ago",
+   "views": "575K",
+   "extracted_views": 575000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "CJmxHtZEsKA",
+   "link": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CJmxHtZEsKA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmW_jsjen1VPCw79HjJqDLeVUuaQ",
+    "rich": "https://i.ytimg.com/an_webp/CJmxHtZEsKA/mqdefault_6s.webp?du=3000&sqp=CNDIqtYG&rs=AOn4CLAEuASdODsVGEMiIZefZgzlXcyMpA"
+   },
+   "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
+   "published_date": "3mo ago",
+   "views": "342K",
+   "extracted_views": 342000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+    "rich": "https://i.ytimg.com/an_webp/w_b8_rtiZKg/mqdefault_6s.webp?du=3000&sqp=CPCsqtYG&rs=AOn4CLAYZMTz29FP0kwMJSWYpVhP_ZrQHQ"
+   },
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "3d ago",
+   "views": "458K",
+   "extracted_views": 458000,
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi",
+    "thumbnail": "https://yt3.ggpht.com/FWqvZ-FTNej3vJ4-tso3uSGOjRsCDxTmB2lVCf1cKN3D__RBxwthab1b3P66n3K3Fb7vPFVJuw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "GwznwEC8rYI",
+   "link": "https://www.youtube.com/watch?v=GwznwEC8rYI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GwznwEC8rYI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GwznwEC8rYI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzLQpfOJotvVVuC8sPUi_jr7nQ7A",
+    "rich": "https://i.ytimg.com/an_webp/GwznwEC8rYI/mqdefault_6s.webp?du=3000&sqp=CJa7qtYG&rs=AOn4CLBanRqySjfdN-6wuzXb4Pn03fEq-w"
+   },
+   "title": "How to Earn 3 Crore Capital before 30 Years of Age?",
+   "published_date": "2mo ago",
+   "views": "185K",
+   "extracted_views": 185000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "LBLJNJ0OY0E",
+   "link": "https://www.youtube.com/watch?v=LBLJNJ0OY0E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LBLJNJ0OY0E",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LBLJNJ0OY0E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBse1ICsDug-fm1F4hIL2vbbkazCw",
+    "rich": "https://i.ytimg.com/an_webp/LBLJNJ0OY0E/mqdefault_6s.webp?du=3000&sqp=CPK3qtYG&rs=AOn4CLBKxLq4-x8_660nNPDhaui484kXkg"
+   },
+   "title": "Plot vs Gold vs SIP vs Home Loan — AND the Winner Is… You’ll Be Shocked! | Rahul Jain",
+   "published_date": "1mo ago",
+   "views": "1.9M",
+   "extracted_views": 1900000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "GAr-2Cw4LIQ",
+   "link": "https://www.youtube.com/watch?v=GAr-2Cw4LIQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GAr-2Cw4LIQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GAr-2Cw4LIQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_W4yUu4YRq5bUtYWL3gyEj7Pn0A",
+    "rich": "https://i.ytimg.com/an_webp/GAr-2Cw4LIQ/mqdefault_6s.webp?du=3000&sqp=COSpqtYG&rs=AOn4CLAugrmMXO035cJz7VqPKuC47IONYg"
+   },
+   "title": "The 9:15 AM Options Strategy (Stupid, Simple and Proven) | Ft. Rajesh Jain",
+   "published_date": "2mo ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club",
+    "thumbnail": "https://yt3.ggpht.com/lCs-2XaS_unNd0HRQL6Vxi1bdl4tboIKSed47SrokUIaDveBeKSGyARay_hRKvb9SpsPZDmwdQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "VSnf3GaGgMU",
+   "link": "https://www.youtube.com/watch?v=VSnf3GaGgMU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VSnf3GaGgMU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VSnf3GaGgMU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGfQPGiX8ZLhW65Kf-Ut8YJEwzBQ",
+    "rich": "https://i.ytimg.com/an_webp/VSnf3GaGgMU/mqdefault_6s.webp?du=3000&sqp=CK6gqtYG&rs=AOn4CLCVRWeXUM_qWjWHcT7wJArXFk0rPg"
+   },
+   "title": "Renting vs Buying a Home — The Math Will Shock You",
+   "published_date": "1mo ago",
+   "views": "863K",
+   "extracted_views": 863000,
+   "channel": {
+    "name": "HinExp",
+    "link": "https://www.youtube.com/@HinExpofficial",
+    "thumbnail": "https://yt3.ggpht.com/yY0ZuramL_nGBjo6lEsNd_rRimI1pHZ9iQsfxdHVGgGN606MJ6n1VyrUsEz0iVlqmv14Dn8jBA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "Zx77T4a204A",
+   "link": "https://www.youtube.com/watch?v=Zx77T4a204A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Zx77T4a204A",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Zx77T4a204A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD8vaMWquot3Q4-cnvVawzOC9MxfQ",
+    "rich": "https://i.ytimg.com/an_webp/Zx77T4a204A/mqdefault_6s.webp?du=3000&sqp=CODGqtYG&rs=AOn4CLBWTROUcSSwSG2cXSRRAhREVHjZmQ"
+   },
+   "title": "How to Be a Real Estate Millionaire?",
+   "published_date": "6d ago",
+   "views": "208K",
+   "extracted_views": 208000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "m-MOmKILo1Q",
+   "link": "https://www.youtube.com/watch?v=m-MOmKILo1Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=m-MOmKILo1Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/m-MOmKILo1Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCzQm7u1xllVoMmZ79ZrAlfbWnmuQ",
+    "rich": "https://i.ytimg.com/an_webp/m-MOmKILo1Q/mqdefault_6s.webp?du=3000&sqp=CNTNqtYG&rs=AOn4CLBged1Oh_oIj666tcqPWKBN3A47BQ"
+   },
+   "title": "Invest in these 10 Assets if you want to be Rich!",
+   "published_date": "10mo ago",
+   "views": "1.5M",
+   "extracted_views": 1500000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "5lrA2UaYsBM",
+   "link": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5lrA2UaYsBM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5lrA2UaYsBM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-02pUst4aNiFgOVwsiQQ7u4wM6A",
+    "rich": "https://i.ytimg.com/an_webp/5lrA2UaYsBM/mqdefault_6s.webp?du=3000&sqp=CLbDqtYG&rs=AOn4CLCI6uEvRumT9uiiw59Q3YgcbOJK_A"
+   },
+   "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
+   "published_date": "3w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILaDlxWUpSVTk4SzDAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqngZNZ3NJay1EaXRKU2JzSzNtQWRyT2ktc013Z1FLdndRS0FfSS1BQW9Pd2o0TENPcnQ1b2JxcFp1bThRRUtBX0ktQUFvTndqNEtDTDNfc3NmR3BzZjdRUW9EOGo0QUNnM0NQZ29JcHNyQW9fMnB1S2t4Q2dQeVBnQUtEc0ktQ3dqR3h0bm51NDdseDdVQkNnUHlQZ0FLRHNJLUN3anMyb2VhMmV5RzByQUJDZ1B5UGdBS0RjSS1DZ2pKOTV1cWlLN0kxa3NLQV9JLUFBb093ajRMQ0p2TzBQN0d5OWU5cndFS0FfSS1BQW9Pd2o0TENONlRvTGE1OE9lTTZ3RUtBX0ktQUFvT3dqNExDTzdQaXZXUF9QTEw3QUVLQV9JLUFBb093ajRMQ0t6djJyZmtucC1ja0FFS0FfSS1BQW9Pd2o0TENLMzZ2Y3pSbHVUeXJ3RUtBX0ktQUFvTndqNEtDS0Roa3JMdG8tek1DQW9EOGo0QUNnN0NQZ3NJcU1tSjItdWZ2X3ZEQVFvRDhqNEFDZzNDUGdvSWd0dnloWVQ0dVlZYkNnUHlQZ0FLRGNJLUNnakJ4cm5veWFheWlTd0tBX0ktQUFvTndqNEtDSVRaNE9HQzI3LUZHQW9EOGo0QUNnM0NQZ29JeFlHYXRNYjc5NVJWQ2dQeVBnQUtEY0ktQ2dpQXA5dTEtT20tajJjS0FfSS1BQW9Pd2o0TENOVEdycENLMDhQeG13RUtBX0ktQUFvT3dqNExDSlBnNHJTVW03Q3Q1Z0VTRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5LaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmdqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "8UxtLqDZtuo",
+   "link": "https://www.youtube.com/watch?v=8UxtLqDZtuo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8UxtLqDZtuo",
+   "thumbnail": "https://i.ytimg.com/vi/8UxtLqDZtuo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLATpHvMkeRozzPuW2rns8GJ8h09nA",
+   "title": "Why Most People Never Get Rich (5 Common Mistakes)",
+   "published_date": "2 months ago",
+   "views": "158K views",
+   "extracted_views": 158000,
+   "length": "37:26",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "QfcdNGjsv70",
+   "link": "https://www.youtube.com/watch?v=QfcdNGjsv70&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=QfcdNGjsv70",
+   "thumbnail": "https://i.ytimg.com/vi/QfcdNGjsv70/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBz0CzRuc3gfT4x5JR9lL_AIKvJPg",
+   "title": "Money Expert: What To Do With Every Paycheck To Stop Being Broke | Jaspreet Singh",
+   "published_date": "2 days ago",
+   "views": "325K views",
+   "extracted_views": 325000,
+   "length": "43:50",
+   "channel": {
+    "name": "Jay Shetty Podcast",
+    "link": "https://www.youtube.com/@JayShettyPodcast."
+   }
+  },
+  {
+   "video_id": "MVLhT9RwJSY",
+   "link": "https://www.youtube.com/watch?v=MVLhT9RwJSY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MVLhT9RwJSY",
+   "thumbnail": "https://i.ytimg.com/vi/MVLhT9RwJSY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdXHFJ3cTV-1MAEQSmpmSEpY78Kg",
+   "title": "Before You Buy US Stocks, Check These Numbers",
+   "published_date": "6 hours ago",
+   "views": "34K views",
+   "extracted_views": 34000,
+   "length": "27:12",
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo"
+   }
+  },
+  {
+   "video_id": "tY-Uc7z2Y0Y",
+   "link": "https://www.youtube.com/watch?v=tY-Uc7z2Y0Y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tY-Uc7z2Y0Y",
+   "thumbnail": "https://i.ytimg.com/vi/tY-Uc7z2Y0Y/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkMvpSX7FKuDuIr1UppLnm_mQklA",
+   "title": "Why Looking Poor is Important?",
+   "published_date": "2 months ago",
+   "views": "583K views",
+   "extracted_views": 583000,
+   "length": "40:18",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A",
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "4 weeks ago",
+   "views": "461K views",
+   "extracted_views": 461000,
+   "length": "58:52",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "S60hcIVG-8k",
+   "link": "https://www.youtube.com/watch?v=S60hcIVG-8k",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S60hcIVG-8k",
+   "thumbnail": "https://i.ytimg.com/vi/S60hcIVG-8k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYM7hxf7pHcYO4KcHfq3qOO-kE3A",
+   "title": "How Much Money Should You Have At 25, 30, 35, 40 In India?",
+   "published_date": "1 month ago",
+   "views": "861K views",
+   "extracted_views": 861000,
+   "length": "16:36",
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo"
+   }
+  },
+  {
+   "video_id": "r3teXG_UJxs",
+   "link": "https://www.youtube.com/watch?v=r3teXG_UJxs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r3teXG_UJxs",
+   "thumbnail": "https://i.ytimg.com/vi/r3teXG_UJxs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDAhg7AQqrDnogY6JbBDCoVKC5LuA",
+   "title": "How to Build Wealth in India With ₹1 Lakh a Month: Wealth Manager Secrets ft. Feroze Azeez | FWS 72",
+   "published_date": "1 year ago",
+   "views": "755K views",
+   "extracted_views": 755000,
+   "length": "53:52",
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan"
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2 months ago",
+   "views": "757K views",
+   "extracted_views": 757000,
+   "length": "1:26:00",
+   "channel": {
+    "name": "Investing With Upsurge and 2 more"
+   }
+  },
+  {
+   "video_id": "7JfL4P6ip-4",
+   "link": "https://www.youtube.com/watch?v=7JfL4P6ip-4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7JfL4P6ip-4",
+   "thumbnail": "https://i.ytimg.com/vi/7JfL4P6ip-4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAtQPlfzi7BUkBQUo2Zn4I8adpDkg",
+   "title": "Flat कभी मत लेना - फंसोगे! | SAGAR SINHA",
+   "published_date": "1 month ago",
+   "views": "1.8M views",
+   "extracted_views": 1800000,
+   "length": "23:10",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4 months ago",
+   "views": "2M views",
+   "extracted_views": 2000000,
+   "length": "43:22",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   }
+  },
+  {
+   "video_id": "r-WQtRmPfS0",
+   "link": "https://www.youtube.com/watch?v=r-WQtRmPfS0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=r-WQtRmPfS0",
+   "thumbnail": "https://i.ytimg.com/vi/r-WQtRmPfS0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAliKcgEf9fazBuCM_niwrgRpnIhw",
+   "title": "7 Smart Moves to Make Before You Turn 18 💡",
+   "published_date": "1 month ago",
+   "views": "575K views",
+   "extracted_views": 575000,
+   "length": "18:11",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "CJmxHtZEsKA",
+   "link": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CJmxHtZEsKA",
+   "thumbnail": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmW_jsjen1VPCw79HjJqDLeVUuaQ",
+   "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
+   "published_date": "3 months ago",
+   "views": "342K views",
+   "extracted_views": 342000,
+   "length": "1:07:50",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC2g5cVlKUlU5OEswGAYyJSIRIgtoOXFZSlJVOThLMDAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC2g5cVlKUlU5OEswGAYyWCIxIgtoOXFZSlJVOThLMDAAeAKqAhpVZ3l3M01UYXRhUXNFQWx3cEZKNEFhQUJBZ_ADATABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC2g5cVlKUlU5OEswGAYyOyIUIgtoOXFZSlJVOThLMDABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=h9qYJRU98K0"
+ },
+ "_fetched_at": "2026-10-10T21:12:08"
+}

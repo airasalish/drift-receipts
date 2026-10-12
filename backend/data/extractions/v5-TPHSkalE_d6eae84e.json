@@ -1,0 +1,122 @@
+{
+ "calls": [
+  {
+   "company": "Jio Financial Services",
+   "symbol_guess": "JIOFIN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Jio फाइनेंस मैं भी ब्रोकरेज के धंधे में आ रहा है।",
+   "start_s": 2087,
+   "line": "500 करोड़ 700 करोड़ लगाता है बेटे की शादी में। हम है ना? अभी नया-नया वेंचर खोला है उसने।",
+   "evidence": [
+    {
+     "text": "Jio फाइनेंस",
+     "where": "transcript",
+     "start_s": 2092
+    }
+   ],
+   "reason": "The speaker mentions Jio Finance in passing without giving any buy/sell advice, so it is listed as a watch."
+  },
+  {
+   "company": "Infosys Ltd.",
+   "symbol_guess": "INFY",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "Infosys",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick."
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "symbol_guess": "TCS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "TCS",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick."
+  },
+  {
+   "company": "Wipro Ltd.",
+   "symbol_guess": "WIPRO",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Infosys, TCS, विp्रो जैसी कंपनियां हैं",
+   "start_s": 3117,
+   "line": "वो जो एक्सपर्ट बैठे होते हैं रियल स्टेट के वो कॉर्पोरेट बिल्डिंग्स में पैसा लगाते हैं।",
+   "evidence": [
+    {
+     "text": "विp्रो",
+     "where": "transcript",
+     "start_s": 3122
+    },
+    {
+     "text": "जैसी कंपनियां हैं",
+     "where": "transcript",
+     "start_s": 3122
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a tenant in a REIT, not as a stock pick."
+  },
+  {
+   "company": "Reliance Industries",
+   "symbol_guess": "RELIANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "सर आज वो Jio का सिम बेच रहा है।",
+   "start_s": 4799,
+   "line": "जॉब जॉब वालों के साथ लागू नहीं है। हम अंबानी जैसे लोगों के साथ भी लागू होती है। पूछो कैसे? हम",
+   "evidence": [
+    {
+     "text": "Jio का सिम",
+     "where": "transcript",
+     "start_s": 4804
+    }
+   ],
+   "reason": "The speaker mentions Jio as an example of performance‑based job security, not as a stock pick."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 17,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,961 @@
+{
+ "company": "IOL Chemicals and Pharmaceuticals Limited",
+ "ticker": {
+  "yahoo_symbol": "IOLCP.NS",
+  "google_finance": "IOLCP:NSE",
+  "name": "IOL Chemicals and Pharmaceuticals Limited",
+  "exchange": "NSE"
+ },
+ "videos": [
+  {
+   "video_id": "kuWZ8J-mJX0",
+   "title": "IOL Chemicals & Pharmaceuticals Ltd Share Analysis | Complete Fundamentals | Buy, Sell or Hold?",
+   "url": "https://www.youtube.com/watch?v=kuWZ8J-mJX0",
+   "channel": "Share Analysis",
+   "channel_url": "https://www.youtube.com/@SwingTradeStrategy",
+   "views": 225,
+   "length": "9:30",
+   "published_text": "2mo ago",
+   "published_date": "2026-08-09",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/kuWZ8J-mJX0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf1g8vGTPXn-PibDFwewGLrnCNyg"
+  },
+  {
+   "video_id": "Lyb41rkwpnc",
+   "title": "IOL Chemicals Breakout Confirmed? 🎯 Next Target ₹200+ | Buy Now?",
+   "url": "https://www.youtube.com/watch?v=Lyb41rkwpnc",
+   "channel": "Stock Journey With Dev",
+   "channel_url": "https://www.youtube.com/@stockjourneywithdev",
+   "views": 267,
+   "length": "3:15",
+   "published_text": "2mo ago",
+   "published_date": "2026-08-09",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/Lyb41rkwpnc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaoWM1XtGRz2FwrcfX4v6_N8t1uA"
+  },
+  {
+   "video_id": "kBOT52QlioE",
+   "title": "IOL Chemicals Share Latest News 🔴 | IOL Chemicals Share Today Update and Fundamental Analysis",
+   "url": "https://www.youtube.com/watch?v=kBOT52QlioE",
+   "channel": "QUICK BULL",
+   "channel_url": "https://www.youtube.com/@QUICKBULL",
+   "views": 1664,
+   "length": "1:30",
+   "published_text": "1mo ago",
+   "published_date": "2026-09-08",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/kBOT52QlioE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzoglv0uBZIEwbEM2L8t6lsQ24iw",
+   "mentions": [
+    {
+     "direction": "buy",
+     "explicit": true,
+     "target_price": 220.0,
+     "quote": "220 के टारगेट के लिए अभी आराम से इसमें होल्ड एंड आज के इस प्राइस पर बाय भी कर सकते हैं।",
+     "start_s": 60,
+     "line": "शेयरों की चालान में डिस्कस हुआ था। तो अभी वो टारगेट नहीं आया है। दैट इज 220।",
+     "evidence": [
+      {
+       "text": "बाय भी कर सकते हैं",
+       "where": "transcript",
+       "start_s": 64
+      },
+      {
+       "text": "होल्ड",
+       "where": "transcript",
+       "start_s": 43
+      }
+     ],
+     "reason": "The speaker mentions a target of 220, suggests buying at the current price, and also advises holding, indicating a buy recommendation with explicit price targets.",
+     "timestamp_url": "https://www.youtube.com/watch?v=kBOT52QlioE&t=60s",
+     "context": [
+      {
+       "start_s": 43,
+       "text": "फाइन। तो पहले आई आईओएलसीपी पर बात करते हैं जो कि 202 पर है। पोजीशन होल्ड एंड एक बार अटेम्प्ट बाय का भी। अह अभी मोस्ट"
+      },
+      {
+       "start_s": 52,
+       "text": "रिसेंट वाली एंट्री 162 की थी। उसके बाद 200 देख रहे हैं हम लोग। तो अभी फिलहाल आप होल्ड करके बिल्कुल जा सकते हैं। छोटे"
+      },
+      {
+       "start_s": 60,
+       "text": "शेयरों की चालान में डिस्कस हुआ था। तो अभी वो टारगेट नहीं आया है। दैट इज 220।"
+      },
+      {
+       "start_s": 64,
+       "text": "राउंड फिगर आई थिंक 220 है। 220 के टारगेट के लिए अभी आराम से इसमें होल्ड एंड आज के इस प्राइस पर बाय भी कर सकते हैं। स्टॉप"
+      },
+      {
+       "start_s": 72,
+       "text": "लॉस अब सब लोग रिवाइज़ कर लेना। जिन्होंने यू नो लास्ट वीक खरीदा वगैरह जो भी है तो स्टॉप लॉस रिवाइज़ कर लीजिए 178 का। उसके"
+      }
+     ],
+     "quote_en": "For a target of 220, you can comfortably hold it now and also buy at today’s price."
+    }
+   ]
+  },
+  {
+   "video_id": "HYJAJblV1dQ",
+   "title": "IOL Chemicals share latest news, IOL Chemicals stock analysis, IOL Chemicals share price target",
+   "url": "https://www.youtube.com/watch?v=HYJAJblV1dQ",
+   "channel": "Trading Actions • 19K views • 2 hours ago",
+   "channel_url": "https://www.youtube.com/@TradingActions",
+   "views": 1303,
+   "length": "1:14",
+   "published_text": "1mo ago",
+   "published_date": "2026-09-08",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/HYJAJblV1dQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFj-UtTAPuAQe-dOhMZWTFgPYokA",
+   "mentions": [
+    {
+     "direction": "watch",
+     "explicit": false,
+     "target_price": null,
+     "quote": "iOL केमics के स्टॉक के बारे में",
+     "start_s": 0,
+     "line": "नमस्कार दोस्तों। चलिए आज के इस वीडियो में बात करेंगे iOL केमics के स्टॉक के बारे में। स्टॉक की करंट प्राइस की बात करेंगे तो 196.90 इसकी करंट प्राइस चल रही",
+     "evidence": [],
+     "reason": "The speaker analyzes IOL Chemicals but explicitly states there is no buying recommendation, so it is listed as a watch rather than a buy.",
+     "timestamp_url": "https://www.youtube.com/watch?v=HYJAJblV1dQ&t=0s",
+     "context": [
+      {
+       "start_s": 0,
+       "text": "नमस्कार दोस्तों। चलिए आज के इस वीडियो में बात करेंगे iOL केमics के स्टॉक के बारे में। स्टॉक की करंट प्राइस की बात करेंगे तो 196.90 इसकी करंट प्राइस चल रही"
+      },
+      {
+       "start_s": 9,
+       "text": "है। और आज के एडिशन में इस इस काउंटर के अंदर लगभग 4.5% से भी ज्यादा तेजी हमें देखने को मिल रही है। और यह जो आप चार्ट देख रहे हो वन डे टाइम फ्रेम में सेट किया है। जो यहां पे एक रेजिस्टेंस लेवल था।"
+      },
+      {
+       "start_s": 18,
+       "text": "फाइनली इसको ब्रेकआउट हुआ। ब्रेकआउट के बाद में यहीं पे रिटेस्ट करके भी और एक अच्छा खासा बुलिश मोमेंटम यहां पे कंटिन्यू होते हुए दिखाई दे रहा है।"
+      }
+     ],
+     "quote_en": "About iOL Chemicals stock."
+    }
+   ]
+  },
+  {
+   "video_id": "nwig2DHzBUs",
+   "title": "IOL Chemicals and pharmaceuticals ltd latest news | iol chemicals and pharmaceuticals ltd Analysis",
+   "url": "https://www.youtube.com/watch?v=nwig2DHzBUs",
+   "channel": "Share Market Live",
+   "channel_url": "https://www.youtube.com/@Sharemarketlive77",
+   "views": 1652,
+   "length": "1:13",
+   "published_text": "4w ago",
+   "published_date": "2026-09-10",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/nwig2DHzBUs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjNpDLPdfAivBemHcQZDqOhmxNZw",
+   "mentions": [
+    {
+     "direction": "buy",
+     "explicit": true,
+     "target_price": 235.0,
+     "quote": "इसमें पार्टिसिपेट करने की फिर से सलाह होगी। पहले भी सलाह दी है।",
+     "start_s": 10,
+     "line": "लेकिन क्या यहां पर एक नई तेजी की तैयारी अभी भी हो रही है। जरा देखिए एक बार क्योंकि वॉल्यूम्स लगातार बढ़ते हुए और अच्छी तेजी रही है। जी",
+     "evidence": [
+      {
+       "text": "सलाह होगी",
+       "where": "transcript",
+       "start_s": 18
+      },
+      {
+       "text": "एंट्री करना चाहिए",
+       "where": "transcript",
+       "start_s": 25
+      }
+     ],
+     "reason": "Speaker explicitly advises to participate in IOLCP and suggests entry, indicating a buy recommendation.",
+     "timestamp_url": "https://www.youtube.com/watch?v=nwig2DHzBUs&t=10s",
+     "context": [
+      {
+       "start_s": 0,
+       "text": "अह अगला सवाल जो आपसे ले लेते हैं।"
+      },
+      {
+       "start_s": 2,
+       "text": "आईओएलसीपी इस पर हिमांशु जी की राय कई बार ली गई है। अह आईओएलसीपी में अब देखिए क्या गतिविधि हो सकती है। आज ऑलमोस्ट फ्लैट है।"
+      },
+      {
+       "start_s": 10,
+       "text": "लेकिन क्या यहां पर एक नई तेजी की तैयारी अभी भी हो रही है। जरा देखिए एक बार क्योंकि वॉल्यूम्स लगातार बढ़ते हुए और अच्छी तेजी रही है। जी"
+      },
+      {
+       "start_s": 18,
+       "text": "यस। इसमें पार्टिसिपेट करने की फिर से सलाह होगी। पहले भी सलाह दी है। तो अभी वैसे यह भी वही छोटे शेयर ऊंची छलांग में"
+      },
+      {
+       "start_s": 25,
+       "text": "डिस्कस डिस्कस्ड स्टॉक है। तो अभी यहां से तुरंत जो 211 का भाव है अब नहीं फिलहाल एंट्री करना चाहिए। आज"
+      }
+     ],
+     "quote_en": "We will again recommend participating in this; it was already advised before."
+    },
+    {
+     "direction": "avoid",
+     "explicit": true,
+     "target_price": null,
+     "quote": "अभी नहीं खरीदने की सलाह है। यह बात यहां पर निकल के आई है।",
+     "start_s": 55,
+     "line": "में तब ₹180 का स्टॉप लॉस रखना और ₹235 का पहला टारगेट टारगेट आते समय या तो बुक कर लीजिए अदरवाइज ₹250 का सेकंड टारगेट का",
+     "evidence": [
+      {
+       "text": "अभी नहीं खरीदने की सलाह है",
+       "where": "transcript",
+       "start_s": 63
+      }
+     ],
+     "reason": "Speaker explicitly advises against buying IOLCP at this time.",
+     "timestamp_url": "https://www.youtube.com/watch?v=nwig2DHzBUs&t=55s",
+     "context": [
+      {
+       "start_s": 41,
+       "text": "एंट्री कर सकते हैं और जो कन्विक्शन आपको 211 पर आ रहा है मतलब जो दर्शक देख रहे हैं तो जो कन्विक्शन आपको 211 पर आ रहा है"
+      },
+      {
+       "start_s": 48,
+       "text": "वो 200 पर तो और ज्यादा आना चाहिए क्योंकि बिनेस आपको समझ में आए तो राइट अब यहां से स्टॉप लॉस जब आपकी एंट्री होगी 200 के पास"
+      },
+      {
+       "start_s": 55,
+       "text": "में तब ₹180 का स्टॉप लॉस रखना और ₹235 का पहला टारगेट टारगेट आते समय या तो बुक कर लीजिए अदरवाइज ₹250 का सेकंड टारगेट का"
+      },
+      {
+       "start_s": 63,
+       "text": "वेट कर सकते हैं तो 200 पर आ जाए तो भी 200 पर हम चलिए ठीक है अभी नहीं खरीदने की सलाह है। यह बात यहां पर निकल के आई है।"
+      }
+     ],
+     "quote_en": "The advice is not to buy right now. This point has come up here."
+    }
+   ]
+  },
+  {
+   "video_id": "Iq-g8nFWnvw",
+   "title": "IOL Chemicals Share Latest News 🔴 IOL Chemicals Share Today Update and Fundamental Analysis",
+   "url": "https://www.youtube.com/watch?v=Iq-g8nFWnvw",
+   "channel": "∆Market Momentum",
+   "channel_url": "https://www.youtube.com/@StockMomentumGuru",
+   "views": 1174,
+   "length": "0:53",
+   "published_text": "4w ago",
+   "published_date": "2026-09-10",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/Iq-g8nFWnvw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWccWfrv2-ka-J699_6Xii2NC2Q"
+  },
+  {
+   "video_id": "C2PPtg9SSLQ",
+   "title": "IOL Chemicals share latest news | IOL Chemicals and Pharmaceuticals Ltd latest news | IOL Chemica...",
+   "url": "https://www.youtube.com/watch?v=C2PPtg9SSLQ",
+   "channel": "Kamai Ka Adda",
+   "channel_url": "https://www.youtube.com/@kamaiKaAdda",
+   "views": 733,
+   "length": "5:55",
+   "published_text": "3w ago",
+   "published_date": "2026-09-17",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/C2PPtg9SSLQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqNL5vOJR4cWiKdNtXbZsnHPXykQ"
+  },
+  {
+   "video_id": "w8cqXIzk7xs",
+   "title": "IOL chemicals share 🔥✅ | IOL chemicals share latest news today | IOL chemicals share news | IOL",
+   "url": "https://www.youtube.com/watch?v=w8cqXIzk7xs",
+   "channel": "GR8 ChartStudies",
+   "channel_url": "https://www.youtube.com/@GR8chartStudy",
+   "views": 921,
+   "length": "1:14",
+   "published_text": "3w ago",
+   "published_date": "2026-09-17",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/w8cqXIzk7xs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB1dQdzDmVhj7y738nbG2iQ-UYiQ"
+  },
+  {
+   "video_id": "ty5L5UCSqAg",
+   "title": "IOL Chemicals Q1 FY27 Concall Update | Revenue ₹756 Cr 🚀 PAT ₹64.5 Cr | Non-Ibuprofen API Growth",
+   "url": "https://www.youtube.com/watch?v=ty5L5UCSqAg",
+   "channel": "Market Concall Decode",
+   "channel_url": "https://www.youtube.com/@MarketConcallDecode",
+   "views": 690,
+   "length": "20:06",
+   "published_text": "2w ago",
+   "published_date": "2026-09-24",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/ty5L5UCSqAg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoET_H424OQ8vyVAC68tFDoRCwVg"
+  },
+  {
+   "video_id": "XIl3ru9TbiE",
+   "title": "Stuck with IOL Chemicals shares at ₹205? 😱 ₹250 Target? |",
+   "url": "https://www.youtube.com/watch?v=XIl3ru9TbiE",
+   "channel": "Market Ka Review",
+   "channel_url": "https://www.youtube.com/@marketkareview",
+   "views": 516,
+   "length": "1:40",
+   "published_text": "5d ago",
+   "published_date": "2026-10-03",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/XIl3ru9TbiE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASiUhUcfXhvoBc59SbBZTYtMM5ig"
+  }
+ ],
+ "pump_check": {
+  "status": "ok",
+  "level": "none",
+  "fired": [],
+  "metrics": {
+   "baseline_avg_price": 139.14,
+   "baseline_daily_turnover_inr": 788630851,
+   "price_at_promotion": 164.66,
+   "peak_price": 220.22,
+   "peak_date": "2026-10-07",
+   "runup_x": 1.34,
+   "volume_spike_x": 2.7,
+   "trough_after_peak": null,
+   "trough_date": null,
+   "drawdown_from_peak_pct": null,
+   "data_spacing_days": 1
+  },
+  "promotion_date_used": "2026-08-09"
+ },
+ "series": {
+  "source": "google_finance",
+  "symbol": "IOLCP:NSE",
+  "window": "6M",
+  "points": [
+   {
+    "date": "2026-04-07",
+    "price": 78.6,
+    "volume": 2099309
+   },
+   {
+    "date": "2026-04-08",
+    "price": 80.54,
+    "volume": 1420654
+   },
+   {
+    "date": "2026-04-09",
+    "price": 80.84,
+    "volume": 1616732
+   },
+   {
+    "date": "2026-04-10",
+    "price": 82.12,
+    "volume": 933898
+   },
+   {
+    "date": "2026-04-13",
+    "price": 83.73,
+    "volume": 1399181
+   },
+   {
+    "date": "2026-04-15",
+    "price": 84.21,
+    "volume": 1145266
+   },
+   {
+    "date": "2026-04-16",
+    "price": 85.57,
+    "volume": 1150847
+   },
+   {
+    "date": "2026-04-17",
+    "price": 91.13,
+    "volume": 5301532
+   },
+   {
+    "date": "2026-04-20",
+    "price": 87.65,
+    "volume": 1332128
+   },
+   {
+    "date": "2026-04-21",
+    "price": 91.23,
+    "volume": 1841968
+   },
+   {
+    "date": "2026-04-22",
+    "price": 94.13,
+    "volume": 2982372
+   },
+   {
+    "date": "2026-04-23",
+    "price": 92.58,
+    "volume": 1527303
+   },
+   {
+    "date": "2026-04-24",
+    "price": 89.11,
+    "volume": 1465717
+   },
+   {
+    "date": "2026-04-27",
+    "price": 92.29,
+    "volume": 957897
+   },
+   {
+    "date": "2026-04-28",
+    "price": 90.85,
+    "volume": 761614
+   },
+   {
+    "date": "2026-04-29",
+    "price": 95.63,
+    "volume": 4806020
+   },
+   {
+    "date": "2026-04-30",
+    "price": 94.32,
+    "volume": 1380169
+   },
+   {
+    "date": "2026-05-04",
+    "price": 94.99,
+    "volume": 792669
+   },
+   {
+    "date": "2026-05-05",
+    "price": 94.63,
+    "volume": 572666
+   },
+   {
+    "date": "2026-05-06",
+    "price": 96.04,
+    "volume": 1437255
+   },
+   {
+    "date": "2026-05-07",
+    "price": 97.81,
+    "volume": 1966516
+   },
+   {
+    "date": "2026-05-08",
+    "price": 96.89,
+    "volume": 1035468
+   },
+   {
+    "date": "2026-05-11",
+    "price": 108.77,
+    "volume": 19926463
+   },
+   {
+    "date": "2026-05-12",
+    "price": 105.71,
+    "volume": 12548984
+   },
+   {
+    "date": "2026-05-13",
+    "price": 106.22,
+    "volume": 3099185
+   },
+   {
+    "date": "2026-05-14",
+    "price": 109.35,
+    "volume": 4022333
+   },
+   {
+    "date": "2026-05-15",
+    "price": 105.94,
+    "volume": 1619391
+   },
+   {
+    "date": "2026-05-18",
+    "price": 108.44,
+    "volume": 3002020
+   },
+   {
+    "date": "2026-05-19",
+    "price": 110.12,
+    "volume": 2401161
+   },
+   {
+    "date": "2026-05-20",
+    "price": 119.54,
+    "volume": 21090849
+   },
+   {
+    "date": "2026-05-21",
+    "price": 121.17,
+    "volume": 17647224
+   },
+   {
+    "date": "2026-05-22",
+    "price": 118.73,
+    "volume": 5829302
+   },
+   {
+    "date": "2026-05-25",
+    "price": 124.0,
+    "volume": 6401875
+   },
+   {
+    "date": "2026-05-26",
+    "price": 136.06,
+    "volume": 19147205
+   },
+   {
+    "date": "2026-05-27",
+    "price": 131.4,
+    "volume": 4551359
+   },
+   {
+    "date": "2026-05-29",
+    "price": 128.98,
+    "volume": 2824555
+   },
+   {
+    "date": "2026-06-01",
+    "price": 125.87,
+    "volume": 3904794
+   },
+   {
+    "date": "2026-06-02",
+    "price": 131.42,
+    "volume": 2702119
+   },
+   {
+    "date": "2026-06-03",
+    "price": 130.97,
+    "volume": 1772252
+   },
+   {
+    "date": "2026-06-04",
+    "price": 136.16,
+    "volume": 5107418
+   },
+   {
+    "date": "2026-06-05",
+    "price": 131.68,
+    "volume": 2101130
+   },
+   {
+    "date": "2026-06-08",
+    "price": 126.92,
+    "volume": 1894979
+   },
+   {
+    "date": "2026-06-09",
+    "price": 132.84,
+    "volume": 1335676
+   },
+   {
+    "date": "2026-06-10",
+    "price": 129.54,
+    "volume": 2078781
+   },
+   {
+    "date": "2026-06-11",
+    "price": 127.84,
+    "volume": 2336730
+   },
+   {
+    "date": "2026-06-12",
+    "price": 134.24,
+    "volume": 1686744
+   },
+   {
+    "date": "2026-06-15",
+    "price": 133.52,
+    "volume": 2930643
+   },
+   {
+    "date": "2026-06-16",
+    "price": 126.06,
+    "volume": 4067842
+   },
+   {
+    "date": "2026-06-17",
+    "price": 125.1,
+    "volume": 1544711
+   },
+   {
+    "date": "2026-06-18",
+    "price": 128.3,
+    "volume": 2087654
+   },
+   {
+    "date": "2026-06-19",
+    "price": 130.21,
+    "volume": 1066231
+   },
+   {
+    "date": "2026-06-22",
+    "price": 130.75,
+    "volume": 2336456
+   },
+   {
+    "date": "2026-06-23",
+    "price": 133.07,
+    "volume": 3157316
+   },
+   {
+    "date": "2026-06-24",
+    "price": 130.96,
+    "volume": 3260959
+   },
+   {
+    "date": "2026-06-25",
+    "price": 133.66,
+    "volume": 7485519
+   },
+   {
+    "date": "2026-06-29",
+    "price": 142.33,
+    "volume": 10368899
+   },
+   {
+    "date": "2026-06-30",
+    "price": 145.29,
+    "volume": 8739864
+   },
+   {
+    "date": "2026-07-01",
+    "price": 147.21,
+    "volume": 4020139
+   },
+   {
+    "date": "2026-07-02",
+    "price": 150.31,
+    "volume": 4077000
+   },
+   {
+    "date": "2026-07-03",
+    "price": 142.96,
+    "volume": 4340051
+   },
+   {
+    "date": "2026-07-06",
+    "price": 144.46,
+    "volume": 2557694
+   },
+   {
+    "date": "2026-07-07",
+    "price": 165.04,
+    "volume": 41176929
+   },
+   {
+    "date": "2026-07-08",
+    "price": 167.11,
+    "volume": 33183238
+   },
+   {
+    "date": "2026-07-09",
+    "price": 168.15,
+    "volume": 8148178
+   },
+   {
+    "date": "2026-07-10",
+    "price": 171.06,
+    "volume": 4120062
+   },
+   {
+    "date": "2026-07-13",
+    "price": 169.09,
+    "volume": 3126211
+   },
+   {
+    "date": "2026-07-14",
+    "price": 173.78,
+    "volume": 9033619
+   },
+   {
+    "date": "2026-07-15",
+    "price": 165.7,
+    "volume": 6220468
+   },
+   {
+    "date": "2026-07-16",
+    "price": 164.07,
+    "volume": 2140569
+   },
+   {
+    "date": "2026-07-17",
+    "price": 148.33,
+    "volume": 6288324
+   },
+   {
+    "date": "2026-07-20",
+    "price": 155.43,
+    "volume": 6212291
+   },
+   {
+    "date": "2026-07-21",
+    "price": 151.0,
+    "volume": 2227346
+   },
+   {
+    "date": "2026-07-22",
+    "price": 148.23,
+    "volume": 1637499
+   },
+   {
+    "date": "2026-07-23",
+    "price": 146.99,
+    "volume": 1761717
+   },
+   {
+    "date": "2026-07-24",
+    "price": 149.22,
+    "volume": 1441046
+   },
+   {
+    "date": "2026-07-27",
+    "price": 151.46,
+    "volume": 1217772
+   },
+   {
+    "date": "2026-07-28",
+    "price": 147.15,
+    "volume": 992986
+   },
+   {
+    "date": "2026-07-29",
+    "price": 147.35,
+    "volume": 970921
+   },
+   {
+    "date": "2026-07-30",
+    "price": 144.65,
+    "volume": 910867
+   },
+   {
+    "date": "2026-07-31",
+    "price": 146.33,
+    "volume": 921938
+   },
+   {
+    "date": "2026-08-03",
+    "price": 151.7,
+    "volume": 1909350
+   },
+   {
+    "date": "2026-08-04",
+    "price": 153.74,
+    "volume": 1607367
+   },
+   {
+    "date": "2026-08-05",
+    "price": 163.41,
+    "volume": 3839940
+   },
+   {
+    "date": "2026-08-06",
+    "price": 163.18,
+    "volume": 2373584
+   },
+   {
+    "date": "2026-08-07",
+    "price": 167.85,
+    "volume": 4529409
+   },
+   {
+    "date": "2026-08-10",
+    "price": 164.66,
+    "volume": 15141043
+   },
+   {
+    "date": "2026-08-11",
+    "price": 164.14,
+    "volume": 4425221
+   },
+   {
+    "date": "2026-08-12",
+    "price": 158.42,
+    "volume": 2000252
+   },
+   {
+    "date": "2026-08-13",
+    "price": 166.02,
+    "volume": 3198375
+   },
+   {
+    "date": "2026-08-14",
+    "price": 165.58,
+    "volume": 2595681
+   },
+   {
+    "date": "2026-08-17",
+    "price": 161.28,
+    "volume": 1847551
+   },
+   {
+    "date": "2026-08-18",
+    "price": 159.19,
+    "volume": 1213444
+   },
+   {
+    "date": "2026-08-19",
+    "price": 156.92,
+    "volume": 1216026
+   },
+   {
+    "date": "2026-08-20",
+    "price": 163.75,
+    "volume": 2054870
+   },
+   {
+    "date": "2026-08-21",
+    "price": 169.52,
+    "volume": 7324108
+   },
+   {
+    "date": "2026-08-24",
+    "price": 169.08,
+    "volume": 3483412
+   },
+   {
+    "date": "2026-08-25",
+    "price": 172.37,
+    "volume": 4808790
+   },
+   {
+    "date": "2026-08-26",
+    "price": 186.01,
+    "volume": 14979792
+   },
+   {
+    "date": "2026-08-27",
+    "price": 193.07,
+    "volume": 10366009
+   },
+   {
+    "date": "2026-08-28",
+    "price": 194.95,
+    "volume": 4410316
+   },
+   {
+    "date": "2026-08-31",
+    "price": 193.69,
+    "volume": 2853525
+   },
+   {
+    "date": "2026-09-01",
+    "price": 190.48,
+    "volume": 3579084
+   },
+   {
+    "date": "2026-09-02",
+    "price": 188.38,
+    "volume": 2248618
+   },
+   {
+    "date": "2026-09-03",
+    "price": 196.43,
+    "volume": 8448743
+   },
+   {
+    "date": "2026-09-04",
+    "price": 199.95,
+    "volume": 5291531
+   },
+   {
+    "date": "2026-09-07",
+    "price": 213.04,
+    "volume": 10023570
+   },
+   {
+    "date": "2026-09-08",
+    "price": 210.98,
+    "volume": 4116432
+   },
+   {
+    "date": "2026-09-09",
+    "price": 209.29,
+    "volume": 4527415
+   },
+   {
+    "date": "2026-09-10",
+    "price": 211.43,
+    "volume": 3234389
+   },
+   {
+    "date": "2026-09-11",
+    "price": 194.31,
+    "volume": 5129124
+   },
+   {
+    "date": "2026-09-15",
+    "price": 179.52,
+    "volume": 5315214
+   },
+   {
+    "date": "2026-09-16",
+    "price": 194.57,
+    "volume": 8624277
+   },
+   {
+    "date": "2026-09-17",
+    "price": 197.49,
+    "volume": 3478408
+   },
+   {
+    "date": "2026-09-18",
+    "price": 203.15,
+    "volume": 4695376
+   },
+   {
+    "date": "2026-09-21",
+    "price": 202.91,
+    "volume": 2431309
+   },
+   {
+    "date": "2026-09-22",
+    "price": 200.39,
+    "volume": 2518148
+   },
+   {
+    "date": "2026-09-23",
+    "price": 206.6,
+    "volume": 3474298
+   },
+   {
+    "date": "2026-09-24",
+    "price": 203.22,
+    "volume": 3583698
+   },
+   {
+    "date": "2026-09-25",
+    "price": 204.19,
+    "volume": 2455948
+   },
+   {
+    "date": "2026-09-28",
+    "price": 196.29,
+    "volume": 1563045
+   },
+   {
+    "date": "2026-09-29",
+    "price": 201.48,
+    "volume": 1550901
+   },
+   {
+    "date": "2026-09-30",
+    "price": 207.08,
+    "volume": 3390524
+   },
+   {
+    "date": "2026-10-01",
+    "price": 209.39,
+    "volume": 4041973
+   },
+   {
+    "date": "2026-10-05",
+    "price": 205.71,
+    "volume": 2946260
+   },
+   {
+    "date": "2026-10-06",
+    "price": 214.9,
+    "volume": 3889322
+   },
+   {
+    "date": "2026-10-07",
+    "price": 220.22,
+    "volume": 6360071
+   },
+   {
+    "date": "2026-10-07",
+    "price": 219.35,
+    "volume": null
+   }
+  ]
+ },
+ "generated_at": "2026-10-08T16:07:19"
+}

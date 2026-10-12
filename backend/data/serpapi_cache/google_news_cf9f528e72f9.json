@@ -1,0 +1,1489 @@
+{
+ "search_metadata": {
+  "id": "6ac94536a2897129b33cde2c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/A19n0K0XF07bI8QMxOhl9eKUtjWAEu5-JbaT_T0d58E/6ac94536a2897129b33cde2c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/A19n0K0XF07bI8QMxOhl9eKUtjWAEu5-JbaT_T0d58E/6ac94536a2897129b33cde2c.md",
+  "created_at": "2026-10-09 19:49:10 UTC",
+  "processed_at": "2026-10-09 19:49:10 UTC",
+  "google_news_url": "https://news.google.com/search?q=IndusInd+Bank+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/A19n0K0XF07bI8QMxOhl9eKUtjWAEu5-JbaT_T0d58E/6ac94536a2897129b33cde2c.html",
+  "total_time_taken": 0.92
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "IndusInd Bank share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "KMB, Axis Bank, IndusInd Bank shares gain up to 4%, IDFC First Bank falls 3%; here's why",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/kmb-axis-bank-indusind-bank-shares-gain-up-to-4-idfc-first-bank-falls-3-heres-why-559723-2026-10-06",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac477cab74c1-idfc-first-bank-reported-299-per-cent-yoy-and-137-per-cent-qoq-growth-in-loans-and-advances-to-rs-062337790-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhiVTVSWkVSa1JESkZXR3RGVFJDZkF4ampCU2dLTWdZcEZJNlBsUVk",
+   "date": "10/06/2026, 04:24 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:24:21Z"
+  },
+  {
+   "position": 2,
+   "title": "IndusInd Bank Share Price Fall Streak and Valuation Check",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-indusind-bank-share-consecutive-price-fall-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/08/2026, 10:12 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:12:00Z"
+  },
+  {
+   "position": 3,
+   "title": "IndusInd Bank Q1FY27 profit jumps 72% on lower provisions",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-to-discuss-q1fy27-results-on-july-22/45732012",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-to-discuss-q1fy27-results-on-july-22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1XbWt6WkdkdU5sWk5kVmN6VFJDaUF4amRCU2dLTWdrSlFZWkdJcWRVOHdB",
+   "date": "10/05/2026, 10:52 PM, +0000 UTC",
+   "iso_date": "2026-10-05T22:52:27Z"
+  },
+  {
+   "position": 4,
+   "title": "Kotak, Axis, IndusInd Bank shares: Q2 business updates trigger sharp moves- How stocks reacted; key data details to know",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:55558c4bf483b:0-kotak-axis-indusind-bank-shares-q2-business-updates-trigger-sharp-moves-how-stocks-reacted-key-data-details-to-know/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/06/2026, 07:51 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:51:58Z"
+  },
+  {
+   "position": 5,
+   "title": "What You Could Reuse From IndusInd Bank's 20% Year",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/banks/nse-indusindbk/indusind-bank-shares/news/what-you-could-reuse-from-indusind-banks-20-year",
+   "thumbnail": "https://images.simplywall.st/asset/industry/7012000-choice1-card/1788952598193?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJaM000VTFGRFJUaHdNV1JYVFJDZkF4ampCU2dLTWdZcHRKQ3VPUVk",
+   "date": "10/06/2026, 04:54 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:54:22Z"
+  },
+  {
+   "position": 6,
+   "title": "Kotak, Axis, IndusInd Bank shares: Q2 business updates trigger sharp moves- How stocks reacted; key data details to know",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/kotak-axis-indusind-bank-shares-q2-business-updates-trigger-sharp-moves-how-stocks-reacted-key-data-details-to-know-11791259744667.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Bank_Stocks_Gain_Today_1791261591556_F1iM_1791261601914_tPdL_2bd3cd1c-c116-4240-9be1-9bf2932c2b6b_PtGc.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRNbEZxVERodmRHZFFiVlJ1VFJDZkF4amlCU2dLTWdZQlJaREVJUVk",
+   "date": "10/06/2026, 04:40 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:40:31Z"
+  },
+  {
+   "position": 7,
+   "title": "KMB, Axis Bank, IndusInd Bank shares gain up to 4%, IDFC First Bank falls 3%; here's why - BusinessToday",
+   "source": {
+    "name": "IndiaIPO",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiaipo.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiaipo.in/news/detail/kmb-axis-bank-indusind-bank-shares-gain-up-to-4-idfc-first-bank-falls-3-heres-why-businesstoday",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac477cab74c1-idfc-first-bank-reported-299-per-cent-yoy-and-137-per-cent-qoq-growth-in-loans-and-advances-to-rs-062337790-16x9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVRa2RQUXpWdk1rcFhhalJTVFJDZkF4ampCU2dLTWdZbEZJNlBsUVk",
+   "date": "10/06/2026, 06:48 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:48:05Z"
+  },
+  {
+   "position": 8,
+   "title": "Kotak, IndusInd, Axis Bank shares jump on strong Q2 business updates",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Subrata Panda"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/stock-market-news/kotak-indusind-axis-bank-shares-jump-on-strong-q2-business-updates-126100601269_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/28/full/1753680060-4983.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZOSEpQT1Roc1VXWXdTekppVFJERUF4aW1CU2dLTWdhVkFwQ3NPUVk",
+   "date": "10/06/2026, 03:53 PM, +0000 UTC",
+   "iso_date": "2026-10-06T15:53:59Z"
+  },
+  {
+   "position": 9,
+   "title": "Price Action: Kotak Bank, IndusInd Bank rise on better monthly data; Trent surges 11% as Q2 revenue up 23%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/price-action-kotak-bank-indusind-bank-rise-on-better-monthly-data-trent-surges-11-as-q2-revenue-up-23-14045243.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804023011_Sensex_nifty_market_flat.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRjR3RhWlZGdlZFeFJiV3d0VFJDZkF4ampCU2dLTWdrbFFJZ1l3S1JFOUFB",
+   "date": "10/06/2026, 04:15 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:15:19Z"
+  },
+  {
+   "position": 10,
+   "title": "IndusInd Bank stock prepares for a 71.68 percent profit rebound",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/indusind-bank-stock-prepares-for-a-71-68-percent-profit-rebound/70234725",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404986_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkVGRGUmxVd1ZTMVdkVVIwVFJDZkF4ampCU2dLTWdhSllwUUtKUWc",
+   "date": "10/05/2026, 04:08 PM, +0000 UTC",
+   "iso_date": "2026-10-05T16:08:53Z"
+  },
+  {
+   "position": 11,
+   "title": "IndusInd Bank Q2 Update: Net advances rise 11% to ₹3.62 lakh crore, deposits up 10%",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/indusind-bank-share-price-q2-update-net-advances-rise-11-to-rs-3-62-lakh-crore-deposits-up-10-20004997.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/indusind-bank-2026-07-390e246f0f20622db85233d4a37cf2e5.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURTbk5ZVjBkMmQybERSRGxGVFJDZkF4ampCU2dLTWdtQmtveE5QU2JCN0FF",
+   "date": "10/05/2026, 04:13 PM, +0000 UTC",
+   "iso_date": "2026-10-05T16:13:07Z"
+  },
+  {
+   "position": 12,
+   "title": "Kotak, Axis, IndusInd Bank Shares: Q2 Update Triggers Sharp Moves",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/kotak-axis-indusind-bank-shares-q2-update-sharp-moves",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/kotak-axis-and-indusind-bank-shares-move-after-the-q2-update-advances-deposits.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVMlZmYlhkd1ptZzBSMDlaVFJDUUF4ai1CU2dLTWdhQk1ZaWpuZ2s",
+   "date": "10/06/2026, 05:13 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:13:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Vaishali Parelh's best stocks to buy: IndiGo, IndusInd Bank, GPIL | Target price, stoploss, Nifty, Bank Nifty prediction",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/vaishali-parelhs-best-stocks-to-buy-indigo-indusind-bank-gpil-target-price-stoploss-nifty-bank-nifty-prediction-11791304696619.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/06/1600x900/logo/Stocks_to_buy_Vaishali_Parekh_stock_recommendation_1791305184207_Vv2t_1791305184327_eRuo_660cbbbe-0cf0-4fda-a55f-602976ab811c_VyOS.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFWbUZzUkdOSk5FdFFlSHB1VFJDZkF4ampCU2dLTWdhSlVJamtJZ2s",
+   "date": "10/06/2026, 05:04 PM, +0000 UTC",
+   "iso_date": "2026-10-06T17:04:13Z"
+  },
+  {
+   "position": 14,
+   "title": "IndusInd Bank stock crashes 5% as brokerages stay cautious over weak NIM, fee income despite Q1 beat",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-stock-crashes-5-as-brokerages-stay-cautious-over-weak-nim-fee-income-despite-q1-beat-13981386.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260424111604_indusind1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZRMXAwWkdkU1VXNWtObXd6VFJDZkF4ampCU2dLTWdtRmdvcE54V1hCN0FF",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "IndusInd Bank shares fall 5% despite 72% YoY Q1 profit surge. Why analysts remain bullish?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-fall-5-despite-72-yoy-q1-profit-surge-why-analysts-remain-bullish/articleshow/132571613.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132571605,width-1200,height-900,resizemode-4,imgsize-24838/indusind-bank-shares-fall-5-despite-72-yoy-q1-profit-surge-why-analysts-remain-bullish.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhWMU5JYTFWNVdVOTVVRzlVVFJEZ0F4aUFCU2dLTWdtSm9aQ0lOU2M5Y1FF",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "IndusInd Bank Ltd. Stock 12‑Month Price Target Cut to INR 883, Implies 5% Downside",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/tradingview:5ad1101f4e84a:0-indusind-bank-ltd-stock-12-month-price-target-cut-to-inr-883-implies-5-downside/",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Bank Stocks In Red: AU Small Finance Bank, IndusInd Bank, IDFC First Fall Up To 5% — Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/au-small-finance-bank-indusind-bank-hdfc-bank-axis-bank-idfc-first-bank-bank-stocks-irdai-proposal-sensex-today-12090133",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/i42ea0lk_bank-stocks-in-red_625x300_24_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVWVU51Y2tKcFRWWmxSMjFuVFJDZkF4ampCU2dLTWdrQkFJckV2R1V0TlFF",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Indian Bank Stocks Show Widest Exchange Price Gap in Decades",
+   "source": {
+    "name": "Bloomberg.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Alex Gabriel Simon"
+    ]
+   },
+   "link": "https://www.bloomberg.com/news/articles/2026-08-29/indian-bank-stocks-show-widest-exchange-price-gap-in-decades",
+   "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9dB3ZZrofwo/v0/-1x-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFNVzR4VVVZMVNERnNWRWhEVFJERUF4aW1CU2dLTWdrQmdJSWtzeWNtVWdF",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "IndusInd Bank shares off day's low; Jefferies sees 37% upside",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-off-days-low-jefferies-sees-37-upside-558498-2026-09-29",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6abb6c5bc37cf-indusind-bank-fell-to-a-low-of-rs889-apiece-on-bse--before-recovering-to-rs-90025--still-down084-294426387-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZXak0xT0doYVNtOVBWV1ozVFJDZkF4ampCU2dLTWdNVkpRSQ",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Bank Q4 Result Mixed Bag: IndusInd, IDFC First Rally 4%, Axis Bank Falls 4%: What Investors Must Know",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.goodreturns.in/news/bank-q4-result-mix-bag-indusind-idfc-first-rally-4-axis-bank-falls-4-what-investors-must-know-1504653.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/04/axisbank61-1777266085.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkV2xLUWpONWRWTm5VemhTVFJEU0FoallCQ2dLTWdZcFJJeXRIUWM",
+   "date": "09/27/2026, 12:33 PM, +0000 UTC",
+   "iso_date": "2026-09-27T12:33:23Z"
+  },
+  {
+   "position": 21,
+   "title": "IndusInd Bank stock slips as market weighs banking risks",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/indusind-bank-stock-slips-as-market-weighs-banking-risks/70160723",
+   "date": "09/23/2026, 12:07 AM, +0000 UTC",
+   "iso_date": "2026-09-23T00:07:21Z"
+  },
+  {
+   "position": 22,
+   "title": "IndusInd Bank falls 6% post Q1; analysts stay bullish, see up to 13% upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/indusind-bank-share-price-falls-6-post-q1-analysts-stay-bullish-see-up-to-13-upside-126072300326_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-04/27/full/1745774893-8047.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZabFpJUkVGVE5tTnJaazVDVFJEZUJCajZBeWdLTWdhSmtJQUhNUWc",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "IndusInd Bank Stock Signals to Watch This Week",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/indusind-bank-stock-signals-investors-are-watching",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/indusind-bank-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhPVEZaZGt4QmFuQjVabXhhVFJDUUF4ai1CU2dLTWdrQlFJekRudWtkelFF",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "IndusInd Bank Launches Dedicated Banking Vertical for GCCs; Shares Fall 1.17%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/indusind-bank-launches-dedicated-gcc-banking-vertical",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/image-2026-09-28T131735.384.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVPRzlEYWpScGNIRmxNWFJCVFJDZkF4amlCU2dLTWdZQlpvd2tLZ1U",
+   "date": "09/28/2026, 07:48 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:48:07Z"
+  },
+  {
+   "position": 25,
+   "title": "IndusInd Bank Share Price Hits 52-Week High on Loan Book Growth",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/indusind-bank-share-price-52-week-high-loan-growth",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/IndusInd-Bank-Share-Price-Hits-Fresh-52-Week-High-as-Loan-Book-Grows-for-First-Time-Since-Accounting-Lapse.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUR0pPVFhWclJGVnVNbGd0VFJDZUF4amxCU2dLTWdZZEFJRHBZQUU",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "India's IndusInd Bank slips on report of whistleblower complaint",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bharath Rajeswaran"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/indias-indusind-bank-slips-report-whistleblower-complaint-2026-06-03/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/HX6AJEF5EROCVPKYI57YKBYZMI.jpg?auth=2617ea3f7f768fd014f151ba8d4bad811d8ebe1f232e6f7423313f914c66a6af&width=480&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNkbUkxUTNWcVRGSTVZa0kwVFJDX0FSaUlBaWdCTWdrRllZd3ZMZWVLYndF",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "IndusInd Bank looks to deepen SME/mid-market play",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sindhu Hariharan"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/news/indusind-bank-looks-to-deepen-smemid-market-play/article71341071.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/news/wxlus9/article71341080.ece/alternates/LANDSCAPE_1200/Mr.%20Ganesh%20Sankaran%20-%20IndusInd%20Bank.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNlRkpPUzNOTllWVnRSV1ZTVFJDZkF4ampCU2dLTWdhdFJZN09KUWc",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Stocks to watch, Aug 10: Signature Global, IndusInd Bank, pharma, railway, power counters",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Badri Narayanan"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/20-stocks-in-focus-today-signature-global-indusind-bank-pharma-railway-and-power-counters/article71324466.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/2bsi49/article69903921.ece/alternates/LANDSCAPE_1200/buzzing%20stocks-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpkM2h0UjNCbE1XRTJaMjlEVFJDZkF4ampCU2dLTWdhQmM0SndMUWM",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "IndusInd Bank Ltd. Stock 12‑Month Price Target Raised to INR 892.82, Implies 16% Downside",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/tradingview:00577fb63aa8b:0-indusind-bank-ltd-stock-12-month-price-target-raised-to-inr-892-82-implies-16-downside/",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "IndusInd Bank Share Price Drops 6% Despite 47% Surge in Q1 Profit",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Maumita Mitra"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/indusind-bank-share-price-drops-6-despite-47-surge-in-q1-profit-11809702",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/ll6e0l1o_indusind-bank-shares-slip_625x300_23_July_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhRbVpJUzIxNlNEWndiVlZaVFJDZkF4ampCU2dLTWdZQk5vZ0VSZ1E",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "IndusInd Bank shares jump 6%. Why Jefferies & other brokers raised their target prices",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-jump-6-why-jefferies-other-brokers-raised-their-target-prices/articleshow/130543898.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130543880,width-1200,height-900,resizemode-4,imgsize-30154/indusind-bank-shares-jump-6-why-jefferies-other-brokers-raised-their-target-prices.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBWblZ6WmpSSmJVaEZNalpVVFJEZ0F4aUFCU2dLTWdZRlVKNm1vQWs",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "IndusInd Bank confirms investor meet details with UTI, Motilal Oswal",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-host-investor-meet-ashwamedh-dialogue-mumbai/49384106",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-host-investor-meet-ashwamedh-dialogue-mumbai.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBXVlpPZFZocVlubHdZa2hqVFJDZkF4ampCU2dLTWdtQklZQnJ5YUZ6elFF",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "IndusInd Bank extends up move, gains 3%; stock at 52-week high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/indusind-bank-extends-up-move-gains-3-stock-at-52-week-high-126070600599_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/10/full/1741618794-6085.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWR3RoZUdKSFRIRk9hV1p5VFJDcUJCaXFCQ2dLTWdZQmtKTE5PQWM",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "IndusInd Bank gets RBI nod for stock broking arm",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/indusind-bank-gets-rbi-nod-for-stock-broking-arm/article71318562.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/news/kx3qq2/article71318732.ece/alternates/LANDSCAPE_1200/INDUSIND_BANK-3_new.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJOVWxaWWtSMlV5MVpiR3R3VFJDZkF4ampCU2dLTWdhZEFvSlBSUVE",
+   "date": "08/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-08T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "IndusInd Bank share price falls over 4% after Q1 results. Opportunity to buy?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/indusind-bank-share-price-falls-over-4-after-q1-results-opportunity-to-buy-11784778903772.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/INDUSIND-BANK-MANAGEMENT-STOCKS-0_1746019330354_1784779767841_ad128c86-a10b-4062-88e0-532f16db4979.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdNbXhWVW5OME5GRm1la2x4VFJDZkF4ampCU2dLTWdZQk00cHdTUVE",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "IndusInd Bank shares tumble over 6 pc after Q1 results",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/news/financial-services/indusind-bank-shares-tumble-over-6-pc-after-q1-results/132574717",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132574717,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHlkM0JZYVUweVIzRldUSEJXVFJDZkF4ampCU2dLTWdrQklvcEZOcWVTY3dF",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "IndusInd Bank shares fall over 6% despite 72% jump in Q1 profit, brokerages divided",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/indusind-bank-shares-fall-over-6-despite-72-jump-in-q1-profit-brokerages-divided/article71256855.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/t43ks3/article71256899.ece/alternates/LANDSCAPE_1200/2026-03-05T065559Z_1441731709_RC2D4AA7O29V_RTRMADP_3_INDIA-INDUSIND-BANK-TREASURY-HEAD.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ZM2xJZERWUmRXSXlhRTFRVFJDZkF4ampCU2dLTWdZSnc0b0cwZ1E",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "IndusInd Bank falls 3% on insider trading, governance lapses allegations",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/indusind-bank-share-price-falls-3-on-insider-trading-governance-lapses-allegations-126060300254_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/10/full/1741626354-1347.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBjSGxVVEVSbWVXcGZWVkYwVFJDNkF4aTFCU2dLTWdhQkk0eElsUW8",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Bank, Financial shares shine; Shriram Fin, IndusInd, Union Bk jump up to 3%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/bank-financial-shares-shine-shriram-fin-indusind-union-bk-jump-up-to-3-126071500446_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-03/11/full/1741710576-2841.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NWFZLV2tGa09XUXhURmhGVFJERUF4aW1CU2dLTWdZSnM0eEhUUVU",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "IndusInd Bank Integrates EPFO Payments; Shares Trade Lower",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/indusind-bank-integrates-epfo-payments-shares-slip-0-29-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/image-2026-07-13T163954.722.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFOakZuTTI1S2FERnpNUzB6VFJDZkF4amlCU2dLTWdrQmNKQmpycVVsN0FF",
+   "date": "07/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-13T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "IndusInd Bank Ltd soars 2.38%, rises for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-ltd-soars-2-38-rises-for-fifth-straight-session-126070600439_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Earnings call transcript: IndusInd Bank posts Q1 FY2027 profit rebound",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-indusind-bank-posts-q1-fy2027-profit-rebound-93CH-4805927",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Citi Keeps Sell on IndusInd Bank at ₹800 Despite Strong Q1 Deposit Growth",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-deposits-rise-4-5-to-4-14-992-crore-in-q1fy27/44632650",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-deposits-rise-4-5-to-4-14-992-crore-in-q1fy27.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZjMEpUYTB4U1JtbEZhazVZVFJDaUF4amRCU2dLTWdrQkVJcXhLT1ZNeHdJ",
+   "date": "07/03/2026, 02:12 PM, +0000 UTC",
+   "iso_date": "2026-07-03T14:12:36Z"
+  },
+  {
+   "position": 44,
+   "title": "Explained - Why Jefferies has the highest target but CLSA downgraded IndusInd Bank after Q1 results",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/indusind-bank-share-price-clsa-downgrades-after-q1-jefferies-bullish-target-buy-sell-upside-19951966.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/chatgpt-image-jul-23-2026-09-09-21-am-1-2026-07-6a21d2377d7aaecc3023b0b2d78dc51e.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiMTh0VlRSdldXSXlVbGx2VFJDZkF4ampCU2dLTWdZQklaSUNId2M",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "IndusInd Bank Q1 Profit Jumps 72 PC; Aims for Stronger Profits As Clean-Up Concludes",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/indusind-bank-q1-profit-jumps-72percent-to-rs1037-crore",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/frame_1659.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVRemRKTTJSU2NEQmtXRUZVVFJDZkF4ampCU2dLTWdZQlVJekRLZ2M",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "IndusInd Bank Leads Rare NSE-BSE Price Gaps After Closing Auction; Check List Of Other Banks",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/indusind-bank-leads-rare-nse-bse-price-gaps-after-closing-auction-check-list-of-other-banks-11973486",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/3oll8nks_the-bombay-stock-exchange-bse-building-back-in-mumbaiphotographer-dhiraj-singhbloomberg_625x300_29_August_26.jpg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRMWh4WWtoaFZXdERjblE1VFJDZkF4ampCU2dLTWdZQmNJQWpMd2c",
+   "date": "08/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-29T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "IndusInd Bank Plans Meeting With Analysts And Investors On September 2",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/indusind-bank-plans-meeting-with-analysts-and-investors-on-september-2-2211-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/2211_PE_1_CORPORATE_27_08_2026_16x9_3e24083f71.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpaWHBxUm1ZNU5VeGZRMFJqVFJDb0FSaXRBaWdCTWdhUlVvd0hKUWM",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "IndusInd Bank falls over 6% as investors look past 72% Q1 profit jump, fret over weak core growth",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/markets/indusind-bank-falls-over-6-as-investors-look-past-72-q1-profit-jump-fret-over-weak-core-growth/149793",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2024-05/f8757cfe-925d-4c51-ac5d-fb21dca43108/INDUSIND_BRANCH_IMAGE__1_.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRSVE0xU2t4bmNuVTViMHh0VFJDZkF4ampCU2dLTWdZSkFLYW5EQXc",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "IndusInd Bank gets RBI approval to set up wholly owned stock broking subsidiary",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/articles/indusind-bank-gets-rbi-approval-to-set-up-wholly-owned-stock-broking-subsidiary/133048256",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-133048256,imgsize-17292,width-1200,height=627,overlay-etbfsi,resizemode-75/articles/indusind-bank-gets-rbi-approval-to-set-up-wholly-owned-stock-broking-subsidiary.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTbHAyYkRkUGJFSnVjVXd6VFJDUUF4ai1CU2dLTWdZbGxKU050UVk",
+   "date": "08/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-08T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "A roadmap beyond 1% RoA is key to IndusInd Bank’s turnaround",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsha Jethmalani",
+     "Ananya Roy"
+    ]
+   },
+   "link": "https://www.livemint.com/market/mark-to-market/a-roadmap-beyond-1-roa-can-salvage-indusind-bank-11787891041860.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/28/1600x900/logo/INDUSIND-BANK-PROBE--0_1787934183785_1787934201542_1d1e2ca5-297c-49e1-9e38-3b96bc1fba67.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVBhMVJLYnkxV1dVSTVWVkZoVFJDZkF4ampCU2dLTWdtRmNvd3JQU2E1Q2dJ",
+   "date": "08/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-30T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "IndusInd Bank Q1 profit jumps 72% to ₹1,037 crore, expects stronger FY27 growth",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/money-and-banking/indusind-bank-posts-72-rise-in-q1-profit-as-asset-quality-improves/article71254785.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/2b2knb/article71254811.ece/alternates/LANDSCAPE_1200/2026-06-03T042216Z_1179866109_RC26KDA2OOG4_RTRMADP_3_INDUSIND-BANK-PROBE.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtVV1ZJWDJWUldrUnBSVnAzVFJDZkF4ampCU2dLTWdtRmdvcE53V1hCRFFJ",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Stocks in news: IndusInd Bank, Adani Green, Eternal, Maruti Suzuki, Bandhan Bank",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-indusind-bank-adani-green-eternal-maruti-suzuki-bandhan-bank/articleshow/132542329.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132542385,width-1200,height-900,resizemode-4,imgsize-605584/stocks-in-news.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaM1k1YlZCemNXWlRVSE50VFJEZ0F4aUFCU2dLTWdhQlVveFBvUWM",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "IndusInd Bank Ltd Share Price Today NSE/BSE Charts",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/investment/stocks/indusind-bank-ltd",
+   "date": "08/25/2026, 08:54 PM, +0000 UTC",
+   "iso_date": "2026-08-25T20:54:54Z"
+  },
+  {
+   "position": 54,
+   "title": "IndusInd Bank Share Price Target: Citi Sell Despite New High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/indusind-bank-share-price-target-citi-sell-800",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/IndusInd-Bank-Share-Price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZOM0pRUTA1MFpVNDJOWGhSVFJDZUF4amxCU2dLTWdZSkFJRE80QUE",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "IndusInd Bank shares fall 3% after fresh whistleblower complaint reaches PMO, RBI",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-shares-drop-3-after-pmo-rbi-receive-fresh-whistleblower-complaint-on-insider-trading/articleshow/131477112.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131477116,width-1200,height-900,resizemode-4,imgsize-135968/indusind-bank-shares-drop-3-after-pmo-rbi-receive-fresh-whistleblower-complaint-on-insider-trading.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJjV295VjJzMFEyMDVSbWRKVFJEZ0F4aUFCU2dLTWdhUmdZNE1yUWM",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "YES Bank, BOB, PNB, IndusInd Bank, HDFC Bank shares: Key beneficiaries of MDR charges",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/yes-bank-bob-pnb-indusind-bank-hdfc-bank-shares-key-beneficiaries-of-mdr-charges-555821-2026-09-16",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aabf590644b2-pnb-led-the-bse-bankex-gainers--rising-43-per-cent-to-rs-2410-axis-bank-was-up-204-per-cent--fol-171335274-16x9.png?size=948:533",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlSSEZZU1RoRWRWUm9Ra1UxVFJDZkF4ampCU2dLTWdhVlVvN3pIQWs",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "IndusInd Bank share price falls over 3% after report of whistleblower complaint to RBI, PMO",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/indusind-bank-share-price-falls-over-3-after-report-of-whistleblower-complaint-to-rbi-pmo-11780464954862.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/03/1600x900/logo/INDUSIND-BANK-MANAGEMENT-STOCKS-0_1746019330354_1780465191036_81987d21-1130-4194-9076-f019521dcdbc.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtZbWt6YmxGS1pqRkJkMVprVFJDZkF4ampCU2dLTWdZQk00cHdTUVE",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Indusind Bank Says RBI Approves Co To Set Up Stock Broking Subsidiary",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4441SM:0-indusind-bank-says-rbi-approves-co-to-set-up-stock-broking-subsidiary/",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "IndusInd Bank Shares Fall 3% After Whistleblower Complaint Flags Insider Trading, Governance Concerns",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/invest/indusind-bank-share-price-fall-nearly-3-percent-after-whistleblower-complaint-flags-insider-trading-governance-issues",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-06-03/evxohijy/indusind-bank-share-price.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9abnB0YTBOTlF5MHdZMHRMVFJDZkF4ampCU2dLTWdrQkFJcVZJT1d3WmdJ",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "IndusInd Bank insider trading probe: SEBI conducts Kolkata searches; ex-official under scanner",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-insider-trading-case-sebi-conducts-searches-in-kolkata-ex-official-under-the-radar-for-trading-in-client-cos-13940105.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251031065616_SEBI2.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdkazFwZUMxQ1dXaGxNVkZuVFJDZkF4ampCU2dLTWdZTlk0NkpQUVk",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "YES Bank, IndusInd, IDFC First shares: What Citi, Jefferies say on IRDAI consultation paper; targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/yes-bank-indusind-idfc-first-shares-what-citi-jefferies-say-on-irdai-consultation-paper-targets-557471-2026-09-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab4b4e24cd0c-indusind-bank-fell-52-per-cent-to-hit-a-low-of-rs-910-on-bse-idfc-first-bank-slipped-406-per-cent-2428015-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdlVzFXVVVwVFoxY3hlRTFzVFJDZkF4ampCU2dLTWdhQlFaU3NuUWc",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "IndusInd Bank hosts investor meetings in London with Goldman Sachs",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-host-investor-meetings-london-sep-21-22/51110838",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-host-investor-meetings-london-sep-21-22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5jMjk0VEd0QmRFbE5NV2xDVFJDaUF4amRCU2dLTWdZQlVJVFZVQVE",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "IndusInd Bank shares almost flat in 2026 so far; are governance concerns resurfacing?",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-almost-flat-in-2026-so-far-are-governance-concerns-resurfacing-535413-2026-06-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a24f984697f3-indusind-banks-stock-may-remain-volatile-until-clearer-updates-emerge-from-regulators-or-the-bank-075422552-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVZVkI2UTIxc1EwWkVjRWN3VFJDZkF4ampCU2dLTWdZSkpJN05GUWs",
+   "date": "06/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-07T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "IndusInd Bank share falls over 2% after report of fresh whistleblower complaint to PMO, RBI",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-share-falls-over-2-after-report-of-fresh-whistleblower-complaint-to-pmo-rbi-13939274.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260424111604_indusind1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZRMXAwWkdkU1VXNWtObXd6VFJDZkF4ampCU2dLTWdtRmdvcE54V1hCN0FF",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "IndusInd Bank Share Pros and Cons 2026: High PE Bank With Hidden Risks?",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-cons-investing-indusindbk-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-cons-investing-indusindbk-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUlUVWd4TXpjdFpIVjNlbk5xVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Stocks in news: Infosys, IndusInd Bank, Eternal, Adani Green, Dr Reddy's",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-infosys-indusind-bank-eternal-adani-green-dr-reddys/articleshow/132564055.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132564073,width-1200,height-900,resizemode-4,imgsize-605584/stocks-in-news.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNaM1k1YlZCemNXWlRVSE50VFJEZ0F4aUFCU2dLTWdhQlVveFBvUWM",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "IndusInd Bank shares jump 4% on brokerage upgrades post-Q4 results; JM Financial says 'worst behind,...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/indusind-bank-shares-jump-4-on-brokerage-upgrades-post-q4-results-jm-financial-says-worst-behind-recovery-visible-13900314.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250725155422_indusindbankrtr2.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFaa05NWVVObWVuSkRaVTFVVFJDZkF4ampCU2dLTWdrTkVJVnAxV0k5RmdF",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "IndusInd Bank stock crashes 5% as brokerages stay cautious over weak NIM, fee income despite Q1 beat",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:628f7f317094b:0-indusind-bank-stock-crashes-5-as-brokerages-stay-cautious-over-weak-nim-fee-income-despite-q1-beat/",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "IndusInd Bank: Crisil upgrades outlook; stock in short-term upmove",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-crisil-upgrades-outlook-stock-in-short-term-upmove-550217-2026-08-20",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8676033e1cd-indusind-bank-shares-are-trading-lower-than-the-5-day--10-day--30-day-but-higher-than-the-20-day--50-203525873-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJaMWxoYzFoT1RYUk9RbWxMVFJDZkF4ampCU2dLTWdNVkpRSQ",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "IndusInd Bank Q1 update shows deposit growth, but advances fall year on year",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/banks/indusind-bank-q1-update-shows-deposit-growth-but-advances-fall-year-on-year-13965608.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250725155422_indusindbankrtr2.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFaa05NWVVObWVuSkRaVTFVVFJDZkF4ampCU2dLTWdrTkVJVnAxV0k5RmdF",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "IndusInd Bank Share Price today: price action and ratios",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-indusind-bank-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/IndusInd_Bank_Ltd_INDUSINDBK_IndusInd_Bank_Share_Price_rises_239_as_stock_trades_near_Rs_1000_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUVll0ZUdodlpHdHFhVWhLVFJDUUF4ai1CU2dLTWdZQlFKRERtZ2s",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Why Is IndusInd Bank Share Price Falling? Key Reasons & Share Price Target 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/blogs-why-is-indusind-bank-share-price-falling",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/10121029/indusind-bank_-share-falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBiWEk1ZG1Zd2JHOWllV0ZVVFJDUUF4ai1CU2dLTWdZQkpLTEZtZ28",
+   "date": "04/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-10T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "IndusInd Bank shares: Why this stock fell 6% despite Q1 profit beat; upside capped?",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-why-this-stock-fell-6-despite-q1-profit-beat-upside-capped-544654-2026-07-23",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6197a655d88-ashika-stock-broking-said-it-expects-indusind-banks-recovery-to-remain-gradual-given-the-ongoing-re-232458213-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJaMWxoYzFoT1RYUk9RbWxMVFJDZkF4ampCU2dLTWdNVkpRSQ",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "IndusInd Bank Q1 FY27 result: Net profit jumps 88%; NII grows to ₹4,685 crore QoQ",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/indus-ind-bank-q1-fy-27-result-net-profit-jumps-88-nii-grows-to-4-685-crore-qo-q/article-197386/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/indusindbankq4111.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhiblZoVW1jMVNUbGxValpyVFJDZkF4ampCU2dLTWdZcDRvZ1B6UU0",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "IndusInd Bank closes trading window from Jul 1 till Q1FY26 results",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-closes-trading-window-from-jul-1-till-q1fy26-results/43333968",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-closes-trading-window-from-jul-1-till-q1fy26-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlVUkwYWw4NVdUSTFWbGRaVFJDaUF4amRCU2dLTWdZSlFJYTBPQVU",
+   "date": "06/18/2026, 01:19 PM, +0000 UTC",
+   "iso_date": "2026-06-18T13:19:01Z"
+  },
+  {
+   "position": 76,
+   "title": "IndusInd Bank Shares Slide 5% as Q1 Recovery Fails to Convince Investors",
+   "source": {
+    "name": "BigGo Finance",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finance.biggo.com/news/25ad90e9-cf8c-4d1c-87b2-2256a82f5897",
+   "thumbnail": "https://img.biggo.com/HF0swHVhqAS4h4nKrHqbnQWDldoQw3mRNnmFAEJu3QI/fit/1720/0/sm/0/aHR0cHM6Ly9pbWcuYmdvLm9uZS9uZXdzLWltYWdlL2FpX2dlbmVyYXRlZC8yMDI2LTA3LzI1YWQ5MGU5LWNmOGMtNGQxYy04N2IyLTIyNTZhODJmNTg5N18xNzg0NzkwNzY5X2RlZmF1bHQuanBn.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRUM2RMYzFwRlpsZDNWWGhTVFJDZkF4ampCU2dLTWdZeE00ZzByUWM",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Nifty Bank rises 400 points as HDFC Bank, IndusInd, other stocks jump up to 3% after Q1 updates",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/nifty-bank-rises-400-points-as-hdfc-bank-indusind-other-stocks-jump-up-to-3-after-q1-updates/articleshow/132209268.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132209263,width-1200,height-900,resizemode-4,imgsize-117741/nifty-bank-rises-400-points-as-hdfc-bank-indusind-other-stocks-jump-up-to-3-after-q1-updates.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJOMGRvWW5veU9HNXpiRUZ4VFJEZ0F4aUFCU2dLTWdrQlFJeWtxaWNIQ0FJ",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "IndusInd Bank Number of Employees 2026 | Employee Count & Headcount Data",
+   "source": {
+    "name": "Revelio Labs",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.reveliolabs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.reveliolabs.com/companies/indusind-bank/employees",
+   "thumbnail": "https://www.reveliolabs.com/companies/indusind-bank/employees/opengraph-image-l01jpo?966eda30c2d7e3df",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWplVXRqUm1wWFluVTVWbWRsVFJDakFSaTJBaWdCTWdhQlNZcWpzZ1E",
+   "date": "07/27/2026, 08:47 PM, +0000 UTC",
+   "iso_date": "2026-07-27T20:47:38Z"
+  },
+  {
+   "position": 79,
+   "title": "IndusInd Bank Ltd extends winning spree",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-ltd-extends-winning-spree-126072100602_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Buzzing Stock: Tanla Platforms jumps 13%; Dr Reddy's, IndusInd Bank decline after Q1 earnings",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/buzzing-stock-tanla-platforms-surges-13-dr-reddy-s-indusind-bank-fall-post-q1-earnings-13981245.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260606032632_stock1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlka1ppVkZkNk9VWXpXbEJPVFJDZkF4ampCU2dLTWdZcHhJaHVSUVE",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "IndusInd Bank among 5 stocks to hit 52-week highs & rally up to 15% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-among-5-stocks-to-hit-52-week-highs-amp-rally-up-to-15-in-a-month/new-peak/slideshow/132560722.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132560722,width-480,height-360,imgsize-52624,resizemode-75/new-peak.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXbGRoWW1JMmJtczFURE42VFJEb0FoamdBeWdLTWdZSms0WlB0UVU",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "IndusInd Bank share price jumps 6% after Q4 results. Should you buy, sell or hold the stock?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/indusind-bank-share-price-jumps-6-after-q4-results-should-you-buy-sell-or-hold-the-stock-11777261367792.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/04/27/1600x900/logo/3-0-116032767-indusind-bank--2--0_1679841752693_1777261958675.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVZMVpZUVhvM2VXOVBhRll6VFJDZkF4ampCU2dLTWdrQlFJYmxwZWdPVWdF",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "IndusInd Bank shares tumble over 6 pc after Q1 results",
+   "source": {
+    "name": "thehawk.in",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehawk.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehawk.in/news/economy-and-business/indusind-bank-shares-tumble-over-6-pc-after-q1-results",
+   "thumbnail": "https://www.thehawk.in/_next/image?url=https%3A%2F%2Fthehawk.sgp1.cdn.digitaloceanspaces.com%2F5a4bdf14-0100-44f7-89be-d27e017c13e5%2Fe49ad09741158265901e04b88e8a176a-e7a3f98d-2749-4e42-82ba-aec0cc256c69.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZabmd6YVZoVFJsOVRaWFV4VFJEekF4am1CQ2dLTWdZQkVvcEVOZ2M",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "IndusInd Bank holds investor meetings in New York with Jefferies",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-holds-investor-meetings-new-york-jefferies/51891973",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-holds-investor-meetings-new-york-jefferies.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdhWFZPV21oNVRHcEtaMHRZVFJDaUF4amRCU2dLTWdZWkVvb3J2UVE",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "IndusInd Bank promoters restructure pledges for refinancing",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/indusind-bank-promoters-restructure-share-pledges-for-refinancing/44560294",
+   "thumbnail": "https://news-images.dhan.co/indusind-bank-promoters-restructure-share-pledges-for-refinancing.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBObVpsUm5CSkxYaHdhemhHVFJDaUF4amRCU2dLTWdZQlU0WlFJUWM",
+   "date": "07/02/2026, 05:57 PM, +0000 UTC",
+   "iso_date": "2026-07-02T17:57:11Z"
+  },
+  {
+   "position": 86,
+   "title": "Crisil Ratings revises rating outlook of IndusInd Bank to 'stable'; reaffirms ratings at 'AA+/A+'",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/crisil-ratings-revises-rating-outlook-of-indusind-bank-to-stable-reaffirms-ratings-at-aa-a-126082000331_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "IndusInd Bank Shares Fall 3% on Whistleblower Complaint",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/indusind-bank-shares-slide-3-percent-after-report-of-fresh-whistleblower-complaint",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/IndusInd-Bank-slides-3-after-report-of-fresh-whistleblower-complaint.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFZUzEzT0VKblh6TXRNRlJxVFJDZkF4ampCU2dLTWdhQlFvcURvZ2M",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Bank stocks mixed after Q4 update: BoB, BoM jump; HDFC Bank, IndusInd slip",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikita Vashisht"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/bank-stocks-q4fy26-updates-rbl-bank-hdfc-bank-bank-of-baroda-bank-of-maharashtra-axis-bank-indusind-bank-126040600225_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/03/full/1775237290-8615.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNRMlV4T0ZRNVdXaHpaazVUVFJDRUJCalNCQ2dLTWdhVm80U01UUU0",
+   "date": "04/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-06T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "IndusInd Bank share price falls 3% on whistleblower complaint report; key details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-share-price-falls-3-on-whistleblower-complaint-report-key-details-534597-2026-06-03",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a1fa770d6bbe-indusind-bank-share-price-the-fresh-complaint-suggested-alleged-insider-trading-by-samir-agarwal--a-030251301-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJaMWxoYzFoT1RYUk9RbWxMVFJDZkF4ampCU2dLTWdNVkpRSQ",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "IndusInd Bank clarifies it has not received regulatory communication on whistleblower complaint",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-clarifies-it-has-not-received-regulatory-communication-on-whistleblower-complaint-126060300958_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Eternal, IndusInd Bank, NTPC Green Energy among buzzing stocks as SENSEX falls 500 pts, NIFTY below 23,850",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/heg-indus-ind-bank-ntpc-green-energy-among-buzzing-stocks-as-sensex-nifty-fall-0-6/article-197442/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/marketfalls23julybuzzingstocks.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSbGhIV1RCdFkyMXpWVzlpVFJDZkF4ampCU2dLTWdhQmdJb09OUVU",
+   "date": "07/23/2026, 07:49 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:49:34Z"
+  },
+  {
+   "position": 92,
+   "title": "IndusInd Bank shares hit 52-week high ahead of Q1 FY27 results; what tech charts indicate",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/indusind-bank-shares-hit-52-week-high-ahead-of-q1-fy27-results-what-tech-charts-indicate-544412-2026-07-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a606c4a9a580-indusind-bank-returned-to-profitability-in-q4-fy26-220748961-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpia0pITm10WlMyOXVaa0kxVFJDZkF4ampCU2dLTWdZdGdZYlZ2QU0",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "IndusInd Bank Ltd Slips 2.03%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/indusind-bank-ltd-slips-2-03-126081700179_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "IndusInd Bank among 6 stocks to hit 52-week highs & rally up to 25% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-among-6-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/new-highs/slideshow/132215546.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132215546,width-480,height-360,imgsize-12334,resizemode-75/new-highs.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpSek0yZG5RdGVFaFphbXcyVFJEb0FoamdBeWdLTWdtOUFZb1R5YVE5eEFJ",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Trade Spotlight: How should you trade IndusInd Bank, Zydus Lifesciences, Welspun Living, Bharti Airtel, ICICI Bank, and others on July 6?",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:f17e179ee094b:0-trade-spotlight-how-should-you-trade-indusind-bank-zydus-lifesciences-welspun-living-bharti-airtel-icici-bank-and-others-on-july-6/",
+   "thumbnail": "https://s3.tradingview.com/news/image/moneycontrol:f17e179ee094b-7577361aae5ecdae7377a1a979681ba2-resized.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxkMVp6TkZrdFdXWlFUekZxVFJDaUFSaTNBaWdCTWdhQlVZWVVNUWc",
+   "date": "07/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-05T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "IndusInd Bank share price target: Should you buy, hold or sell after earnings miss? Here’s what brokerages",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishtha Awasthi"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/indusind-bank-share-price-target-should-you-buy-hold-or-sell-after-earnings-miss-heres-what-brokerages-recommend/articleshow/127599150.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-127599107,width-1200,height-900,resizemode-4,imgsize-24838/indusind-bank-share-price-target-should-you-buy-hold-or-sell-after-earnings-miss-heres-what-brokerages-recommend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhWMU5JYTFWNVdVOTVVRzlVVFJEZ0F4aUFCU2dLTWdtSm9aQ0lOU2M5Y1FF",
+   "date": "01/27/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-27T08:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "IndusInd Bank clarifies 0 regulatory contact after 3% stock slide on whistleblower report",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/indusind-bank-clarifies-0-regulatory-contact-after-3-stock-slide-on-whistleblower-report-2211-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/2211_PE_1_CORPORATE_03_06_2026_16x9_5ea7e76a7f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdOblJ1TlVOd1FsVmZZazB0VFJDZUF4amxCU2dLTWdhbFE0WnRvUVE",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "IndusInd Bank Profit Jumps 47% on Lower Provisions",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/indusind-bank-profit-jumps-47-on-lower-provisions/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/07/Indusind-bank-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNSbkJMWkZGM09VcDZkMnRNVFJDX0F4aXRCU2dLTWdhTkVLU25FQXM",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Buzzing Stock: Tanla Platforms jumps 13%; Dr Reddy's, IndusInd Bank decline after Q1 earnings",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:a2e86a9fb094b:0-buzzing-stock-tanla-platforms-jumps-13-dr-reddy-s-indusind-bank-decline-after-q1-earnings/",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Stock to buy today: IndusInd Bank (₹1,004.10)",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akhil Nallamuthu"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/stock-to-buy-today-indusind-bank100410/article71373692.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/mc0yom/article71373708.ece/alternates/LANDSCAPE_1200/IndusInd-banksGDCG9NKGB.3.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFXa1ZTYWt4NFRIQmhTMFU1VFJDZkF4ampCU2dLTWdZQjhJb29VZ1U",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:09"
+}

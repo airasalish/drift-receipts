@@ -1,0 +1,1015 @@
+{
+ "channel": "Akshat Shrivastava",
+ "channel_url": "https://www.youtube.com/@AkshatZayn",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "EG4acdv-H-4",
+   "title": "Waiting for the US Stock Market to fall? (Well, it will keep going up. Here's why)",
+   "url": "https://www.youtube.com/watch?v=EG4acdv-H-4",
+   "channel": "Akshat Shrivastava",
+   "channel_url": "https://www.youtube.com/@AkshatZayn",
+   "views": 113508,
+   "length": "22:58",
+   "published_text": "1mo ago",
+   "published_date": "2026-08-20",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/EG4acdv-H-4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_-8HHEXlHXLe9dTfHF9QFPmpfOA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 5,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "ZGfwTmUnJxE",
+   "title": "How 2008 made some investors VERY Rich? (2026: same pattern!) | Akshat Shrivastava",
+   "url": "https://www.youtube.com/watch?v=ZGfwTmUnJxE",
+   "channel": "Akshat Shrivastava",
+   "channel_url": "https://www.youtube.com/@AkshatZayn",
+   "views": 80457,
+   "length": "21:30",
+   "published_text": "1mo ago",
+   "published_date": "2026-08-14",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ZGfwTmUnJxE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa1tWNrxxzf74fiaVL0B9-EKBoTQ",
+   "transcript_status": "none"
+  },
+  {
+   "video_id": "ts3RXqeknJ4",
+   "title": "Review (& Analyze) your own Stock Portfolio [In 10 minutes...]",
+   "url": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+   "channel": "Akshat Shrivastava",
+   "channel_url": "https://www.youtube.com/@AkshatZayn",
+   "views": 98264,
+   "length": "29:58",
+   "published_text": "2mo ago",
+   "published_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz1tzlBuINxOAnQm2qf4Y4Qh3f0g",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 5,
+    "chunks": 7,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "nD26pvHvbo4",
+   "title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "channel": "Akshat Shrivastava",
+   "channel_url": "https://www.youtube.com/@AkshatZayn",
+   "views": 94857,
+   "length": "42:01",
+   "published_text": "Streamed 2mo ago",
+   "published_date": "2026-08-03",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/nD26pvHvbo4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARxZmmqq0V2psLxLcQruBON0aZLg",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 1,
+    "chunks": 8,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [
+  {
+   "company": "Meta Platforms Inc.",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "meta is a high quality stock which is available at a discount",
+   "start_s": 2404,
+   "line": "Number one, you buy like stocks in the US for long-term. For example, meta is a",
+   "evidence": [
+    {
+     "text": "high quality stock",
+     "where": "transcript",
+     "start_s": 2410
+    },
+    {
+     "text": "available at a discount",
+     "where": "transcript",
+     "start_s": 2410
+    }
+   ],
+   "reason": "The speaker calls Meta a \"high quality stock\" available at a discount, directly recommending it as a buy.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 2393,
+     "text": "I can't use options very legitimate concern the way is that you divide your"
+    },
+    {
+     "start_s": 2399,
+     "text": "portfolio into at least at least three to four buckets. Three buckets."
+    },
+    {
+     "start_s": 2404,
+     "text": "Number one, you buy like stocks in the US for long-term. For example, meta is a"
+    },
+    {
+     "start_s": 2410,
+     "text": "high quality stock which is available at a discount."
+    },
+    {
+     "start_s": 2416,
+     "text": "I mean, everyday is like products you're using. It's like whatever like nanny company whatever it is right. So that is"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=2404s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "ServiceNow Inc.",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "one cycle",
+   "quote": "I'm bullish on service now",
+   "start_s": 2220,
+   "line": "know sort of u thought that it's a software company. It's not. It's very",
+   "evidence": [
+    {
+     "text": "bullish on service now",
+     "where": "transcript",
+     "start_s": 2225
+    },
+    {
+     "text": "maybe 40 45 50% potential",
+     "where": "transcript",
+     "start_s": 2238
+    }
+   ],
+   "reason": "The presenter explicitly states bullishness and a 40‑50% upside potential, indicating a clear buy recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 2208,
+     "text": "very good. I would say service now is is a fabulous company. It actually benefits from AI rather than getting wiped out."
+    },
+    {
+     "start_s": 2213,
+     "text": "And if market is beating the entire software theme for example market beat Microsoft also because it kind of you"
+    },
+    {
+     "start_s": 2220,
+     "text": "know sort of u thought that it's a software company. It's not. It's very"
+    },
+    {
+     "start_s": 2225,
+     "text": "wide company right. Um so I do I am bullish on service now. It's not a buy and hold stock for me for like you know"
+    },
+    {
+     "start_s": 2232,
+     "text": "5 years 10 years something like this basically like I just want to trade one good cycle on service now and I do see"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=2220s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Palantir Technologies",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "long-term",
+   "quote": "Palenteer is very good",
+   "start_s": 2176,
+   "line": "Uh",
+   "evidence": [
+    {
+     "text": "very good",
+     "where": "transcript",
+     "start_s": 2181
+    }
+   ],
+   "reason": "The speaker describes Palantir as \"very good\" and a \"solid stock\" suggesting a positive recommendation, though no explicit buy command is given.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 2162,
+     "text": "completely in India move to QQQ and India investing smallap microap right so"
+    },
+    {
+     "start_s": 2169,
+     "text": "uh that's better right I mean from that construction portfolio point of view for advanced investors. Okay."
+    },
+    {
+     "start_s": 2176,
+     "text": "Uh"
+    },
+    {
+     "start_s": 2181,
+     "text": "uh Palenteer is very good. I've already aggregated this Palenteer right and took right and Palenteer long-term is a solid"
+    },
+    {
+     "start_s": 2188,
+     "text": "stock right and cyclical right I mean it it is little bit stretched but I don't think you will"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=2176s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Bajaj Finance",
+   "symbol_guess": "BAJFINANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "like bajach finance",
+   "start_s": 2007,
+   "line": "like it's already priced and right right so I mean uh and downside potential is there so I would rather pick like some",
+   "evidence": [
+    {
+     "text": "like bajach finance",
+     "where": "transcript",
+     "start_s": 2014
+    },
+    {
+     "text": "can very well continue to grow",
+     "where": "transcript",
+     "start_s": 2020
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Finance as an example of a stock that could grow but does not explicitly advise buying it.",
+   "ticker": {
+    "yahoo_symbol": "BAJFINANCE.NS",
+    "google_finance": "BAJFINANCE:NSE",
+    "name": "Bajaj Finance Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 1993,
+     "text": "right? And therefore the business skyrocketed in this lean phanase of the economy. But lending businesses are very"
+    },
+    {
+     "start_s": 1999,
+     "text": "complicated right there are cycles right uh there will be default cycle credit bubble burst cycle etc. Uh so basically"
+    },
+    {
+     "start_s": 2007,
+     "text": "like it's already priced and right right so I mean uh and downside potential is there so I would rather pick like some"
+    },
+    {
+     "start_s": 2014,
+     "text": "other stock right which has potential of like you know 2xing 3xing compared to like bajach finance that's my"
+    },
+    {
+     "start_s": 2020,
+     "text": "understanding like bajach finance can very well continue to grow. I don't know. Um, so that's what I would say."
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=2007s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Microsoft",
+   "symbol_guess": "MSFT",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "you haven't missed Microsoft is likely to do well",
+   "start_s": 1692,
+   "line": "Microsoft rally guys koshik asked that hey missed Microsoft rally no you you haven't missed Microsoft is likely to do",
+   "evidence": [],
+   "reason": "The speaker explicitly encourages holding Microsoft as part of the Mag 7 recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 1680,
+     "text": "it's because they are they they are too volatile sooxx ETF I was out right and I"
+    },
+    {
+     "start_s": 1686,
+     "text": "booked profits on the right time right and uh uh yeah you haven't missed"
+    },
+    {
+     "start_s": 1692,
+     "text": "Microsoft rally guys koshik asked that hey missed Microsoft rally no you you haven't missed Microsoft is likely to do"
+    },
+    {
+     "start_s": 1700,
+     "text": "well right from this point because the latest results that they have announced they have said that Azure which is the"
+    },
+    {
+     "start_s": 1705,
+     "text": "cloud computing arm of Microsoft that has accelerated its revenues which kind of indicates to the market that boss not"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=1692s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Apple Inc.",
+   "symbol_guess": "AAPL",
+   "direction": "avoid",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "Apple I don't see too much value",
+   "start_s": 1552,
+   "line": "Amazon Apple type stocks for the next two to three years. Um short answer is a yes that you should do it right. Not",
+   "evidence": [
+    {
+     "text": "don't see too much value",
+     "where": "transcript",
+     "start_s": 1559
+    },
+    {
+     "text": "never owned Apple",
+     "where": "transcript",
+     "start_s": 1559
+    }
+   ],
+   "reason": "He explicitly says he does not see value in Apple and has never owned it, indicating an avoid recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 1540,
+     "text": "uh on my uh laptop right. So I'll just see it from here. Okay. So yes the"
+    },
+    {
+     "start_s": 1546,
+     "text": "question was that hey should we own like um mag 7? Mag 7 means Microsoft Meta"
+    },
+    {
+     "start_s": 1552,
+     "text": "Amazon Apple type stocks for the next two to three years. Um short answer is a yes that you should do it right. Not"
+    },
+    {
+     "start_s": 1559,
+     "text": "each of these but at least a few right for example Apple I don't see too much value and I have never owned Apple okay"
+    },
+    {
+     "start_s": 1567,
+     "text": "but if some of these stocks are available at a discount for example meta right I've been bullish on meta and I'm"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=1552s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Amazon.com",
+   "symbol_guess": "AMZN",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "Mag 7 means Microsoft Meta Amazon Apple type stocks",
+   "start_s": 1546,
+   "line": "question was that hey should we own like um mag 7? Mag 7 means Microsoft Meta",
+   "evidence": [
+    {
+     "text": "Mag 7 means",
+     "where": "transcript",
+     "start_s": 1546
+    }
+   ],
+   "reason": "He includes Amazon in the Mag 7 group and says investors should own these stocks.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 1534,
+     "text": "mathematics for that is it's working. All right. Okay. So I can see it on my"
+    },
+    {
+     "start_s": 1540,
+     "text": "uh on my uh laptop right. So I'll just see it from here. Okay. So yes the"
+    },
+    {
+     "start_s": 1546,
+     "text": "question was that hey should we own like um mag 7? Mag 7 means Microsoft Meta"
+    },
+    {
+     "start_s": 1552,
+     "text": "Amazon Apple type stocks for the next two to three years. Um short answer is a yes that you should do it right. Not"
+    },
+    {
+     "start_s": 1559,
+     "text": "each of these but at least a few right for example Apple I don't see too much value and I have never owned Apple okay"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=1546s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Reliance Industries Ltd",
+   "symbol_guess": "RELIANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Reliance have put up a refinery in the US",
+   "start_s": 999,
+   "line": "have to like I mean they were pushed in a way that you have to build like some capacity in the US. Similarly, Reliance",
+   "evidence": [
+    {
+     "text": "Reliance",
+     "where": "transcript",
+     "start_s": 999
+    }
+   ],
+   "reason": "Mentioned as an example of Indian company expanding abroad, not a specific pick.",
+   "ticker": {
+    "yahoo_symbol": "RELIANCE.NS",
+    "google_finance": "RELIANCE:NSE",
+    "name": "Reliance Industries Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 986,
+     "text": "commitment that India has to buy like US stuff whatever like so uh pharma company there"
+    },
+    {
+     "start_s": 992,
+     "text": "was a recent news like probably one and a half weeks back that pharma companies"
+    },
+    {
+     "start_s": 999,
+     "text": "have to like I mean they were pushed in a way that you have to build like some capacity in the US. Similarly, Reliance"
+    },
+    {
+     "start_s": 1004,
+     "text": "have put up a refinery in the US. All that stuff is happening, right? So, there's a clear pressure. That's a macro trend on the Indian market. Who do you"
+    },
+    {
+     "start_s": 1011,
+     "text": "think is going to suffer? I'm not going to give you the answer. You guys deliberate segment of the Indian market will get"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=999s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Mastercard Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "some of the top companies like Mastercard, Visa, they are not bloated",
+   "start_s": 794,
+   "line": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,",
+   "evidence": [
+    {
+     "text": "Mastercard",
+     "where": "transcript",
+     "start_s": 801
+    }
+   ],
+   "reason": "Cited as a peer that is not overvalued.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 783,
+     "text": "characteristic of a bubble, right? For example, 2007. Hello, 1999. Hello,"
+    },
+    {
+     "start_s": 789,
+     "text": "whatever bubble you want to pick. Okay, you pick it. That is a tail risk. So, that is something that I'm monitoring"
+    },
+    {
+     "start_s": 794,
+     "text": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,"
+    },
+    {
+     "start_s": 801,
+     "text": "some of the top companies like Mastercard, Visa, they are not bloated. They are actually"
+    },
+    {
+     "start_s": 806,
+     "text": "trading well below their peak and have been consolidating for a few years. So on and so forth. So there is no bubble"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=794s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Visa Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "some of the top companies like Mastercard, Visa, they are not bloated",
+   "start_s": 794,
+   "line": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,",
+   "evidence": [
+    {
+     "text": "Visa",
+     "where": "transcript",
+     "start_s": 801
+    }
+   ],
+   "reason": "Cited as a peer that is not overvalued.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 783,
+     "text": "characteristic of a bubble, right? For example, 2007. Hello, 1999. Hello,"
+    },
+    {
+     "start_s": 789,
+     "text": "whatever bubble you want to pick. Okay, you pick it. That is a tail risk. So, that is something that I'm monitoring"
+    },
+    {
+     "start_s": 794,
+     "text": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,"
+    },
+    {
+     "start_s": 801,
+     "text": "some of the top companies like Mastercard, Visa, they are not bloated. They are actually"
+    },
+    {
+     "start_s": 806,
+     "text": "trading well below their peak and have been consolidating for a few years. So on and so forth. So there is no bubble"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=794s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Nvidia Corporation",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "if you check Nvidia it's trading 15% from the top right now",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "check Nvidia",
+     "where": "transcript",
+     "start_s": 753
+    }
+   ],
+   "reason": "Mentioned as an example of an overvalued US stock.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 741,
+     "text": "first argument or tail risk that people say. Second argument or tail risk that people say is that you know over"
+    },
+    {
+     "start_s": 747,
+     "text": "overvalued US market overvalued right for example if you check Meta it's"
+    },
+    {
+     "start_s": 753,
+     "text": "trading 30% from the top right now okay if you check Nvidia it's trading 15%"
+    },
+    {
+     "start_s": 758,
+     "text": "from the top right now um abid Microsoft Amazon up until last week right and just"
+    },
+    {
+     "start_s": 764,
+     "text": "heavy investments they were trading like whatever 20 25% 30% from the top so overvalued right I"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=753s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Microsoft Corporation",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Microsoft Amazon up until last week",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "Microsoft",
+     "where": "transcript",
+     "start_s": 758
+    }
+   ],
+   "reason": "Mentioned in passing while discussing US market valuations.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 741,
+     "text": "first argument or tail risk that people say. Second argument or tail risk that people say is that you know over"
+    },
+    {
+     "start_s": 747,
+     "text": "overvalued US market overvalued right for example if you check Meta it's"
+    },
+    {
+     "start_s": 753,
+     "text": "trading 30% from the top right now okay if you check Nvidia it's trading 15%"
+    },
+    {
+     "start_s": 758,
+     "text": "from the top right now um abid Microsoft Amazon up until last week right and just"
+    },
+    {
+     "start_s": 764,
+     "text": "heavy investments they were trading like whatever 20 25% 30% from the top so overvalued right I"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=753s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Amazon.com Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Microsoft Amazon up until last week",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "Amazon",
+     "where": "transcript",
+     "start_s": 758
+    }
+   ],
+   "reason": "Mentioned in passing while discussing US market valuations.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 741,
+     "text": "first argument or tail risk that people say. Second argument or tail risk that people say is that you know over"
+    },
+    {
+     "start_s": 747,
+     "text": "overvalued US market overvalued right for example if you check Meta it's"
+    },
+    {
+     "start_s": 753,
+     "text": "trading 30% from the top right now okay if you check Nvidia it's trading 15%"
+    },
+    {
+     "start_s": 758,
+     "text": "from the top right now um abid Microsoft Amazon up until last week right and just"
+    },
+    {
+     "start_s": 764,
+     "text": "heavy investments they were trading like whatever 20 25% 30% from the top so overvalued right I"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=753s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Meta Platforms",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "if you check Meta it's trading 30% from the top right now",
+   "start_s": 747,
+   "line": "overvalued US market overvalued right for example if you check Meta it's",
+   "evidence": [
+    {
+     "text": "check Meta",
+     "where": "transcript",
+     "start_s": 747
+    }
+   ],
+   "reason": "Mentioned as an example of an overvalued US stock.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 735,
+     "text": "have you been hearing it for the last I don't know 2 years now 2 3 years now. So it is been happening. Okay. This is the"
+    },
+    {
+     "start_s": 741,
+     "text": "first argument or tail risk that people say. Second argument or tail risk that people say is that you know over"
+    },
+    {
+     "start_s": 747,
+     "text": "overvalued US market overvalued right for example if you check Meta it's"
+    },
+    {
+     "start_s": 753,
+     "text": "trading 30% from the top right now okay if you check Nvidia it's trading 15%"
+    },
+    {
+     "start_s": 758,
+     "text": "from the top right now um abid Microsoft Amazon up until last week right and just"
+    }
+   ],
+   "video_id": "nD26pvHvbo4",
+   "video_title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "video_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "timestamp_url": "https://www.youtube.com/watch?v=nD26pvHvbo4&t=747s",
+   "call_date": "2026-08-03",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "ICICI Bank",
+   "symbol_guess": "ICICIBANK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "you have purchased like ICICI something large cap.",
+   "start_s": 526,
+   "line": "have purchased like ICICI something",
+   "evidence": [
+    {
+     "text": "ICICI",
+     "where": "transcript",
+     "start_s": 526
+    }
+   ],
+   "reason": "Mentioned as a sample large‑cap holding, without any buy/sell instruction.",
+   "ticker": {
+    "yahoo_symbol": "ICICIBANK.NS",
+    "google_finance": "ICICIBANK:NSE",
+    "name": "ICICI Bank Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 520,
+     "text": "parak flexi gap. You have purchased like"
+    },
+    {
+     "start_s": 523,
+     "text": "you know some like HDFC large cap. You"
+    },
+    {
+     "start_s": 526,
+     "text": "have purchased like ICICI something"
+    },
+    {
+     "start_s": 528,
+     "text": "large cap. Okay. Now, what is the likely"
+    },
+    {
+     "start_s": 530,
+     "text": "benchmark right? So, the likely"
+    }
+   ],
+   "video_id": "ts3RXqeknJ4",
+   "video_title": "Review (& Analyze) your own Stock Portfolio [In 10 minutes...]",
+   "video_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+   "timestamp_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4&t=526s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "HDFC Bank",
+   "symbol_guess": "HDFCBANK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "you have purchased like you know some like HDFC large cap.",
+   "start_s": 520,
+   "line": "parak flexi gap. You have purchased like",
+   "evidence": [
+    {
+     "text": "HDFC",
+     "where": "transcript",
+     "start_s": 523
+    }
+   ],
+   "reason": "Used as an example of a large‑cap fund holding, not a specific stock pick.",
+   "ticker": {
+    "yahoo_symbol": "HDFCBANK.NS",
+    "google_finance": "HDFCBANK:NSE",
+    "name": "HDFC Bank Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 516,
+     "text": "purchased like three different funds."
+    },
+    {
+     "start_s": 518,
+     "text": "Okay, you have purchased like whatever"
+    },
+    {
+     "start_s": 520,
+     "text": "parak flexi gap. You have purchased like"
+    },
+    {
+     "start_s": 523,
+     "text": "you know some like HDFC large cap. You"
+    },
+    {
+     "start_s": 526,
+     "text": "have purchased like ICICI something"
+    }
+   ],
+   "video_id": "ts3RXqeknJ4",
+   "video_title": "Review (& Analyze) your own Stock Portfolio [In 10 minutes...]",
+   "video_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+   "timestamp_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4&t=520s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "featured_picks": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "all_scoreable": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [
+   "Amazon.com",
+   "Apple Inc.",
+   "Meta Platforms Inc.",
+   "Microsoft",
+   "Palantir Technologies",
+   "ServiceNow Inc."
+  ],
+  "watch_mentions": 10
+ },
+ "regulatory": {
+  "name": "Akshat Shrivastava",
+  "sebi_pages": [
+   {
+    "title": "Why am I selling some of my stocks!",
+    "url": "https://www.youtube.com/watch?v=KPvPHrushig",
+    "snippet": "Akshat Shrivastava•581K views · 20:46 · Go to channel Akshat Shrivastava · Will the Next 5 years be GREAT for Indian Markets? | Akshat ..."
+   },
+   {
+    "title": "Wisdom Hatch",
+    "url": "https://open.spotify.com/show/1GMpZqRpNiTZM9vH6gE8h1",
+    "snippet": "On this episode, Akshat Shrivastava (ex-BCG, Dalberg, INSEAD) and Ayushi Chand (Government of India) discuss 5 core concepts of Economics: 1. Debt 2. Inflation ..."
+   },
+   {
+    "title": "How our parents lose money: LESSONS LEARNT",
+    "url": "https://www.youtube.com/watch?v=NPLa-JDGjcg",
+    "snippet": "Go to channel Akshat Shrivastava · Buy Low, Sell High and make money in STOCK MARKET | Learn how to invest #StockMarketTips. Akshat Shrivastava ..."
+   },
+   {
+    "title": "MUST KNOW points at Market ALL TIME HIGH",
+    "url": "https://www.youtube.com/watch?v=jk7FL1BQ-Vo",
+    "snippet": "Go to channel Akshat Shrivastava · Before investing LAKHS, learn to do SIPs properly! | Akshat Shrivastava. Akshat Shrivastava•300K views · 13: ..."
+   },
+   {
+    "title": "Indian IT, Gold, Silver, Banks (all have corrected more than ...",
+    "url": "https://music.youtube.com/podcast/mimvQ72IbNs",
+    "snippet": "Indian IT, Gold, Silver, Banks (all have corrected more than 20%)| Time to buy? | Akshat Shrivastava. Join Wisdom Hatch Global Investing Community."
+   },
+   {
+    "title": "Before investing LAKHS, learn to do SIPs properly!",
+    "url": "https://www.youtube.com/watch?v=YZqYj_9NKDU",
+    "snippet": "Build a BIG PORTFOLIO (2Cr+) even with less salary | Investing Strategies. Akshat Shrivastava ; How a Veteran Investor Built ₹62 Crore Without ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "SEBI cracks down on unregistered finfluencers, but loopholes remain",
+    "url": "https://www.storyboard18.com/special-coverage/sebi-cracks-down-on-unregistered-finfluencers-but-loopholes-remain-37890.htm",
+    "source": "StoryBoard 18",
+    "date": "07/26/2024, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Lost money to finfluencers’ advice? All that glitters is not gold, here's how to steer clear of non-credib",
+    "url": "https://m.economictimes.com/wealth/invest/lost-money-to-finfluencers-advice-all-that-glitters-is-not-gold-heres-how-to-steer-clear-of-non-credible-financial-advice/articleshow/121372979.cms",
+    "source": "The Economic Times",
+    "date": "05/26/2025, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "'Hope SEBI cracks down on such finfluencers': Akshat Shrivastava gets trolled for '1.2% yield' tweet on Statue of Unity",
+    "url": "https://www.businesstoday.in/markets/top-story/story/hope-sebi-cracks-down-on-such-finfluencers-akshat-shrivastava-gets-trolled-for-12-yield-tweet-on-statue-of-unity-385117-2023-06-11",
+    "source": "Business Today",
+    "date": "06/11/2023, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "SEBI paper hits at 'Finfluencer' menace",
+    "url": "https://www.fortuneindia.com/investing/sebi-paper-hits-at-finfluencer-menace/113969",
+    "source": "Fortune India",
+    "date": "09/04/2023, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Can SEBI Clear The Murky Waters Of Finfluencers In India?",
+    "url": "https://inc42.com/features/can-sebi-clear-the-murky-waters-of-finfluencers-in-india/",
+    "source": "Inc42",
+    "date": "10/16/2023, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Menace of Finfluencers",
+    "url": "https://www.fortuneindia.com/long-reads/menace-of-finfluencers/113249",
+    "source": "Fortune India",
+    "date": "07/04/2023, 07:00 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 17,
+ "generated_at": "2026-10-10T08:29:35"
+}

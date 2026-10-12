@@ -1,0 +1,47 @@
+{
+ "calls": [
+  {
+   "company": "KPIT Technologies Ltd",
+   "symbol_guess": "KPIT",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "केपीआईटी",
+   "start_s": 783,
+   "line": "दिख रहा है। व्हिच इज़ कैन अफेक्ट द",
+   "evidence": [
+    {
+     "text": "नेगेटिव सेंटीमेंट",
+     "where": "transcript",
+     "start_s": 802
+    }
+   ],
+   "reason": "The speaker notes negative sentiment for KPIT but does not advise buying or selling, so it is listed as a watch."
+  },
+  {
+   "company": "Transformers & Rectifiers India Ltd",
+   "symbol_guess": "TRI",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ट्रांसफॉर्मर्स एंड रेक्टिफायर्स इंडिया",
+   "start_s": 926,
+   "line": "इज़ ट्रांसफॉर्मर्स एंड रेक्टिफायर्स",
+   "evidence": [
+    {
+     "text": "अल्ट्रा मेगा ऑर्डर",
+     "where": "transcript",
+     "start_s": 931
+    }
+   ],
+   "reason": "The company is mentioned as receiving a large order, but no explicit recommendation is given, so it is listed as a watch."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 4,
+ "llm_failed_chunks": 0
+}

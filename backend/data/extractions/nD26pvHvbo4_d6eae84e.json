@@ -1,0 +1,301 @@
+{
+ "calls": [
+  {
+   "company": "Meta Platforms",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "if you check Meta it's trading 30% from the top right now",
+   "start_s": 747,
+   "line": "overvalued US market overvalued right for example if you check Meta it's",
+   "evidence": [
+    {
+     "text": "check Meta",
+     "where": "transcript",
+     "start_s": 747
+    }
+   ],
+   "reason": "Mentioned as an example of an overvalued US stock."
+  },
+  {
+   "company": "Nvidia Corporation",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "if you check Nvidia it's trading 15% from the top right now",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "check Nvidia",
+     "where": "transcript",
+     "start_s": 753
+    }
+   ],
+   "reason": "Mentioned as an example of an overvalued US stock."
+  },
+  {
+   "company": "Microsoft Corporation",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Microsoft Amazon up until last week",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "Microsoft",
+     "where": "transcript",
+     "start_s": 758
+    }
+   ],
+   "reason": "Mentioned in passing while discussing US market valuations."
+  },
+  {
+   "company": "Amazon.com Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Microsoft Amazon up until last week",
+   "start_s": 753,
+   "line": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "evidence": [
+    {
+     "text": "Amazon",
+     "where": "transcript",
+     "start_s": 758
+    }
+   ],
+   "reason": "Mentioned in passing while discussing US market valuations."
+  },
+  {
+   "company": "Mastercard Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "some of the top companies like Mastercard, Visa, they are not bloated",
+   "start_s": 794,
+   "line": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,",
+   "evidence": [
+    {
+     "text": "Mastercard",
+     "where": "transcript",
+     "start_s": 801
+    }
+   ],
+   "reason": "Cited as a peer that is not overvalued."
+  },
+  {
+   "company": "Visa Inc",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "some of the top companies like Mastercard, Visa, they are not bloated",
+   "start_s": 794,
+   "line": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,",
+   "evidence": [
+    {
+     "text": "Visa",
+     "where": "transcript",
+     "start_s": 801
+    }
+   ],
+   "reason": "Cited as a peer that is not overvalued."
+  },
+  {
+   "company": "Reliance Industries Ltd",
+   "symbol_guess": "RELIANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Reliance have put up a refinery in the US",
+   "start_s": 999,
+   "line": "have to like I mean they were pushed in a way that you have to build like some capacity in the US. Similarly, Reliance",
+   "evidence": [
+    {
+     "text": "Reliance",
+     "where": "transcript",
+     "start_s": 999
+    }
+   ],
+   "reason": "Mentioned as an example of Indian company expanding abroad, not a specific pick."
+  },
+  {
+   "company": "Amazon.com",
+   "symbol_guess": "AMZN",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "Mag 7 means Microsoft Meta Amazon Apple type stocks",
+   "start_s": 1546,
+   "line": "question was that hey should we own like um mag 7? Mag 7 means Microsoft Meta",
+   "evidence": [
+    {
+     "text": "Mag 7 means",
+     "where": "transcript",
+     "start_s": 1546
+    }
+   ],
+   "reason": "He includes Amazon in the Mag 7 group and says investors should own these stocks."
+  },
+  {
+   "company": "Apple Inc.",
+   "symbol_guess": "AAPL",
+   "direction": "avoid",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "Apple I don't see too much value",
+   "start_s": 1552,
+   "line": "Amazon Apple type stocks for the next two to three years. Um short answer is a yes that you should do it right. Not",
+   "evidence": [
+    {
+     "text": "don't see too much value",
+     "where": "transcript",
+     "start_s": 1559
+    },
+    {
+     "text": "never owned Apple",
+     "where": "transcript",
+     "start_s": 1559
+    }
+   ],
+   "reason": "He explicitly says he does not see value in Apple and has never owned it, indicating an avoid recommendation."
+  },
+  {
+   "company": "Microsoft",
+   "symbol_guess": "MSFT",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "2-3 years",
+   "quote": "you haven't missed Microsoft is likely to do well",
+   "start_s": 1692,
+   "line": "Microsoft rally guys koshik asked that hey missed Microsoft rally no you you haven't missed Microsoft is likely to do",
+   "evidence": [],
+   "reason": "The speaker explicitly encourages holding Microsoft as part of the Mag 7 recommendation."
+  },
+  {
+   "company": "Bajaj Finance",
+   "symbol_guess": "BAJFINANCE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "like bajach finance",
+   "start_s": 2007,
+   "line": "like it's already priced and right right so I mean uh and downside potential is there so I would rather pick like some",
+   "evidence": [
+    {
+     "text": "like bajach finance",
+     "where": "transcript",
+     "start_s": 2014
+    },
+    {
+     "text": "can very well continue to grow",
+     "where": "transcript",
+     "start_s": 2020
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Finance as an example of a stock that could grow but does not explicitly advise buying it."
+  },
+  {
+   "company": "Palantir Technologies",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "long-term",
+   "quote": "Palenteer is very good",
+   "start_s": 2176,
+   "line": "Uh",
+   "evidence": [
+    {
+     "text": "very good",
+     "where": "transcript",
+     "start_s": 2181
+    }
+   ],
+   "reason": "The speaker describes Palantir as \"very good\" and a \"solid stock\" suggesting a positive recommendation, though no explicit buy command is given."
+  },
+  {
+   "company": "ServiceNow Inc.",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "one cycle",
+   "quote": "I'm bullish on service now",
+   "start_s": 2220,
+   "line": "know sort of u thought that it's a software company. It's not. It's very",
+   "evidence": [
+    {
+     "text": "bullish on service now",
+     "where": "transcript",
+     "start_s": 2225
+    },
+    {
+     "text": "maybe 40 45 50% potential",
+     "where": "transcript",
+     "start_s": 2238
+    }
+   ],
+   "reason": "The presenter explicitly states bullishness and a 40‑50% upside potential, indicating a clear buy recommendation."
+  },
+  {
+   "company": "Meta Platforms Inc.",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "meta is a high quality stock which is available at a discount",
+   "start_s": 2404,
+   "line": "Number one, you buy like stocks in the US for long-term. For example, meta is a",
+   "evidence": [
+    {
+     "text": "high quality stock",
+     "where": "transcript",
+     "start_s": 2410
+    },
+    {
+     "text": "available at a discount",
+     "where": "transcript",
+     "start_s": 2410
+    }
+   ],
+   "reason": "The speaker calls Meta a \"high quality stock\" available at a discount, directly recommending it as a buy."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 8,
+ "llm_failed_chunks": 0
+}

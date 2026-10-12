@@ -1,0 +1,1493 @@
+{
+ "search_metadata": {
+  "id": "6ac9453725608666d26bc09a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_TnxYASOpjpIOFOkf6GwfBMIc_4HqnfLT_rjzE6LKEE/6ac9453725608666d26bc09a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_TnxYASOpjpIOFOkf6GwfBMIc_4HqnfLT_rjzE6LKEE/6ac9453725608666d26bc09a.md",
+  "created_at": "2026-10-09 19:49:11 UTC",
+  "processed_at": "2026-10-09 19:49:11 UTC",
+  "google_news_url": "https://news.google.com/search?q=Infosys+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/_TnxYASOpjpIOFOkf6GwfBMIc_4HqnfLT_rjzE6LKEE/6ac9453725608666d26bc09a.html",
+  "total_time_taken": 0.78
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Infosys share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "News about Infosys • shares",
+   "stories": [
+    {
+     "position": 1,
+     "title": "TCS, Infosys, Wipro jump up to 5% despite US green-card curbs: Why IT stocks are rising today",
+     "source": {
+      "name": "India Today",
+      "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "authors": [
+       "Sonu Vivek"
+      ]
+     },
+     "link": "https://www.indiatoday.in/business/market/story/tcs-infosys-wipro-shares-rise-why-despite-us-green-card-curbs-as-tcs-q2-ai-revenue-boosts-sentiment-3012976-2026-10-09",
+     "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/it-stocks-rise-092705223-16x9_0.jpg?VersionId=tdtnV5SO_6ZBrXMCfGnadJG9X8xChH1c&size=1280:720",
+     "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFibTFUYW5STFlXRTRjazF3VFJDZkF4ampCU2dLTWdhQlVZakdvZ1U",
+     "date": "10/09/2026, 04:29 AM, +0000 UTC",
+     "iso_date": "2026-10-09T04:29:12Z"
+    },
+    {
+     "position": 2,
+     "title": "TCS, Infosys, Wipro, HCLTech shares gain up to 6% reacting to multiple developments, details here",
+     "source": {
+      "name": "CNBC TV18",
+      "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "authors": [
+       "Hormaz Fatakia"
+      ]
+     },
+     "link": "https://www.cnbctv18.com/market/infosys-wipro-hcltech-other-it-shares-in-focus-owing-to-multiple-factors-today-details-here-20008080.htm",
+     "thumbnail": "https://images.cnbctv18.com/uploads/2026/10/indian-it-shares-in-the-spotlight-1-2026-10-51d9df7e5a635fca76996161cf147071.jpg",
+     "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJSMVpVV1VOM2JIZEdSeTFqVFJDZkF4ampCU2dLTWdZSkFZanBCQXc",
+     "date": "10/08/2026, 11:41 PM, +0000 UTC",
+     "iso_date": "2026-10-08T23:41:34Z"
+    },
+    {
+     "position": 3,
+     "title": "Top stocks to watch today: Infosys, TCS, Wipro, ITC, Power Grid shares in focus on Friday, 9 October | Full list",
+     "source": {
+      "name": "Livemint",
+      "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "authors": [
+       "Vaamanaa Sethi"
+      ]
+     },
+     "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-infosys-tcs-wipro-itc-power-grid-shares-in-focus-on-friday-9-october-full-list-11791508950716.html",
+     "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/STW_1791511355030_C5Mc_1791511355169_GGM0_c29f6839-d27d-4a37-b2e3-6b78736f2d3b_WTiM.png",
+     "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpkSEZZV1c5d1IyOVBZbVZIVFJDZkF4amlCU2dLTWdB",
+     "date": "10/09/2026, 02:05 AM, +0000 UTC",
+     "iso_date": "2026-10-09T02:05:09Z"
+    },
+    {
+     "position": 4,
+     "title": "TCS, Infosys, HCLTech, Wipro Jump Up To 4% Today: Why Are IT Shares Rising On October 9?",
+     "source": {
+      "name": "News18",
+      "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "authors": [
+       "Mohammad Haris"
+      ]
+     },
+     "link": "https://www.news18.com/business/markets/tcs-infosys-hcltech-wipro-jump-up-to-4-today-why-are-it-shares-rising-on-october-9-10373811.html",
+     "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/07/1783675360_stock-market-2026-07-09T141848.131-2026-07-9c18e1e56c25143d9cd4285fbb2d75ec.jpg",
+     "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdXV3RNTm5wWFdtSnlUa1ZUVFJDZkF4ampCU2dLTWdPQk1nZw",
+     "date": "10/09/2026, 04:04 AM, +0000 UTC",
+     "iso_date": "2026-10-09T04:04:07Z"
+    },
+    {
+     "position": 5,
+     "title": "TCS, Infosys, Wipro shares jump; Nifty IT rises 2%; what analysts say",
+     "source": {
+      "name": "Business Today",
+      "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+      "authors": [
+       "Prashun Talukdar"
+      ]
+     },
+     "link": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-wipro-shares-jump-nifty-it-rises-2-what-analysts-say-560604-2026-10-09",
+     "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac89143d671d-a-market-analyst-noted-that-indian-it-stocks-rebounded-despite-concerns-over-the-us-suspension-of-pe-090122947-16x9.jpg?size=1280:720",
+     "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWVWh2YVdRd1EwVmlMVmxrVFJDZkF4ampCU2dLTWdZQlVJZ0dNZ1U",
+     "date": "10/09/2026, 07:01 AM, +0000 UTC",
+     "iso_date": "2026-10-09T07:01:27Z"
+    }
+   ]
+  },
+  {
+   "position": 2,
+   "title": "Why Microsoft’s H-1B Issues Are Sending Infosys Stock to Near a Six-Year Low",
+   "source": {
+    "name": "Barron's",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.barrons.com/articles/infosys-stock-microsoft-h1b-workers-289d4aef",
+   "thumbnail": "https://images.barrons.com/im-23669729?width=700&height=466",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWpSemhyY0VvdFNFRnFURWxtVFJERUF4aW5CU2dLTWdzQmdJaklzZVFkN0dud2Vn",
+   "date": "10/08/2026, 06:03 PM, +0000 UTC",
+   "iso_date": "2026-10-08T18:03:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Infosys Share Price Live Updates: Infosys News",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/infosys-stock-price-live-updates-08-oct-2026/liveblog/134778816.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134778816,width-600,resizemode-4/infosys-stock-price-live-updates-08-oct-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhNR3RFYjE5bFZIQnlMVVY0VFJEQ0F4allCQ2dLTWdZUm9wSXNPUVk",
+   "date": "10/08/2026, 06:50 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:50:24Z"
+  },
+  {
+   "position": 4,
+   "title": "After TCS ₹12 dividend, all eyes on Infosys Q2 results, dividend; date, time, earnings schedule, yield, stock report",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/after-tcs-rs-12-dividend-all-eyes-on-infosys-q2-results-dividend-date-time-earnings-schedule-yield-stock-report-11791541571896.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Infosys_Q2_Results_Dividend_Update_1791547261922_vfWa_1791547275666_SEVt_ccf05686-bfcc-4d33-88e8-13d4dd6810f8_8jFc.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJlVU5YWDJSdE4xbFpZa1UwVFJDZkF4ampCU2dLTWdZSkFZQ0dOUUU",
+   "date": "10/09/2026, 12:02 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:02:30Z"
+  },
+  {
+   "position": 5,
+   "title": "Sensex Today: TCS, Infosys, Tech Mahindra Shares Rebound as Indian Stock BSE Index Rises Over 400 Points; Top Gainers And Losers And What Should Investors Watch?",
+   "source": {
+    "name": "The Sunday Guardian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sundayguardianlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sundayguardianlive.com/business/sensex-today-tcs-infosys-tech-mahindra-shares-rebound-as-indian-stock-bse-index-rises-over-400-points-top-gainers-and-losers-and-what-should-investors-watch-301970/",
+   "thumbnail": "https://sundayguardianlive.com/wp-content/uploads/2026/09/sensex-today.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRlRGQxWDA5ZlpYUnNWazVoVFJEZ0F4aUFCU2dLTWdZSk1LS0ZtQW8",
+   "date": "10/09/2026, 05:54 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:54:40Z"
+  },
+  {
+   "position": 6,
+   "title": "TCS, Infosys, Wipro, HCL Shares Rally 2–6%; Nifty IT Up 4% Despite US Green Card Shock: Tata Q2 Results Drives",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pooja Sitaram Jaiswar"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/tcs-infosys-wipro-hcl-shares-rally-2-6-nifty-it-jumps-4-despite-us-green-card-freeze-tata-q2-results-1540327.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/10/indiantechstocks1-11521791530788.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVlbDltTUZsS2VVTnhaV2hQVFJDRUF4allCQ2dLTWdB",
+   "date": "10/09/2026, 07:27 AM, +0000 UTC",
+   "iso_date": "2026-10-09T07:27:03Z"
+  },
+  {
+   "position": 7,
+   "title": "Infosys Share Price Prediction for Monday: 12 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Jaiswal"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-monday-12-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/09/2026, 10:31 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:31:00Z"
+  },
+  {
+   "position": 8,
+   "title": "TCS, Infosys, Wipro Share Price: IT Stocks Post Early Gains Despite PERM Scheme Suspension",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/invest/tcs-infosys-wipro-share-price-it-stocks-post-early-gains-despite-perm-scheme-suspension",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-01-19/393el97j/stock-market-cues-today.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJiMWhqTUZwSWIyWjFObWRWVFJDZkF4ampCU2dLTWdZQm9Zem52QVU",
+   "date": "10/09/2026, 04:11 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:11:21Z"
+  },
+  {
+   "position": 9,
+   "title": "TCS, Infosys, Wipro, HCLTech shares gain up to 6% reacting to multiple developments, details here - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_tcs-infosys-wipro-hcltech-shares-gain-activity-7514197557510590464-q4kW",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQEx7ccolZpwSg/articleshare-shrink_800/B56aEfKzztHkAc-/0/1791524290256?e=2147483647&v=beta&t=t-w74DK-JgIwB7tDi7CkvreQffWe6_nhj-nEgPxMscA",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRNMU50V0hkdE5USjRNazlxVFJDZkF4ampCU2dLTWdB",
+   "date": "10/09/2026, 05:38 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:38:24Z"
+  },
+  {
+   "position": 10,
+   "title": "Indian IT Stocks Under Pressure: Infosys, Wipro ADRs Fall After US Suspends Major Firms From Immigration Programme",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pratiksha Thayil"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/indian-it-stocks-under-pressure-infosys-wipro-adrs-fall-after-us-suspends-major-it-firms-from-immigration-programme-12157887",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/je88rhu8_kaynes_625x300_10_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVlbmxqWlZZNVRrOWpORTE0VFJDZkF4ampCU2dLTWdPQlVRUQ",
+   "date": "10/08/2026, 03:05 PM, +0000 UTC",
+   "iso_date": "2026-10-08T15:05:47Z"
+  },
+  {
+   "position": 11,
+   "title": "Infosys, TCS, Wipro and other IT stocks rise up to 4%. Here are 3 important triggers to watch",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watch/articleshow/134805016.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134805290,width-1200,height-900,resizemode-4,imgsize-686354/tcs-wipro-other-it-stocks-will-be-in-focus-on-friday-here-are-3-important-triggers-to-watchbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJTMmxIYlZKalZuUTBWRkJ2VFJEZ0F4aUFCU2dLTWdB",
+   "date": "10/09/2026, 03:11 AM, +0000 UTC",
+   "iso_date": "2026-10-09T03:11:03Z"
+  },
+  {
+   "position": 12,
+   "title": "Nifty IT becomes rocket! 3% up; Check TCS, Infosys, Wipro, Mphasis, HCL, Oracle, Tech Mahindra, Coforge performance",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/nifty-it-becomes-rocket-3-up-check-tcs-infosys-wipro-mphasis-hcl-oracle-tech-mahindra-coforge-performance-11791520174506.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_stocks_1791520416000_LZzq_1791520420442_0VdQ_eb8bdfeb-8af7-47a3-a537-3160b900d691_57a8.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUNTbGhLTW5WV1lVeFdaMFZVVFJDZkF4amlCU2dLTWdB",
+   "date": "10/09/2026, 04:43 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:43:14Z"
+  },
+  {
+   "position": 13,
+   "title": "INFY Share Price Today - Infosys Ltd. Stock Price Live NSE/BSE",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/stocks/infy/infosys/infosys-ltd-share-price-today",
+   "date": "10/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-05T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Trump's Green Card Crackdown Hits TCS, Infosys, Wipro & Microsoft | Stock Markets Unfazed",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Manvendra Singh Rajvanshi"
+    ]
+   },
+   "link": "https://www.businesstoday.in/bt-tv/whats-hot/video/trumps-green-card-crackdown-hits-tcs-infosys-wipro-microsoft-stock-markets-unfazed-560683-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202610/6ac8ceb4b4d48-trumps-green-card-crackdown-hits-tcs--infosys--wipro--microsoft--stock-markets-unfazed-092331745-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhaemd6V2pndFRTMTVRMjk0VFJDZkF4ampCU2dLTWdB",
+   "date": "10/09/2026, 11:24 AM, +0000 UTC",
+   "iso_date": "2026-10-09T11:24:32Z"
+  },
+  {
+   "position": 15,
+   "title": "Infosys Prediction for Tomorrow: 8 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-8-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/07/2026, 10:28 AM, +0000 UTC",
+   "iso_date": "2026-10-07T10:28:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Infosys Prediction for Tomorrow: 7 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-7-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/infosys-share-price-prediction-for-tomorrow-7-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkVkZCYkVoZlVITmtUblJpVFJDUUF4ai1CU2dLTWdZQktaekRtZ2s",
+   "date": "10/06/2026, 10:27 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:27:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Infosys Share Price rises 2.06%; valuation, sector view",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-infosys-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/Infosys_INFY_Share_Price_rises_206_to_Rs_10155_market_cap_at_Rs_40805971_Cr_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5aMFV0VkhVMFJsTktTM0l5VFJDUUF4ai1CU2dLTWdhQkdZTERHZ28",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Infosys, TCS, Wipro, HCL Tech shares: H-1B suspension impact, ADR reaction, what's next?",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/infosys-tcs-wipro-hcl-tech-shares-h-1b-visa-suspension-impact-adr-reaction-whats-next-560544-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac855ee878e5-it-stocks-indian-technology-companies-have-significantly-reduced-their-dependence-on-h-1b-visas-ove-094813655-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWVWh2YVdRd1EwVmlMVmxrVFJDZkF4ampCU2dLTWdZQlVJZ0dNZ1U",
+   "date": "10/09/2026, 02:49 AM, +0000 UTC",
+   "iso_date": "2026-10-09T02:49:41Z"
+  },
+  {
+   "position": 19,
+   "title": "Infosys Prediction for Tomorrow: 9 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-9-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/08/2026, 10:23 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:23:00Z"
+  },
+  {
+   "position": 20,
+   "title": "TCS, HCL, Wipro, Infosys Bleeding: Why Are IT Stocks Down? Check Q1 Result Dates, Preview, Dividend Rewards",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pooja Jaiswar"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/tcs-hcl-wipro-infosys-bleeding-why-it-stocks-are-down-q1-result-dates-earnings-preview-dividends-1518991.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/itstocksfalling1-1782795453.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRV1UxT1Y5R2JrdHplRXhYVFJDRUF4allCQ2dLTWdZSndZU3czQUk",
+   "date": "10/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Infosys Prediction for Tomorrow: 6 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-6-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/infosys-share-price-prediction-for-tomorrow-6-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZhRk5tVGkxM1FubHRiRWRUVFJDUUF4ai1CU2dLTWdrQlFJNmpHbW9lYmdF",
+   "date": "10/05/2026, 10:23 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:23:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Infosys stock trades at EUR 9.66 with volume 56.7 percent above average",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/infosys-stock-trades-at-eur-9-66-with-volume-56-7-percent-above-average/70279070",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404992_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFRMXBOTlV0Zk9HUjJZVzk1VFJDZkF4ampCU2dLTWdhWkpwQUtuZ1k",
+   "date": "10/09/2026, 01:08 PM, +0000 UTC",
+   "iso_date": "2026-10-09T13:08:49Z"
+  },
+  {
+   "position": 23,
+   "title": "Infosys share price target October 2026 spearheads 6 rebound picks",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/infosys-6-rebound-picks-october-5-2026",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F10%2F05120239%2Finfosys-share-price-target-october-2026-spearheads-6-rebound-picks.png&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdYMDFpV0V0T05rVnZjamhZVFJDb0FSaXNBaWdCTWdZTmNJeGxyZ1k",
+   "date": "10/05/2026, 06:36 AM, +0000 UTC",
+   "iso_date": "2026-10-05T06:36:50Z"
+  },
+  {
+   "position": 24,
+   "title": "TCS Q2, US Green Card program, H1B visa: Big triggers for IT stocks today - TCS, Infosys, Wipro, HCL | Experts' view",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/tcs-us-green-card-program-h1b-visa-big-triggers-for-it-stocks-today-tcs-infosys-wipro-hcl-tech-experts-views-11791511691763.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/IT_stocks_1791513841401_ZJM0_1791513841527_rM8t_afe97ea9-38a8-4b05-b073-37e587016435_YsGB.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVUMnRWVDNkbVRYbENhbGRDVFJDZkF4amlCU2dLTWdB",
+   "date": "10/09/2026, 02:53 AM, +0000 UTC",
+   "iso_date": "2026-10-09T02:53:31Z"
+  },
+  {
+   "position": 25,
+   "title": "Infosys scheduled Q2 results as Infosys stock costs EUR 9.59",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/infosys-scheduled-q2-results-as-infosys-stock-costs-eur-9-59/70276617",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404998_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlXRTlRUWw5WFJVcFlSWHBuVFJDZkF4ampCU2dLTWdhUlVZNEpyZ2M",
+   "date": "10/09/2026, 10:48 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:48:14Z"
+  },
+  {
+   "position": 26,
+   "title": "Infosys Share Price Prediction for Tomorrow: 14 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-14-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-14-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpYMW94WDJWUmNrRlFiRkF5VFJDUUF4ai1CU2dLTWdhQktaU2ptZ2s",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Dividend, Bonus Issue, Stock Split Record Dates to Mark: Reliance, Infosys, Adani, Tata, Trent, Inox and More",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sharmila Bhadoria"
+    ]
+   },
+   "link": "https://www.goodreturns.in/personal-finance/dividend-bonus-issue-stock-split-record-dates-to-mark-reliance-infosys-adani-tata-trent-inox-1513643.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/06/upcomingdividend6-1780752606.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtWMWhrYTFremVsQlVORnBQVFJEU0FoallCQ2dLTWdhQkE0Z0RrZ28",
+   "date": "10/06/2026, 06:48 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:48:21Z"
+  },
+  {
+   "position": 28,
+   "title": "Infosys Q2 2026 quarterly results: Announcement date and time, earnings schedule, dividend history - Details",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:210c588b02c8b:0-infosys-q2-2026-quarterly-results-announcement-date-and-time-earnings-schedule-dividend-history-details/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/06/2026, 11:23 AM, +0000 UTC",
+   "iso_date": "2026-10-06T11:23:23Z"
+  },
+  {
+   "position": 29,
+   "title": "Infosys shares fall 5% in 5 sessions; should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-shares-fall-5-in-5-sessions-should-you-buy-sell-or-hold-14035608.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "TCS, Infosys, HCLTech, Wipro Jump Up To 4% Today: Why Are IT Shares Rising On October 9?",
+   "source": {
+    "name": "News18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammad Haris"
+    ]
+   },
+   "link": "https://www.news18.com/amp/business/markets/tcs-infosys-hcltech-wipro-jump-up-to-4-today-why-are-it-shares-rising-on-october-9-10373811.html",
+   "thumbnail": "https://images.news18.com/ibnlive/uploads/2026/07/1783675360_stock-market-2026-07-09T141848.131-2026-07-9c18e1e56c25143d9cd4285fbb2d75ec.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdXV3RNTm5wWFdtSnlUa1ZUVFJDZkF4ampCU2dLTWdPQk1nZw",
+   "date": "10/09/2026, 04:04 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:04:07Z"
+  },
+  {
+   "position": 31,
+   "title": "Infosys, Wipro ADRs drop 3% as Cognizant, Infosys, TCS, Wipro, HCL among IT firms suspended from US green card programme",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Ksheerasagar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-wipro-adrs-drop-3-as-cognizant-infosys-tcs-wipro-hcl-among-it-firms-suspended-from-us-green-card-programme-11791475795645.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/maxresdefault_1791476893234_vRKF_1791476899728_k5P7_a88656a1-fc8c-4758-9afc-35f8ee4774ba_HNFm.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhaMWwwYzAxWVVXazJTVWw0VFJDZkF4ampCU2dLTWdZTlZJS3VJUWs",
+   "date": "10/08/2026, 04:18 PM, +0000 UTC",
+   "iso_date": "2026-10-08T16:18:03Z"
+  },
+  {
+   "position": 32,
+   "title": "Infosys stock pre-market: EUR 9.53, prior close EUR 9.57",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/infosys-stock-pre-market-eur-9-53-prior-close-eur-9-57/70273093",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405003_1200_1200.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlXbU5VTTA5dExWUjRjWEEzVFJDcUJCaXFCQ2dLTWdZVlJJcU5wUVk",
+   "date": "10/09/2026, 06:18 AM, +0000 UTC",
+   "iso_date": "2026-10-09T06:18:50Z"
+  },
+  {
+   "position": 33,
+   "title": "Infosys Stock Crash: IT Giant Hits 6-Year Low As Investor Confidence Takes A Hit",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/infosys-stock-crash-it-giant-hits-6-year-low-as-investor-confidence-takes-a-hit-59696",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F59696%2F41ChatGPT-Image-Sep-24%2C-2026%2C-06_00_09-PM.png&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVRbVJSUzJ3eVNsQnBOMGR0VFJDUUF4ai1CU2dLTWdZSkpaeW1IUWs",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Infosys, Wipro shares crash to 6-year lows as IT sell-off gathers pace; what is weighing on the sector?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-wipro-shares-crash-to-6-year-lows-as-it-sell-off-gathers-pace-what-is-weighing-on-the-sector-11790685736991.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/Infosys_1790686813318_Pxfm_1790686818306_CYgt_4834b70d-430c-4136-aabd-399cb9842ac5_Kjt8.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZURGRaUVROcExYWllOVTFtVFJDZkF4amlCU2dLTWdZQkFJaml6Z00",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "TCS shares rise ahead of Q2 results; Mphasis, Coforge, Infosys also gain; here's why",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/tcs-shares-rise-ahead-of-q2-results-mphasis-coforge-infosys-also-gain-heres-why-560311-2026-10-08",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac72903ab72e-mphasis-added-228-per-cent-to-rs-2-34110-coforge-advanced-213-per-cent-to-rs-1-861-hcl-tech--in-082418755-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRkRGxtVDNsd1RVTTRlVVphVFJDZkF4ampCU2dLTWdtZE1vWkxuYWxjclFF",
+   "date": "10/08/2026, 05:25 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:25:14Z"
+  },
+  {
+   "position": 36,
+   "title": "IT Stocks Rally: Nifty IT rises over 3%; Infosys, Wipro gain despite US Visa curbs, mixed bag TCS Q2 results",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Maurya"
+    ]
+   },
+   "link": "https://www.zeebiz.com/market-news/news-it-stocks-rally-nifty-it-rises-nearly-3-infosys-wipro-gain-despite-us-visa-curbs-mixed-bag-tcs-q2-results-403639",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/10/09/415451-it-stocks-upside.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWtkSGhFWXpGalEzVkZlbUkwVFJEOEFSakFBeWdLTWdzSm9JcWxRaVVtemVtYWV3",
+   "date": "10/09/2026, 04:13 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:13:30Z"
+  },
+  {
+   "position": 37,
+   "title": "TCS, Infosys, HCL Tech, Wipro, TechM: Will IT emerge as dark horse? What analysts say, fresh targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pawan Nahar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/tcs-infosys-hcl-tech-wipro-techm-will-it-emerge-as-dark-horse-what-analysts-say-fresh-targets-560156-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac614749fed5-morgan-stanley-identifies-indias-it-services-sector-as-an-unexpected-dark-horse-beneficiary-in-th-074419568-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhRbFEwYUVsMlRURjJhazF3VFJDZkF4ampCU2dLTWdrWkFvZ3ZqU1NMNUFJ",
+   "date": "10/07/2026, 09:45 AM, +0000 UTC",
+   "iso_date": "2026-10-07T09:45:02Z"
+  },
+  {
+   "position": 38,
+   "title": "Infosys shares hit 6-year low intraday; here's how you should trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-shares-hit-6-year-low-intraday-here-s-how-you-should-trade-14041128.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Infosys Prediction for Monday: 5 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Jaiswal"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-monday-5-october-2026",
+   "date": "10/01/2026, 10:28 AM, +0000 UTC",
+   "iso_date": "2026-10-01T10:28:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Infosys Expands Metsä Group AI Partnership; Shares Rise 0.56%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/infosys-expands-metsa-group-ai-partnership-shares-rise-0-56-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/image-2026-08-05T163154.555.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpiRTl0V1VoT05IWnJPRmxDVFJDZkF4amlCU2dLTWdB",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Infosys (NYSE:INFY) Hits New 1-Year Low - What's Next?",
+   "source": {
+    "name": "MarketBeat",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketbeat.com/instant-alerts/price-infosys-nyse-infy-hits-new-1-year-low-whats-next-2026-10-08/",
+   "thumbnail": "https://www.marketbeat.com/logos/infosys-ltd-logo-1200x675.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpUbEJHWmxGeVNEZ3dXV1JNVFJDZkF4ampCU2dLTWdhbGhKU01yUVk",
+   "date": "10/08/2026, 04:46 PM, +0000 UTC",
+   "iso_date": "2026-10-08T16:46:42Z"
+  },
+  {
+   "position": 42,
+   "title": "Infosys shares recover from 52-week low: Here's why",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/infosys-shares-recover-from-52-week-low-after-abn-amro-deal-extension/article71531889.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/fb6tei/article71531971.ece/alternates/LANDSCAPE_1200/Infosys-Q1FY27-GBVG98UAU.4.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRhWEZqZUVONVgySnpTMVpyVFJDZkF4ampCU2dLTWdrSmdvcnR2S1NpemdF",
+   "date": "10/01/2026, 07:57 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:57:48Z"
+  },
+  {
+   "position": 43,
+   "title": "Infosys shares slump over 4.5%, post biggest single day fall in nearly three months",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Vasudev"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/infosys-shares-slump-over-4-5-post-biggest-single-day-fall-in-nearly-three-months/article-200042/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/infosyssharepricetoday.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpZVWhMWjJKc1EyTmtTR1Z6VFJDZkF4ampCU2dLTWdhcHc1Q052UVU",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Infosys Prediction for Tomorrow: 30 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-2",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Infosys Prediction for Tomorrow: 29 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Infosys Prediction for Tomorrow: 1 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-1-october-2026",
+   "date": "09/30/2026, 11:12 AM, +0000 UTC",
+   "iso_date": "2026-09-30T11:12:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Infosys shares fall 6% in 5 days tracking weakness in IT shares - Should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-shares-fall-6-in-5-days-tracking-weakness-in-it-shares-should-you-buy-sell-or-hold-14009385.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Infosys Prediction for Tomorrow: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-28-september-2026-sunday",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpVek5zTkZkNFdXVmlNMUZMVFJDUUF4ai1CU2dLTWdhQkdaNmptZ2s",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Infosys shares fall 2.04% to Rs 1,116.60",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:266626f62094b:0-infosys-shares-fall-2-04-to-rs-1-116-60/",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Infosys Share Price prediction for Monday 24 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-monday-19-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/infosys-share-price-prediction-for-monday-19-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVjalZoY2xCdlJIUlViVXRMVFJDUUF4ai1CU2dLTWdrQlFJN0RHbW9lYmdF",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Infosys Prediction for Monday: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-monday-28-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-monday-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBPSFJ4YVRac04xQnRXV1pZVFJDUUF4ai1CU2dLTWdZQkdhRERHZ28",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Infosys, TCS, HCLTech, Wipro Share Price Falls In Trade: Three Reasons IT Stocks Are Under Pressure",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Yukta Baid"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/infosys-tcs-hcltech-wipro-share-price-falls-in-trade-three-reasons-it-stocks-are-under-pressure-12057604",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/00iblup_it-stocks-in-focus_625x300_16_September_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRNWEJIVmpSeVYwTmpiR1pGVFJDZkF4ampCU2dLTWdZQkZKeW1FUXM",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Infosys Share Price Prediction for Tomorrow: 23 September 2026 Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-23-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-23-september-2026-outlook.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVTall3WVRoUE5ISXRUa1p5VFJDUUF4ai1CU2dLTWdrQk1JcWptbW9XalFF",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Infosys Share Price Live Coverage: Shares jump 5% on easing AI concerns",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/infosys-share-price-live-coverage-shares-jump-5-on-easing-ai-concerns",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Infosys shares fall 2.22% in today's session",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/infosys-shares-fall-2-22-in-today-s-session-alpha-article-14007258.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250218095653_volatile_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTM1JyV2sxVmR6TldlVGx2VFJDZkF4ampCU2dLTWdhTmNaUUlzUWM",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Infosys Share Price Prediction for Tomorrow: 22 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-22092026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-22092026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNUVEZDU1VkbmJsRTBPWFpTVFJDUUF4ai1CU2dLTWdZQk1JakRHZ28",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Infosys Prediction for Tomorrow: 24 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-24-september-2026-thursday",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-24-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhRbVZIV0RsYVZURTFVWFZwVFJDUUF4ai1CU2dLTWdrQlFKU2tHdW9WQ2dJ",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Infosys Partners With Knorr-Bremse; Shares Fall 2.29% Today",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/infosys-partners-with-knorr-bremse",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/image-2026-08-18T161218.727-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNWREpLUVZCaGFHOUJlRXhyVFJDZkF4amlCU2dLTWdZQmNJeWtLZ2M",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Infosys Prediction for Tomorrow: 25 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-25-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-25-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kM0puU1daYVNYZENZalJrVFJDUUF4ai1CU2dLTWdhQkdZU2ptZ2s",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Infosys shares fall 2%, top Nifty loser after Q1 miss, guidance cut; brokerages remain largely cautious",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-shares-fall-2-top-nifty-loser-after-q1-miss-guidance-cut-brokerages-remain-largely-cautious-13982394.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250820132850_Infosys.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJiMk5KTjNoT2VIQXdWVVJZVFJDZkF4ampCU2dLTWdtaEJZYXN5V043UWdN",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Infosys stock down 50%, limited growth outlook, but strong cash flow hints recovery potential.",
+   "source": {
+    "name": "Pluang",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://pluang.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://pluang.com/en/news-feed/infosys-terlihat-murah-teknis-tapi-tidak-fundamental",
+   "thumbnail": "https://image-cdn.pluang.com/web/news-cards/v2/GSS/2352b40178dd52fb03cdc6dca52156fa1834e25f8d388c1d0a8fa9ff4282f07c-en.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpaWHB3TFdKVWVuQkphRXBpVFJDSEF4aVBCaWdLTWdZQmNKcVlyQWc",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Why Did Infosys Stock Pop on Thursday?",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Richard Smith"
+    ]
+   },
+   "link": "https://finance.yahoo.com/markets/stocks/articles/why-did-infosys-stock-pop-184705294.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/d5d8efa8f82e74b7051bc93e72e28824ae7ec8b7454ba9f1fe95903cd2ec3ffe/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fmotleyfool.com%2F7325622b550237bb7ebf1c9a6515c854.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNNM2MxVVVoR1h6WlFVazkwVFJERUF4aW1CU2dLTWdtdElZeHdsZWswcmdF",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Infosys Share Price Prediction for Monday 17 Aug: Rs 1,175",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-monday-17-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/infosys-share-price-prediction-for-monday-17-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNaWFpzVGtOUU5qWkNia05RVFJDUUF4ai1CU2dLTWdZQlFJN0RHZ28",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Why Did Infosys Stock Pop on Thursday?",
+   "source": {
+    "name": "The Motley Fool",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rich Smith"
+    ]
+   },
+   "link": "https://www.fool.com/investing/2026/10/01/why-did-infosys-stock-pop-on-thursday/",
+   "thumbnail": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fcdn.content.foolcdn.com%2Fimages%2F1umn9qeh%2Fproduction%2F3c59d79db19859dedd56af5239c10104e3be2b75-2121x1414.jpg%3Fw%3D2121%26h%3D1414%26q%3D75%26auto%3Dformat&w=3840&op=resize",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDVRVE5wU25aMGRrdGlURVk1VFJERUF4aW1CU2dLTWdtdElZeHdsU2sxcmdF",
+   "date": "10/01/2026, 07:27 PM, +0000 UTC",
+   "iso_date": "2026-10-01T19:27:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Infosys stock ratings downgraded: Brokerages turn cautious after Q1 miss, guidance cut; check target...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-stock-ratings-downgraded-brokerages-turn-cautious-after-q1-miss-guidance-cut-check-target-prices-13982343.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Infosys shares recover from 52-week low after ABN AMRO deal extension",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:bc9ef333fcab7:0-infosys-shares-recover-from-52-week-low-after-abn-amro-deal-extension/",
+   "date": "10/01/2026, 11:39 AM, +0000 UTC",
+   "iso_date": "2026-10-01T11:39:48Z"
+  },
+  {
+   "position": 67,
+   "title": "IT shares fall for 6th straight session; Coforge, Infosys, TCS fall up to 6%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/it-shares-fall-for-6th-straight-session-coforge-infosys-tcs-fall-up-to-6-14025832.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260905031529_sensex_nifty_sensexdown.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5ORlJ6T0RNNU1XOXhkMFJ5VFJDZkF4ampCU2dLTWdrVlVaSUpyaVl1S1FJ",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Infosys (NSEI:INFY) Stock Fair Value Falls After Analysts Cut Targets On Weaker Outlook",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bailey Pemberton"
+    ]
+   },
+   "link": "https://finance.yahoo.com/markets/stocks/articles/infosys-nsei-infy-stock-fair-220859737.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/8d445d2f2ec343e3d4f0e890af32351e99599f170a29c02588948cf2cd5f903f/lightyear_networkapi/resizefit_w960%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2Fb731a77e8c27ad3838a4fcd5acee9ffe",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNURSVFp0UVZJM2RGZ3lUSFYzVFJETUF4aWFCU2dLTWdPRkFoUQ",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Infosys Share Price Prediction for Tomorrow 21 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-21-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/infosys-share-price-prediction-for-tomorrow-21-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXhaR1EzUkRobFgzaGlURkl4VFJDUUF4ai1CU2dLTWdzQk1JUlpNQ2FwaGxveUhn",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Infosys Share Price Prediction for Tomorrow: 18 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-18-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-18-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVYMDlxU25GR1VESkJOSE5zVFJDUUF4ai1CU2dLTWdZQkdaNmpHZ28",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Infosys Share Price Falls 2.9% as CLSA Sets Rs 1,779 Target",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-falls-clsa-genai-target",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Infosys-Share-Price-Falls-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlMVTVGYUdrNFkzTlJRMFZsVFJDZUF4amxCU2dLTWdtSkVZQUk1V0F0cGdJ",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Infosys share price falls 1% ahead of Q1 results 2026. Should you buy or sell the IT stock?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-falls-1-ahead-of-q1-results-2026-should-you-buy-or-sell-the-it-stock-11784775828323.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/23/1600x900/logo/Infosys_1784778409335_1784778409472_7102a239-9f35-405f-9867-e1a54688da52.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlOMng0WDFOWFNVaFBhMWRLVFJDZkF4ampCU2dLTWdZcEFvQnVFUXM",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Infosys Share Price Prediction for Tomorrow, 14 August",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-14-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/infosys-share-price-prediction-for-tomorrow-14-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpMV2RwU25vdFJXdFFjRlJ6VFJDUUF4ai1CU2dLTWdhQkdZakRHZ28",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Infosys Share Price Prediction for Tomorrow 18 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-18-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/infosys-share-price-prediction-for-tomorrow-18-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNhMlEyVFVFM2RtcG9VemxxVFJDUUF4ai1CU2dLTWdrQlFJN0RIbW9XYmdF",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Infosys Shares Gain 2.04% in Early Trade",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:ed3fcfb65094b:0-infosys-shares-gain-2-04-in-early-trade/",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Infosys share price jumps 5% in trade today; here's why",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-jumps-5-in-trade-today-heres-why-other-it-stocks-also-jump-nifty-it-up-4-11780389871214.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/02/1600x900/logo/Infosys_share_price_gains_today_1780390942210_1780390942376_af7c6e09-e8ff-4c90-9b6e-a98a4409f9ca.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVZWGxJU0dRMFVEZERkM0JyVFJDZkF4ampCU2dLTWdZaEFZU05qUXM",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Infosys shares rise 2.06%, trading at Rs 1,153.40",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:7b2cc1b2f094b:0-infosys-shares-rise-2-06-trading-at-rs-1-153-40/",
+   "date": "08/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-02T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Infosys shares gain 2.41% to Rs 1,108.50 in early trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/infosys-shares-gain-2-41-to-rs-1-108-50-in-early-trade-alpha-article-13976340.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Infosys Shares Gain 2.04% in Early Trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/infosys-shares-gain-2-04-in-early-trade-alpha-article-13987953.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Infosys Shares Fall 2.02% in Midday Trade",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:7752ddec6094b:0-infosys-shares-fall-2-02-in-midday-trade/",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Infosys Share Price Tumbles 3% On Guidance Cut After Muted Q1 Show — Key Numbers Inside",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/infosys-share-price-tumbles-3-on-guidance-cut-after-muted-q1-show-key-numbers-inside-11814371",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/sro5ioeg_investor-claims-rs-57-lakh-tcs-infosys-loss_625x300_06_July_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWllazlQVUV4RVFXTTRUV3BFVFJDZkF4ampCU2dLTWdZQnhvUUtVZ00",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Infosys share price falls 2.5% after guidance cut, new CEO announcement during Q1 results: buy, sell or hold?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/infosys-share-price-falls-2-5-after-guidance-cut-new-ceo-announcement-during-infosys-q1-results-buy-sell-or-hold-11784862815803.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/24/1600x900/Infosys_share_price_1784862956105_1784862956241_677eab40-bea9-424f-97b3-08b710cda7e5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFaRUY0VlMxTVkwUm9NVkpSVFJDZkF4ampCU2dLTWdhSkVZU2xHZ2s",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Nifty IT Jumps Over 5%: Why HCLTech, TCS, Infosys Shares Are Up Today",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Raj Rishabh"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/nifty-it-stocks-rally-today-hcltech-tcs-infosys-share-price",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-09-15/cz2spti7/IT-stocks-today.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9kR3h0YWpsck9WZENjbEZqVFJDZkF4ampCU2dLTWdhZFVvNU9NUVk",
+   "date": "09/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-20T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Infosys Share Price August 31, 2026: Down 2.20% to ₹1,625.20",
+   "source": {
+    "name": "The Eastern Herald",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easternherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amanda Graham"
+    ]
+   },
+   "link": "https://easternherald.com/2026/08/31/infosys-share-price-august-31-2026/",
+   "thumbnail": "https://easternherald.com/wp-content/uploads/2026/08/infosys-campus-office-bengaluru.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFjVFJ1U2tnNGEydEpUa2hNVFJDZkF4ampCU2dLTWdhbEZLRE1qUXM",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Infosys shares fall 2.04% to Rs 1,116.60",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/infosys-shares-fall-2-04-to-rs-1-116-60-alpha-article-14008662.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250130061113_Stock-Market-News.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdWVGxMUjNaWk5XdFBXVFJwVFJDZkF4ampCU2dLTWdZQldKSUFLd2M",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Infosys shares settle lower on Q1 miss, guidance cut; should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-shares-settle-lower-on-q1-miss-guidance-cut-should-you-buy-sell-or-hold-13982928.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/03/20260331155619_Infosys.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJXazlXUVhabldWQlBVVkppVFJDZkF4ampCU2dLTWdhVmNwQXNNUVk",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Infosys Share Price Prediction for Tomorrow: 17 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-17-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-17-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRWa1ZzTjB0eGNIQjRkbEZFVFJDUUF4ai1CU2dLTWdrQk1JcWpHbW9XYmdF",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Infosys shares jump 6%, rally 10% in 3 days as IT stocks shine. More upside ahead?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/infosys-shares-jump-6-rally-10-in-3-days-as-it-stocks-shine-more-upside-ahead/articleshow/131460164.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131460148,width-1200,height-900,resizemode-4,imgsize-88734/infosys-shares-jump-6-rally-10-in-3-days-as-it-stocks-shine-more-upside-ahead.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kMjVNYlZKVlkyNUVaSE4xVFJEZ0F4aUFCU2dLTWdZSmdKQ3pQQVk",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Infosys Shares Fall 2.05 percent to Rs 1,025.90",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:0c5ea4bd5094b:0-infosys-shares-fall-2-05-percent-to-rs-1-025-90/",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Infosys shares fall over 1.5% as stock turns ex-dividend; price adjusts downward",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/infosys-shares-fall-over-1-5-as-stock-turns-ex-dividend-share-price-adjusts-downward-13945597.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250820132850_Infosys.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpObGg2VnpSNlVGOXBNSHBJVFJERUFSamVBaWdLTWdtaEJZYXN5V043UWdN",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Weekly Recap: INFY FY2026 revenue, profit surge and Kotak downgrade",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/tradingview:3e77f9914c5f5:0-weekly-recap-infy-fy2026-revenue-profit-surge-and-kotak-downgrade/",
+   "date": "08/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-23T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Infosys Share Price Prediction for Tomorrow: 16 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/infosys-share-price-prediction-for-tomorrow-16-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/infosys-share-price-prediction-for-tomorrow-16-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVWa3RZUzNSRlVqaEdNSEZPVFJDUUF4ai1CU2dLTWdrQk1aU3hIQ214cHdJ",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Infosys, Mphasis, Persistent, LTM, TechM: Top 5 IT stock picks, target prices",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/infosys-mphasis-persistent-ltm-techm-top-5-it-stock-picks-target-prices-552482-2026-09-01",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a96662fa73af-persistent-remains-well-positioned-for-industry-leading-growth-mphasis-is-well-positioned-to-captur-014410421-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRkRGxtVDNsd1RVTTRlVVphVFJDZkF4ampCU2dLTWdtZE1vWkxuYWxjclFF",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "When Infosys drivers became crorepatis: How Narayana Murthy's one decision surprised corporate India",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Saurav Pandey"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/infosys-drivers-became-crorepatis-narayana-murthy-decision-that-surprised-corporate-india-13979350.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260721063517_How-Infosys-drivers-became-crorepatis-in-1999.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdTelYyYkVkdFpFUjNSV053VFJDZkF4ampCU2dLTWdZSk1aamtKZ2c",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Better IT Stock: TCS vs Infosys",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=09/29/2026&story=6&title=Better-IT-Stock-TCS-vs-Infosys",
+   "thumbnail": "https://www.eqimg.com/images/2022/07162022-image1-thumb-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZURlU0UjNSdVNWUnNUVXRPVFJEQUFoaUFCQ2dLTWdrVk00U3BXYU5VaVFJ",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Infosys Stock Drops Near Six-Year Low. Why a H-1B Suspension Spells Trouble. -- Barrons.com",
+   "source": {
+    "name": "Moomoo",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.moomoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moomoo.com/news/post/1000778340/infosys-stock-drops-near-six-year-low-why-a-h",
+   "thumbnail": "https://newsfile.moomoo.com/news-thumbnail/20240724/public/17218232869954462150467-news-thumbnail/20240724/public/17218232869956511682593.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVlRkpHTkZnek1HTkhNVWRpVFJDNkF4aTJCU2dLTWdZUllKcElLZ2c",
+   "date": "10/08/2026, 04:40 PM, +0000 UTC",
+   "iso_date": "2026-10-08T16:40:01Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:10"
+}

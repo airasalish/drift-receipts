@@ -1,0 +1,1696 @@
+{
+ "search_metadata": {
+  "id": "6ac677197af899558f19ed68",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/TYmE3G5xnZFIjFcFsgUmJsQleRBufgo-rxH4_TZR8xE/6ac677197af899558f19ed68.json",
+  "markdown_endpoint": "https://serpapi.com/searches/TYmE3G5xnZFIjFcFsgUmJsQleRBufgo-rxH4_TZR8xE/6ac677197af899558f19ed68.md",
+  "created_at": "2026-10-07 16:45:13 UTC",
+  "processed_at": "2026-10-07 16:45:13 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=Y2JYI2pHNTc",
+  "raw_html_file": "https://serpapi.com/searches/TYmE3G5xnZFIjFcFsgUmJsQleRBufgo-rxH4_TZR8xE/6ac677197af899558f19ed68.html",
+  "prettify_html_file": "https://serpapi.com/searches/TYmE3G5xnZFIjFcFsgUmJsQleRBufgo-rxH4_TZR8xE/6ac677197af899558f19ed68.prettify",
+  "total_time_taken": 6.68
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "Y2JYI2pHNTc",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 640,
+   "end_ms": 2960,
+   "snippet": "Namaskar. Uh in today's video we are",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 2960,
+   "end_ms": 4720,
+   "snippet": "going to review five stocks. The first",
+   "start_time_text": "0:02",
+   "start_time_label": "0:02"
+  },
+  {
+   "start_ms": 4720,
+   "end_ms": 7520,
+   "snippet": "company that we review is PNGs Raa",
+   "start_time_text": "0:04",
+   "start_time_label": "0:04"
+  },
+  {
+   "start_ms": 7520,
+   "end_ms": 9200,
+   "snippet": "Diamond Dwellers. So as the name",
+   "start_time_text": "0:07",
+   "start_time_label": "0:07"
+  },
+  {
+   "start_ms": 9200,
+   "end_ms": 11200,
+   "snippet": "suggests this is a jewelery company.",
+   "start_time_text": "0:09",
+   "start_time_label": "0:09"
+  },
+  {
+   "start_ms": 11200,
+   "end_ms": 12960,
+   "snippet": "It's a it's a company which operates on",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 12960,
+   "end_ms": 15759,
+   "snippet": "the B2C format. Retail stores. It does",
+   "start_time_text": "0:12",
+   "start_time_label": "0:12"
+  },
+  {
+   "start_ms": 15759,
+   "end_ms": 18000,
+   "snippet": "not operate on B2B format. Contract",
+   "start_time_text": "0:15",
+   "start_time_label": "0:15"
+  },
+  {
+   "start_ms": 18000,
+   "end_ms": 20320,
+   "snippet": "manufacturer. We have discussed multiple",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 20320,
+   "end_ms": 23039,
+   "snippet": "B2B format companies on the channels. We",
+   "start_time_text": "0:20",
+   "start_time_label": "0:20"
+  },
+  {
+   "start_ms": 23039,
+   "end_ms": 25519,
+   "snippet": "have discussed wells. We had discussed",
+   "start_time_text": "0:23",
+   "start_time_label": "0:23"
+  },
+  {
+   "start_ms": 25519,
+   "end_ms": 30080,
+   "snippet": "you know shring mangalutra mass market.",
+   "start_time_text": "0:25",
+   "start_time_label": "0:25"
+  },
+  {
+   "start_ms": 30080,
+   "end_ms": 34840,
+   "snippet": "premium operating profit margins",
+   "start_time_text": "0:30",
+   "start_time_label": "0:30"
+  },
+  {
+   "start_ms": 38160,
+   "end_ms": 40800,
+   "snippet": "B2B players operating profit margin",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 40800,
+   "end_ms": 43200,
+   "snippet": "single digit",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 43200,
+   "end_ms": 46559,
+   "snippet": "B2B segment operating profit margins 25",
+   "start_time_text": "0:43",
+   "start_time_label": "0:43"
+  },
+  {
+   "start_ms": 46559,
+   "end_ms": 51039,
+   "snippet": "30% bridal jewelry premium jewelry right",
+   "start_time_text": "0:46",
+   "start_time_label": "0:46"
+  },
+  {
+   "start_ms": 51039,
+   "end_ms": 54960,
+   "snippet": "PNGs B2C format operating profit margins",
+   "start_time_text": "0:51",
+   "start_time_label": "0:51"
+  },
+  {
+   "start_ms": 54960,
+   "end_ms": 56879,
+   "snippet": "are somewhere in the range of 25 to 30%.",
+   "start_time_text": "0:54",
+   "start_time_label": "0:54"
+  },
+  {
+   "start_ms": 56879,
+   "end_ms": 58160,
+   "snippet": "So if you look at operating profit",
+   "start_time_text": "0:56",
+   "start_time_label": "0:56"
+  },
+  {
+   "start_ms": 58160,
+   "end_ms": 60480,
+   "snippet": "margins of let's say a PNG guardgill or",
+   "start_time_text": "0:58",
+   "start_time_label": "0:58"
+  },
+  {
+   "start_ms": 60480,
+   "end_ms": 62960,
+   "snippet": "for that instance a Senko or Kalan",
+   "start_time_text": "1:00",
+   "start_time_label": "1:00"
+  },
+  {
+   "start_ms": 62960,
+   "end_ms": 64879,
+   "snippet": "singledigit operating profit margins",
+   "start_time_text": "1:02",
+   "start_time_label": "1:02"
+  },
+  {
+   "start_ms": 64879,
+   "end_ms": 67600,
+   "snippet": "because these are mass market you know",
+   "start_time_text": "1:04",
+   "start_time_label": "1:04"
+  },
+  {
+   "start_ms": 67600,
+   "end_ms": 70080,
+   "snippet": "product companies right a variety of",
+   "start_time_text": "1:07",
+   "start_time_label": "1:07"
+  },
+  {
+   "start_ms": 70080,
+   "end_ms": 71760,
+   "snippet": "products that these companies sell",
+   "start_time_text": "1:10",
+   "start_time_label": "1:10"
+  },
+  {
+   "start_ms": 71760,
+   "end_ms": 73680,
+   "snippet": "jewelry variety of jewelry that these",
+   "start_time_text": "1:11",
+   "start_time_label": "1:11"
+  },
+  {
+   "start_ms": 73680,
+   "end_ms": 75840,
+   "snippet": "companies sell is company operating",
+   "start_time_text": "1:13",
+   "start_time_label": "1:13"
+  },
+  {
+   "start_ms": 75840,
+   "end_ms": 78320,
+   "snippet": "profit margins are 25 to 30% range there",
+   "start_time_text": "1:15",
+   "start_time_label": "1:15"
+  },
+  {
+   "start_ms": 78320,
+   "end_ms": 81439,
+   "snippet": "are three reasons for that one",
+   "start_time_text": "1:18",
+   "start_time_label": "1:18"
+  },
+  {
+   "start_ms": 81439,
+   "end_ms": 84159,
+   "snippet": "company sis format operate the shop and",
+   "start_time_text": "1:21",
+   "start_time_label": "1:21"
+  },
+  {
+   "start_ms": 84159,
+   "end_ms": 86799,
+   "snippet": "shop format mother company the Other",
+   "start_time_text": "1:24",
+   "start_time_label": "1:24"
+  },
+  {
+   "start_ms": 86799,
+   "end_ms": 90000,
+   "snippet": "company of PGS Reva is PNG Guardgill. So",
+   "start_time_text": "1:26",
+   "start_time_label": "1:26"
+  },
+  {
+   "start_ms": 90000,
+   "end_ms": 92159,
+   "snippet": "or PN Gardgill. So this company kind of",
+   "start_time_text": "1:30",
+   "start_time_label": "1:30"
+  },
+  {
+   "start_ms": 92159,
+   "end_ms": 95360,
+   "snippet": "operates out of the real estate of PNG",
+   "start_time_text": "1:32",
+   "start_time_label": "1:32"
+  },
+  {
+   "start_ms": 95360,
+   "end_ms": 97360,
+   "snippet": "or the shops of PNG Guardil. So it does",
+   "start_time_text": "1:35",
+   "start_time_label": "1:35"
+  },
+  {
+   "start_ms": 97360,
+   "end_ms": 99360,
+   "snippet": "not have to you know incur operating",
+   "start_time_text": "1:37",
+   "start_time_label": "1:37"
+  },
+  {
+   "start_ms": 99360,
+   "end_ms": 101200,
+   "snippet": "expenses on electricity or real estate.",
+   "start_time_text": "1:39",
+   "start_time_label": "1:39"
+  },
+  {
+   "start_ms": 101200,
+   "end_ms": 103040,
+   "snippet": "So that's why the operating profit",
+   "start_time_text": "1:41",
+   "start_time_label": "1:41"
+  },
+  {
+   "start_ms": 103040,
+   "end_ms": 104799,
+   "snippet": "margins are a bit expanded for this",
+   "start_time_text": "1:43",
+   "start_time_label": "1:43"
+  },
+  {
+   "start_ms": 104799,
+   "end_ms": 107200,
+   "snippet": "company one operating cost business. So",
+   "start_time_text": "1:44",
+   "start_time_label": "1:44"
+  },
+  {
+   "start_ms": 107200,
+   "end_ms": 108640,
+   "snippet": "it's getting into a cocoa model right",
+   "start_time_text": "1:47",
+   "start_time_label": "1:47"
+  },
+  {
+   "start_ms": 108640,
+   "end_ms": 110720,
+   "snippet": "now. It's opening like 15 stores in",
+   "start_time_text": "1:48",
+   "start_time_label": "1:48"
+  },
+  {
+   "start_ms": 110720,
+   "end_ms": 112320,
+   "snippet": "Maharashtra. So 90% of the business",
+   "start_time_text": "1:50",
+   "start_time_label": "1:50"
+  },
+  {
+   "start_ms": 112320,
+   "end_ms": 113759,
+   "snippet": "comes from Maharashtra. So it is getting",
+   "start_time_text": "1:52",
+   "start_time_label": "1:52"
+  },
+  {
+   "start_ms": 113759,
+   "end_ms": 116000,
+   "snippet": "into a Coco model. So OPM operating",
+   "start_time_text": "1:53",
+   "start_time_label": "1:53"
+  },
+  {
+   "start_ms": 116000,
+   "end_ms": 117680,
+   "snippet": "profit margin or EITA margin could",
+   "start_time_text": "1:56",
+   "start_time_label": "1:56"
+  },
+  {
+   "start_ms": 117680,
+   "end_ms": 119200,
+   "snippet": "contract over a period of time but",
+   "start_time_text": "1:57",
+   "start_time_label": "1:57"
+  },
+  {
+   "start_ms": 119200,
+   "end_ms": 121600,
+   "snippet": "currently it looks really 25 to 30%.",
+   "start_time_text": "1:59",
+   "start_time_label": "1:59"
+  },
+  {
+   "start_ms": 121600,
+   "end_ms": 123280,
+   "snippet": "Right? So this is one reason the SIS",
+   "start_time_text": "2:01",
+   "start_time_label": "2:01"
+  },
+  {
+   "start_ms": 123280,
+   "end_ms": 125439,
+   "snippet": "model not cocoa model at least so far",
+   "start_time_text": "2:03",
+   "start_time_label": "2:03"
+  },
+  {
+   "start_ms": 125439,
+   "end_ms": 128879,
+   "snippet": "right. The second thing is you know it",
+   "start_time_text": "2:05",
+   "start_time_label": "2:05"
+  },
+  {
+   "start_ms": 128879,
+   "end_ms": 131280,
+   "snippet": "it it projects itself as a very niche",
+   "start_time_text": "2:08",
+   "start_time_label": "2:08"
+  },
+  {
+   "start_ms": 131280,
+   "end_ms": 133599,
+   "snippet": "and a premium player. This is not a mass",
+   "start_time_text": "2:11",
+   "start_time_label": "2:11"
+  },
+  {
+   "start_ms": 133599,
+   "end_ms": 135280,
+   "snippet": "market player and it's not a mass market",
+   "start_time_text": "2:13",
+   "start_time_label": "2:13"
+  },
+  {
+   "start_ms": 135280,
+   "end_ms": 137200,
+   "snippet": "player because the main product over",
+   "start_time_text": "2:15",
+   "start_time_label": "2:15"
+  },
+  {
+   "start_ms": 137200,
+   "end_ms": 140000,
+   "snippet": "here is diamond. So gold is more of a",
+   "start_time_text": "2:17",
+   "start_time_label": "2:17"
+  },
+  {
+   "start_ms": 140000,
+   "end_ms": 144440,
+   "snippet": "commoditized player. gold prices",
+   "start_time_text": "2:20",
+   "start_time_label": "2:20"
+  },
+  {
+   "start_ms": 145920,
+   "end_ms": 147840,
+   "snippet": "the people are or the buyers are moving",
+   "start_time_text": "2:25",
+   "start_time_label": "2:25"
+  },
+  {
+   "start_ms": 147840,
+   "end_ms": 150560,
+   "snippet": "towards studded jewelry buyers are",
+   "start_time_text": "2:27",
+   "start_time_label": "2:27"
+  },
+  {
+   "start_ms": 150560,
+   "end_ms": 152400,
+   "snippet": "moving towards diamonds buyers are",
+   "start_time_text": "2:30",
+   "start_time_label": "2:30"
+  },
+  {
+   "start_ms": 152400,
+   "end_ms": 154879,
+   "snippet": "moving towards you know stones so you",
+   "start_time_text": "2:32",
+   "start_time_label": "2:32"
+  },
+  {
+   "start_ms": 154879,
+   "end_ms": 156480,
+   "snippet": "know there are certain tailwinds that",
+   "start_time_text": "2:34",
+   "start_time_label": "2:34"
+  },
+  {
+   "start_ms": 156480,
+   "end_ms": 158160,
+   "snippet": "this business has that's why the profit",
+   "start_time_text": "2:36",
+   "start_time_label": "2:36"
+  },
+  {
+   "start_ms": 158160,
+   "end_ms": 160480,
+   "snippet": "growth of this business around 250% the",
+   "start_time_text": "2:38",
+   "start_time_label": "2:38"
+  },
+  {
+   "start_ms": 160480,
+   "end_ms": 162319,
+   "snippet": "sales growth yearon year has been very",
+   "start_time_text": "2:40",
+   "start_time_label": "2:40"
+  },
+  {
+   "start_ms": 162319,
+   "end_ms": 164239,
+   "snippet": "strong as well so this is more of a",
+   "start_time_text": "2:42",
+   "start_time_label": "2:42"
+  },
+  {
+   "start_ms": 164239,
+   "end_ms": 166720,
+   "snippet": "niche boutique player you won't find",
+   "start_time_text": "2:44",
+   "start_time_label": "2:44"
+  },
+  {
+   "start_ms": 166720,
+   "end_ms": 169040,
+   "snippet": "this as a mass market kind of a product",
+   "start_time_text": "2:46",
+   "start_time_label": "2:46"
+  },
+  {
+   "start_ms": 169040,
+   "end_ms": 170560,
+   "snippet": "or a company so this was the second",
+   "start_time_text": "2:49",
+   "start_time_label": "2:49"
+  },
+  {
+   "start_ms": 170560,
+   "end_ms": 171519,
+   "snippet": "thing and the third thing which I",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 171519,
+   "end_ms": 173519,
+   "snippet": "covered already was it's more into",
+   "start_time_text": "2:51",
+   "start_time_label": "2:51"
+  },
+  {
+   "start_ms": 173519,
+   "end_ms": 175360,
+   "snippet": "diamond. So diamond is value added. Gold",
+   "start_time_text": "2:53",
+   "start_time_label": "2:53"
+  },
+  {
+   "start_ms": 175360,
+   "end_ms": 177040,
+   "snippet": "is not value added or the element of",
+   "start_time_text": "2:55",
+   "start_time_label": "2:55"
+  },
+  {
+   "start_ms": 177040,
+   "end_ms": 178560,
+   "snippet": "value addition is gold is very very",
+   "start_time_text": "2:57",
+   "start_time_label": "2:57"
+  },
+  {
+   "start_ms": 178560,
+   "end_ms": 181360,
+   "snippet": "limited. The bangles earrings diamond",
+   "start_time_text": "2:58",
+   "start_time_label": "2:58"
+  },
+  {
+   "start_ms": 181360,
+   "end_ms": 183280,
+   "snippet": "may there is a lot of things which one",
+   "start_time_text": "3:01",
+   "start_time_label": "3:01"
+  },
+  {
+   "start_ms": 183280,
+   "end_ms": 184640,
+   "snippet": "could do. That's why if you see the",
+   "start_time_text": "3:03",
+   "start_time_label": "3:03"
+  },
+  {
+   "start_ms": 184640,
+   "end_ms": 186319,
+   "snippet": "operating profit margins of this company",
+   "start_time_text": "3:04",
+   "start_time_label": "3:04"
+  },
+  {
+   "start_ms": 186319,
+   "end_ms": 189120,
+   "snippet": "are 25 30% operating profit margin. The",
+   "start_time_text": "3:06",
+   "start_time_label": "3:06"
+  },
+  {
+   "start_ms": 189120,
+   "end_ms": 191840,
+   "snippet": "second company is JSW infrastructure. So",
+   "start_time_text": "3:09",
+   "start_time_label": "3:09"
+  },
+  {
+   "start_ms": 191840,
+   "end_ms": 194720,
+   "snippet": "when I was analyzing the port sector I",
+   "start_time_text": "3:11",
+   "start_time_label": "3:11"
+  },
+  {
+   "start_ms": 194720,
+   "end_ms": 197040,
+   "snippet": "initially thought that Adani ports is",
+   "start_time_text": "3:14",
+   "start_time_label": "3:14"
+  },
+  {
+   "start_ms": 197040,
+   "end_ms": 198959,
+   "snippet": "one company which you know is very",
+   "start_time_text": "3:17",
+   "start_time_label": "3:17"
+  },
+  {
+   "start_ms": 198959,
+   "end_ms": 201040,
+   "snippet": "strong. This is the company of choice.",
+   "start_time_text": "3:18",
+   "start_time_label": "3:18"
+  },
+  {
+   "start_ms": 201040,
+   "end_ms": 202640,
+   "snippet": "This is the company which you know one",
+   "start_time_text": "3:21",
+   "start_time_label": "3:21"
+  },
+  {
+   "start_ms": 202640,
+   "end_ms": 204480,
+   "snippet": "could invest in. But over a period of",
+   "start_time_text": "3:22",
+   "start_time_label": "3:22"
+  },
+  {
+   "start_ms": 204480,
+   "end_ms": 206000,
+   "snippet": "time I understood that JSW",
+   "start_time_text": "3:24",
+   "start_time_label": "3:24"
+  },
+  {
+   "start_ms": 206000,
+   "end_ms": 208480,
+   "snippet": "infrastructure is better than Adani",
+   "start_time_text": "3:26",
+   "start_time_label": "3:26"
+  },
+  {
+   "start_ms": 208480,
+   "end_ms": 210879,
+   "snippet": "ports to Adani ports. There are you know",
+   "start_time_text": "3:28",
+   "start_time_label": "3:28"
+  },
+  {
+   "start_ms": 210879,
+   "end_ms": 212560,
+   "snippet": "couple of things about or four points",
+   "start_time_text": "3:30",
+   "start_time_label": "3:30"
+  },
+  {
+   "start_ms": 212560,
+   "end_ms": 214879,
+   "snippet": "which stand out about Adani port when I",
+   "start_time_text": "3:32",
+   "start_time_label": "3:32"
+  },
+  {
+   "start_ms": 214879,
+   "end_ms": 216319,
+   "snippet": "was kind of analyzing this company.",
+   "start_time_text": "3:34",
+   "start_time_label": "3:34"
+  },
+  {
+   "start_ms": 216319,
+   "end_ms": 218480,
+   "snippet": "Adani ports free cash flow positive",
+   "start_time_text": "3:36",
+   "start_time_label": "3:36"
+  },
+  {
+   "start_ms": 218480,
+   "end_ms": 221519,
+   "snippet": "company right company 380,000 market",
+   "start_time_text": "3:38",
+   "start_time_label": "3:38"
+  },
+  {
+   "start_ms": 221519,
+   "end_ms": 223280,
+   "snippet": "capitalization. Adani Portka they",
+   "start_time_text": "3:41",
+   "start_time_label": "3:41"
+  },
+  {
+   "start_ms": 223280,
+   "end_ms": 226239,
+   "snippet": "operate they have around 15 ports under",
+   "start_time_text": "3:43",
+   "start_time_label": "3:43"
+  },
+  {
+   "start_ms": 226239,
+   "end_ms": 228480,
+   "snippet": "their umbrella uh you know it's a free",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 228480,
+   "end_ms": 230319,
+   "snippet": "cash flow positive company that is one",
+   "start_time_text": "3:48",
+   "start_time_label": "3:48"
+  },
+  {
+   "start_ms": 230319,
+   "end_ms": 232560,
+   "snippet": "good thing about Adani ports the second",
+   "start_time_text": "3:50",
+   "start_time_label": "3:50"
+  },
+  {
+   "start_ms": 232560,
+   "end_ms": 234000,
+   "snippet": "thing is the operating profit margin of",
+   "start_time_text": "3:52",
+   "start_time_label": "3:52"
+  },
+  {
+   "start_ms": 234000,
+   "end_ms": 236560,
+   "snippet": "Adani ports is 60% whereas the operating",
+   "start_time_text": "3:54",
+   "start_time_label": "3:54"
+  },
+  {
+   "start_ms": 236560,
+   "end_ms": 238959,
+   "snippet": "profit margin of JSW is around 50%. So",
+   "start_time_text": "3:56",
+   "start_time_label": "3:56"
+  },
+  {
+   "start_ms": 238959,
+   "end_ms": 241519,
+   "snippet": "JSW to free cash flow positive company",
+   "start_time_text": "3:58",
+   "start_time_label": "3:58"
+  },
+  {
+   "start_ms": 241519,
+   "end_ms": 244000,
+   "snippet": "operating profit margin is 50%. The",
+   "start_time_text": "4:01",
+   "start_time_label": "4:01"
+  },
+  {
+   "start_ms": 244000,
+   "end_ms": 246640,
+   "snippet": "third thing is the capacity utilization",
+   "start_time_text": "4:04",
+   "start_time_label": "4:04"
+  },
+  {
+   "start_ms": 246640,
+   "end_ms": 250720,
+   "snippet": "of ports for Adani is around 75% whereas",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 250720,
+   "end_ms": 254400,
+   "snippet": "if you look at JSW it's I think 55 60%",
+   "start_time_text": "4:10",
+   "start_time_label": "4:10"
+  },
+  {
+   "start_ms": 254400,
+   "end_ms": 256239,
+   "snippet": "not more than 60%. So capacity",
+   "start_time_text": "4:14",
+   "start_time_label": "4:14"
+  },
+  {
+   "start_ms": 256239,
+   "end_ms": 259440,
+   "snippet": "utilization operational efficiency JSW",
+   "start_time_text": "4:16",
+   "start_time_label": "4:16"
+  },
+  {
+   "start_ms": 259440,
+   "end_ms": 262320,
+   "snippet": "say fourth and the most important thing",
+   "start_time_text": "4:19",
+   "start_time_label": "4:19"
+  },
+  {
+   "start_ms": 262320,
+   "end_ms": 265520,
+   "snippet": "Adani in spite of such huge size is",
+   "start_time_text": "4:22",
+   "start_time_label": "4:22"
+  },
+  {
+   "start_ms": 265520,
+   "end_ms": 269120,
+   "snippet": "operating at a P of 27 whereas JSW is",
+   "start_time_text": "4:25",
+   "start_time_label": "4:25"
+  },
+  {
+   "start_ms": 269120,
+   "end_ms": 271280,
+   "snippet": "operating double than that of P almost",
+   "start_time_text": "4:29",
+   "start_time_label": "4:29"
+  },
+  {
+   "start_ms": 271280,
+   "end_ms": 275120,
+   "snippet": "50 P JSW JSW",
+   "start_time_text": "4:31",
+   "start_time_label": "4:31"
+  },
+  {
+   "start_ms": 275120,
+   "end_ms": 276320,
+   "snippet": "you know that is something which I need",
+   "start_time_text": "4:35",
+   "start_time_label": "4:35"
+  },
+  {
+   "start_ms": 276320,
+   "end_ms": 279400,
+   "snippet": "to clarify",
+   "start_time_text": "4:36",
+   "start_time_label": "4:36"
+  },
+  {
+   "start_ms": 279919,
+   "end_ms": 282160,
+   "snippet": "positive then one needs to look at Adani",
+   "start_time_text": "4:39",
+   "start_time_label": "4:39"
+  },
+  {
+   "start_ms": 282160,
+   "end_ms": 283919,
+   "snippet": "port and it's a nifty50 company if I'm",
+   "start_time_text": "4:42",
+   "start_time_label": "4:42"
+  },
+  {
+   "start_ms": 283919,
+   "end_ms": 286800,
+   "snippet": "not wrong Adani ports But JSW I feel is",
+   "start_time_text": "4:43",
+   "start_time_label": "4:43"
+  },
+  {
+   "start_ms": 286800,
+   "end_ms": 289199,
+   "snippet": "a better player for three reasons right.",
+   "start_time_text": "4:46",
+   "start_time_label": "4:46"
+  },
+  {
+   "start_ms": 289199,
+   "end_ms": 292000,
+   "snippet": "First you know Adani is a very matured",
+   "start_time_text": "4:49",
+   "start_time_label": "4:49"
+  },
+  {
+   "start_ms": 292000,
+   "end_ms": 294400,
+   "snippet": "kind of a player with you know 500 mm",
+   "start_time_text": "4:52",
+   "start_time_label": "4:52"
+  },
+  {
+   "start_ms": 294400,
+   "end_ms": 296560,
+   "snippet": "capacity whereas JSW your current",
+   "start_time_text": "4:54",
+   "start_time_label": "4:54"
+  },
+  {
+   "start_ms": 296560,
+   "end_ms": 300160,
+   "snippet": "capacity 180 it wants to go to 400 by",
+   "start_time_text": "4:56",
+   "start_time_label": "4:56"
+  },
+  {
+   "start_ms": 300160,
+   "end_ms": 303520,
+   "snippet": "2030 to you know Adani Adani ports is",
+   "start_time_text": "5:00",
+   "start_time_label": "5:00"
+  },
+  {
+   "start_ms": 303520,
+   "end_ms": 306320,
+   "snippet": "more of a matured player JSW is you know",
+   "start_time_text": "5:03",
+   "start_time_label": "5:03"
+  },
+  {
+   "start_ms": 306320,
+   "end_ms": 307759,
+   "snippet": "it's kind of building it's kind of",
+   "start_time_text": "5:06",
+   "start_time_label": "5:06"
+  },
+  {
+   "start_ms": 307759,
+   "end_ms": 312120,
+   "snippet": "scaling growth scope",
+   "start_time_text": "5:07",
+   "start_time_label": "5:07"
+  },
+  {
+   "start_ms": 312639,
+   "end_ms": 316560,
+   "snippet": "second very important thing parentage",
+   "start_time_text": "5:12",
+   "start_time_label": "5:12"
+  },
+  {
+   "start_ms": 316560,
+   "end_ms": 318479,
+   "snippet": "parentage obviously strong JSW",
+   "start_time_text": "5:16",
+   "start_time_label": "5:16"
+  },
+  {
+   "start_ms": 318479,
+   "end_ms": 322000,
+   "snippet": "infrastruure parentage strong but FIS",
+   "start_time_text": "5:18",
+   "start_time_label": "5:18"
+  },
+  {
+   "start_ms": 322000,
+   "end_ms": 325199,
+   "snippet": "are more interested in JSW because of",
+   "start_time_text": "5:22",
+   "start_time_label": "5:22"
+  },
+  {
+   "start_ms": 325199,
+   "end_ms": 327600,
+   "snippet": "certain past corporate governance issues",
+   "start_time_text": "5:25",
+   "start_time_label": "5:25"
+  },
+  {
+   "start_ms": 327600,
+   "end_ms": 329919,
+   "snippet": "in Adani. So that's why you see JSW",
+   "start_time_text": "5:27",
+   "start_time_label": "5:27"
+  },
+  {
+   "start_ms": 329919,
+   "end_ms": 332160,
+   "snippet": "infrastructure may FI stakes in the last",
+   "start_time_text": "5:29",
+   "start_time_label": "5:29"
+  },
+  {
+   "start_ms": 332160,
+   "end_ms": 335759,
+   "snippet": "one quarter have almost doubled. So FIS",
+   "start_time_text": "5:32",
+   "start_time_label": "5:32"
+  },
+  {
+   "start_ms": 335759,
+   "end_ms": 338560,
+   "snippet": "obvious choice if tomorrow FYI kind of",
+   "start_time_text": "5:35",
+   "start_time_label": "5:35"
+  },
+  {
+   "start_ms": 338560,
+   "end_ms": 340400,
+   "snippet": "come back to the Indian markets they",
+   "start_time_text": "5:38",
+   "start_time_label": "5:38"
+  },
+  {
+   "start_ms": 340400,
+   "end_ms": 342880,
+   "snippet": "would choose JSW infrastructure and not",
+   "start_time_text": "5:40",
+   "start_time_label": "5:40"
+  },
+  {
+   "start_ms": 342880,
+   "end_ms": 344560,
+   "snippet": "Adani ports because of corporate",
+   "start_time_text": "5:42",
+   "start_time_label": "5:42"
+  },
+  {
+   "start_ms": 344560,
+   "end_ms": 346320,
+   "snippet": "governance issues in Adani. Right? This",
+   "start_time_text": "5:44",
+   "start_time_label": "5:44"
+  },
+  {
+   "start_ms": 346320,
+   "end_ms": 349600,
+   "snippet": "was the second thing. Third thing uh JSW",
+   "start_time_text": "5:46",
+   "start_time_label": "5:46"
+  },
+  {
+   "start_ms": 349600,
+   "end_ms": 351840,
+   "snippet": "JSW infrastructure",
+   "start_time_text": "5:49",
+   "start_time_label": "5:49"
+  },
+  {
+   "start_ms": 351840,
+   "end_ms": 353280,
+   "snippet": "what predict there is a lot of",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 353280,
+   "end_ms": 355280,
+   "snippet": "predictability in the business of JSW",
+   "start_time_text": "5:53",
+   "start_time_label": "5:53"
+  },
+  {
+   "start_ms": 355280,
+   "end_ms": 356960,
+   "snippet": "infrastructure. Right? 90% of its",
+   "start_time_text": "5:55",
+   "start_time_label": "5:55"
+  },
+  {
+   "start_ms": 356960,
+   "end_ms": 358880,
+   "snippet": "business is captive business. So you",
+   "start_time_text": "5:56",
+   "start_time_label": "5:56"
+  },
+  {
+   "start_ms": 358880,
+   "end_ms": 361440,
+   "snippet": "know whatever business that JSW group",
+   "start_time_text": "5:58",
+   "start_time_label": "5:58"
+  },
+  {
+   "start_ms": 361440,
+   "end_ms": 363600,
+   "snippet": "gives it you know for example you know",
+   "start_time_text": "6:01",
+   "start_time_label": "6:01"
+  },
+  {
+   "start_ms": 363600,
+   "end_ms": 365759,
+   "snippet": "transportation of cement iron ore you",
+   "start_time_text": "6:03",
+   "start_time_label": "6:03"
+  },
+  {
+   "start_ms": 365759,
+   "end_ms": 367600,
+   "snippet": "know whatever bulb commodities that it",
+   "start_time_text": "6:05",
+   "start_time_label": "6:05"
+  },
+  {
+   "start_ms": 367600,
+   "end_ms": 370000,
+   "snippet": "transports right 90% of the business is",
+   "start_time_text": "6:07",
+   "start_time_label": "6:07"
+  },
+  {
+   "start_ms": 370000,
+   "end_ms": 372000,
+   "snippet": "captive business wherein if you look as",
+   "start_time_text": "6:10",
+   "start_time_label": "6:10"
+  },
+  {
+   "start_ms": 372000,
+   "end_ms": 374960,
+   "snippet": "adani ports you know it is always in a",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 374960,
+   "end_ms": 377759,
+   "snippet": "constant kind of capex mode okay for",
+   "start_time_text": "6:14",
+   "start_time_label": "6:14"
+  },
+  {
+   "start_ms": 377759,
+   "end_ms": 379840,
+   "snippet": "example it's developing wins port right",
+   "start_time_text": "6:17",
+   "start_time_label": "6:17"
+  },
+  {
+   "start_ms": 379840,
+   "end_ms": 381440,
+   "snippet": "now it's doing a lot of mergers and",
+   "start_time_text": "6:19",
+   "start_time_label": "6:19"
+  },
+  {
+   "start_ms": 381440,
+   "end_ms": 383759,
+   "snippet": "acquisitions so you see a constant",
+   "start_time_text": "6:21",
+   "start_time_label": "6:21"
+  },
+  {
+   "start_ms": 383759,
+   "end_ms": 386240,
+   "snippet": "capeex happening in adani for the last 5",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386240,
+   "end_ms": 388160,
+   "snippet": "years and you know the way they are",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 388160,
+   "end_ms": 389840,
+   "snippet": "going uh there is a lot of",
+   "start_time_text": "6:28",
+   "start_time_label": "6:28"
+  },
+  {
+   "start_ms": 389840,
+   "end_ms": 391919,
+   "snippet": "predictability that I see in JSW",
+   "start_time_text": "6:29",
+   "start_time_label": "6:29"
+  },
+  {
+   "start_ms": 391919,
+   "end_ms": 394000,
+   "snippet": "infrastructure as compared to Adani",
+   "start_time_text": "6:31",
+   "start_time_label": "6:31"
+  },
+  {
+   "start_ms": 394000,
+   "end_ms": 396240,
+   "snippet": "ports that's why JSW infrastructure is a",
+   "start_time_text": "6:34",
+   "start_time_label": "6:34"
+  },
+  {
+   "start_ms": 396240,
+   "end_ms": 398160,
+   "snippet": "better company at least from my point of",
+   "start_time_text": "6:36",
+   "start_time_label": "6:36"
+  },
+  {
+   "start_ms": 398160,
+   "end_ms": 399919,
+   "snippet": "view there's another company called as",
+   "start_time_text": "6:38",
+   "start_time_label": "6:38"
+  },
+  {
+   "start_ms": 399919,
+   "end_ms": 402720,
+   "snippet": "Gujarat Pipav right to this company on",
+   "start_time_text": "6:39",
+   "start_time_label": "6:39"
+  },
+  {
+   "start_ms": 402720,
+   "end_ms": 404639,
+   "snippet": "the face of it it's a small cap even",
+   "start_time_text": "6:42",
+   "start_time_label": "6:42"
+  },
+  {
+   "start_ms": 404639,
+   "end_ms": 406800,
+   "snippet": "7,000 cr market capitalization it's",
+   "start_time_text": "6:44",
+   "start_time_label": "6:44"
+  },
+  {
+   "start_ms": 406800,
+   "end_ms": 409199,
+   "snippet": "backed by Merks which is like a global",
+   "start_time_text": "6:46",
+   "start_time_label": "6:46"
+  },
+  {
+   "start_ms": 409199,
+   "end_ms": 411840,
+   "snippet": "you know strong logistics player strong",
+   "start_time_text": "6:49",
+   "start_time_label": "6:49"
+  },
+  {
+   "start_ms": 411840,
+   "end_ms": 413919,
+   "snippet": "parentage here and you know operating",
+   "start_time_text": "6:51",
+   "start_time_label": "6:51"
+  },
+  {
+   "start_ms": 413919,
+   "end_ms": 417759,
+   "snippet": "profit margins are 61% roc is 25% so On",
+   "start_time_text": "6:53",
+   "start_time_label": "6:53"
+  },
+  {
+   "start_ms": 417759,
+   "end_ms": 420160,
+   "snippet": "the face of it, Gujarat Pipov would look",
+   "start_time_text": "6:57",
+   "start_time_label": "6:57"
+  },
+  {
+   "start_ms": 420160,
+   "end_ms": 424160,
+   "snippet": "like a very good player plus",
+   "start_time_text": "7:00",
+   "start_time_label": "7:00"
+  },
+  {
+   "start_ms": 424160,
+   "end_ms": 426800,
+   "snippet": "14. But you know, one has to be very",
+   "start_time_text": "7:04",
+   "start_time_label": "7:04"
+  },
+  {
+   "start_ms": 426800,
+   "end_ms": 429039,
+   "snippet": "careful you know when you're looking at",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 429039,
+   "end_ms": 433720,
+   "snippet": "these kind of companies because you know",
+   "start_time_text": "7:09",
+   "start_time_label": "7:09"
+  },
+  {
+   "start_ms": 433759,
+   "end_ms": 435680,
+   "snippet": "Gujarat",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 435680,
+   "end_ms": 437680,
+   "snippet": "you know there is only one port that you",
+   "start_time_text": "7:15",
+   "start_time_label": "7:15"
+  },
+  {
+   "start_ms": 437680,
+   "end_ms": 439280,
+   "snippet": "know that company has whereas you're",
+   "start_time_text": "7:17",
+   "start_time_label": "7:17"
+  },
+  {
+   "start_ms": 439280,
+   "end_ms": 440639,
+   "snippet": "talking about JS infrastructure and",
+   "start_time_text": "7:19",
+   "start_time_label": "7:19"
+  },
+  {
+   "start_ms": 440639,
+   "end_ms": 442720,
+   "snippet": "Adani ports they have multiple ports.",
+   "start_time_text": "7:20",
+   "start_time_label": "7:20"
+  },
+  {
+   "start_ms": 442720,
+   "end_ms": 444800,
+   "snippet": "Secondly that one port is very near to",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 444800,
+   "end_ms": 446400,
+   "snippet": "Mundra port which is like the biggest",
+   "start_time_text": "7:24",
+   "start_time_label": "7:24"
+  },
+  {
+   "start_ms": 446400,
+   "end_ms": 448319,
+   "snippet": "port or one of the busiest ports in",
+   "start_time_text": "7:26",
+   "start_time_label": "7:26"
+  },
+  {
+   "start_ms": 448319,
+   "end_ms": 450560,
+   "snippet": "India right to problem competition B",
+   "start_time_text": "7:28",
+   "start_time_label": "7:28"
+  },
+  {
+   "start_ms": 450560,
+   "end_ms": 453199,
+   "snippet": "strong. Third thing you know the way it",
+   "start_time_text": "7:30",
+   "start_time_label": "7:30"
+  },
+  {
+   "start_ms": 453199,
+   "end_ms": 454800,
+   "snippet": "works with ports is that the land",
+   "start_time_text": "7:33",
+   "start_time_label": "7:33"
+  },
+  {
+   "start_ms": 454800,
+   "end_ms": 456720,
+   "snippet": "belongs to the government. These people",
+   "start_time_text": "7:34",
+   "start_time_label": "7:34"
+  },
+  {
+   "start_ms": 456720,
+   "end_ms": 458720,
+   "snippet": "these port operators they build they",
+   "start_time_text": "7:36",
+   "start_time_label": "7:36"
+  },
+  {
+   "start_ms": 458720,
+   "end_ms": 460639,
+   "snippet": "maintain you know they they do all the",
+   "start_time_text": "7:38",
+   "start_time_label": "7:38"
+  },
+  {
+   "start_ms": 460639,
+   "end_ms": 462880,
+   "snippet": "operations around it. So the lease for",
+   "start_time_text": "7:40",
+   "start_time_label": "7:40"
+  },
+  {
+   "start_ms": 462880,
+   "end_ms": 466080,
+   "snippet": "that port which Gujarat people has is",
+   "start_time_text": "7:42",
+   "start_time_label": "7:42"
+  },
+  {
+   "start_ms": 466080,
+   "end_ms": 469759,
+   "snippet": "going to expire in 2028.",
+   "start_time_text": "7:46",
+   "start_time_label": "7:46"
+  },
+  {
+   "start_ms": 469759,
+   "end_ms": 471919,
+   "snippet": "But why to kind of look at companies",
+   "start_time_text": "7:49",
+   "start_time_label": "7:49"
+  },
+  {
+   "start_ms": 471919,
+   "end_ms": 474720,
+   "snippet": "which you know are very",
+   "start_time_text": "7:51",
+   "start_time_label": "7:51"
+  },
+  {
+   "start_ms": 474720,
+   "end_ms": 476960,
+   "snippet": "reinvestment business they are more than",
+   "start_time_text": "7:54",
+   "start_time_label": "7:54"
+  },
+  {
+   "start_ms": 476960,
+   "end_ms": 479599,
+   "snippet": "happy to be within that one port and you",
+   "start_time_text": "7:56",
+   "start_time_label": "7:56"
+  },
+  {
+   "start_ms": 479599,
+   "end_ms": 481280,
+   "snippet": "know kind of a matured port that they",
+   "start_time_text": "7:59",
+   "start_time_label": "7:59"
+  },
+  {
+   "start_ms": 481280,
+   "end_ms": 483120,
+   "snippet": "have. So that's why these are three kind",
+   "start_time_text": "8:01",
+   "start_time_label": "8:01"
+  },
+  {
+   "start_ms": 483120,
+   "end_ms": 484879,
+   "snippet": "of companies port companies that you",
+   "start_time_text": "8:03",
+   "start_time_label": "8:03"
+  },
+  {
+   "start_ms": 484879,
+   "end_ms": 486479,
+   "snippet": "would find port operators you would find",
+   "start_time_text": "8:04",
+   "start_time_label": "8:04"
+  },
+  {
+   "start_ms": 486479,
+   "end_ms": 488960,
+   "snippet": "and my bet is on JSW infrastructure. So",
+   "start_time_text": "8:06",
+   "start_time_label": "8:06"
+  },
+  {
+   "start_ms": 488960,
+   "end_ms": 490639,
+   "snippet": "these are not stock recommendations this",
+   "start_time_text": "8:08",
+   "start_time_label": "8:08"
+  },
+  {
+   "start_ms": 490639,
+   "end_ms": 492400,
+   "snippet": "is no buy or sell recommendation right.",
+   "start_time_text": "8:10",
+   "start_time_label": "8:10"
+  },
+  {
+   "start_ms": 492400,
+   "end_ms": 494800,
+   "snippet": "So the last company is blue dart. I",
+   "start_time_text": "8:12",
+   "start_time_label": "8:12"
+  },
+  {
+   "start_ms": 494800,
+   "end_ms": 496560,
+   "snippet": "think blue dart is going to turn around.",
+   "start_time_text": "8:14",
+   "start_time_label": "8:14"
+  },
+  {
+   "start_ms": 496560,
+   "end_ms": 499680,
+   "snippet": "This is what I feel",
+   "start_time_text": "8:16",
+   "start_time_label": "8:16"
+  },
+  {
+   "start_ms": 499680,
+   "end_ms": 502319,
+   "snippet": "with this war with you know prices going",
+   "start_time_text": "8:19",
+   "start_time_label": "8:19"
+  },
+  {
+   "start_ms": 502319,
+   "end_ms": 504240,
+   "snippet": "up. The blue dart is basically your",
+   "start_time_text": "8:22",
+   "start_time_label": "8:22"
+  },
+  {
+   "start_ms": 504240,
+   "end_ms": 506720,
+   "snippet": "value added services logistics of value",
+   "start_time_text": "8:24",
+   "start_time_label": "8:24"
+  },
+  {
+   "start_ms": 506720,
+   "end_ms": 508800,
+   "snippet": "added services right to for example if I",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508800,
+   "end_ms": 512479,
+   "snippet": "have to send something which is very",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 512479,
+   "end_ms": 514000,
+   "snippet": "if I have to send it let's say from Pune",
+   "start_time_text": "8:32",
+   "start_time_label": "8:32"
+  },
+  {
+   "start_ms": 514000,
+   "end_ms": 516080,
+   "snippet": "to Kolkata or Pune to Delhi I would",
+   "start_time_text": "8:34",
+   "start_time_label": "8:34"
+  },
+  {
+   "start_ms": 516080,
+   "end_ms": 518479,
+   "snippet": "rather choose you know blue dot than any",
+   "start_time_text": "8:36",
+   "start_time_label": "8:36"
+  },
+  {
+   "start_ms": 518479,
+   "end_ms": 520320,
+   "snippet": "other logistics company and you know",
+   "start_time_text": "8:38",
+   "start_time_label": "8:38"
+  },
+  {
+   "start_ms": 520320,
+   "end_ms": 522399,
+   "snippet": "obviously blue dot has pricing power",
+   "start_time_text": "8:40",
+   "start_time_label": "8:40"
+  },
+  {
+   "start_ms": 522399,
+   "end_ms": 524480,
+   "snippet": "right. So if you look at the important",
+   "start_time_text": "8:42",
+   "start_time_label": "8:42"
+  },
+  {
+   "start_ms": 524480,
+   "end_ms": 526480,
+   "snippet": "metrics retail penetration, number of",
+   "start_time_text": "8:44",
+   "start_time_label": "8:44"
+  },
+  {
+   "start_ms": 526480,
+   "end_ms": 528800,
+   "snippet": "employees, shipment, warehouses,",
+   "start_time_text": "8:46",
+   "start_time_label": "8:46"
+  },
+  {
+   "start_ms": 528800,
+   "end_ms": 531519,
+   "snippet": "tonnages, they all have increased in the",
+   "start_time_text": "8:48",
+   "start_time_label": "8:48"
+  },
+  {
+   "start_ms": 531519,
+   "end_ms": 534080,
+   "snippet": "last one year plus after such a",
+   "start_time_text": "8:51",
+   "start_time_label": "8:51"
+  },
+  {
+   "start_ms": 534080,
+   "end_ms": 536320,
+   "snippet": "difficult time this company after this",
+   "start_time_text": "8:54",
+   "start_time_label": "8:54"
+  },
+  {
+   "start_ms": 536320,
+   "end_ms": 538240,
+   "snippet": "war due to which the you know fuel",
+   "start_time_text": "8:56",
+   "start_time_label": "8:56"
+  },
+  {
+   "start_ms": 538240,
+   "end_ms": 542000,
+   "snippet": "prices went up you flight transportation",
+   "start_time_text": "8:58",
+   "start_time_label": "8:58"
+  },
+  {
+   "start_ms": 542000,
+   "end_ms": 544000,
+   "snippet": "this company has given a pat of 80%",
+   "start_time_text": "9:02",
+   "start_time_label": "9:02"
+  },
+  {
+   "start_ms": 544000,
+   "end_ms": 545600,
+   "snippet": "yearon year. So I think this company is",
+   "start_time_text": "9:04",
+   "start_time_label": "9:04"
+  },
+  {
+   "start_ms": 545600,
+   "end_ms": 548880,
+   "snippet": "going to bottom out B2B share is 75% B2C",
+   "start_time_text": "9:05",
+   "start_time_label": "9:05"
+  },
+  {
+   "start_ms": 548880,
+   "end_ms": 552080,
+   "snippet": "is 25 B2C strong pricing power here. So",
+   "start_time_text": "9:08",
+   "start_time_label": "9:08"
+  },
+  {
+   "start_ms": 552080,
+   "end_ms": 554080,
+   "snippet": "if B2C kind of goes up but I think this",
+   "start_time_text": "9:12",
+   "start_time_label": "9:12"
+  },
+  {
+   "start_ms": 554080,
+   "end_ms": 556480,
+   "snippet": "is this company could turn around",
+   "start_time_text": "9:14",
+   "start_time_label": "9:14"
+  },
+  {
+   "start_ms": 556480,
+   "end_ms": 558000,
+   "snippet": "company this is something which one",
+   "start_time_text": "9:16",
+   "start_time_label": "9:16"
+  },
+  {
+   "start_ms": 558000,
+   "end_ms": 559519,
+   "snippet": "could look at right blue dot thank you",
+   "start_time_text": "9:18",
+   "start_time_label": "9:18"
+  },
+  {
+   "start_ms": 559519,
+   "end_ms": 560560,
+   "snippet": "very much for your time take care",
+   "start_time_text": "9:19",
+   "start_time_label": "9:19"
+  },
+  {
+   "start_ms": 560560,
+   "end_ms": 562720,
+   "snippet": "bye-bye.",
+   "start_time_text": "9:20",
+   "start_time_label": "9:20"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "en",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=Y2JYI2pHNTc"
+  }
+ ],
+ "_fetched_at": "2026-10-07T16:45:19"
+}

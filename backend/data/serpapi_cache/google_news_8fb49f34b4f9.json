@@ -1,0 +1,1522 @@
+{
+ "search_metadata": {
+  "id": "6ac7bebe475266c036d598c9",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/sGx5lCAtKQkcnNm95PUxP7dQV3vN72Tah1r3f8ItnW8/6ac7bebe475266c036d598c9.json",
+  "markdown_endpoint": "https://serpapi.com/searches/sGx5lCAtKQkcnNm95PUxP7dQV3vN72Tah1r3f8ItnW8/6ac7bebe475266c036d598c9.md",
+  "created_at": "2026-10-08 16:03:10 UTC",
+  "processed_at": "2026-10-08 16:03:10 UTC",
+  "google_news_url": "https://news.google.com/search?q=%22Avadhut+Sathe%22+SEBI&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/sGx5lCAtKQkcnNm95PUxP7dQV3vN72Tah1r3f8ItnW8/6ac7bebe475266c036d598c9.html",
+  "total_time_taken": 7.75
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Avadhut Sathe\" SEBI"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "SAT grants partial relief to Avadhut Sathe, orders ₹100 crore deposit",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/sat-grants-partial-relief-to-avadhut-sathe-orders-100-crore-deposit/article70539774.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/rxdbz2/article70539773.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-05%20083544.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTSFpKTVVWS1RXNDBhMUZoVFJDZkF4ampCU2dLTWdhdE5Zek9vUWc",
+   "date": "01/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-23T08:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Supreme Court Allows Avadhut Sathe Trading Academy To Withdraw ₹2.25 Crore Monthly For Operational...",
+   "source": {
+    "name": "LiveLawBiz",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelawbiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livelawbiz.com/top-stories/supreme-court-allows-avadhut-sathe-trading-academy-to-withdraw-225-crore-monthly-declines-to-interfere-with-sat-order-526529",
+   "thumbnail": "https://www.livelawbiz.com/h-upload/2026/03/16/661806-whatsapp-image-2026-03-16-at-084839.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFjelZmUzI1b1luWnZSbVZRVFJERUF4aW1CU2dLTWdZRk1KNlZuQWs",
+   "date": "03/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-16T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Avadhut Sathe case: SEBI sought Rs 546 crore but SAT ordered to deposit Rs 100 crore. How SAT arrived at...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/avadhut-sathe-case-sebi-sought-rs-546-crore-but-sat-ordered-to-deposit-rs-100-crore-how-sat-arrived-at-the-rs-100-crore-figure-13786695.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822113207_Avadhut-Sathe-1.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTeTB0UkZOQk5IWnNXREY2VFJERUFSamVBaWdLTWdhaE5vanNuUWs",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "India plays ‘whack-a-mole’ with online financial influencers",
+   "source": {
+    "name": "Financial Times",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ft.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chris Kay",
+     "Krishn Kaushik",
+     "Andres Schipani"
+    ]
+   },
+   "link": "https://www.ft.com/content/79ef658b-e5df-48cf-9e0a-f520dfed8836?syn-25a6b1a6=1",
+   "thumbnail": "https://images.ft.com/v3/image/raw/ftcms%3A1f253380-71ac-4b94-a100-f838180c9420?source=next-article&fit=scale-down&quality=highest&width=1440&dpr=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZRbk5mYkROd1NYaHhZbE5aVFJDZkF4ampCU2dLTWdhQlE1S1BMUWM",
+   "date": "06/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-21T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "SAT upholds Sebi case against Avadhut Sathe, but cuts deposit to ₹100 crore",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/news/sat-avadhut-sathe-sebi-stock-markets-probe-investor-education-11769094466435.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/01/22/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101_1769099926153.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJibU5qYVUxNFgwMXdjSGhIVFJDZkF4ampCU2dLTWdrQkFJNVpBRzE3aVFJ",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Avadhut Sathe gets SAT reprieve, gets to access funds for basic expenses",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Benn Kochuveedan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Dec/19/avadhut-sathe-gets-sat-reprieve-gets-to-access-funds-for-basic-expenses",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-12-05/t5l0spfk/202512053597201.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNaMFpLYkcwNWEwZGhXRGhXVFJDZkF4ampCU2dLTWdhaE5vcnNuUWs",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Securities Appellate Tribunal Grants Partial Relief to Avadhut Sathe in SEBI Case, Orders ₹100 Crore Deposit",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/securities-appellate-tribunal-grants-partial-relief-to-avadhut-sathe-in-sebi-case-orders-100-crore-deposit/79453.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/Large_avdhutsathe_new.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUVk10TFdZMFdsb3lhVTlVVFJDZUF4amxCU2dLTWdZSkVaNnVrUW8",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Avadhut Sathe Trading Academy approaches SAT against Sebi order",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushboo Tiwari"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/avadhut-sathe-trading-academy-approaches-sat-against-sebi-order-125121801144_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/16/full/1760634714-7019.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdOR0Z5WkdGTVVrd3pSWGRWVFJEQ0F4aXFCU2dLTWdheGc0eHd0UVk",
+   "date": "12/18/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-18T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "SAT grants partial relief to Avadhut Sathe Training Academy, orders Rs 100 crore deposit; refuses to stay",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sat-directs-avadhut-sathe-training-academy-to-deposit-rs-100-crore/articleshow/127162589.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-127162814,width-1200,height-900,resizemode-4,imgsize-18406/sat-directs-avadhut-sathe-training-academy-to-deposit-rs-100-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTRGgxZWtSaFlrWkRVbVJFVFJEZ0F4aUFCU2dLTWdhaE5vanNuUWs",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Markets Ban On Finfluencer, Watchdog Flags Rs 546 Crore \"Unlawful Gain\"",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/india-news/finfluencer-avadhut-sathe-sebi-markets-ban-over-unregistered-stock-tips-charges-9757209",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/racrhsbc_avadhut-sathe_625x300_05_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXVTVaZWs1TlRUQXpSbU5OVFJDeUF4akNCU2dLTWdiQmNwUVVxUWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Who is Avadhut Sathe, Pune finfluencer whose trading academy got banned by Sebi",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonu Vivek"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/story/who-is-avadhut-sathe-pune-finfluencer-sebi-ban-stock-market-trading-academy-2831077-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/avadhut-sathe-050326651-16x9_0.png?VersionId=.KsIsgEW14mK3uKf8Jbs3KG_4gFVD7QN&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJOSE13ZEZBNGRHNU5Namt6VFJDZkF4ampCU2dLTWdZbGhvcnN0UVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Avadhut Sathe & his academy of ‘illusions’—ex-engineer made crores as market ‘guru’, then SEBI struck",
+   "source": {
+    "name": "ThePrint",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://theprint.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Manasi Phadke"
+    ]
+   },
+   "link": "https://theprint.in/economy/avadhut-sathe-his-academy-of-illusions-ex-engineer-made-crores-as-market-guru-then-sebi-struck/2800399/",
+   "thumbnail": "https://staticprintenglish.theprint.in/wp-content/uploads/2025/12/China-Russia-continue-to-target-Canada-Canadian-intelligence-agency-Read-more-At-httpswww.aninews.innewsworldotherschina-russia-continue-to-target-canada-canadian-intelligence-agency2025111411324-15-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVNVmxTVTNsNFNFSnpUSGh0VFJDZkF4ampCU2dLTWdaUk1KNTRtQWs",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "SEBI bars financial advisor Avadhut Sathe from securities market; orders impounding of ₹546 crore",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/sebi-bars-financial-advisor-avadhut-sathe-from-securities-market-orders-impounding-of-546-crore/article70359178.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/tur3p8/article70360354.ece/alternates/LANDSCAPE_1200/Screenshot%202025-12-05%20083544.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTSFpKTVVWS1RXNDBhMUZoVFJDZkF4ampCU2dLTWdhdE5Zek9vUWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "SAT directs trading guru Avadhut Sathe to deposit Rs 100 crore in case against SEBI",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sat-directs-trading-guru-avadhut-sathe-to-deposit-rs-100-crore-in-case-against-sebi-13785467.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826081200_avadhut-satha.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OVFUwZUc1VFdWbHFWbU01VFJDZkF4ampCU2dLTWdZaEpvcnRtUWs",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "SAT asks trade advisor Avadhut Sathe to deposit Rs 100-cr",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Benn Kochuveedan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2026/Jan/22/sat-asks-trade-advisor-avadhut-sathe-to-deposit-rs-100-cr",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-08-22/3s4wxogq/A-Pathfinder-1.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlVmh3TVY5M05IZGtTaTFIVFJDMkF4aTdCU2dLTWdZcGRaQ3VxUWM",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "₹600 cr Teaching Trading, ₹6 cr Lost Doing It: The Curious Case of Avadhut Sathe",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/business-news/600-cr-teaching-trading-6-cr-lost-doing-it-the-curious-case-of-avadhut-sathe-9765578",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/racrhsbc_avadhut-sathe_625x300_05_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXVTVaZWs1TlRUQXpSbU5OVFJDeUF4akNCU2dLTWdiQmNwUVVxUWM",
+   "date": "12/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-07T08:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "SAT permits finfluencer Avadhut Sathe to operate trading academy; sets January 9 as next date of hearing",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/avadhut-sathe-gets-sat-breather/article70415561.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "SAT reserves order in Avadhut Sathe appeal against SEBI interim order",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sat-reserves-order-in-avdhut-sathe-appeal-against-sebi-interim-order-13779635.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822113207_Avadhut-Sathe-1.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTeTB0UkZOQk5IWnNXREY2VFJERUFSamVBaWdLTWdhaE5vanNuUWs",
+   "date": "01/19/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-19T08:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Who is Avadhut Sathe? All about the finfluencer against whom SEBI ordered impounding of Rs 546 crore",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/who-is-avadhut-sathe-all-about-the-finfluencer-against-whom-sebi-ordered-impounding-of-rs-546-crore-13712301.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822111437_Avadhut-Sathe.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkMUpmWDNvMVZYWktSRE5RVFJERUFSamVBaWdLTWdhTlVwekdJZ2s",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "SAT rejects Avadhut Sathe’s application to withdraw funds to challenge the tribunal's order",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sat-rejects-avadhut-sathe-s-application-to-withdraw-funds-to-challenge-the-tribunal-s-order-13833210.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822113207_Avadhut-Sathe-1.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTeTB0UkZOQk5IWnNXREY2VFJERUFSamVBaWdLTWdhaE5vanNuUWs",
+   "date": "02/18/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-18T08:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "SAT directs Avadhut Sathe Trading Academy to deposit ₹100 crore",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushboo Tiwari"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sat-directs-avadhut-sathe-trading-academy-to-deposit-100-crore-126012201233_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-01/29/full/1738165050-7717.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhNMlF0WkRGeFdFeGhWMnBOVFJERUF4aW5CU2dLTWdhSk1veFRJUWc",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Sebi cracks down on Avadhut Sathe Trading Academy; orders disgorgement of Rs 546 crore ‘unlawful gains’",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dipak Mondal"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Dec/05/sebi-cracks-down-on-avadhut-sathe-trading-academy-orders-disgorgement-of-rs-546-crore-unlawful-gains",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-08-22/3s4wxogq/A-Pathfinder-1.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlVmh3TVY5M05IZGtTaTFIVFJDMkF4aTdCU2dLTWdZcGRaQ3VxUWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "SAT grants interim relief to Avadhut Sathe, allows trading academy to resume operations",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sat-grants-interim-relief-to-avadhut-sathe-allows-trading-academy-to-resume-operations-11766143364647.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/19/1600x900/logo/INDIA-SEBI-ROYALTY-0_1739268064670_1766145680886.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNV1F0VlZGTlRreGhZME55VFJDZkF4ampCU2dLTWdZbEFLcFpnQTA",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "SEBI Cracks Down On Finfluencer Avadhut Sathe, Impounds ₹546 Crore For Providing Unregistered Investment...",
+   "source": {
+    "name": "Live Law",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelaw.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livelaw.in/corporate-law/sebi-cracks-down-on-finfluencer-avadhut-sathe-impounds-546-crore-for-providing-unregistered-investment-advice-312335",
+   "thumbnail": "https://www.livelaw.in/h-upload/2025/12/05/1500x900_634798-finfluencer-avadhut-sathesebi.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFYMFF4WWtkT1RUZFVkRVkyVFJDdEF4akxCU2dLTWdaUlFZSzNJQWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Avadhut Sathe Academy to challenge Sebi order, denies allegations",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/markets-regulation-avadhut-sathe-says-will-challenge-sebi-order-125120500955_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/28/full/1761657971-8034.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJYelpWY1d3MlpYaDRjRkF3VFJERUF4aW5CU2dLTWdNQlF3NA",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "From Sarthak Ahuja to Avadhut Sathe: Why regulators are cracking down on finfluencers",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/amp/trending/from-sarthak-ahuja-to-avadhut-sathe-why-regulators-are-cracking-down-on-finfluencers-95657.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-20T123546.874-2026-04-36490da9960d6f310b4d4ed1614bdd8e-1019x573.png?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHphRFF4WlZkSGRtWkdWRE51VFJEOEFoaWpCU2dLTWdzQklJWWlWMk1XS1VxdXNR",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Sebi to seize Rs 546cr in biggest order against a ‘finfluencer’",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-to-seize-rs-546cr-in-biggest-order-against-a-finfluencer/articleshow/125777854.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-125777873,width-1280,height-720,resizemode-4/125777873.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlakJWTVZkQldrcHlRekJSVFJDZkF4ampCU2dLTWdhcGRZanRNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "₹546.17 Crore Impounded as SEBI Bans Avadhut Sathe, Wife and Academy for Running Unregistered Advisory Network",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/54617-crore-impounded-as-sebi-bans-avadhut-sathe-wife-and-academy-for-running-unregistered-advisory-network/79036.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/large_avdhutsathe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZWbXhWV0VSaGFGSjRiREYyVFJDZUF4amxCU2dLTWdhQlVKVE1IUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "'Finfluencer' in fix: Why did Sebi impound ₹546 crore ‘earned’ by stock market trainer Avadhut Sathe?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vimal Chander Joshi"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/sebi-crackdown-why-did-market-regulator-impound-rs-546-crore-earned-by-unregistered-investment-advisor-avadhut-sathe-11764936969656.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/mutual_fund_5_1764938628133_1764938633487.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHhUVGgwUWtNd2NXY3hhRmQxVFJDZkF4ampCU2dLTWdzQkFJWWhweVltQUFtUlRB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "SAT lifts ban on Avadhut Sathe Trading Academy",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Suresh Iyengar"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/sat-lifts-ban-on-avadhut-sathe-trading-academy/article70415405.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/9c26ex/article70415975.ece/alternates/LANDSCAPE_1200/BL13_Think_deposit_insurance_2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9ZV3czVFVGS2MwTTRSa2RPVFJDZkF4ampCU2dLTWdraFFvaE92YVI3S1FJ",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "SEBI bans fin influencer Avadhut Sathe, firm from securities market; orders Rs 546 cr disgorgement",
+   "source": {
+    "name": "ETLegalWorld.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://legal.economictimes.indiatimes.com/news/regulators/sebi-issues-ban-on-financial-influencer-avadhut-sathe-for-failing-to-register-as-investment-advisor-and-commands-rs-546-crore-disgorgement/125780551",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-125780551,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlUVFJoTnpCMVdpMXpiVEpqVFJDZkF4ampCU2dLTWdZTllZeTNvQWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "SAT to hear Avadhut Sathe appeal against Sebi's interim order on Jan 9",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushboo Tiwari"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sat-hearing-jan-9-2026-asta-appeal-sebi-order-impounding-546-crore-125121900509_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/22/full/1755856175-9744.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJUWEZYVVMxRWJFSlpZM2syVFJDckF4ak9CU2dLTWdZaE41b3JIZ2s",
+   "date": "01/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-09T08:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Over half of finfluencer Avadhut Sathe academy's monthly expenses go to ads, seminar",
+   "source": {
+    "name": "VCCircle",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.vccircle.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asha Menon"
+    ]
+   },
+   "link": "https://www.vccircle.com/overhalf-of-under-scanner-finfluencer-sathe-s-academy-monthly-expenses-go-to-ads-seminar",
+   "thumbnail": "https://assets.vccircle.com/uploads/2017/01/tax.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNSEZxUzBwdVgxUXdVRkF6VFJDckF4aUFCU2dLTWdZTkVKU29wUWM",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Who is Avadhut Sathe? The techie trading guru, and why Sebi’s Rs 500 crore recovery order is a wake-up cal",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/news/new-updates/who-is-avadhut-sathe-the-techie-trading-guru-and-why-sebis-rs-500-crore-recovery-order-is-a-wake-up-call-for-investors-and-finfluencers/articleshow/125780062.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-125780132,width-1200,height-900,resizemode-4,imgsize-55350/avadhut-sathe-news.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlOMEp2Y0haSmEwTklOMDFVVFJEZ0F4aUFCU2dLTWdhTlVacUhJZ2s",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Avadhut Sathe Moves SAT Against Sebi Order",
+   "source": {
+    "name": "Rediff",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rediff.com/news/commentary/2025/dec/19/avadhut-sathe-moves-sat-against-sebi-order/c19235a672104a31d504a65ab3824793",
+   "thumbnail": "https://im.rediff.com/news/2025/aug/27avdhur.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWbEJTTldST1RHdEtZbkZoVFJEUUF4aVZCU2dLTWdZUlNJaUhIZ2s",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Avadhut Sathe challenges SEBI interim order before SAT, Tribunal allows funds for basic expenses of...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/avadhut-sathe-challenges-sebi-interim-order-before-sat-tribunal-allows-funds-for-basic-expenses-of-academy-for-one-month-13733704.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826081200_avadhut-satha.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OVFUwZUc1VFdWbHFWbU01VFJDZkF4ampCU2dLTWdZaEpvcnRtUWs",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "SEBI directs impounding Rs 601 crore from Avadhut Sathe in interim order",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sebi-issues-ex-parte-interim-order-cum-showcause-notice-against-avadhut-sathe-trading-academy-founder-and-director-13711333.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251031065616_SEBI2.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdkazFwZUMxQ1dXaGxNVkZuVFJDZkF4ampCU2dLTWdZTlk0NkpQUVk",
+   "date": "12/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-04T08:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Sebi pulls plug on Avadhut Sathe's trading academy operations",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sebi-pulls-plug-on-avadhut-sathes-trading-academy-operations/articleshow/125778124.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-125778120,width-1200,height-900,resizemode-4,imgsize-33724/avadhut-sathe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhRE51T0hCSGJGQk1Wa3BmVFJEZ0F4aUFCU2dLTWdhcGRZanRNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Who is Avadhut Sathe? SEBI bans dancing 'finfluencer' from securities market in Rs 546 crore case",
+   "source": {
+    "name": "The Week",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theweek.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.theweek.in/news/biz-tech/2025/12/05/who-is-avadhut-sathe-sebi-bans-dancing-finfluencer-from-securities-market-in-rs-546-crore-case.html",
+   "thumbnail": "https://img.theweek.in/content/dam/week/week/news/biz-tech/images/2025/12/5/avadhut-sathe-sebi-case.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJaazlYWDNSb05WaFFWRFpuVFJDZkF4ampCU2dLTWdhSllwakdKZ2c",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Who is Avadhut Sathe, ‘finfluencer’ banned and fined ₹546 crore by SEBI? 5 facts | India News",
+   "source": {
+    "name": "Hindustan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.hindustantimes.com/india-news/who-is-avadhut-sathe-finfluencer-banned-and-fined-rs-546-crore-by-sebi-5-facts-101764907663574.html",
+   "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/12/05/1600x900/logo/1517657171763_1764909998120_1764910004993.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiR1ZFY0ZvdGEwOWhhRzFmVFJDZUF4amxCU2dLTWdhaE5ZTHNwUU0",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Sebi refutes finfluencer Avadhut Sathe’s defence, flags misuse of live trading rooms",
+   "source": {
+    "name": "Storyboard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/how-it-works/sebi-refutes-finfluencer-avadhut-sathes-defence-flags-misuse-of-live-trading-rooms-85524.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2025/08/Avadhut-Sathe-2025-08-90235c57b399a75fc1991909ba8f04cd-1019x573.jpg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdVR3hCWTFsR1dUTjRMVGQ2VFJEOEFoaWpCU2dLTWdB",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Avadhut Sathe, academy get temporary SAT relief to start operations, access funds",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/avadhut-sathe-academy-get-temporary-sat-relief-to-start-operations-access-funds/articleshow/126080076.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-126080067,width-1200,height-900,resizemode-4,imgsize-33724/avadhut-sathe-academy-get-temporary-sat-relief-to-start-operations-access-funds.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhRE51T0hCSGJGQk1Wa3BmVFJEZ0F4aUFCU2dLTWdhcGRZanRNUVU",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Sebi impounds Rs 546 crore from Avadhut Sathe; bars the finfluencer from securities market amid crackdown",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "George Mathew"
+    ]
+   },
+   "link": "https://indianexpress.com/article/business/sebi-avadhut-sathe-finfluencer-securities-market-10404669/",
+   "thumbnail": "https://images.indianexpress.com/2025/12/Avadhut-Sathe-website.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjbGswVjJFNFRrdEdRMVZ6VFJDZkF4ampCU2dLTWdhaE5vcnNuUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "'Victim of regulatory vacuum': What Avadhut Sathe Trading Academy says on SEBI interim order",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/victim-of-regulatory-vacuum-what-avadhut-sathe-trading-academy-says-on-sebi-interim-order-505287-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202512/6932a76870270-the-institute--run-by-avadhut-sathe--said-it-did-not-issue-stock-analysis-or-recommendations--invest-053530391-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtNSGd3YlZaMlZubEZWMUpTVFJDZkF4ampCU2dLTWdB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Avadhut Sathe moves SAT again, seeks release of funds to challenge order in Supreme Court, order reserved",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/avdhut-sathe-moves-sat-again-seeks-release-of-funds-to-challenge-order-in-supreme-court-order-reserved-13825489.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822113207_Avadhut-Sathe-1.jpg?impolicy=website&width=350&height=196",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTeTB0UkZOQk5IWnNXREY2VFJERUFSamVBaWdLTWdhaE5vanNuUWs",
+   "date": "02/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-12T08:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "SAT allows partial relief to Avdhut Sathe, posts matter for Jan 9",
+   "source": {
+    "name": "Economic Times Legal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://legal.economictimes.indiatimes.com/news/regulators/sat-allows-partial-relief-to-avdhut-sathe-posts-matter-for-jan-9/126082090",
+   "thumbnail": "https://etimg.etb2bimg.com/photo/126082115.cms",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVkVlZCZVRSd1EzQnRjbUpDVFJDMkF4aTlCU2dLTWdB",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Sebi order against Avadhut Sathe: What was the wrongdoing and what the order means",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sebi-order-against-avadhut-sathe-what-was-the-wrongdoing-and-what-the-order-means/articleshow/125785397.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-125785383,width-1200,height-900,resizemode-4,imgsize-1191591/sebi-order-against-avadhut-sathe-what-was-the-wrongdoing-and-what-the-order-means.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNVM0ZtTTFGRk1uZGtUM3BGVFJEZ0F4aUFCU2dLTWdZaFpaTE5LUWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Sebi bans finfluencer Avadhut Sathe, freezes Rs 546 crore in major crackdown",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonu Vivek"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/market/story/sebi-ban-finfluencer-avadhut-sathe-stock-market-biggest-crackdown-impounds-rs-546-crore-2831051-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/sebi-action-on-finfluencers-051936921-16x9_0.png?VersionId=RHfyhIEPfKW_vG.HAEQXEW0O.CyC7rH7&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBSVWhRZGxkMFJqQk9NemxhVFJDZkF4ampCU2dLTWdaSlVwVDFvQWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Inside SEBI's crackdown on Avadhut Sathe and his popular training academy",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Saproo"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/inside-sebi-s-tough-action-against-avadhut-sathe-and-his-popular-training-academy-13713323.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251107100554_sebirtr1.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVMWhTVmxoMVlpMHpZMHB1VFJDZkF4ampCU2dLTWdZRlVJb0VJd2s",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Sarthak Ahuja to Avadhut Sathe: Why authorities are tightening rules on finance influencers",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/photos/brand-makers/finfluencers-sarthak-ahuja-to-avadhut-sathe-why-authorities-are-tightening-rules-on-finance-influencers-95686.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/04/Vis-2026-04-20T123546.874-2026-04-36490da9960d6f310b4d4ed1614bdd8e-1019x573.png?impolicy=website&width=1200&height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWlNemMxY1Vvd2EzbG5VRUU0VFJDZkF4ampCU2dLTWdB",
+   "date": "04/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-20T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Avadhut Sathe SEBI order: What stock traders need to know",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/avadhut-sathe-sebi-order-what-stock-traders-need-to-know-505149-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202512/693243d0f3020-sebi-said-stock-analysis-using-live-market-data-during-the-courses-were-provided-by-avadhut-sathe-hi-053035327-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZaRXRMYlRKQ2JrZG5SR2RNVFJDZkF4ampCU2dLTWdZbFpvRHNMUVk",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Who is Avadhut Sathe, finfluencer banned by Sebi for unregistered advisory?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/avadhut-sathe-finfluencer-sebi-ban-disgorgement-unregistered-advisory-125120500178_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-12/05/full/1764908271-7038.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpSekJNUVZsWVVuVnhjRlpHVFJDSEF4aVBCaWdLTWdZbGRvYnNNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Sebi ends market data ambiguity with uniform 30-day lag for educators",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-market-data-30-day-lag-investor-education-regulatory-clarity-11778244697776.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/08/1600x900/logo/INDIA-SEBI-TRADING-0_1775206410594_1775206422633_1778247686012.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpVVzFaVkY4NVJsWnNjMUpYVFJDZkF4ampCU2dLTWdZMUFJUlpnQTA",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Sebi Bars Finfluencer Avadhut Sathe From Stock Market, Impounds Over Rs 546 Crore",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/news/sebi-bars-finfluencer-avadhut-sathe-from-stock-market-impounds-over-rs-546-crore",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2025-12-05/8vpvmb7i/Avadhut-Sathe-news.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTVmgxZFdoaU1rOXdYMGhXVFJDZkF4ampCU2dLTWdZUlU1QXpJUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Avadhut Sathe case: Sebi Chair rejects finfluencer’s 'regulatory vacuum' claim",
+   "source": {
+    "name": "Exchange4Media",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.exchange4media.com/digital-news/avadhut-sathe-case-sebi-chair-rejects-finfluencers-regulatory-vacuum-claim-150041.html",
+   "thumbnail": "https://exchange4media.gumlet.io/news-photo/150041-AvadhutSathecase.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMmcyYW1aaVJuaDZZV3QwVFJDTEF4amFCU2dLTWdhdFJaTE9vUWc",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Why Sebi banned Avadhut Sathe and froze ₹546 crore in a major finfluencer crackdown",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/business-news/why-sebi-banned-avadhut-sathe-and-froze-546-crore-in-a-major-finfluencer-crackdown/128581",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2025-12-06/8cde89uc/avv.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1kRmR5ZGpNM1gwZDNhbWh1VFJDZkF4ampCU2dLTWdZVlNKWm9vZ2c",
+   "date": "12/06/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-06T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "SC dismisses Avadhut Sathe Trading Academy plea but allows Rs 2.25-crore withdrawal for expenses",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/sc-dismisses-avadhut-sathe-trading-academy-plea-but-allows-rs-2-25-crore-withdrawal-for-expenses-13867685.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826081200_avadhut-satha.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OVFUwZUc1VFdWbHFWbU01VFJDZkF4ampCU2dLTWdZaEpvcnRtUWs",
+   "date": "03/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-23T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Sebi bans Avadhut Sathe and academy; orders Rs 546 crore disgorgement",
+   "source": {
+    "name": "Buzzincontent",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.buzzincontent.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.buzzincontent.com/news/sebi-bans-avadhut-sathe-and-academy-orders-rs-546-crore-disgorgement-10883165",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/1200x675/filters:format(webp)/buzzincontent-1/media/media_files/2025/12/05/sebi-bans-avadhut-sathe-2025-12-05-15-46-04.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFNV0pGTlRWeFZEQldUSEJqVFJDZkF4ampCU2dLTWdB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Sebi bans influencer Avadhut Sathe from stock market and orders return of Rs 601 crore",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sebi-bans-influencer-avadhut-sathe-from-stock-market-and-orders-return-of-rs-601-crore/articleshow/125778677.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-125778682,width-1200,height-900,resizemode-4,imgsize-48438/sebi-bans-finfluencer-avadhut-sathe-from-stock-market-and-orders-return-of-rs-601-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNWVmxRVm5sQ1lsbHNWa3BJVFJEZ0F4aUFCU2dLTWdiRlFaajFuQWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Sebi impounds ₹546 cr, bars Avadhut Sathe academy for alleged violations",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/sebi-impounds-rs546-cr-bars-avadhut-sathe-academy-unregistered-advice-125120401454_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/28/full/1761657971-8034.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJYelpWY1d3MlpYaDRjRkF3VFJERUF4aW5CU2dLTWdNQlF3NA",
+   "date": "12/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-04T08:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Victim of regulatory vacuum: Avadhut Sathe Training Academy denies Sebi allegations",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/business/story/avadhut-sathe-training-academy-denies-sebi-allegations-fraud-stock-market-victim-of-regulatory-vacuum-2831275-2025-12-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/sebi-raid-on-avadhut-sathe-220453180-16x9.png?VersionId=smiP23M5OUkgJ3_YT_eSlt4Z50ca41dK&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFVVzlIYXpGbFQwZEplbmh0VFJDZkF4ampCU2dLTWdZbGhvTHNOUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "SEBI Imposes Major Ban on Financial Influencer Avadhut Sathe, Orders Refund of ₹546 Crore",
+   "source": {
+    "name": "The420.in",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://the420.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://the420.in/sebi-ban-avadhut-sathe-finfluencer-refund-illegal-advisory-2025/",
+   "thumbnail": "https://the420.in/wp-content/uploads/2025/12/bloombergquint_2025-12-04_hyp29qqi_Hero-Image-01.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVPWFl0VFdwUFFuaGFka000VFJDZkF4ampCU2dLTWdB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Avadhut Sathe gets interim relief as SAT defreezes accounts for expenses",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Divyesh Singh"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/story/avadhut-sathe-gets-interim-relief-as-sat-defreezes-accounts-for-expenses-2838612-2025-12-19",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/avadhut-sathe-193737678-16x9_0.png?VersionId=MSHDzvUzwq2B7Q0mxJIWmmmQEe.SAnNd&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRObUZmY3pOU2FtUlhVREJHVFJDZkF4ampCU2dLTWdZbGRvenNMUVk",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Who Is Avadhut Sathe? SEBI Orders Return Of Rs 546-Crore; Bans Influencer From Stock Market",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/trending/who-is-avadhut-sathe-sebi-orders-return-of-rs-546-crore-bans-influencer-from-stock-market-9754533",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/6a4e754f_Untitled-design-44.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpORmRVVjBWaFZEWnhiRTQxVFJDZkF4ampCU2dLTWdaRmNwTDByQWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Avadhut Sathe told to return Rs 14 crore as SEBI flags unregistered market advisory",
+   "source": {
+    "name": "Exchange4Media",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.exchange4media.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.exchange4media.com/digital-news/avadhut-sathe-told-to-return-rs-14-crore-as-sebi-flags-unregistered-market-advisory-149969.html",
+   "thumbnail": "https://exchange4media.gumlet.io/news-photo/149969-big3.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNjMmcyYW1aaVJuaDZZV3QwVFJDTEF4amFCU2dLTWdhdFJaTE9vUWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Who is Avadhut Sathe, the finfluencer at the centre of a Sebi probe?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-bars-avadhut-sathe-finfluencer-crackdown-11764934038766.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/avadhutsathe-mob-bnr_1764949123628_1764949136704.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNkbE42UVRGbGMwTlZkME5HVFJDZkF4amlCU2dLTWdZcFpvRHRNUVk",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Sebi rejects finfluencer Avadhut Sathe’s claims of regulatory vacuum, says rules on stock tips clear",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/sebi-avadhut-sathe-finfluencer-stock-tips-stock-market-research-analyst-investment-adviser-11765178812576.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/08/1600x900/logo/INDIA-SEBI-0_1764336404903_1764336415199_1765181425372.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTSEprV1ZjeGMxTTVVSEZ3VFJDZkF4ampCU2dLTWdZZEFLUlpCQTA",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Avadhut Sathe Trading Academy denies Sebi charges, says it is only an educational platform",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/avadhut-sathe-trading-academy-denies-sebi-charges-says-it-is-only-an-educational-platform/articleshow/125785431.cms",
+   "thumbnail": "https://m.economictimes.com/photo/49057298.cms",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBaemR6TWs5a2VqWklWVUV3VFJEZ0F4amdBeWdLTWdZRmNwSUdyUVk",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Why smart investors fall for finfluencer scams: Lessons from Sebi’s action against Avadhut Sathe",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shefali Anand"
+    ]
+   },
+   "link": "https://www.livemint.com/money/personal-finance/finfluencers-mind-games-investors-chase-illusory-wealth-11765891028355.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/16/1600x900/logo/Finfluencers-are-back-in-action--with-fake-screens_1693420206940_1765895954494.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlUWGN6V25VeFdsVTJNVkZZVFJDZkF4ampCU2dLTWdhaEFJenRMQVk",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Sebi bans fin influencer Avadhut Sathe, firm from securities market; orders Rs 546 cr disgorgement",
+   "source": {
+    "name": "cfo.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cfo.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://cfo.economictimes.indiatimes.com/news/governance-risk-compliance/sebi-bans-fin-influencer-avadhut-sathe-firm-from-securities-market-orders-rs-546-cr-disgorgement/125779977",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-125779977,width-1200,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVV05KUm5rNVNtVmlZazgzVFJEZ0F4aUFCU2dLTWdZTllZeTNvQWc",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "SEBI Orders Rs 14 Crore Refund From Trading Trainer Avadhut Sathe",
+   "source": {
+    "name": "PitchOnnet",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pitchonnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.pitchonnet.com/on-the-move/sebi-orders-rs-14-crore-refund-from-trading-trainer-avadhut-sathe-38109.html",
+   "thumbnail": "https://storage.googleapis.com/pitchonnet-news-photo/news-photo/38109.pitch6-5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRZM2w1VG5GNk56SkxNQzF5VFJDcEFSaXJBaWdCTWdB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "SAT Rejects Avadhut Sathe Academy Plea To Withdraw ₹2.25 Crore Monthly Till SEBI Probe Ends",
+   "source": {
+    "name": "LiveLawBiz",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelawbiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shilpa Soman"
+    ]
+   },
+   "link": "https://www.livelawbiz.com/securities-law/sat/securities-appellate-tribunal-rejects-application-filed-by-avadhut-sathe-academy-seeking-continuation-of-interim-relief-523581",
+   "thumbnail": "https://www.livelawbiz.com/h-upload/2026/02/17/656670-sat-and-avadhut-sathe-trading-academy.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVaMVEwWjB0VExUbHRTVEZYVFJDZkF4ampCU2dLTWdB",
+   "date": "02/17/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-17T08:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Sebi mulls ending market education price data confusion with 30-day lag",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-mulls-ending-market-education-price-data-confusion-with-30-day-lag-11767700360923.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/01/06/1600x900/logo/INDIA-SEBI-CUSTODIANS-0_1734329003526_1767709200846.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpSRzExV21KSlNGSm5jRGRWVFJDZkF4ampCU2dLTWdrQkFKQlpBRzE3aVFJ",
+   "date": "01/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-06T08:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "SEBI bans fin influencer Avadhut Sathe, firm from securities market; orders Rs 546 cr disgorgement",
+   "source": {
+    "name": "bfsi.economictimes.indiatimes.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://bfsi.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://bfsi.economictimes.indiatimes.com/news/policy/sebi-imposes-ban-on-financial-influencer-avadhut-sathe-orders-return-of-rs-546-crore-in-illegitimate-gains/125780920",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/125780920.cms?width=400&height=300",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVTREJ3WWw5VFdsQldjWFF3VFJEQ0FSaURBaWdCTWdrQmNJcGFwQ2pROUFB",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Sebi bars finfluencer Avadhut Sathe from markets, impounds ₹546 crore for illegal gains from unregistered services",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Apoorva Ajith"
+    ]
+   },
+   "link": "https://www.livemint.com/market/sebi-finfluencer-avadhut-sathe-546-crore-impounded-illegal-gains-unregistered-services-research-and-advisory-services-11764907661293.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/05/1600x900/logo/INDIA-SEBI-0_1764336404903_1764336415199_1764915978043.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTMFV5YkhOdlgyNW5lbEJDVFJDZkF4ampCU2dLTWdZZFJKenJIUW8",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "SEBI proposes price data for educational purposes be shared with 30-day lag",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/markets/sebi-proposes-price-data-for-educational-purposes-be-shared-with-30-day-lag/article70478484.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/ipkn1h/article70478520.ece/alternates/LANDSCAPE_1200/2025-12-18T121912Z_648527575_RC2LJDACLFWL_RTRMADP_3_INDIA-SEBI-GOVERNMENT.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlMVk5VUkUwM1luYzVkM2MzVFJDZkF4ampCU2dLTWdNdFFRSQ",
+   "date": "01/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-06T08:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "SEBI skins a notorious finfluencer",
+   "source": {
+    "name": "The Daily Brief by Zerodha",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thedailybrief.zerodha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://thedailybrief.zerodha.com/p/sebi-skins-a-notorious-finfluencer",
+   "thumbnail": "https://substackcdn.com/image/fetch/$s_!P8T0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe0a0cd17-6023-47e7-8746-3d8313e06161_1536x1024.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZVa1owVWkxTWNsVnlUamxFVFJDM0FSaVRBaWdCTWdZSmtwREZzZ2M",
+   "date": "12/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-08T08:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Who Is Avadhut Sathe, the Trading Star at the Centre of Sebi’s ₹546-Crore Crackdown?",
+   "source": {
+    "name": "Outlook Business",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookbusiness.com/ampstories/news/who-is-avadhut-sathe-the-trading-star-at-the-centre-of-sebis-546-crore-crackdown",
+   "thumbnail": "https://media.assettype.com/outlookbusiness/2025-12-05/ymi3q34o/op.png?w=640&mode=crop&ar=3:4",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlUWFJ5Ym5kZldVOW5hMFJvVFJEZUFoaUhBaWdLTWdhbFZaak5wUWc",
+   "date": "12/05/2025, 12:08 PM, +0000 UTC",
+   "iso_date": "2025-12-05T12:08:47Z"
+  },
+  {
+   "position": 79,
+   "title": "Avdhut Sathe SEBI Order: From capital markets ban to ₹546 crore impounding, here are key highlights",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hormaz Fatakia"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/avdhut-sathe-sebi-order-key-highlights-capital-markets-ban-impounding-of-gains-reply-timeline-19781430.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/12/avdhut-sathe-1-2025-12-0ca67de27f39f458e34b71f7405991da.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBWazE0VkRSYVkyWnVNVUpRVFJDZkF4ampCU2dLTWdZVldKWm9vZ2c",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "'Balance freedom of expression and misinformation': Sebi chief has a stern warning to finfluencers",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Dec/12/balance-freedom-of-expression-and-misinformation-sebi-chief-has-a-stern-warning-to-finfluencers",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-10-08/g5yh8l4b/ANI_20251008091649.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFORTAyWldZeFduaGxWR3RTVFJEZ0F4aUFCU2dLTWdB",
+   "date": "12/12/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-12T08:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "India must stop reinventing the regulatory wheel when it comes to educating investors",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sen Chaudhury"
+    ]
+   },
+   "link": "https://www.livemint.com/money/finfluencer-securities-market-financial-literacy-avadhut-sathe-social-media-sebi-youth-focused-push-11765731226346.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/12/15/1600x900/logo/Sebi_2-reuters_1765779552828_1765779562101.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXRjekZHWTFWelRHdHRhMGd6VFJDMEF4akFCU2dLTWdB",
+   "date": "12/15/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-15T08:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Govt Lets SEBI Order Takedowns of Misleading Stock Posts",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.medianama.com/2025/12/223-sebi-takedown-misleading-stock-content-online/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2020/10/logo-sebi-indianstockmarketguide.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iKkNnNWZZMDV4VEZOWU1VcGtSMWQ1VFJCYkdOd0JLQW95QmdFd2lrWE5CQQ",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "SEBI Partners Google to Curb Fake Trading Apps, Finfluencers",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.medianama.com/2026/03/223-sebi-google-verify-stock-trading-apps-use-ai-track-finfluencers/",
+   "date": "03/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-26T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "SEBI Orders Recovery Proceedings Worth Over Rs 18 Crore Against Finfluencer ‘Baap of Chart’",
+   "source": {
+    "name": "MediaNama",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.medianama.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prabhanu Kumar Das"
+    ]
+   },
+   "link": "https://www.medianama.com/2025/12/223-sebi-recovery-proceedings-rs-18-crore-baap-of-chart/",
+   "thumbnail": "https://www.medianama.com/wp-content/uploads/2016/11/rupees-money-payments-bank-cash-free.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHpiazlNT0RObVZHNTZRemhaVFJEUUFoallCQ2dLTWdzQkVJb0dsU1FlUm1yZVBR",
+   "date": "12/17/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-17T08:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "SAT to hear Avadhut Sathe's appeal on Jan 9",
+   "source": {
+    "name": "Rediff",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.rediff.com/news/commentary/2025/dec/20/sat-to-hear-avadhut-sathes-appeal-on-jan-9/94ef383363d8f9b357d22e454b37d2bb",
+   "thumbnail": "https://im.rediff.com/news/2025/aug/27avdhur.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWbEJTTldST1RHdEtZbkZoVFJEUUF4aVZCU2dLTWdZUlNJaUhIZ2s",
+   "date": "12/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-20T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Post SEBI raid, Avadhut Sathe Trading Academy denies being FinInfluencer",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/Industry/post-sebi-raid-avadhut-sathe-trading-academy-denies-being-fininfluencer/article69979272.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/axmo4/article69981845.ece/alternates/LANDSCAPE_1200/Untitled%20design%2013.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZla3hJWWtsNlMyVXhVQzE0VFJDZkF4ampCU2dLTWdaSklvTDFtQWs",
+   "date": "08/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-27T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Sebi imposes Rs 50 lakh on 4 people for manipulating shares of GG Engg",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/sebi-imposes-rs-50-lakh-on-4-people-for-manipulating-shares-of-gg-engg-125122000683_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/full/1761896845-7525.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1SbVEwVmpSTVZsaFpNMkZYVFJERUF4aW1CU2dLTWdrSlFKQUZINnBVc1FF",
+   "date": "12/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-20T08:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Can SEBI Chairman’s New Transparency Push Outshine the Shadow of ‘Finfluencers’?",
+   "source": {
+    "name": "Moneylife",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.moneylife.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneylife.in/article/can-sebi-chairmans-new-transparency-push-outshine-the-shadow-of-finfluencers/79194.html",
+   "thumbnail": "https://www.moneylife.in/site/userimage/image/responsive/SEBI716.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZZaTFtTmtGMFFYUTFSbnBvVFJDb0FSaXRBaWdCTWdhRkVZVFBsUXM",
+   "date": "12/26/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-26T08:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "SEBI cracks down on finfluencer Avadhut Sathe: All you need to know",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/photos/business/markets/sebi-cracks-down-on-finfluencer-avadhut-sathe-all-you-need-to-know-13480892.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822111437_Avadhut-Sathe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNibU55UlVaek1ucFpjM0V5VFJDZkF4ampCU2dLTWdhTlVwekdJZ2s",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Avadhut Sathe Denies Being Finfluencer Or Investment Advisor Post Sebi Raid",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ayush Khar"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/avadhut-sathe-denies-being-finfluencer-or-investment-advisor-post-sebi-raid",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2025-08-27/ilvdzsd3/Avadhut-Sathe.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhSMTlTU1drd2NVbE1UekV4VFJDZkF4ampCU2dLTWdhSmFaTGxLZ2c",
+   "date": "08/27/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-27T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Avadhut Sathe denies being finfluencer after SEBI raid",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akshata Gorde"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/news/fully-cooperating-with-sebi-says-avadhut-sathe-trading-academy-amid-charges-of-misleading-investors/article69979052.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/ybricj/article69979068.ece/alternates/LANDSCAPE_1200/BL28_Think_Business_management.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNiMXBJYURNdGJVNWFPVXRQVFJDZkF4ampCU2dLTWdZWlFvaHFJUWs",
+   "date": "08/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-26T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Avadhut Sathe denies 'finfluencer' tag after Sebi search, no tips given",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushboo Tiwari"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/avadhut-sathe-denies-being-finfluencer-says-no-stock-tips-given-125082600820_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/22/full/1755856175-9744.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJUWEZYVVMxRWJFSlpZM2syVFJDckF4ak9CU2dLTWdZaE41b3JIZ2s",
+   "date": "08/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-26T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Boy from a chawl who built a trading empire: Meet Avadhut Sathe, finfluencer raided by Sebi",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Benn Kochuveedan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Aug/22/boy-from-a-chawl-who-built-a-trading-empire-meet-avadhut-sathe-finfluencer-raided-by-sebi",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2025-08-22%2F5hh882jc%2FAvadhut-Sathe.jpg?rect=26%2C0%2C1156%2C650&w=1200&h=675&auto=format%2Ccompress&fit=crop",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROREZ5TUZKSGJGOURSakF5VFJDZkF4ampCU2dLTWdhTllwaW1wZ2c",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Avadhut Sathe’s trading empire faces Sebi raid amid allegations of stock tips under investor education guise",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Benn Kochuveedan"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2025/Aug/22/avadhut-sathes-trading-empire-faces-sebi-raid-amid-allegations-of-stock-tips-under-investor-education-guise",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-08-22/3s4wxogq/A-Pathfinder-1.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhlVmh3TVY5M05IZGtTaTFIVFJDMkF4aTdCU2dLTWdZcGRaQ3VxUWM",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Sebi strikes at finfluencer Avadhut Sathe's Karjat Trading Academy",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/business/market/story/avadhut-sathe-sebi-raid-pune-finfluencer-karjat-trading-academy-2775356-2025-08-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202508/sebi-raid-on-avadhut-sathe-220453180-16x9_0.png?VersionId=3GSlr0zndWmpUhWtP98udkueHKlHOIaY&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNNMVpGUzFaMlJqUXdNRk14VFJDZkF4ampCU2dLTWdZbGhvTHNOUVU",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Avadhut Sathe responds to Sebi action, denies giving stock tips or acting as finfluencer",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Brajesh Kumar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/avadhut-sathe-responds-to-sebi-action-denies-giving-stock-tips-or-acting-as-finfluencer-13489610.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250826081200_avadhut-satha.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OVFUwZUc1VFdWbHFWbU01VFJDZkF4ampCU2dLTWdZaEpvcnRtUWs",
+   "date": "08/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-26T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Who is Avadhut Sathe, and why did Sebi conduct search operation on his academy",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hitesh Vyas"
+    ]
+   },
+   "link": "https://indianexpress.com/article/business/who-is-avadhut-sathe-and-why-did-sebi-conduct-search-operation-on-his-academy-10210843/",
+   "thumbnail": "https://images.indianexpress.com/2025/08/avadhut-sathe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpWQzE1ZG05elgxVjRPVXR2VFJDZkF4ampCU2dLTWdZdEZvYk5rUW8",
+   "date": "08/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-25T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Who is Avadhut Sathe, the finfluencer SEBI cracked down on?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Zoya Springwala"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/who-is-avadhut-sathe-the-finfluencer-sebi-cracked-down-on-13480235.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250821171034_Avadhut.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBMVFUxVTBvd2VHNDRVMXBWVFJDZkF4ampCU2dLTWdhVllaQkpwZ2c",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "‘We don’t give tips’: Avadhut Sathe responds after SEBI search at Karjat academy",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/we-don-t-give-tips-avadhut-sathe-responds-after-sebi-search-at-karjat-academy-13481241.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250822115542_Avadhut-Sathe-3.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdlamhrWkZOWmRGVnFOMUJYVFJDZkF4ampCU2dLTWdZQlVJNk5NUVk",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Who is Avadhut Sathe? Finfluencer on Sebi's radar: what we know so far",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/who-is-avadhut-sathe-finfluencer-on-sebi-s-radar-what-we-know-so-far-125082200732_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/22/full/1755856175-9744.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJUWEZYVVMxRWJFSlpZM2syVFJDckF4ak9CU2dLTWdZaE41b3JIZ2s",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:03:16"
+}

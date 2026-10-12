@@ -1,0 +1,3474 @@
+{
+ "search_metadata": {
+  "id": "6acb1c7331aafe976bda3948",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/cYvplQtbjmGE29dfeURhx3fjMneO-PAfQHuOi2zzCek/6acb1c7331aafe976bda3948.json",
+  "markdown_endpoint": "https://serpapi.com/searches/cYvplQtbjmGE29dfeURhx3fjMneO-PAfQHuOi2zzCek/6acb1c7331aafe976bda3948.md",
+  "created_at": "2026-10-11 05:19:47 UTC",
+  "processed_at": "2026-10-11 05:19:47 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+  "raw_html_file": "https://serpapi.com/searches/cYvplQtbjmGE29dfeURhx3fjMneO-PAfQHuOi2zzCek/6acb1c7331aafe976bda3948.html",
+  "prettify_html_file": "https://serpapi.com/searches/cYvplQtbjmGE29dfeURhx3fjMneO-PAfQHuOi2zzCek/6acb1c7331aafe976bda3948.prettify",
+  "total_time_taken": 17.44
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "q8H2r2k8iZA",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 800,
+   "end_ms": 2560,
+   "snippet": "हेलो फ्रेंड्स, वेलकम टू एन इन्वेस्टमेंट",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 2560,
+   "end_ms": 4960,
+   "snippet": "एकडमी। गुड मॉर्निंग। आज की ताजा खबर में",
+   "start_time_text": "0:02",
+   "start_time_label": "0:02"
+  },
+  {
+   "start_ms": 4960,
+   "end_ms": 7200,
+   "snippet": "आपका स्वागत है। ग्लोबल न्यूज़ से बात",
+   "start_time_text": "0:04",
+   "start_time_label": "0:04"
+  },
+  {
+   "start_ms": 7200,
+   "end_ms": 9040,
+   "snippet": "हमेशा की तरह शुरू करेंगे। कुछ इंडिया",
+   "start_time_text": "0:07",
+   "start_time_label": "0:07"
+  },
+  {
+   "start_ms": 9040,
+   "end_ms": 11120,
+   "snippet": "स्पेसिफिक और कुछ स्टॉक स्पेसिफिक अपडेट्स",
+   "start_time_text": "0:09",
+   "start_time_label": "0:09"
+  },
+  {
+   "start_ms": 11120,
+   "end_ms": 12400,
+   "snippet": "आ रहे हैं। रिजल्ट्स भी अब स्टार्ट हो",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 12400,
+   "end_ms": 14480,
+   "snippet": "जाएंगे। परसों से आई थिंक टीसीएस का",
+   "start_time_text": "0:12",
+   "start_time_label": "0:12"
+  },
+  {
+   "start_ms": 14480,
+   "end_ms": 16480,
+   "snippet": "रिजल्ट पहला है। ठीक है? एंड देन वी विल",
+   "start_time_text": "0:14",
+   "start_time_label": "0:14"
+  },
+  {
+   "start_ms": 16480,
+   "end_ms": 18160,
+   "snippet": "टॉक अ लॉट। आई थिंक नेक्स्ट वन मंथ",
+   "start_time_text": "0:16",
+   "start_time_label": "0:16"
+  },
+  {
+   "start_ms": 18160,
+   "end_ms": 20960,
+   "snippet": "रिजल्ट्स के ऊपर काफी बात होगी। एंड लास्ट",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 20960,
+   "end_ms": 22480,
+   "snippet": "तक वीडियो को जरूर देखिए। आज भी एक",
+   "start_time_text": "0:20",
+   "start_time_label": "0:20"
+  },
+  {
+   "start_ms": 22480,
+   "end_ms": 24160,
+   "snippet": "इंटरेस्टिंग नॉलेज सेक्शन है जिसके बारे",
+   "start_time_text": "0:22",
+   "start_time_label": "0:22"
+  },
+  {
+   "start_ms": 24160,
+   "end_ms": 27279,
+   "snippet": "में लास्ट में बात करेंगे।",
+   "start_time_text": "0:24",
+   "start_time_label": "0:24"
+  },
+  {
+   "start_ms": 27279,
+   "end_ms": 29760,
+   "snippet": "अगर आप भुवनेश्वर के आसपास रहते हैं तो वी",
+   "start_time_text": "0:27",
+   "start_time_label": "0:27"
+  },
+  {
+   "start_ms": 29760,
+   "end_ms": 32320,
+   "snippet": "आर कंडक्टिंग अ सेशन राइट ऑन रिटायरमेंट",
+   "start_time_text": "0:29",
+   "start_time_label": "0:29"
+  },
+  {
+   "start_ms": 32320,
+   "end_ms": 34160,
+   "snippet": "कॉपस हाउ टू मैनेज योर रिटायरमेंट कॉरपस",
+   "start_time_text": "0:32",
+   "start_time_label": "0:32"
+  },
+  {
+   "start_ms": 34160,
+   "end_ms": 38640,
+   "snippet": "ऑन 26th ऑफ जुलाई आसपास हैं आपके फ्रेंड्स",
+   "start_time_text": "0:34",
+   "start_time_label": "0:34"
+  },
+  {
+   "start_ms": 38640,
+   "end_ms": 41280,
+   "snippet": "हैं फैमिलीज़ हैं तो प्लीज डू लेट देम नो",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 41280,
+   "end_ms": 43920,
+   "snippet": "अबाउट इट इट विल बी परिमल एंड आई बोथ विल",
+   "start_time_text": "0:41",
+   "start_time_label": "0:41"
+  },
+  {
+   "start_ms": 43920,
+   "end_ms": 46000,
+   "snippet": "बी ट्रैवलिंग तो काफी इंटरेस्टिंग सेशन",
+   "start_time_text": "0:43",
+   "start_time_label": "0:43"
+  },
+  {
+   "start_ms": 46000,
+   "end_ms": 48559,
+   "snippet": "रहेगा और स्पेशली फॉर पीपल नियर",
+   "start_time_text": "0:46",
+   "start_time_label": "0:46"
+  },
+  {
+   "start_ms": 48559,
+   "end_ms": 50160,
+   "snippet": "रिटायरमेंट या जो अर्ली रिटायरमेंट के",
+   "start_time_text": "0:48",
+   "start_time_label": "0:48"
+  },
+  {
+   "start_ms": 50160,
+   "end_ms": 51600,
+   "snippet": "बारे में सोच रहे हैं या रिटायर्ड हो चुके",
+   "start_time_text": "0:50",
+   "start_time_label": "0:50"
+  },
+  {
+   "start_ms": 51600,
+   "end_ms": 54480,
+   "snippet": "हैं उनके लिए बहुत ज्यादा अह काफी सारे",
+   "start_time_text": "0:51",
+   "start_time_label": "0:51"
+  },
+  {
+   "start_ms": 54480,
+   "end_ms": 56320,
+   "snippet": "कैलकुलेटर्स एंड एवरीथिंग वी विल शो तो",
+   "start_time_text": "0:54",
+   "start_time_label": "0:54"
+  },
+  {
+   "start_ms": 56320,
+   "end_ms": 58399,
+   "snippet": "बहुत अच्छा सेशन रहेगा। तो प्लीज डू चेक",
+   "start_time_text": "0:56",
+   "start_time_label": "0:56"
+  },
+  {
+   "start_ms": 58399,
+   "end_ms": 61359,
+   "snippet": "आवर वेबसाइट फॉर द वर्कशॉप्स। स्टार्ट",
+   "start_time_text": "0:58",
+   "start_time_label": "0:58"
+  },
+  {
+   "start_ms": 61359,
+   "end_ms": 66159,
+   "snippet": "करते हैं आज का डिस्कशन। तो अ",
+   "start_time_text": "1:01",
+   "start_time_label": "1:01"
+  },
+  {
+   "start_ms": 66159,
+   "end_ms": 68320,
+   "snippet": "ओवरऑल यूएस मार्केट्स थोड़े से नेगेटिव",
+   "start_time_text": "1:06",
+   "start_time_label": "1:06"
+  },
+  {
+   "start_ms": 68320,
+   "end_ms": 71439,
+   "snippet": "रहे। NASDC ज्यादा गिरा एज़ कंपेयर टू SNP",
+   "start_time_text": "1:08",
+   "start_time_label": "1:08"
+  },
+  {
+   "start_ms": 71439,
+   "end_ms": 75520,
+   "snippet": "500 एंड Dउ ज़ों्स। मेजरली अगेन मतलब जो",
+   "start_time_text": "1:11",
+   "start_time_label": "1:11"
+  },
+  {
+   "start_ms": 75520,
+   "end_ms": 77680,
+   "snippet": "थोड़ा प्रेशर बना हुआ है ऑन सेमीकंडक्टर",
+   "start_time_text": "1:15",
+   "start_time_label": "1:15"
+  },
+  {
+   "start_ms": 77680,
+   "end_ms": 80479,
+   "snippet": "स्टॉक्स। थोड़ा सा भी मतलब ऐसा हो रहा है",
+   "start_time_text": "1:17",
+   "start_time_label": "1:17"
+  },
+  {
+   "start_ms": 80479,
+   "end_ms": 82799,
+   "snippet": "कि थोड़ा सा भी नेगेटिव मतलब नेगेटिव भी",
+   "start_time_text": "1:20",
+   "start_time_label": "1:20"
+  },
+  {
+   "start_ms": 82799,
+   "end_ms": 84400,
+   "snippet": "क्या बोले कि थोड़ा सा भी ऐसा लगता है कि",
+   "start_time_text": "1:22",
+   "start_time_label": "1:22"
+  },
+  {
+   "start_ms": 84400,
+   "end_ms": 86560,
+   "snippet": "एक्सपेक्टेशन से कम चीजें आई हैं तो",
+   "start_time_text": "1:24",
+   "start_time_label": "1:24"
+  },
+  {
+   "start_ms": 86560,
+   "end_ms": 88960,
+   "snippet": "मार्केट जो है बहुत ज्यादा उसको पनिश कर",
+   "start_time_text": "1:26",
+   "start_time_label": "1:26"
+  },
+  {
+   "start_ms": 88960,
+   "end_ms": 92320,
+   "snippet": "रहा है। तो कल क्या हुआ Samsung ने एक",
+   "start_time_text": "1:28",
+   "start_time_label": "1:28"
+  },
+  {
+   "start_ms": 92320,
+   "end_ms": 95119,
+   "snippet": "अपडेट दिया अपना काफी अच्छा अपडेट दिया।",
+   "start_time_text": "1:32",
+   "start_time_label": "1:32"
+  },
+  {
+   "start_ms": 95119,
+   "end_ms": 98240,
+   "snippet": "मतलब उन्होंने तो कहा कि भ हम 19 फोल्ड",
+   "start_time_text": "1:35",
+   "start_time_label": "1:35"
+  },
+  {
+   "start_ms": 98240,
+   "end_ms": 100079,
+   "snippet": "सर्च करेंगे क्वार्टरली अर्निंग्स में।",
+   "start_time_text": "1:38",
+   "start_time_label": "1:38"
+  },
+  {
+   "start_ms": 100079,
+   "end_ms": 103680,
+   "snippet": "ऐसा कुछ बोला उन्होंने राइट? एंड बट इतनी",
+   "start_time_text": "1:40",
+   "start_time_label": "1:40"
+  },
+  {
+   "start_ms": 103680,
+   "end_ms": 106320,
+   "snippet": "एक्सपेक्टेशन उससे भी ज्यादा है। राइट? और",
+   "start_time_text": "1:43",
+   "start_time_label": "1:43"
+  },
+  {
+   "start_ms": 106320,
+   "end_ms": 108240,
+   "snippet": "उसके चक्कर में Samsung का शेयर तो गिरा",
+   "start_time_text": "1:46",
+   "start_time_label": "1:46"
+  },
+  {
+   "start_ms": 108240,
+   "end_ms": 111600,
+   "snippet": "ही कॉस्पी जो मतलब साउथ कोरिया का इंडेक्स",
+   "start_time_text": "1:48",
+   "start_time_label": "1:48"
+  },
+  {
+   "start_ms": 111600,
+   "end_ms": 114720,
+   "snippet": "है वो भी ऑलमोस्ट 5% गिरा। उसके चक्कर में",
+   "start_time_text": "1:51",
+   "start_time_label": "1:51"
+  },
+  {
+   "start_ms": 114720,
+   "end_ms": 117520,
+   "snippet": "क्या है कि यूएस के भी स्टॉक्स लाइक nसdc",
+   "start_time_text": "1:54",
+   "start_time_label": "1:54"
+  },
+  {
+   "start_ms": 117520,
+   "end_ms": 120640,
+   "snippet": "100 भी जो है वो गिरा है। तो Samsung तो",
+   "start_time_text": "1:57",
+   "start_time_label": "1:57"
+  },
+  {
+   "start_ms": 120640,
+   "end_ms": 123119,
+   "snippet": "जब मैं देख रहा था ऑलमोस्ट 7% डाउन था।",
+   "start_time_text": "2:00",
+   "start_time_label": "2:00"
+  },
+  {
+   "start_ms": 123119,
+   "end_ms": 126320,
+   "snippet": "Spcex ऑलमोस्ट 6% डाउन था। राइट? और अगर",
+   "start_time_text": "2:03",
+   "start_time_label": "2:03"
+  },
+  {
+   "start_ms": 126320,
+   "end_ms": 129280,
+   "snippet": "हम बाकी बात करें सिक्स 9% डाउन माइक्रोन",
+   "start_time_text": "2:06",
+   "start_time_label": "2:06"
+  },
+  {
+   "start_ms": 129280,
+   "end_ms": 132480,
+   "snippet": "ऑलमोस्ट 6 1/2% डाउन एसके हing 6% डाउन सी",
+   "start_time_text": "2:09",
+   "start_time_label": "2:09"
+  },
+  {
+   "start_ms": 132480,
+   "end_ms": 134959,
+   "snippet": "गेट 56 तो मतलब जितने भी ये कंपनी",
+   "start_time_text": "2:12",
+   "start_time_label": "2:12"
+  },
+  {
+   "start_ms": 134959,
+   "end_ms": 137040,
+   "snippet": "जिन्होंने अमेजिंग रिटर्न्स दिए हैं लास्ट",
+   "start_time_text": "2:14",
+   "start_time_label": "2:14"
+  },
+  {
+   "start_ms": 137040,
+   "end_ms": 141040,
+   "snippet": "वाईटी में 100 200 300 400% रिटर्न्स ऐसे",
+   "start_time_text": "2:17",
+   "start_time_label": "2:17"
+  },
+  {
+   "start_ms": 141040,
+   "end_ms": 143280,
+   "snippet": "एंड रिटर्न्स हैं इन सब कंपनीज़ के तो वो",
+   "start_time_text": "2:21",
+   "start_time_label": "2:21"
+  },
+  {
+   "start_ms": 143280,
+   "end_ms": 146959,
+   "snippet": "सब जो है एक डिसेंट अमाउंट ऑफ़ 510% डाउन",
+   "start_time_text": "2:23",
+   "start_time_label": "2:23"
+  },
+  {
+   "start_ms": 146959,
+   "end_ms": 149680,
+   "snippet": "थे। ठीक है? और अगेन एज़ आई सेड कि कोई ऐसा",
+   "start_time_text": "2:26",
+   "start_time_label": "2:26"
+  },
+  {
+   "start_ms": 149680,
+   "end_ms": 151920,
+   "snippet": "मेजर बहुत बड़ा रीज़न नहीं था। बट वो रीज़न",
+   "start_time_text": "2:29",
+   "start_time_label": "2:29"
+  },
+  {
+   "start_ms": 151920,
+   "end_ms": 153840,
+   "snippet": "मार्केट को क्या है कि इतना ज्यादा",
+   "start_time_text": "2:31",
+   "start_time_label": "2:31"
+  },
+  {
+   "start_ms": 153840,
+   "end_ms": 155840,
+   "snippet": "एक्सपेक्टेशन बढ़ा हुआ है कि थोड़ा सा भी",
+   "start_time_text": "2:33",
+   "start_time_label": "2:33"
+  },
+  {
+   "start_ms": 155840,
+   "end_ms": 157840,
+   "snippet": "नेगेटिव में वो मार्केट उसको बहुत ज्यादा",
+   "start_time_text": "2:35",
+   "start_time_label": "2:35"
+  },
+  {
+   "start_ms": 157840,
+   "end_ms": 160480,
+   "snippet": "नेगेटिव रिएक्ट कर रहा है। तो ये एक मेजर",
+   "start_time_text": "2:37",
+   "start_time_label": "2:37"
+  },
+  {
+   "start_ms": 160480,
+   "end_ms": 163680,
+   "snippet": "न्यूज़ थी जिसकी वजह से दूसरा जो मेजर बड़ा",
+   "start_time_text": "2:40",
+   "start_time_label": "2:40"
+  },
+  {
+   "start_ms": 163680,
+   "end_ms": 167040,
+   "snippet": "फैक्टर है डिस्कशन का वो है कि फिर से",
+   "start_time_text": "2:43",
+   "start_time_label": "2:43"
+  },
+  {
+   "start_ms": 167040,
+   "end_ms": 170879,
+   "snippet": "ईरान ने दो कमर्शियल शिप्स को मतलब फायर",
+   "start_time_text": "2:47",
+   "start_time_label": "2:47"
+  },
+  {
+   "start_ms": 170879,
+   "end_ms": 173120,
+   "snippet": "किया है उनके ऊपर। ठीक है? एट द स्ट्रेट",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 173120,
+   "end_ms": 177040,
+   "snippet": "नियर स्टेट ऑफ होम्स। तो अब ये एक मतलब",
+   "start_time_text": "2:53",
+   "start_time_label": "2:53"
+  },
+  {
+   "start_ms": 177040,
+   "end_ms": 179920,
+   "snippet": "कॉम्प्लिकेटेड चीज है। राइट? जो थोड़ा",
+   "start_time_text": "2:57",
+   "start_time_label": "2:57"
+  },
+  {
+   "start_ms": 179920,
+   "end_ms": 182000,
+   "snippet": "मार्केट डर भी रहा है और यह सारी फ़ैक्टर्स",
+   "start_time_text": "2:59",
+   "start_time_label": "2:59"
+  },
+  {
+   "start_ms": 182000,
+   "end_ms": 183120,
+   "snippet": "जो हैं वह प्ले आउट हो रहे हैं। तो उसके",
+   "start_time_text": "3:02",
+   "start_time_label": "3:02"
+  },
+  {
+   "start_ms": 183120,
+   "end_ms": 185200,
+   "snippet": "चक्कर में क्या हुआ? ब्रेंड कल बढ़ गया।",
+   "start_time_text": "3:03",
+   "start_time_label": "3:03"
+  },
+  {
+   "start_ms": 185200,
+   "end_ms": 188000,
+   "snippet": "ठीक है? तो ऑलमोस्ट $2.5 बढ़ गया। 74 वापस",
+   "start_time_text": "3:05",
+   "start_time_label": "3:05"
+  },
+  {
+   "start_ms": 188000,
+   "end_ms": 190080,
+   "snippet": "7172 बात हुई थी अपनी परसों जब मैंने",
+   "start_time_text": "3:08",
+   "start_time_label": "3:08"
+  },
+  {
+   "start_ms": 190080,
+   "end_ms": 193120,
+   "snippet": "वीडियो बनाया था तो वो अब 74 हो गया है।",
+   "start_time_text": "3:10",
+   "start_time_label": "3:10"
+  },
+  {
+   "start_ms": 193120,
+   "end_ms": 195519,
+   "snippet": "ज्यादा कुछ ऐसा नेगेटिव नहीं हुआ है। बट",
+   "start_time_text": "3:13",
+   "start_time_label": "3:13"
+  },
+  {
+   "start_ms": 195519,
+   "end_ms": 197440,
+   "snippet": "अब उसके ऊपर मतलब क़तर ने भी एक बहुत बड़ा",
+   "start_time_text": "3:15",
+   "start_time_label": "3:15"
+  },
+  {
+   "start_ms": 197440,
+   "end_ms": 200560,
+   "snippet": "ई मतलब मैसेज डाला है कि भाई ये ईरान ने",
+   "start_time_text": "3:17",
+   "start_time_label": "3:17"
+  },
+  {
+   "start_ms": 200560,
+   "end_ms": 202400,
+   "snippet": "किया है। दे शुड रिफ्रेन फ्रॉम डूइंग दिस",
+   "start_time_text": "3:20",
+   "start_time_label": "3:20"
+  },
+  {
+   "start_ms": 202400,
+   "end_ms": 204560,
+   "snippet": "एंड ऑल दोज़ थिंग्स। ठीक है? तो क़तर फॉरेन",
+   "start_time_text": "3:22",
+   "start_time_label": "3:22"
+  },
+  {
+   "start_ms": 204560,
+   "end_ms": 206879,
+   "snippet": "मिनिस्ट्री का मैं पूरा उसका एक वो पढ़ रहा",
+   "start_time_text": "3:24",
+   "start_time_label": "3:24"
+  },
+  {
+   "start_ms": 206879,
+   "end_ms": 209280,
+   "snippet": "था। तो उन्होंने भी मतलब इंटरनेशनल लॉ का",
+   "start_time_text": "3:26",
+   "start_time_label": "3:26"
+  },
+  {
+   "start_ms": 209280,
+   "end_ms": 210959,
+   "snippet": "यह है वो है तो वो सारी चीजें उन्होंने",
+   "start_time_text": "3:29",
+   "start_time_label": "3:29"
+  },
+  {
+   "start_ms": 210959,
+   "end_ms": 212640,
+   "snippet": "डिस्कस की है उसमें। तो अगेन ये सारी",
+   "start_time_text": "3:30",
+   "start_time_label": "3:30"
+  },
+  {
+   "start_ms": 212640,
+   "end_ms": 215360,
+   "snippet": "चीजें जो है ना थोड़ी सी रिस्क फैक्टर्स",
+   "start_time_text": "3:32",
+   "start_time_label": "3:32"
+  },
+  {
+   "start_ms": 215360,
+   "end_ms": 216640,
+   "snippet": "क्रिएट हो रही है। अब इसमें क्या है कि",
+   "start_time_text": "3:35",
+   "start_time_label": "3:35"
+  },
+  {
+   "start_ms": 216640,
+   "end_ms": 218879,
+   "snippet": "यूएस 10 ईयर जीसेक अगर आप देखोगे ना 4.5",
+   "start_time_text": "3:36",
+   "start_time_label": "3:36"
+  },
+  {
+   "start_ms": 218879,
+   "end_ms": 222480,
+   "snippet": "क्रॉस कर चुकी है। ठीक है? तो अब और 30",
+   "start_time_text": "3:38",
+   "start_time_label": "3:38"
+  },
+  {
+   "start_ms": 222480,
+   "end_ms": 224560,
+   "snippet": "ईयर जीसेक जो है 5% क्रॉस कर चुकी है। तो",
+   "start_time_text": "3:42",
+   "start_time_label": "3:42"
+  },
+  {
+   "start_ms": 224560,
+   "end_ms": 226640,
+   "snippet": "मतलब व्हाट बॉन्ड मार्केट यूएस इज़ टेलिंग",
+   "start_time_text": "3:44",
+   "start_time_label": "3:44"
+  },
+  {
+   "start_ms": 226640,
+   "end_ms": 230159,
+   "snippet": "इज़ मतलब देखो दो चीज़ हैं। या तो वो ये बोल",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 230159,
+   "end_ms": 232319,
+   "snippet": "रहे हैं कि भ इनफ्लेशन अभी ये आराम से",
+   "start_time_text": "3:50",
+   "start_time_label": "3:50"
+  },
+  {
+   "start_ms": 232319,
+   "end_ms": 235120,
+   "snippet": "जाने वाला नहीं है। यूएस में जो 3.54 के",
+   "start_time_text": "3:52",
+   "start_time_label": "3:52"
+  },
+  {
+   "start_ms": 235120,
+   "end_ms": 238159,
+   "snippet": "आसपास हो गया है। दूसरा उनका इंटरेस्ट रेट",
+   "start_time_text": "3:55",
+   "start_time_label": "3:55"
+  },
+  {
+   "start_ms": 238159,
+   "end_ms": 240640,
+   "snippet": "एक्सपेक्टेशन है कि बढ़ेगा। तीसरा उनको या",
+   "start_time_text": "3:58",
+   "start_time_label": "3:58"
+  },
+  {
+   "start_ms": 240640,
+   "end_ms": 243200,
+   "snippet": "तो ऐसा लग रहा है कि भाई यह जो क्रूड ऑयल",
+   "start_time_text": "4:00",
+   "start_time_label": "4:00"
+  },
+  {
+   "start_ms": 243200,
+   "end_ms": 246080,
+   "snippet": "है ना अराउंड 72 74 जो भी हो रहा है ये",
+   "start_time_text": "4:03",
+   "start_time_label": "4:03"
+  },
+  {
+   "start_ms": 246080,
+   "end_ms": 248720,
+   "snippet": "सस्टेनेबल नहीं है। ये बढ़ेगा वापस तो",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 248720,
+   "end_ms": 251200,
+   "snippet": "मतलब ऐसा-सा कई बार कि बॉन्ड मार्केट 4.5",
+   "start_time_text": "4:08",
+   "start_time_label": "4:08"
+  },
+  {
+   "start_ms": 251200,
+   "end_ms": 254879,
+   "snippet": "से ऊपर क्यों है? अगर क्रूड ऑयल 71 72 73",
+   "start_time_text": "4:11",
+   "start_time_label": "4:11"
+  },
+  {
+   "start_ms": 254879,
+   "end_ms": 259040,
+   "snippet": "74 पे भी है। चलो तो इतना हाई 10 ईयर जी",
+   "start_time_text": "4:14",
+   "start_time_label": "4:14"
+  },
+  {
+   "start_ms": 259040,
+   "end_ms": 262240,
+   "snippet": "से क्यों है? और फाइव एज़ आई सेड 5% क्रॉस",
+   "start_time_text": "4:19",
+   "start_time_label": "4:19"
+  },
+  {
+   "start_ms": 262240,
+   "end_ms": 264880,
+   "snippet": "हो गया है इन 30 ईयर। तो व्हिच इज़ अ वेरी",
+   "start_time_text": "4:22",
+   "start_time_label": "4:22"
+  },
+  {
+   "start_ms": 264880,
+   "end_ms": 266960,
+   "snippet": "लुकटिव। मतलब ये चीजें जो है ना क्लियरली",
+   "start_time_text": "4:24",
+   "start_time_label": "4:24"
+  },
+  {
+   "start_ms": 266960,
+   "end_ms": 269120,
+   "snippet": "थोड़ा सा सिस्टम में दिखा रही है कि कुछ तो",
+   "start_time_text": "4:26",
+   "start_time_label": "4:26"
+  },
+  {
+   "start_ms": 269120,
+   "end_ms": 271199,
+   "snippet": "है अभी भी व्हिच इज़ वरिंग द मार्केट व्हिच",
+   "start_time_text": "4:29",
+   "start_time_label": "4:29"
+  },
+  {
+   "start_ms": 271199,
+   "end_ms": 273120,
+   "snippet": "इज़ वरिंग द बॉन्ड मार्केट बॉन्ड मार्केट",
+   "start_time_text": "4:31",
+   "start_time_label": "4:31"
+  },
+  {
+   "start_ms": 273120,
+   "end_ms": 276080,
+   "snippet": "जो है ना टिपिकली बहुत ज्यादा स्ट्रांग",
+   "start_time_text": "4:33",
+   "start_time_label": "4:33"
+  },
+  {
+   "start_ms": 276080,
+   "end_ms": 278000,
+   "snippet": "होती है भड़ी मार्केट है ना एज़ कंपेयर टू",
+   "start_time_text": "4:36",
+   "start_time_label": "4:36"
+  },
+  {
+   "start_ms": 278000,
+   "end_ms": 279919,
+   "snippet": "इक्विटी मार्केट से तो बहुत बड़ी मार्केट",
+   "start_time_text": "4:38",
+   "start_time_label": "4:38"
+  },
+  {
+   "start_ms": 279919,
+   "end_ms": 282800,
+   "snippet": "है बॉन्ड मार्केट ठीक है तो और इतना बड़ा",
+   "start_time_text": "4:39",
+   "start_time_label": "4:39"
+  },
+  {
+   "start_ms": 282800,
+   "end_ms": 285280,
+   "snippet": "डेप्ट है 40 40 ट्रिलियन का तो डे तो",
+   "start_time_text": "4:42",
+   "start_time_label": "4:42"
+  },
+  {
+   "start_ms": 285280,
+   "end_ms": 287120,
+   "snippet": "इसलिए बहुत डायरेक्टली इंपैक्ट होता है इन",
+   "start_time_text": "4:45",
+   "start_time_label": "4:45"
+  },
+  {
+   "start_ms": 287120,
+   "end_ms": 289199,
+   "snippet": "सब चीजों का ठीक है तो इसलिए पॉलिसी",
+   "start_time_text": "4:47",
+   "start_time_label": "4:47"
+  },
+  {
+   "start_ms": 289199,
+   "end_ms": 290720,
+   "snippet": "मेकिंग बहुत ज्यादा इस चीजों पे होती है",
+   "start_time_text": "4:49",
+   "start_time_label": "4:49"
+  },
+  {
+   "start_ms": 290720,
+   "end_ms": 292800,
+   "snippet": "तो ये भी चीजें थोड़ी है 4.5 फिर से क्रॉस",
+   "start_time_text": "4:50",
+   "start_time_label": "4:50"
+  },
+  {
+   "start_ms": 292800,
+   "end_ms": 295120,
+   "snippet": "हो गया तो दैट इज़ अ लिटिल वरी थिंग थिंग",
+   "start_time_text": "4:52",
+   "start_time_label": "4:52"
+  },
+  {
+   "start_ms": 295120,
+   "end_ms": 297280,
+   "snippet": "व्हिच इज़ हैपनिंग इन यूएस। ठीक है? और फिर",
+   "start_time_text": "4:55",
+   "start_time_label": "4:55"
+  },
+  {
+   "start_ms": 297280,
+   "end_ms": 299040,
+   "snippet": "उसके बाद मतलब मिस्टर ट्रंप के आपको पता",
+   "start_time_text": "4:57",
+   "start_time_label": "4:57"
+  },
+  {
+   "start_ms": 299040,
+   "end_ms": 300479,
+   "snippet": "ही है स्टेटमेंट्स भी इस तरह के आते हैं।",
+   "start_time_text": "4:59",
+   "start_time_label": "4:59"
+  },
+  {
+   "start_ms": 300479,
+   "end_ms": 302720,
+   "snippet": "दे उन्होंने बोला कल देयर विल इदर बी अ",
+   "start_time_text": "5:00",
+   "start_time_label": "5:00"
+  },
+  {
+   "start_ms": 302720,
+   "end_ms": 304639,
+   "snippet": "डील विद देन और यूएस विल फिनिश द जॉब।",
+   "start_time_text": "5:02",
+   "start_time_label": "5:02"
+  },
+  {
+   "start_ms": 304639,
+   "end_ms": 306720,
+   "snippet": "मतलब तो इस तरह के धमकी भरे उनके वो",
+   "start_time_text": "5:04",
+   "start_time_label": "5:04"
+  },
+  {
+   "start_ms": 306720,
+   "end_ms": 308639,
+   "snippet": "स्टेटमेंट्स हैं ही व्हिच अगेन मतलब",
+   "start_time_text": "5:06",
+   "start_time_label": "5:06"
+  },
+  {
+   "start_ms": 308639,
+   "end_ms": 311360,
+   "snippet": "कॉम्प्लिकेट्स थिंग्स अ बिट। ठीक है? उसके",
+   "start_time_text": "5:08",
+   "start_time_label": "5:08"
+  },
+  {
+   "start_ms": 311360,
+   "end_ms": 314400,
+   "snippet": "बाद मिस्टर ट्रंप इज़ इन नाटो की मीटिंग चल",
+   "start_time_text": "5:11",
+   "start_time_label": "5:11"
+  },
+  {
+   "start_ms": 314400,
+   "end_ms": 317360,
+   "snippet": "रही है इन टर्की। तो वहां पे भी अब काफी",
+   "start_time_text": "5:14",
+   "start_time_label": "5:14"
+  },
+  {
+   "start_ms": 317360,
+   "end_ms": 319120,
+   "snippet": "कॉम्प्लिकेशंस हैं। अगेन ही पुट मतलब",
+   "start_time_text": "5:17",
+   "start_time_label": "5:17"
+  },
+  {
+   "start_ms": 319120,
+   "end_ms": 320720,
+   "snippet": "उन्होंने ग्रीनलैंड का इशू उठाया।",
+   "start_time_text": "5:19",
+   "start_time_label": "5:19"
+  },
+  {
+   "start_ms": 320720,
+   "end_ms": 322400,
+   "snippet": "उन्होंने कहा कि भ ग्रीनलैंड जो है यूएस",
+   "start_time_text": "5:20",
+   "start_time_label": "5:20"
+  },
+  {
+   "start_ms": 322400,
+   "end_ms": 324240,
+   "snippet": "को एक्वायर कर देना चाहिए। डेनमार्क को",
+   "start_time_text": "5:22",
+   "start_time_label": "5:22"
+  },
+  {
+   "start_ms": 324240,
+   "end_ms": 326800,
+   "snippet": "छोड़ देना चाहिए। ठीक है? तो फिर अगेन दोज़",
+   "start_time_text": "5:24",
+   "start_time_label": "5:24"
+  },
+  {
+   "start_ms": 326800,
+   "end_ms": 330160,
+   "snippet": "ट्रेंड रिलेशनशिप्स विद यूरोप एंड यूएस वो",
+   "start_time_text": "5:26",
+   "start_time_label": "5:26"
+  },
+  {
+   "start_ms": 330160,
+   "end_ms": 332240,
+   "snippet": "क्लियरली नजर आ रहे हैं। उन्होंने ये भी",
+   "start_time_text": "5:30",
+   "start_time_label": "5:30"
+  },
+  {
+   "start_ms": 332240,
+   "end_ms": 334800,
+   "snippet": "बोला कि भ नाटो में मैं यूरोपियन कंट्रीज",
+   "start_time_text": "5:32",
+   "start_time_label": "5:32"
+  },
+  {
+   "start_ms": 334800,
+   "end_ms": 337120,
+   "snippet": "में जितनी भी हमारी फोर्सेस हैं जो हम",
+   "start_time_text": "5:34",
+   "start_time_label": "5:34"
+  },
+  {
+   "start_ms": 337120,
+   "end_ms": 338800,
+   "snippet": "मतलब डिफेंड करते हैं यूरोपियन कंट्रीज को",
+   "start_time_text": "5:37",
+   "start_time_label": "5:37"
+  },
+  {
+   "start_ms": 338800,
+   "end_ms": 341199,
+   "snippet": "वो हम हटाना बंद हटा लेंगे। तो ये भी",
+   "start_time_text": "5:38",
+   "start_time_label": "5:38"
+  },
+  {
+   "start_ms": 341199,
+   "end_ms": 344720,
+   "snippet": "उन्होंने वहां बोला है। और उसके बाद मतलब",
+   "start_time_text": "5:41",
+   "start_time_label": "5:41"
+  },
+  {
+   "start_ms": 344720,
+   "end_ms": 346560,
+   "snippet": "रशिया इज़ आल्सो कंटिन्यूइंग मिलिट्री",
+   "start_time_text": "5:44",
+   "start_time_label": "5:44"
+  },
+  {
+   "start_ms": 346560,
+   "end_ms": 348160,
+   "snippet": "अग्रेशन। और यूक्रेन इज़ आल्सो कंटिन्यूइंग",
+   "start_time_text": "5:46",
+   "start_time_label": "5:46"
+  },
+  {
+   "start_ms": 348160,
+   "end_ms": 349840,
+   "snippet": "मिलिट्री अग्रेशन। तो वहां पर भी वो थोड़ी",
+   "start_time_text": "5:48",
+   "start_time_label": "5:48"
+  },
+  {
+   "start_ms": 349840,
+   "end_ms": 352800,
+   "snippet": "सी एस्केलेशंस बढ़ती हुई ही नजर आ रही है।",
+   "start_time_text": "5:49",
+   "start_time_label": "5:49"
+  },
+  {
+   "start_ms": 352800,
+   "end_ms": 354800,
+   "snippet": "राइट लास्ट अगर एक दो हफ्ते देखें तो",
+   "start_time_text": "5:52",
+   "start_time_label": "5:52"
+  },
+  {
+   "start_ms": 354800,
+   "end_ms": 356560,
+   "snippet": "रशिया यूक्रेन वॉर जो है इट इज़ बिकमिंग",
+   "start_time_text": "5:54",
+   "start_time_label": "5:54"
+  },
+  {
+   "start_ms": 356560,
+   "end_ms": 359759,
+   "snippet": "हॉटर। ठीक है? तो तो वो भी एक डिस्कशन में",
+   "start_time_text": "5:56",
+   "start_time_label": "5:56"
+  },
+  {
+   "start_ms": 359759,
+   "end_ms": 362000,
+   "snippet": "है ही बिकॉज़ इट इज़ वेरी क्लोज टू यूरोप जो",
+   "start_time_text": "5:59",
+   "start_time_label": "5:59"
+  },
+  {
+   "start_ms": 362000,
+   "end_ms": 364800,
+   "snippet": "वो वॉर चल रहा है। ठीक है? तो वहां पे भी",
+   "start_time_text": "6:02",
+   "start_time_label": "6:02"
+  },
+  {
+   "start_ms": 364800,
+   "end_ms": 367120,
+   "snippet": "ये गरमा गर्मी जो है मतलब जिओपॉलिटिक्स",
+   "start_time_text": "6:04",
+   "start_time_label": "6:04"
+  },
+  {
+   "start_ms": 367120,
+   "end_ms": 368479,
+   "snippet": "में चल रही है। व्हिच कैन इंपैक्ट",
+   "start_time_text": "6:07",
+   "start_time_label": "6:07"
+  },
+  {
+   "start_ms": 368479,
+   "end_ms": 370400,
+   "snippet": "मार्केट्स व्हिच कैन इंपैक्ट अब ये कुछ",
+   "start_time_text": "6:08",
+   "start_time_label": "6:08"
+  },
+  {
+   "start_ms": 370400,
+   "end_ms": 372160,
+   "snippet": "टेरिफ लग गए। ये लग गया वो लग गया। आपको",
+   "start_time_text": "6:10",
+   "start_time_label": "6:10"
+  },
+  {
+   "start_ms": 372160,
+   "end_ms": 374400,
+   "snippet": "पता ही है हाउ थिंग्स को। तो ये सारी",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 374400,
+   "end_ms": 376160,
+   "snippet": "चीजें भी मार्केट्स जो है वो काफी क्लोजली",
+   "start_time_text": "6:14",
+   "start_time_label": "6:14"
+  },
+  {
+   "start_ms": 376160,
+   "end_ms": 378639,
+   "snippet": "वॉच कर रही है। ठीक है? अब इंडिया के",
+   "start_time_text": "6:16",
+   "start_time_label": "6:16"
+  },
+  {
+   "start_ms": 378639,
+   "end_ms": 380319,
+   "snippet": "आसपास आ जाते हैं तो इंडिया में थोड़ी सी",
+   "start_time_text": "6:18",
+   "start_time_label": "6:18"
+  },
+  {
+   "start_ms": 380319,
+   "end_ms": 383440,
+   "snippet": "पॉजिटिविटी आई है लास्ट आई वुड से तीन",
+   "start_time_text": "6:20",
+   "start_time_label": "6:20"
+  },
+  {
+   "start_ms": 383440,
+   "end_ms": 386240,
+   "snippet": "हफ्ते से मोटा-मोटा तो एक तो फॉरेन",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386240,
+   "end_ms": 387759,
+   "snippet": "इंस्टीट्यूशन इन्वेस्टर्स ने थोड़ी सी",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 387759,
+   "end_ms": 390080,
+   "snippet": "बाइंग शुरू की है। अगर हम सेकंड हाफ ऑफ",
+   "start_time_text": "6:27",
+   "start_time_label": "6:27"
+  },
+  {
+   "start_ms": 390080,
+   "end_ms": 392560,
+   "snippet": "जून देखें 15 जनवरी से 30th जून तक तो",
+   "start_time_text": "6:30",
+   "start_time_label": "6:30"
+  },
+  {
+   "start_ms": 392560,
+   "end_ms": 394960,
+   "snippet": "ऑलमोस्ट ₹14,000 करोड़ का सामान खरीदा है",
+   "start_time_text": "6:32",
+   "start_time_label": "6:32"
+  },
+  {
+   "start_ms": 394960,
+   "end_ms": 398560,
+   "snippet": "नेट एफपीआई ने और अभी तक जुलाई में",
+   "start_time_text": "6:34",
+   "start_time_label": "6:34"
+  },
+  {
+   "start_ms": 398560,
+   "end_ms": 400720,
+   "snippet": "ऑलमोस्ट ₹3000 करोड़ का सामान खरीद चुके",
+   "start_time_text": "6:38",
+   "start_time_label": "6:38"
+  },
+  {
+   "start_ms": 400720,
+   "end_ms": 403520,
+   "snippet": "हैं। ओवरऑल अगर हम देखें कि भाई जून में",
+   "start_time_text": "6:40",
+   "start_time_label": "6:40"
+  },
+  {
+   "start_ms": 403520,
+   "end_ms": 405840,
+   "snippet": "वैसे तो ₹63,000 करोड़ का सामान बेचा भी",
+   "start_time_text": "6:43",
+   "start_time_label": "6:43"
+  },
+  {
+   "start_ms": 405840,
+   "end_ms": 407680,
+   "snippet": "है। मतलब फर्स्ट हाफ में बट ठीक है। तो",
+   "start_time_text": "6:45",
+   "start_time_label": "6:45"
+  },
+  {
+   "start_ms": 407680,
+   "end_ms": 410160,
+   "snippet": "मतलब जब से क्रूड ऑयल प्राइसेस हैज़ गॉन",
+   "start_time_text": "6:47",
+   "start_time_label": "6:47"
+  },
+  {
+   "start_ms": 410160,
+   "end_ms": 412960,
+   "snippet": "डाउन तो एफपीआई इंटरेस्ट हैज़ अगेन गॉन",
+   "start_time_text": "6:50",
+   "start_time_label": "6:50"
+  },
+  {
+   "start_ms": 412960,
+   "end_ms": 414639,
+   "snippet": "इंटू इंडिया। तो एक तो वो फैक्टर है क्रूड",
+   "start_time_text": "6:52",
+   "start_time_label": "6:52"
+  },
+  {
+   "start_ms": 414639,
+   "end_ms": 416960,
+   "snippet": "ऑयल प्राइसेस का। दूसरा सेमीकंडक्टर रैली",
+   "start_time_text": "6:54",
+   "start_time_label": "6:54"
+  },
+  {
+   "start_ms": 416960,
+   "end_ms": 419919,
+   "snippet": "जो है वो थोड़ी सी स्टीम जो जितनी जबरदस्त",
+   "start_time_text": "6:56",
+   "start_time_label": "6:56"
+  },
+  {
+   "start_ms": 419919,
+   "end_ms": 422160,
+   "snippet": "चल रही थी उसमें थोड़ा सा स्टीम कम होती",
+   "start_time_text": "6:59",
+   "start_time_label": "6:59"
+  },
+  {
+   "start_ms": 422160,
+   "end_ms": 424240,
+   "snippet": "हुई नजर आ रही है। तो नाउ इंस्टीट्यूशन",
+   "start_time_text": "7:02",
+   "start_time_label": "7:02"
+  },
+  {
+   "start_ms": 424240,
+   "end_ms": 426240,
+   "snippet": "इन्वेस्टर्स आर बेसिकली गोइंग फॉर अ मोर",
+   "start_time_text": "7:04",
+   "start_time_label": "7:04"
+  },
+  {
+   "start_ms": 426240,
+   "end_ms": 427840,
+   "snippet": "वैल्यू मार्केट एंड क्लियरली इंडिया इज़ अ",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 427840,
+   "end_ms": 430880,
+   "snippet": "वैल्यू मार्केट स्पेशली कंपेयर टू द",
+   "start_time_text": "7:07",
+   "start_time_label": "7:07"
+  },
+  {
+   "start_ms": 430880,
+   "end_ms": 433360,
+   "snippet": "ताइवान एंड कोरिया तो है ही फॉर श्योर।",
+   "start_time_text": "7:10",
+   "start_time_label": "7:10"
+  },
+  {
+   "start_ms": 433360,
+   "end_ms": 435599,
+   "snippet": "ठीक है? तो वह चीजें भी यहां पर चल रही",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 435599,
+   "end_ms": 437520,
+   "snippet": "हैं। तो वह थोड़ी सी पॉजिटिविटी एज आई सेड",
+   "start_time_text": "7:15",
+   "start_time_label": "7:15"
+  },
+  {
+   "start_ms": 437520,
+   "end_ms": 439440,
+   "snippet": "इंडियन मार्केट्स में एटलीस्ट फ्रॉम",
+   "start_time_text": "7:17",
+   "start_time_label": "7:17"
+  },
+  {
+   "start_ms": 439440,
+   "end_ms": 442160,
+   "snippet": "एफपीआई पर्सेक्टिव दिखी।",
+   "start_time_text": "7:19",
+   "start_time_label": "7:19"
+  },
+  {
+   "start_ms": 442160,
+   "end_ms": 443919,
+   "snippet": "ईवी का जब डाटा आ रहा था तो मैंने परसों",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 443919,
+   "end_ms": 445520,
+   "snippet": "भी थोड़ी सी हमारी बात हुई थी इसके ऊपर तो",
+   "start_time_text": "7:23",
+   "start_time_label": "7:23"
+  },
+  {
+   "start_ms": 445520,
+   "end_ms": 447039,
+   "snippet": "थोड़ा और डाटा आया तो मैं आई थॉट आई विल",
+   "start_time_text": "7:25",
+   "start_time_label": "7:25"
+  },
+  {
+   "start_ms": 447039,
+   "end_ms": 449599,
+   "snippet": "टॉक अबाउट इट कि 12% इलेक्ट्रिक व्हीकल का",
+   "start_time_text": "7:27",
+   "start_time_label": "7:27"
+  },
+  {
+   "start_ms": 449599,
+   "end_ms": 451520,
+   "snippet": "पेनिट्रेशन इंडिया में हो चुका है। जिसमें",
+   "start_time_text": "7:29",
+   "start_time_label": "7:29"
+  },
+  {
+   "start_ms": 451520,
+   "end_ms": 454960,
+   "snippet": "से मेजरली टू व्हीलर्स का है। तो 10.10.6%",
+   "start_time_text": "7:31",
+   "start_time_label": "7:31"
+  },
+  {
+   "start_ms": 454960,
+   "end_ms": 457440,
+   "snippet": "टू व्हीलर का पहली बार डबल डिजिट में आया।",
+   "start_time_text": "7:34",
+   "start_time_label": "7:34"
+  },
+  {
+   "start_ms": 457440,
+   "end_ms": 460160,
+   "snippet": "टू व्हीलर का पेनिट्रेशन 10% व्हीकल्स अब",
+   "start_time_text": "7:37",
+   "start_time_label": "7:37"
+  },
+  {
+   "start_ms": 460160,
+   "end_ms": 463120,
+   "snippet": "जो बिक रही है वो ईवी की बिक रही है। ठीक",
+   "start_time_text": "7:40",
+   "start_time_label": "7:40"
+  },
+  {
+   "start_ms": 463120,
+   "end_ms": 464720,
+   "snippet": "है? ठीक है? टू व्हीलर्स में व्हिच इज़ अ",
+   "start_time_text": "7:43",
+   "start_time_label": "7:43"
+  },
+  {
+   "start_ms": 464720,
+   "end_ms": 467440,
+   "snippet": "वेरी गुड नंबर। ठीक है? ओवरऑल ईवी जो सेल",
+   "start_time_text": "7:44",
+   "start_time_label": "7:44"
+  },
+  {
+   "start_ms": 467440,
+   "end_ms": 470400,
+   "snippet": "है राइट? रिटेल सेल ऑलमोस्ट 63% ईयर ऑन",
+   "start_time_text": "7:47",
+   "start_time_label": "7:47"
+  },
+  {
+   "start_ms": 470400,
+   "end_ms": 472240,
+   "snippet": "ईयर बढ़ा है जून में। 63% व्हिच इज़",
+   "start_time_text": "7:50",
+   "start_time_label": "7:50"
+  },
+  {
+   "start_ms": 472240,
+   "end_ms": 476319,
+   "snippet": "अमेजिंग। राइट? तो उसमें से अगर हम देखें",
+   "start_time_text": "7:52",
+   "start_time_label": "7:52"
+  },
+  {
+   "start_ms": 476319,
+   "end_ms": 478560,
+   "snippet": "राइट तो TVS मोटर अगर टू व्हीलर की बात",
+   "start_time_text": "7:56",
+   "start_time_label": "7:56"
+  },
+  {
+   "start_ms": 478560,
+   "end_ms": 480479,
+   "snippet": "करें तो TVS मोटर क्लियरली नंबर वन है।",
+   "start_time_text": "7:58",
+   "start_time_label": "7:58"
+  },
+  {
+   "start_ms": 480479,
+   "end_ms": 483120,
+   "snippet": "47,000 व्हीकल्स बेची हैं उन्होंने। राइट?",
+   "start_time_text": "8:00",
+   "start_time_label": "8:00"
+  },
+  {
+   "start_ms": 483120,
+   "end_ms": 486240,
+   "snippet": "एंड 76% ईयर ऑन ईयर ग्रोथ है। ठीक है? ठीक",
+   "start_time_text": "8:03",
+   "start_time_label": "8:03"
+  },
+  {
+   "start_ms": 486240,
+   "end_ms": 488080,
+   "snippet": "है? फिर Bajaj Auto ने 43,000 बेची हैं।",
+   "start_time_text": "8:06",
+   "start_time_label": "8:06"
+  },
+  {
+   "start_ms": 488080,
+   "end_ms": 490000,
+   "snippet": "80% ईयर ऑन ईयर ग्रोथ है। अथर एनर्जी ने",
+   "start_time_text": "8:08",
+   "start_time_label": "8:08"
+  },
+  {
+   "start_ms": 490000,
+   "end_ms": 493199,
+   "snippet": "31,000 व्हीकल्स बेची हैं। 95% ईयर ऑन ईयर",
+   "start_time_text": "8:10",
+   "start_time_label": "8:10"
+  },
+  {
+   "start_ms": 493199,
+   "end_ms": 495919,
+   "snippet": "ग्रोथ है। राइट? तो काफी जबरदस्त वहां पर",
+   "start_time_text": "8:13",
+   "start_time_label": "8:13"
+  },
+  {
+   "start_ms": 495919,
+   "end_ms": 498479,
+   "snippet": "ग्रोथ जो है टू व्हीलर में स्पेशली ईवी",
+   "start_time_text": "8:15",
+   "start_time_label": "8:15"
+  },
+  {
+   "start_ms": 498479,
+   "end_ms": 499840,
+   "snippet": "में आ रहा है। और इवन हमने देखे Tata",
+   "start_time_text": "8:18",
+   "start_time_label": "8:18"
+  },
+  {
+   "start_ms": 499840,
+   "end_ms": 501919,
+   "snippet": "Motors वगैरह के भी रिजल्ट्स देखे तो इवन",
+   "start_time_text": "8:19",
+   "start_time_label": "8:19"
+  },
+  {
+   "start_ms": 501919,
+   "end_ms": 503360,
+   "snippet": "फोर व्हीलर्स में भी और क्यों है? क्रूड",
+   "start_time_text": "8:21",
+   "start_time_label": "8:21"
+  },
+  {
+   "start_ms": 503360,
+   "end_ms": 505039,
+   "snippet": "ऑयल प्राइसेस बढ़ गए हैं। एक तो ठीक है?",
+   "start_time_text": "8:23",
+   "start_time_label": "8:23"
+  },
+  {
+   "start_ms": 505039,
+   "end_ms": 506560,
+   "snippet": "और अच्छा खासा मतलब बेनिफिट्स तो",
+   "start_time_text": "8:25",
+   "start_time_label": "8:25"
+  },
+  {
+   "start_ms": 506560,
+   "end_ms": 508240,
+   "snippet": "गवर्नमेंट दे रही है। राइट इसमें तो वो सब",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508240,
+   "end_ms": 509840,
+   "snippet": "बेनिफिट्स जो है उसके चक्कर में काफी",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 509840,
+   "end_ms": 512159,
+   "snippet": "अट्रैक्टिव अब ये और एफिशिएंसी भी इंप्रूव",
+   "start_time_text": "8:29",
+   "start_time_label": "8:29"
+  },
+  {
+   "start_ms": 512159,
+   "end_ms": 515039,
+   "snippet": "हो रही है। राइट? वो भी एक फैक्टर है।",
+   "start_time_text": "8:32",
+   "start_time_label": "8:32"
+  },
+  {
+   "start_ms": 515039,
+   "end_ms": 518800,
+   "snippet": "बाकी एक जो इकोनॉमिक एडवाइजर काउंसिल है",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 518800,
+   "end_ms": 520080,
+   "snippet": "प्राइम मिनिस्टर की तो उन्होंने एक पेपर",
+   "start_time_text": "8:38",
+   "start_time_label": "8:38"
+  },
+  {
+   "start_ms": 520080,
+   "end_ms": 522080,
+   "snippet": "निकाला तो उन्होंने कहा कि भ राइजिंग सोलर",
+   "start_time_text": "8:40",
+   "start_time_label": "8:40"
+  },
+  {
+   "start_ms": 522080,
+   "end_ms": 523680,
+   "snippet": "पेनिट्रेशन जो है ना पावर ग्रिड पे",
+   "start_time_text": "8:42",
+   "start_time_label": "8:42"
+  },
+  {
+   "start_ms": 523680,
+   "end_ms": 525120,
+   "snippet": "स्ट्रेस क्रिएट कर रहा है। अच्छा ये पता",
+   "start_time_text": "8:43",
+   "start_time_label": "8:43"
+  },
+  {
+   "start_ms": 525120,
+   "end_ms": 526720,
+   "snippet": "था बट उन्होंने थोड़े से डिटेल्स दी हैं",
+   "start_time_text": "8:45",
+   "start_time_label": "8:45"
+  },
+  {
+   "start_ms": 526720,
+   "end_ms": 528560,
+   "snippet": "उसके ऊपर। ठीक है? तो उन्होंने क्या किया",
+   "start_time_text": "8:46",
+   "start_time_label": "8:46"
+  },
+  {
+   "start_ms": 528560,
+   "end_ms": 531760,
+   "snippet": "है कि भाई उन्होंने कहा कि भ हमें ना अगर",
+   "start_time_text": "8:48",
+   "start_time_label": "8:48"
+  },
+  {
+   "start_ms": 531760,
+   "end_ms": 534720,
+   "snippet": "समर डे कि इवनिंग का जो रैंप अप है मतलब",
+   "start_time_text": "8:51",
+   "start_time_label": "8:51"
+  },
+  {
+   "start_ms": 534720,
+   "end_ms": 536240,
+   "snippet": "बेसिकली क्या समर्स में क्या होता है? दिन",
+   "start_time_text": "8:54",
+   "start_time_label": "8:54"
+  },
+  {
+   "start_ms": 536240,
+   "end_ms": 538000,
+   "snippet": "में भाई सोलर आती है। रात को तो आती नहीं",
+   "start_time_text": "8:56",
+   "start_time_label": "8:56"
+  },
+  {
+   "start_ms": 538000,
+   "end_ms": 540560,
+   "snippet": "है। ठीक है? और उसके चक्कर में रात को जो",
+   "start_time_text": "8:58",
+   "start_time_label": "8:58"
+  },
+  {
+   "start_ms": 540560,
+   "end_ms": 542720,
+   "snippet": "ग्रिड पे स्ट्रेस आ जाता है क्योंकि रात",
+   "start_time_text": "9:00",
+   "start_time_label": "9:00"
+  },
+  {
+   "start_ms": 542720,
+   "end_ms": 545360,
+   "snippet": "को भाई सोलर एनर्जी तो है नहीं तो अब",
+   "start_time_text": "9:02",
+   "start_time_label": "9:02"
+  },
+  {
+   "start_ms": 545360,
+   "end_ms": 547680,
+   "snippet": "ग्रिड के पास एनर्जी कहां से आएगी? तो या",
+   "start_time_text": "9:05",
+   "start_time_label": "9:05"
+  },
+  {
+   "start_ms": 547680,
+   "end_ms": 550480,
+   "snippet": "तो तुम स्टोर करके रखो बैटरीज से या पंप",
+   "start_time_text": "9:07",
+   "start_time_label": "9:07"
+  },
+  {
+   "start_ms": 550480,
+   "end_ms": 552480,
+   "snippet": "स्टोरेज वो हम सब डिस्कस करते रहते हैं।",
+   "start_time_text": "9:10",
+   "start_time_label": "9:10"
+  },
+  {
+   "start_ms": 552480,
+   "end_ms": 556080,
+   "snippet": "राइट? तो उसके लिए उन्होंने बोला है कि भ",
+   "start_time_text": "9:12",
+   "start_time_label": "9:12"
+  },
+  {
+   "start_ms": 556080,
+   "end_ms": 558800,
+   "snippet": "हम हमारे हिसाब से एक बहुत बड़ा स्ट्रांग",
+   "start_time_text": "9:16",
+   "start_time_label": "9:16"
+  },
+  {
+   "start_ms": 558800,
+   "end_ms": 560880,
+   "snippet": "प्लान उसके लिए हमें बेसिकली डेवलप करना",
+   "start_time_text": "9:18",
+   "start_time_label": "9:18"
+  },
+  {
+   "start_ms": 560880,
+   "end_ms": 566640,
+   "snippet": "पड़ेगा। ठीक है? तो 23.8 गीगा वाट की",
+   "start_time_text": "9:20",
+   "start_time_label": "9:20"
+  },
+  {
+   "start_ms": 566640,
+   "end_ms": 569839,
+   "snippet": "कैपेसिटी करेंटली हमारे देश के पास है।",
+   "start_time_text": "9:26",
+   "start_time_label": "9:26"
+  },
+  {
+   "start_ms": 569839,
+   "end_ms": 573200,
+   "snippet": "राइट अ टू स्टोर पंप स्टोरेज है या बैटरी",
+   "start_time_text": "9:29",
+   "start_time_label": "9:29"
+  },
+  {
+   "start_ms": 573200,
+   "end_ms": 576399,
+   "snippet": "फ्लड डिस्चार्ज जो भी है इन मे अगर हम बात",
+   "start_time_text": "9:33",
+   "start_time_label": "9:33"
+  },
+  {
+   "start_ms": 576399,
+   "end_ms": 580240,
+   "snippet": "करें तो बट चाहिए कितनी? 130 की। तो",
+   "start_time_text": "9:36",
+   "start_time_label": "9:36"
+  },
+  {
+   "start_ms": 580240,
+   "end_ms": 584560,
+   "snippet": "ऑलमोस्ट फाइव टाइम्स तो ये जो पंप स्टोरेज",
+   "start_time_text": "9:40",
+   "start_time_label": "9:40"
+  },
+  {
+   "start_ms": 584560,
+   "end_ms": 587440,
+   "snippet": "और बैटरी स्टोरेज की काफी बड़ी इंडस्ट्री",
+   "start_time_text": "9:44",
+   "start_time_label": "9:44"
+  },
+  {
+   "start_ms": 587440,
+   "end_ms": 589600,
+   "snippet": "है। मतलब मैं आपको स्टोरेज गैप बहुत बड़ा",
+   "start_time_text": "9:47",
+   "start_time_label": "9:47"
+  },
+  {
+   "start_ms": 589600,
+   "end_ms": 592160,
+   "snippet": "है। राइट? राइट? और जैसे-जैसे सोलर पे",
+   "start_time_text": "9:49",
+   "start_time_label": "9:49"
+  },
+  {
+   "start_ms": 592160,
+   "end_ms": 593680,
+   "snippet": "फोकस बढ़ रहा है, सोलर क्यों बढ़ रहा है",
+   "start_time_text": "9:52",
+   "start_time_label": "9:52"
+  },
+  {
+   "start_ms": 593680,
+   "end_ms": 596080,
+   "snippet": "सोलर? सोलर सस्ती पड़ रही है और इंडिया इज़",
+   "start_time_text": "9:53",
+   "start_time_label": "9:53"
+  },
+  {
+   "start_ms": 596080,
+   "end_ms": 598880,
+   "snippet": "रिच इन सोलर। ठीक है? और फिर हम सोलर लेते",
+   "start_time_text": "9:56",
+   "start_time_label": "9:56"
+  },
+  {
+   "start_ms": 598880,
+   "end_ms": 601680,
+   "snippet": "हैं तो भाई हम अपना एक तो ये मतलब क्लीन",
+   "start_time_text": "9:58",
+   "start_time_label": "9:58"
+  },
+  {
+   "start_ms": 601680,
+   "end_ms": 603760,
+   "snippet": "एनर्जी है ना? धुआं वगैरह कम होता है तो",
+   "start_time_text": "10:01",
+   "start_time_label": "10:01"
+  },
+  {
+   "start_ms": 603760,
+   "end_ms": 605920,
+   "snippet": "वो सब चीजें एनवायरमेंटल भी सेफ है। ठीक",
+   "start_time_text": "10:03",
+   "start_time_label": "10:03"
+  },
+  {
+   "start_ms": 605920,
+   "end_ms": 607440,
+   "snippet": "है? और हमारे नेचुरल रिसोर्सेज पे भी",
+   "start_time_text": "10:05",
+   "start_time_label": "10:05"
+  },
+  {
+   "start_ms": 607440,
+   "end_ms": 609920,
+   "snippet": "इंपैक्ट कम होता है। तो बेटर एनर्जी तो है",
+   "start_time_text": "10:07",
+   "start_time_label": "10:07"
+  },
+  {
+   "start_ms": 609920,
+   "end_ms": 612480,
+   "snippet": "ही। प्रॉब्लम है कि रात को नहीं आती है।",
+   "start_time_text": "10:09",
+   "start_time_label": "10:09"
+  },
+  {
+   "start_ms": 612480,
+   "end_ms": 613760,
+   "snippet": "ठीक है? और उसके चक्कर में क्या है कि",
+   "start_time_text": "10:12",
+   "start_time_label": "10:12"
+  },
+  {
+   "start_ms": 613760,
+   "end_ms": 615440,
+   "snippet": "स्टोरेज कैपेसिटी बहुत इंप्रूव करनी है।",
+   "start_time_text": "10:13",
+   "start_time_label": "10:13"
+  },
+  {
+   "start_ms": 615440,
+   "end_ms": 617200,
+   "snippet": "तो दैट्स व्हाट द मेजर पेपर इज़ वाज़ ऑल",
+   "start_time_text": "10:15",
+   "start_time_label": "10:15"
+  },
+  {
+   "start_ms": 617200,
+   "end_ms": 618720,
+   "snippet": "अबाउट।",
+   "start_time_text": "10:17",
+   "start_time_label": "10:17"
+  },
+  {
+   "start_ms": 618720,
+   "end_ms": 620720,
+   "snippet": "बाकी जून में नॉन लाइफ इंश्योरेंस के",
+   "start_time_text": "10:18",
+   "start_time_label": "10:18"
+  },
+  {
+   "start_ms": 620720,
+   "end_ms": 622399,
+   "snippet": "प्रीमियम का कुछ नंबर्स आए तो कंपनीज का",
+   "start_time_text": "10:20",
+   "start_time_label": "10:20"
+  },
+  {
+   "start_ms": 622399,
+   "end_ms": 624240,
+   "snippet": "कुछ ध्यान रखना जो जो कुछ बोलूंगा मैं कि",
+   "start_time_text": "10:22",
+   "start_time_label": "10:22"
+  },
+  {
+   "start_ms": 624240,
+   "end_ms": 626160,
+   "snippet": "कैसे-कैसे नंबर्स आ रहे हैं। ठीक है? तो",
+   "start_time_text": "10:24",
+   "start_time_label": "10:24"
+  },
+  {
+   "start_ms": 626160,
+   "end_ms": 629279,
+   "snippet": "ऑलमोस्ट 16% का नॉन लाइफ इंश्योरेंस मतलब",
+   "start_time_text": "10:26",
+   "start_time_label": "10:26"
+  },
+  {
+   "start_ms": 629279,
+   "end_ms": 631600,
+   "snippet": "जनरल इंश्योरेंस कंपनीज़ में 16% का",
+   "start_time_text": "10:29",
+   "start_time_label": "10:29"
+  },
+  {
+   "start_ms": 631600,
+   "end_ms": 635360,
+   "snippet": "प्रीमियम ग्रोथ हुआ है जून में ईयर ऑन ईयर",
+   "start_time_text": "10:31",
+   "start_time_label": "10:31"
+  },
+  {
+   "start_ms": 635360,
+   "end_ms": 639120,
+   "snippet": "जो कि 5 मंथ्स का हाईएस्ट है। ठीक है? और",
+   "start_time_text": "10:35",
+   "start_time_label": "10:35"
+  },
+  {
+   "start_ms": 639120,
+   "end_ms": 641519,
+   "snippet": "इसमें हेल्थ इंश्योरेंस जो स्टैंड अलोन",
+   "start_time_text": "10:39",
+   "start_time_label": "10:39"
+  },
+  {
+   "start_ms": 641519,
+   "end_ms": 642720,
+   "snippet": "हेल्थ इंश्योरेंस है उसका ज्यादा अच्छा",
+   "start_time_text": "10:41",
+   "start_time_label": "10:41"
+  },
+  {
+   "start_ms": 642720,
+   "end_ms": 645440,
+   "snippet": "था। वो 30% के आसपास था। ठीक है? और 14%",
+   "start_time_text": "10:42",
+   "start_time_label": "10:42"
+  },
+  {
+   "start_ms": 645440,
+   "end_ms": 647519,
+   "snippet": "का नॉर्मल जनरल इंश्योरेंस वालों का था।",
+   "start_time_text": "10:45",
+   "start_time_label": "10:45"
+  },
+  {
+   "start_ms": 647519,
+   "end_ms": 649839,
+   "snippet": "तो कंपनी स्पेसिफिक अगर हम बात करें तो",
+   "start_time_text": "10:47",
+   "start_time_label": "10:47"
+  },
+  {
+   "start_ms": 649839,
+   "end_ms": 652000,
+   "snippet": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर",
+   "start_time_text": "10:49",
+   "start_time_label": "10:49"
+  },
+  {
+   "start_ms": 652000,
+   "end_ms": 656959,
+   "snippet": "जून में ICICI लॉब 13.7% बिलो एवरेज",
+   "start_time_text": "10:52",
+   "start_time_label": "10:52"
+  },
+  {
+   "start_ms": 656959,
+   "end_ms": 660399,
+   "snippet": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक",
+   "start_time_text": "10:56",
+   "start_time_label": "10:56"
+  },
+  {
+   "start_ms": 660399,
+   "end_ms": 663600,
+   "snippet": "है यूनाइटेड ऑलमोस्ट 2.7%",
+   "start_time_text": "11:00",
+   "start_time_label": "11:00"
+  },
+  {
+   "start_ms": 663600,
+   "end_ms": 666560,
+   "snippet": "स्टार हेल्थ 19% का प्रीमियम ग्रोथ हुआ।",
+   "start_time_text": "11:03",
+   "start_time_label": "11:03"
+  },
+  {
+   "start_ms": 666560,
+   "end_ms": 669839,
+   "snippet": "निवापा जो है ऑलमोस्ट 34 एंड केयर हेल्थ",
+   "start_time_text": "11:06",
+   "start_time_label": "11:06"
+  },
+  {
+   "start_ms": 669839,
+   "end_ms": 673120,
+   "snippet": "ऑलमोस्ट 41% का ईयर ईयर ऑन ईयर ग्रोथ हुआ",
+   "start_time_text": "11:09",
+   "start_time_label": "11:09"
+  },
+  {
+   "start_ms": 673120,
+   "end_ms": 675360,
+   "snippet": "है जून में। तो ये सब नंबर्स आए हैं। ठीक",
+   "start_time_text": "11:13",
+   "start_time_label": "11:13"
+  },
+  {
+   "start_ms": 675360,
+   "end_ms": 677200,
+   "snippet": "है? तो आपको पता है उसके रिजल्ट्स किस तरह",
+   "start_time_text": "11:15",
+   "start_time_label": "11:15"
+  },
+  {
+   "start_ms": 677200,
+   "end_ms": 678959,
+   "snippet": "आते हैं। वो सारी चीजें आप रिलेट कर सकते",
+   "start_time_text": "11:17",
+   "start_time_label": "11:17"
+  },
+  {
+   "start_ms": 678959,
+   "end_ms": 680560,
+   "snippet": "हैं। जब रिजल्ट्स आएंगे तो वी विल नो बेटर",
+   "start_time_text": "11:18",
+   "start_time_label": "11:18"
+  },
+  {
+   "start_ms": 680560,
+   "end_ms": 682880,
+   "snippet": "बट दीज़ आर द नंबर्स फ्रॉम नॉन लाइफ",
+   "start_time_text": "11:20",
+   "start_time_label": "11:20"
+  },
+  {
+   "start_ms": 682880,
+   "end_ms": 685040,
+   "snippet": "इंश्योरेंस प्रीमियम्स।",
+   "start_time_text": "11:22",
+   "start_time_label": "11:22"
+  },
+  {
+   "start_ms": 685040,
+   "end_ms": 687360,
+   "snippet": "बाकी ना ऑटो कॉम्पोनेंट का भी एफ 26 के",
+   "start_time_text": "11:25",
+   "start_time_label": "11:25"
+  },
+  {
+   "start_ms": 687360,
+   "end_ms": 689600,
+   "snippet": "नंबर्स आए तो काफी अच्छा टर्नओवर आया।",
+   "start_time_text": "11:27",
+   "start_time_label": "11:27"
+  },
+  {
+   "start_ms": 689600,
+   "end_ms": 692959,
+   "snippet": "मतलब टोटल सेल आया 7.6 लाख करोड़ का 86",
+   "start_time_text": "11:29",
+   "start_time_label": "11:29"
+  },
+  {
+   "start_ms": 692959,
+   "end_ms": 696000,
+   "snippet": "बिलियन ऑलमोस्ट फाइनेंसियल ईयर में। राइट?",
+   "start_time_text": "11:32",
+   "start_time_label": "11:32"
+  },
+  {
+   "start_ms": 696000,
+   "end_ms": 698720,
+   "snippet": "क्योंकि भाई एक तो हमारा ऑटो सेक्टर भी",
+   "start_time_text": "11:36",
+   "start_time_label": "11:36"
+  },
+  {
+   "start_ms": 698720,
+   "end_ms": 700880,
+   "snippet": "बहुत अच्छा किया है इस लास्ट ईयर। ठीक है?",
+   "start_time_text": "11:38",
+   "start_time_label": "11:38"
+  },
+  {
+   "start_ms": 700880,
+   "end_ms": 702000,
+   "snippet": "काफी अच्छा एक्सपोर्ट्स भी रहा।",
+   "start_time_text": "11:40",
+   "start_time_label": "11:40"
+  },
+  {
+   "start_ms": 702000,
+   "end_ms": 703440,
+   "snippet": "डोमेस्टिकली भी बहुत अच्छा किया। जीएसटी",
+   "start_time_text": "11:42",
+   "start_time_label": "11:42"
+  },
+  {
+   "start_ms": 703440,
+   "end_ms": 705279,
+   "snippet": "वगैरह का बेनिफिट मिला। तो उसके चक्कर में",
+   "start_time_text": "11:43",
+   "start_time_label": "11:43"
+  },
+  {
+   "start_ms": 705279,
+   "end_ms": 706959,
+   "snippet": "ऑटो कॉमोनेंट ने भी अच्छा किया। ठीक है?",
+   "start_time_text": "11:45",
+   "start_time_label": "11:45"
+  },
+  {
+   "start_ms": 706959,
+   "end_ms": 708640,
+   "snippet": "तो ओरिजिनल इक्विपमेंट मैन्युफैक्चरर्स को",
+   "start_time_text": "11:46",
+   "start_time_label": "11:46"
+  },
+  {
+   "start_ms": 708640,
+   "end_ms": 710480,
+   "snippet": "जो ये सामान दे रहे हैं तो 16% का ग्रोथ",
+   "start_time_text": "11:48",
+   "start_time_label": "11:48"
+  },
+  {
+   "start_ms": 710480,
+   "end_ms": 712800,
+   "snippet": "आया उसमें। ठीक है? ओवरऑल ईयर ऑन ईयर",
+   "start_time_text": "11:50",
+   "start_time_label": "11:50"
+  },
+  {
+   "start_ms": 712800,
+   "end_ms": 715360,
+   "snippet": "एफवाई 26 में। ठीक है? एज़ कंपेयर टू एफवाई",
+   "start_time_text": "11:52",
+   "start_time_label": "11:52"
+  },
+  {
+   "start_ms": 715360,
+   "end_ms": 718640,
+   "snippet": "25। राइट? और अगर हम आफ्टर मार्केट की बात",
+   "start_time_text": "11:55",
+   "start_time_label": "11:55"
+  },
+  {
+   "start_ms": 718640,
+   "end_ms": 720640,
+   "snippet": "करें तो वो भी 9% का ग्रोथ आया और",
+   "start_time_text": "11:58",
+   "start_time_label": "11:58"
+  },
+  {
+   "start_ms": 720640,
+   "end_ms": 722880,
+   "snippet": "एक्सपोर्ट्स भी 5% से बढ़े हैं। मेजरली",
+   "start_time_text": "12:00",
+   "start_time_label": "12:00"
+  },
+  {
+   "start_ms": 722880,
+   "end_ms": 724720,
+   "snippet": "सबसे ज्यादा एक्सपोर्ट यूरोप में पड़ा है।",
+   "start_time_text": "12:02",
+   "start_time_label": "12:02"
+  },
+  {
+   "start_ms": 724720,
+   "end_ms": 727200,
+   "snippet": "व्हिच इज़ गुड राइट? यूरोप तो काफी बड़ा हब",
+   "start_time_text": "12:04",
+   "start_time_label": "12:04"
+  },
+  {
+   "start_ms": 727200,
+   "end_ms": 729920,
+   "snippet": "है। राइट? हब है फ्रॉम ऑटो कॉम्पोनेंट",
+   "start_time_text": "12:07",
+   "start_time_label": "12:07"
+  },
+  {
+   "start_ms": 729920,
+   "end_ms": 732240,
+   "snippet": "पर्सपेक्टिव। राइट? तो वो वहां पर भी काफी",
+   "start_time_text": "12:09",
+   "start_time_label": "12:09"
+  },
+  {
+   "start_ms": 732240,
+   "end_ms": 733680,
+   "snippet": "अच्छा बढ़ा है। एंड इंपोर्ट भी बढ़ा है।",
+   "start_time_text": "12:12",
+   "start_time_label": "12:12"
+  },
+  {
+   "start_ms": 733680,
+   "end_ms": 735440,
+   "snippet": "13% का इंपोर्ट बढ़ा है मेजरली चाइना,",
+   "start_time_text": "12:13",
+   "start_time_label": "12:13"
+  },
+  {
+   "start_ms": 735440,
+   "end_ms": 738240,
+   "snippet": "जापान एंड जर्मनी से। ठीक है? Tata पावर",
+   "start_time_text": "12:15",
+   "start_time_label": "12:15"
+  },
+  {
+   "start_ms": 738240,
+   "end_ms": 739839,
+   "snippet": "का कल मैं एक आर्टिकल पढ़ रहा था। तो",
+   "start_time_text": "12:18",
+   "start_time_label": "12:18"
+  },
+  {
+   "start_ms": 739839,
+   "end_ms": 741760,
+   "snippet": "उन्होंने थोड़ा सा स्ट्रांग ऐसा ₹1 लाख",
+   "start_time_text": "12:19",
+   "start_time_label": "12:19"
+  },
+  {
+   "start_ms": 741760,
+   "end_ms": 744079,
+   "snippet": "करोड़ का रेवेन्यू 20130 में टारगेट किया",
+   "start_time_text": "12:21",
+   "start_time_label": "12:21"
+  },
+  {
+   "start_ms": 744079,
+   "end_ms": 746560,
+   "snippet": "है। अभी कितना है? ऑलमोस्ट एफ26 की बात",
+   "start_time_text": "12:24",
+   "start_time_label": "12:24"
+  },
+  {
+   "start_ms": 746560,
+   "end_ms": 749519,
+   "snippet": "करें तो 63,000 करोड़ का। ठीक है? तो",
+   "start_time_text": "12:26",
+   "start_time_label": "12:26"
+  },
+  {
+   "start_ms": 749519,
+   "end_ms": 752000,
+   "snippet": "मोटा-मोटा कितना? मतलब 60% के आसपास।",
+   "start_time_text": "12:29",
+   "start_time_label": "12:29"
+  },
+  {
+   "start_ms": 752000,
+   "end_ms": 754639,
+   "snippet": "राइट? थोड़ा सा ज्यादा 60-65% का ग्रोथ",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 754639,
+   "end_ms": 756320,
+   "snippet": "उन्होंने बेसिकली एक्सपेक्ट किया है इन",
+   "start_time_text": "12:34",
+   "start_time_label": "12:34"
+  },
+  {
+   "start_ms": 756320,
+   "end_ms": 759600,
+   "snippet": "नेक्स्ट और 2026 में तो फोर इयर्स में।",
+   "start_time_text": "12:36",
+   "start_time_label": "12:36"
+  },
+  {
+   "start_ms": 759600,
+   "end_ms": 761200,
+   "snippet": "ठीक है? है तो उन्होंने कैपेसिटी भी बताई",
+   "start_time_text": "12:39",
+   "start_time_label": "12:39"
+  },
+  {
+   "start_ms": 761200,
+   "end_ms": 763680,
+   "snippet": "है कि भाई हमारा कैपेसिटी करेंटली जो है",
+   "start_time_text": "12:41",
+   "start_time_label": "12:41"
+  },
+  {
+   "start_ms": 763680,
+   "end_ms": 768000,
+   "snippet": "अगर आप बात करें कि ओवरऑल 16.7",
+   "start_time_text": "12:43",
+   "start_time_label": "12:43"
+  },
+  {
+   "start_ms": 768000,
+   "end_ms": 770720,
+   "snippet": "गीगावाट की उनकी ऑपरेशनल कैपेसिटी है और",
+   "start_time_text": "12:48",
+   "start_time_label": "12:48"
+  },
+  {
+   "start_ms": 770720,
+   "end_ms": 773680,
+   "snippet": "उनको 30 गीगावाट करनी है। ऑलमोस्ट डबल",
+   "start_time_text": "12:50",
+   "start_time_label": "12:50"
+  },
+  {
+   "start_ms": 773680,
+   "end_ms": 776079,
+   "snippet": "ऑलमोस्ट मोटा-मोटा नॉट डबल एक्सैक्टली 80%",
+   "start_time_text": "12:53",
+   "start_time_label": "12:53"
+  },
+  {
+   "start_ms": 776079,
+   "end_ms": 779200,
+   "snippet": "के आसपास का ग्रोथ इन कैपेसिटी ग्रोथ",
+   "start_time_text": "12:56",
+   "start_time_label": "12:56"
+  },
+  {
+   "start_ms": 779200,
+   "end_ms": 781760,
+   "snippet": "उन्होंने बोला है जिसमें से 66% क्लीन",
+   "start_time_text": "12:59",
+   "start_time_label": "12:59"
+  },
+  {
+   "start_ms": 781760,
+   "end_ms": 784320,
+   "snippet": "एनर्जी और ग्रीन एनर्जी रहेगी बेसिकली और",
+   "start_time_text": "13:01",
+   "start_time_label": "13:01"
+  },
+  {
+   "start_ms": 784320,
+   "end_ms": 786560,
+   "snippet": "वो यही कह रहे हैं कि 26 कीवर्ड तो ऑलरेडी",
+   "start_time_text": "13:04",
+   "start_time_label": "13:04"
+  },
+  {
+   "start_ms": 786560,
+   "end_ms": 788399,
+   "snippet": "मतलब हमारे ऑपरेशनल मतलब वो है मतलब",
+   "start_time_text": "13:06",
+   "start_time_label": "13:06"
+  },
+  {
+   "start_ms": 788399,
+   "end_ms": 790399,
+   "snippet": "पाइपलाइन चल रही है तो चार की और पाइपलाइन",
+   "start_time_text": "13:08",
+   "start_time_label": "13:08"
+  },
+  {
+   "start_ms": 790399,
+   "end_ms": 791839,
+   "snippet": "बेसिकली उनको तीन चार साल में क्रिएट करनी",
+   "start_time_text": "13:10",
+   "start_time_label": "13:10"
+  },
+  {
+   "start_ms": 791839,
+   "end_ms": 794079,
+   "snippet": "है एंड दे आर आल्सो सेइंग कि हम गवर्नमेंट",
+   "start_time_text": "13:11",
+   "start_time_label": "13:11"
+  },
+  {
+   "start_ms": 794079,
+   "end_ms": 795600,
+   "snippet": "से न्यूक्लियर पावर सेक्टर में भी एंट्री",
+   "start_time_text": "13:14",
+   "start_time_label": "13:14"
+  },
+  {
+   "start_ms": 795600,
+   "end_ms": 797200,
+   "snippet": "करना चाह रहे हैं और हम उसमें अप्रूवल के",
+   "start_time_text": "13:15",
+   "start_time_label": "13:15"
+  },
+  {
+   "start_ms": 797200,
+   "end_ms": 799200,
+   "snippet": "लिए मतलब तत्पर हैं बेसिकली कर रहे हैं",
+   "start_time_text": "13:17",
+   "start_time_label": "13:17"
+  },
+  {
+   "start_ms": 799200,
+   "end_ms": 800720,
+   "snippet": "ट्राई। ठीक है? ठीक है? सो, दोज़ वर द",
+   "start_time_text": "13:19",
+   "start_time_label": "13:19"
+  },
+  {
+   "start_ms": 800720,
+   "end_ms": 802480,
+   "snippet": "थिंग्स एंड दे वर आल्सो सेड कि भ हमारा अह",
+   "start_time_text": "13:20",
+   "start_time_label": "13:20"
+  },
+  {
+   "start_ms": 802480,
+   "end_ms": 804560,
+   "snippet": "सोलर मैन्युफैक्चरिंग पे भी काफ़ी फ़ोकस है।",
+   "start_time_text": "13:22",
+   "start_time_label": "13:22"
+  },
+  {
+   "start_ms": 804560,
+   "end_ms": 806240,
+   "snippet": "10 गीगावाट के नए प्रोजेक्ट्स उन्होंने",
+   "start_time_text": "13:24",
+   "start_time_label": "13:24"
+  },
+  {
+   "start_ms": 806240,
+   "end_ms": 809040,
+   "snippet": "उड़ीसा में करे हैं। राइट? और इवन मतलब",
+   "start_time_text": "13:26",
+   "start_time_label": "13:26"
+  },
+  {
+   "start_ms": 809040,
+   "end_ms": 810639,
+   "snippet": "उन्होंने बैटरी एनर्जी स्टोरेज सिस्टम्स",
+   "start_time_text": "13:29",
+   "start_time_label": "13:29"
+  },
+  {
+   "start_ms": 810639,
+   "end_ms": 812240,
+   "snippet": "वगैरह में भी उसके लिए भी काफी स्ट्रांग",
+   "start_time_text": "13:30",
+   "start_time_label": "13:30"
+  },
+  {
+   "start_ms": 812240,
+   "end_ms": 813839,
+   "snippet": "ग्रोथ एक्सपेक्टेशन किया। तो ओवरऑल पावर",
+   "start_time_text": "13:32",
+   "start_time_label": "13:32"
+  },
+  {
+   "start_ms": 813839,
+   "end_ms": 815360,
+   "snippet": "सेक्टर इज़ लुकिंग गुड। अभी पावर ग्रिड की",
+   "start_time_text": "13:33",
+   "start_time_label": "13:33"
+  },
+  {
+   "start_ms": 815360,
+   "end_ms": 817279,
+   "snippet": "भी मतलब हमने ग्रिड की भी बात करी। तो",
+   "start_time_text": "13:35",
+   "start_time_label": "13:35"
+  },
+  {
+   "start_ms": 817279,
+   "end_ms": 819120,
+   "snippet": "पावर सेक्टर जैसे-जैसे इंडिया ग्रो करेगा",
+   "start_time_text": "13:37",
+   "start_time_label": "13:37"
+  },
+  {
+   "start_ms": 819120,
+   "end_ms": 821120,
+   "snippet": "तो सेक्टर ग्रोथ एक्सपेक्टेशन है। ठीक है?",
+   "start_time_text": "13:39",
+   "start_time_label": "13:39"
+  },
+  {
+   "start_ms": 821120,
+   "end_ms": 822880,
+   "snippet": "और विद एआई एंड एवरीथिंग अगर डेटा सेंटर",
+   "start_time_text": "13:41",
+   "start_time_label": "13:41"
+  },
+  {
+   "start_ms": 822880,
+   "end_ms": 824720,
+   "snippet": "जिस तरह की इलेक्ट्रिसिटी मांग रहे हैं।",
+   "start_time_text": "13:42",
+   "start_time_label": "13:42"
+  },
+  {
+   "start_ms": 824720,
+   "end_ms": 826399,
+   "snippet": "ये भी अगर ऐसी चीजें चलती रही और",
+   "start_time_text": "13:44",
+   "start_time_label": "13:44"
+  },
+  {
+   "start_ms": 826399,
+   "end_ms": 828160,
+   "snippet": "एफिशिएंसी थोड़ी बहुत आएंगी। आई एम श्योर",
+   "start_time_text": "13:46",
+   "start_time_label": "13:46"
+  },
+  {
+   "start_ms": 828160,
+   "end_ms": 831040,
+   "snippet": "बट मतलब डिसेंटली अगर पावर रिक्वायरमेंट",
+   "start_time_text": "13:48",
+   "start_time_label": "13:48"
+  },
+  {
+   "start_ms": 831040,
+   "end_ms": 832720,
+   "snippet": "वहां से भी आती रही तो पावर तो बहुत",
+   "start_time_text": "13:51",
+   "start_time_label": "13:51"
+  },
+  {
+   "start_ms": 832720,
+   "end_ms": 835200,
+   "snippet": "ज्यादा चाहिए होगी।",
+   "start_time_text": "13:52",
+   "start_time_label": "13:52"
+  },
+  {
+   "start_ms": 835200,
+   "end_ms": 837279,
+   "snippet": "ठीक है? बाकी SBI का आईपीओ आ रहा है। ठीक",
+   "start_time_text": "13:55",
+   "start_time_label": "13:55"
+  },
+  {
+   "start_ms": 837279,
+   "end_ms": 839440,
+   "snippet": "है? तो काफी सारे सोन वेल्थ फंड्स वगैरह",
+   "start_time_text": "13:57",
+   "start_time_label": "13:57"
+  },
+  {
+   "start_ms": 839440,
+   "end_ms": 843839,
+   "snippet": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट",
+   "start_time_text": "13:59",
+   "start_time_label": "13:59"
+  },
+  {
+   "start_ms": 843839,
+   "end_ms": 846800,
+   "snippet": "का काफी इंटरेस्ट दिखाया है। राइट एस पर",
+   "start_time_text": "14:03",
+   "start_time_label": "14:03"
+  },
+  {
+   "start_ms": 846800,
+   "end_ms": 850160,
+   "snippet": "वेरियस मतलब कुछ सोर्सेस ऑफ़ डाटा। राइट?",
+   "start_time_text": "14:06",
+   "start_time_label": "14:06"
+  },
+  {
+   "start_ms": 850160,
+   "end_ms": 854320,
+   "snippet": "तो ये है बाकी इस बार ठंडा रहा आईपीओ सीजन",
+   "start_time_text": "14:10",
+   "start_time_label": "14:10"
+  },
+  {
+   "start_ms": 854320,
+   "end_ms": 856959,
+   "snippet": "थोड़ा। ठीक है? ये 3.8 बिलियन ही अभी तक आई",
+   "start_time_text": "14:14",
+   "start_time_label": "14:14"
+  },
+  {
+   "start_ms": 856959,
+   "end_ms": 861279,
+   "snippet": "थिंक आज तक टोटल आईपीओस आए हैं। लास्ट ईयर",
+   "start_time_text": "14:16",
+   "start_time_label": "14:16"
+  },
+  {
+   "start_ms": 861279,
+   "end_ms": 864560,
+   "snippet": "टोटल 21.8 बिलियन के आईपीओस आए थे। तो ऑफ",
+   "start_time_text": "14:21",
+   "start_time_label": "14:21"
+  },
+  {
+   "start_ms": 864560,
+   "end_ms": 866480,
+   "snippet": "कोर्स मार्केट भी उस हिसाब से था। ठीक है?",
+   "start_time_text": "14:24",
+   "start_time_label": "14:24"
+  },
+  {
+   "start_ms": 866480,
+   "end_ms": 870000,
+   "snippet": "तो बट इस बार अभी तक 30.8 बिलियन के ही आए",
+   "start_time_text": "14:26",
+   "start_time_label": "14:26"
+  },
+  {
+   "start_ms": 870000,
+   "end_ms": 872399,
+   "snippet": "हैं। ठीक है? तो ये बड़ा आ रहा है एसबीआई",
+   "start_time_text": "14:30",
+   "start_time_label": "14:30"
+  },
+  {
+   "start_ms": 872399,
+   "end_ms": 875279,
+   "snippet": "का। राइट जो इंटरेस्टिंग रहेगा। ठीक है?",
+   "start_time_text": "14:32",
+   "start_time_label": "14:32"
+  },
+  {
+   "start_ms": 875279,
+   "end_ms": 878399,
+   "snippet": "बाकी Cल्ट फिट ने भी मतलब वी नो राइट कि",
+   "start_time_text": "14:35",
+   "start_time_label": "14:35"
+  },
+  {
+   "start_ms": 878399,
+   "end_ms": 880399,
+   "snippet": "जिम्स वगैरह ये सारी चीजें हैं तो आईपीओ",
+   "start_time_text": "14:38",
+   "start_time_label": "14:38"
+  },
+  {
+   "start_ms": 880399,
+   "end_ms": 884480,
+   "snippet": "का प्लान किया है ₹950 करोड़ का आई आईपीओ",
+   "start_time_text": "14:40",
+   "start_time_label": "14:40"
+  },
+  {
+   "start_ms": 884480,
+   "end_ms": 887279,
+   "snippet": "प्लान कर रहे हैं वी आर फ्रेश इशू राइट",
+   "start_time_text": "14:44",
+   "start_time_label": "14:44"
+  },
+  {
+   "start_ms": 887279,
+   "end_ms": 890240,
+   "snippet": "info एज कल काफी बढ़ा आई थिंक वी वी सॉ दैट",
+   "start_time_text": "14:47",
+   "start_time_label": "14:47"
+  },
+  {
+   "start_ms": 890240,
+   "end_ms": 892720,
+   "snippet": "राइट काफी अच्छा Q1 अपडेट आया उनका और",
+   "start_time_text": "14:50",
+   "start_time_label": "14:50"
+  },
+  {
+   "start_ms": 892720,
+   "end_ms": 894399,
+   "snippet": "मतलब मेरे को थोड़ा सा पॉजिटिव लगा कि आई",
+   "start_time_text": "14:52",
+   "start_time_label": "14:52"
+  },
+  {
+   "start_ms": 894399,
+   "end_ms": 896000,
+   "snippet": "थिंक होपफुली TCS का रिजल्ट भी अच्छा है",
+   "start_time_text": "14:54",
+   "start_time_label": "14:54"
+  },
+  {
+   "start_ms": 896000,
+   "end_ms": 899600,
+   "snippet": "बिकॉज़ काफी ज्यादा जो उनके बिकॉज़री.com ही",
+   "start_time_text": "14:56",
+   "start_time_label": "14:56"
+  },
+  {
+   "start_ms": 899600,
+   "end_ms": 902000,
+   "snippet": "मेजरली रेवेन्यू सोर्स है और काफी",
+   "start_time_text": "14:59",
+   "start_time_label": "14:59"
+  },
+  {
+   "start_ms": 902000,
+   "end_ms": 904480,
+   "snippet": "डिपेंडेंट है कि भ कैसा रिक्रूटमेंट",
+   "start_time_text": "15:02",
+   "start_time_label": "15:02"
+  },
+  {
+   "start_ms": 904480,
+   "end_ms": 907120,
+   "snippet": "साइकिल रहती है तो अच्छी रही काफी राइट",
+   "start_time_text": "15:04",
+   "start_time_label": "15:04"
+  },
+  {
+   "start_ms": 907120,
+   "end_ms": 909199,
+   "snippet": "रिक्रूटमेंट बिज़नेस जो है उनका ऑलमोस्ट",
+   "start_time_text": "15:07",
+   "start_time_label": "15:07"
+  },
+  {
+   "start_ms": 909199,
+   "end_ms": 911600,
+   "snippet": "17% का ग्रोथ हुआ तो व्हिच इज़ वेरी गुड",
+   "start_time_text": "15:09",
+   "start_time_label": "15:09"
+  },
+  {
+   "start_ms": 911600,
+   "end_ms": 914720,
+   "snippet": "राइट और इवन जीवन साथी भी 16 वो छोटा है",
+   "start_time_text": "15:11",
+   "start_time_label": "15:11"
+  },
+  {
+   "start_ms": 914720,
+   "end_ms": 917839,
+   "snippet": "बट 16% ग्रोथ हुआ है और 14% सॉरी और 99",
+   "start_time_text": "15:14",
+   "start_time_label": "15:14"
+  },
+  {
+   "start_ms": 917839,
+   "end_ms": 919839,
+   "snippet": "16% ग्रोथ हुआ है तो काफी अच्छा अपडेट आया",
+   "start_time_text": "15:17",
+   "start_time_label": "15:17"
+  },
+  {
+   "start_ms": 919839,
+   "end_ms": 922480,
+   "snippet": "उसके बहुत बड़ा स्टॉक बट थोड़ा सा लोगों को",
+   "start_time_text": "15:19",
+   "start_time_label": "15:19"
+  },
+  {
+   "start_ms": 922480,
+   "end_ms": 923760,
+   "snippet": "लगा कि भाई ठीक है रिक्रूटमेंट हो रही है",
+   "start_time_text": "15:22",
+   "start_time_label": "15:22"
+  },
+  {
+   "start_ms": 923760,
+   "end_ms": 925920,
+   "snippet": "ऐसा नहीं है टेंशन नहीं ठीक है तो वो चीज़",
+   "start_time_text": "15:23",
+   "start_time_label": "15:23"
+  },
+  {
+   "start_ms": 925920,
+   "end_ms": 929199,
+   "snippet": "पॉजिटिव थी बाकी IHCL जो इंडियन होटल्स",
+   "start_time_text": "15:25",
+   "start_time_label": "15:25"
+  },
+  {
+   "start_ms": 929199,
+   "end_ms": 930959,
+   "snippet": "हैं रिसेंटली हमने पोर्टफोलियो में भी ऐड",
+   "start_time_text": "15:29",
+   "start_time_label": "15:29"
+  },
+  {
+   "start_ms": 930959,
+   "end_ms": 932639,
+   "snippet": "किया अपने मॉडल पोर्टफोलियो की",
+   "start_time_text": "15:30",
+   "start_time_label": "15:30"
+  },
+  {
+   "start_ms": 932639,
+   "end_ms": 934480,
+   "snippet": "रीबैलेंसिंग आप सबने देखी ही होगी हां जो",
+   "start_time_text": "15:32",
+   "start_time_label": "15:32"
+  },
+  {
+   "start_ms": 934480,
+   "end_ms": 936800,
+   "snippet": "जो है्राइबर जो नहीं है प्लीज करो बहुत",
+   "start_time_text": "15:34",
+   "start_time_label": "15:34"
+  },
+  {
+   "start_ms": 936800,
+   "end_ms": 938399,
+   "snippet": "अच्छे बहुत इंटरेस्टिंग बहुत बढ़िया कर",
+   "start_time_text": "15:36",
+   "start_time_label": "15:36"
+  },
+  {
+   "start_ms": 938399,
+   "end_ms": 940800,
+   "snippet": "रहे हैं परफॉर्म जब करते हैं जब बोलता हूं",
+   "start_time_text": "15:38",
+   "start_time_label": "15:38"
+  },
+  {
+   "start_ms": 940800,
+   "end_ms": 942480,
+   "snippet": "ऑफ कोर्स ऐसा भी आया है जब बहुत अच्छा",
+   "start_time_text": "15:40",
+   "start_time_label": "15:40"
+  },
+  {
+   "start_ms": 942480,
+   "end_ms": 944160,
+   "snippet": "नहीं कर रहे थे बट अभी तो बहुत अच्छा कर",
+   "start_time_text": "15:42",
+   "start_time_label": "15:42"
+  },
+  {
+   "start_ms": 944160,
+   "end_ms": 948000,
+   "snippet": "रहे हैं ठीक है तो आईएcएल जो है 20 होटल्स",
+   "start_time_text": "15:44",
+   "start_time_label": "15:44"
+  },
+  {
+   "start_ms": 948000,
+   "end_ms": 951279,
+   "snippet": "उन्होंने साइन किए हैं Q1 में राइट और 700",
+   "start_time_text": "15:48",
+   "start_time_label": "15:48"
+  },
+  {
+   "start_ms": 951279,
+   "end_ms": 954079,
+   "snippet": "होटल पोर्टफोलियो का उनका प्लान है बाय एफ",
+   "start_time_text": "15:51",
+   "start_time_label": "15:51"
+  },
+  {
+   "start_ms": 954079,
+   "end_ms": 956800,
+   "snippet": "2030 नेक्स्ट फोर इयर्स में राइट तो दैट",
+   "start_time_text": "15:54",
+   "start_time_label": "15:54"
+  },
+  {
+   "start_ms": 956800,
+   "end_ms": 958800,
+   "snippet": "इज़ व्हाट देयर थॉट प्रोसेस इज़ तो एक्सलरेट",
+   "start_time_text": "15:56",
+   "start_time_label": "15:56"
+  },
+  {
+   "start_ms": 958800,
+   "end_ms": 962320,
+   "snippet": "230 उन्होंने 2030 का स्ट्रेटेजिक रोड मैप",
+   "start_time_text": "15:58",
+   "start_time_label": "15:58"
+  },
+  {
+   "start_ms": 962320,
+   "end_ms": 964399,
+   "snippet": "उन्होंने सेटअप किया है",
+   "start_time_text": "16:02",
+   "start_time_label": "16:02"
+  },
+  {
+   "start_ms": 964399,
+   "end_ms": 966240,
+   "snippet": "ठीक है। बाकी Titan काफी अच्छा ग्रो किया।",
+   "start_time_text": "16:04",
+   "start_time_label": "16:04"
+  },
+  {
+   "start_ms": 966240,
+   "end_ms": 967759,
+   "snippet": "Titan का भी बहुत अच्छा अपडेट आया एंड",
+   "start_time_text": "16:06",
+   "start_time_label": "16:06"
+  },
+  {
+   "start_ms": 967759,
+   "end_ms": 969600,
+   "snippet": "बहुत अच्छा ग्रो किया कल स्टॉक मतलब अच्छा",
+   "start_time_text": "16:07",
+   "start_time_label": "16:07"
+  },
+  {
+   "start_ms": 969600,
+   "end_ms": 971759,
+   "snippet": "खासा बढ़ा है। और जैसे-जैसे मतलब TCS",
+   "start_time_text": "16:09",
+   "start_time_label": "16:09"
+  },
+  {
+   "start_ms": 971759,
+   "end_ms": 973680,
+   "snippet": "अच्छा नहीं कर रहा है। Titan जो है वो बढ़",
+   "start_time_text": "16:11",
+   "start_time_label": "16:11"
+  },
+  {
+   "start_ms": 973680,
+   "end_ms": 975759,
+   "snippet": "रहा है। तो आई डोंट नो ऐसा होगा क्या कभी",
+   "start_time_text": "16:13",
+   "start_time_label": "16:13"
+  },
+  {
+   "start_ms": 975759,
+   "end_ms": 978240,
+   "snippet": "कि Titan TCS से बड़ी आई डोंट अभी तो कैसा",
+   "start_time_text": "16:15",
+   "start_time_label": "16:15"
+  },
+  {
+   "start_ms": 978240,
+   "end_ms": 981440,
+   "snippet": "बोल अभी तो काफी गैप है बट काफी अच्छा जो",
+   "start_time_text": "16:18",
+   "start_time_label": "16:18"
+  },
+  {
+   "start_ms": 981440,
+   "end_ms": 983199,
+   "snippet": "है Titan इज़ ग्रोइंग वेरी वेरीरी वेल।",
+   "start_time_text": "16:21",
+   "start_time_label": "16:21"
+  },
+  {
+   "start_ms": 983199,
+   "end_ms": 984880,
+   "snippet": "राइट? तो काफी इंटरेस्टिंग कंपनी लग रही",
+   "start_time_text": "16:23",
+   "start_time_label": "16:23"
+  },
+  {
+   "start_ms": 984880,
+   "end_ms": 986800,
+   "snippet": "है। है वैल्यूएशंस कंसर्न है। बहुत",
+   "start_time_text": "16:24",
+   "start_time_label": "16:24"
+  },
+  {
+   "start_ms": 986800,
+   "end_ms": 989600,
+   "snippet": "एक्सपेंसिव है। बट ग्रोथ भी उसी हिसाब से",
+   "start_time_text": "16:26",
+   "start_time_label": "16:26"
+  },
+  {
+   "start_ms": 989600,
+   "end_ms": 992560,
+   "snippet": "द कंपनी इज़ डेफिनेटली गिव। दैट इज ऑल ऑन द",
+   "start_time_text": "16:29",
+   "start_time_label": "16:29"
+  },
+  {
+   "start_ms": 992560,
+   "end_ms": 995279,
+   "snippet": "मेजर मेजर न्यूज़ फॉर टुडे। ठीक है? करते",
+   "start_time_text": "16:32",
+   "start_time_label": "16:32"
+  },
+  {
+   "start_ms": 995279,
+   "end_ms": 997120,
+   "snippet": "हैं अब आजकल नॉलेज सेक्शन के ऊपर डिस्कशन",
+   "start_time_text": "16:35",
+   "start_time_label": "16:35"
+  },
+  {
+   "start_ms": 997120,
+   "end_ms": 999920,
+   "snippet": "फटाफट। यह बहुत इंटरेस्टिंग चार्ट था",
+   "start_time_text": "16:37",
+   "start_time_label": "16:37"
+  },
+  {
+   "start_ms": 999920,
+   "end_ms": 1003519,
+   "snippet": "जेपनीज़ की एक रिपोर्ट से मुझे मिला। एंड",
+   "start_time_text": "16:39",
+   "start_time_label": "16:39"
+  },
+  {
+   "start_ms": 1003519,
+   "end_ms": 1006320,
+   "snippet": "मतलब आप जस्ट चार्ट",
+   "start_time_text": "16:43",
+   "start_time_label": "16:43"
+  },
+  {
+   "start_ms": 1006320,
+   "end_ms": 1010560,
+   "snippet": "ठीक है? जनवरी 2022 से लेके ठीक है? आप",
+   "start_time_text": "16:46",
+   "start_time_label": "16:46"
+  },
+  {
+   "start_ms": 1010560,
+   "end_ms": 1013040,
+   "snippet": "अगर देखेंगे तो मई",
+   "start_time_text": "16:50",
+   "start_time_label": "16:50"
+  },
+  {
+   "start_ms": 1013040,
+   "end_ms": 1017279,
+   "snippet": "2025 तक। ठीक है? तो ऑलमोस्ट ऑलमोस्ट",
+   "start_time_text": "16:53",
+   "start_time_label": "16:53"
+  },
+  {
+   "start_ms": 1017279,
+   "end_ms": 1021920,
+   "snippet": "22 23 24 मतलब 3 साल ठीक है? अगर आप",
+   "start_time_text": "16:57",
+   "start_time_label": "16:57"
+  },
+  {
+   "start_ms": 1021920,
+   "end_ms": 1024480,
+   "snippet": "देखेंगे तो ताइवान एंड कोरियन मार्केट वर",
+   "start_time_text": "17:01",
+   "start_time_label": "17:01"
+  },
+  {
+   "start_ms": 1024480,
+   "end_ms": 1029520,
+   "snippet": "लाइक व्हाट फोर मतलब 3 टू 4.5 बिलियन डॉलर",
+   "start_time_text": "17:04",
+   "start_time_label": "17:04"
+  },
+  {
+   "start_ms": 1029520,
+   "end_ms": 1032000,
+   "snippet": "की दोनों मिला के मार्केट्स।",
+   "start_time_text": "17:09",
+   "start_time_label": "17:09"
+  },
+  {
+   "start_ms": 1032000,
+   "end_ms": 1034400,
+   "snippet": "ठीक है? उसके बाद अब लास्ट एक साल में ठीक",
+   "start_time_text": "17:12",
+   "start_time_label": "17:12"
+  },
+  {
+   "start_ms": 1034400,
+   "end_ms": 1037760,
+   "snippet": "है? मई मई जून जुलाई का आसपास मान लो अब",
+   "start_time_text": "17:14",
+   "start_time_label": "17:14"
+  },
+  {
+   "start_ms": 1037760,
+   "end_ms": 1039600,
+   "snippet": "जो है ये ऑलमोस्ट 10 ट्रिलियन डॉलर की",
+   "start_time_text": "17:17",
+   "start_time_label": "17:17"
+  },
+  {
+   "start_ms": 1039600,
+   "end_ms": 1041439,
+   "snippet": "मार्केट हो गई है। डबल हो गई है मार्केट",
+   "start_time_text": "17:19",
+   "start_time_label": "17:19"
+  },
+  {
+   "start_ms": 1041439,
+   "end_ms": 1044240,
+   "snippet": "तीन कंपनीज़ की वजह से। Samsung, SK Hinx",
+   "start_time_text": "17:21",
+   "start_time_label": "17:21"
+  },
+  {
+   "start_ms": 1044240,
+   "end_ms": 1047919,
+   "snippet": "और TSMC ठीक है? तीनों सेमीकंडक्टर कंपनीज़",
+   "start_time_text": "17:24",
+   "start_time_label": "17:24"
+  },
+  {
+   "start_ms": 1047919,
+   "end_ms": 1050080,
+   "snippet": "मतलब कितना कंसंट्रेटेड है। आप देखो तीन",
+   "start_time_text": "17:27",
+   "start_time_label": "17:27"
+  },
+  {
+   "start_ms": 1050080,
+   "end_ms": 1052320,
+   "snippet": "कंपनीज़ क्या कर सकती है। मतलब यह चीज ना",
+   "start_time_text": "17:30",
+   "start_time_label": "17:30"
+  },
+  {
+   "start_ms": 1052320,
+   "end_ms": 1054559,
+   "snippet": "सीखने वाली भी है कि कंपनी कितनी बड़ी हो",
+   "start_time_text": "17:32",
+   "start_time_label": "17:32"
+  },
+  {
+   "start_ms": 1054559,
+   "end_ms": 1057840,
+   "snippet": "सकती है। ठीक है? तो आप इसलिए हमें ना",
+   "start_time_text": "17:34",
+   "start_time_label": "17:34"
+  },
+  {
+   "start_ms": 1057840,
+   "end_ms": 1060160,
+   "snippet": "स्टॉक मार्केट में कभी-कभी ना वी ऑलवेज",
+   "start_time_text": "17:37",
+   "start_time_label": "17:37"
+  },
+  {
+   "start_ms": 1060160,
+   "end_ms": 1062480,
+   "snippet": "गेट सरप्राइज्ड कि इतना भी बड़ा हो सकता है",
+   "start_time_text": "17:40",
+   "start_time_label": "17:40"
+  },
+  {
+   "start_ms": 1062480,
+   "end_ms": 1063840,
+   "snippet": "क्या कंपनी? इतना भी ग्रो हो सकता है",
+   "start_time_text": "17:42",
+   "start_time_label": "17:42"
+  },
+  {
+   "start_ms": 1063840,
+   "end_ms": 1065200,
+   "snippet": "क्या? मतलब ये ना माइंड कभी-कभी",
+   "start_time_text": "17:43",
+   "start_time_label": "17:43"
+  },
+  {
+   "start_ms": 1065200,
+   "end_ms": 1066799,
+   "snippet": "कॉम्प्रिहेंड ही नहीं कर पाता। कोई अगर",
+   "start_time_text": "17:45",
+   "start_time_label": "17:45"
+  },
+  {
+   "start_ms": 1066799,
+   "end_ms": 1071760,
+   "snippet": "आपको 1 सवा साल पहले बोलता ना कि एसके hx",
+   "start_time_text": "17:46",
+   "start_time_label": "17:46"
+  },
+  {
+   "start_ms": 1071760,
+   "end_ms": 1074880,
+   "snippet": "Samsung यह कंपनी जो है इतनी मतलब $1",
+   "start_time_text": "17:51",
+   "start_time_label": "17:51"
+  },
+  {
+   "start_ms": 1074880,
+   "end_ms": 1077200,
+   "snippet": "ट्रिलियन प्लस का मार्केट कैप हो जाएगा तो",
+   "start_time_text": "17:54",
+   "start_time_label": "17:54"
+  },
+  {
+   "start_ms": 1077200,
+   "end_ms": 1078799,
+   "snippet": "मुझे नहीं लगता कि कोई मानता उस टाइम पे",
+   "start_time_text": "17:57",
+   "start_time_label": "17:57"
+  },
+  {
+   "start_ms": 1078799,
+   "end_ms": 1080400,
+   "snippet": "कि यार ठीक है इतना साइंस है ये तो बहुत",
+   "start_time_text": "17:58",
+   "start_time_label": "17:58"
+  },
+  {
+   "start_ms": 1080400,
+   "end_ms": 1082400,
+   "snippet": "पुरानी कंपनीज़ है ऐसा क्या कर लें बट",
+   "start_time_text": "18:00",
+   "start_time_label": "18:00"
+  },
+  {
+   "start_ms": 1082400,
+   "end_ms": 1085280,
+   "snippet": "सेमीकंडक्टर की ऐसी रैली चली है कि ओवरऑल",
+   "start_time_text": "18:02",
+   "start_time_label": "18:02"
+  },
+  {
+   "start_ms": 1085280,
+   "end_ms": 1087120,
+   "snippet": "पूरा मार्केट उसने वहां का डबल कर दिया",
+   "start_time_text": "18:05",
+   "start_time_label": "18:05"
+  },
+  {
+   "start_ms": 1087120,
+   "end_ms": 1089200,
+   "snippet": "मतलब पूरी जो कंप्लीटली मार्केट ही डबल कर",
+   "start_time_text": "18:07",
+   "start_time_label": "18:07"
+  },
+  {
+   "start_ms": 1089200,
+   "end_ms": 1091280,
+   "snippet": "दिया उन्होंने तो दैट इज़ व्हाट आई जस्ट",
+   "start_time_text": "18:09",
+   "start_time_label": "18:09"
+  },
+  {
+   "start_ms": 1091280,
+   "end_ms": 1092799,
+   "snippet": "वांट टू टेल यू ऑलवेज राइट इक्विटी",
+   "start_time_text": "18:11",
+   "start_time_label": "18:11"
+  },
+  {
+   "start_ms": 1092799,
+   "end_ms": 1094960,
+   "snippet": "मार्केट्स का यही इंटरेस्टिंग फज़ होता है",
+   "start_time_text": "18:12",
+   "start_time_label": "18:12"
+  },
+  {
+   "start_ms": 1094960,
+   "end_ms": 1097600,
+   "snippet": "कि कभी-कभी अभी कोई यहां पर बोलता 2020",
+   "start_time_text": "18:14",
+   "start_time_label": "18:14"
+  },
+  {
+   "start_ms": 1097600,
+   "end_ms": 1100400,
+   "snippet": "में जनवरी में कि डालो यार ताइवान में ठीक",
+   "start_time_text": "18:17",
+   "start_time_label": "18:17"
+  },
+  {
+   "start_ms": 1100400,
+   "end_ms": 1102640,
+   "snippet": "है और आप डाल भी देते तो आप कहते जनवरी",
+   "start_time_text": "18:20",
+   "start_time_label": "18:20"
+  },
+  {
+   "start_ms": 1102640,
+   "end_ms": 1104960,
+   "snippet": "अरे यार क्या है यार ये किस मार्केट में",
+   "start_time_text": "18:22",
+   "start_time_label": "18:22"
+  },
+  {
+   "start_ms": 1104960,
+   "end_ms": 1106559,
+   "snippet": "डाल दिया फिर आप एक साल के बाद बोलते अरे",
+   "start_time_text": "18:24",
+   "start_time_label": "18:24"
+  },
+  {
+   "start_ms": 1106559,
+   "end_ms": 1108640,
+   "snippet": "यार ये क्या डाल दिया यार 2 साल 3 साल हो",
+   "start_time_text": "18:26",
+   "start_time_label": "18:26"
+  },
+  {
+   "start_ms": 1108640,
+   "end_ms": 1110160,
+   "snippet": "गए यार उसके बाद भी कहते हैं कुछ भी नहीं",
+   "start_time_text": "18:28",
+   "start_time_label": "18:28"
+  },
+  {
+   "start_ms": 1110160,
+   "end_ms": 1112080,
+   "snippet": "कर रहे यार तो क्यों डाला है ये सब ऐसा",
+   "start_time_text": "18:30",
+   "start_time_label": "18:30"
+  },
+  {
+   "start_ms": 1112080,
+   "end_ms": 1114400,
+   "snippet": "क्यों करते हो राइट तो दिस इज़ हाउ इट",
+   "start_time_text": "18:32",
+   "start_time_label": "18:32"
+  },
+  {
+   "start_ms": 1114400,
+   "end_ms": 1117200,
+   "snippet": "हैप्स सी कि कैसे कंपाउंडिंग जो है मतलब",
+   "start_time_text": "18:34",
+   "start_time_label": "18:34"
+  },
+  {
+   "start_ms": 1117200,
+   "end_ms": 1118960,
+   "snippet": "मार्केट बढ़ती है तो ऐसे बढ़ती है आई एम",
+   "start_time_text": "18:37",
+   "start_time_label": "18:37"
+  },
+  {
+   "start_ms": 1118960,
+   "end_ms": 1121280,
+   "snippet": "नॉट सेइंग कि ऐसे और बढ़ेगी या जो है मतलब",
+   "start_time_text": "18:38",
+   "start_time_label": "18:38"
+  },
+  {
+   "start_ms": 1121280,
+   "end_ms": 1122880,
+   "snippet": "उसके ऊपर मेरा कमेंट नहीं है मेरा कमेंट",
+   "start_time_text": "18:41",
+   "start_time_label": "18:41"
+  },
+  {
+   "start_ms": 1122880,
+   "end_ms": 1125679,
+   "snippet": "है सीखने पे राइट कि दिस इज़ हाउ हाउ इट",
+   "start_time_text": "18:42",
+   "start_time_label": "18:42"
+  },
+  {
+   "start_ms": 1125679,
+   "end_ms": 1127679,
+   "snippet": "हैप्स राइट एज अ मार्केट कंट्री की",
+   "start_time_text": "18:45",
+   "start_time_label": "18:45"
+  },
+  {
+   "start_ms": 1127679,
+   "end_ms": 1130320,
+   "snippet": "मार्केट कैप राइट तो ये इंटरेस्टिंग चीजें",
+   "start_time_text": "18:47",
+   "start_time_label": "18:47"
+  },
+  {
+   "start_ms": 1130320,
+   "end_ms": 1133039,
+   "snippet": "व्हिच वी नीड टू लर्न राइट कि दो-तीन",
+   "start_time_text": "18:50",
+   "start_time_label": "18:50"
+  },
+  {
+   "start_ms": 1133039,
+   "end_ms": 1136000,
+   "snippet": "कंपनीज़ ही आपको इतना बड़ा कर सकती हैं।",
+   "start_time_text": "18:53",
+   "start_time_label": "18:53"
+  },
+  {
+   "start_ms": 1136000,
+   "end_ms": 1137600,
+   "snippet": "राइट? सो दैट इज़ व्हाट आई जस्ट वांटेड टू",
+   "start_time_text": "18:56",
+   "start_time_label": "18:56"
+  },
+  {
+   "start_ms": 1137600,
+   "end_ms": 1139200,
+   "snippet": "टेल। इफ यू स्टिल हैव एनी क्वेश्चंस गाइस",
+   "start_time_text": "18:57",
+   "start_time_label": "18:57"
+  },
+  {
+   "start_ms": 1139200,
+   "end_ms": 1142640,
+   "snippet": "तो कमेंट सेक्शन पे जरूर लिखिए। आपको",
+   "start_time_text": "18:59",
+   "start_time_label": "18:59"
+  },
+  {
+   "start_ms": 1142640,
+   "end_ms": 1144960,
+   "snippet": "क्या कहते हैं? कुछ और ऐड करना है। आपको",
+   "start_time_text": "19:02",
+   "start_time_label": "19:02"
+  },
+  {
+   "start_ms": 1144960,
+   "end_ms": 1147440,
+   "snippet": "लगता है कि हमारा ये मॉर्निंग सेशन में यू",
+   "start_time_text": "19:04",
+   "start_time_label": "19:04"
+  },
+  {
+   "start_ms": 1147440,
+   "end_ms": 1150559,
+   "snippet": "हैव सम फीडबैक। राइट? तो प्लीज आप हमेशा",
+   "start_time_text": "19:07",
+   "start_time_label": "19:07"
+  },
+  {
+   "start_ms": 1150559,
+   "end_ms": 1152480,
+   "snippet": "बिना हिचकिचाए मतलब हम सब पढ़ते हैं। शायद",
+   "start_time_text": "19:10",
+   "start_time_label": "19:10"
+  },
+  {
+   "start_ms": 1152480,
+   "end_ms": 1154960,
+   "snippet": "कमेंट रिप्लाई करें चाहे ना करें। बट आई",
+   "start_time_text": "19:12",
+   "start_time_label": "19:12"
+  },
+  {
+   "start_ms": 1154960,
+   "end_ms": 1160000,
+   "snippet": "एम टेलिंग यू 90 95% कमेंट्स आर वेल रेड",
+   "start_time_text": "19:14",
+   "start_time_label": "19:14"
+  },
+  {
+   "start_ms": 1160000,
+   "end_ms": 1162559,
+   "snippet": "टेकन। कई बार स्क्रीनशॉट्स हमारे इंटरनल",
+   "start_time_text": "19:20",
+   "start_time_label": "19:20"
+  },
+  {
+   "start_ms": 1162559,
+   "end_ms": 1164960,
+   "snippet": "WhatsApp ग्रुप्स में और इंटरनल हमारे",
+   "start_time_text": "19:22",
+   "start_time_label": "19:22"
+  },
+  {
+   "start_ms": 1164960,
+   "end_ms": 1167360,
+   "snippet": "ग्रुप्स में या ईमेल्स पे शेयर होते हैं,",
+   "start_time_text": "19:24",
+   "start_time_label": "19:24"
+  },
+  {
+   "start_ms": 1167360,
+   "end_ms": 1168799,
+   "snippet": "डिस्कस होते हैं बहुत ज्यादा हमारी",
+   "start_time_text": "19:27",
+   "start_time_label": "19:27"
+  },
+  {
+   "start_ms": 1168799,
+   "end_ms": 1171440,
+   "snippet": "मीटिंग्स में। राइट? तो प्लीज आप कभी भी",
+   "start_time_text": "19:28",
+   "start_time_label": "19:28"
+  },
+  {
+   "start_ms": 1171440,
+   "end_ms": 1173520,
+   "snippet": "ना फीडबैक के लिए हिचकिचाए मत कीजिए कि",
+   "start_time_text": "19:31",
+   "start_time_label": "19:31"
+  },
+  {
+   "start_ms": 1173520,
+   "end_ms": 1174799,
+   "snippet": "यार कौन देख रहा होगा, सुन रहे हैं या",
+   "start_time_text": "19:33",
+   "start_time_label": "19:33"
+  },
+  {
+   "start_ms": 1174799,
+   "end_ms": 1176880,
+   "snippet": "नहीं सुन रहे हैं। मैं यही कह रहा हूं कि",
+   "start_time_text": "19:34",
+   "start_time_label": "19:34"
+  },
+  {
+   "start_ms": 1176880,
+   "end_ms": 1178400,
+   "snippet": "शायद हम रिप्लाई नहीं कर पा रहे हैं। बट",
+   "start_time_text": "19:36",
+   "start_time_label": "19:36"
+  },
+  {
+   "start_ms": 1178400,
+   "end_ms": 1180640,
+   "snippet": "वी आर लिसन। दैट इज ऑल। हैव अ ग्रेट टाइम",
+   "start_time_text": "19:38",
+   "start_time_label": "19:38"
+  },
+  {
+   "start_ms": 1180640,
+   "end_ms": 1183039,
+   "snippet": "हेड दोस्तों। आज का दिन शुभ रहे। इसी",
+   "start_time_text": "19:40",
+   "start_time_label": "19:40"
+  },
+  {
+   "start_ms": 1183039,
+   "end_ms": 1184960,
+   "snippet": "कामना के साथ वीडियो बंद करता हूं। जय",
+   "start_time_text": "19:43",
+   "start_time_label": "19:43"
+  },
+  {
+   "start_ms": 1184960,
+   "end_ms": 1187840,
+   "snippet": "हिंद।",
+   "start_time_text": "19:44",
+   "start_time_label": "19:44"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "hi",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=q8H2r2k8iZA"
+  }
+ ],
+ "_fetched_at": "2026-10-11T05:20:01"
+}

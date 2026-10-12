@@ -1,0 +1,11 @@
+# Dependencies for the Vercel Receipts function (api/index.py) only.
+# The full Watchlist backend's dependencies are in backend/requirements.txt.
+# Newer than the backend's pins because Vercel runs Python 3.14.
+# No yfinance/pandas: Yahoo is read over plain HTTP (services/receipts/yahoo.py),
+# which keeps the function small and its cold starts fast.
+fastapi>=0.118
+pydantic>=2.12
+python-dotenv>=1.0.1
+requests
+groq>=1.7.0
+uvicorn>=0.30

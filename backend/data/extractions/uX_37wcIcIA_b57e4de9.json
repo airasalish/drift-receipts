@@ -1,0 +1,91 @@
+{
+ "calls": [
+  {
+   "company": "Pinelabs",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द फर्स्ट कंपनी दैट वी डिस्कस इज़ Pin लैब्स।",
+   "start_s": 58,
+   "line": "डिस्कस टुडे। राइट? राइट? सो, द फर्स्ट",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    },
+    {
+     "text": "FIIs are Buying",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker introduces Pinelabs as the first company."
+  },
+  {
+   "company": "Lenskart",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द सेकंड कंपनी इज़ लेंस कार्ड।",
+   "start_s": 217,
+   "line": "दिस इज़ वन कंपनी। द सेकंड कंपनी इज़ लेंस",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    },
+    {
+     "text": "FIIs are Buying",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker introduces Lenskart as the second company."
+  },
+  {
+   "company": "Idea",
+   "symbol_guess": "IDEA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "द थर्ड कंपनी इज़ Idea।",
+   "start_s": 331,
+   "line": "द कंपनी इज़ Lenscar राइट? द थर्ड कंपनी इज़",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as top stock picks and the speaker lists Idea as the third company."
+  },
+  {
+   "company": "IOIL Chemicals & Pharmaceuticals Ltd",
+   "symbol_guess": "IOIL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "लास्ट कंपनी इज़ आईओएल केमिकल्स एंड फार्मासटिकल्स।",
+   "start_s": 429,
+   "line": "लास्ट कंपनी इज़ आईओएल केमिकल्स एंड",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The title suggests buying the presented stocks and the speaker mentions IOIL Chemicals & Pharmaceuticals as the last company."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

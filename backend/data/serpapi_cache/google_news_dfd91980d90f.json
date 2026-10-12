@@ -1,0 +1,1477 @@
+{
+ "search_metadata": {
+  "id": "6ac945579b215189725d3e63",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ddIvVVdjfic0E66cZpWNNZVJ9IW-60yNHRAY7x1dDpQ/6ac945579b215189725d3e63.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ddIvVVdjfic0E66cZpWNNZVJ9IW-60yNHRAY7x1dDpQ/6ac945579b215189725d3e63.md",
+  "created_at": "2026-10-09 19:49:43 UTC",
+  "processed_at": "2026-10-09 19:49:43 UTC",
+  "google_news_url": "https://news.google.com/search?q=Sun+Pharmaceutical+Industries+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/ddIvVVdjfic0E66cZpWNNZVJ9IW-60yNHRAY7x1dDpQ/6ac945579b215189725d3e63.html",
+  "total_time_taken": 0.89
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Sun Pharmaceutical Industries share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Sun Pharmaceutical board to consider ₹15,000 crore NCD issue on October 12",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/sun-pharmaceutical-share-price-board-to-consider-rs-15000-crore-ncd-issue-on-october-12-20007048.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/sunpharma-2026-07-3e3b15b00f5513e6f74e618c7f9162c8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRORFpNTVZaWlZHWkhaRlJNVFJDZkF4ampCU2dLTWdtUlVvZ3pyZUtwN1FF",
+   "date": "10/07/2026, 03:51 PM, +0000 UTC",
+   "iso_date": "2026-10-07T15:51:57Z"
+  },
+  {
+   "position": 2,
+   "title": "Top stocks to watch today: TCS, Tata Steel, Reliance, Sun Pharma shares in focus on Thursday, 8 October | Full list",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tcs-tata-steel-reliance-sun-pharma-shares-in-focus-on-thursday-8-october-full-list-11791422724767.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/STW_1791424694413_9p2Z_1791424694534_ZzbY_f77c3de2-7d89-46f2-b534-66efbbe58d52_0NtU.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFlRnBJTTNSSGRXZFpWMW8wVFJDZkF4amlCU2dLTWdrUllJVHByS1pqbGdB",
+   "date": "10/08/2026, 01:59 AM, +0000 UTC",
+   "iso_date": "2026-10-08T01:59:18Z"
+  },
+  {
+   "position": 3,
+   "title": "Sun Pharma stock trades at INR 1,760.00, 14.0 percent below its 52-week high",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/sun-pharma-stock-trades-at-inr-1-760-00-14-0-percent-below-its-52-week/70279455",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405007_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFZMHd6YjFoMmQxOXFNMHR5VFJDZkF4ampCU2dLTWdZQlk0aW1NUVk",
+   "date": "10/09/2026, 01:32 PM, +0000 UTC",
+   "iso_date": "2026-10-09T13:32:27Z"
+  },
+  {
+   "position": 4,
+   "title": "Lupin, Sun Pharma, Zydus Lifesciences gain up to 1.5% as Nomura retains 'Buy' ratings amid pharma growth...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lupin-sun-pharma-zydus-lifesciences-gain-up-to-1-5-as-nomura-retains-buy-ratings-amid-pharma-growth-surge-14048322.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261003023325_stocks5.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJORWx4VWxjM1RUTTRaMngzVFJDZkF4ampCU2dLTWdhMU1KUzBGQW8",
+   "date": "10/09/2026, 05:34 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:34:49Z"
+  },
+  {
+   "position": 5,
+   "title": "3 Pharma Stocks With a Strong Future Roadmap: Sun Pharmaceutical Industries, Cipla and Dr. Reddy's Laboratories",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pharma-stocks-strong-roadmap",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/3-pharma-stocks-with-a-strong-future-roadmap-sun-pharmaceutical-industries-cipla.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTFZbG8wUkhwelZHcDRVakIyVFJDUUF4ai1CU2dLTWdrQk1aYTJwS2lwaHdJ",
+   "date": "10/06/2026, 04:17 AM, +0000 UTC",
+   "iso_date": "2026-10-06T04:17:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Sun Pharmaceutical board to consider ₹15,000 crore NCD issue on October 12",
+   "source": {
+    "name": "IndiaIPO",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indiaipo.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiaipo.in/news/detail/sun-pharmaceutical-board-to-consider-15000-crore-ncd-issue-on-october-12",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/sunpharma-2026-07-3e3b15b00f5513e6f74e618c7f9162c8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRORFpNTVZaWlZHWkhaRlJNVFJDZkF4ampCU2dLTWdtUlVvZ3pyZUtwN1FF",
+   "date": "10/07/2026, 10:36 PM, +0000 UTC",
+   "iso_date": "2026-10-07T22:36:27Z"
+  },
+  {
+   "position": 7,
+   "title": "Sun Pharma to consider ₹15,000 crore NCD issue; board meeting on 12 October",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Ksheerasagar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/sun-pharma-to-consider-rs-15-000-crore-ncd-issue-board-meeting-on-12-october-11791390670328.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/Sun_1790696616957_IPZl_1790696624341_XpeD_8d9cbf34_1791391970915_9LYp_1791391971040_jmhv_683e5f68-561e-4c82-816d-dc7d9a04dc35_qduR.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXhOR1J4TkVwU1VtOXJiakptVFJDZkF4ampCU2dLTWdB",
+   "date": "10/07/2026, 05:03 PM, +0000 UTC",
+   "iso_date": "2026-10-07T17:03:30Z"
+  },
+  {
+   "position": 8,
+   "title": "Sun Pharma board to meet October 12 on NCD issue up to ₹15,000 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-board-meet-october-12-ncd-issue-up-15-000-crore/52932122",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-board-meet-october-12-ncd-issue-up-15-000-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXljV0pwU2xsNVVUWjVXWEZPVFJDaUF4amRCU2dLTWdrQkFJUXJEZVlseXdF",
+   "date": "10/07/2026, 03:39 PM, +0000 UTC",
+   "iso_date": "2026-10-07T15:39:58Z"
+  },
+  {
+   "position": 9,
+   "title": "Stock Picks Today: Bharti Airtel, ITC, Sun Pharma, Paytm, Shriram Finance And More On Brokerages' Radar",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/stock-picks-today-bharti-airtel-itc-sun-pharma-paytm-shriram-finance-jubilant-food-sagility-iks-and-more-on-brokerages-radar-12153891",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/ug72sub4_brokerage-radar_625x300_21_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhiVVJzY0Y5d2QxcFVSbWhvVFJDZkF4ampCU2dLTWdhSm9aRG5PQVk",
+   "date": "10/08/2026, 01:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T01:37:39Z"
+  },
+  {
+   "position": 10,
+   "title": "Why is Sun Pharmaceutical Industries stock falling today?",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ambar Warrick"
+    ]
+   },
+   "link": "https://www.investing.com/news/stock-market-news/why-is-sun-pharmaceutical-industries-stock-falling-today-93CH-4804661",
+   "thumbnail": "https://i-invdn-com.investing.com/news/LYNXMPEB3J0HP_L.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNSak5WUVV0RFdVUlFkblJRVFJESkF4aWZCU2dLTWdZbHBZak54UU0",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Sun Pharma, Coforge: Indian businesses go shopping abroad as growth slows at home",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikhil Inamdar"
+    ]
+   },
+   "link": "https://www.bbc.com/news/articles/cwy21x20q23o",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/6fbc/live/7f8666f0-541f-11f1-9a06-e9b999966857.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXphRGx3TjNKd1IzRm9Za3R2VFJDTkFoamdBeWdLTWdZeFk0aFFyUU0",
+   "date": "05/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-24T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Sun Pharma shares inch up after yesterday’s 3% fall; Bernstein, HSBC see limited impact from US pricing deal",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:639977611094b:0-sun-pharma-shares-inch-up-after-yesterday-s-3-fall-bernstein-hsbc-see-limited-impact-from-us-pricing-deal/",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Do Sun Pharmaceutical Industries' (NSE:SUNPHARMA) Earnings Warrant Your Attention?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-sunpharma/sun-pharmaceutical-industries-shares/news/do-sun-pharmaceutical-industries-nsesunpharma-earnings-warra",
+   "thumbnail": "https://images.simplywall.st/asset/industry/6121000-choice1-main-header/1585186685410?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxheTFGTUV4a2JubEZkbEZ6VFJDZkF4ampCU2dLTWdZTkE0cG5rZ2s",
+   "date": "05/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-24T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Healthcare, pharma shares extend decline for 3rd day; Sun Pharma, Dr. Reddy's among top losers",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/healthcare-shares-extend-decline-for-3rd-day-sun-pharma-dr-reddy-s-fall-up-to-1-14044964.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261003023335_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXRjV1pHVlRsa1FsQkZUekU1VFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "10/05/2026, 12:15 PM, +0000 UTC",
+   "iso_date": "2026-10-05T12:15:57Z"
+  },
+  {
+   "position": 15,
+   "title": "Sun Pharmaceutical Industries Stock Signals to Watch This Week",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/sun-pharmaceutical-industries-stock-signals-investors-are-watching",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/sun-pharmaceutical-industries-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFRVzVwWDNGdVRqVkNVRXRMVFJDUUF4ai1CU2dLTWdZQk1KU2lIZ2s",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Sun Pharma establishes $2.5 million dermatology professorship at Mount Sinai",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-establishes-2-5-million-dermatology-professorship-mount/52837722",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-establishes-2-5-million-dermatology-professorship-mount.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHdkRUpRVGpCaVlrOHRXR2d5VFJDaUF4amRCU2dLTWdB",
+   "date": "10/06/2026, 01:13 PM, +0000 UTC",
+   "iso_date": "2026-10-06T13:13:38Z"
+  },
+  {
+   "position": 17,
+   "title": "Is It Smart To Buy Sun Pharmaceutical Industries Limited (NSE:SUNPHARMA) Before It Goes Ex-Dividend?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-sunpharma/sun-pharmaceutical-industries-shares/news/is-it-smart-to-buy-sun-pharmaceutical-industries-limited-nse",
+   "thumbnail": "https://images.simplywall.st/asset/industry/6121000-choice1-main-header/1585186685410?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxheTFGTUV4a2JubEZkbEZ6VFJDZkF4ampCU2dLTWdZTkE0cG5rZ2s",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Sun Pharmaceutical Industries shares fall 2.02%; stock among top losers on Nifty 50",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:a5ac863af094b:0-sun-pharmaceutical-industries-shares-fall-2-02-stock-among-top-losers-on-nifty-50/",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Results: Sun Pharmaceutical Industries Limited Exceeded Expectations And The Consensus Has Updated Its Estimates",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/pharmaceuticals-biotech/nse-sunpharma/sun-pharmaceutical-industries-shares/news/results-sun-pharmaceutical-industries-limited-exceeded-expec",
+   "thumbnail": "https://images.simplywall.st/asset/industry/6121000-choice1-main-header/1585186685410?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxheTFGTUV4a2JubEZkbEZ6VFJDZkF4ampCU2dLTWdZTkE0cG5rZ2s",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Sun Pharma’s Biggest Global Bet, Buys Organon in $11.75 Billion Deal; Pharma Stock Surge 7% - Time to Buy?",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harshika Yadav"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/sun-pharma-biggest-global-bet-buys-organon-in-11-75-billion-deal-pharma-stock-surge-7percent-buy-1504707.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/04/sunpharma-17225128121-1777275061.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFOekJwT0VOMVIxUjVNemcxVFJEOEFoallCQ2dLTWdZOUlKcVVIQWc",
+   "date": "10/01/2026, 07:44 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:44:48Z"
+  },
+  {
+   "position": 21,
+   "title": "INR vs USD: Rupee near 97/dollar; how TCS, Sun Pharma, Tata Steel, SRF may gain from weaker currency? Experts explain",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/inr-vs-usd-rupee-near-97-dollar-how-tcs-sun-pharma-tata-steel-srf-may-gain-from-weaker-currency-experts-explain-11791449213491.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/rupee_1791452183927_aOpo_1791452184076_fmmF_2955b794-8a9d-4511-a9d2-6408bd5eba4f_L5QB.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1UVjl3Ym10a05sQkNiVjlOVFJDZkF4amlCU2dLTWdZUk1KQnNxUWM",
+   "date": "10/08/2026, 09:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T09:37:27Z"
+  },
+  {
+   "position": 22,
+   "title": "Buy Sun Pharmaceutical Industries; target of Rs 2070: Geojit Financial Services",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-sun-pharmaceutical-industries-target-of-rs-2070-geojit-financial-services-14034494.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRWcyYm5NMGIxZEVjM3BZVFJDZkF4ampCU2dLTWdZTmdJZ29PUVk",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Sun Pharma Q1 Profit Rises 27% to ₹2,895 Cr",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/sun-pharma-q1-profit-rises-2895cr",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/07/D32A4853-ECE8-4E15-B2C0-2321D6B1C997.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWliVkpzYkZOS2RrUjJXVzFoVFJDZkF4amlCU2dLTWdZQllJcWpLZ1U",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Sun Pharma Share Price: US Court Rules in Lipitor Case",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/sun-pharma-share-price-lipitor-antitrust-us-court-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/sun-pharma-share-price-lipitor-antitrust-us-court-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRTVVZuTldoVVp6SklVakU0VFJDUUF4ai1CU2dLTWdZQk1JVERuZ2s",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Sun Pharma among 5 stocks that hit 52-week highs & rallied up to 20% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sun-pharma-among-5-stocks-that-hit-52-week-highs-amp-rallied-up-to-20-in-a-month/fresh-highs/slideshow/132414980.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132414980,width-480,height-360,imgsize-133682,resizemode-75/fresh-highs.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSM0pvU21kelZYTjFTRloxVFJEbUFoamdBeWdLTWdrcFFJenROT1VkYUFJ",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Sun Pharmaceutical Industries shares fall 2% in early trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/sun-pharmaceutical-industries-shares-fall-2-in-early-trade-alpha-article-13991610.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250130061113_Stock-Market-News.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdWVGxMUjNaWk5XdFBXVFJwVFJDZkF4ampCU2dLTWdZQldKSUFLd2M",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Sun Pharmaceutical Industries Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/44659/sun-pharmaceutical-industries-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/sunpharma.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNSVWRwTkdNM09FbHRlbUpOVFJESUFSaVVBU2dCTWdZZEZLQ05GUW8",
+   "date": "08/27/2026, 06:37 PM, +0000 UTC",
+   "iso_date": "2026-08-27T18:37:27Z"
+  },
+  {
+   "position": 28,
+   "title": "Sun Pharma Share Pros and Cons 2026: India's Largest Pharma Company Analysed",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-cons-investing-sunpharma-share",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/pros-cons-investing-sunpharma-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNlWFoxVlZGcVFXdHBjSGxyVFJDUUF4ai1CU2dLTWdZQk1JeWtIZ2s",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Why Is Sun Pharma Share Price Falling? Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-sun-pharma-share-price-falling",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/09125035/SUNPHARMA_falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBTSGhIZEVvNFVGaFFkR3RRVFJDUUF4ai1CU2dLTWdZQlFwNWhuZ2s",
+   "date": "04/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-09T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Sun Pharma Consolidated June 2026 Net Sales at Rs 15,299.88 crore, up 10.46% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/sun-pharma-consolidated-june-2026-net-sales-at-rs-15299-88-crore-up-10-46-y-o-y-13993369.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Sun Pharma moves closer to Organon acquisition as shareholders approve deal; stock in focus",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/sun-pharma-moves-closer-to-organon-acquisition-as-shareholders-approve-deal-stock-in-focus/article-197488/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sun-pharma-shares-july-24-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJjWEY1UlRBdFpIbFVaRE5GVFJDZkF4ampCU2dLTWdNQnRBdw",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Sun Pharma shares fall over 2% after US drug-pricing deal, pare 3-session gains; tariff relief cushions impact",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:36bbb9451094b:0-sun-pharma-shares-fall-over-2-after-us-drug-pricing-deal-pare-3-session-gains-tariff-relief-cushions-impact/",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Sun Pharma among 4 stocks to hit 52-week highs & rally up to 25% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sun-pharma-among-4-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/new-peaks/slideshow/132286299.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132286299,width-480,height-360,imgsize-5898,resizemode-75/new-peaks.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVPVkJzVGpWU1VGOVRhRFpuVFJEb0FoamdBeWdLTWdZRmdZekhQZ2M",
+   "date": "07/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-09T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Sun Pharmaceutical Q1 FY27 result: Net profit jumps 27% YoY; US formulation sales decline to $427 million",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/sun-pharmaceutical-q1-fy-27-result-net-profit-jumps-27-yo-y-us-formulation-sales-decline-to-427-million/article-197917/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sun-pharma-shares-july-24-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJjWEY1UlRBdFpIbFVaRE5GVFJDZkF4ampCU2dLTWdNQnRBdw",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Sun Pharma subsidiaries settle US generic drug pricing antitrust case for confidential amount",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/sun-pharma-share-price-subsidiaries-settle-us-generic-drug-pricing-antitrust-case-for-confidential-amount-19989650.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/sunpharma-2026-07-3e3b15b00f5513e6f74e618c7f9162c8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRORFpNTVZaWlZHWkhaRlJNVFJDZkF4ampCU2dLTWdtUlVvZ3pyZUtwN1FF",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Sun Pharma completes $11.75bn financing syndication for Organon acquisition",
+   "source": {
+    "name": "Generics and Biosimilars Initiative",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.gabionline.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.gabionline.net/pharma-news/sun-pharma-completes-11.75bn-financing-syndication-for-organon-acquisition",
+   "thumbnail": "https://www.gabionline.net/var/gabi/storage/images/media/images/globe-aa008897-v13h02/18893-1-eng-GB/Globe-AA008897-V13H02_large.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVMmxwY21aMVZHaERVelZOVFJEYkFSaXNBaWdLTWdZQmRveWpOZ2M",
+   "date": "08/20/2026, 11:23 AM, +0000 UTC",
+   "iso_date": "2026-08-20T11:23:13Z"
+  },
+  {
+   "position": 37,
+   "title": "India's Sun Pharma posts profit beat on specialty drug demand, shares slide on cost pressures",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Tandon"
+    ]
+   },
+   "link": "https://www.reuters.com/business/healthcare-pharmaceuticals/indias-top-drugmaker-sun-pharma-beats-profit-view-specialty-drugs-demand-2026-05-22/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/AK2JCLT5DBIZ5PQ4YVTXZQCWZM.jpg?auth=1d49963d7755467d09e96141cd0f55321e26fb7f6ff4e450a620c123fe859cb8&width=1920&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjV2M1U1dobmFWb3hWbWhmVFJEUUF4aVZCU2dLTWdhVlFZYnpwQUk",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Sun Pharmaceutical Industries Shares Rise 2.03% in Today's Session",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:d5750cf3b094b:0-sun-pharmaceutical-industries-shares-rise-2-03-in-today-s-session/",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Sun Pharmaceutical Industries Ltd. Stock Hits 52-Week High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/sun-pharmaceutical-industries-ltd-share-price-52-week-high-today",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/07/Sun_Pharmaceutical_Industries_Ltd_SUNPHARMA_Share_Price_Hits_New_52_Week_High_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBjRGRwY1VWbVpIVlZTMWh4VFJDUUF4ai1CU2dLTWdB",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Sun Pharma share price declines ahead of Q4 results, dividend announcement; here's how company performed in Q3",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/sun-pharma-share-price-declines-ahead-of-q4-results-dividend-announcement-here-s-how-company-performed-in-q3/article-194148/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sun-pharma-q4-results-dividend-share-price-may-22-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJjWEY1UlRBdFpIbFVaRE5GVFJDZkF4ampCU2dLTWdNQnRBdw",
+   "date": "05/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-21T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Sun Pharmaceutical Industries vs Cipla: Full Stock Comparison",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/sun-pharmaceutical-industries-vs-cipla-comparison",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/07/sun-pharmaceutical-industries-vs-cipla-comparison.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZSR1Z6TVhVeFltWldObVExVFJDUUF4ai1CU2dLTWdZQlNaU2lKZ2M",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Sun Pharma Share Price: Subsidiaries Settle US Case",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/sun-pharma-share-price-generic-drug-pricing-settlement",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/sun-pharma-share-price-generic-drug-pricing-settlement.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNZbWhKWTIxQlVtRk1aWE5pVFJDUUF4ai1CU2dLTWdrQk1KRGluaWt1NndF",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Sun Pharma shares in focus after global licensing deal for cholesterol drug; check details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/sun-pharma-shares-in-focus-after-global-licensing-deal-for-cholesterol-drug-check-details-558123-2026-09-28",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab9e150f03e0-sun-pharma-will-be-responsible-for-pursuing-regulatory-approvals-in-licensed-territories-where-the-d-283855984-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpTMGh1Y1VwNE1EbGtSRjl5VFJDZkF4ampCU2dLTWdZcGdvd3h1UVU",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Sun Pharma FY26 net profit rises 5% to ₹114,794 million",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharmaceutical-industries-reports-q4-revenue-of-146b-rupees-net-profit-rises-to-27b-yoy/40989557",
+   "thumbnail": "https://news-images.dhan.co/sun-pharmaceutical-industries-reports-q4-revenue-of-146b-rupees-net-profit-rises-to-27b-yoy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVSRWswZVU5VmNTMTBXWEZDVFJDdEF4akxCU2dLTWdrQlFJVGpPQ1NDYkFJ",
+   "date": "05/22/2026, 10:07 AM, +0000 UTC",
+   "iso_date": "2026-05-22T10:07:42Z"
+  },
+  {
+   "position": 45,
+   "title": "Sun Pharmaceutical Industries Q1 Results FY27: Uniresearch Predictions, Analyst Views and Key Watchpoints",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/sun-pharmaceutical-industries-q1-results-fy27",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Sun-Pharmaceutical-Industries-Q1-Results-FY27.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1XV1pYU2pVMGEzWnlZbUZOVFJDZUF4amxCU2dLTWdrUklJS1huS2s4bVFB",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Stock Radar: Sun Pharma breaks out from falling trendline resistance to hit fresh 52-week high; time to bu",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kshitij Anand"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stock-radar-sun-pharma-breaks-out-from-falling-trendline-resistance-to-hit-fresh-52-week-high-time-to-buy/articleshow/131114406.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131114406,width-1200,height-900,imgsize-119514,resizemode-8,quality-100/markets/stocks/news/stock-radar-sun-pharma-breaks-out-from-falling-trendline-resistance-to-hit-fresh-52-week-high-time-to-buy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRabTh6T1hCRVVsUkljSHB3VFJEZ0F4aUFCU2dLTWdZSlNJU0dyZ0k",
+   "date": "05/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-18T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Sun Pharmaceutical Industries Ltd spurts 2.14%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-spurts-2-14-126070300529_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Sun Pharma: Bajaj Broking recommends 'Buy'; flags 4 positive cues on charts",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sun-pharma-bajaj-broking-recommends-buy-flags-4-positive-cues-on-charts-126072900339_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/06/full/1778031943-5688.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlZbUkyWjBSU2FsTk1abkUwVFJERUF4aW1CU2dLTWdhUmw0NUl1Z1U",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Sun Pharma Lerodalcibep Deal: Macquarie Sees Cross-Selling Opportunities, Maintains 'Outperform' Call",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/sun-pharma-lerodalcibep-deal-macquarie-sees-cross-selling-opportunities-maintains-outperform-call-12112304",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/49955d72_Sun_Pharma_FB.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVNVEJGVDFWcU1tWTNkalZMVFJDZkF4ampCU2dLTWdhaFJZcnNxUVE",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Sun Pharma signs Definitive Agreement to Acquire Organon",
+   "source": {
+    "name": "Business Wire",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesswire.com/news/home/20260426881370/en/Sun-Pharma-signs-Definitive-Agreement-to-Acquire-Organon",
+   "thumbnail": "https://mms.businesswire.com/media/20260426881370/en/2785497/4/Sun_logo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlTMEpmTUhKUE1YSmhaazFaVFJEU0FoajZBU2dLTWdhSklvQ3VHUW8",
+   "date": "04/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-26T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Sun Pharma signs U.S. drug pricing deal; pharma stock falls 1%",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/sun-pharma-signs-us-drug-pricing-deal-pharma-stock-falls-1/156755",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-01-22/g2d4gt6s/shutterstock405846475790766549452.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWaTFKYUhNNFNtNXlZVlphVFJDZkF4ampCU2dLTWdhOVlJclZMQVk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Sun Pharma Shares Fell 2% Over US Drug Pricing Deal",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/sun-pharma-shares-fell-2-over-us-drug-pricing-deal/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/06/sunpharma.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURYekUzTFdkclVVbDBNV0Y1VFJDZkF4ampCU2dLTWdaRllZVFVzQUk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Sun Pharmaceutical Industries Ltd drops for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-drops-for-fifth-straight-session-126090900779_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Sun Pharma Shares Trade Lower On Mixed Brokerage View Despite Q4 Profit Surge — Check Target Price",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Riya Alex"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/sun-pharma-shares-trade-lower-on-mixed-brokerage-view-despite-q4-profit-surge-check-target-price-11543198",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/oilutpn8_sun-pharma-ndtv-profit_625x300_24_May_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVMEpwVWsxaGIwNWZNR0pOVFJDZkF4ampCU2dLTWdZbE00TE5yUVU",
+   "date": "05/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-25T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Sun Pharma reports 15.86% drop in carbon emissions for FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-reports-15-86-drop-carbon-emissions-fy26/52242950",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-reports-15-86-drop-carbon-emissions-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHhjVEZ4WmxwelExZGhiRjlsVFJDaUF4amRCU2dLTWdNQmh4UQ",
+   "date": "09/29/2026, 04:05 PM, +0000 UTC",
+   "iso_date": "2026-09-29T16:05:32Z"
+  },
+  {
+   "position": 56,
+   "title": "Sun Pharma shareholders approve reclassification of promoters to public",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-shareholders-approve-reclassification-promoters-public/51987177",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-shareholders-approve-reclassification-promoters-public.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtTVlJ4U0VOdFkwZzBWM0JuVFJDaUF4amRCU2dLTWdrQlFJVHV4T09Sa0FF",
+   "date": "09/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-26T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Sun Pharma to acquire US-based Organon in nearly $11.75 billion deal",
+   "source": {
+    "name": "DD News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ddnews.gov.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://ddnews.gov.in/en/sun-pharma-to-acquire-us-based-organon-in-nearly-11-75-billion-deal/",
+   "thumbnail": "https://ddnews.gov.in/wp-content/uploads/2026/04/uwedioqhf.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTNWV1JPTnpNd01WOHdTVkF6VFJEdUF4aWdBeWdLTWdNQmtBSQ",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Sun Pharma gets NSE, BSE nod to reclassify Valia family as public shareholders",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-gets-nse-bse-nod-to-reclassify-valia-family-as-public-shareholders/47584634",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-gets-nse-bse-nod-to-reclassify-valia-family-as-public-shareholders.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVVhbkJhYTA5MVIwOUZaa1poVFJDZkF4ampCU2dLTWdrQkFJS21FU2l4RUFF",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Sun Pharma FY26 Results: Net profit up 5% YoY to ₹11,479 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-fy26-results-net-profit-up-5-yoy-11-479-crore/51632486",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-fy26-results-net-profit-up-5-yoy-11-479-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVSVEU1WDNwb2MyOHRlbkpOVFJDaUF4amRCU2dLTWdhQjlvS0FXZ0k",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Sun Pharma to acquire US-based Organon in $11.75 billion deal, among biggest overseas buys by Indian firm",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sun-pharma-to-acquire-organon-in-11-75-billion-deal-among-biggest-overseas-buys-by-indian-firms/articleshow/130543624.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-130543821,width-1280,height-720,imgsize-1544328,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhTbGt0U0ZjdGVEUmFOV3h3VFJDZkF4ampCU2dLTWdZaFVZNnRLUVU",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Sun Pharma receives Organon shareholders approval for merger",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharma-receives-organon-shareholders-approval-for-merger-126072400198_1.html",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Sun Pharma Q1 net profit rises 27 percent to Rs 2,894 crore, misses estimates; revenue also below poll",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/sun-pharma-q1-net-profit-rises-27-percent-to-rs-2-894-crore-misses-estimates-revenue-also-below-poll-13989915.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251105114831_sunpharmartr1.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZTR2RVTkhCR1pXSnpVazVCVFJDZkF4ampCU2dLTWdhTlFZYnpvQUk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Sun Pharma Advanced Research Share Price Falling Today: Stock Drops 5.64% to Rs 236.33 on 17 July 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/sun-pharma-advanced-research-share-price-falls-5-64-percent-17-july-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/Sun-Pharma-Advanced-Research-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHljMGc1ZVhGcU9FOTJWekJCVFJDZUF4amxCU2dLTWdZSlFZSEo0QUU",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Sun Pharma to manufacture and market Semaglutide in South Africa; shares trade in green",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rohan Takalkar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/sun-pharma-to-manufacture-and-market-semaglutide-in-south-africa-shares-trade-in-green/article-196940/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sun-pharma-feb-5.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtUbHBTU1V4UFJra3llVEJJVFJEZ0F4aUFCU2dLTWdhUkpJZ0tSZ1E",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Dividend alert! Last day to buy JSW Steel, Sun Pharma, 4 more stocks to earn payouts up to Rs 75",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-jsw-steel-sun-pharma-4-more-stocks-to-earn-payouts-up-to-rs-75/articleshow/132205506.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132205503,width-1200,height-900,resizemode-4,imgsize-88698/dividend-alert-last-day-to-buy-jsw-steel-sun-pharma-4-more-stocks-to-earn-payouts-up-to-rs-75.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRTSE5ETWpjdGRuQlBibWMxVFJEZ0F4aUFCU2dLTWdZQk1vcHRKUWM",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Sun Pharmaceutical Industries Ltd spurts 0.33%, gains for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-spurts-0-33-gains-for-fifth-straight-session-126050400642_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Sun Pharma shares rally 9% in two days after $12-bn Organon deal. Here's what Morgan Stanley, other brokerages say",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sun-pharma-shares-rally-9-in-two-days-after-12-bn-organon-deal-heres-what-morgan-stanley-other-brokerages-say/articleshow/130571122.cms",
+   "thumbnail": "https://img.etimg.com/thumb/width-420,height-315,imgsize-67320,resizemode-75,msid-130571100/markets/stocks/news/sun-pharma-shares-rally-9-in-two-days-after-12-bn-organon-deal-heres-what-morgan-stanley-other-brokerages-say.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJWemhNYVZScFgxQmljMDgwVFJDNkFoaWtBeWdLTWdZRlFJNW1JZ1U",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Sun Pharma Q1 profit rises 27% to ₹2,895 crore as revenue grows over 10%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/quarterly-results-sun-pharma-q1fy27-profit-revenue-ebitda-results-126073100858_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/full/1761903240-8152.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWRFJtYjJSblRGUmFZbVZCVFJEUUF4aVZCU2dLTWdhVlFZYnpwQUk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Sun Pharmaceutical Industries Ltd spurts 1.6%, up for five straight sessions",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-spurts-1-6-up-for-five-straight-sessions-126073100673_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Sun Pharmaceutical Industries shares fall despite profit beat on margin squeeze",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vlad Schepkov"
+    ]
+   },
+   "link": "https://www.investing.com/news/stock-market-news/sun-pharmaceutical-industries-shares-fall-despite-profit-beat-on-margin-squeeze-93CH-4706464",
+   "thumbnail": "https://i-invdn-com.investing.com/news/LYNXMPEB3J0HP_L.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNSak5WUVV0RFdVUlFkblJRVFJESkF4aWZCU2dLTWdZbHBZak54UU0",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Sun Pharma, TVS Motor, Nestle, Divis among 11 BSE 500 stocks at new highs",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sun-pharma-tvs-motor-nestle-divis-among-11-bse-500-stocks-at-new-highs-126073000553_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/27/full/1777284313-8467.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRhVlJ3UjB4alJGQndiamR3VFJDaUF4amRCU2dLTWdtUlFZN1RuT2hyclFF",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Sun Pharma up 12% in 4 days, nears 52-week high; analysts see more upside?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/sun-pharma-up-12-in-4-days-nears-52-week-high-analysts-see-more-upside-126043000685_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-05/27/full/1622112401-801.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1Tblp0WlMwNGFYQjFjVU5MVFJEUUF4anNCQ2dLTWdZQjhZcVh5QVE",
+   "date": "04/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-30T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Sun Pharma may not announce any dividends, buybacks between FY27-29 - Bernstein explains why",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/sun-pharmaceutical-share-price-company-may-not-announce-any-dividends-buybacks-between-fy27-29-bernstein-explains-why-19988988.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-a3a7ed1566a4071d9ec87895557bfbdb.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpPRTVGWWxRMFNFTXpWVlF6VFJDZkF4ampCU2dLTWdZRmtJYXdSUVU",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Sun Pharmaceutical Industries Ltd.",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/stocks/sun-pharmaceutical-industries-ltd-share-price-SUNPHARMA",
+   "date": "05/20/2026, 03:36 PM, +0000 UTC",
+   "iso_date": "2026-05-20T15:36:31Z"
+  },
+  {
+   "position": 75,
+   "title": "Pharma stocks bleed after Trump announces up to 200% tariff on generic drugs; Aurobindo, Sun Pharma & Cip",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/pharma-stocks-bleed-after-trump-announces-upto-200-tariff-on-generic-drugs/articleshow/132551541.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-132551671,width-1280,height-720,imgsize-1885516,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRkR1ZhZEUxbGIwTTVjazlGVFJDZkF4ampCU2dLTWdZQlFJU0VUUU0",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Sun Pharmaceutical concludes board meeting on July 31 without material disclosures",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharmaceutical-concludes-board-meeting-on-july-31/47103153",
+   "thumbnail": "https://news-images.dhan.co/sun-pharmaceutical-concludes-board-meeting-on-july-31.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWxjV2hWT1VOQldVZHRRVlpLVFJDaUF4amRCU2dLTWdrQkFJVGdGR05iWXdN",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Sun Pharmaceutical among 5 Nifty stocks showing bullish RSI upswing",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/sun-pharmaceutical-among-5-nifty-stocks-showing-bullish-rsi-upswing/sun-pharmaceutical-industries/slideshow/131816292.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131816298,width-480,height-360,imgsize-95072,resizemode-75/trend-watch.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdkbVUzTmt3MlEwWlRRa2gyVFJEb0FoamdBeWdLTWdZWm9vcU5RUVU",
+   "date": "06/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-18T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Sun Pharma secures global rights for PCSK9 inhibitor lerodalcibep",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharma-secures-global-rights-pcsk9-inhibitor-lerodalcibep/52109905",
+   "thumbnail": "https://news-images.dhan.co/sun-pharma-secures-global-rights-pcsk9-inhibitor-lerodalcibep.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVhbWhKY20xbFdrbHVYMGRqVFJDaUF4amRCU2dLTWdrZEFJYlJCT3drandF",
+   "date": "09/28/2026, 03:05 AM, +0000 UTC",
+   "iso_date": "2026-09-28T03:05:12Z"
+  },
+  {
+   "position": 79,
+   "title": "Sun Pharma Q4 Results: Check date, time, dividend update, past performance and share price trend",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/earnings/sun-pharma-q4-results-check-date-time-dividend-update-past-performance-and-share-price-trend/article-193506/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/sun-pharma-q4-results-dividend-date-time-share-price.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJjWEY1UlRBdFpIbFVaRE5GVFJDZkF4ampCU2dLTWdNQnRBdw",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Sun Pharmaceutical Reports 27% Net Profit Increase in Q1 FY27",
+   "source": {
+    "name": "India News Network",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.indianewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indianewsnetwork.com/en/sun-pharmaceutical-reports-27-net-profit-increase-q1-fy27-20260801",
+   "thumbnail": "https://cdn.optcms.com/www.indianewsnetwork.com/assets/2026/202608/20260801-img-20260801-9fe567dcf874cb37.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHRkbVZHTWxWUWNGaGFUbWRXVFJDZUF4amtCU2dLTWdB",
+   "date": "08/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-01T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Sun Pharmaceutical Industries Ltd drops for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-drops-for-fifth-straight-session-126060400612_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Sun Pharma down 2% amid fresh US tariff jitters",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sun-pharma-down-2-amid-fresh-us-tariff-jitters-13880829.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251218083003_sun-pharma.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFlSE5ZWXpsRFIyMU1NV2hWVFJDZkF4ampCU2dLTWdhQlVwQXdLUWM",
+   "date": "04/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-06T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Sun Pharma Standalone March 2026 Net Sales at Rs 4,923.88 crore, down 31.48% Y-o-Y",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/sun-pharma-standalone-march-2026-net-sales-at-rs-4923-88-crore-down-31-48-y-o-y-13931222.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2017/04/shutterstock_310523045.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSR1Y1WTFSUE1scFpZVEZrVFJDZkF4ampCU2dLTWdZQlVJZ1J0UWM",
+   "date": "05/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-26T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Sun Pharmaceutical Industries - Torrent Pharma among 6 stocks to hit 52-week highs & rally up to 25% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/torrent-pharma-among-6-stocks-to-hit-52-week-highs-amp-rally-up-to-25-in-a-month/sun-pharmaceutical-industries/slideshow/132261170.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132261198,width-480,height-360,imgsize-133682,resizemode-75/fresh-highs.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSM0pvU21kelZYTjFTRloxVFJEbUFoamdBeWdLTWdrcFFJenROT1VkYUFJ",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Sun Pharma Q1 profit rises 27%; US generics remain under pressure",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/sun-pharma-q1fy27-results-net-profit-rises-27pc-us-generics-business-remains-under-pressure-126073101038_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/31/full/1785521589-126.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhXRTg1VlVsQlFVWnpRa1EwVFJDc0JCaW9CQ2dLTWdZNVlvNFNyUVk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Sun Pharma shares fall over 3% amid reports of $13 billion Organon bid",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sun-pharma-shares-fall-over-3-amid-reports-of-13-billion-organon-bid-13898330.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251105154649_sunpharmartr.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllamRuZFZWbE5uWjFOak13VFJDZkF4ampCU2dLTWdZQmFJU0ZMZ00",
+   "date": "04/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-24T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Sun Pharmaceutical Industries Q4 Results 2026: Date, Revenue, PAT and Analyst Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/sun-pharmaceutical-industries-q4-results-2026-preview",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/04161125/Sun-Pharmaceutical-Industries-Q4-Results-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZjVW8yVVRWWloyVkJXbUo0VFJDZUF4amxCU2dLTWdtVk1vQndGYXBEV1FB",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Sun Pharma, Divi's Lab, other pharma shares fall up to 4% as Trump may impose 100% tariffs on global...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/sun-pharma-divi-s-lab-other-pharma-shares-fall-up-to-4-as-trump-may-impose-100-tariffs-on-global-drugmakers-13877547.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251218083003_sun-pharma.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFlSE5ZWXpsRFIyMU1NV2hWVFJDZkF4ampCU2dLTWdhQlVwQXdLUWM",
+   "date": "04/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-02T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Sun Pharmaceutical Industries announces 34th AGM schedule",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/sun-pharmaceutical-industries-announces-34th-agm-and-e-voting-schedule/44966324",
+   "thumbnail": "https://news-images.dhan.co/sun-pharmaceutical-industries-announces-34th-agm-and-e-voting-schedule.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiRFJzWlV4cFEyOVRXbDluVFJDaUF4amRCU2dLTWdZQkFwQ05oUWM",
+   "date": "07/07/2026, 10:42 AM, +0000 UTC",
+   "iso_date": "2026-07-07T10:42:11Z"
+  },
+  {
+   "position": 90,
+   "title": "Sun Pharmaceutical Industries Ltd spurts 1.19%, rises for fifth straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-spurts-1-19-rises-for-fifth-straight-session-126062300509_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Sun Pharma Q4 Results: Cons profit rises 26% YoY to Rs 2,714 crore; board approves Rs 5/share dividend",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/sun-pharma-q4-results-cons-profit-rises-26-yoy-to-rs-2714-crore-board-approves-rs-5/share-dividend/articleshow/131260848.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131260822,width-1200,height-900,resizemode-4,imgsize-119514/sun-pharma-q4-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVkVTFpWDFkNFZIQTVPRzVyVFJEZ0F4aUFCU2dLTWdZSlNJU0dyZ0k",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Sun Pharma Advanced Research Company Share Price Falls 4.4% Today: Key Reasons",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/sun-pharma-advanced-research-company-share-price-falls-today",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/banner-87.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZMVU5hVVVaS2NHeHJiRkJuVFJDUUF4ai1CU2dLTWdhQlNKS0RwZ2M",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Sun Pharma is marrying Organon",
+   "source": {
+    "name": "Finshots",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://finshots.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finshots.in/markets/sun-pharma-is-marrying-organon/",
+   "thumbnail": "https://cdn.finshots.app/images/2026/05/Newsletter-Cover_Sun-Pharma-s-Acquisition-of-Organon.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNORTlmY1hsbVZFeFFjWGxCVFJDZkF4ampCU2dLTWdrQmtJek14ZVhJN0FF",
+   "date": "05/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-01T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Sun Pharmaceutical Industries Ltd spurts 0.07%, up for five straight sessions",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/sun-pharmaceutical-industries-ltd-spurts-0-07-up-for-five-straight-sessions-126070700515_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Explained — Why Sun Pharma shares are down 5% in a strong market",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ekta Batra"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/sun-pharma-share-price-fall-nifty-50-loser-key-factors-organon-report-deal-impact-ws-l-19884505.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2023/04/2017-11-14T113029Z_1634538124_RC1A187FD710_RTRMADP_3_SUN-PHARM-RESULTS.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURUMmRsYURaRWFIcHhRalZNVFJDZkF4ampCU2dLTWdhQk9JU2xvZ0k",
+   "date": "04/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-10T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Sun Pharma Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price Performance",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/sun-pharmaceutical-industries-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11842983",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/1qko9nk4_sun-pharma_625x300_31_July_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFhRVJLTldWeFMxaHVRMkZFVFJDZkF4ampCU2dLTWdrSk1JYkVvdWNsdFFB",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Organon deal impact: Sun Pharma surges 16% in 10 days, nears record high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/organon-deal-impact-sun-pharma-surges-16-in-10-days-nears-record-high-126051100425_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/31/full/1761903240-8152.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdWRFJtYjJSblRGUmFZbVZCVFJEUUF4aVZCU2dLTWdhVlFZYnpwQUk",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Sun Pharma's $11.8 bn Organon buy drives India's M&A value to 4-year high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sunainaa Chadha"
+    ]
+   },
+   "link": "https://www.business-standard.com/finance/personal-finance/sun-pharma-s-11-8-bn-organon-buy-drives-india-s-m-a-value-to-4-year-high-126070700018_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/08/full/1715141532-6314.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW1SR056YlhSaWRVSllkVU5QVFJERUF4aW1CU2dLTWdNQmtoUQ",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Sun Pharma Stock Slips as Organon Holders Approve Merger",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/sun-pharma-stock-slips-as-organon-holders-approve-merger/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/04/Sun-Pharma-Shares-Down-3-as-Mohali-Unit-Shuts-Down-for-Corrective-Measures-EP.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlTbE53ZVRNNUxWQktZM3AwVFJDX0F4aXRCU2dLTWdZZE5Kck5JUWc",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Nifty Pharma jumps nearly 2%; Dr Reddy's, Sun Pharma and Cipla lead gains, dominate Nifty gainers list",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/nifty-pharma-jumps-nearly-2-dr-reddy-s-sun-pharma-and-cipla-lead-gains-dominate-nifty-gainers-list-13956287.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251016073032_B12-deficiency-drugs.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhWbFU0VlVwWWIyZ3pNVWRyVFJDZkF4ampCU2dLTWdZeGdJTHh6QUk",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:42"
+}

@@ -1,0 +1,117 @@
+{
+ "search_metadata": {
+  "id": "6acb1f9bde5efc801308f651",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jbhYawN_IJdJqQFVGUyItt2dv2HxLFEgBPRg-_y7H2Y/6acb1f9bde5efc801308f651.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jbhYawN_IJdJqQFVGUyItt2dv2HxLFEgBPRg-_y7H2Y/6acb1f9bde5efc801308f651.md",
+  "created_at": "2026-10-11 05:33:15 UTC",
+  "processed_at": "2026-10-11 05:33:15 UTC",
+  "google_news_url": "https://news.google.com/search?q=%22Sagar+Sinha%22+SEBI&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/jbhYawN_IJdJqQFVGUyItt2dv2HxLFEgBPRg-_y7H2Y/6acb1f9bde5efc801308f651.html",
+  "total_time_taken": 0.97
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Sagar Sinha\" SEBI"
+ },
+ "news_results": [
+  {
+   "position": 2,
+   "title": "मंदी आ रही है... क्या डूब जाएँगे Bank? | SAGAR SINHA Movies Theaters (rJ4ZoKyWGF)",
+   "source": {
+    "name": "Unisba Media",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://media.unisba.ac.id&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://media.unisba.ac.id/8e5aed50/c8c211089kt6mXkWKtE/?share=linkedin&nb=1",
+   "date": "09/29/2026, 09:05 PM, +0000 UTC",
+   "iso_date": "2026-09-29T21:05:55Z"
+  },
+  {
+   "position": 3,
+   "title": "Finfluencer And Motivational Speaker Sagar Sinha Launches Rs 10 Crore Fund For Start-Ups",
+   "source": {
+    "name": "Outlook Business",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookbusiness.com/news/finfluencer-and-motivational-speaker-sagar-sinha-launches-rs-10-crore-fund-for-start-ups",
+   "thumbnail": "https://media.assettype.com/outlookbusiness/2024-04/b3ff7c92-d487-4763-8c68-f1b2e9276e7d/Indus_appstore__13_.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpUbVJITVhkNGJFbG1iMkZ1VFJDZkF4ampCU2dLTWdhcFJaVE9KUWc",
+   "date": "04/05/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-04-05T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "ShareMarketBasics ,“Share Market म्हणजे काय? | Beginner Guide Marathi 📈”",
+   "source": {
+    "name": "YouTube",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://youtu.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://youtu.be/sPQ9eVuupzw?si=yMpGsPN0ZBHPFNJd",
+   "date": "03/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-24T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Share Market में ₹36 हज़ार करोड़ का घोटाले का पूरा Hisab Kitab? | Jane Street Case | SEBI | BIZ Tak",
+   "source": {
+    "name": "YouTube",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://youtu.be&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://youtu.be/N9QPxbmVDOI?si=oFk5vwCFGPGUiGOp",
+   "thumbnail": "https://i.ytimg.com/vi/N9QPxbmVDOI/maxresdefault.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBlbkpZUkc5bGFYVktTRk5DVFJDZkF4ampCU2dLTWdB",
+   "date": "07/06/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-06T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-11T05:33:13"
+}

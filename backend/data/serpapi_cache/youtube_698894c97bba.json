@@ -1,0 +1,633 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf90ff596e9993136189",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/HE48KKjBqfV86O21RDTUP-uOL9gB4Cy4yELTs72Lfow/6ac7bf90ff596e9993136189.json",
+  "markdown_endpoint": "https://serpapi.com/searches/HE48KKjBqfV86O21RDTUP-uOL9gB4Cy4yELTs72Lfow/6ac7bf90ff596e9993136189.md",
+  "created_at": "2026-10-08 16:06:40 UTC",
+  "processed_at": "2026-10-08 16:06:40 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=IOL+Chemicals+and+Pharmaceuticals+Limited+share+target&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/HE48KKjBqfV86O21RDTUP-uOL9gB4Cy4yELTs72Lfow/6ac7bf90ff596e9993136189.html",
+  "total_time_taken": 3.23
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "IOL Chemicals and Pharmaceuticals Limited share target",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 20855,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "IOL Chemicals and pharmaceuticals ltd latest news | iol chemicals and pharmaceuticals ltd Analysis",
+   "link": "https://www.youtube.com/watch?v=nwig2DHzBUs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nwig2DHzBUs",
+   "video_id": "nwig2DHzBUs",
+   "channel": {
+    "name": "Share Market Live",
+    "link": "https://www.youtube.com/@Sharemarketlive77",
+    "thumbnail": "https://yt3.ggpht.com/JYMd-VmfgpheJtht9S8WQJ-y6TzZmxo6CY6Bl6u1joh1mpkqr2H5Hy8sZNNuHFj1aqeRtyFu=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4w ago",
+   "views": 1652,
+   "length": "1:13",
+   "description": "IOL Chemicals and pharmaceuticals ltd latest news | iol chemicals and pharmaceuticals ltd Analysis 09 September 2026 Join ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nwig2DHzBUs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjNpDLPdfAivBemHcQZDqOhmxNZw",
+    "rich": "https://i.ytimg.com/an_webp/nwig2DHzBUs/mqdefault_6s.webp?du=3000&sqp=CKrentYG&rs=AOn4CLCzsMtgaJ_MM9eLxnjM_z0cjggV0g"
+   }
+  },
+  {
+   "position_on_page": 2,
+   "title": "IOL Chemicals Share Latest News 🔴 | IOL Chemicals Share Today Update and Fundamental Analysis",
+   "link": "https://www.youtube.com/watch?v=kBOT52QlioE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kBOT52QlioE",
+   "video_id": "kBOT52QlioE",
+   "channel": {
+    "name": "QUICK BULL",
+    "link": "https://www.youtube.com/@QUICKBULL",
+    "thumbnail": "https://yt3.ggpht.com/1etVJB4hpIfey2rk3XBEvEapp0lc_G_WFX07vQQkn5pWyV-T0Mp4s1l21NrQTRcGgjoOyNPcnA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1664,
+   "length": "1:30",
+   "description": "IOL Chemicals Share Latest News 🔴 IOL Chemicals Share Today Update and Fundamental Analysis ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kBOT52QlioE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzoglv0uBZIEwbEM2L8t6lsQ24iw"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "IOL Chemicals Share Latest News 🔴 IOL Chemicals Share Today Update and Fundamental Analysis",
+   "link": "https://www.youtube.com/watch?v=Iq-g8nFWnvw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Iq-g8nFWnvw",
+   "video_id": "Iq-g8nFWnvw",
+   "channel": {
+    "name": "∆Market Momentum",
+    "link": "https://www.youtube.com/@StockMomentumGuru",
+    "thumbnail": "https://yt3.ggpht.com/9nIa5WT5TkxfRpHexiShwED1UTupCrpF6dkJFaq_qcGz6Yugh2jY9S_5vfS8-P0Pp5cVpIJXwQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4w ago",
+   "views": 1174,
+   "length": "0:53",
+   "description": "IOL Chemicals Share Latest News 🔴 IOL Chemicals Share Today Update, Market Trends, and Fundamental Analysis\n\nIOL Chemicals ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Iq-g8nFWnvw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhWccWfrv2-ka-J699_6Xii2NC2Q"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "IOL Chemicals share latest news, IOL Chemicals stock analysis, IOL Chemicals share price target",
+   "link": "https://www.youtube.com/watch?v=HYJAJblV1dQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HYJAJblV1dQ",
+   "video_id": "HYJAJblV1dQ",
+   "channel": {
+    "name": "Trading Actions • 19K views • 2 hours ago",
+    "link": "https://www.youtube.com/@TradingActions",
+    "thumbnail": "https://yt3.ggpht.com/MIbMG0wwYympDxQHXyOZJ57imCbNLCdRpIaR7TlrPlfaF1O2Oy0l9z4UZh99P4RHpN7QXlr5=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1303,
+   "length": "1:14",
+   "description": "stock market live,iol chemicals and pharmaceuticals ltd,iol chemicals latest news,iol chemicals share latest news,iol ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HYJAJblV1dQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFj-UtTAPuAQe-dOhMZWTFgPYokA"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Stuck with IOL Chemicals shares at ₹205? 😱 ₹250 Target? |",
+   "link": "https://www.youtube.com/watch?v=XIl3ru9TbiE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XIl3ru9TbiE",
+   "video_id": "XIl3ru9TbiE",
+   "channel": {
+    "name": "Market Ka Review",
+    "link": "https://www.youtube.com/@marketkareview",
+    "thumbnail": "https://yt3.ggpht.com/C4NX7EQKzpDd_JCcJVbqh3bxyxHJKl-Ll2qbeGgDj8Jvmsl80IL4QXQ1u5UiDRwCkcUo54UIfA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5d ago",
+   "views": 516,
+   "length": "1:40",
+   "description": "IOL Chemicals Share Analysis with Anil Singhvi | Target ₹250? | IOL Chemicals Share Price\n\nIOL Chemicals share price is in ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XIl3ru9TbiE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASiUhUcfXhvoBc59SbBZTYtMM5ig"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "IOL Chemicals share latest news | IOL Chemicals and Pharmaceuticals Ltd latest news | IOL Chemica...",
+   "link": "https://www.youtube.com/watch?v=C2PPtg9SSLQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C2PPtg9SSLQ",
+   "video_id": "C2PPtg9SSLQ",
+   "channel": {
+    "name": "Kamai Ka Adda",
+    "link": "https://www.youtube.com/@kamaiKaAdda",
+    "thumbnail": "https://yt3.ggpht.com/OHYOyeP6Cosv8EuMeJQs3xmqkklVykUGbi9jAO7V1HfUgraz1eXHS1S5IcqIIB2XwLa9JE-UsA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 733,
+   "length": "5:55",
+   "description": "#iolchemicalsandpharmaceuticalltdlatestnews \n#iolchemicalssharelatestnews\n#iolchemicalssharenewstoday ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/C2PPtg9SSLQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqNL5vOJR4cWiKdNtXbZsnHPXykQ"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "IOL chemicals share 🔥✅ | IOL chemicals share latest news today | IOL chemicals share news | IOL",
+   "link": "https://www.youtube.com/watch?v=w8cqXIzk7xs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w8cqXIzk7xs",
+   "video_id": "w8cqXIzk7xs",
+   "channel": {
+    "name": "GR8 ChartStudies",
+    "link": "https://www.youtube.com/@GR8chartStudy",
+    "thumbnail": "https://yt3.ggpht.com/xdN9SpGHWDZLF4p9sjFxnGlYaAvndCL-Ff6TyEyYZ2kYD0-66oOHoK4QVUpvjUYq8jqjl_OA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 921,
+   "length": "1:14",
+   "description": "... chemicals share price target,iol chemicals share news,iol chemicals share price,iol chemicals and pharmaceuticals ltd share,iol ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/w8cqXIzk7xs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB1dQdzDmVhj7y738nbG2iQ-UYiQ",
+    "rich": "https://i.ytimg.com/an_webp/w8cqXIzk7xs/mqdefault_6s.webp?du=3000&sqp=CM3sntYG&rs=AOn4CLClRjbHHOavgGwTZzQIAWGuIcr0bQ"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "IOL Chemicals Q1 FY27 Concall Update | Revenue ₹756 Cr 🚀 PAT ₹64.5 Cr | Non-Ibuprofen API Growth",
+   "link": "https://www.youtube.com/watch?v=ty5L5UCSqAg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ty5L5UCSqAg",
+   "video_id": "ty5L5UCSqAg",
+   "channel": {
+    "name": "Market Concall Decode",
+    "link": "https://www.youtube.com/@MarketConcallDecode",
+    "thumbnail": "https://yt3.ggpht.com/4jxK_2RpOrq4qVEGDfXBRZDP8HQWaUXF21NOcqpf7dsMZMWHqq0ZbiCseBKGLdMYwD_6gOmKLw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 690,
+   "length": "20:06",
+   "description": "# IOL Chemicals & Pharmaceuticals Ltd Q1 FY27 Concall Hindi | Complete Analysis\n\nIn this video, we completely decode IOL ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ty5L5UCSqAg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoET_H424OQ8vyVAC68tFDoRCwVg",
+    "rich": "https://i.ytimg.com/an_webp/ty5L5UCSqAg/mqdefault_6s.webp?du=3000&sqp=CKjgntYG&rs=AOn4CLBTCd3w_R5zW9T0O1Gea7n4_FlHKw"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "IOL Chemicals & Pharmaceuticals Ltd Share Analysis | Complete Fundamentals | Buy, Sell or Hold?",
+   "link": "https://www.youtube.com/watch?v=kuWZ8J-mJX0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kuWZ8J-mJX0",
+   "video_id": "kuWZ8J-mJX0",
+   "channel": {
+    "name": "Share Analysis",
+    "link": "https://www.youtube.com/@SwingTradeStrategy",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_kRdiwgGASa43GPYT-c3Z6MApteJOGOBXuLd7u6TpOt2CJm9iQ6p6u16RMmQYwe-Tke3g=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 225,
+   "length": "9:30",
+   "description": "IOL Chemicals & Pharmaceuticals Ltd Share Analysis | Complete Fundamental Analysis | Buy, Sell or Hold? | IOLCP Share 2026 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kuWZ8J-mJX0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDf1g8vGTPXn-PibDFwewGLrnCNyg",
+    "rich": "https://i.ytimg.com/an_webp/kuWZ8J-mJX0/mqdefault_6s.webp?du=3000&sqp=CPbWntYG&rs=AOn4CLAKw8S1NfkLqdsM1SBZAnm_F3Kv2w"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "IOL Chemicals Breakout Confirmed? 🎯 Next Target ₹200+ | Buy Now?",
+   "link": "https://www.youtube.com/watch?v=Lyb41rkwpnc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lyb41rkwpnc",
+   "video_id": "Lyb41rkwpnc",
+   "channel": {
+    "name": "Stock Journey With Dev",
+    "link": "https://www.youtube.com/@stockjourneywithdev",
+    "thumbnail": "https://yt3.ggpht.com/Np4kezspuWflvIo5Dgo1nXZPCak-7MoK8bZFXvDm49CnOqA3AU45lnT7NHDYeyDaphC59BMw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 267,
+   "length": "3:15",
+   "description": "IOL Chemicals Breakout Confirmed? Next Target ₹200+ | Buy Now? In this video, we analyze the IOL Chemicals stock chart ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Lyb41rkwpnc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaoWM1XtGRz2FwrcfX4v6_N8t1uA"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "IOL Chemicals and pharmaceuticals ltd latest news | iol chemicals and pharmaceuticals ltd Analysis",
+   "link": "https://www.youtube.com/watch?v=iQNons4-zIk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iQNons4-zIk",
+   "video_id": "iQNons4-zIk",
+   "channel": {
+    "name": "Share Market Live",
+    "link": "https://www.youtube.com/@Sharemarketlive77",
+    "thumbnail": "https://yt3.ggpht.com/JYMd-VmfgpheJtht9S8WQJ-y6TzZmxo6CY6Bl6u1joh1mpkqr2H5Hy8sZNNuHFj1aqeRtyFu=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 2260,
+   "length": "1:28",
+   "description": "IOL Chemicals and pharmaceuticals ltd latest news | iol chemicals and pharmaceuticals ltd Analysis 12 July 2026 Join Free ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iQNons4-zIk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDW4HrOy4842Jnz8Df7Cj5PpD-66w"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "IOLCPL SHARE TARGET ANALYSIS ✳️ IOL CHEMICALS NEWS | IOL CHEMICALS ANALYSIS STOCKS NEWS 09-26-16",
+   "link": "https://www.youtube.com/watch?v=2oS8fNMhR1Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2oS8fNMhR1Q",
+   "video_id": "2oS8fNMhR1Q",
+   "channel": {
+    "name": "One’n’One investor",
+    "link": "https://www.youtube.com/@oneoneinvester2350",
+    "thumbnail": "https://yt3.ggpht.com/uKc4_C7GVjdvU0gu9-fPpkr8LulFXz9vBBtM2XBnIaxx-QopiEmGlMEP6S3ukU9l7XodS-nLlQU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 206,
+   "length": "1:47",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/2oS8fNMhR1Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAaoRcsL4KLgcLWbZ9DEcz8ocBRA",
+    "rich": "https://i.ytimg.com/an_webp/2oS8fNMhR1Q/mqdefault_6s.webp?du=3000&sqp=CLz4ntYG&rs=AOn4CLBGZsdWXVnlDN8QkPo0NTm8usqtkg"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "IOL Chemicals and Pharmaceuticals Share Latest News Today | 2 Year Breakout? | IOL Share Target 120?",
+   "link": "https://www.youtube.com/watch?v=JiMm__NOnqo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=JiMm__NOnqo",
+   "video_id": "JiMm__NOnqo",
+   "channel": {
+    "name": "RKSINVESTMENT",
+    "link": "https://www.youtube.com/@RKSINVESTMENT1",
+    "thumbnail": "https://yt3.ggpht.com/3eNe43D5H3o6oARVDrQ-UaJo-GVleeg_4MEuguGMBVAliYSaBQPQ_EztBEkZDELHafR9PRMb8Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 595,
+   "length": "2:50",
+   "description": "In today's video we will do a complete analysis of IOL Chemicals and Pharmaceuticals share.\n\nThis video will cover:\n\nIOL ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/JiMm__NOnqo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXg4VNj293WyPA0d6vZasMKp9XFg"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "IOL Chemicals share latest news, IOL Chemicals stock analysis, IOL Chemicals share price target",
+   "link": "https://www.youtube.com/watch?v=oqYmp20v9OM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oqYmp20v9OM",
+   "video_id": "oqYmp20v9OM",
+   "channel": {
+    "name": "Trading Actions • 19K views • 2 hours ago",
+    "link": "https://www.youtube.com/@TradingActions",
+    "thumbnail": "https://yt3.ggpht.com/MIbMG0wwYympDxQHXyOZJ57imCbNLCdRpIaR7TlrPlfaF1O2Oy0l9z4UZh99P4RHpN7QXlr5=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 1230,
+   "length": "1:20",
+   "description": "stock market live,iol chemicals and pharmaceuticals ltd,iol chemicals latest news,iol chemicals share latest news,iol ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/oqYmp20v9OM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB94ikSNqfdoUkiD8CHNUDCf0Wu8w"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "IOL Chemicals: 2020 Ke Baad All Time High Breakout?",
+   "link": "https://www.youtube.com/watch?v=tQjATJEmNPo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tQjATJEmNPo",
+   "video_id": "tQjATJEmNPo",
+   "channel": {
+    "name": "Khushi Profit Zone",
+    "link": "https://www.youtube.com/@khushiprofit",
+    "thumbnail": "https://yt3.ggpht.com/6hJgNwG26f6KwHQyAIKx1HDj0AzTINmic_cRnw9arw8HiAv3W7P9iKCbIfpenZvdC9q65aOI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 238,
+   "length": "6:15",
+   "description": "Kya IOL Chemicals 2020 ke baad apna All Time High todne ke liye ready hai? Is video me hum IOL Chemicals ka detailed ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tQjATJEmNPo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVIVHWNIYay_17p9l-SwYMvyGcew"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "IOL Chemicals Share Latest News 🔴 IOL Chemicals Share Today Update and Fundamental Analysis",
+   "link": "https://www.youtube.com/watch?v=xYES2eEKJXg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xYES2eEKJXg",
+   "video_id": "xYES2eEKJXg",
+   "channel": {
+    "name": "∆Market Momentum",
+    "link": "https://www.youtube.com/@StockMomentumGuru",
+    "thumbnail": "https://yt3.ggpht.com/9nIa5WT5TkxfRpHexiShwED1UTupCrpF6dkJFaq_qcGz6Yugh2jY9S_5vfS8-P0Pp5cVpIJXwQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 1287,
+   "length": "0:59",
+   "description": "IOL Chemicals & Pharmaceuticals Share Latest News 🔴 IOL Chemicals Share Today Update, Market Trends, and Fundamental Analysis ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xYES2eEKJXg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBHakcu3HDklfK2qTKd1qX6TC3qQ"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "IOL Chemicals & Pharmaceuticals Ltd analysis #LATESTTARGET #MULTYBAGGER",
+   "link": "https://www.youtube.com/watch?v=GSI9MHWH8zw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GSI9MHWH8zw",
+   "video_id": "GSI9MHWH8zw",
+   "channel": {
+    "name": "Telugu Bull Trader",
+    "link": "https://www.youtube.com/@telugubulltrader",
+    "thumbnail": "https://yt3.ggpht.com/BXSZ8jVxqyBw4d8VHo5ZsEOsz0MQKcRAmri6TmiwyfiXZR0lOzu0E1xVuIVOfoDMjoJg6nzy=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 238,
+   "length": "15:20",
+   "description": "HELLO, friends Welcome to #TELUGUBULLTRADER# our stock market channel (Telugu) we have explained stock market basics.",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GSI9MHWH8zw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZGmk1mWRiXomTGHtiStQETAqo1A"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "IOL Chemicals share latest news 🔥IOL Chemicals Q1 Results 2027, why did IOL Chemicals crash today?",
+   "link": "https://www.youtube.com/watch?v=I8LNQnWewG0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=I8LNQnWewG0",
+   "video_id": "I8LNQnWewG0",
+   "channel": {
+    "name": "Mr. Dkay",
+    "link": "https://www.youtube.com/@MrDkay4",
+    "thumbnail": "https://yt3.ggpht.com/BF7P_OxxbSyQHhJAQaFFvSfv0hp-LJb2jMR8TXITZgeXWKpSis7LJK8R_IZGt9zq-pq7MPngbA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 472,
+   "length": "2:20",
+   "description": "IOL Chemicals share latest news, iol chemicals stock analysis, iol chemicals share price target\n\niol chemicals and ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/I8LNQnWewG0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD2Wdidm1cLe7V51GxxSUkAbuK1w"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "IOL Chemicals share latest news, #stocknewseveryday",
+   "link": "https://www.youtube.com/watch?v=OLRP2l2eDW4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLRP2l2eDW4",
+   "video_id": "OLRP2l2eDW4",
+   "channel": {
+    "name": "Stock news everyday",
+    "link": "https://www.youtube.com/@stocknewseveryday",
+    "thumbnail": "https://yt3.ggpht.com/R5EYJVo_JmJmglgRwX7wA4hmrYTglyGhsBA-R-ZM5_-7MyamluhAjZotONvfOKIA64F0wYL5DYM=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 2506,
+   "length": "1:35",
+   "description": "iol chemicals share,iol chemicals share latest news,iol chemical share news,iol chemicals share price target,iol chemicals ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OLRP2l2eDW4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmzGKdTXSUd4Cj0-kL-l6CP5LV1A"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 8,
+   "shorts": [
+    {
+     "title": "IOL CHEMICALS & PHARMACEUTICALS - Short-term trade opportunity analysis.",
+     "link": "https://www.youtube.com/shorts/DoXEU_TX_a8",
+     "thumbnail": "https://i.ytimg.com/vi/DoXEU_TX_a8/frame0.jpg",
+     "views_original": "49 views",
+     "views": 49,
+     "video_id": "DoXEU_TX_a8"
+    },
+    {
+     "title": "IOL Chemicals Chart Analysis | Latest news | Target | Results | Breakout #multibagger #shortsfeed",
+     "link": "https://www.youtube.com/shorts/EeWZQzBhro0",
+     "thumbnail": "https://i.ytimg.com/vi/EeWZQzBhro0/frame0.jpg",
+     "views_original": "263 views",
+     "views": 263,
+     "video_id": "EeWZQzBhro0"
+    },
+    {
+     "title": "iol chemicals and pharmaceutical ltd share breaking news 🔥💰//Target price 1000/-",
+     "link": "https://www.youtube.com/shorts/fhZepBUm4qo",
+     "thumbnail": "https://i.ytimg.com/vi/fhZepBUm4qo/frame0.jpg",
+     "views_original": "188 views",
+     "views": 188,
+     "video_id": "fhZepBUm4qo"
+    },
+    {
+     "title": "🔥IOL CHEMICALS AND PHARMACEUTICAL 💰 SHARE TARGET 1000 RUPEES//BEST PHARMA STOCK//BUY NOW//#shorts",
+     "link": "https://www.youtube.com/shorts/hJ2ijqXnnfU",
+     "thumbnail": "https://i.ytimg.com/vi/hJ2ijqXnnfU/frame0.jpg",
+     "views_original": "184 views",
+     "views": 184,
+     "video_id": "hJ2ijqXnnfU"
+    },
+    {
+     "title": "IOL chemical share next target//IOL chemical share breaking news//",
+     "link": "https://www.youtube.com/shorts/knAzsKnWuRg",
+     "thumbnail": "https://i.ytimg.com/vi/knAzsKnWuRg/frame0.jpg",
+     "views_original": "467 views",
+     "views": 467,
+     "video_id": "knAzsKnWuRg"
+    }
+   ]
+  },
+  {
+   "position_on_page": 12,
+   "shorts": [
+    {
+     "title": "iol chemicals stocks update today #pharma-sector #iol #stock #shorts",
+     "link": "https://www.youtube.com/shorts/16afnJagDW0",
+     "thumbnail": "https://i.ytimg.com/vi/16afnJagDW0/frame0.jpg",
+     "views_original": "337 views",
+     "views": 337,
+     "video_id": "16afnJagDW0"
+    },
+    {
+     "title": "🚨 IOLCP Massive Breakout Incoming?! 🚀 Double Bottom Target Revealed! 📈",
+     "link": "https://www.youtube.com/shorts/7t8Wclel3Wk",
+     "thumbnail": "https://i.ytimg.com/vi/7t8Wclel3Wk/frame0.jpg",
+     "views_original": "44 views",
+     "views": 44,
+     "video_id": "7t8Wclel3Wk"
+    },
+    {
+     "title": "IOL Chemicals & Pharmaceuticals Ltd interim dividend credited in bank accounts. #IOLCP #StockMarket",
+     "link": "https://www.youtube.com/shorts/0r-B2MypfVk",
+     "thumbnail": "https://i.ytimg.com/vi/0r-B2MypfVk/frame0.jpg",
+     "views_original": "537 views",
+     "views": 537,
+     "video_id": "0r-B2MypfVk"
+    },
+    {
+     "title": "IOLCP latest news | iolcp share analysis | iolcp share latest news | iolcp #share price | #shorts",
+     "link": "https://www.youtube.com/shorts/QlP33GRqpAM",
+     "thumbnail": "https://i.ytimg.com/vi/QlP33GRqpAM/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "QlP33GRqpAM"
+    },
+    {
+     "title": "IOLCP share letest news | IOLCP  share Target #iocshare #stockmarket",
+     "link": "https://www.youtube.com/shorts/xXvKTc7hGSs",
+     "thumbnail": "https://i.ytimg.com/vi/xXvKTc7hGSs/frame0.jpg",
+     "views_original": "144 views",
+     "views": 144,
+     "video_id": "xXvKTc7hGSs"
+    },
+    {
+     "title": "Iol chemical share next target???Iol chemical buy or sell//",
+     "link": "https://www.youtube.com/shorts/o8UyXK59rdY",
+     "thumbnail": "https://i.ytimg.com/vi/o8UyXK59rdY/frame0.jpg",
+     "views_original": "367 views",
+     "views": 367,
+     "video_id": "o8UyXK59rdY"
+    },
+    {
+     "title": "IOLCP share ..buy on dip #nifty #sensex #nifty50 #niftyfuture #trading #niftymidcap #stock",
+     "link": "https://www.youtube.com/shorts/-uLZKkg3Lws",
+     "thumbnail": "https://i.ytimg.com/vi/-uLZKkg3Lws/frame0.jpg",
+     "views_original": "445 views",
+     "views": 445,
+     "video_id": "-uLZKkg3Lws"
+    },
+    {
+     "title": "IOL Chemicals and Pharmaceuticals Limited Dividend 2022 Alert #shorts",
+     "link": "https://www.youtube.com/shorts/sdkiv3GuwuM",
+     "thumbnail": "https://i.ytimg.com/vi/sdkiv3GuwuM/frame0.jpg",
+     "views_original": "444 views",
+     "views": 444,
+     "video_id": "sdkiv3GuwuM"
+    },
+    {
+     "title": "Weekly Technical Stocks - IOL Chemicals - Dec 24,2022",
+     "link": "https://www.youtube.com/shorts/GE9Pi-smD8A",
+     "thumbnail": "https://i.ytimg.com/vi/GE9Pi-smD8A/frame0.jpg",
+     "views_original": "172 views",
+     "views": 172,
+     "video_id": "GE9Pi-smD8A"
+    },
+    {
+     "title": "IOL Chemicals and Pharmaceuticals Ltd Share",
+     "link": "https://www.youtube.com/shorts/aYJ_hfxPv8Y",
+     "thumbnail": "https://i.ytimg.com/vi/aYJ_hfxPv8Y/frame0.jpg",
+     "views_original": "224 views",
+     "views": 224,
+     "video_id": "aYJ_hfxPv8Y"
+    },
+    {
+     "title": "IOLCP to break its deadlock from June 2026?? #stockmarket",
+     "link": "https://www.youtube.com/shorts/NpEQz1BSKoo",
+     "thumbnail": "https://i.ytimg.com/vi/NpEQz1BSKoo/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "NpEQz1BSKoo"
+    },
+    {
+     "title": "TODAY'S BUMPER STOCK | SHORT TERM OPPORTUNITY FOR ACTIVE TRADERS",
+     "link": "https://www.youtube.com/shorts/ZU2ciAPwkL8",
+     "thumbnail": "https://i.ytimg.com/vi/ZU2ciAPwkL8/frame0.jpg",
+     "views_original": "132 views",
+     "views": 132,
+     "video_id": "ZU2ciAPwkL8"
+    },
+    {
+     "title": "IOL Chemicals & Pharma Ltd has declared an interim dividend for FY 2024. #Dividend #Shorts #IOLCP",
+     "link": "https://www.youtube.com/shorts/F099TynA6FQ",
+     "thumbnail": "https://i.ytimg.com/vi/F099TynA6FQ/frame0.jpg",
+     "views_original": "723 views",
+     "views": 723,
+     "video_id": "F099TynA6FQ"
+    },
+    {
+     "title": "iol chemical share latest news//iolcp share news//iol chemicals and pharmaceuticals share//",
+     "link": "https://www.youtube.com/shorts/I3b2wtLSl20",
+     "thumbnail": "https://i.ytimg.com/vi/I3b2wtLSl20/frame0.jpg",
+     "views_original": "1.8K views",
+     "views": 1800,
+     "video_id": "I3b2wtLSl20"
+    },
+    {
+     "title": "IOL Chemicals & Pharmaceuticals|27 OCT 2025|#bse #nse #marketnews #news #IOLChemicals #IOLCP #Pharma",
+     "link": "https://www.youtube.com/shorts/bGz45edZaj8",
+     "thumbnail": "https://i.ytimg.com/vi/bGz45edZaj8/frame0.jpg",
+     "views_original": "3.2K views",
+     "views": 3200,
+     "video_id": "bGz45edZaj8"
+    },
+    {
+     "title": "IOL chemicals and pharmaceutical | stock market #shorts",
+     "link": "https://www.youtube.com/shorts/rPdnKeGgb8E",
+     "thumbnail": "https://i.ytimg.com/vi/rPdnKeGgb8E/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "rPdnKeGgb8E"
+    },
+    {
+     "title": "IOLCP latest news | iolcp share analysis | iolcp share latest news | iolcp #share price | #shorts",
+     "link": "https://www.youtube.com/shorts/JslGQ-ciUIE",
+     "thumbnail": "https://i.ytimg.com/vi/JslGQ-ciUIE/frame0.jpg",
+     "views_original": "10K views",
+     "views": 10000,
+     "video_id": "JslGQ-ciUIE"
+    },
+    {
+     "title": "Small Cap Stocks Idea | IOL Chemicals",
+     "link": "https://www.youtube.com/shorts/_Ynl253ZAEE",
+     "thumbnail": "https://i.ytimg.com/vi/_Ynl253ZAEE/frame0.jpg",
+     "views_original": "2.2K views",
+     "views": 2200,
+     "video_id": "_Ynl253ZAEE"
+    },
+    {
+     "title": "IOL Chemicals & Pharmaceuticals Ltd Q4 Result 2025 #stockmarket #shorts",
+     "link": "https://www.youtube.com/shorts/7CRg-pm8Yf8",
+     "thumbnail": "https://i.ytimg.com/vi/7CRg-pm8Yf8/frame0.jpg",
+     "views_original": "442 views",
+     "views": 442,
+     "video_id": "7CRg-pm8Yf8"
+    },
+    {
+     "title": "Undervaluation Stock | Next Dr.Reddy's Lab CMP - Rs.458 | Fundamental Analysis | Multibagger#iolcp",
+     "link": "https://www.youtube.com/shorts/gC2_rbrUVqo",
+     "thumbnail": "https://i.ytimg.com/vi/gC2_rbrUVqo/frame0.jpg",
+     "views_original": "392 views",
+     "views": 392,
+     "video_id": "gC2_rbrUVqo"
+    }
+   ]
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 19,
+   "title": "IOL CHEMICALS AND PHARMACEUTICALS LIMITED",
+   "link": "https://www.youtube.com/@iolchemicalsandpharmaceuti566",
+   "handle": "@iolchemicalsandpharmaceuti566",
+   "subscribers": 1630,
+   "description": "We are India's leading Bulk Drugs, Intermediates, Reactants and Solvents manufacturer and supplier. Our objective is to provide ...",
+   "thumbnail": "https://yt3.googleusercontent.com/ytc/AIdro_lmdR1LjnuQEQDJrzqvPJti7NqVijtaqvB9JLX38VOOTg=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=IOL+Chemicals+and+Pharmaceuticals+Limited+share+target&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=IOL%20Chemicals%20and%20Pharmaceuticals%20Limited%20share%20target&sp=SBSCAQtud2lnMkRIekJVc4IBC2tCT1Q1MlFsaW9FggELSXEtZzhuRldudneCAQtIWUpBSmJsVjFkUYIBC1hJbDNydTlUYmlFggELQzJQUHRnOVNTTFGCAQt3OGNxWEl6azd4c4IBC3R5NUw1VUNTcUFnggELa3VXWjhKLW1KWDCCAQtMeWI0MXJrd3BuY4IBC2lRTm9uczQteklrggELMm9TOGZOTWhSMVGCAQtKaU1tX19OT25xb4IBC29xWW1wMjB2OU9NggELdFFqQVRKRW1OUG-CAQt4WUVTMmVFS0pYZ4IBGFVDYU1qWUEyOGNfNWxjUkRpU01IbW9DZ4IBC0dTSTlNSFdIOHp3ggELSThMTlFuV2V3RzCCAQtPTFJQMmwyZURXNLIBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCAQtud2lnMkRIekJVc4IBC2tCT1Q1MlFsaW9FggELSXEtZzhuRldudneCAQtIWUpBSmJsVjFkUYIBC1hJbDNydTlUYmlFggELQzJQUHRnOVNTTFGCAQt3OGNxWEl6azd4c4IBC3R5NUw1VUNTcUFnggELa3VXWjhKLW1KWDCCAQtMeWI0MXJrd3BuY4IBC2lRTm9uczQteklrggELMm9TOGZOTWhSMVGCAQtKaU1tX19OT25xb4IBC29xWW1wMjB2OU9NggELdFFqQVRKRW1OUG-CAQt4WUVTMmVFS0pYZ4IBGFVDYU1qWUEyOGNfNWxjUkRpU01IbW9DZ4IBC0dTSTlNSFdIOHp3ggELSThMTlFuV2V3RzCCAQtPTFJQMmwyZURXNLIBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=IOL+Chemicals+and+Pharmaceuticals+Limited+share+target",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=IOL+Chemicals+and+Pharmaceuticals+Limited+share+target&sp=SBSCAQtud2lnMkRIekJVc4IBC2tCT1Q1MlFsaW9FggELSXEtZzhuRldudneCAQtIWUpBSmJsVjFkUYIBC1hJbDNydTlUYmlFggELQzJQUHRnOVNTTFGCAQt3OGNxWEl6azd4c4IBC3R5NUw1VUNTcUFnggELa3VXWjhKLW1KWDCCAQtMeWI0MXJrd3BuY4IBC2lRTm9uczQteklrggELMm9TOGZOTWhSMVGCAQtKaU1tX19OT25xb4IBC29xWW1wMjB2OU9NggELdFFqQVRKRW1OUG-CAQt4WUVTMmVFS0pYZ4IBGFVDYU1qWUEyOGNfNWxjUkRpU01IbW9DZ4IBC0dTSTlNSFdIOHp3ggELSThMTlFuV2V3RzCCAQtPTFJQMmwyZURXNLIBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCAQtud2lnMkRIekJVc4IBC2tCT1Q1MlFsaW9FggELSXEtZzhuRldudneCAQtIWUpBSmJsVjFkUYIBC1hJbDNydTlUYmlFggELQzJQUHRnOVNTTFGCAQt3OGNxWEl6azd4c4IBC3R5NUw1VUNTcUFnggELa3VXWjhKLW1KWDCCAQtMeWI0MXJrd3BuY4IBC2lRTm9uczQteklrggELMm9TOGZOTWhSMVGCAQtKaU1tX19OT25xb4IBC29xWW1wMjB2OU9NggELdFFqQVRKRW1OUG-CAQt4WUVTMmVFS0pYZ4IBGFVDYU1qWUEyOGNfNWxjUkRpU01IbW9DZ4IBC0dTSTlNSFdIOHp3ggELSThMTlFuV2V3RzCCAQtPTFJQMmwyZURXNLIBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "_fetched_at": "2026-10-08T16:06:41"
+}

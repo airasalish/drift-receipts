@@ -1,0 +1,27 @@
+{
+ "calls": [
+  {
+   "company": "Pine Labs Ltd",
+   "symbol_guess": "PINE",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": 205.0,
+   "stop_loss": 179.0,
+   "horizon": "2 to 2.5 months",
+   "quote": "बाय एंड होल्ड करने की सलाह है",
+   "start_s": 51,
+   "line": "तक तो दिखा नहीं है। तो हमारा तो व्यू अभी भी स्टिल पॉजिटिव है। और 180 179 का एसएल लगा के यहां पे बाय एंड होल्ड करने की",
+   "evidence": [
+    {
+     "text": "पहला टारगेट 205",
+     "where": "transcript",
+     "start_s": 60
+    }
+   ],
+   "reason": "The speaker explicitly advises buying and holding Pine Labs, gives a target of 205 and a stop‑loss of 179, indicating a bullish recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

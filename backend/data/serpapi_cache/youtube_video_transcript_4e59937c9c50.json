@@ -1,0 +1,76 @@
+{
+ "search_metadata": {
+  "id": "6ac7bfad06ca7f98ca77c349",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Gvi8BORX5ByRzk_6E43zcGSm7PMptYPjBhBr44CJUeA/6ac7bfad06ca7f98ca77c349.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Gvi8BORX5ByRzk_6E43zcGSm7PMptYPjBhBr44CJUeA/6ac7bfad06ca7f98ca77c349.md",
+  "created_at": "2026-10-08 16:07:09 UTC",
+  "processed_at": "2026-10-08 16:07:09 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=HYJAJblV1dQ",
+  "raw_html_file": "https://serpapi.com/searches/Gvi8BORX5ByRzk_6E43zcGSm7PMptYPjBhBr44CJUeA/6ac7bfad06ca7f98ca77c349.html",
+  "prettify_html_file": "https://serpapi.com/searches/Gvi8BORX5ByRzk_6E43zcGSm7PMptYPjBhBr44CJUeA/6ac7bfad06ca7f98ca77c349.prettify",
+  "total_time_taken": 8.99
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "HYJAJblV1dQ",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "नमस्कार दोस्तों। चलिए आज के इस वीडियो में बात करेंगे iOL केमics के स्टॉक के बारे में। स्टॉक की करंट प्राइस की बात करेंगे तो 196.90 इसकी करंट प्राइस चल रही",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 9000,
+   "snippet": "है। और आज के एडिशन में इस इस काउंटर के अंदर लगभग 4.5% से भी ज्यादा तेजी हमें देखने को मिल रही है। और यह जो आप चार्ट देख रहे हो वन डे टाइम फ्रेम में सेट किया है। जो यहां पे एक रेजिस्टेंस लेवल था।",
+   "start_time_text": "0:09",
+   "start_time_label": "9 seconds"
+  },
+  {
+   "start_ms": 18000,
+   "snippet": "फाइनली इसको ब्रेकआउट हुआ। ब्रेकआउट के बाद में यहीं पे रिटेस्ट करके भी और एक अच्छा खासा बुलिश मोमेंटम यहां पे कंटिन्यू होते हुए दिखाई दे रहा है।",
+   "start_time_text": "0:18",
+   "start_time_label": "18 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "चांसेस हाई रहेंगे स्टॉक में। और भी एक फर्दर बाउंस फर्दर तेजी यहां पे कंटिन्यू होते हुए दिखाई दे सकती है। अह इसके बाद अगर यहां पे हम बात करेंगे अगर थोड़ा बहुत",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 33000,
+   "snippet": "फॉल भी होता है, गिरावट भी आती है तो इमीडिएट सपोर्ट ज़ोन 180 का यहां पे देखने को मिलेगा क्योंकि इसी लेवल पे आने के बाद में यहीं से रिजेक्शंस मिल रहे थे। तो यही सपोर्ट का काम करते हुए दिखाई दे सकता है।",
+   "start_time_text": "0:33",
+   "start_time_label": "33 seconds"
+  },
+  {
+   "start_ms": 44000,
+   "snippet": "साथ ही साथ में बात करेंगे एमएसीडी इंडिकेटर की तो बुलिश क्रॉसओवर देखने को मिल रहा है। ज़ीरो लाइन के ऊपर ग्रीन बार बनते हुए दिखाई दे रहे हैं जो कि फिलहाल",
+   "start_time_text": "0:44",
+   "start_time_label": "44 seconds"
+  },
+  {
+   "start_ms": 52000,
+   "snippet": "मजबूती के सिग्नल दे रहे हैं। चांसेस हाई रहेंगे। स्टॉक में यहां पे तेजी जो है बनी रहे। ठीक है दोस्तों? उम्मीद करता हूं दी गई सारी जानकारी आपको समझ में आ चुकी",
+   "start_time_text": "0:52",
+   "start_time_label": "52 seconds"
+  },
+  {
+   "start_ms": 60000,
+   "snippet": "होगी। वीडियो सिर्फ और सिर्फ एजुकेशनल पर्पस के लिए बनाई गई है। कोई भी बाइंग रिकमेंडेशन इस वीडियो में नहीं है। वीडियो अगर आपको अच्छा लगा है तो वीडियो को जरूर",
+   "start_time_text": "1:00",
+   "start_time_label": "1 minute"
+  },
+  {
+   "start_ms": 68000,
+   "snippet": "लाइक करें। तो चलिए मिलते हैं नेक्स्ट वीडियो में। तब तक के लिए टेक केयर।",
+   "start_time_text": "1:08",
+   "start_time_label": "1 minute, 8 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:07:16"
+}

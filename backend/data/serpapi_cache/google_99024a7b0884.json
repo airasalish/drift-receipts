@@ -1,0 +1,318 @@
+{
+ "search_metadata": {
+  "id": "6acaad1f217ade4bf1eb350b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/WeLnvkU7ytLcWwe_VAKegp3Srssb24PidSOA3UHVqaU/6acaad1f217ade4bf1eb350b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/WeLnvkU7ytLcWwe_VAKegp3Srssb24PidSOA3UHVqaU/6acaad1f217ade4bf1eb350b.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/WeLnvkU7ytLcWwe_VAKegp3Srssb24PidSOA3UHVqaU/6acaad1f217ade4bf1eb350b.json_with_pixel_position",
+  "created_at": "2026-10-10 21:24:47 UTC",
+  "processed_at": "2026-10-10 21:24:47 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&oq=site%3Asebi.gov.in+%22Neeraj+Joshi%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/WeLnvkU7ytLcWwe_VAKegp3Srssb24PidSOA3UHVqaU/6acaad1f217ade4bf1eb350b.html",
+  "total_time_taken": 0.94
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Neeraj Joshi\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Neeraj Joshi\"",
+  "total_results": 47,
+  "time_taken_displayed": 0.19,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "Neeraj Joshi | Trading View master class #traders ...",
+   "link": "https://www.instagram.com/reel/Dd_b2Ndhef9/",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/hX2X0p7oNOpdC7P1DEiWxYXra7EpuSmV62RHA4zdQ8c.jpeg",
+   "channel": "Neeraj Joshi",
+   "duration": "1:34",
+   "platform": "Instagram",
+   "date": "1 week ago"
+  },
+  {
+   "position": 2,
+   "title": "Neeraj Joshi | How to Maintain Position Size? #postionsize # ...",
+   "link": "https://www.instagram.com/reel/Ddk07hKhlW-/",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/h3btFvylLbAcm8441Yzbrbu6iOAdVRR2m3GGma3nxXk.jpeg",
+   "channel": "Neeraj Joshi",
+   "duration": "1:10",
+   "platform": "Instagram",
+   "date": "2 weeks ago"
+  },
+  {
+   "position": 3,
+   "title": "Neeraj Joshi | Why Strategy matters in trading ? ...",
+   "link": "https://www.instagram.com/reel/DdX5llkt3PZ/",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/-9TRPC_zduh-4vkshix9nTthKYaXT9PuP871O2svGDM.jpeg",
+   "channel": "Neeraj Joshi",
+   "duration": "0:31",
+   "platform": "Instagram",
+   "date": "3 weeks ago"
+  },
+  {
+   "position": 4,
+   "title": "Neeraj Joshi | Trading rule that you must follow ...",
+   "link": "https://www.instagram.com/reel/DdeSFoMBPld/",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/qIucVJ2yEY3CDrnINUNEhUbGphNphSTyo3ThNxTnnZQ.jpeg",
+   "channel": "Neeraj Joshi",
+   "duration": "0:50",
+   "platform": "Instagram",
+   "date": "3 weeks ago",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTrl6dow0egRqnjPiZja1zKiF7gCodOIRU5TQ"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Neeraj Joshi | Trade With Less Capital #papertrading ...",
+   "link": "https://www.instagram.com/reel/DTj-hCmCbI4/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAViIZL_f86SLxrOxdwCthDEp0jvE3OdVF6svGZPGIARA7YXYgZnWtuKgHQPz4Xe2X9aA1sHFALk4TN-i6FVltXGWbKq2BsIBkeHpVnuSmwfbM_FapeFPmABiC3QH0sNg&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECB4QAQ&uoh=1",
+   "displayed_link": "1.4K+ likes · 8 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "₹1,000 se trading possible hai, lekin capital se zyada important hai Risk Management. Bina proper risk management ke bada capital bhi ...",
+   "about_this_result": {
+    "source": {
+     "description": "₹1,000 se trading possible hai, lekin capital se zyada important hai Risk Management. Bina proper risk management ke bada capital bhi ...",
+     "source_info_link": "https://www.instagram.com/reel/DTj-hCmCbI4/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmlJWkxfZjg2U0x4ck94ZHdDdGhERXAwanZFM09kVkY2c3ZHWlBHSUFSQTdZWFlnWm5XdHVLZ0hRUHo0WGUyWDlhQTFzSEZBTGs0VE4taTZGVmx0WEdXYktxMkJzSUJrZUhwVm51U213ZmJNX0ZhcGVGUG1BQmlDM1FIMHNOZxIEGgIIABq0AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCQAwgAEAAYACAAKg0KBm5lZXJhahUAAPA_KgwKBWpvc2hpFQAA8D8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWaUlaTF9mODZTTHhyT3hkd0N0aERFcDBqdkUzT2RWRjZzdkdaUEdJQVJBN1lYWWdabld0dUtnSFFQejRYZTJYOWFBMXNIRkFMazRUTi1pNkZWbHRYR1diS3EyQnNJQmtlSHBWbnVTbXdmYk1fRmFwZUZQbUFCaUMzUUgwc05nOj88Yj5OZWVyYWogSm9zaGk8L2I-IHwgVHJhZGUgV2l0aCBMZXNzIENhcGl0YWwgI3BhcGVydHJhZGluZyAuLi5CkAHigrkxLDAwMCBzZSB0cmFkaW5nIHBvc3NpYmxlIGhhaSwgbGVraW4gY2FwaXRhbCBzZSB6eWFkYSBpbXBvcnRhbnQgaGFpIFJpc2sgTWFuYWdlbWVudC4gQmluYSBwcm9wZXIgcmlzayBtYW5hZ2VtZW50IGtlIGJhZGEgY2FwaXRhbCBiaGkmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVmlJWkxfZjg2U0x4ck94ZHdDdGhERXAwanZFM09kVkY2c3ZHWlBHSUFSQTdZWFlnWm5XdHVLZ0hRUHo0WGUyWDlhQTFzSEZBTGs0VE4taTZGVmx0WEdXYktxMkJzSUJrZUhwVm51U213ZmJNX0ZhcGVGUG1BQmlDM1FIMHNOZxIEGgIIABq0AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCQAwgAEAAYACAAKg0KBm5lZXJhahUAAPA_KgwKBWpvc2hpFQAA8D8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWaUlaTF9mODZTTHhyT3hkd0N0aERFcDBqdkUzT2RWRjZzdkdaUEdJQVJBN1lYWWdabld0dUtnSFFQejRYZTJYOWFBMXNIRkFMazRUTi1pNkZWbHRYR1diS3EyQnNJQmtlSHBWbnVTbXdmYk1fRmFwZUZQbUFCaUMzUUgwc05nOj88Yj5OZWVyYWogSm9zaGk8L2I-IHwgVHJhZGUgV2l0aCBMZXNzIENhcGl0YWwgI3BhcGVydHJhZGluZyAuLi5CkAHigrkxLDAwMCBzZSB0cmFkaW5nIHBvc3NpYmxlIGhhaSwgbGVraW4gY2FwaXRhbCBzZSB6eWFkYSBpbXBvcnRhbnQgaGFpIFJpc2sgTWFuYWdlbWVudC4gQmluYSBwcm9wZXIgcmlzayBtYW5hZ2VtZW50IGtlIGJhZGEgY2FwaXRhbCBiaGkmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Instagram · neerajjoshi5014",
+   "read_more_link": "https://www.instagram.com/reel/DTj-hCmCbI4/#:~:text=%F0%9F%A4%94,bhi%20zero%20ho%20sakta%20hai."
+  },
+  {
+   "position": 2,
+   "title": "Neeraj Joshi on Reels",
+   "link": "https://www.facebook.com/Neerajjoshiofficial/videos/1109648345366002/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV-9lanL10mdoLYVOt_8S-aeLFaViuFclkKxPNMTfwX2dTFBDMQHubM8xznv5N-cEnwUTD4ef2QOuuKA4Afj9hE00KbuI-ds_O9ckQG0gIqq_xEElsvNBJAMDsboDM6JQBCi22GzIWqx3QhpMGFpWznEPYHMehynp0&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECBwQAQ&uoh=1",
+   "displayed_link": "6 reactions · 1 week ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "No photo description available. Bidwell Trading. Financial Service. Pages · Businesses · Finance · Neeraj Joshi · Videos. Neeraj Joshi.",
+   "snippet_highlighted_words": [
+    "Neeraj Joshi",
+    "Neeraj Joshi"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "No photo description available. Bidwell Trading. Financial Service. Pages · Businesses · Finance · Neeraj Joshi · Videos. Neeraj Joshi.",
+     "source_info_link": "https://www.facebook.com/Neerajjoshiofficial/videos/1109648345366002/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi05bGFuTDEwbWRvTFlWT3RfOFMtYWVMRmFWaXVGY2xrS3hQTk1UZndYMmRURkJETVFIdWJNOHh6bnY1Ti1jRW53VVRENGVmMlFPdXVLQTRBZmo5aEUwMEtidUktZHNfTzlja1FHMGdJcXFfeEVFbHN2TkJKQU1Ec2JvRE02SlFCQ2kyMkd6SVdxeDNRaHBNR0ZwV3puRVBZSE1laHlucDASBBoCCAAa3wMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAuwMIABAAGAAgACoNCgZuZWVyYWoVYAN9QCoMCgVqb3NoaRVgA31AMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi05bGFuTDEwbWRvTFlWT3RfOFMtYWVMRmFWaXVGY2xrS3hQTk1UZndYMmRURkJETVFIdWJNOHh6bnY1Ti1jRW53VVRENGVmMlFPdXVLQTRBZmo5aEUwMEtidUktZHNfTzlja1FHMGdJcXFfeEVFbHN2TkJKQU1Ec2JvRE02SlFCQ2kyMkd6SVdxeDNRaHBNR0ZwV3puRVBZSE1laHlucDA6JzxiPk5lZXJhaiBKb3NoaTwvYj4gb24gUmVlbHMgLSBGYWNlYm9va0KxAU5vIHBob3RvIGRlc2NyaXB0aW9uIGF2YWlsYWJsZS4gQmlkd2VsbCBUcmFkaW5nLiBGaW5hbmNpYWwgU2VydmljZS4gUGFnZXMgJm1pZGRvdDsgQnVzaW5lc3NlcyAmbWlkZG90OyBGaW5hbmNlICZtaWRkb3Q7IDxiPk5lZXJhaiBKb3NoaTwvYj4gJm1pZGRvdDsgVmlkZW9zLiA8Yj5OZWVyYWogSm9zaGk8L2I-LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi05bGFuTDEwbWRvTFlWT3RfOFMtYWVMRmFWaXVGY2xrS3hQTk1UZndYMmRURkJETVFIdWJNOHh6bnY1Ti1jRW53VVRENGVmMlFPdXVLQTRBZmo5aEUwMEtidUktZHNfTzlja1FHMGdJcXFfeEVFbHN2TkJKQU1Ec2JvRE02SlFCQ2kyMkd6SVdxeDNRaHBNR0ZwV3puRVBZSE1laHlucDASBBoCCAAa3wMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAuwMIABAAGAAgACoNCgZuZWVyYWoVYAN9QCoMCgVqb3NoaRVgA31AMrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVi05bGFuTDEwbWRvTFlWT3RfOFMtYWVMRmFWaXVGY2xrS3hQTk1UZndYMmRURkJETVFIdWJNOHh6bnY1Ti1jRW53VVRENGVmMlFPdXVLQTRBZmo5aEUwMEtidUktZHNfTzlja1FHMGdJcXFfeEVFbHN2TkJKQU1Ec2JvRE02SlFCQ2kyMkd6SVdxeDNRaHBNR0ZwV3puRVBZSE1laHlucDA6JzxiPk5lZXJhaiBKb3NoaTwvYj4gb24gUmVlbHMgLSBGYWNlYm9va0KxAU5vIHBob3RvIGRlc2NyaXB0aW9uIGF2YWlsYWJsZS4gQmlkd2VsbCBUcmFkaW5nLiBGaW5hbmNpYWwgU2VydmljZS4gUGFnZXMgJm1pZGRvdDsgQnVzaW5lc3NlcyAmbWlkZG90OyBGaW5hbmNlICZtaWRkb3Q7IDxiPk5lZXJhaiBKb3NoaTwvYj4gJm1pZGRvdDsgVmlkZW9zLiA8Yj5OZWVyYWogSm9zaGk8L2I-LiICEAFIAFgAaAA",
+   "source": "Facebook · Neeraj Joshi",
+   "read_more_link": "https://www.facebook.com/Neerajjoshiofficial/videos/1109648345366002/#:~:text=Bidwell%20Trading,Neeraj%20Joshi"
+  },
+  {
+   "position": 3,
+   "title": "Neeraj Joshi | I Gave ₹1.5 Lakh to Traders for a Trading ...",
+   "link": "https://www.instagram.com/reel/DU2y3KqCXZe/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVUK-3hNQmf3Y_faMHTUTm5ERO7irqcxJ5vQdQvLVl-zQ3Keu8mJDRwRQ7JTN_P6v_HhkX60YYOX8b7oO0MtSy6PtvsG1jwhshByYWJj-A4y9bwZrt-LF02PVsXZn3hw&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECB8QAQ&uoh=1",
+   "displayed_link": "2.2K+ likes · 7 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "🏍️ 100 DAYS. ONE TRADING CHALLENGE. ONE BIG GOAL! Aaj students ke saath LIVE trading session — real market, real trades, real learning.",
+   "about_this_result": {
+    "source": {
+     "description": "🏍️ 100 DAYS. ONE TRADING CHALLENGE. ONE BIG GOAL! Aaj students ke saath LIVE trading session — real market, real trades, real learning.",
+     "source_info_link": "https://www.instagram.com/reel/DU2y3KqCXZe/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVLLTNoTlFtZjNZX2ZhTUhUVVRtNUVSTzdpcnFjeEo1dlFkUXZMVmwtelEzS2V1OG1KRFJ3UlE3SlROX1A2dl9IaGtYNjBZWU9YOGI3b08wTXRTeTZQdHZzRzFqd2hzaEJ5WVdKai1BNHk5YndacnQtTEYwMlBWc1habjNodxIEGgIIABq6AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCWAwgAEAAYACAAKg0KBm5lZXJhahVBHk1AKgwKBWpvc2hpFayq6j8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWVUstM2hOUW1mM1lfZmFNSFRVVG01RVJPN2lycWN4SjV2UWRRdkxWbC16UTNLZXU4bUpEUndSUTdKVE5fUDZ2X0hoa1g2MFlZT1g4YjdvTzBNdFN5NlB0dnNHMWp3aHNoQnlZV0pqLUE0eTlid1pydC1MRjAyUFZzWFpuM2h3OkU8Yj5OZWVyYWogSm9zaGk8L2I-IHwgSSBHYXZlIOKCuTEuNSBMYWtoIHRvIFRyYWRlcnMgZm9yIGEgVHJhZGluZyAuLi5CkAHwn4-N77iPICAgMTAwIERBWVMuIE9ORSBUUkFESU5HIENIQUxMRU5HRS4gT05FIEJJRyBHT0FMISBBYWogc3R1ZGVudHMga2Ugc2FhdGggTElWRSB0cmFkaW5nIHNlc3Npb24g4oCUIHJlYWwgbWFya2V0LCByZWFsIHRyYWRlcywgcmVhbCBsZWFybmluZy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlVLLTNoTlFtZjNZX2ZhTUhUVVRtNUVSTzdpcnFjeEo1dlFkUXZMVmwtelEzS2V1OG1KRFJ3UlE3SlROX1A2dl9IaGtYNjBZWU9YOGI3b08wTXRTeTZQdHZzRzFqd2hzaEJ5WVdKai1BNHk5YndacnQtTEYwMlBWc1habjNodxIEGgIIABq6AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCWAwgAEAAYACAAKg0KBm5lZXJhahVBHk1AKgwKBWpvc2hpFayq6j8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWVUstM2hOUW1mM1lfZmFNSFRVVG01RVJPN2lycWN4SjV2UWRRdkxWbC16UTNLZXU4bUpEUndSUTdKVE5fUDZ2X0hoa1g2MFlZT1g4YjdvTzBNdFN5NlB0dnNHMWp3aHNoQnlZV0pqLUE0eTlid1pydC1MRjAyUFZzWFpuM2h3OkU8Yj5OZWVyYWogSm9zaGk8L2I-IHwgSSBHYXZlIOKCuTEuNSBMYWtoIHRvIFRyYWRlcnMgZm9yIGEgVHJhZGluZyAuLi5CkAHwn4-N77iPICAgMTAwIERBWVMuIE9ORSBUUkFESU5HIENIQUxMRU5HRS4gT05FIEJJRyBHT0FMISBBYWogc3R1ZGVudHMga2Ugc2FhdGggTElWRSB0cmFkaW5nIHNlc3Npb24g4oCUIHJlYWwgbWFya2V0LCByZWFsIHRyYWRlcywgcmVhbCBsZWFybmluZy4iAhABSABYAGgA",
+   "source": "Instagram · neerajjoshi5014",
+   "read_more_link": "https://www.instagram.com/reel/DU2y3KqCXZe/#:~:text=%F0%9F%8F%8D%EF%B8%8F%F0%9F%94%A5%20100%20DAYS.%20ONE%20TRADING,market%2C%20real%20trades%2C%20real%20learning."
+  },
+  {
+   "position": 4,
+   "title": "Neeraj Joshi | Stoploss should be 2% of your capital, but why it ...",
+   "link": "https://www.instagram.com/reel/DdYVDoBtZRe/",
+   "displayed_link": "70+ likes · 3 weeks ago",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/p_DMnzu2dMN0aHj7aADU6tsuRMG03rSylHdZAx1cqIE.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "Which rule do you struggle with the most: Risk Management, Stop Loss, Revenge Trading, Position Sizing, or Weekly Loss Limit? I'll reply to ...",
+   "duration": "1:28",
+   "about_this_result": {
+    "source": {
+     "description": "Which rule do you struggle with the most: Risk Management, Stop Loss, Revenge Trading, Position Sizing, or Weekly Loss Limit? I'll reply to ...",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnVZVFpheU5hUzMyUXltOWtDSHlYeUc2OWh6NFpPYzlzVjYtb2xCOUl4czVua0pGUjFoYWp0WlJMQmNIUi0zblNBanM2dnVDSzh5NE1FS3VUbG9WT1VnMG1yMDhReldwVTZybENyeUZvbzFRcHV2Wm5VWUxUVXVEMS1ITVNMdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnVZVFpheU5hUzMyUXltOWtDSHlYeUc2OWh6NFpPYzlzVjYtb2xCOUl4czVua0pGUjFoYWp0WlJMQmNIUi0zblNBanM2dnVDSzh5NE1FS3VUbG9WT1VnMG1yMDhReldwVTZybENyeUZvbzFRcHV2Wm5VWUxUVXVEMS1ITVNMdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Instagram · neerajjoshi5014"
+  },
+  {
+   "position": 5,
+   "title": "Are you a Swing Trader? confused Watch the full video # ...",
+   "link": "https://www.instagram.com/reel/DddemNLBs6R/",
+   "displayed_link": "90+ likes · 3 weeks ago",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/p_DMnzu2dMN0aHj7aADU6pmNA9o9DrA0egnhw5S3gZQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "94 likes, 1 comments - neerajjoshi5014 on September 18, 2026: \"Are you a Swing Trader? ‍ confused Watch the full video #trader ...",
+   "duration": "0:49",
+   "about_this_result": {
+    "source": {
+     "description": "94 likes, 1 comments - neerajjoshi5014 on September 18, 2026: \"Are you a Swing Trader? ‍ confused Watch the full video #trader ...",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkZENTZfQzVnU3hneV9VcW1HNVNTMW4xU2JlTEJza3p2REs2aFp6aFhBdzVaLVpwMlM1ck1UNnMyVnhtR1BQckRuUnVHeU5hSDhZdjl3bFJGMm9RZEZTZkRvTHl1NE5SVzNvbVV4X0kyOHhPRUJ1RW9xcjJ6YTc5eVdyT3lsURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkZENTZfQzVnU3hneV9VcW1HNVNTMW4xU2JlTEJza3p2REs2aFp6aFhBdzVaLVpwMlM1ck1UNnMyVnhtR1BQckRuUnVHeU5hSDhZdjl3bFJGMm9RZEZTZkRvTHl1NE5SVzNvbVV4X0kyOHhPRUJ1RW9xcjJ6YTc5eVdyT3lsURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "Instagram · neerajjoshi5014"
+  },
+  {
+   "position": 6,
+   "title": "Complete Trading System Masterclass Ep 40",
+   "link": "https://www.facebook.com/Neerajjoshiofficial/videos/complete-trading-system-masterclass-trading-courseep40-trading-for-beginners-how/1633926931771451/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEB6zswFa1HDzb9YT6TsoJkRomxWhidzcAumS2tHIcg78MFwwzxc7c8R5FCoD7A1E6P2O9IQl2D8RQbRqoLwdrgByZBefJuuyR6ZVoUW_Kz6a3cPmyXrRUTr9HrdOhrEzpWKiyt8Iw1XIbVmXsTScIXwrAouFy1-XDc0PpJB0zY8Uo6slQMaBV8LqAt9WHD1-oVSSAZUgi3zsa1Oi7ZarbnTjL_WCtsL5sjLgX-Sbp2Krl_sgmhUNrFTWpnYxWe1CjoptP5o4JlBAktgLdhRwg&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECB0QAQ&uoh=1",
+   "displayed_link": "20+ reactions · 4 days ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Neeraj Joshi and any person associated with this channel accept no liability for any content uploaded on this channel or responsibility for any ...",
+   "snippet_highlighted_words": [
+    "Neeraj Joshi"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Neeraj Joshi and any person associated with this channel accept no liability for any content uploaded on this channel or responsibility for any ...",
+     "source_info_link": "https://www.facebook.com/Neerajjoshiofficial/videos/complete-trading-system-masterclass-trading-courseep40-trading-for-beginners-how/1633926931771451/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZhMUhEemI5WVQ2VHNvSmtSb214V2hpZHpjQXVtUzJ0SEljZzc4TUZ3d3p4YzdjOFI1RkNvRDdBMUU2UDJPOUlRbDJEOFJRYlJxb0x3ZHJnQnlaQmVmSnV1eVI2WlZvVVdfS3o2YTNjUG15WHJSVVRyOUhyZE9ockV6cFdLaXl0OEl3MVhJYlZtWHNUU2NJWHdyQW91RnkxLVhEYzBQcEpCMHpZOFVvNnNsUU1hQlY4THFBdDlXSEQxLW9WU1NBWlVnaTN6c2ExT2k3WmFyYm5UakxfV0N0c0w1c2pMZ1gtU2JwMktybF9zZ21oVU5yRlRXcG5ZeFdlMUNqb3B0UDVvNEpsQkFrdGdMZGhSd2cSBBoCCAAa0AQSABoAIgIIASoAMgYIAxICaW46AEIECAIQAEoAWgByAHoAgkCqBAgAEAAYACAAKg0KBm5lZXJhahWNkOk_KgwKBWpvc2hpFY2Q6T8ypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RmExSER6YjlZVDZUc29Ka1JvbXhXaGlkemNBdW1TMnRISWNnNzhNRnd3enhjN2M4UjVGQ29EN0ExRTZQMk85SVFsMkQ4UlFiUnFvTHdkcmdCeVpCZWZKdXV5UjZaVm9VV19LejZhM2NQbXlYclJVVHI5SHJkT2hyRXpwV0tpeXQ4SXcxWEliVm1Yc1RTY0lYd3JBb3VGeTEtWERjMFBwSkIwelk4VW82c2xRTWFCVjhMcUF0OVdIRDEtb1ZTU0FaVWdpM3pzYTFPaTdaYXJiblRqTF9XQ3RzTDVzakxnWC1TYnAyS3JsX3NnbWhVTnJGVFdwbll4V2UxQ2pvcHRQNW80SmxCQWt0Z0xkaFJ3Zzo5Q29tcGxldGUgVHJhZGluZyBTeXN0ZW0gTWFzdGVyY2xhc3MgfCA8Yj5OZWVyYWogSm9zaGk8L2I-Qp8BPGI-TmVlcmFqIEpvc2hpPC9iPiBhbmQgYW55IHBlcnNvbiBhc3NvY2lhdGVkIHdpdGggdGhpcyBjaGFubmVsIGFjY2VwdCBubyBsaWFiaWxpdHkgZm9yIGFueSBjb250ZW50IHVwbG9hZGVkIG9uIHRoaXMgY2hhbm5lbCBvciByZXNwb25zaWJpbGl0eSBmb3IgYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZhMUhEemI5WVQ2VHNvSmtSb214V2hpZHpjQXVtUzJ0SEljZzc4TUZ3d3p4YzdjOFI1RkNvRDdBMUU2UDJPOUlRbDJEOFJRYlJxb0x3ZHJnQnlaQmVmSnV1eVI2WlZvVVdfS3o2YTNjUG15WHJSVVRyOUhyZE9ockV6cFdLaXl0OEl3MVhJYlZtWHNUU2NJWHdyQW91RnkxLVhEYzBQcEpCMHpZOFVvNnNsUU1hQlY4THFBdDlXSEQxLW9WU1NBWlVnaTN6c2ExT2k3WmFyYm5UakxfV0N0c0w1c2pMZ1gtU2JwMktybF9zZ21oVU5yRlRXcG5ZeFdlMUNqb3B0UDVvNEpsQkFrdGdMZGhSd2cSBBoCCAAa0AQSABoAIgIIASoAMgYIAxICaW46AEIECAIQAEoAWgByAHoAgkCqBAgAEAAYACAAKg0KBm5lZXJhahWNkOk_KgwKBWpvc2hpFY2Q6T8ypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RmExSER6YjlZVDZUc29Ka1JvbXhXaGlkemNBdW1TMnRISWNnNzhNRnd3enhjN2M4UjVGQ29EN0ExRTZQMk85SVFsMkQ4UlFiUnFvTHdkcmdCeVpCZWZKdXV5UjZaVm9VV19LejZhM2NQbXlYclJVVHI5SHJkT2hyRXpwV0tpeXQ4SXcxWEliVm1Yc1RTY0lYd3JBb3VGeTEtWERjMFBwSkIwelk4VW82c2xRTWFCVjhMcUF0OVdIRDEtb1ZTU0FaVWdpM3pzYTFPaTdaYXJiblRqTF9XQ3RzTDVzakxnWC1TYnAyS3JsX3NnbWhVTnJGVFdwbll4V2UxQ2pvcHRQNW80SmxCQWt0Z0xkaFJ3Zzo5Q29tcGxldGUgVHJhZGluZyBTeXN0ZW0gTWFzdGVyY2xhc3MgfCA8Yj5OZWVyYWogSm9zaGk8L2I-Qp8BPGI-TmVlcmFqIEpvc2hpPC9iPiBhbmQgYW55IHBlcnNvbiBhc3NvY2lhdGVkIHdpdGggdGhpcyBjaGFubmVsIGFjY2VwdCBubyBsaWFiaWxpdHkgZm9yIGFueSBjb250ZW50IHVwbG9hZGVkIG9uIHRoaXMgY2hhbm5lbCBvciByZXNwb25zaWJpbGl0eSBmb3IgYW55Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Facebook · Neeraj Joshi",
+   "read_more_link": "https://www.facebook.com/Neerajjoshiofficial/videos/complete-trading-system-masterclass-trading-courseep40-trading-for-beginners-how/1633926931771451/#:~:text=Neeraj%20Joshi%20and%20any%20person,channel%20or%20responsibility%20for%20any"
+  },
+  {
+   "position": 7,
+   "title": "How Much Capital Do You Need To Start Trading",
+   "link": "https://www.facebook.com/Neerajjoshiofficial/videos/how-much-capital-do-you-need-to-start-trading-trading-for-beginners-how-to-start/1904637250974398/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESzwEB6zswFQ9iRJS4yXMRlKB82qw1ATgLq43blk9t-Jcl4l-iu8e0PEUWB91U8QoSW98I1XmIok_wD1sEaocyHlVf64eOyfv8pZPve44HghOVG8I7iAUgO4sbPPnk63S2Q5o4iWzWbo9mRt3BAQQ3A6B9TC4AcPS5_K30Kh97HxHqA6FF5mDm4_5rXOaG5vsMuR2VgWT_PNoiIFFfQTKGgLx60Nm4XkFuNQH29qfZa8hpEiGEr93jTU63v1DJKXjjoRiko5fOdcL6i70D61iSfJQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECBsQAQ&uoh=1",
+   "displayed_link": "20+ reactions · 2 days ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Neeraj Joshi and any person associated with this channel accept no liability for any content uploaded on this channel or responsibility for any ...",
+   "snippet_highlighted_words": [
+    "Neeraj Joshi"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Neeraj Joshi and any person associated with this channel accept no liability for any content uploaded on this channel or responsibility for any ...",
+     "source_info_link": "https://www.facebook.com/Neerajjoshiofficial/videos/how-much-capital-do-you-need-to-start-trading-trading-for-beginners-how-to-start/1904637250974398/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZROWlSSlM0eVhNUmxLQjgycXcxQVRnTHE0M2Jsazl0LUpjbDRsLWl1OGUwUEVVV0I5MVU4UW9TVzk4STFYbUlva193RDFzRWFvY3lIbFZmNjRlT3lmdjhwWlB2ZTQ0SGdoT1ZHOEk3aUFVZ080c2JQUG5rNjNTMlE1bzRpV3pXYm85bVJ0M0JBUVEzQTZCOVRDNEFjUFM1X0szMEtoOTdIeEhxQTZGRjVtRG00XzVyWE9hRzV2c011UjJWZ1dUX1BOb2lJRkZmUVRLR2dMeDYwTm00WGtGdU5RSDI5cWZaYThocEVpR0VyOTNqVFU2M3YxREpLWGpqb1Jpa281Zk9kY0w2aTcwRDYxaVNmSlESBBoCCAAazwQSABoAIgIIASoAMgYIAxICaW46AEIECAIQAEoAWgByAHoAgkCpBAgAEAAYACAAKg0KBm5lZXJhahVsBBdAKgwKBWpvc2hpFe4MAUAypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RlE5aVJKUzR5WE1SbEtCODJxdzFBVGdMcTQzYmxrOXQtSmNsNGwtaXU4ZTBQRVVXQjkxVThRb1NXOThJMVhtSW9rX3dEMXNFYW9jeUhsVmY2NGVPeWZ2OHBaUHZlNDRIZ2hPVkc4STdpQVVnTzRzYlBQbms2M1MyUTVvNGlXeldibzltUnQzQkFRUTNBNkI5VEM0QWNQUzVfSzMwS2g5N0h4SHFBNkZGNW1EbTRfNXJYT2FHNXZzTXVSMlZnV1RfUE5vaUlGRmZRVEtHZ0x4NjBObTRYa0Z1TlFIMjlxZlphOGhwRWlHRXI5M2pUVTYzdjFESktYampvUmlrbzVmT2RjTDZpNzBENjFpU2ZKUTo4SG93IE11Y2ggQ2FwaXRhbCBEbyBZb3UgTmVlZCBUbyBTdGFydCBUcmFkaW5nIC0gRmFjZWJvb2tCnwE8Yj5OZWVyYWogSm9zaGk8L2I-IGFuZCBhbnkgcGVyc29uIGFzc29jaWF0ZWQgd2l0aCB0aGlzIGNoYW5uZWwgYWNjZXB0IG5vIGxpYWJpbGl0eSBmb3IgYW55IGNvbnRlbnQgdXBsb2FkZWQgb24gdGhpcyBjaGFubmVsIG9yIHJlc3BvbnNpYmlsaXR5IGZvciBhbnkmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUCL2dvdG8_dXJsPUNBRVN6d0VCNnpzd0ZROWlSSlM0eVhNUmxLQjgycXcxQVRnTHE0M2Jsazl0LUpjbDRsLWl1OGUwUEVVV0I5MVU4UW9TVzk4STFYbUlva193RDFzRWFvY3lIbFZmNjRlT3lmdjhwWlB2ZTQ0SGdoT1ZHOEk3aUFVZ080c2JQUG5rNjNTMlE1bzRpV3pXYm85bVJ0M0JBUVEzQTZCOVRDNEFjUFM1X0szMEtoOTdIeEhxQTZGRjVtRG00XzVyWE9hRzV2c011UjJWZ1dUX1BOb2lJRkZmUVRLR2dMeDYwTm00WGtGdU5RSDI5cWZaYThocEVpR0VyOTNqVFU2M3YxREpLWGpqb1Jpa281Zk9kY0w2aTcwRDYxaVNmSlESBBoCCAAazwQSABoAIgIIASoAMgYIAxICaW46AEIECAIQAEoAWgByAHoAgkCpBAgAEAAYACAAKg0KBm5lZXJhahVsBBdAKgwKBWpvc2hpFe4MAUAypQIvZ290bz91cmw9Q0FFU3p3RUI2enN3RlE5aVJKUzR5WE1SbEtCODJxdzFBVGdMcTQzYmxrOXQtSmNsNGwtaXU4ZTBQRVVXQjkxVThRb1NXOThJMVhtSW9rX3dEMXNFYW9jeUhsVmY2NGVPeWZ2OHBaUHZlNDRIZ2hPVkc4STdpQVVnTzRzYlBQbms2M1MyUTVvNGlXeldibzltUnQzQkFRUTNBNkI5VEM0QWNQUzVfSzMwS2g5N0h4SHFBNkZGNW1EbTRfNXJYT2FHNXZzTXVSMlZnV1RfUE5vaUlGRmZRVEtHZ0x4NjBObTRYa0Z1TlFIMjlxZlphOGhwRWlHRXI5M2pUVTYzdjFESktYampvUmlrbzVmT2RjTDZpNzBENjFpU2ZKUTo4SG93IE11Y2ggQ2FwaXRhbCBEbyBZb3UgTmVlZCBUbyBTdGFydCBUcmFkaW5nIC0gRmFjZWJvb2tCnwE8Yj5OZWVyYWogSm9zaGk8L2I-IGFuZCBhbnkgcGVyc29uIGFzc29jaWF0ZWQgd2l0aCB0aGlzIGNoYW5uZWwgYWNjZXB0IG5vIGxpYWJpbGl0eSBmb3IgYW55IGNvbnRlbnQgdXBsb2FkZWQgb24gdGhpcyBjaGFubmVsIG9yIHJlc3BvbnNpYmlsaXR5IGZvciBhbnkmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Facebook · Neeraj Joshi",
+   "read_more_link": "https://www.facebook.com/Neerajjoshiofficial/videos/how-much-capital-do-you-need-to-start-trading-trading-for-beginners-how-to-start/1904637250974398/#:~:text=Neeraj%20Joshi%20and%20any%20person,channel%20or%20responsibility%20for%20any"
+  },
+  {
+   "position": 8,
+   "title": "\"Basics of Stock Market\" | By Neeraj Joshi | CA Simplified",
+   "link": "https://www.youtube.com/watch?v=B1QvTuwgZ0U",
+   "displayed_link": "230+ views · 6 years ago",
+   "thumbnail": "https://serpapi.com/searches/6acaad1f217ade4bf1eb350b/images/p_DMnzu2dMN0aHj7aADU6kLAhX8plCOq1UFFVvAkYWU.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "CA Simplified Exclusive: Internship Project: TOPIC: \"Basics of Stock Market\" | By Neeraj Joshi Stock Market is an investment tool where you",
+   "duration": "10:45",
+   "about_this_result": {
+    "source": {
+     "description": "CA Simplified Exclusive: Internship Project: TOPIC: \"Basics of Stock Market\" | By Neeraj Joshi Stock Market is an investment tool where you",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNvWEhObGJDM2VBUDFXek1fM1l1V0hwSVlTVlJ2QXZYLWpLUDZpWkZfQW9NeFc2dVhKWFUxTEk4TC0zYXZXdWYtcm5VTjRmemhpWHVseHduU2dqWDlOSjJwMzRZYTBwYi0xZ0JONXo4dmZOY3VhYkYwNzE5cUg3MzN4YS1hdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkNvWEhObGJDM2VBUDFXek1fM1l1V0hwSVlTVlJ2QXZYLWpLUDZpWkZfQW9NeFc2dVhKWFUxTEk4TC0zYXZXdWYtcm5VTjRmemhpWHVseHduU2dqWDlOSjJwMzRZYTBwYi0xZ0JONXo4dmZOY3VhYkYwNzE5cUg3MzN4YS1hdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · CA Simplified"
+  },
+  {
+   "position": 9,
+   "title": "Why Traders Are Moving to Crypto ? #cryptotrading",
+   "link": "https://www.instagram.com/reel/DTsThuvifeI/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVKjYLToHvAhEl6CmrdbqURlHNAhp8SLxDhRtkDWXH9f7oljRoxHitftUfFOhv9333wFs5-Bk_zo9OBsdWZsrBIghLY5lUwrMc9OPrzaoNtiC0uVEO1MpLdxnJsAiFkg&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQFnoECDcQAQ&uoh=1",
+   "displayed_link": "2K+ likes · 8 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp",
+   "snippet": "Crypto trading शुरू करने से पहले सही exchange चुनना बेहद जरूरी है. इस reel में जानिए Top 3 Crypto ...",
+   "about_this_result": {
+    "source": {
+     "description": "Crypto trading शुरू करने से पहले सही exchange चुनना बेहद जरूरी है. इस reel में जानिए Top 3 Crypto ...",
+     "source_info_link": "https://www.instagram.com/reel/DTsThuvifeI/",
+     "icon": "https://serpapi.com/images/i/UklGRs4BAABXRUJQVlA4IMIBAACwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHXnqv4q8gZxcYcQlttR3oGAAfrN6ZPsZeUqUy7yrvQBaXZxUNd6xeyZ_zpu3z7vEbG_rI9uLR3JAAD-bPWFChRsYA73DNfFBGB39AY4cc2rgYfPUbTnZSkmPIT9f5LwLGh1tr6GbI8_Wg5YyMLqPP_I5v8_74-PGNsMjg_WUbMOAh-IjBPzRGbszqR7w-L8gERR1HCDCy9n1undGs3qkDheeBATd9L9I-Aoo9FTSOQx_H8nQUHIFM6kvout0x-QCvYDa5PYNlH6Q0wXP9J5qEyzdAEM65Q3dTRjK18i8klikng6N72k76S7vLx-v9Mv8y6H-iwfMsRMuFs27Yye-WnY5LGgqhsZeH8167oiT3hIlNwprV8Gv8bjmAvv3_4d59fmIOOf_PXX3B5Q_PPQprbEq6U97aH_XlCEDWm5v9GJuV7HyOamOUMgseUuj_-piTqcRYQhGxTGIPcM4c15P3Imbj7QTHY5HyOiSVI1eHnj9YtD1bBIugmEKf-KfDkltWl0LUiTqQwVPaxvhDKQ1Wf35o_kqQp7rNwi0ci1WW30iEwAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVktqWUxUb0h2QWhFbDZDbXJkYnFVUmxITkFocDhTTHhEaFJ0a0RXWEg5ZjdvbGpSb3hIaXRmdFVmRk9odjkzMzN3RnM1LUJrX3pvOU9Cc2RXWnNyQklnaExZNWxVd3JNYzlPUHJ6YW9OdGlDMHVWRU8xTXBMZHhuSnNBaUZrZxIEGgIIABriAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKg0KBm5lZXJhahWqqvI_KgwKBWpvc2hpFaqq8j8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWS2pZTFRvSHZBaEVsNkNtcmRicVVSbEhOQWhwOFNMeERoUnRrRFdYSDlmN29salJveEhpdGZ0VWZGT2h2OTMzM3dGczUtQmtfem85T0JzZFdac3JCSWdoTFk1bFV3ck1jOU9Qcnphb050aUMwdVZFTzFNcExkeG5Kc0FpRmtnOj1XaHkgVHJhZGVycyBBcmUgTW92aW5nIHRvIENyeXB0byA_ICNjcnlwdG90cmFkaW5nIC0gSW5zdGFncmFtQsABQ3J5cHRvIHRyYWRpbmcg4KS24KWB4KSw4KWCIOCkleCksOCkqOClhyDgpLjgpYcg4KSq4KS54KSy4KWHIOCkuOCkueClgCBleGNoYW5nZSDgpJrgpYHgpKjgpKjgpL4g4KSs4KWH4KS54KSmIOCknOCksOClguCksOClgCDgpLngpYguIOCkh-CkuCByZWVsIOCkruClh-CkgiDgpJzgpL7gpKjgpL_gpI8gVG9wIDMgQ3J5cHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVktqWUxUb0h2QWhFbDZDbXJkYnFVUmxITkFocDhTTHhEaFJ0a0RXWEg5ZjdvbGpSb3hIaXRmdFVmRk9odjkzMzN3RnM1LUJrX3pvOU9Cc2RXWnNyQklnaExZNWxVd3JNYzlPUHJ6YW9OdGlDMHVWRU8xTXBMZHhuSnNBaUZrZxIEGgIIABriAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC-AwgAEAAYACAAKg0KBm5lZXJhahWqqvI_KgwKBWpvc2hpFaqq8j8ylAEvZ290bz91cmw9Q0FFU1l3SHJPekFWS2pZTFRvSHZBaEVsNkNtcmRicVVSbEhOQWhwOFNMeERoUnRrRFdYSDlmN29salJveEhpdGZ0VWZGT2h2OTMzM3dGczUtQmtfem85T0JzZFdac3JCSWdoTFk1bFV3ck1jOU9Qcnphb050aUMwdVZFTzFNcExkeG5Kc0FpRmtnOj1XaHkgVHJhZGVycyBBcmUgTW92aW5nIHRvIENyeXB0byA_ICNjcnlwdG90cmFkaW5nIC0gSW5zdGFncmFtQsABQ3J5cHRvIHRyYWRpbmcg4KS24KWB4KSw4KWCIOCkleCksOCkqOClhyDgpLjgpYcg4KSq4KS54KSy4KWHIOCkuOCkueClgCBleGNoYW5nZSDgpJrgpYHgpKjgpKjgpL4g4KSs4KWH4KS54KSmIOCknOCksOClguCksOClgCDgpLngpYguIOCkh-CkuCByZWVsIOCkruClh-CkgiDgpJzgpL7gpKjgpL_gpI8gVG9wIDMgQ3J5cHRvJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Instagram · neerajjoshi5014",
+   "read_more_link": "https://www.instagram.com/reel/DTsThuvifeI/#:~:text=Crypto%20trading%20%E0%A4%B6%E0%A5%81%E0%A4%B0%E0%A5%82%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A5%87%20%E0%A4%B8%E0%A5%87,%E0%A4%A6%E0%A5%87%E0%A4%96%E0%A4%95%E0%A4%B0%20exchange%20select%20%E0%A4%95%E0%A4%B0%E0%A4%A8%E0%A4%BE%20%E0%A4%9A%E0%A4%BE%E0%A4%B9%E0%A4%BF%E0%A4%8F."
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:sebi.gov.in+%22Neeraj+Joshi%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntmCePIde-dHCm_ELZVW1UdxlHrrg:1791667487470&ei=H63KapeeHP3k0PEPmuuUwAQ&start=10&sa=N&sstk=AS6-VmJ_vUPon-3cxY46WyCQpui9Tv_AGDxaij9KyTM57zWzi87UcuvxZoD04UddNdcheOAYwhMFd3rcZhEjKKvnZ7GozcGrIcTZbQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQ8NMDegQIMxAM",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:sebi.gov.in+%22Neeraj+Joshi%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntmCePIde-dHCm_ELZVW1UdxlHrrg:1791667487470&ei=H63KapeeHP3k0PEPmuuUwAQ&start=10&sa=N&sstk=AS6-VmJ_vUPon-3cxY46WyCQpui9Tv_AGDxaij9KyTM57zWzi87UcuvxZoD04UddNdcheOAYwhMFd3rcZhEjKKvnZ7GozcGrIcTZbQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQ8tMDegQIMxAE",
+   "3": "https://www.google.com/search?q=site:sebi.gov.in+%22Neeraj+Joshi%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntmCePIde-dHCm_ELZVW1UdxlHrrg:1791667487470&ei=H63KapeeHP3k0PEPmuuUwAQ&start=20&sa=N&sstk=AS6-VmJ_vUPon-3cxY46WyCQpui9Tv_AGDxaij9KyTM57zWzi87UcuvxZoD04UddNdcheOAYwhMFd3rcZhEjKKvnZ7GozcGrIcTZbQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQ8tMDegQIMxAG",
+   "4": "https://www.google.com/search?q=site:sebi.gov.in+%22Neeraj+Joshi%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntmCePIde-dHCm_ELZVW1UdxlHrrg:1791667487470&ei=H63KapeeHP3k0PEPmuuUwAQ&start=30&sa=N&sstk=AS6-VmJ_vUPon-3cxY46WyCQpui9Tv_AGDxaij9KyTM57zWzi87UcuvxZoD04UddNdcheOAYwhMFd3rcZhEjKKvnZ7GozcGrIcTZbQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQ8tMDegQIMxAI",
+   "5": "https://www.google.com/search?q=site:sebi.gov.in+%22Neeraj+Joshi%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntmCePIde-dHCm_ELZVW1UdxlHrrg:1791667487470&ei=H63KapeeHP3k0PEPmuuUwAQ&start=40&sa=N&sstk=AS6-VmJ_vUPon-3cxY46WyCQpui9Tv_AGDxaij9KyTM57zWzi87UcuvxZoD04UddNdcheOAYwhMFd3rcZhEjKKvnZ7GozcGrIcTZbQ&ved=2ahUKEwjXqZXBsbCXAxV9MjQIHZo1BUgQ8tMDegQIMxAK"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Neeraj+Joshi%22&start=40"
+  }
+ },
+ "_fetched_at": "2026-10-10T21:24:45"
+}

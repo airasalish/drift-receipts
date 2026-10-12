@@ -1,0 +1,792 @@
+{
+ "search_metadata": {
+  "id": "6ac9f83969819d49d9a4f92c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/PXSsZof7YJeAKHSp96dw_tQD8kEvzCbMcwn_fmStMEg/6ac9f83969819d49d9a4f92c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/PXSsZof7YJeAKHSp96dw_tQD8kEvzCbMcwn_fmStMEg/6ac9f83969819d49d9a4f92c.md",
+  "created_at": "2026-10-10 08:32:57 UTC",
+  "processed_at": "2026-10-10 08:32:57 UTC",
+  "google_finance_url": "https://www.google.com/finance/quote/RAJESHEXPO:NSE?hl=en&window=6M",
+  "raw_html_file": "https://serpapi.com/searches/PXSsZof7YJeAKHSp96dw_tQD8kEvzCbMcwn_fmStMEg/6ac9f83969819d49d9a4f92c.html",
+  "prettify_html_file": "https://serpapi.com/searches/PXSsZof7YJeAKHSp96dw_tQD8kEvzCbMcwn_fmStMEg/6ac9f83969819d49d9a4f92c.prettify",
+  "total_time_taken": 1.45
+ },
+ "search_parameters": {
+  "engine": "google_finance",
+  "q": "RAJESHEXPO:NSE",
+  "hl": "en",
+  "window": "6M"
+ },
+ "graph": [
+  {
+   "price": 109.76,
+   "currency": "INR",
+   "date": "Apr 10 2026, 03:30 PM UTC+05:30",
+   "volume": 375648
+  },
+  {
+   "price": 115.24,
+   "currency": "INR",
+   "date": "Apr 13 2026, 03:30 PM UTC+05:30",
+   "volume": 337860
+  },
+  {
+   "price": 121.0,
+   "currency": "INR",
+   "date": "Apr 15 2026, 03:30 PM UTC+05:30",
+   "volume": 183954
+  },
+  {
+   "price": 127.05,
+   "currency": "INR",
+   "date": "Apr 16 2026, 03:30 PM UTC+05:30",
+   "volume": 174986
+  },
+  {
+   "price": 126.31,
+   "currency": "INR",
+   "date": "Apr 17 2026, 03:30 PM UTC+05:30",
+   "volume": 875896
+  },
+  {
+   "price": 122.59,
+   "currency": "INR",
+   "date": "Apr 20 2026, 03:30 PM UTC+05:30",
+   "volume": 234921
+  },
+  {
+   "price": 116.74,
+   "currency": "INR",
+   "date": "Apr 21 2026, 03:30 PM UTC+05:30",
+   "volume": 256466
+  },
+  {
+   "price": 122.57,
+   "currency": "INR",
+   "date": "Apr 22 2026, 03:30 PM UTC+05:30",
+   "volume": 139416
+  },
+  {
+   "price": 128.69,
+   "currency": "INR",
+   "date": "Apr 23 2026, 03:30 PM UTC+05:30",
+   "volume": 302786
+  },
+  {
+   "price": 126.81,
+   "currency": "INR",
+   "date": "Apr 24 2026, 03:30 PM UTC+05:30",
+   "volume": 280950
+  },
+  {
+   "price": 128.35,
+   "currency": "INR",
+   "date": "Apr 27 2026, 03:30 PM UTC+05:30",
+   "volume": 190104
+  },
+  {
+   "price": 127.07,
+   "currency": "INR",
+   "date": "Apr 28 2026, 03:30 PM UTC+05:30",
+   "volume": 110453
+  },
+  {
+   "price": 124.9,
+   "currency": "INR",
+   "date": "Apr 29 2026, 03:30 PM UTC+05:30",
+   "volume": 118505
+  },
+  {
+   "price": 119.2,
+   "currency": "INR",
+   "date": "Apr 30 2026, 03:30 PM UTC+05:30",
+   "volume": 219018
+  },
+  {
+   "price": 119.77,
+   "currency": "INR",
+   "date": "May 04 2026, 03:30 PM UTC+05:30",
+   "volume": 81359
+  },
+  {
+   "price": 119.17,
+   "currency": "INR",
+   "date": "May 05 2026, 03:30 PM UTC+05:30",
+   "volume": 81656
+  },
+  {
+   "price": 120.74,
+   "currency": "INR",
+   "date": "May 06 2026, 03:30 PM UTC+05:30",
+   "volume": 112716
+  },
+  {
+   "price": 122.24,
+   "currency": "INR",
+   "date": "May 07 2026, 03:30 PM UTC+05:30",
+   "volume": 149448
+  },
+  {
+   "price": 121.99,
+   "currency": "INR",
+   "date": "May 08 2026, 03:30 PM UTC+05:30",
+   "volume": 77574
+  },
+  {
+   "price": 116.25,
+   "currency": "INR",
+   "date": "May 11 2026, 03:30 PM UTC+05:30",
+   "volume": 187840
+  },
+  {
+   "price": 111.26,
+   "currency": "INR",
+   "date": "May 12 2026, 03:30 PM UTC+05:30",
+   "volume": 188218
+  },
+  {
+   "price": 111.69,
+   "currency": "INR",
+   "date": "May 13 2026, 03:30 PM UTC+05:30",
+   "volume": 143989
+  },
+  {
+   "price": 109.11,
+   "currency": "INR",
+   "date": "May 14 2026, 03:30 PM UTC+05:30",
+   "volume": 105045
+  },
+  {
+   "price": 109.77,
+   "currency": "INR",
+   "date": "May 15 2026, 03:30 PM UTC+05:30",
+   "volume": 83761
+  },
+  {
+   "price": 105.64,
+   "currency": "INR",
+   "date": "May 18 2026, 03:30 PM UTC+05:30",
+   "volume": 102428
+  },
+  {
+   "price": 108.4,
+   "currency": "INR",
+   "date": "May 19 2026, 03:30 PM UTC+05:30",
+   "volume": 59839
+  },
+  {
+   "price": 108.68,
+   "currency": "INR",
+   "date": "May 20 2026, 03:30 PM UTC+05:30",
+   "volume": 50108
+  },
+  {
+   "price": 107.39,
+   "currency": "INR",
+   "date": "May 21 2026, 03:30 PM UTC+05:30",
+   "volume": 110514
+  },
+  {
+   "price": 107.44,
+   "currency": "INR",
+   "date": "May 22 2026, 03:30 PM UTC+05:30",
+   "volume": 101211
+  },
+  {
+   "price": 112.81,
+   "currency": "INR",
+   "date": "May 25 2026, 03:30 PM UTC+05:30",
+   "volume": 131033
+  },
+  {
+   "price": 118.45,
+   "currency": "INR",
+   "date": "May 26 2026, 03:30 PM UTC+05:30",
+   "volume": 125108
+  },
+  {
+   "price": 122.12,
+   "currency": "INR",
+   "date": "May 27 2026, 03:30 PM UTC+05:30",
+   "volume": 193997
+  },
+  {
+   "price": 118.33,
+   "currency": "INR",
+   "date": "May 29 2026, 03:30 PM UTC+05:30",
+   "volume": 199578
+  },
+  {
+   "price": 112.42,
+   "currency": "INR",
+   "date": "Jun 01 2026, 03:30 PM UTC+05:30",
+   "volume": 103097
+  },
+  {
+   "price": 106.8,
+   "currency": "INR",
+   "date": "Jun 02 2026, 03:30 PM UTC+05:30",
+   "volume": 155716
+  },
+  {
+   "price": 109.38,
+   "currency": "INR",
+   "date": "Jun 03 2026, 03:30 PM UTC+05:30",
+   "volume": 198748
+  },
+  {
+   "price": 103.92,
+   "currency": "INR",
+   "date": "Jun 04 2026, 03:30 PM UTC+05:30",
+   "volume": 147955
+  },
+  {
+   "price": 98.73,
+   "currency": "INR",
+   "date": "Jun 05 2026, 03:30 PM UTC+05:30",
+   "volume": 145945
+  },
+  {
+   "price": 93.8,
+   "currency": "INR",
+   "date": "Jun 08 2026, 03:30 PM UTC+05:30",
+   "volume": 95498
+  },
+  {
+   "price": 89.11,
+   "currency": "INR",
+   "date": "Jun 09 2026, 03:30 PM UTC+05:30",
+   "volume": 78805
+  },
+  {
+   "price": 84.66,
+   "currency": "INR",
+   "date": "Jun 10 2026, 03:30 PM UTC+05:30",
+   "volume": 117590
+  },
+  {
+   "price": 80.43,
+   "currency": "INR",
+   "date": "Jun 11 2026, 03:30 PM UTC+05:30",
+   "volume": 109725
+  },
+  {
+   "price": 76.41,
+   "currency": "INR",
+   "date": "Jun 12 2026, 03:30 PM UTC+05:30",
+   "volume": 1445658
+  },
+  {
+   "price": 80.23,
+   "currency": "INR",
+   "date": "Jun 15 2026, 03:30 PM UTC+05:30",
+   "volume": 1310895
+  },
+  {
+   "price": 84.24,
+   "currency": "INR",
+   "date": "Jun 16 2026, 03:30 PM UTC+05:30",
+   "volume": 1557976
+  },
+  {
+   "price": 88.45,
+   "currency": "INR",
+   "date": "Jun 17 2026, 03:30 PM UTC+05:30",
+   "volume": 716670
+  },
+  {
+   "price": 92.87,
+   "currency": "INR",
+   "date": "Jun 18 2026, 03:30 PM UTC+05:30",
+   "volume": 1399385
+  },
+  {
+   "price": 97.51,
+   "currency": "INR",
+   "date": "Jun 19 2026, 03:30 PM UTC+05:30",
+   "volume": 208037
+  },
+  {
+   "price": 102.38,
+   "currency": "INR",
+   "date": "Jun 22 2026, 03:30 PM UTC+05:30",
+   "volume": 307736
+  },
+  {
+   "price": 107.49,
+   "currency": "INR",
+   "date": "Jun 23 2026, 03:30 PM UTC+05:30",
+   "volume": 191562
+  },
+  {
+   "price": 102.12,
+   "currency": "INR",
+   "date": "Jun 24 2026, 03:30 PM UTC+05:30",
+   "volume": 308698
+  },
+  {
+   "price": 97.02,
+   "currency": "INR",
+   "date": "Jun 25 2026, 03:30 PM UTC+05:30",
+   "volume": 63642
+  },
+  {
+   "price": 92.17,
+   "currency": "INR",
+   "date": "Jun 29 2026, 03:30 PM UTC+05:30",
+   "volume": 52650
+  },
+  {
+   "price": 91.82,
+   "currency": "INR",
+   "date": "Jun 30 2026, 03:30 PM UTC+05:30",
+   "volume": 1816245
+  },
+  {
+   "price": 87.32,
+   "currency": "INR",
+   "date": "Jul 01 2026, 03:30 PM UTC+05:30",
+   "volume": 976794
+  },
+  {
+   "price": 91.68,
+   "currency": "INR",
+   "date": "Jul 02 2026, 03:30 PM UTC+05:30",
+   "volume": 368691
+  },
+  {
+   "price": 95.02,
+   "currency": "INR",
+   "date": "Jul 03 2026, 03:30 PM UTC+05:30",
+   "volume": 594369
+  },
+  {
+   "price": 97.44,
+   "currency": "INR",
+   "date": "Jul 06 2026, 03:30 PM UTC+05:30",
+   "volume": 685766
+  },
+  {
+   "price": 97.51,
+   "currency": "INR",
+   "date": "Jul 07 2026, 03:30 PM UTC+05:30",
+   "volume": 517986
+  },
+  {
+   "price": 93.2,
+   "currency": "INR",
+   "date": "Jul 08 2026, 03:30 PM UTC+05:30",
+   "volume": 207868
+  },
+  {
+   "price": 93.39,
+   "currency": "INR",
+   "date": "Jul 09 2026, 03:30 PM UTC+05:30",
+   "volume": 120295
+  },
+  {
+   "price": 93.67,
+   "currency": "INR",
+   "date": "Jul 10 2026, 03:30 PM UTC+05:30",
+   "volume": 519042
+  },
+  {
+   "price": 91.66,
+   "currency": "INR",
+   "date": "Jul 13 2026, 03:30 PM UTC+05:30",
+   "volume": 114445
+  },
+  {
+   "price": 90.0,
+   "currency": "INR",
+   "date": "Jul 14 2026, 03:30 PM UTC+05:30",
+   "volume": 111248
+  },
+  {
+   "price": 87.83,
+   "currency": "INR",
+   "date": "Jul 15 2026, 03:30 PM UTC+05:30",
+   "volume": 154799
+  },
+  {
+   "price": 86.9,
+   "currency": "INR",
+   "date": "Jul 16 2026, 03:30 PM UTC+05:30",
+   "volume": 118019
+  },
+  {
+   "price": 85.97,
+   "currency": "INR",
+   "date": "Jul 17 2026, 03:30 PM UTC+05:30",
+   "volume": 101014
+  },
+  {
+   "price": 87.42,
+   "currency": "INR",
+   "date": "Jul 20 2026, 03:30 PM UTC+05:30",
+   "volume": 103094
+  },
+  {
+   "price": 91.79,
+   "currency": "INR",
+   "date": "Jul 21 2026, 03:30 PM UTC+05:30",
+   "volume": 382046
+  },
+  {
+   "price": 89.25,
+   "currency": "INR",
+   "date": "Jul 22 2026, 03:30 PM UTC+05:30",
+   "volume": 134035
+  },
+  {
+   "price": 92.46,
+   "currency": "INR",
+   "date": "Jul 23 2026, 03:30 PM UTC+05:30",
+   "volume": 915020
+  },
+  {
+   "price": 88.93,
+   "currency": "INR",
+   "date": "Jul 24 2026, 03:30 PM UTC+05:30",
+   "volume": 244231
+  },
+  {
+   "price": 88.46,
+   "currency": "INR",
+   "date": "Jul 27 2026, 03:30 PM UTC+05:30",
+   "volume": 66769
+  },
+  {
+   "price": 86.85,
+   "currency": "INR",
+   "date": "Jul 28 2026, 03:30 PM UTC+05:30",
+   "volume": 90926
+  },
+  {
+   "price": 86.73,
+   "currency": "INR",
+   "date": "Jul 29 2026, 03:30 PM UTC+05:30",
+   "volume": 51479
+  },
+  {
+   "price": 85.04,
+   "currency": "INR",
+   "date": "Jul 30 2026, 03:30 PM UTC+05:30",
+   "volume": 135714
+  },
+  {
+   "price": 84.89,
+   "currency": "INR",
+   "date": "Jul 31 2026, 03:30 PM UTC+05:30",
+   "volume": 117252
+  },
+  {
+   "price": 84.8,
+   "currency": "INR",
+   "date": "Aug 03 2026, 03:30 PM UTC+05:30",
+   "volume": 101144
+  },
+  {
+   "price": 84.88,
+   "currency": "INR",
+   "date": "Aug 04 2026, 03:30 PM UTC+05:30",
+   "volume": 80553
+  },
+  {
+   "price": 85.31,
+   "currency": "INR",
+   "date": "Aug 05 2026, 03:30 PM UTC+05:30",
+   "volume": 311977
+  },
+  {
+   "price": 84.54,
+   "currency": "INR",
+   "date": "Aug 06 2026, 03:30 PM UTC+05:30",
+   "volume": 134189
+  },
+  {
+   "price": 83.58,
+   "currency": "INR",
+   "date": "Aug 07 2026, 03:30 PM UTC+05:30",
+   "volume": 100568
+  },
+  {
+   "price": 81.94,
+   "currency": "INR",
+   "date": "Aug 10 2026, 03:30 PM UTC+05:30",
+   "volume": 107933
+  },
+  {
+   "price": 83.16,
+   "currency": "INR",
+   "date": "Aug 11 2026, 03:30 PM UTC+05:30",
+   "volume": 69790
+  },
+  {
+   "price": 83.13,
+   "currency": "INR",
+   "date": "Aug 12 2026, 03:30 PM UTC+05:30",
+   "volume": 92260
+  },
+  {
+   "price": 80.99,
+   "currency": "INR",
+   "date": "Aug 13 2026, 03:30 PM UTC+05:30",
+   "volume": 114961
+  },
+  {
+   "price": 81.62,
+   "currency": "INR",
+   "date": "Aug 14 2026, 03:30 PM UTC+05:30",
+   "volume": 55846
+  },
+  {
+   "price": 82.59,
+   "currency": "INR",
+   "date": "Aug 17 2026, 03:30 PM UTC+05:30",
+   "volume": 108426
+  },
+  {
+   "price": 81.99,
+   "currency": "INR",
+   "date": "Aug 18 2026, 03:30 PM UTC+05:30",
+   "volume": 59277
+  },
+  {
+   "price": 80.95,
+   "currency": "INR",
+   "date": "Aug 19 2026, 03:30 PM UTC+05:30",
+   "volume": 55654
+  },
+  {
+   "price": 79.91,
+   "currency": "INR",
+   "date": "Aug 20 2026, 03:30 PM UTC+05:30",
+   "volume": 137479
+  },
+  {
+   "price": 79.18,
+   "currency": "INR",
+   "date": "Aug 21 2026, 03:30 PM UTC+05:30",
+   "volume": 95795
+  },
+  {
+   "price": 77.29,
+   "currency": "INR",
+   "date": "Aug 24 2026, 03:30 PM UTC+05:30",
+   "volume": 155359
+  },
+  {
+   "price": 77.27,
+   "currency": "INR",
+   "date": "Aug 25 2026, 03:30 PM UTC+05:30",
+   "volume": 160719
+  },
+  {
+   "price": 76.66,
+   "currency": "INR",
+   "date": "Aug 26 2026, 03:30 PM UTC+05:30",
+   "volume": 89837
+  },
+  {
+   "price": 76.46,
+   "currency": "INR",
+   "date": "Aug 27 2026, 03:30 PM UTC+05:30",
+   "volume": 70581
+  },
+  {
+   "price": 76.81,
+   "currency": "INR",
+   "date": "Aug 28 2026, 03:30 PM UTC+05:30",
+   "volume": 62512
+  },
+  {
+   "price": 75.93,
+   "currency": "INR",
+   "date": "Aug 31 2026, 03:30 PM UTC+05:30",
+   "volume": 112327
+  },
+  {
+   "price": 75.71,
+   "currency": "INR",
+   "date": "Sep 01 2026, 03:30 PM UTC+05:30",
+   "volume": 78463
+  },
+  {
+   "price": 79.49,
+   "currency": "INR",
+   "date": "Sep 02 2026, 03:30 PM UTC+05:30",
+   "volume": 300872
+  },
+  {
+   "price": 83.46,
+   "currency": "INR",
+   "date": "Sep 03 2026, 03:30 PM UTC+05:30",
+   "volume": 215145
+  },
+  {
+   "price": 83.02,
+   "currency": "INR",
+   "date": "Sep 04 2026, 03:30 PM UTC+05:30",
+   "volume": 234404
+  },
+  {
+   "price": 79.72,
+   "currency": "INR",
+   "date": "Sep 07 2026, 03:30 PM UTC+05:30",
+   "volume": 136629
+  },
+  {
+   "price": 79.61,
+   "currency": "INR",
+   "date": "Sep 08 2026, 03:30 PM UTC+05:30",
+   "volume": 106273
+  },
+  {
+   "price": 79.05,
+   "currency": "INR",
+   "date": "Sep 09 2026, 03:30 PM UTC+05:30",
+   "volume": 100479
+  },
+  {
+   "price": 79.35,
+   "currency": "INR",
+   "date": "Sep 10 2026, 03:30 PM UTC+05:30",
+   "volume": 67128
+  },
+  {
+   "price": 78.3,
+   "currency": "INR",
+   "date": "Sep 11 2026, 03:30 PM UTC+05:30",
+   "volume": 81802
+  },
+  {
+   "price": 76.47,
+   "currency": "INR",
+   "date": "Sep 15 2026, 03:30 PM UTC+05:30",
+   "volume": 105441
+  },
+  {
+   "price": 76.74,
+   "currency": "INR",
+   "date": "Sep 16 2026, 03:30 PM UTC+05:30",
+   "volume": 90962
+  },
+  {
+   "price": 73.43,
+   "currency": "INR",
+   "date": "Sep 17 2026, 03:30 PM UTC+05:30",
+   "volume": 309457
+  },
+  {
+   "price": 70.83,
+   "currency": "INR",
+   "date": "Sep 18 2026, 03:30 PM UTC+05:30",
+   "volume": 1392319
+  },
+  {
+   "price": 70.62,
+   "currency": "INR",
+   "date": "Sep 21 2026, 03:30 PM UTC+05:30",
+   "volume": 159860
+  },
+  {
+   "price": 68.74,
+   "currency": "INR",
+   "date": "Sep 22 2026, 03:30 PM UTC+05:30",
+   "volume": 743032
+  },
+  {
+   "price": 68.53,
+   "currency": "INR",
+   "date": "Sep 23 2026, 03:30 PM UTC+05:30",
+   "volume": 258109
+  },
+  {
+   "price": 68.07,
+   "currency": "INR",
+   "date": "Sep 24 2026, 03:30 PM UTC+05:30",
+   "volume": 138444
+  },
+  {
+   "price": 67.44,
+   "currency": "INR",
+   "date": "Sep 25 2026, 03:30 PM UTC+05:30",
+   "volume": 96427
+  },
+  {
+   "price": 65.15,
+   "currency": "INR",
+   "date": "Sep 28 2026, 03:30 PM UTC+05:30",
+   "volume": 157554
+  },
+  {
+   "price": 63.38,
+   "currency": "INR",
+   "date": "Sep 29 2026, 03:30 PM UTC+05:30",
+   "volume": 173192
+  },
+  {
+   "price": 64.7,
+   "currency": "INR",
+   "date": "Sep 30 2026, 03:30 PM UTC+05:30",
+   "volume": 332577
+  },
+  {
+   "price": 64.03,
+   "currency": "INR",
+   "date": "Oct 01 2026, 03:30 PM UTC+05:30",
+   "volume": 571446
+  },
+  {
+   "price": 62.35,
+   "currency": "INR",
+   "date": "Oct 05 2026, 03:30 PM UTC+05:30",
+   "volume": 155445
+  },
+  {
+   "price": 61.8,
+   "currency": "INR",
+   "date": "Oct 06 2026, 03:30 PM UTC+05:30",
+   "volume": 160375
+  },
+  {
+   "price": 61.02,
+   "currency": "INR",
+   "date": "Oct 07 2026, 03:30 PM UTC+05:30",
+   "volume": 88199
+  },
+  {
+   "price": 59.37,
+   "currency": "INR",
+   "date": "Oct 08 2026, 03:30 PM UTC+05:30",
+   "volume": 153283
+  },
+  {
+   "price": 57.61,
+   "currency": "INR",
+   "date": "Oct 09 2026, 03:30 PM UTC+05:30",
+   "volume": 173885
+  }
+ ],
+ "summary": {
+  "title": "Rajesh Exports Ltd",
+  "stock": "RAJESHEXPO",
+  "exchange": "NSE",
+  "price": "INR58.24",
+  "extracted_price": 58.24,
+  "currency": "INR",
+  "price_movement": {
+   "percentage": 46.93877551,
+   "value": 51.52,
+   "movement": "Down"
+  },
+  "date": "Oct 09 2026, 03:59:54 PM UTC+05:30",
+  "extensions": [
+   "Oct 09, 03:59:54 PM UTC+5:30",
+   "INR",
+   "NSE"
+  ]
+ },
+ "_fetched_at": "2026-10-10T08:32:56"
+}

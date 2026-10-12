@@ -1,0 +1,1457 @@
+{
+ "search_metadata": {
+  "id": "6ac9452473bf59689b7ca8ae",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/26s8d6VqrG0IPF8xN8Gy9ed2K0USEvsYsFlUxV-Q-wM/6ac9452473bf59689b7ca8ae.json",
+  "markdown_endpoint": "https://serpapi.com/searches/26s8d6VqrG0IPF8xN8Gy9ed2K0USEvsYsFlUxV-Q-wM/6ac9452473bf59689b7ca8ae.md",
+  "created_at": "2026-10-09 19:48:52 UTC",
+  "processed_at": "2026-10-09 19:48:52 UTC",
+  "google_news_url": "https://news.google.com/search?q=Ambuja+Cements+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/26s8d6VqrG0IPF8xN8Gy9ed2K0USEvsYsFlUxV-Q-wM/6ac9452473bf59689b7ca8ae.html",
+  "total_time_taken": 0.99
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Ambuja Cements share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Sanghi Industries and Penna Cement to merge with Ambuja Cements: Sanghi shareholders to receive 12 Ambuja s...",
+   "source": {
+    "name": "Bhaskar English",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bhaskarenglish.in/business/news/sanghi-industries-and-penna-cement-to-merge-with-ambuja-cements-134137864.html",
+   "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2024/12/17/new-project-11729585528_1734441309.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSRmxwT1V3d2FERTJOVUpVVFJEZ0F4aUFCU2dLTWdZQkFJaXhMQVk",
+   "date": "10/05/2026, 02:51 PM, +0000 UTC",
+   "iso_date": "2026-10-05T14:51:19Z"
+  },
+  {
+   "position": 2,
+   "title": "Ambuja Cements Ltd. 52 Week Low Streak and Valuation Read",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-ltd-share-near-52-week-consecutive-low-2026",
+   "date": "10/08/2026, 02:39 PM, +0000 UTC",
+   "iso_date": "2026-10-08T14:39:29Z"
+  },
+  {
+   "position": 3,
+   "title": "What Has The Market Misjudged About Ambuja Cements?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/materials/bse-500425/ambuja-cements-shares/news/what-has-the-market-misjudged-about-ambuja-cements",
+   "thumbnail": "https://images.simplywall.st/asset/industry/2031000-choice2-card/1788956323050?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpPV3RtZUZkUGVtSkJkV2x3VFJDZkF4ampCU2dLTWdhQlFZanBOUVU",
+   "date": "10/06/2026, 06:37 PM, +0000 UTC",
+   "iso_date": "2026-10-06T18:37:28Z"
+  },
+  {
+   "position": 4,
+   "title": "Ambuja Cements stock fell near its 52-week low as profit fell",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/ambuja-cements-stock-fell-near-its-52-week-low-as-profit-fell/70247348",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405056_1600_1200.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHliMTlsYmt3MmNWVnVkbkIzVFJEZ0F4aUFCU2dLTWdZQlFJcEJvQVU",
+   "date": "10/06/2026, 11:53 PM, +0000 UTC",
+   "iso_date": "2026-10-06T23:53:47Z"
+  },
+  {
+   "position": 5,
+   "title": "Ambuja Cements to hold Sep 28 meeting for Orient Cement merger",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/nclt-orders-ambuja-cements-meeting-for-orient-cement-merger/46116505",
+   "thumbnail": "https://news-images.dhan.co/nclt-orders-ambuja-cements-meeting-for-orient-cement-merger.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiRU5mY3pkNFRIaHdTVmRQVFJDaUF4amRCU2dLTWdZQm9JWm14Z1E",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "India's Ambuja Cements flags demand slowdown and high fuel costs as Q2 risks",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Urvi Dugar",
+     "Subhranshu Sahu",
+     "Eileen Soreng"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/indias-ambuja-cements-first-quarter-profit-falls-higher-costs-2026-07-28/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/KJIJBXXJ7JPTHPZUR54M32QY7E.jpg?auth=7248bedb2311dfe590f25ded221060defce0471fa0bd3bdd95667221b8082bf6&width=480&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkMGhCVEhjMk9GODVVMVJTVFJDOEFSaU1BaWdCTWdhbEFZZ1JrUW8",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Ambuja Cements share price target: Nuvama, Motilal, other brokerages see up to 30% upside. Here's why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ambuja-cements-share-price-target-nuvama-motilal-other-brokerages-see-up-to-30-upside-heres-why/articleshow/132700197.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132703321,width-1200,height-900,resizemode-4,imgsize-2618418/ambuja-cements-share-price-target-nuvama-motilal-other-brokerages-see-up-to-30-upside-heres-why.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSM1Z6YlRoYVgxZzBjMGxDVFJEZ0F4aUFCU2dLTWdhQmhZcmtQZ1U",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Ambuja Cements Share Price Jumps As Bernstein Upgrades To 'Outperform': Check Target Price",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/ambuja-cements-share-price-jumps-as-bernstein-upgrades-to-outperform-check-target-price-11715762",
+   "thumbnail": "https://c.ndtvimg.com/2026-06/q5bgdg3_ambuja-cements_625x300_05_June_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1TRk5rTmpJdFFYUk1RVGR5VFJDZkF4ampCU2dLTWdZVmdZeHNzUWM",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Ambuja Cements stock: Analyst gives buy call; suggests stop loss, price target",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/ambuja-cements-stock-analyst-gives-buy-call-suggests-stop-loss-price-target-545047-2026-07-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/video/202607/thumbnail-original_1935.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUVMVUp3UkRKelRHWkpOWGRoVFJDZkF4ampCU2dLTWdrQlFJWllLS2pJU0FJ",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Earnings call transcript: Ambuja Cements Q1 2026 stock slips as margins improve",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ambuja-cements-q1-2026-stock-slips-as-margins-improve-93CH-4816969",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Ambuja Cements Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/materials/nse-ambujacem/ambuja-cements-shares/news/ambuja-cements-limited-just-beat-analyst-forecasts-and-analy",
+   "thumbnail": "https://images.simplywall.st/asset/industry/2031000-choice2-main-header/1585186733208?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFZMjFzYUc5ek9WZHZVa2s1VFJDZkF4ampCU2dLTWdZQkJJcktNUVU",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Why Is Ambuja Cements Share Price Falling: Key Reasons and Investor Analysis 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-ambuja-cements-share-price-falling",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/13122533/Why-Is-Ambuja-Cements-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9aR05DTlMxUWFIcEVhMkUyVFJDZUF4amxCU2dLTWdtWlFZQXI0YUUxaHdJ",
+   "date": "05/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-13T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "NCLT orders ACC, Ambuja Cements to hold merger meetings on Sep 29",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/nclt-ahmedabad-orders-shareholder-meetings-on-september-29-2026-for-acc-ambuja-cements-amalgamation-scheme/46889925",
+   "thumbnail": "https://news-images.dhan.co/nclt-ahmedabad-orders-shareholder-meetings-on-september-29-2026-for-acc-ambuja-cements-amalgamation-scheme.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhTSGh0V0hKU1FUZFhaRzFDVFJDaUF4amRCU2dLTWdNSlFRUQ",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Ambuja Cements stock reports profit pressure at a 52-week low",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/ambuja-cements-stock-reports-profit-pressure-at-a-52-week-low/70197955",
+   "date": "09/29/2026, 11:38 AM, +0000 UTC",
+   "iso_date": "2026-09-29T11:38:03Z"
+  },
+  {
+   "position": 15,
+   "title": "Ambuja Cements shares slip after Q1 profit falls 34% YoY to Rs 577 crore; revenue declines 8%",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/ambuja-cements-shares-slip-after-q1-profit-falls-34-yoy-to-rs-577-crore-revenue-declines-8-545693-2026-07-28",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202607/6a6878e6d14ea-revenue-from-operations-also-declined-752-per-cent-yoy-to-rs-9-474-crore-from-rs-10-244-crore-in-th-283945286-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdVRTVKZG1wUlZEWnRRWHBRVFJDZkF4ampCU2dLTWdhaE5JTE1JUVE",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Ambuja Cements shares drop over 2% after Q4 results. What Jefferies and Nomura are saying",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/ambuja-cements-shares-drop-over-2-after-q4-results-what-jefferies-and-nomura-are-saying/articleshow/130815641.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130815618,width-1200,height-900,resizemode-4,imgsize-71736/ambuja-cements-shares-drop-over-2-after-q4-results-what-jefferies-and-nomura-are-saying.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRYMWRMWmxoWlUxTTJPVTVPVFJEZ0F4aUFCU2dLTWdZWmc0eU5OUVk",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Ambuja Cements Share Price: fresh 52-week low, valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/Ambuja_Cements_AMBUJACEM_Share_Price_hits_fresh_52_week_low_stock_trades_at_Rs_36595_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJaM2w2VWpkclkzUk1UemsxVFJDUUF4ai1CU2dLTWdhQktaakNHZ2s",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "F&O ban list 07 October 2026: No stocks in ban; Ambuja Cements tops MWPL watchlist at 93.73%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/equity-markets/f-o-ban-list-07-october-2026-no-stocks-ban-ambuja-cements-tops-mwpl/52884032",
+   "thumbnail": "https://news-images.dhan.co/f-o-ban-list-07-october-2026-no-stocks-ban-ambuja-cements-tops-mwpl.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVTRnBLTVhOVU4xcERlREJrVFJDaUF4amRCU2dLTWdhWnRKTEt1UVk",
+   "date": "10/07/2026, 02:23 AM, +0000 UTC",
+   "iso_date": "2026-10-07T02:23:16Z"
+  },
+  {
+   "position": 19,
+   "title": "Ambuja Cements Share Price Today: Rs 392.10 After 2.10% Rise",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-ltd-share-price-price-rise-2026-09-18",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Ambuja_Cements_Ltd_AMBUJACEM_Ambuja_Cements_Share_Price_Rises_210_Today_to_Rs_39210_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNObnBEUkV0UWRXTTFXVlV5VFJDUUF4ai1CU2dLTWdZQk1JckRuZ2s",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Ambuja Cements Share Price Fall: Price Action and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-share-price-price-fall-2026-09-24",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/ambuja-cements-ambujacem-share-price-falls-2-08-today-to-rs-384-35.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZSVzFRWTI1bExWTjVSazl3VFJDUUF4ai1CU2dLTWdhQktaYkRHZ2s",
+   "date": "09/24/2026, 09:03 AM, +0000 UTC",
+   "iso_date": "2026-09-24T09:03:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Ambuja Cements Share Price: price action and fundamentals",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-ltd-share-price-52-week-low-2026-09-17",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Ambuja_Cements_Stock_Sinks_to_New_52_Week_Low_at_Rs_382_Key_Reasons_Behind_the_Decline_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkV0U0ZVc1Vk5VVlNaMjVFVFJDUUF4ai1CU2dLTWdZQk1wekRHZ2s",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Ambuja Cements shares fall 2.02% percent in afternoon trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/ambuja-cements-shares-fall-2-02-percent-in-afternoon-trade-alpha-article-13981763.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Ambuja Cements Q1 results: Net profit falls 37% as weak volumes, higher costs weigh; shares decline 2%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/ambuja-cements-q1-results-net-profit-falls-37-as-weak-volumes-higher-costs-weigh-shares-decline-2-13985793.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260728093435_ambuja-cements1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNjR1ZyYlhwNVZHZExjVkJPVFJDZkF4ampCU2dLTWdZZEFvUVJEUXM",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "ACC Ltd to host investor interactions in Singapore on Nov 18",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-host-investor-interactions-singapore-nov-18/52920142",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-host-investor-interactions-singapore-nov-18.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJibUZ1YlV4clZqaGZUbE5EVFJDaUF4amRCU2dLTWdPQllCUQ",
+   "date": "10/07/2026, 12:34 PM, +0000 UTC",
+   "iso_date": "2026-10-07T12:34:44Z"
+  },
+  {
+   "position": 25,
+   "title": "Cement shares under pressure; ACC, Ambuja, Shree Cement crack to 52-wk lows",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/cement-shares-under-pressure-acc-ambuja-shree-cement-crack-to-52-week-lows-126091100207_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/14/full/1768329134-6057.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhNR1ZSTjNGWVJFRlZTWFZMVFJERUF4aW1CU2dLTWdZUlE0aUxSUVE",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Ambuja Cements shares rise over 1% on partnering with UK firm for commercial-scale low-carbon cement project in Gujarat",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/ambuja-cements-shares-rise-on-partnering-with-uk-firm-for-commercial-scale-low-carbon-cement-project-in-gujarat/article-195749/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ambujacementssharepricejune-22.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllV2hqTFdaalMxUklTa3B4VFJDZkF4ampCU2dLTWdZZFlJcXNyQVE",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Ambuja Cements Board Meeting Tomorrow to Consider Quarterly Results; Stock Gained 0.38 percent",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/ambuja-cements-board-meeting-tomorrow-to-consider-quarterly-results-stock-gained-0-38-percent-alpha-article-13984081.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241027112256_market13.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWxWZWs5T1dIWmpha1Z3VFJDZkF4ampCU2dLTWdZRlVZeG1NZ1U",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Ramco Cement, ACC, Orient Cement, Ambuja Cement: Here is how cement stocks are performing on Aug 27",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abha Raverkar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/ramco-cement-acc-orient-cement-ambuja-cement-here-is-how-cement-stocks-are-performing-on-aug-27/article-199365/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/cement-stocks-aug-27.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBOMEZVV1RKbE5HaG5ja2xaVFJDZkF4ampCU2dLTWdhQlFaSUd1Z1k",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Ambuja Cements Share Pros and Cons 2026 | AMBUJACEM Adani Cement Premium",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/pros-cons-investing-ambujacem-share",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/pros-cons-investing-ambujacem-share.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURkVmRYUmsxclJtTkZVV3R6VFJDUUF4ai1CU2dLTWdB",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Ambuja Cements stock holds above ?400 as Q1 profit supports growth plan",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/ambuja-cements-stock-holds-above-400-as-q1-profit-supports-growth-plan/70029162",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404987_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJXbTlZZFZaS1JuRm9UbDlrVFJDZkF4ampCU2dLTWdrZFE0aExvYWg3TUFF",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "UltraTech, Ambuja, Shree Cement surge up to 3% on upbeat quarterly results of peer Nuvoco Vistas",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/ultratech-ambuja-shree-cement-surge-up-to-3-on-upbeat-quarterly-results-of-peer-nuvoco-vistas-13974767.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250917074446_cement.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNHpVWGxFYkVSQ01qTTVlWGROVFJDZkF4ampCU2dLTWdNQlZBZw",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Ambuja Cements Stock Signals to Watch This Week",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-stock-signals-investors-are-watching",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/ambuja-cements-stock-signals-investors-are-watching.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNlRnBhUW0xbGNVRXpNbko0VFJDUUF4ai1CU2dLTWdhQkdKeWlHZ2s",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "UltraTech, ACC, Ambuja: Risks and tailwinds shaping cement stocks after Q1 FY27",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/ultra-tech-acc-ambuja-risks-and-tailwinds-shaping-cement-stocks-after-q1-fy-27/article-198794/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/cement-magnific.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZNMm8xUVdzMVZtcENjakZPVFJDZkF4ampCU2dLTWdZWmdZNVBOUVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Ambuja Cements gets exchange nod for Orient Cement amalgamation",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/exchanges-clear-ambuja-cements-amalgamation-scheme-with-acc/42127362",
+   "thumbnail": "https://news-images.dhan.co/exchanges-clear-ambuja-cements-amalgamation-scheme-with-acc.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkbmMxWjNweVIyRkxMVTFHVFJDaUF4amRCU2dLTWdZeFlZeTFxQVU",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Ambuja Cements slips 3% on Q4 miss; brokerages cut estimates, target price",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Devanshu Singla"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/ambuja-cements-slips-3-on-q4-miss-brokerages-cut-estimates-target-price-126050500457_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/10/full/1696926236-8798.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFlV0ZxTnpWTFFsSlFUVlIxVFJERUF4aW5CU2dLTWdrQkFJcXVLS2FoQ1FJ",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Ambuja Cements Plans Meeting With Analysts And Investors On September 21 And 22",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/ambuja-cements-plans-meeting-with-analysts-and-investors-on-september-21-and-22",
+   "thumbnail": "https://www.sahi.com/assets/uploads/123_PE_1_CORPORATE_16_09_2026_16x9_4ff6f7236f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJSa3hyUzNab1NrTmhlRlZ1VFJDZUF4amxCU2dLTWdZVlk0cUxwUVU",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Ambuja Cements Q1 EBITDA beats estimates on cost control; Nomura retains Buy, cuts target price to Rs 500",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/ambuja-cements-q1-ebitda-beats-estimates-on-cost-control-nomura-retains-buy-cuts-target-price-to-rs-500-13988226.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/05/Ambuja-Cement.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJiMnhaYzFWRE1saGFYelpGVFJDZkF4ampCU2dLTWdrQllKWllKT21LU2dJ",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Ambuja Cement Q1 Results: Net profit drops 34% YoY to Rs 577 crore; revenue falls 7.5%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/ambuja-cements-q1-results-net-profit-drops-34-yoy-at-rs-577-crore-revenue-falls-7-5/articleshow/132680124.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132680098,width-1200,height-900,resizemode-4,imgsize-25551/ambuja-cement-giant.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRjbkJGUmxkeWVreHNZbnBEVFJEZ0F4aUFCU2dLTWdtZE00Q3VtU2xiZUFB",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Ambuja Cements Q1 Results: Revenue ₹9,500 Cr, PAT ₹660 Cr, Cost Guidance Set",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-q1-results-revenue-9-500-cr-pat-660-cr-cost-guidance-set/47319561",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-q1-results-revenue-9-500-cr-pat-660-cr-cost-guidance-set.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTFkRnBQTldKMFJtUllUVGRDVFJDaUF4amRCU2dLTWdNQm9nZw",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Ambuja Cements Q1 Results: Topline misses estimates, operational performance improves",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/ambuja-cements-q1-results-topline-volumes-margins-ebitda-per-tonne-demand-outlook-fy27-share-price-19955485.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/ultratech-cement-2026-04-a4abc6d0f91f20c68556bfa8f93c264f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWtPRlJZYmtGNFVGODFRbE5vVFJDZkF4ampCU2dLTWdPQmRoZw",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "F&O ban list 06 October 2026: Stocks in ban and MWPL watchlist, Ambuja Cements at 94.97%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/equity-markets/f-o-ban-list-06-october-2026-stocks-ban-mwpl-watchlist-ambuja-cements/52797668",
+   "thumbnail": "https://news-images.dhan.co/f-o-ban-list-06-october-2026-stocks-ban-mwpl-watchlist-ambuja-cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlXWFo1T1hGQ1kyMWphMVEyVFJDaUF4amRCU2dLTWdZUkFJeXVIUWc",
+   "date": "10/06/2026, 02:15 AM, +0000 UTC",
+   "iso_date": "2026-10-06T02:15:18Z"
+  },
+  {
+   "position": 42,
+   "title": "Ambuja Cements Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-stock-prediction-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Ambuja-Cements-Stock-Prediction-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpNVVphVTJkTU1VdERha0o0VFJDZUF4amxCU2dLTWdrQlFJQ2s1S0ZUclFF",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Stocks in news: L&T, Tata Capital, Ambuja Cements, Suzlon Energy, RVNL",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-lt-tata-capital-ambuja-cements-suzlon-energy-rvnl/articleshow/132687151.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132687409,width-1200,height-900,resizemode-4,imgsize-47238/stocks-in-news-lt-tata-capital-ambuja-cements-suzlon-energy-rvnl.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5USGhKWDBVd2FGOVNSalZqVFJEZ0F4aUFCU2dLTWdhUmhJNG9yZ1k",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Ambuja Cements Q2 Results FY27: Date and Expectations",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-q2-results-fy27-preview-date-expectations",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/ambuja-cements-q2-results-fy27-preview-date-expectations.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWME16UTJjd1RVbFRaMjVVVFJDUUF4ai1CU2dLTWdZQkdZeWptZ2s",
+   "date": "09/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-08T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Ambuja Cements Shares Fall 2.02% to Rs 436.00",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/ambuja-cements-shares-fall-2-02-to-rs-436-00-alpha-article-13996645.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Ambuja Cements: What Should You Do?",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sai Prabhakar"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/ambuja-cements-what-should-you-do-after-the-stock-correction/article70736395.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/dgoe4d/article70739819.ece/alternates/LANDSCAPE_1200/2024-05-01T083806Z_335169803_RC2YKV9484AX_RTRMADP_3_AMBUJA-CEMENTS-RESULTS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5NVXRZU2kxQmRHMXhXR1pmVFJDZkF4ampCU2dLTWdhTlVKQXBxZ2M",
+   "date": "03/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-14T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Ambuja Cements Q1 net profit down 37% as sales volume slips",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikita Periwal"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/ambuja-cements-q1-net-profit-down-37-as-sales-volume-slips/articleshow/132741576.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132741641,width-1200,height-900,resizemode-4,imgsize-116464/ambuja-cements-q1-net-profit-down-37-as-sales-volume-slips.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHRSbUpwWlVSSVF6RkRYeTEzVFJEZ0F4aUFCU2dLTWd1Wk1vQU1vV2RyT3Bob21n",
+   "date": "07/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-30T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Bernstein upgrades this cement stock to 'Outperform' in a contrarian call; Check price target",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gareema Bangad"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/ambuja-cements-share-price-bernstein-contrarian-upgrade-rationale-target-upside-valuation-19937077.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-bb5cd383e8807c59444474f6fac54833.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpkRkprUjNWQlUyNXlXa0ZoVFJDZkF4ampCU2dLTWdZWlpJaXJ3UU0",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Ambuja Cements' Q4 results: Net profit jumps 78.5% aided by one-offs",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prachi Pisal"
+    ]
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/ambuja-cements-q4-results-net-profit-jumps-78-5-aided-by-one-offs-126050401671_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2023-10/10/full/1696926236-8798.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFlV0ZxTnpWTFFsSlFUVlIxVFJERUF4aW5CU2dLTWdrQkFJcXVLS2FoQ1FJ",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Ambuja Cements to host sell-side analyst meet in Ahmedabad",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-host-sell-side-analyst-meet-ahmedabad/51540075",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-host-sell-side-analyst-meet-ahmedabad.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTemR0TFhsc1FVWmZkV1EzVFJDaUF4amRCU2dLTWdZUkVKTEluUWM",
+   "date": "09/21/2026, 12:43 PM, +0000 UTC",
+   "iso_date": "2026-09-21T12:43:02Z"
+  },
+  {
+   "position": 51,
+   "title": "Ambuja Cements shareholders approve Orient Cement amalgamation scheme",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/orient-cement-shareholders-approve-amalgamation-ambuja-cements/52157723",
+   "thumbnail": "https://news-images.dhan.co/orient-cement-shareholders-approve-amalgamation-ambuja-cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVjMkZETFhwVVJYb3dURzExVFJDaUF4amRCU2dLTWdZdFU0cVBNUVU",
+   "date": "09/28/2026, 04:19 PM, +0000 UTC",
+   "iso_date": "2026-09-28T16:19:38Z"
+  },
+  {
+   "position": 52,
+   "title": "Ambuja Cements Q1 FY27 results: Consolidated net profit drops 34%; revenue declines to ₹9,474 crore YoY",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/ambuja-cements-q1-fy-27-results-consolidated-net-profit-drops-34-revenue-declines-to-9-474-crore-yo-y/article-197696/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ambuja-cement-q1-fy27-july-28.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdOV1pKZVZsR2Qwa3lTelJVVFJDZkF4ampCU2dLTWdrSmtvcW12cVZNVWdF",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Ambuja Cements Q1 results: Profit drops nearly 37% YoY to ₹660 crore, revenue declines 8%",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/ambuja-cements-q1-results-profit-drops-nearly-37-yoy-to-660-crore-11785230818281.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/AMBUJA-CEMENTS-STAKE--0_1729599546811_1785230931192_9029f49a-a9c9-45de-9cf1-8ca5db9bc082.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9halpoVTFnd2JYSlJURTVWVFJDZkF4ampCU2dLTWdZUkFJb29OZ1k",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Ambuja Cements shares fall 2.02% percent in afternoon trade",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:3274c78d8094b:0-ambuja-cements-shares-fall-2-02-percent-in-afternoon-trade/",
+   "date": "07/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-23T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Ambuja Cements shareholders approve ACC amalgamation scheme",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/acc-shareholders-approve-amalgamation-scheme-ambuja-cements/52244956",
+   "thumbnail": "https://news-images.dhan.co/acc-shareholders-approve-amalgamation-scheme-ambuja-cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDBVWFZCYzIxWE5qWlNOM05JVFJDaUF4amRCU2dLTWdNQmNBNA",
+   "date": "09/29/2026, 04:32 PM, +0000 UTC",
+   "iso_date": "2026-09-29T16:32:46Z"
+  },
+  {
+   "position": 56,
+   "title": "Ambuja Cements shares fall 2.19%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/ambuja-cements-shares-fall-2-19-alpha-article-13980362.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250131110706_market99.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNhMVI2UmtWcWFWODFjWEpMVFJDZkF4ampCU2dLTWdrUk1ZWXNIZVE5NmdF",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Ambuja Cements Q4 Results: Cons profit surges 78% YoY to Rs 1,830 crore; revenue rises 10%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shivendra Kumar"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/ambuja-cements-q4-results-cons-profit-jumps-78-yoy-to-rs-1830-crore-revenue-rises-10/articleshow/130774712.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130775387,width-1200,height-900,resizemode-4,imgsize-2108976/ambuja-cements-q4-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhWRXhLUjNKeVFrSjRRMmN0VFJEZ0F4aUFCU2dLTWdZRlFJYUVHZ2s",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Ambuja Cements shares start trading after Sanghi merger",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-shares-start-trading-after-sanghi-merger/44632372",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-shares-start-trading-after-sanghi-merger.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5aM1prZFhGM1JVZ3RNV1JYVFJDaUF4amRCU2dLTWdrQlJJcUxvYWFvTUFF",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Ambuja Cements Shares Fall After 37% Profit Drop; West Asia Conflict Adds to Cost Pressure",
+   "source": {
+    "name": "Outlook Business",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.outlookbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookbusiness.com/corporate/ambuja-cements-shares-fall-after-37-profit-drop-west-asia-conflict-adds-to-cost-pressure",
+   "thumbnail": "https://media.assettype.com/outlookbusiness/2025-04-29/varqk10n/new-delhi-22-mar-2022-260nw-2138292583.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZUSFp5ZUhORk1XNXphMVpuVFJDZkF4amtCU2dLTWdZMW9vN3hOQVU",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Ambuja Cements to host investor meets at Adani Annual Conference 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-host-investor-meets-adani-annual-conference-2026/48861888",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-host-investor-meets-adani-annual-conference-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZhMDlGWm1ndFVXeG5USGx5VFJDZkF4ampCU2dLTWdhTlFZeUlvZ2c",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Ambuja Cements Q4 Results: Net profit rises nearly 79% YoY; board announces dividend for FY26",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/earnings/ambuja-cements-q4-fy-26-net-profit-rises-nearly-79-yo-y-board-announces-dividend-for-fy-26-check-important-dates/article-193089/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ambujacementq4result-today.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXllV2hqTFdaalMxUklTa3B4VFJDZkF4ampCU2dLTWdZZFlJcXNyQVE",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Orient Cement To Hold Analyst And Investor Meeting On September 7 And 8",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/orient-cement-to-hold-analyst-and-investor-meeting-on-september-7-and-8-3139-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3139_PE_1_CORPORATE_25_08_2026_16x9_b4f5a549c9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlZV1ZDTUVOR2EzTnVZMDlhVFJDb0FSaXRBaWdCTWdZWlU0Uk9LUU0",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Ambuja Cements to host investor meets in Mumbai on Sep 21-22",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-host-investor-meets-mumbai-sep-21-22/51105059",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-host-investor-meets-mumbai-sep-21-22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdXRkUwVVhwWFltbGhSRkZFVFJDaUF4amRCU2dLTWdZTkVZNE5PZ2M",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Buy Ambuja Cements; target of Rs 570: Choice Institutional Equities",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-ambuja-cements-target-of-rs-570-choice-institutional-equities-13910085.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070502_Buy1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXllRFpUTWxsV1VtaGZZeTFaVFJDZkF4ampCU2dLTWdPVlV4QQ",
+   "date": "05/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-06T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Ambuja Cements Q1 Results: Revenue At Rs 9,500 Crore, Operating Ebitda Crosses Rs 1,500 Crore, Margins Rise",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/business/ambuja-cements-q1-results-revenue-at-rs-9-500-crore-operating-ebitda-crosses-rs-1-500-crore-margins-rise-11832749",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/0901da45_Ambuja_Cement_bags___Photo_Usha_Kunji_BQ_Prime_.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTZNVTVTUzFacFRFcEdSR3B2VFJDZkF4ampCU2dLTWdB",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Ambuja Cements' profit slides as lower dispatches offset cost-cutting gains",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dipali Banka"
+    ]
+   },
+   "link": "https://www.livemint.com/companies/company-results/ambuja-cements-profit-slides-as-lower-dispatches-offset-cost-cutting-gains-11785247727407.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/28/1600x900/logo/AMBUJA-CEMENTS-STAKE--0_1729599546811_1785251505924_bf74e69f-8e46-4b1c-a532-9ffa76264a0b.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhamt3VmxaZlZVWmtiRFZhVFJDZkF4ampCU2dLTWdZVkFJcnJ0UVU",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Buy Ambuja Cements Ltd For Target Rs.530 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-ambuja-cements-ltd-for-target-rs-530-by-motilal-oswal-financial-services-ltd241940",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/AmbujaCement22.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdVRzlHUVhSdFpXVnRTM3BDVFJEZUFoajBBeWdLTWdtZEU0RE5GU2xiV1FB",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Ambuja Cements Share Price Falls 2.05% Today | Analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-ambuja-cements-share-price-price-fall-2026-08-31",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/Ambuja_Cements_AMBUJACEM_Share_Price_Falls_205_Today_Stock_News_Focuses_on_Price_Action_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZhV1JoVG5aYVVERm1jSEZ3VFJDUUF4ai1CU2dLTWdZQkdvYkRtZ2s",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "UltraTech Cement vs Ambuja Cements: Full Stock Comparison",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ultratech-cement-vs-ambuja-cements-comparison",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/07/ultratech-cement-vs-ambuja-cements-comparison.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFhbnBzWjNVMlVISXhiRVJoVFJDUUF4ai1CU2dLTWdZQk9wVERJZ2c",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Ambuja Cements Q4 Result: Tax credit boosts bottomline but margins narrow",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/ambuja-cements-q4-result-tax-credit-boosts-bottomline-but-margins-narrow-share-price-reaction-ws-l-19898135.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2021/08/cement.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVNMkZXWVVkMFprSlJZMDVTVFJDZkF4ampCU2dLTWdPQmRoZw",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Ambuja Cements to Hold Q1FY27 Earnings Call on July 28 at 16:30 IST",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-to-discuss-q1fy27-results-on-july-28/45590361",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-to-discuss-q1fy27-results-on-july-28.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpjMW8yUXpKRk1EaEhhVmxyVFJDaUF4amRCU2dLTWdZQllwTHlMQWM",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Ambuja Cements targets 8% trade volume growth, INR4,250 PMT cost in FY27",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-q1-results-net-profit-drops-37-yoy-to-504-crore/46774771",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-q1-results-net-profit-drops-37-yoy-to-504-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdYMloyWldkZlQyWXhVMHBHVFJDaUF4amRCU2dLTWdZWlFZaHVJUVk",
+   "date": "07/28/2026, 09:05 AM, +0000 UTC",
+   "iso_date": "2026-07-28T09:05:54Z"
+  },
+  {
+   "position": 73,
+   "title": "Earnings call transcript: Ambuja Cements Q1 2026 revenue miss weighs on shares",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-ambuja-cements-q1-2026-revenue-miss-weighs-on-shares-93CH-4816978",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Ambuja Cements FY26: Record 73.7 MnT Volume, Rs 887 PMT EBITDA, Rs 2 Dividend",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-reports-audited-fy26-financial-results-board-recommends-2-dividend-per-share/39434750",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-reports-audited-fy26-financial-results-board-recommends-2-dividend-per-share.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWFRM0pITUcxeVJsRktkVXB3VFJDdEF4akxCU2dLTWd1QklJRElvYUpjdFhpd013",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Ambuja Cements - ​9 Largecap stocks with massive upside potential of up to 65%! Do you own any?​",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/9-largecap-stocks-with-massive-upside-potential-of-up-to-65-do-you-own-any/ambuja-cements/slideshow/130033956.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-130034024,width-480,height-360,imgsize-27754,resizemode-75/strong-return-potential.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTVhSFpNYjBkT1MxRlVRV2wzVFJEbUFoamdBeWdLTWdB",
+   "date": "04/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-05T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Ambuja Cements Share Price Target 2026 and 2030: The ₹450 Target Was Hit — And Then Missed Again",
+   "source": {
+    "name": "Bitget",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bitget.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bitget.com/news/detail/12560605394214",
+   "thumbnail": "https://img.bgstatic.com/multiLang/web/cfe162fef73d2e018d93ed311c178bb6.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJTMUZoUms1c00zSnJXRGhuVFJDQ0FoaUlBaWdLTWdrSmtaRHVQT2FSN2dF",
+   "date": "05/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-01T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Ambuja Cements Ltd Upgraded to Sell: A Detailed Analysis of Quality, Valuation, Financial Trend, and Technicals",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/ambuja-cements-ltd-upgraded-to-sell-a-detailed-analysis-of-quality-valuation-financial-trend-and-technicals-4159058",
+   "date": "08/18/2026, 07:06 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:06:48Z"
+  },
+  {
+   "position": 78,
+   "title": "NCLT Ahmedabad Orders Restoration Of 21,000 Ambuja Cements Shares To Original Holders",
+   "source": {
+    "name": "LiveLawBiz",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.livelawbiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livelawbiz.com/company-law/nclt-ahmedabad-orders-restoration-of-21000-ambuja-cements-shares-to-original-holders-538096",
+   "thumbnail": "https://www.livelawbiz.com/h-upload/2026/06/17/680450-nclt-ahmedabad-ambuja-cements.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVla2RmYkc1MmJIQlJlWEpVVFJDZkF4ampCU2dLTWdtTnNZaldQT1daOUFB",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Ambuja Cements stock falls 2.5% after Q4; weak EBITDA, margin pressure weigh despite tax-led profit boost",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:fc2d30103094b:0-ambuja-cements-stock-falls-2-5-after-q4-weak-ebitda-margin-pressure-weigh-despite-tax-led-profit-boost/",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Ambuja Cements shares gain 3% on positive outlook; Centrum sees 44% upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/ambuja-cements-shares-gain-3-on-positive-outlook-centrum-sees-44-upside-126031000165_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-02/18/full/1613656115-7575.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRUbWRwVGs0NE5GVmhkRlptVFJEUUF4anNCQ2dLTWdZSlVJakZvZ2s",
+   "date": "03/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-10T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Ambuja Cements Falls 2.5% to ₹434 — Weak Margins Hit Stock",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/ambuja-cements-falls-2-5-percent-to-434-weak-margins-hit-stock",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F05%2F05141828%2Fambuja-cements-falls-2-5-percent-to-434-weak-margins-hit-stock-1.png&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWZYMDVsU2pSRVJVOWZiMkkyVFJDb0FSaXNBaWdCTWdB",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Stocks to buy in 2026 for long term: Ambuja Cements, SRF among 5 stocks that could give 10-20% return",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kshitij Anand"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-to-buy-in-2026-for-long-term-ambuja-cements-srf-among-5-stocks-that-could-give-10-20-return/brokerage-recommendations/slideshow/132005629.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132005629,width-480,height-360,imgsize-61696,resizemode-75/brokerage-recommendations.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhXRnB6ZWtvNGVERnlVMDVRVFJEb0FoamdBeWdLTWdtZEVaQUxuYVk4Y3dF",
+   "date": "06/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Ambuja Cements shares jump 2% today. Here's why it's rising",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/business/market/story/ambuja-cements-share-price-why-is-it-rising-acc-orient-cement-merger-explained-2840262-2025-12-23",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202512/for-every-100-equity-shares-held-in-acc--eligible-shareholders-will-receive-328-equity-shares-of-amb-230602839-16x9.jpg?VersionId=aDBXlKvUehyxbE42S5gfBjrnUk8Nh1pq&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWpTVFZaVFRoWWRYRjNOVWhZVFJDZkF4ampCU2dLTWdB",
+   "date": "12/23/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-23T08:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Ambuja Cements vs Dalmia Bharat: Which Cement Stock to Track",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-vs-dalmia-bharat-comparison-2",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/ambuja-cements-vs-dalmia-bharat-comparison.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhWMWgyTm1FeVdsVTFaRXBuVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Ambuja Cements Q4 consol net profit falls to Rs 569 cr after adjusting for one-offs; revenue hits record...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/earnings/ambuja-cements-q4-net-profit-jumps-nearly-3x-yoy-to-rs-1-644-crore-on-tax-credit-margins-contract-sharply-13907682.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/05/Ambuja-Cement.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTJiMnhaYzFWRE1saGFYelpGVFJDZkF4ampCU2dLTWdrQllKWllKT21LU2dJ",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Ambuja Cement Q4 results: Net profit rises 78% YoY to ₹1,830 crore; ₹2 per share dividend announced",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/ambuja-cement-q4-results-net-profit-rises-78-yoy-to-1-830-crore-2-per-share-dividend-announced-11777884509146.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/04/1600x900/logo/stock_1777885360711_1777885360835.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVVVEl3TjA5UGEyeE9VVXhyVFJDZkF4ampCU2dLTWdtQkFJREZObU1XWUFN",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Ambuja Cements Q1 Cons Net Profit At ₹5.8B; Targets 119 MTPA Capacity By FY27-End",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/ambuja-cements-q1-cons-net-profit-at-5-8b-targets-119-mtpa-capacity-by-fy27-end-123-PE1_CORP",
+   "thumbnail": "https://www.sahi.com/assets/uploads/123_PE_1_CORPORATE_28_07_2026_16x9_36c4b42917.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFiMFl3YWs5RVZXVm5lRll4VFJDb0FSaXRBaWdCTWdZZE5JU0xKUVE",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Reliance, Ambuja Cements & more: Top stocks to watch on March 10",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/reliance-industries-interglobe-aviation-au-small-finance-bank-ambuja-cement-nippon-india-amc-top-stocks-to-watch-on-march-10-2026/articleshow/129367021.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-129367128,width-1280,height-720,imgsize-52870,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFUa3h2Umt0WU1tVkJiRkZQVFJDZkF4ampCU2dLTWdZQkVJd1lqQWM",
+   "date": "03/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-10T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Ambuja Cements to hold Motilal Oswal investor interaction in Mumbai",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-hold-motilal-oswal-investor-interaction-mumbai/48090708",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-hold-motilal-oswal-investor-interaction-mumbai.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9aRXhLU0hBekxXMURTRFJGVFJDZkF4ampCU2dLTWdZVlE0NXVuUWM",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Ambuja Cements to host investor meet at Jefferies forum on Sep 17",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-host-investor-meet-jefferies-forum-sep-17/50690349",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-host-investor-meet-jefferies-forum-sep-17.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlXSGxrYkVObWFXWlNkV0pGVFJDaUF4amRCU2dLTWdheEk0eVBJUWM",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Ambuja Cements Q1FY27 net profit falls 37% to ₹660 crore on soft demand",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-q1-results-net-profit-drops-37-yoy-to-660-crore/46853655",
+   "date": "07/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-28T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Ambuja Cements Q1 FY27 profit falls 34% to ₹577 crore",
+   "source": {
+    "name": "ET Infra",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://infra.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://infra.economictimes.indiatimes.com/news/construction/ambuja-cements-reports-34-drop-in-q1-fy27-profit-amidst-revenue-decline/132698447",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132698447,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJRMGd3Tnpacllsb3pWMGh2VFJDZkF4ampCU2dLTWdZSlVJcVF3UVU",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Ambuja Cements - 15 largecap stocks still down 30–50% from their yearly highs. Do you own any?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/15-largecap-stocks-still-down-3050-from-their-yearly-highs-do-you-own-any/ambuja-cements/slideshow/131855185.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-131855348,width-480,height-360,imgsize-145806,resizemode-75/market-pressure.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZZMEpKWTJ0aWFESnJjREJIVFJEb0FoamdBeWdLTWdhQmNaSm9MZ2M",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Cyril Amarchand steers two merger deals for Ambuja Cements",
+   "source": {
+    "name": "Law.asia",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://law.asia&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://law.asia/ambuja-cements-amalgamation/",
+   "thumbnail": "https://cdn.law.asia/wp-content/uploads/2026/01/Cyril-Amarchand-steers-two-merger-deals-for-Ambuja-Cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVPRVJVY1RkRFNDMUZXbEp4VFJERUF4aW1CU2dLTWdrQlZJU3VJV21wVVFF",
+   "date": "01/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-12T08:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Ambuja Cements Q4 Results 2026: Date, Volume and EBITDA/t Preview",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-q4-results-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/06174555/Ambuja-Cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxkblZ0V0ZvMlVXNW1aVTkzVFJDUUF4ai1CU2dLTWdZQklaNmtGZ3M",
+   "date": "04/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-06T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Ambuja Cements Q4 Cons Net Profit Falls 33.5% to Rs 569 Crore, Declares Rs 2 Dividend",
+   "source": {
+    "name": "APAC Media",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://apacnewsnetwork.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ram Kataria"
+    ]
+   },
+   "link": "https://apacnewsnetwork.com/2026/05/ambuja-cements-q4-cons-net-profit-falls-33-5-to-rs-569-crore-declares-rs-2-dividend/",
+   "thumbnail": "https://apacnewsnetwork.com/wp-content/uploads/2026/05/News-2026-05-04T161231.115.webp?v=1777891676",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRkbU01Wm1aU2EyUm1VamRIVFJEM0FoanVCU2dLTWdhcE5ZTE9IUUk",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Ambuja Cements gets exchanges nod for ACC amalgamation scheme",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/acc-receives-exchanges-nod-for-amalgamation-with-ambuja-cements/42128580",
+   "thumbnail": "https://news-images.dhan.co/acc-receives-exchanges-nod-for-amalgamation-with-ambuja-cements.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVlRbVpNWWpCeFdIbE9RVlZRVFJDaUF4amRCU2dLTWdrQmNJNm1OZVk4a0FF",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Ambuja Cements schedules EGM on Sep 29 to approve ACC amalgamation",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/ambuja-cements-schedules-egm-sep-29-approve-acc-amalgamation/49457358",
+   "thumbnail": "https://news-images.dhan.co/ambuja-cements-schedules-egm-sep-29-approve-acc-amalgamation.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdXVWxaWkVGcFQxVnhiMWN3VFJDZkF4ampCU2dLTWdhRkJJek5tUWs",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Ambuja Cements, Orient Cement shares zoom up to 10% following board approval for merger with Orient Cement",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishtha Awasthi"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/acc-ambuja-cements-shares-in-focus-following-board-approval-for-merger-with-orient-cement/articleshow/126132638.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-126132627,width-1200,height-900,resizemode-4,imgsize-13254/acc-ambuja-cements-shares-in-focus-following-board-approval-for-merger-with-orient-cement.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdURVpCYTAxclVFOXRRMjFVVFJEZ0F4aUFCU2dLTWdZUnRJS3NTUVE",
+   "date": "12/23/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-23T08:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Ambuja Cements Q3 Results FY26 Preview: PAT to rise 7.58%",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ambuja-cements-q3-results-expectations",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/01/29150503/Ambuja-Cements-Q3-Results-Preview.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlNWHB2TVU4MVNFY3hZWHB0VFJDUUF4ai1CU2dLTWdhTlk0Q0xLUWM",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:48:52"
+}

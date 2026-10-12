@@ -1,0 +1,640 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdac79ac9abb20133b9b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ixem7fIxeLJ6ezLD3eUXrzYiS5NUgaXQ_yFu8qOItkg/6ac7bdac79ac9abb20133b9b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ixem7fIxeLJ6ezLD3eUXrzYiS5NUgaXQ_yFu8qOItkg/6ac7bdac79ac9abb20133b9b.md",
+  "created_at": "2026-10-08 15:58:36 UTC",
+  "processed_at": "2026-10-08 15:58:36 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=2whIJghEe_c",
+  "raw_html_file": "https://serpapi.com/searches/ixem7fIxeLJ6ezLD3eUXrzYiS5NUgaXQ_yFu8qOItkg/6ac7bdac79ac9abb20133b9b.html",
+  "prettify_html_file": "https://serpapi.com/searches/ixem7fIxeLJ6ezLD3eUXrzYiS5NUgaXQ_yFu8qOItkg/6ac7bdac79ac9abb20133b9b.prettify",
+  "total_time_taken": 1.5
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "2whIJghEe_c",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "ASTA Gurukul Stock Market GEO+ 16 Monsoon Batch",
+ "thumbnail": "https://i.ytimg.com/vi/2whIJghEe_c/maxresdefault.jpg",
+ "channel": {
+  "name": "Avadhut Sathe Trading Academy",
+  "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+  "subscribers": "916K subscribers",
+  "extracted_subscribers": 916000,
+  "verified": true
+ },
+ "views": "8,529 views",
+ "extracted_views": 8529,
+ "likes": "194",
+ "extracted_likes": 194,
+ "published_date": "Jul 26, 2026",
+ "description": {
+  "content": "A short glimpse of the ASTA Gurukul Stock Market GEO+ 16 July (Monsoon) Batch. 🌧️📈\nJoin us as we showcase the learning environment, student participation, and memorable moments from this exciting batch. Happy watching!"
+ },
+ "related_videos": [
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpKm7B9cuTRHDDGfnuE68TYvhUkg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/XnuL9djH9bU/mqdefault_6s.webp?du=3000&sqp=CK7cntYG&rs=AOn4CLA-9unfeXFbHERRQhyqRlR3D1zOJw"
+   },
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2h ago",
+   "views": "7.9K",
+   "extracted_views": 7900,
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64",
+    "thumbnail": "https://yt3.ggpht.com/x7xszwIkJYvggWS6E8aPMcVTbU-C2KMLkX7_2d4XfYYTk0ht2-g1WPW78Md7SVj9J4b1Yore=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "aBUniZHgCnE",
+   "link": "https://www.youtube.com/watch?v=aBUniZHgCnE&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aBUniZHgCnE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/aBUniZHgCnE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0H1rMbgvCc1nXSXDiw5XiarT_jA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/aBUniZHgCnE/mqdefault_6s.webp?du=3000&sqp=CNntntYG&rs=AOn4CLAhUEeZcDFZ7exGy3zqftSWQmmSbw"
+   },
+   "title": "Anthropic's Chloe Lubinski explains how AI works (in 14 minutes)",
+   "published_date": "3mo ago",
+   "views": "2.8M",
+   "extracted_views": 2800000,
+   "channel": {
+    "name": "Alliance for Responsible Citizenship",
+    "link": "https://www.youtube.com/@arc_conference",
+    "thumbnail": "https://yt3.ggpht.com/CExQSZYQE8c9JsWYVOvB47XqOX-iWM0RZw6Rqok1kYbWJ95IuuP3nMhbd0IYscE9egSbPj1m=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "g6l2slG9hq0",
+   "link": "https://www.youtube.com/watch?v=g6l2slG9hq0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g6l2slG9hq0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/g6l2slG9hq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAehydd3diLek4yCAHjVKq4AanBCw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/g6l2slG9hq0/mqdefault_6s.webp?du=3000&sqp=CMHkntYG&rs=AOn4CLCDkXbr9l_lTGw9BAoG23Ek1OLDog"
+   },
+   "title": "Your Money Is Already Gone\" | Jim Rickards’ 90-Day Warning to All Americans",
+   "published_date": "23h ago",
+   "views": "262K",
+   "extracted_views": 262000,
+   "channel": {
+    "name": "Global Money Signals",
+    "link": "https://www.youtube.com/@GlobalMoneySignals_fanpage",
+    "thumbnail": "https://yt3.ggpht.com/8FULoVOfJzSm3CzCeGip4GrsWPHqAa-bMGJEZLIwU_dXwcPxTuRReKLEAWBrdXPskU98oFIaEA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "dDlCcW_IupY",
+   "link": "https://www.youtube.com/watch?v=dDlCcW_IupY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dDlCcW_IupY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/dDlCcW_IupY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBybS7GVF2ZmSsrWj1t3G0yrBfNDA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/dDlCcW_IupY/mqdefault_6s.webp?du=3000&sqp=CMzlntYG&rs=AOn4CLCP8D73tq4rPzOdFKnzBz_PkIldLw"
+   },
+   "title": "SEBI bans fin influencer Avadhut Sathe, firm from securities market; orders ₹546 cr disgorgement",
+   "published_date": "10mo ago",
+   "views": "111K",
+   "extracted_views": 111000,
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz",
+    "thumbnail": "https://yt3.ggpht.com/WtM9ZMpGO79fza5Bd0A51JOjsm6rX6_aNMZdw6m1hTv8viMWJo5nvHzWxHg8auRkelGPkCDHCSw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wRBi0DT9dvY",
+   "link": "https://www.youtube.com/watch?v=wRBi0DT9dvY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRBi0DT9dvY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wRBi0DT9dvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5avpIa4UxVlq8SPvz-lC0D0q_Iw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/wRBi0DT9dvY/mqdefault_6s.webp?du=3000&sqp=CPy7ntYG&rs=AOn4CLCl-OJZ7keFFEY3hEAhvTucQm2q_Q"
+   },
+   "title": "Where Should Your Money Go in a Crisis? Stocks, Gold, Cash & Real Estate | Shashank Udupa | FWS",
+   "published_date": "9d ago",
+   "views": "424K",
+   "extracted_views": 424000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "HUnh1vwrFV8",
+   "link": "https://www.youtube.com/watch?v=HUnh1vwrFV8&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HUnh1vwrFV8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HUnh1vwrFV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7kFLgyrSqyDvOmmyQpUT8ajRo6w&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/HUnh1vwrFV8/mqdefault_6s.webp?du=3000&sqp=CKfMntYG&rs=AOn4CLBD1c0pHfdi-TFmu6l99euE4dIUZQ"
+   },
+   "title": "How Trump's Visa Crackdown Triggered a Texas Housing Bust",
+   "published_date": "4mo ago",
+   "views": "2.5M",
+   "extracted_views": 2500000,
+   "channel": {
+    "name": "Bloomberg Television and Bloomberg Originals",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "AEsnf-K0X9g",
+   "link": "https://www.youtube.com/watch?v=AEsnf-K0X9g&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AEsnf-K0X9g",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/AEsnf-K0X9g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAs-dSesFg3oKxHmGPIa_KRsIw6cw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/AEsnf-K0X9g/mqdefault_6s.webp?du=3000&sqp=CLjdntYG&rs=AOn4CLBp-JZLo2XT6JhMx2_Epcb0DrEaMw"
+   },
+   "title": "Is MIT Still Worth It in the Age of AI? I Asked Students",
+   "published_date": "2w ago",
+   "views": "136K",
+   "extracted_views": 136000,
+   "channel": {
+    "name": "Singh in USA",
+    "link": "https://www.youtube.com/@SinghinUSA",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_leLBQrAqqbCxSks8Rb8asJzd7Tk9r7xPD9IrPoqZCVZ4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "eewE0vQAh4g",
+   "link": "https://www.youtube.com/watch?v=eewE0vQAh4g",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eewE0vQAh4g",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/eewE0vQAh4g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgFdJoDAYh731AV_qacAxLSJQYXw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/eewE0vQAh4g/mqdefault_6s.webp?du=3000&sqp=CIjmntYG&rs=AOn4CLA3E48o8Ox6xwM3lXNIcJ1nYBX8Yg"
+   },
+   "title": "Inside Julianne Moore’s Rooftop NYC Home | Open Door | Architectural Digest",
+   "published_date": "1d ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "Architectural Digest",
+    "link": "https://www.youtube.com/@Archdigest",
+    "thumbnail": "https://yt3.ggpht.com/eT4jNc3KJebg3bFbKPMlG-4XhOKIs5_3lv13S8kShhkD6S2SPTbITVOsqJAEekL_ep4w8JFtyg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "OtHnMmLkpYQ",
+   "link": "https://www.youtube.com/watch?v=OtHnMmLkpYQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OtHnMmLkpYQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OtHnMmLkpYQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3V88Urhdt9qfHIZG7x4i-DadKxQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/OtHnMmLkpYQ/mqdefault_6s.webp?du=3000&sqp=CLTUntYG&rs=AOn4CLAFgzvNEB2Qe0IRbE8T1_thhiJjMw"
+   },
+   "title": "Why OpenAI Has No Moat & LLM Prices Will Collapse | Avinash Lakshman, Weilliptic",
+   "published_date": "2w ago",
+   "views": "78K",
+   "extracted_views": 78000,
+   "channel": {
+    "name": "The Neon Show",
+    "link": "https://www.youtube.com/@theneonshoww",
+    "thumbnail": "https://yt3.ggpht.com/puXJMPSOesnHKw1aUX48cShAFrH49qpHa_K7eLHJgFNPEh1KNjKD3K-WSbVWWHt98Bak6gAy-3E=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSqe39isTOk4MCRpixqVE8zN6lhg&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/OLPJcTNpNaY/mqdefault_6s.webp?du=3000&sqp=CIrZntYG&rs=AOn4CLDFEewY6FPw4XjwwcjLZYz8EJUkVw"
+   },
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "3mo ago",
+   "views": "279K",
+   "extracted_views": 279000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "XQ-Xnzj_uz4",
+   "link": "https://www.youtube.com/watch?v=XQ-Xnzj_uz4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XQ-Xnzj_uz4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XQ-Xnzj_uz4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfVEc_MZvQZIOE2vFRBHRQCmR1pw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/XQ-Xnzj_uz4/mqdefault_6s.webp?du=3000&sqp=CNzzntYG&rs=AOn4CLB0J_DPh3rCaZB4_CUuBLkwnNIiog"
+   },
+   "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
+   "published_date": "3d ago",
+   "views": "3.9M",
+   "extracted_views": 3900000,
+   "channel": {
+    "name": "LastWeekTonight",
+    "link": "https://www.youtube.com/@LastWeekTonight",
+    "thumbnail": "https://yt3.ggpht.com/QaQBhlazp19dgOWR8qsqBUmfR1HgDoonchOyWoZAlW68nT6ezDQ75nPdwKT1fjR74uYSvlgX=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "qI70PXRIUI8",
+   "link": "https://www.youtube.com/watch?v=qI70PXRIUI8&pp=ugUHEgVlbi1HQg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qI70PXRIUI8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/qI70PXRIUI8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgYSg1MA8=&rs=AOn4CLCmoEXlSJkJ70gGGlS5CFfe4TM43w",
+    "rich": "https://i.ytimg.com/an_webp/qI70PXRIUI8/mqdefault_6s.webp?du=3000&sqp=CJ_EntYG&rs=AOn4CLD8QvKN6sdXzyJgbAWgrcnz6VHg8w"
+   },
+   "title": "Thursday, Plague update",
+   "published_date": "5h ago",
+   "views": "213K",
+   "extracted_views": 213000,
+   "channel": {
+    "name": "Dr. John Campbell",
+    "link": "https://www.youtube.com/@Campbellteaching",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mAq6xNU2SNXjvj-e8XirYF74qsFFjxVnKwhE9ct_57oVk=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "4ah--NrBWr0",
+   "link": "https://www.youtube.com/watch?v=4ah--NrBWr0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4ah--NrBWr0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4ah--NrBWr0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrsEcijN7e18bCG5P_o_w9D6o0SQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/4ah--NrBWr0/mqdefault_6s.webp?du=3000&sqp=CPX3ntYG&rs=AOn4CLCZANmdalJMq_iel5OEJ5UwcY2eqw"
+   },
+   "title": "Here's How Avadhut Sathe’s Trading Tales Turn Into SEBI’s Big Scam Crackdown",
+   "published_date": "10mo ago",
+   "views": "444K",
+   "extracted_views": 444000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "XIBcA0R6AD4",
+   "link": "https://www.youtube.com/watch?v=XIBcA0R6AD4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XIBcA0R6AD4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XIBcA0R6AD4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBYcQ4gpvKOkltmKDg0Ya4hQUFVGA&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/XIBcA0R6AD4/mqdefault_6s.webp?du=3000&sqp=COCuntYG&rs=AOn4CLBYCXwbpIC77N3sJQ9ZFmJbfeQpWg"
+   },
+   "title": "Trump Wants His Golf Club to Be Camp David & Jimmy Kimmel's Message to Guillermo's Dancing Haters",
+   "published_date": "12h ago",
+   "views": "1.9M",
+   "extracted_views": 1900000,
+   "channel": {
+    "name": "Jimmy Kimmel Live",
+    "link": "https://www.youtube.com/@JimmyKimmelLive",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lhbMFP_RRAtTgX-58mKKhuVG_P-qESOBnMDiPE0vhJgEMm=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "coams5qSGbI",
+   "link": "https://www.youtube.com/watch?v=coams5qSGbI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=coams5qSGbI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/coams5qSGbI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeOLZAIf2usobBRVm8VUi9g8wjvw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/coams5qSGbI/mqdefault_6s.webp?du=3000&sqp=CPDrntYG&rs=AOn4CLCPRQ-Hk0vuYIdz7DKJtfL7XFuHsQ"
+   },
+   "title": "नाच-नाच कर टिप्स देने वाले Avadhut Sathe Trading Academy पर SEBI का छापा | Finfluencer| Kharcha Pani",
+   "published_date": "1y ago",
+   "views": "504K",
+   "extracted_views": 504000,
+   "channel": {
+    "name": "The Lallantop",
+    "link": "https://www.youtube.com/@TheLallantop",
+    "thumbnail": "https://yt3.ggpht.com/CdR2ybs_Tz3mnJANjVWszTsYsSQbVmFUdYnqndK-K7j-tKRYH6Yz8gZpHb5bOvEtgFyHyAzMgQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Cpq8y5HpcF4",
+   "link": "https://www.youtube.com/watch?v=Cpq8y5HpcF4&pp=ugUHEgVlbi1DQdIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Cpq8y5HpcF4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Cpq8y5HpcF4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBnygU4fQftiw2FfaMWmhOq799brw&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/Cpq8y5HpcF4/mqdefault_6s.webp?du=3000&sqp=CJTvntYG&rs=AOn4CLB_s6h_OGIOZ4kzETBKYI3kxLngNw"
+   },
+   "title": "Bill Ackman: People are Going to Lose a Lot of Money",
+   "published_date": "9d ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "The Knowledge Project Podcast",
+    "link": "https://www.youtube.com/@tkppodcast",
+    "thumbnail": "https://yt3.ggpht.com/d8EN-Da_uCO4t4CfSyCyq2qY2ftFdc38tcBhDbYmb0OHme3VPpONBVrDtKIotZWJWfQTM_FO=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "M5U6qmcRlKY",
+   "link": "https://www.youtube.com/watch?v=M5U6qmcRlKY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5U6qmcRlKY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/M5U6qmcRlKY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_ASPa5OKvSjJO-W_HEgnExzf7aQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/M5U6qmcRlKY/mqdefault_6s.webp?du=3000&sqp=CIz1ntYG&rs=AOn4CLCwWSJaME9L2ioKogwkFScDlzdvGg"
+   },
+   "title": "Share Market Crash: FIIs Selling, Crude Oil & Adani Group Drop! Anil Singhvi Market Strategy",
+   "published_date": "6h ago",
+   "views": "132K",
+   "extracted_views": 132000,
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness",
+    "thumbnail": "https://yt3.ggpht.com/sxHEe-On1euLaHO6gssZiJXWQpRgjy7duGBWC9qPmDEul_AfSvthGaGOc3uRZEhTUchMBEOJlp0=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "g01HPntRJpY",
+   "link": "https://www.youtube.com/watch?v=g01HPntRJpY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g01HPntRJpY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/g01HPntRJpY/hqdefault_custom_2.jpg?sqp=CNT5ntYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDm9OWkwGfk4S906AuIW5I8hTT4kg",
+    "rich": "https://i.ytimg.com/an_webp/g01HPntRJpY/mqdefault_6s.webp?du=3000&sqp=CN7EntYG&rs=AOn4CLA7nGbT6N4XDSoX8ZlKNTv9QbfmOA"
+   },
+   "title": "A strange shift in IT | Why the industry is changing faster than anyone expected?",
+   "published_date": "1h ago",
+   "views": "29K",
+   "extracted_views": 29000,
+   "channel": {
+    "name": "Think School",
+    "link": "https://www.youtube.com/@ThinkSchool",
+    "thumbnail": "https://yt3.ggpht.com/9BhJtkvh3GjjLqtve2o-CKZJPb79ZEwjoqag9JznlIywBimKTeIfpVQMyrnTIYoXXQOm2hY9nA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "ba9pc0twf1g",
+   "link": "https://www.youtube.com/watch?v=ba9pc0twf1g&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ba9pc0twf1g",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ba9pc0twf1g/hqdefault_custom_1.jpg?sqp=CNT5ntYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAm-Y0KVy7tEfoNmj4802P-LzSK_Q",
+    "rich": "https://i.ytimg.com/an_webp/ba9pc0twf1g/mqdefault_6s.webp?du=3000&sqp=CJjnntYG&rs=AOn4CLCbKnGNyVEb6eksSV_AV9MiQ8G7dg"
+   },
+   "title": "One Month in Singapore | What I Miss (and Don't) About India",
+   "published_date": "2h ago",
+   "views": "3.6K",
+   "extracted_views": 3600,
+   "channel": {
+    "name": "Pranay Kapoor",
+    "link": "https://www.youtube.com/@pranayk37",
+    "thumbnail": "https://yt3.ggpht.com/yX1BmkZ66-Zz4pofLW5q_JN8ycC0MIFloyq4IMYZqHkYynnbKlKWblwgQlm_ni9QJu2YCzaWVQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "6uchsoxMDY8",
+   "link": "https://www.youtube.com/watch?v=6uchsoxMDY8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6uchsoxMDY8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6uchsoxMDY8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCUsujN5iG5v2ec2wMVxTKGgjW6AQ&usqp=CBQ",
+    "rich": "https://i.ytimg.com/an_webp/6uchsoxMDY8/mqdefault_6s.webp?du=3000&sqp=CJ_xntYG&rs=AOn4CLDdUbRWBL3TixWPPSHKlFWU8N-4Zw"
+   },
+   "title": "What Happens When IT & Tech Jobs Start Disappearing | Saurabh Mukherjea | AI & Jobs | The Second Act",
+   "published_date": "6d ago",
+   "views": "57K",
+   "extracted_views": 57000,
+   "channel": {
+    "name": "The Second Act",
+    "link": "https://www.youtube.com/@TheSecondActShow",
+    "thumbnail": "https://yt3.ggpht.com/P73oAaAc6A4UPIB4RJXHjugncAQ4FgTQFOhi669eiOLq-OdAU7ltfVJ1XpEC8euStg2K22ZgIjQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILMndoSUpnaEVlX2PAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqlgZNZ3NJajV1dzRxaTJ5UFBxQWRyT2ktc012QVFLdVFRS0FfSS1BQW9Od2o0S0NMWHJuOGJkX3VLOVhnb0Q4ajRBQ2czQ1Bnb0k4WlNBajVueHlZcG9DZ1B5UGdBS0RzSS1Dd2l0amZhTnBkYmQxSU1CQ2dQeVBnQUtEY0ktQ2dpVzlhTC1sczdRbkhRS0FfSS1BQW9Pd2o0TENQYnQ5YWVEMnBpSXdRRUtBX0ktQUFvTndqNEtDTi1xck9IdnV2aWtIUW9EOGo0QUNnekNQZ2tJMkxfUmxmN3Z5U1VLQV9JLUFBb053ajRLQ0lpUGdxQ3Ztb0gyZVFvRDhqNEFDZzNDUGdvSWhNdVNsNmJtLWVnNkNnUHlQZ0FLRGNJLUNnaW02NlNiazY3eTJUZ0tBX0ktQUFvTndqNEtDTDcyX3NmejgtV0hYUW9EOGo0QUNnN0NQZ3NJajZHaG90ZUh2Y2VvQVFvRDhqNEFDZzdDUGdzSXZiV0YxbzNmbjlUaEFRb0Q4ajRBQ2czQ1Bnb0l2b0RvbzdTQWw4QmNDZ1B5UGdBS0RjSS1DZ2l5czhqVXVkYXB3M0lLQV9JLUFBb053ajRLQ043Z3BZLTVtYV9OQ2dvRDhqNEFDZzNDUGdvSXBxbkd1S2JWenNvekNnUHlQZ0FLRHNJLUN3aVd6Y1RhNS1mUnBvTUJDZ1B5UGdBS0RjSS1DZ2pZX3NIYnRLN2ExMjBLQV9JLUFBb093ajRMQ0ktYnNPS290c2p6NmdFU0ZBQUNCQVlJQ2d3T0VCSVVGaGdhSEI0Z0lpUW1HZ1FJQUJBQkdnUUlBaEFER2dRSUJCQUZHZ1FJQmhBSEdnUUlDQkFKR2dRSUNoQUxHZ1FJREJBTkdnUUlEaEFQR2dRSUVCQVJHZ1FJRWhBVEdnUUlGQkFWR2dRSUZoQVhHZ1FJR0JBWkdnUUlHaEFiR2dRSUhCQWRHZ1FJSGhBZkdnUUlJQkFoR2dRSUloQWpHZ1FJSkJBbEdnUUlKaEFuS2hRQUFnUUdDQW9NRGhBU0ZCWVlHaHdlSUNJa0pnag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpKm7B9cuTRHDDGfnuE68TYvhUkg&usqp=CBQ",
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2 hours ago",
+   "views": "7.9K views",
+   "extracted_views": 7900,
+   "length": "11:56",
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64"
+   }
+  },
+  {
+   "video_id": "aBUniZHgCnE",
+   "link": "https://www.youtube.com/watch?v=aBUniZHgCnE&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aBUniZHgCnE",
+   "thumbnail": "https://i.ytimg.com/vi/aBUniZHgCnE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA0H1rMbgvCc1nXSXDiw5XiarT_jA&usqp=CBQ",
+   "title": "Anthropic's Chloe Lubinski explains how AI works (in 14 minutes)",
+   "published_date": "3 months ago",
+   "views": "2.8M views",
+   "extracted_views": 2800000,
+   "length": "14:34",
+   "channel": {
+    "name": "Alliance for Responsible Citizenship",
+    "link": "https://www.youtube.com/@arc_conference"
+   }
+  },
+  {
+   "video_id": "g6l2slG9hq0",
+   "link": "https://www.youtube.com/watch?v=g6l2slG9hq0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g6l2slG9hq0",
+   "thumbnail": "https://i.ytimg.com/vi/g6l2slG9hq0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAehydd3diLek4yCAHjVKq4AanBCw&usqp=CBQ",
+   "title": "Your Money Is Already Gone\" | Jim Rickards’ 90-Day Warning to All Americans",
+   "published_date": "23 hours ago",
+   "views": "262K views",
+   "extracted_views": 262000,
+   "length": "26:02",
+   "channel": {
+    "name": "Global Money Signals",
+    "link": "https://www.youtube.com/@GlobalMoneySignals_fanpage"
+   }
+  },
+  {
+   "video_id": "dDlCcW_IupY",
+   "link": "https://www.youtube.com/watch?v=dDlCcW_IupY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dDlCcW_IupY",
+   "thumbnail": "https://i.ytimg.com/vi/dDlCcW_IupY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBybS7GVF2ZmSsrWj1t3G0yrBfNDA&usqp=CBQ",
+   "title": "SEBI bans fin influencer Avadhut Sathe, firm from securities market; orders ₹546 cr disgorgement",
+   "published_date": "10 months ago",
+   "views": "111K views",
+   "extracted_views": 111000,
+   "length": "3:54",
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz"
+   }
+  },
+  {
+   "video_id": "wRBi0DT9dvY",
+   "link": "https://www.youtube.com/watch?v=wRBi0DT9dvY&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRBi0DT9dvY",
+   "thumbnail": "https://i.ytimg.com/vi/wRBi0DT9dvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5avpIa4UxVlq8SPvz-lC0D0q_Iw&usqp=CBQ",
+   "title": "Where Should Your Money Go in a Crisis? Stocks, Gold, Cash & Real Estate | Shashank Udupa | FWS",
+   "published_date": "9 days ago",
+   "views": "424K views",
+   "extracted_views": 424000,
+   "length": "42:49",
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan"
+   }
+  },
+  {
+   "video_id": "HUnh1vwrFV8",
+   "link": "https://www.youtube.com/watch?v=HUnh1vwrFV8&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HUnh1vwrFV8",
+   "thumbnail": "https://i.ytimg.com/vi/HUnh1vwrFV8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB7kFLgyrSqyDvOmmyQpUT8ajRo6w&usqp=CBQ",
+   "title": "How Trump's Visa Crackdown Triggered a Texas Housing Bust",
+   "published_date": "4 months ago",
+   "views": "2.5M views",
+   "extracted_views": 2500000,
+   "length": "9:32",
+   "channel": {
+    "name": "Bloomberg Television and Bloomberg Originals"
+   }
+  },
+  {
+   "video_id": "AEsnf-K0X9g",
+   "link": "https://www.youtube.com/watch?v=AEsnf-K0X9g&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AEsnf-K0X9g",
+   "thumbnail": "https://i.ytimg.com/vi/AEsnf-K0X9g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAs-dSesFg3oKxHmGPIa_KRsIw6cw&usqp=CBQ",
+   "title": "Is MIT Still Worth It in the Age of AI? I Asked Students",
+   "published_date": "2 weeks ago",
+   "views": "136K views",
+   "extracted_views": 136000,
+   "length": "21:16",
+   "channel": {
+    "name": "Singh in USA",
+    "link": "https://www.youtube.com/@SinghinUSA"
+   }
+  },
+  {
+   "video_id": "eewE0vQAh4g",
+   "link": "https://www.youtube.com/watch?v=eewE0vQAh4g",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=eewE0vQAh4g",
+   "thumbnail": "https://i.ytimg.com/vi/eewE0vQAh4g/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCgFdJoDAYh731AV_qacAxLSJQYXw&usqp=CBQ",
+   "title": "Inside Julianne Moore’s Rooftop NYC Home | Open Door | Architectural Digest",
+   "published_date": "1 day ago",
+   "views": "1M views",
+   "extracted_views": 1000000,
+   "length": "11:38",
+   "channel": {
+    "name": "Architectural Digest",
+    "link": "https://www.youtube.com/@Archdigest"
+   }
+  },
+  {
+   "video_id": "OtHnMmLkpYQ",
+   "link": "https://www.youtube.com/watch?v=OtHnMmLkpYQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OtHnMmLkpYQ",
+   "thumbnail": "https://i.ytimg.com/vi/OtHnMmLkpYQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3V88Urhdt9qfHIZG7x4i-DadKxQ&usqp=CBQ",
+   "title": "Why OpenAI Has No Moat & LLM Prices Will Collapse | Avinash Lakshman, Weilliptic",
+   "published_date": "2 weeks ago",
+   "views": "78K views",
+   "extracted_views": 78000,
+   "length": "1:05:36",
+   "channel": {
+    "name": "The Neon Show",
+    "link": "https://www.youtube.com/@theneonshoww"
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTtIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSqe39isTOk4MCRpixqVE8zN6lhg&usqp=CBQ",
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "3 months ago",
+   "views": "279K views",
+   "extracted_views": 279000,
+   "length": "47:47",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia"
+   }
+  },
+  {
+   "video_id": "XQ-Xnzj_uz4",
+   "link": "https://www.youtube.com/watch?v=XQ-Xnzj_uz4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XQ-Xnzj_uz4",
+   "thumbnail": "https://i.ytimg.com/vi/XQ-Xnzj_uz4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfVEc_MZvQZIOE2vFRBHRQCmR1pw&usqp=CBQ",
+   "title": "The Secret Service: Last Week Tonight with John Oliver (HBO)",
+   "published_date": "3 days ago",
+   "views": "3.9M views",
+   "extracted_views": 3900000,
+   "length": "33:50",
+   "channel": {
+    "name": "LastWeekTonight",
+    "link": "https://www.youtube.com/@LastWeekTonight"
+   }
+  },
+  {
+   "video_id": "qI70PXRIUI8",
+   "link": "https://www.youtube.com/watch?v=qI70PXRIUI8&pp=ugUHEgVlbi1HQg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qI70PXRIUI8",
+   "thumbnail": "https://i.ytimg.com/vi/qI70PXRIUI8/hqdefault.jpg?sqp=-oaymwFBCNACELwBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGGUgYSg1MA8=&rs=AOn4CLCmoEXlSJkJ70gGGlS5CFfe4TM43w",
+   "title": "Thursday, Plague update",
+   "published_date": "5 hours ago",
+   "views": "213K views",
+   "extracted_views": 213000,
+   "length": "26:35",
+   "channel": {
+    "name": "Dr. John Campbell",
+    "link": "https://www.youtube.com/@Campbellteaching"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SCzJ3aElKZ2hFZV9jGAYyJSIRIgsyd2hJSmdoRWVfYzAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SCzJ3aElKZ2hFZV9jGAYyOCIRIgsyd2hJSmdoRWVfYzAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SCzJ3aElKZ2hFZV9jGAYyOCIRIgsyd2hJSmdoRWVfYzABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=2whIJghEe_c"
+ },
+ "_fetched_at": "2026-10-08T15:58:36"
+}

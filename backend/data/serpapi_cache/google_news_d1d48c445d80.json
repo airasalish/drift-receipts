@@ -1,0 +1,182 @@
+{
+ "search_metadata": {
+  "id": "6ac9f770207037910cc25ec0",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Vr5TR2Fipl2MZMzCfhvM4JrMpj21iPz423QE8Eo413w/6ac9f770207037910cc25ec0.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Vr5TR2Fipl2MZMzCfhvM4JrMpj21iPz423QE8Eo413w/6ac9f770207037910cc25ec0.md",
+  "created_at": "2026-10-10 08:29:36 UTC",
+  "processed_at": "2026-10-10 08:29:36 UTC",
+  "google_news_url": "https://news.google.com/search?q=%22Akshat+Shrivastava%22+SEBI&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/Vr5TR2Fipl2MZMzCfhvM4JrMpj21iPz423QE8Eo413w/6ac9f770207037910cc25ec0.html",
+  "total_time_taken": 0.49
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Akshat Shrivastava\" SEBI"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "SEBI cracks down on unregistered finfluencers, but loopholes remain",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mansi Jaswal"
+    ]
+   },
+   "link": "https://www.storyboard18.com/special-coverage/sebi-cracks-down-on-unregistered-finfluencers-but-loopholes-remain-37890.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2024/07/WhatsApp-Image-2024-07-26-at-12.27.08-2024-07-0c4dc3cb74403411cc4d477267c087ff-1019x573.jpeg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZkRkpXZFhKcldtTjNZemhqVFJEOEFoaWpCU2dLTWdrQlFKcGlKR21LRGdJ",
+   "date": "07/26/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-07-26T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Lost money to finfluencers’ advice? All that glitters is not gold, here's how to steer clear of non-credib",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Yasmin Hussain"
+    ]
+   },
+   "link": "https://m.economictimes.com/wealth/invest/lost-money-to-finfluencers-advice-all-that-glitters-is-not-gold-heres-how-to-steer-clear-of-non-credible-financial-advice/articleshow/121372979.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-121380232,width-1200,height-900,resizemode-4,imgsize-18036/finfluencers.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNTbU56WjJkVGQxOVhRa0Y0VFJEZ0F4aUFCU2dLTWdrVllveG9MU2RNa2dF",
+   "date": "05/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-26T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "'Hope SEBI cracks down on such finfluencers': Akshat Shrivastava gets trolled for '1.2% yield' tweet on Statue of Unity",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/top-story/story/hope-sebi-cracks-down-on-such-finfluencers-akshat-shrivastava-gets-trolled-for-12-yield-tweet-on-statue-of-unity-385117-2023-06-11",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/untitled_design_-_2023-06-11t145123-sixteen_nine_0.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVjVXRPYm5wZlVtNTFNR3BCVFJDZkF4ampCU2dLTWdZRk02RGxHZ28",
+   "date": "06/11/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-06-11T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "SEBI paper hits at 'Finfluencer' menace",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/investing/sebi-paper-hits-at-finfluencer-menace/113969",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2023-09/47aa70d1-4e7f-4d3a-871a-75dfc16b6c97/gettyimages_816131778_594x594.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNXWEU1YkVWdGJWQXlZVkF6VFJDZkF4ampCU2dLTWdB",
+   "date": "09/04/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-09-04T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Can SEBI Clear The Murky Waters Of Finfluencers In India?",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Suprita Anupam"
+    ]
+   },
+   "link": "https://inc42.com/features/can-sebi-clear-the-murky-waters-of-finfluencers-in-india/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2023/10/A-Deep-Dive-Into-The-Shady-Waters-ftr.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVOVXBGYjBONWNGaExXQzFRVFJEZ0F4aUFCU2dLTWdhQk1aekNIQW8",
+   "date": "10/16/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-10-16T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Menace of Finfluencers",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/long-reads/menace-of-finfluencers/113249",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2023-07/4a4bc782-91cb-4140-b031-ae69194e4e26/Fake_Finnancial_Guru__1.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlVR0Y0YWtGblNUbFdkRkpMVFJDZkF4ampCU2dLTWdZbEpKS3VtUWc",
+   "date": "07/04/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-07-04T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Rise Of The Finfluencers: Why Are They Under SEBI’s Lens?",
+   "source": {
+    "name": "ED Times",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://edtimes.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://edtimes.in/rise-of-the-finfluencers-why-are-they-under-sebis-lens/",
+   "thumbnail": "https://edtimes.in/wp-content/uploads/2022/12/jpg_20221219_202526_0000-min.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1NMFpYVkdsWk5ITnFOamhQVFJDLUF4aXZCU2dLTWdrVlFaYVhHQ3FpN0FF",
+   "date": "12/20/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-12-20T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Why Finfluencers shun Sebi registration",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fortuneindia.com/enterprise/why-finfluencers-shun-sebi-registration/113344",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2021-12/096e2709-3a3a-4ae7-b9af-8d7a4b2da61f/Sebi_IPO.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNXRkp0T1VsNWVHaExOa051VFJDZkF4ampCU2dLTWdZZGQ1QXFOZ1k",
+   "date": "07/12/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-07-12T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:29:35"
+}

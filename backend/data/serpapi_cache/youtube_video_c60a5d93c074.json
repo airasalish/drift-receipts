@@ -1,0 +1,721 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5c455ba65d30d36cb6f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/y4XYYwuH701gkemQWdJWqiVt0VMDtjruB0H8wZboqlI/6ac9f5c455ba65d30d36cb6f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/y4XYYwuH701gkemQWdJWqiVt0VMDtjruB0H8wZboqlI/6ac9f5c455ba65d30d36cb6f.md",
+  "created_at": "2026-10-10 08:22:28 UTC",
+  "processed_at": "2026-10-10 08:22:28 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=K0kRoSIisds",
+  "raw_html_file": "https://serpapi.com/searches/y4XYYwuH701gkemQWdJWqiVt0VMDtjruB0H8wZboqlI/6ac9f5c455ba65d30d36cb6f.html",
+  "prettify_html_file": "https://serpapi.com/searches/y4XYYwuH701gkemQWdJWqiVt0VMDtjruB0H8wZboqlI/6ac9f5c455ba65d30d36cb6f.prettify",
+  "total_time_taken": 0.99
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "K0kRoSIisds",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "How to Set Profit Target ? | SSC Episode-60 | Stock market for Beginners | sunilminglani.com",
+ "thumbnail": "https://i.ytimg.com/vi/K0kRoSIisds/maxresdefault.jpg",
+ "channel": {
+  "name": "Sunil Minglani",
+  "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@SunilMinglani",
+  "subscribers": "1.38M subscribers",
+  "extracted_subscribers": 1380000,
+  "verified": true
+ },
+ "views": "223,755 views",
+ "extracted_views": 223755,
+ "likes": "7.2K",
+ "extracted_likes": 7200,
+ "published_date": "Dec 18, 2019",
+ "description": {
+  "content": "To open a Demat account with Zerodha,  please register using the link below... \nhttps://zerodha.com/open-account?c=ZM... #SunilMinglani #StockMarketForBeginners #PsychologyMatters #SunilSirKiClass \r\nSunil Minglani understands human psychology not only in the context of stock markets but also believes that psychology can drive human behaviour and emotions. To satisfy his inner urge of giving back to the society and bring transformational change in society Mr Sunil Minglani has taken an initiative and designed a unique platform “Sunil Sir Ki Class” ( SSC )\r\n\r\nTo buy Online Technical Analysis Program For Beginners Or Special Calculator... Go To https://sunilminglani.com \r\nor\r\nFor Android / Apple Application ...Go to Google Play Store/iOS Store and search \"Sunil Minglani\" \r\nWatch Demo Video with the Below Link:\r\n   • ORIGINAL CLIP | No.1 Online Technical Anal...  \r\n\r\nTo JOIN our Channel Membership for Exclusive Offers, Click the link Below and join...\r\n   / @sunilminglani  \r\n\r\nClick the link below and join our Telegram Channel for latest updates :\r\nTelegram Link : https://t.me/sunilminglani\r\n\r\nStock market Basics for beginners in Hindi..\r\nIs it really difficult to make money in Stock Market.... or do we need to follow some rules ....FIND OUT ..... in my show \"Bazaar Bites\"...and try to find out Psychology of stock market\r\n  / thesunilminglani  \r\n  / sunilminglani  \r\n  / sunilminglani  \r\n\r\nWe have also started a new initiative called “ Valid Voice Talks”\r\nFor More info subscribe us     / vvtalks   and visit http://www.vvtalks.com ==================================================================\n\n================================================================== To open a Demat account with Zerodha,  please register using the link below... \nhttps://zerodha.com/open-account?c=ZM...",
+  "links": [
+   {
+    "start_index": 80,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPRLU"
+   },
+   {
+    "start_index": 121,
+    "length": 14,
+    "text": "#SunilMinglani",
+    "url": "https://www.youtube.com/hashtag/sunilminglani",
+    "type": "browse"
+   },
+   {
+    "start_index": 136,
+    "length": 24,
+    "text": "#StockMarketForBeginners",
+    "url": "https://www.youtube.com/hashtag/stockmarketforbeginners",
+    "type": "browse"
+   },
+   {
+    "start_index": 161,
+    "length": 18,
+    "text": "#PsychologyMatters",
+    "url": "https://www.youtube.com/hashtag/psychologymatters",
+    "type": "browse"
+   },
+   {
+    "start_index": 180,
+    "length": 16,
+    "text": "#SunilSirKiClass",
+    "url": "https://www.youtube.com/hashtag/sunilsirkiclass",
+    "type": "browse"
+   },
+   {
+    "start_index": 650,
+    "length": 25,
+    "text": "https://sunilminglani.com",
+    "url": "https://sunilminglani.com/"
+   },
+   {
+    "start_index": 820,
+    "length": 52,
+    "text": "   • ORIGINAL CLIP | No.1 Online Technical Anal...  ",
+    "url": "https://www.youtube.com/watch?v=qgoee9M91zs",
+    "type": "watch"
+   },
+   {
+    "start_index": 963,
+    "length": 21,
+    "text": "   / @sunilminglani  ",
+    "url": "https://www.youtube.com/channel/UCS8WLwuVszq1g2oeBzboUmQ/join"
+   },
+   {
+    "start_index": 1077,
+    "length": 26,
+    "text": "https://t.me/sunilminglani",
+    "url": "https://t.me/sunilminglani"
+   },
+   {
+    "start_index": 1340,
+    "length": 22,
+    "text": "  / thesunilminglani  ",
+    "url": "https://www.facebook.com/thesunilminglani"
+   },
+   {
+    "start_index": 1364,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.twitter.com/sunilminglani"
+   },
+   {
+    "start_index": 1385,
+    "length": 19,
+    "text": "  / sunilminglani  ",
+    "url": "https://www.instagram.com/sunilminglani"
+   },
+   {
+    "start_index": 1503,
+    "length": 14,
+    "text": "   / vvtalks  ",
+    "url": "https://www.youtube.com/vvtalks"
+   },
+   {
+    "start_index": 1528,
+    "length": 22,
+    "text": "http://www.vvtalks.com",
+    "url": "http://www.vvtalks.com/"
+   },
+   {
+    "start_index": 1766,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPRLU"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "TiTzcYF8GaU",
+   "link": "https://www.youtube.com/watch?v=TiTzcYF8GaU&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TiTzcYF8GaU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TiTzcYF8GaU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5DWYqnntXD9GGfdE5LTxTKjYy3Q",
+    "rich": "https://i.ytimg.com/an_webp/TiTzcYF8GaU/mqdefault_6s.webp?du=3000&sqp=CIjLp9YG&rs=AOn4CLCDltQWtHGjlhNQwBYnLyhR-4ihmg"
+   },
+   "title": "India's Biggest Problem ? | SSC Episode-61 | Stock market for Beginners | sunilminglani.com",
+   "published_date": "6y ago",
+   "views": "156K",
+   "extracted_views": 156000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "qbhJm_MPess",
+   "link": "https://www.youtube.com/watch?v=qbhJm_MPess",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qbhJm_MPess",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/qbhJm_MPess/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD94EycEApXpyj8QsIpbTMRMV5IfQ",
+    "rich": "https://i.ytimg.com/an_webp/qbhJm_MPess/mqdefault_6s.webp?du=3000&sqp=CKbpp9YG&rs=AOn4CLDSeYAyCYEUEGqSz1VebXc62L2joA"
+   },
+   "title": "This 9:18 AM Short Straddle Was Backtested for 5 Years",
+   "published_date": "7d ago",
+   "views": "33K",
+   "extracted_views": 33000,
+   "channel": {
+    "name": "Dhan ⚡",
+    "link": "https://www.youtube.com/@DhanHQ",
+    "thumbnail": "https://yt3.ggpht.com/EVUWXrbTdAkjL_DKy6_uzH4-Sd2fYxDZpO-zCo5IMVICFafLozv7FeIU-MZq3Q0x7RPouJodfqw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "Yr_QLNhYL4U",
+   "link": "https://www.youtube.com/watch?v=Yr_QLNhYL4U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Yr_QLNhYL4U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Yr_QLNhYL4U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1kP2YfRiMPNr_JjABMBEgCqKykw",
+    "rich": "https://i.ytimg.com/an_webp/Yr_QLNhYL4U/mqdefault_6s.webp?du=3000&sqp=CNnFp9YG&rs=AOn4CLB2FC_qj079B9O-rsPOwCUg75PiHQ"
+   },
+   "title": "What I Did to Become a MILLIONAIRE in Trading (Revealed)",
+   "published_date": "1y ago",
+   "views": "1.5M",
+   "extracted_views": 1500000,
+   "channel": {
+    "name": "Market Pulse App",
+    "link": "https://www.youtube.com/@marketpulseapp",
+    "thumbnail": "https://yt3.ggpht.com/ydwebIjABn7hTv8NLtQI57xeVCQyAb3ogX7m00TNrcGFuotyfd3-LPhX4cmSwzgGEGXsdQTZPQ=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "Vti2rxFWCn8",
+   "link": "https://www.youtube.com/watch?v=Vti2rxFWCn8&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vti2rxFWCn8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Vti2rxFWCn8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCCORlVxAPyMoIRxZI29SP4Oo2ig",
+    "rich": "https://i.ytimg.com/an_webp/Vti2rxFWCn8/mqdefault_6s.webp?du=3000&sqp=CLzDp9YG&rs=AOn4CLAgUthMbTVqwt0XIPSbFGIVP4BkcA"
+   },
+   "title": "How to Master Swing Trading? Spot the Right Swing Trades! | Kunal Saraogi | Geetu Moza",
+   "published_date": "1y ago",
+   "views": "543K",
+   "extracted_views": 543000,
+   "channel": {
+    "name": "Jagran Business",
+    "link": "https://www.youtube.com/@jagranbusiness",
+    "thumbnail": "https://yt3.ggpht.com/bbRcCAag9x5Pq4fLaCwz0u8wCsJbI-bcZ3qZaa4ryTV2M4nivomgiQEmqKOcNviNeQHqPAmW7g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "pG_kH1TbT6w",
+   "link": "https://www.youtube.com/watch?v=pG_kH1TbT6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pG_kH1TbT6w",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pG_kH1TbT6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBiRMA4zcuWyyjqS6t3bC499J_uKw",
+    "rich": "https://i.ytimg.com/an_webp/pG_kH1TbT6w/mqdefault_6s.webp?du=3000&sqp=CNS3p9YG&rs=AOn4CLCtBUxBz51Ousq2NeQ11izGKnrQ6g"
+   },
+   "title": "PERFECT Entry, Stoploss and Target MASTERCLASS in Options Trading | Trading in Share Market",
+   "published_date": "2y ago",
+   "views": "1.6M",
+   "extracted_views": 1600000,
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "HPgPkLfqhhc",
+   "link": "https://www.youtube.com/watch?v=HPgPkLfqhhc&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HPgPkLfqhhc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HPgPkLfqhhc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiUPSeWFM1_nJ_07myI9aS0nXCfA",
+    "rich": "https://i.ytimg.com/an_webp/HPgPkLfqhhc/mqdefault_6s.webp?du=3000&sqp=COPPp9YG&rs=AOn4CLAZr07R5JzAxLUIhzn-hGrsxBWZ1A"
+   },
+   "title": "When to book profits? |  How to book profits? |  Profit Booking Strategies | CA Rachana Ranade",
+   "published_date": "3y ago",
+   "views": "407K",
+   "extracted_views": 407000,
+   "channel": {
+    "name": "CA Rachana Phadke Ranade",
+    "link": "https://www.youtube.com/@CARachanaRanade",
+    "thumbnail": "https://yt3.ggpht.com/PGNAw6xUxZZzey0iRrixLpSrT3k55kia0fDK_7VTdjnRbBzwUkjmla6clurSihfbi8FtTKB6SQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "OzCNuqUtHZg",
+   "link": "https://www.youtube.com/watch?v=OzCNuqUtHZg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OzCNuqUtHZg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OzCNuqUtHZg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdp-aHBvac1jV0NVV0lK7_yDYHWA",
+    "rich": "https://i.ytimg.com/an_webp/OzCNuqUtHZg/mqdefault_6s.webp?du=3000&sqp=CPjhp9YG&rs=AOn4CLA0Ru1MOpgED_eRQV-YVLuTOe_6ZA"
+   },
+   "title": "AMERICANS CELEBRATE CRASH OF INDIAN STOCK MARKET | So Much Hate For Bharat? | By Prashant Dhawan",
+   "published_date": "23h ago",
+   "views": "921K",
+   "extracted_views": 921000,
+   "channel": {
+    "name": "Adda247 Skills",
+    "link": "https://www.youtube.com/@adda247-skills",
+    "thumbnail": "https://yt3.ggpht.com/j68Hr1NtrD4LLjZgfO_4An4CFJgUlJeLj4NZATFCWePPH5oWlr-Q0xgODZ9R7qZ7mehbRRJ9=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "HmZrOP4QTjM",
+   "link": "https://www.youtube.com/watch?v=HmZrOP4QTjM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HmZrOP4QTjM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HmZrOP4QTjM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBq87GbNGP8GrQkIG2N45--kn7MrA",
+    "rich": "https://i.ytimg.com/an_webp/HmZrOP4QTjM/mqdefault_6s.webp?du=3000&sqp=CJ3Wp9YG&rs=AOn4CLBfWwMb-HmoSfz9CifZsM5Uhul8NQ"
+   },
+   "title": "How SIP Can Change Your Life | Podcast | ft. Vikash Wadekar, Business Head - Axis AMC",
+   "published_date": "1y ago",
+   "views": "53K",
+   "extracted_views": 53000,
+   "channel": {
+    "name": "Investing with Dhan",
+    "link": "https://www.youtube.com/@InvestingwithDhan",
+    "thumbnail": "https://yt3.ggpht.com/jr-18wRvyyBnnJvSr8p7lBKwwxT2hSyTqa-ZXnVGL-qAzSusbHo_mNyfWlNcs9xlOrAc17q2kA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw",
+    "rich": "https://i.ytimg.com/an_webp/iVMRAOSB96c/mqdefault_6s.webp?du=3000&sqp=CPvRp9YG&rs=AOn4CLD3lkfFA1XEMRUeTjUZ14qtosMXhg"
+   },
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1mo ago",
+   "views": "450K",
+   "extracted_views": 450000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "YvxpnPOBMzY",
+   "link": "https://www.youtube.com/watch?v=YvxpnPOBMzY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YvxpnPOBMzY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YvxpnPOBMzY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpAulr8Lj_U-O9rUL3wFw4jGIyAA",
+    "rich": "https://i.ytimg.com/an_webp/YvxpnPOBMzY/mqdefault_6s.webp?du=3000&sqp=CO7Vp9YG&rs=AOn4CLCwSe9OMfQGbNem58se6CM0hps6pw"
+   },
+   "title": "Awaaz Adda: शेयर बाजार में डर का माहौल, Bulls के लिए सबसे बड़ा खतरा क्या? | Market Under Pressure",
+   "published_date": "15h ago",
+   "views": "13K",
+   "extracted_views": 13000,
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz",
+    "thumbnail": "https://yt3.ggpht.com/WtM9ZMpGO79fza5Bd0A51JOjsm6rX6_aNMZdw6m1hTv8viMWJo5nvHzWxHg8auRkelGPkCDHCSw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "F5lvsdqy2SA",
+   "link": "https://www.youtube.com/watch?v=F5lvsdqy2SA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F5lvsdqy2SA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/F5lvsdqy2SA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACXFv3p-1ALaEmIIGynwTjgPpOGQ",
+    "rich": "https://i.ytimg.com/an_webp/F5lvsdqy2SA/mqdefault_6s.webp?du=3000&sqp=CODVp9YG&rs=AOn4CLC5sriMrt5Y7rdCo3kNs5I8ObIgKQ"
+   },
+   "title": "A Unique Quality of Super Traders ? | ये गुण सीख लिया तो बन जायेंगे असली ट्रेडर | Ep-91",
+   "published_date": "8y ago",
+   "views": "569K",
+   "extracted_views": 569000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Y3kzzE9Elns",
+   "link": "https://www.youtube.com/watch?v=Y3kzzE9Elns",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y3kzzE9Elns",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Y3kzzE9Elns/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCNoWvM_82AYJUh914jsF9P8TjXpA",
+    "rich": "https://i.ytimg.com/an_webp/Y3kzzE9Elns/mqdefault_6s.webp?du=3000&sqp=CPO-p9YG&rs=AOn4CLDmCHsLm9sgvmWQyYcCzLuUlSQmYw"
+   },
+   "title": "The Ultimate Stock Market Course | Beginner to Pro Fundamental & Technical Shares Analysis",
+   "published_date": "2y ago",
+   "views": "2.7M",
+   "extracted_views": 2700000,
+   "channel": {
+    "name": "CIVIL BEINGS",
+    "link": "https://www.youtube.com/@civilbeings",
+    "thumbnail": "https://yt3.ggpht.com/Nx0L4ED2EgPRhNyiFVRZ9txBp436bODwP__GUlgIBW7z1waKU5bJofenPt_rvGDUIwby2dhQ2xs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "32_r1LlahCs",
+   "link": "https://www.youtube.com/watch?v=32_r1LlahCs",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=32_r1LlahCs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/32_r1LlahCs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACT7ucXZ0v7QWrVTq_w8TJD-xxMw",
+    "rich": "https://i.ytimg.com/an_webp/32_r1LlahCs/mqdefault_6s.webp?du=3000&sqp=CPe4p9YG&rs=AOn4CLA5HHaLwGiKUct0HCnK1fzPzLzIKQ"
+   },
+   "title": "Sanjay Sinha Stocks Picks | बाजार में गिरावट कहां करें निवेश? | बाजार में आगे क्या होगा?",
+   "published_date": "3h ago",
+   "views": "1.2K",
+   "extracted_views": 1200,
+   "channel": {
+    "name": "shreyawithnews",
+    "link": "https://www.youtube.com/@shreyawithnews",
+    "thumbnail": "https://yt3.ggpht.com/Yhmv3VSzrzMZzQ-a7XY5VlzmSwyyY6v9p56g9lSyWABM8wFrg6gpj3vdbuylDdQuRP_Ghn6Q2A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "qx6BQ2m_azY",
+   "link": "https://www.youtube.com/watch?v=qx6BQ2m_azY&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qx6BQ2m_azY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/qx6BQ2m_azY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCRN1zY2oHUT3M7KAdQm6PC-8x3LA",
+    "rich": "https://i.ytimg.com/an_webp/qx6BQ2m_azY/mqdefault_6s.webp?du=3000&sqp=CIbJp9YG&rs=AOn4CLCmERgyiA5TV1uC-JZGFEr0Y5iHQA"
+   },
+   "title": "What 40 Years in the Stock Market Taught Him | Story of Titan, MRF & Hindustan Zinc | Basant Baheti",
+   "published_date": "5mo ago",
+   "views": "1.2M",
+   "extracted_views": 1200000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "rnJ-0sGOXDk",
+   "link": "https://www.youtube.com/watch?v=rnJ-0sGOXDk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rnJ-0sGOXDk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rnJ-0sGOXDk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAb0rx-ZRTgjRLEEVpSbH9HxlT-rg"
+   },
+   "title": "When to book profits? | How to book profits? | Profit Booking Strategies | Trade With Books",
+   "published_date": "1y ago",
+   "views": "26K",
+   "extracted_views": 26000,
+   "channel": {
+    "name": "Vikas Agrawal | Trader & Investor",
+    "link": "https://www.youtube.com/@tradewithbooks",
+    "thumbnail": "https://yt3.ggpht.com/kvpdugE5-sibPJGydw274uyIs9QUYSnyF3YfKI-ft50ACrUFGuMoG_y4LOmeafbymKk49QUfiQ=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "rd7f4oZDLgU",
+   "link": "https://www.youtube.com/watch?v=rd7f4oZDLgU&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rd7f4oZDLgU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rd7f4oZDLgU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDOsXNH8Zh55DcDryx4-ugzbtlM3g",
+    "rich": "https://i.ytimg.com/an_webp/rd7f4oZDLgU/mqdefault_6s.webp?du=3000&sqp=CLXWp9YG&rs=AOn4CLCRj3bJppbIgysbV8nR-szCEkmhuw"
+   },
+   "title": "A Biggest Secret 🎭| Psychology Matters | Stock Market for Beginners",
+   "published_date": "4y ago",
+   "views": "443K",
+   "extracted_views": 443000,
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani",
+    "thumbnail": "https://yt3.ggpht.com/2oD12GSBEwap0ZBqbMvNsLe5ylkl5twZR8_EN7scxr-KB7CM7UIZGBKCdRaA32oDbRFAe6kR=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "Btu9PNEBiiA",
+   "link": "https://www.youtube.com/watch?v=Btu9PNEBiiA&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Btu9PNEBiiA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Btu9PNEBiiA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDMdpCNuDdI8bnZiYTC_3F8QO4ngg",
+    "rich": "https://i.ytimg.com/an_webp/Btu9PNEBiiA/mqdefault_6s.webp?du=3000&sqp=CMDPp9YG&rs=AOn4CLB1rVxu9soeCPDllSt5BVF784380A"
+   },
+   "title": "11 Techniques to Book Profit in Stock Market - Part 1 (Hindi)",
+   "published_date": "7y ago",
+   "views": "98K",
+   "extracted_views": 98000,
+   "channel": {
+    "name": "Nitin Bhatia",
+    "link": "https://www.youtube.com/@NitinBhatia",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_lBo6HtFZEV-lta-4GllNamC3uzGsvj0kgDEx7mnCyByj4=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "GAr-2Cw4LIQ",
+   "link": "https://www.youtube.com/watch?v=GAr-2Cw4LIQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GAr-2Cw4LIQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GAr-2Cw4LIQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_W4yUu4YRq5bUtYWL3gyEj7Pn0A",
+    "rich": "https://i.ytimg.com/an_webp/GAr-2Cw4LIQ/mqdefault_6s.webp?du=3000&sqp=CMDNp9YG&rs=AOn4CLBLmYGhIQwyduMh57iCLuP1VfLDvA"
+   },
+   "title": "The 9:15 AM Options Strategy (Stupid, Simple and Proven) | Ft. Rajesh Jain",
+   "published_date": "2mo ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club",
+    "thumbnail": "https://yt3.ggpht.com/lCs-2XaS_unNd0HRQL6Vxi1bdl4tboIKSed47SrokUIaDveBeKSGyARay_hRKvb9SpsPZDmwdQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "rGpqP5B89vk",
+   "link": "https://www.youtube.com/watch?v=rGpqP5B89vk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rGpqP5B89vk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rGpqP5B89vk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvT521j7YHV2j8Hh-WjHAgZ0uNKg",
+    "rich": "https://i.ytimg.com/an_webp/rGpqP5B89vk/mqdefault_6s.webp?du=3000&sqp=CKfbp9YG&rs=AOn4CLD3Kij7uCOiNnWSCMbHDrFMYAacbA"
+   },
+   "title": "Weekly Market Outlook on - Nifty, BankNifty, Sectors, OCD, PCR for the week starting 12th Oct 26.",
+   "published_date": "4h ago",
+   "views": "1.4K",
+   "extracted_views": 1400,
+   "channel": {
+    "name": "Dr. Kiran Jadhav",
+    "link": "https://www.youtube.com/@kiranjadhav6890",
+    "thumbnail": "https://yt3.ggpht.com/NKmszlsKBdqDWeMQsjtYDfDKuC10zfXG0SXhTq-KMMflGgyCek2fgJGi66RJDD_1bz8YPA9zog=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILSzBrUm9TSWlzZHPAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmgZNZ3NJLWUzemdfbkhtcldzQWRyT2ktc012d1FLdkFRS0FfSS1BQW9Od2o0S0NLV3o4SXVZN3J5U1Rnb0Q4ajRBQ2c3Q1Bnc0l5X1c5bUwtemt0eXBBUW9EOGo0QUNnM0NQZ29JaGRfZ3dzMkY5TjlpQ2dQeVBnQUtEY0ktQ2dqX2xOaUs4ZFd0N0ZZS0FfSS1BQW9Pd2o0TENLeWY3YWIxZ19tM3BBRUtBX0ktQUFvTndqNEtDSmVNcXItTDhvUDhIQW9EOGo0QUNnM0NQZ29JOU43QjJyMmUyZVpkQ2dQeVBnQUtEY0ktQ2dpWXU3U3BxcmVqbURzS0FfSS1BQW9Od2o0S0NMT2N3ZkNQNTVxekhnb0Q4ajRBQ2c3Q1Bnc0lwLS1IcEk2Z3hLbUpBUW9EOGo0QUNnM0NQZ29JdHVhRW5NLXptdjVpQ2dQeVBnQUtEY0ktQ2dpZ3NzdlZuZmJiekJjS0FfSS1BQW9Od2o0S0NQdXNrdnJFLWN5OFl3b0Q4ajRBQ2c3Q1Bnc0lxNGpxeXN2Ni1yZmZBUW9EOGo0QUNnN0NQZ3NJdHRiOXpiYW9vSS1yQVFvRDhqNEFDZzdDUGdzSXViaTVqS3phbjdtdUFRb0Q4ajRBQ2c3Q1Bnc0loZHlNc3FqOHQtLXRBUW9EOGo0QUNnM0NQZ29Jb0pTR2lNMm43LTBHQ2dQeVBnQUtEY0ktQ2dpRTJlRGhndHVfaFJnS0FfSS1BQW9Pd2o0TENQbnQ4NFA1eDVxMXJBRVNGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtR2dRSUFCQUJHZ1FJQWhBREdnUUlCQkFGR2dRSUJoQUhHZ1FJQ0JBSkdnUUlDaEFMR2dRSURCQU5HZ1FJRGhBUEdnUUlFQkFSR2dRSUVoQVRHZ1FJRkJBVkdnUUlGaEFYR2dRSUdCQVpHZ1FJR2hBYkdnUUlIQkFkR2dRSUhoQWZHZ1FJSUJBaEdnUUlJaEFqR2dRSUpCQWxHZ1FJSmhBbktoUUFBZ1FHQ0FvTURoQVNGQllZR2h3ZUlDSWtKZ2oPd2F0Y2gtbmV4dC1mZWVk",
+ "end_screen_videos": [
+  {
+   "video_id": "TiTzcYF8GaU",
+   "link": "https://www.youtube.com/watch?v=TiTzcYF8GaU&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TiTzcYF8GaU",
+   "thumbnail": "https://i.ytimg.com/vi/TiTzcYF8GaU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC5DWYqnntXD9GGfdE5LTxTKjYy3Q",
+   "title": "India's Biggest Problem ? | SSC Episode-61 | Stock market for Beginners | sunilminglani.com",
+   "published_date": "6 years ago",
+   "views": "156K views",
+   "extracted_views": 156000,
+   "length": "19:32",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  },
+  {
+   "video_id": "qbhJm_MPess",
+   "link": "https://www.youtube.com/watch?v=qbhJm_MPess",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=qbhJm_MPess",
+   "thumbnail": "https://i.ytimg.com/vi/qbhJm_MPess/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD94EycEApXpyj8QsIpbTMRMV5IfQ",
+   "title": "This 9:18 AM Short Straddle Was Backtested for 5 Years",
+   "published_date": "7 days ago",
+   "views": "33K views",
+   "extracted_views": 33000,
+   "length": "34:20",
+   "channel": {
+    "name": "Dhan ⚡",
+    "link": "https://www.youtube.com/@DhanHQ"
+   }
+  },
+  {
+   "video_id": "Yr_QLNhYL4U",
+   "link": "https://www.youtube.com/watch?v=Yr_QLNhYL4U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Yr_QLNhYL4U",
+   "thumbnail": "https://i.ytimg.com/vi/Yr_QLNhYL4U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1kP2YfRiMPNr_JjABMBEgCqKykw",
+   "title": "What I Did to Become a MILLIONAIRE in Trading (Revealed)",
+   "published_date": "1 year ago",
+   "views": "1.5M views",
+   "extracted_views": 1500000,
+   "length": "1:29:21",
+   "channel": {
+    "name": "Market Pulse App",
+    "link": "https://www.youtube.com/@marketpulseapp"
+   }
+  },
+  {
+   "video_id": "Vti2rxFWCn8",
+   "link": "https://www.youtube.com/watch?v=Vti2rxFWCn8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Vti2rxFWCn8",
+   "thumbnail": "https://i.ytimg.com/vi/Vti2rxFWCn8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCCORlVxAPyMoIRxZI29SP4Oo2ig",
+   "title": "How to Master Swing Trading? Spot the Right Swing Trades! | Kunal Saraogi | Geetu Moza",
+   "published_date": "1 year ago",
+   "views": "543K views",
+   "extracted_views": 543000,
+   "length": "45:05",
+   "channel": {
+    "name": "Jagran Business",
+    "link": "https://www.youtube.com/@jagranbusiness"
+   }
+  },
+  {
+   "video_id": "pG_kH1TbT6w",
+   "link": "https://www.youtube.com/watch?v=pG_kH1TbT6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pG_kH1TbT6w",
+   "thumbnail": "https://i.ytimg.com/vi/pG_kH1TbT6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBiRMA4zcuWyyjqS6t3bC499J_uKw",
+   "title": "PERFECT Entry, Stoploss and Target MASTERCLASS in Options Trading | Trading in Share Market",
+   "published_date": "2 years ago",
+   "views": "1.6M views",
+   "extracted_views": 1600000,
+   "length": "16:37",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   }
+  },
+  {
+   "video_id": "HPgPkLfqhhc",
+   "link": "https://www.youtube.com/watch?v=HPgPkLfqhhc&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HPgPkLfqhhc",
+   "thumbnail": "https://i.ytimg.com/vi/HPgPkLfqhhc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAiUPSeWFM1_nJ_07myI9aS0nXCfA",
+   "title": "When to book profits? |  How to book profits? |  Profit Booking Strategies | CA Rachana Ranade",
+   "published_date": "3 years ago",
+   "views": "407K views",
+   "extracted_views": 407000,
+   "length": "15:14",
+   "channel": {
+    "name": "CA Rachana Phadke Ranade",
+    "link": "https://www.youtube.com/@CARachanaRanade"
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q",
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20 hours ago",
+   "views": "5K views",
+   "extracted_views": 5000,
+   "length": "57:18",
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund"
+   }
+  },
+  {
+   "video_id": "OzCNuqUtHZg",
+   "link": "https://www.youtube.com/watch?v=OzCNuqUtHZg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OzCNuqUtHZg",
+   "thumbnail": "https://i.ytimg.com/vi/OzCNuqUtHZg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDdp-aHBvac1jV0NVV0lK7_yDYHWA",
+   "title": "AMERICANS CELEBRATE CRASH OF INDIAN STOCK MARKET | So Much Hate For Bharat? | By Prashant Dhawan",
+   "published_date": "23 hours ago",
+   "views": "921K views",
+   "extracted_views": 921000,
+   "length": "12:27",
+   "channel": {
+    "name": "Adda247 Skills",
+    "link": "https://www.youtube.com/@adda247-skills"
+   }
+  },
+  {
+   "video_id": "HmZrOP4QTjM",
+   "link": "https://www.youtube.com/watch?v=HmZrOP4QTjM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HmZrOP4QTjM",
+   "thumbnail": "https://i.ytimg.com/vi/HmZrOP4QTjM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBq87GbNGP8GrQkIG2N45--kn7MrA",
+   "title": "How SIP Can Change Your Life | Podcast | ft. Vikash Wadekar, Business Head - Axis AMC",
+   "published_date": "1 year ago",
+   "views": "53K views",
+   "extracted_views": 53000,
+   "length": "55:04",
+   "channel": {
+    "name": "Investing with Dhan",
+    "link": "https://www.youtube.com/@InvestingwithDhan"
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw",
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1 month ago",
+   "views": "450K views",
+   "extracted_views": 450000,
+   "length": "1:01:48",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "YvxpnPOBMzY",
+   "link": "https://www.youtube.com/watch?v=YvxpnPOBMzY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YvxpnPOBMzY",
+   "thumbnail": "https://i.ytimg.com/vi/YvxpnPOBMzY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBpAulr8Lj_U-O9rUL3wFw4jGIyAA",
+   "title": "Awaaz Adda: शेयर बाजार में डर का माहौल, Bulls के लिए सबसे बड़ा खतरा क्या? | Market Under Pressure",
+   "published_date": "15 hours ago",
+   "views": "13K views",
+   "extracted_views": 13000,
+   "length": "54:39",
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz"
+   }
+  },
+  {
+   "video_id": "F5lvsdqy2SA",
+   "link": "https://www.youtube.com/watch?v=F5lvsdqy2SA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=F5lvsdqy2SA",
+   "thumbnail": "https://i.ytimg.com/vi/F5lvsdqy2SA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLACXFv3p-1ALaEmIIGynwTjgPpOGQ",
+   "title": "A Unique Quality of Super Traders ? | ये गुण सीख लिया तो बन जायेंगे असली ट्रेडर | Ep-91",
+   "published_date": "8 years ago",
+   "views": "569K views",
+   "extracted_views": 569000,
+   "length": "12:51",
+   "channel": {
+    "name": "Sunil Minglani",
+    "link": "https://www.youtube.com/@SunilMinglani"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC0swa1JvU0lpc2RzGAYyJSIRIgtLMGtSb1NJaXNkczAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC0swa1JvU0lpc2RzGAYyOCIRIgtLMGtSb1NJaXNkczAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC0swa1JvU0lpc2RzGAYyOCIRIgtLMGtSb1NJaXNkczABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:22:27"
+}

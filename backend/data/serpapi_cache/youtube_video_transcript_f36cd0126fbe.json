@@ -1,0 +1,2809 @@
+{
+ "search_metadata": {
+  "id": "6ac9f6acec900dc7a4692f61",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/8S9UxQFtohz5ap47Z88X669V_Xn0sGD8lrPlKSRTaaQ/6ac9f6acec900dc7a4692f61.json",
+  "markdown_endpoint": "https://serpapi.com/searches/8S9UxQFtohz5ap47Z88X669V_Xn0sGD8lrPlKSRTaaQ/6ac9f6acec900dc7a4692f61.md",
+  "created_at": "2026-10-10 08:26:20 UTC",
+  "processed_at": "2026-10-10 08:26:20 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+  "raw_html_file": "https://serpapi.com/searches/8S9UxQFtohz5ap47Z88X669V_Xn0sGD8lrPlKSRTaaQ/6ac9f6acec900dc7a4692f61.html",
+  "prettify_html_file": "https://serpapi.com/searches/8S9UxQFtohz5ap47Z88X669V_Xn0sGD8lrPlKSRTaaQ/6ac9f6acec900dc7a4692f61.prettify",
+  "total_time_taken": 11.12
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "nD26pvHvbo4",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 3274,
+   "end_ms": 9840,
+   "snippet": "[snorts] Hi everyone. I hope you can see me, hear",
+   "start_time_text": "0:03",
+   "start_time_label": "0:03"
+  },
+  {
+   "start_ms": 9840,
+   "end_ms": 15599,
+   "snippet": "me and I'll just do a very quick tech check with my team that if they are able",
+   "start_time_text": "0:09",
+   "start_time_label": "0:09"
+  },
+  {
+   "start_ms": 15599,
+   "end_ms": 21279,
+   "snippet": "to hear me, see me and then I will u start speaking about the topics that I",
+   "start_time_text": "0:15",
+   "start_time_label": "0:15"
+  },
+  {
+   "start_ms": 21279,
+   "end_ms": 26760,
+   "snippet": "would like to cover on this quick chat. Okay.",
+   "start_time_text": "0:21",
+   "start_time_label": "0:21"
+  },
+  {
+   "start_ms": 26960,
+   "end_ms": 33760,
+   "snippet": "Okay. Yeah. All right. So it works. Yeah. Okay. Awesome. So guys uh first and",
+   "start_time_text": "0:26",
+   "start_time_label": "0:26"
+  },
+  {
+   "start_ms": 33760,
+   "end_ms": 40480,
+   "snippet": "foremost right uh before jumping into uh the topic right I mean I have been posting like about my portfolio",
+   "start_time_text": "0:33",
+   "start_time_label": "0:33"
+  },
+  {
+   "start_ms": 40480,
+   "end_ms": 47039,
+   "snippet": "performance good and bad. For example there was a day when meta corrected by 8%. I came on Twitter I explained what",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 47039,
+   "end_ms": 54320,
+   "snippet": "I'm doing going to do with meta as well on my communities also I explained it. Uh I bought meta that that day right and",
+   "start_time_text": "0:47",
+   "start_time_label": "0:47"
+  },
+  {
+   "start_ms": 54320,
+   "end_ms": 60320,
+   "snippet": "uh I'll show you the proof also right. Uh so a natural question comes that you know what okay uh two points right why",
+   "start_time_text": "0:54",
+   "start_time_label": "0:54"
+  },
+  {
+   "start_ms": 60320,
+   "end_ms": 65360,
+   "snippet": "are you doing it right u uh what is the goal that you're trying to achieve and",
+   "start_time_text": "1:00",
+   "start_time_label": "1:00"
+  },
+  {
+   "start_ms": 65360,
+   "end_ms": 71520,
+   "snippet": "uh are your screenshots even real right so this is my interactive broking account right I don't know if you can see this I'm just toggling between",
+   "start_time_text": "1:05",
+   "start_time_label": "1:05"
+  },
+  {
+   "start_ms": 71520,
+   "end_ms": 77360,
+   "snippet": "different tabs u so this is not like some screenshot that I'm sharing with you I have hidden my personal details",
+   "start_time_text": "1:11",
+   "start_time_label": "1:11"
+  },
+  {
+   "start_ms": 77360,
+   "end_ms": 82479,
+   "snippet": "because I don't want to reveal my account number if you look at my tweet",
+   "start_time_text": "1:17",
+   "start_time_label": "1:17"
+  },
+  {
+   "start_ms": 82479,
+   "end_ms": 90159,
+   "snippet": "I've covered this right so this is a $4.162 u million ion dollar account right you can see this here and um uh this is the",
+   "start_time_text": "1:22",
+   "start_time_label": "1:22"
+  },
+  {
+   "start_ms": 90159,
+   "end_ms": 96159,
+   "snippet": "same like you know sort of line patterns that you can see this is the live dashboard of IB right and here is my",
+   "start_time_text": "1:30",
+   "start_time_label": "1:30"
+  },
+  {
+   "start_ms": 96159,
+   "end_ms": 102240,
+   "snippet": "performance okay so this is my all-time performance I actually started a portfolio in 2025 right uh since then I",
+   "start_time_text": "1:36",
+   "start_time_label": "1:36"
+  },
+  {
+   "start_ms": 102240,
+   "end_ms": 110079,
+   "snippet": "have outperformed uh NASDAQ by a lot okay and last one year the my um keger",
+   "start_time_text": "1:42",
+   "start_time_label": "1:42"
+  },
+  {
+   "start_ms": 110079,
+   "end_ms": 116640,
+   "snippet": "has been uh close to 44 45% compared to NASDAQ 20% right and these These are",
+   "start_time_text": "1:50",
+   "start_time_label": "1:50"
+  },
+  {
+   "start_ms": 116640,
+   "end_ms": 121920,
+   "snippet": "this is a dashboard. So this is not like some screenshot that I'm sharing with you. Okay. So I hope my team was able to",
+   "start_time_text": "1:56",
+   "start_time_label": "1:56"
+  },
+  {
+   "start_ms": 121920,
+   "end_ms": 128560,
+   "snippet": "capture it right. So this kind of works. Uh so okay so this is one right and this is IVAR. This is a standard dashboard.",
+   "start_time_text": "2:01",
+   "start_time_label": "2:01"
+  },
+  {
+   "start_ms": 128560,
+   "end_ms": 134400,
+   "snippet": "Run it through AI run it through whatever you like test it. Okay. So this is part one right about uh revealing",
+   "start_time_text": "2:08",
+   "start_time_label": "2:08"
+  },
+  {
+   "start_ms": 134400,
+   "end_ms": 139440,
+   "snippet": "performance. Now comes natural question why are you doing it? Once I explain this then I will explain you the agenda",
+   "start_time_text": "2:14",
+   "start_time_label": "2:14"
+  },
+  {
+   "start_ms": 139440,
+   "end_ms": 146560,
+   "snippet": "of this call. Okay. See guys, I mean uh you know I mean if you look at the American markets um or any international",
+   "start_time_text": "2:19",
+   "start_time_label": "2:19"
+  },
+  {
+   "start_ms": 146560,
+   "end_ms": 152160,
+   "snippet": "market um you would want to learn from people who are performing well. Okay,",
+   "start_time_text": "2:26",
+   "start_time_label": "2:26"
+  },
+  {
+   "start_ms": 152160,
+   "end_ms": 157920,
+   "snippet": "this is like one genuine thing that is there, right? If you look at the American stock market discourse on",
+   "start_time_text": "2:32",
+   "start_time_label": "2:32"
+  },
+  {
+   "start_ms": 157920,
+   "end_ms": 163280,
+   "snippet": "Twitter, any platform, right? Uh good investors come, they share like their",
+   "start_time_text": "2:37",
+   "start_time_label": "2:37"
+  },
+  {
+   "start_ms": 163280,
+   "end_ms": 168959,
+   "snippet": "strategies. It's not as if that they are not wrong. I am also wrong, you know, 50% of the times, right? That's not the",
+   "start_time_text": "2:43",
+   "start_time_label": "2:43"
+  },
+  {
+   "start_ms": 168959,
+   "end_ms": 175360,
+   "snippet": "point. The point is that how is your overall per portfolio doing okay? Now, when they discuss all these things, you",
+   "start_time_text": "2:48",
+   "start_time_label": "2:48"
+  },
+  {
+   "start_ms": 175360,
+   "end_ms": 181440,
+   "snippet": "end up learning a lot more methods to investing. For example, if I just look",
+   "start_time_text": "2:55",
+   "start_time_label": "2:55"
+  },
+  {
+   "start_ms": 181440,
+   "end_ms": 187599,
+   "snippet": "at and and genuinely like I mean you know do you do you genuinely uh try to look at what kind of",
+   "start_time_text": "3:01",
+   "start_time_label": "3:01"
+  },
+  {
+   "start_ms": 187599,
+   "end_ms": 193120,
+   "snippet": "conversations we have in Indian investing discourse mutual fund friends",
+   "start_time_text": "3:07",
+   "start_time_label": "3:07"
+  },
+  {
+   "start_ms": 193120,
+   "end_ms": 198720,
+   "snippet": "right so that's the only thing right that okay over diversification literally no one talks about like you",
+   "start_time_text": "3:13",
+   "start_time_label": "3:13"
+  },
+  {
+   "start_ms": 198720,
+   "end_ms": 203760,
+   "snippet": "know currency depreciation that's a topic that I started I started talking about something called a segmental",
+   "start_time_text": "3:18",
+   "start_time_label": "3:18"
+  },
+  {
+   "start_ms": 203760,
+   "end_ms": 213120,
+   "snippet": "inflation right I that's a topic that I started etc etc right so the point is that my goal is to um reach out to",
+   "start_time_text": "3:23",
+   "start_time_label": "3:23"
+  },
+  {
+   "start_ms": 213120,
+   "end_ms": 221599,
+   "snippet": "people who are serious about investing. Investing is a serious game. I'm not here for you know people who have",
+   "start_time_text": "3:33",
+   "start_time_label": "3:33"
+  },
+  {
+   "start_ms": 221599,
+   "end_ms": 227599,
+   "snippet": "already made up their mind right that might be okay right with a",
+   "start_time_text": "3:41",
+   "start_time_label": "3:41"
+  },
+  {
+   "start_ms": 227599,
+   "end_ms": 232959,
+   "snippet": "lot of people but I want to teach advanced stuff investing is a passion",
+   "start_time_text": "3:47",
+   "start_time_label": "3:47"
+  },
+  {
+   "start_ms": 232959,
+   "end_ms": 239040,
+   "snippet": "for me okay so I started this portfolio as a joke okay like just to prove the",
+   "start_time_text": "3:52",
+   "start_time_label": "3:52"
+  },
+  {
+   "start_ms": 239040,
+   "end_ms": 246239,
+   "snippet": "point that a normal guy with one laptop can actually beat majority of the funds out there and this portfolio is doing it",
+   "start_time_text": "3:59",
+   "start_time_label": "3:59"
+  },
+  {
+   "start_ms": 246239,
+   "end_ms": 252080,
+   "snippet": "Okay. Uh, so here is the performance of like the first portfolio that I started.",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 252080,
+   "end_ms": 259359,
+   "snippet": "I'm capturing it because this $4 something million account that you see. This is the IBKR platform, right? And",
+   "start_time_text": "4:12",
+   "start_time_label": "4:12"
+  },
+  {
+   "start_ms": 259359,
+   "end_ms": 266960,
+   "snippet": "basically like this is just like I mean I keep dumping money in just one one portfolio. Okay. Uh but I segment it",
+   "start_time_text": "4:19",
+   "start_time_label": "4:19"
+  },
+  {
+   "start_ms": 266960,
+   "end_ms": 272880,
+   "snippet": "for my students, right? For example, when I started my first portfolio, I declared that it is going to be like a",
+   "start_time_text": "4:26",
+   "start_time_label": "4:26"
+  },
+  {
+   "start_ms": 272880,
+   "end_ms": 278800,
+   "snippet": "million dollar portfolio, right? And there was a very clear start date. You can see every single recent buy and",
+   "start_time_text": "4:32",
+   "start_time_label": "4:32"
+  },
+  {
+   "start_ms": 278800,
+   "end_ms": 283840,
+   "snippet": "sell. Okay? So for example, I bought Meta on 30th July, right? So this was",
+   "start_time_text": "4:38",
+   "start_time_label": "4:38"
+  },
+  {
+   "start_ms": 283840,
+   "end_ms": 290000,
+   "snippet": "the day when uh Meta stock fell. Okay? And this trade is logged. So every trade is logged. Okay? And this has been the",
+   "start_time_text": "4:43",
+   "start_time_label": "4:43"
+  },
+  {
+   "start_ms": 290000,
+   "end_ms": 296240,
+   "snippet": "performance of the fund, right? That I launched for my students, right? So this is 51% that IDAR was a personal uh fund",
+   "start_time_text": "4:50",
+   "start_time_label": "4:50"
+  },
+  {
+   "start_ms": 296240,
+   "end_ms": 302960,
+   "snippet": "for me. Okay? So this is this has been the performance in the last one and a half years or one F something like",
+   "start_time_text": "4:56",
+   "start_time_label": "4:56"
+  },
+  {
+   "start_ms": 302960,
+   "end_ms": 308880,
+   "snippet": "January I started. So one and a half years right so this has been the performance okay so yeah so that's what",
+   "start_time_text": "5:02",
+   "start_time_label": "5:02"
+  },
+  {
+   "start_ms": 308880,
+   "end_ms": 315120,
+   "snippet": "I wanted to uh explain key summary point is that boss like I whatever I discuss I",
+   "start_time_text": "5:08",
+   "start_time_label": "5:08"
+  },
+  {
+   "start_ms": 315120,
+   "end_ms": 321120,
+   "snippet": "discuss it with experience I discuss it with the experience on competing with merit right so that's part one right and",
+   "start_time_text": "5:15",
+   "start_time_label": "5:15"
+  },
+  {
+   "start_ms": 321120,
+   "end_ms": 327280,
+   "snippet": "hopefully this addresses the point that you know YouTubers course",
+   "start_time_text": "5:21",
+   "start_time_label": "5:21"
+  },
+  {
+   "start_ms": 327280,
+   "end_ms": 333759,
+   "snippet": "even if I earn through course what's the big deal right I mean I'm actually showing out putting my money performing no like so it's not as if that I'm doing",
+   "start_time_text": "5:27",
+   "start_time_label": "5:27"
+  },
+  {
+   "start_ms": 333759,
+   "end_ms": 338960,
+   "snippet": "something bad. Right? So that's the bottom line. In fact,",
+   "start_time_text": "5:33",
+   "start_time_label": "5:33"
+  },
+  {
+   "start_ms": 338960,
+   "end_ms": 345600,
+   "snippet": "PMS right for example two year zero performance still charging 2% AUM 1 and a half% AUM.",
+   "start_time_text": "5:38",
+   "start_time_label": "5:38"
+  },
+  {
+   "start_ms": 345600,
+   "end_ms": 351759,
+   "snippet": "So that is that is for like you know sort of kamay right if I'm actually performing well whatever I'm selling at",
+   "start_time_text": "5:45",
+   "start_time_label": "5:45"
+  },
+  {
+   "start_ms": 351759,
+   "end_ms": 359199,
+   "snippet": "secondary okay everyone sells something right so okay so this is the first rant okay now let me go into topic okay so",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 359199,
+   "end_ms": 365919,
+   "snippet": "this is uh there are three things I'll talk about then I will take questions okay first was the merit oriented talk",
+   "start_time_text": "5:59",
+   "start_time_label": "5:59"
+  },
+  {
+   "start_ms": 365919,
+   "end_ms": 372000,
+   "snippet": "that hey it's very important to uh be merit oriented um look at people who are",
+   "start_time_text": "6:05",
+   "start_time_label": "6:05"
+  },
+  {
+   "start_ms": 372000,
+   "end_ms": 378479,
+   "snippet": "performing learn from them right now I am not saying that going forward I'll continue to repeat this performance my",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 378479,
+   "end_ms": 384720,
+   "snippet": "methods will fail okay and trollers will come after me that's okay like not a big deal but bottom line is that if I can at",
+   "start_time_text": "6:18",
+   "start_time_label": "6:18"
+  },
+  {
+   "start_ms": 384720,
+   "end_ms": 390880,
+   "snippet": "least teach you my style of investing my job is done okay my style of investing will not work in every market okay it",
+   "start_time_text": "6:24",
+   "start_time_label": "6:24"
+  },
+  {
+   "start_ms": 390880,
+   "end_ms": 397039,
+   "snippet": "will work in certain markets maybe okay for example these days momentum investing is not working",
+   "start_time_text": "6:30",
+   "start_time_label": "6:30"
+  },
+  {
+   "start_ms": 397039,
+   "end_ms": 402720,
+   "snippet": "so momentum okay I'm a macro investor and I have",
+   "start_time_text": "6:37",
+   "start_time_label": "6:37"
+  },
+  {
+   "start_ms": 402720,
+   "end_ms": 409680,
+   "snippet": "certain style of investing I adopted Did this style of investing generated exceptional return results in the last",
+   "start_time_text": "6:42",
+   "start_time_label": "6:42"
+  },
+  {
+   "start_ms": 409680,
+   "end_ms": 416000,
+   "snippet": "one and a half two years in the American market before that even on the Indian market. So people who have been following my Indian commentary they know",
+   "start_time_text": "6:49",
+   "start_time_label": "6:49"
+  },
+  {
+   "start_ms": 416000,
+   "end_ms": 421199,
+   "snippet": "that I was underweight India in 2024. I switched a lot of that money into the",
+   "start_time_text": "6:56",
+   "start_time_label": "6:56"
+  },
+  {
+   "start_ms": 421199,
+   "end_ms": 426560,
+   "snippet": "American markets and that macro call did exceptionally well. Okay. So I am a",
+   "start_time_text": "7:01",
+   "start_time_label": "7:01"
+  },
+  {
+   "start_ms": 426560,
+   "end_ms": 434319,
+   "snippet": "macro investor. I'm a growth investor but at fair prices. Okay. So I will just explain you what I learned.",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 434319,
+   "end_ms": 442639,
+   "snippet": "uh by observing the market in the last couple of years especially and I will talk about uh 1 2 3 4 five points okay",
+   "start_time_text": "7:14",
+   "start_time_label": "7:14"
+  },
+  {
+   "start_ms": 442639,
+   "end_ms": 448000,
+   "snippet": "five key takeaways that's it okay and then finally I'm going to reveal that going forward what are some of the top",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 448000,
+   "end_ms": 453120,
+   "snippet": "picks that I'm making uh what segments I'm looking at what specific stocks I'm",
+   "start_time_text": "7:28",
+   "start_time_label": "7:28"
+  },
+  {
+   "start_ms": 453120,
+   "end_ms": 459759,
+   "snippet": "looking at so I will do that commentary also and finally I'll take questions I'll wrap up everything in 15 minutes max okay so okay five things that I",
+   "start_time_text": "7:33",
+   "start_time_label": "7:33"
+  },
+  {
+   "start_ms": 459759,
+   "end_ms": 465440,
+   "snippet": "learned number one volatility market Now guys, just give me a second, right?",
+   "start_time_text": "7:39",
+   "start_time_label": "7:39"
+  },
+  {
+   "start_ms": 465440,
+   "end_ms": 471840,
+   "snippet": "I'll just check with my team if I can just, you know, sort of um come full screen on on cam on camera, right? I",
+   "start_time_text": "7:45",
+   "start_time_label": "7:45"
+  },
+  {
+   "start_ms": 471840,
+   "end_ms": 478360,
+   "snippet": "don't know if it works. So, I'm very bad at tech. So, I'll [snorts] just ask my team to handle that.",
+   "start_time_text": "7:51",
+   "start_time_label": "7:51"
+  },
+  {
+   "start_ms": 485039,
+   "end_ms": 493360,
+   "snippet": "Done. Okay. All right. Awesome. So, this is full screen. Okay. So, like we use like OBS and mobile. So I I'm not you know",
+   "start_time_text": "8:05",
+   "start_time_label": "8:05"
+  },
+  {
+   "start_ms": 493360,
+   "end_ms": 501440,
+   "snippet": "I'm tracking all these things. Okay. So awesome. I hope you are able to see my full screen. Okay. So yeah. So now uh",
+   "start_time_text": "8:13",
+   "start_time_label": "8:13"
+  },
+  {
+   "start_ms": 501440,
+   "end_ms": 506960,
+   "snippet": "five things right. So number one thing is volatility. Volatility market",
+   "start_time_text": "8:21",
+   "start_time_label": "8:21"
+  },
+  {
+   "start_ms": 506960,
+   "end_ms": 515519,
+   "snippet": "for example trade war dip. The US market corrected by 20% something. And if",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 515519,
+   "end_ms": 521680,
+   "snippet": "during that phase you made a call to invest more and um build a stronger",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 521680,
+   "end_ms": 527600,
+   "snippet": "portfolio you would be sitting on a lot of gains. Okay. Similarly in 2024 2025",
+   "start_time_text": "8:41",
+   "start_time_label": "8:41"
+  },
+  {
+   "start_ms": 527600,
+   "end_ms": 534000,
+   "snippet": "there was some kind of dip 2026 there was a recent dip right last month market especially AI built out trades they",
+   "start_time_text": "8:47",
+   "start_time_label": "8:47"
+  },
+  {
+   "start_ms": 534000,
+   "end_ms": 539680,
+   "snippet": "corrected quite a lot. So all this is market volatility that these days market has been going up and down very",
+   "start_time_text": "8:54",
+   "start_time_label": "8:54"
+  },
+  {
+   "start_ms": 539680,
+   "end_ms": 545680,
+   "snippet": "aggressively. Now you will say like you know% right for example I read comments",
+   "start_time_text": "8:59",
+   "start_time_label": "8:59"
+  },
+  {
+   "start_ms": 545680,
+   "end_ms": 554720,
+   "snippet": "that you know Axhat you suggested about BTC it has corrected by 35% you have destroyed our wealth by gold 30% destroy",
+   "start_time_text": "9:05",
+   "start_time_label": "9:05"
+  },
+  {
+   "start_ms": 554720,
+   "end_ms": 560080,
+   "snippet": "you have to look at the overall growth of the portfolio and how it's working out okay [snorts]",
+   "start_time_text": "9:14",
+   "start_time_label": "9:14"
+  },
+  {
+   "start_ms": 560080,
+   "end_ms": 565279,
+   "snippet": "so point one is that you need to understand how to handle volatility and the way to do this is to create a",
+   "start_time_text": "9:20",
+   "start_time_label": "9:20"
+  },
+  {
+   "start_ms": 565279,
+   "end_ms": 570480,
+   "snippet": "diversified portfolio now when I say create a diversified portfolio The",
+   "start_time_text": "9:25",
+   "start_time_label": "9:25"
+  },
+  {
+   "start_ms": 570480,
+   "end_ms": 576320,
+   "snippet": "general understanding in the market is key boss you know what buy four mutual funds your portfolio is diversified okay",
+   "start_time_text": "9:30",
+   "start_time_label": "9:30"
+  },
+  {
+   "start_ms": 576320,
+   "end_ms": 583120,
+   "snippet": "let me give you one scenario okay let's say in the next 5 years INR",
+   "start_time_text": "9:36",
+   "start_time_label": "9:36"
+  },
+  {
+   "start_ms": 583120,
+   "end_ms": 588480,
+   "snippet": "corrects or INR gets destroyed by 30 40% more",
+   "start_time_text": "9:43",
+   "start_time_label": "9:43"
+  },
+  {
+   "start_ms": 588480,
+   "end_ms": 594080,
+   "snippet": "what will happen to your four mutual funds it will also get destroyed this is called as currency diversification so",
+   "start_time_text": "9:48",
+   "start_time_label": "9:48"
+  },
+  {
+   "start_ms": 594080,
+   "end_ms": 599120,
+   "snippet": "when you're looking at create handling volatility your portfolio should be such",
+   "start_time_text": "9:54",
+   "start_time_label": "9:54"
+  },
+  {
+   "start_ms": 599120,
+   "end_ms": 605080,
+   "snippet": "that it is able able to handle volatility. So natural response",
+   "start_time_text": "9:59",
+   "start_time_label": "9:59"
+  },
+  {
+   "start_ms": 605120,
+   "end_ms": 612160,
+   "snippet": "because you yourself are investing a lot of money in the US market. You're pro bullish US this that stuff. Um very true",
+   "start_time_text": "10:05",
+   "start_time_label": "10:05"
+  },
+  {
+   "start_ms": 612160,
+   "end_ms": 618560,
+   "snippet": "right and I need to think how to hedge this portfolio. So for example I might be doing options for example I can buy a",
+   "start_time_text": "10:12",
+   "start_time_label": "10:12"
+  },
+  {
+   "start_ms": 618560,
+   "end_ms": 624959,
+   "snippet": "put option or I might be using an ETF plus stock strategy right of managing my",
+   "start_time_text": "10:18",
+   "start_time_label": "10:18"
+  },
+  {
+   "start_ms": 624959,
+   "end_ms": 631279,
+   "snippet": "portfolio or I might diversify into different markets. Here what you need to understand is a concept of tail risk.",
+   "start_time_text": "10:24",
+   "start_time_label": "10:24"
+  },
+  {
+   "start_ms": 631279,
+   "end_ms": 637040,
+   "snippet": "Okay. So example I was reading about this right regarding",
+   "start_time_text": "10:31",
+   "start_time_label": "10:31"
+  },
+  {
+   "start_ms": 637040,
+   "end_ms": 643920,
+   "snippet": "regarding micro cap investing in India micro cap stocks India okay and if you",
+   "start_time_text": "10:37",
+   "start_time_label": "10:37"
+  },
+  {
+   "start_ms": 643920,
+   "end_ms": 651760,
+   "snippet": "buy a micro cap stock and if the if there's some fraud that happens with that company and",
+   "start_time_text": "10:43",
+   "start_time_label": "10:43"
+  },
+  {
+   "start_ms": 651760,
+   "end_ms": 657279,
+   "snippet": "then you know the there is something called as lower and upper circuits in the Indian market. For example, not more",
+   "start_time_text": "10:51",
+   "start_time_label": "10:51"
+  },
+  {
+   "start_ms": 657279,
+   "end_ms": 664399,
+   "snippet": "than 20% stock can correct. Okay. So for example, you buy a FDU micro cap company, it corrects by 20%. Stop right",
+   "start_time_text": "10:57",
+   "start_time_label": "10:57"
+  },
+  {
+   "start_ms": 664399,
+   "end_ms": 671600,
+   "snippet": "for that day trading. Okay. Then next day again market opens it another correct by 20%. So on and so forth. So",
+   "start_time_text": "11:04",
+   "start_time_label": "11:04"
+  },
+  {
+   "start_ms": 671600,
+   "end_ms": 679200,
+   "snippet": "basically like you know what this mechanism is actually protecting us right America if you buy a micro cap it",
+   "start_time_text": "11:11",
+   "start_time_label": "11:11"
+  },
+  {
+   "start_ms": 679200,
+   "end_ms": 684800,
+   "snippet": "can fall literally by 99% in a single day",
+   "start_time_text": "11:19",
+   "start_time_label": "11:19"
+  },
+  {
+   "start_ms": 684800,
+   "end_ms": 690720,
+   "snippet": "right. So it's not like that. Okay. Basically there are tail risks on certain assets. For example, the tail",
+   "start_time_text": "11:24",
+   "start_time_label": "11:24"
+  },
+  {
+   "start_ms": 690720,
+   "end_ms": 696800,
+   "snippet": "risk on micro cap in India is illiquidity because circuit l and you are unable to get out. For example, talk",
+   "start_time_text": "11:30",
+   "start_time_label": "11:30"
+  },
+  {
+   "start_ms": 696800,
+   "end_ms": 703839,
+   "snippet": "to a lot of investors who do micro cap investing in India. You will realize that the tail risk is not that they are",
+   "start_time_text": "11:36",
+   "start_time_label": "11:36"
+  },
+  {
+   "start_ms": 703839,
+   "end_ms": 708959,
+   "snippet": "selling at a loss. The tail risk is key they will never be able to sell it. Okay? So whenever you are getting into",
+   "start_time_text": "11:43",
+   "start_time_label": "11:43"
+  },
+  {
+   "start_ms": 708959,
+   "end_ms": 716399,
+   "snippet": "an asset, you need to have that macro understanding. Okay? So what I'm getting at is that see American market is what",
+   "start_time_text": "11:48",
+   "start_time_label": "11:48"
+  },
+  {
+   "start_ms": 716399,
+   "end_ms": 722160,
+   "snippet": "is the tail risk of the American market or US economy. So for example I revealed my portfolio on iBare and all that",
+   "start_time_text": "11:56",
+   "start_time_label": "11:56"
+  },
+  {
+   "start_ms": 722160,
+   "end_ms": 728160,
+   "snippet": "stuff. I showed you this portfolio that I'm building on wisdom hatch as well for my students. What is a tail risk? Okay.",
+   "start_time_text": "12:02",
+   "start_time_label": "12:02"
+  },
+  {
+   "start_ms": 728160,
+   "end_ms": 734880,
+   "snippet": "So the tail risk is AI bubble faga. This is something you hearing now or",
+   "start_time_text": "12:08",
+   "start_time_label": "12:08"
+  },
+  {
+   "start_ms": 734880,
+   "end_ms": 740720,
+   "snippet": "have you been hearing it for the last I don't know 2 years now 2 3 years now. So it is been happening. Okay. This is the",
+   "start_time_text": "12:14",
+   "start_time_label": "12:14"
+  },
+  {
+   "start_ms": 740720,
+   "end_ms": 746639,
+   "snippet": "first argument or tail risk that people say. Second argument or tail risk that people say is that you know over",
+   "start_time_text": "12:20",
+   "start_time_label": "12:20"
+  },
+  {
+   "start_ms": 746639,
+   "end_ms": 752720,
+   "snippet": "overvalued US market overvalued right for example if you check Meta it's",
+   "start_time_text": "12:26",
+   "start_time_label": "12:26"
+  },
+  {
+   "start_ms": 752720,
+   "end_ms": 758000,
+   "snippet": "trading 30% from the top right now okay if you check Nvidia it's trading 15%",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 758000,
+   "end_ms": 764399,
+   "snippet": "from the top right now um abid Microsoft Amazon up until last week right and just",
+   "start_time_text": "12:38",
+   "start_time_label": "12:38"
+  },
+  {
+   "start_ms": 764399,
+   "end_ms": 771760,
+   "snippet": "heavy investments they were trading like whatever 20 25% 30% from the top so overvalued right I",
+   "start_time_text": "12:44",
+   "start_time_label": "12:44"
+  },
+  {
+   "start_ms": 771760,
+   "end_ms": 777040,
+   "snippet": "mean this is like one logical question that you need to ask to begin with, right? That's one. And second is that",
+   "start_time_text": "12:51",
+   "start_time_label": "12:51"
+  },
+  {
+   "start_ms": 777040,
+   "end_ms": 783360,
+   "snippet": "you need to understand that whenever there is a bubble, almost everything looks bloated. Okay? This is like a key",
+   "start_time_text": "12:57",
+   "start_time_label": "12:57"
+  },
+  {
+   "start_ms": 783360,
+   "end_ms": 788959,
+   "snippet": "characteristic of a bubble, right? For example, 2007. Hello, 1999. Hello,",
+   "start_time_text": "13:03",
+   "start_time_label": "13:03"
+  },
+  {
+   "start_ms": 788959,
+   "end_ms": 794079,
+   "snippet": "whatever bubble you want to pick. Okay, you pick it. That is a tail risk. So, that is something that I'm monitoring",
+   "start_time_text": "13:08",
+   "start_time_label": "13:08"
+  },
+  {
+   "start_ms": 794079,
+   "end_ms": 801040,
+   "snippet": "right that okay, is everything does every segment of the US market looks bloated? For example, financials,",
+   "start_time_text": "13:14",
+   "start_time_label": "13:14"
+  },
+  {
+   "start_ms": 801040,
+   "end_ms": 806480,
+   "snippet": "some of the top companies like Mastercard, Visa, they are not bloated. They are actually",
+   "start_time_text": "13:21",
+   "start_time_label": "13:21"
+  },
+  {
+   "start_ms": 806480,
+   "end_ms": 812560,
+   "snippet": "trading well below their peak and have been consolidating for a few years. So on and so forth. So there is no bubble",
+   "start_time_text": "13:26",
+   "start_time_label": "13:26"
+  },
+  {
+   "start_ms": 812560,
+   "end_ms": 818880,
+   "snippet": "thing happening. There's only volatility what is happening. The point one that I was speaking about. So these are advanced points. You understand your",
+   "start_time_text": "13:32",
+   "start_time_label": "13:32"
+  },
+  {
+   "start_ms": 818880,
+   "end_ms": 825360,
+   "snippet": "tail risk. This is very important and figure out a way to mitigate it. Number three point is that you need to have a",
+   "start_time_text": "13:38",
+   "start_time_label": "13:38"
+  },
+  {
+   "start_ms": 825360,
+   "end_ms": 832000,
+   "snippet": "profit hooking strategy. For example, that portfolio that I showed you, right? Um here you can see I I don't know if",
+   "start_time_text": "13:45",
+   "start_time_label": "13:45"
+  },
+  {
+   "start_ms": 832000,
+   "end_ms": 837199,
+   "snippet": "you can see it now, right? So basically the wisdom match portfolio that I showed you for my students, I have realized",
+   "start_time_text": "13:52",
+   "start_time_label": "13:52"
+  },
+  {
+   "start_ms": 837199,
+   "end_ms": 844240,
+   "snippet": "profits. Realized means profit book it of almost 4CR on a million dollar",
+   "start_time_text": "13:57",
+   "start_time_label": "13:57"
+  },
+  {
+   "start_ms": 844240,
+   "end_ms": 852160,
+   "snippet": "portfolios. I have booked 40% profits. Okay. Now why have I booked? And it's not as if right over time you keep on",
+   "start_time_text": "14:04",
+   "start_time_label": "14:04"
+  },
+  {
+   "start_ms": 852160,
+   "end_ms": 858079,
+   "snippet": "booking because what does booking profits allows you to do is that it allows you to handle volatility. So you",
+   "start_time_text": "14:12",
+   "start_time_label": "14:12"
+  },
+  {
+   "start_ms": 858079,
+   "end_ms": 863519,
+   "snippet": "need to have profit booking rules. Now this is a topic in itself right I mean if you don't have time right I mean you",
+   "start_time_text": "14:18",
+   "start_time_label": "14:18"
+  },
+  {
+   "start_ms": 863519,
+   "end_ms": 869760,
+   "snippet": "know just build some basic rules for example if you're sitting on 100% profits take 20% profits out okay that's",
+   "start_time_text": "14:23",
+   "start_time_label": "14:23"
+  },
+  {
+   "start_ms": 869760,
+   "end_ms": 876480,
+   "snippet": "a rule just follow that okay create like five simple profit taking rules because when you take profits out what happens",
+   "start_time_text": "14:29",
+   "start_time_label": "14:29"
+  },
+  {
+   "start_ms": 876480,
+   "end_ms": 883040,
+   "snippet": "is that whenever volatility is there the market ger 20% then you always can rotate that capital back that is",
+   "start_time_text": "14:36",
+   "start_time_label": "14:36"
+  },
+  {
+   "start_ms": 883040,
+   "end_ms": 888240,
+   "snippet": "exceptionally important in high volatile markets and because of increased debt in",
+   "start_time_text": "14:43",
+   "start_time_label": "14:43"
+  },
+  {
+   "start_ms": 888240,
+   "end_ms": 895440,
+   "snippet": "the world the markets are going to become even more volatile going forward. Okay. So this is three. Number fourth",
+   "start_time_text": "14:48",
+   "start_time_label": "14:48"
+  },
+  {
+   "start_ms": 895440,
+   "end_ms": 901120,
+   "snippet": "point, right? People keep on arguing with me that you know what you are like you know whatever Donald Trump's little",
+   "start_time_text": "14:55",
+   "start_time_label": "14:55"
+  },
+  {
+   "start_ms": 901120,
+   "end_ms": 907440,
+   "snippet": "brother you are like you know promoting like US stock investing or whatever like you know",
+   "start_time_text": "15:01",
+   "start_time_label": "15:01"
+  },
+  {
+   "start_ms": 907440,
+   "end_ms": 914399,
+   "snippet": "stock investing see u I'm not supporting any market. I",
+   "start_time_text": "15:07",
+   "start_time_label": "15:07"
+  },
+  {
+   "start_ms": 914399,
+   "end_ms": 920480,
+   "snippet": "support moneym okay the goal is to win in specific segments. Okay, for example,",
+   "start_time_text": "15:14",
+   "start_time_label": "15:14"
+  },
+  {
+   "start_ms": 920480,
+   "end_ms": 926959,
+   "snippet": "if what segment of the US market I have been investing in so far, hyperscalers.",
+   "start_time_text": "15:20",
+   "start_time_label": "15:20"
+  },
+  {
+   "start_ms": 926959,
+   "end_ms": 932079,
+   "snippet": "Okay, so data center building companies, Meta, Microsoft, all this stuff. Okay,",
+   "start_time_text": "15:26",
+   "start_time_label": "15:26"
+  },
+  {
+   "start_ms": 932079,
+   "end_ms": 937440,
+   "snippet": "that has generated enough capital for me. That was a segment I was bullish. It's not as if that I was going and",
+   "start_time_text": "15:32",
+   "start_time_label": "15:32"
+  },
+  {
+   "start_ms": 937440,
+   "end_ms": 942800,
+   "snippet": "buying Walmart, okay, or PNG and all that stuff. There was a very specific",
+   "start_time_text": "15:37",
+   "start_time_label": "15:37"
+  },
+  {
+   "start_ms": 942800,
+   "end_ms": 948160,
+   "snippet": "segment in the US market I was putting my money on. Now does that mean that I",
+   "start_time_text": "15:42",
+   "start_time_label": "15:42"
+  },
+  {
+   "start_ms": 948160,
+   "end_ms": 954720,
+   "snippet": "do not like Indian market? Nothing of that sort. Indian market you again need to have a macro thesis of investing.",
+   "start_time_text": "15:48",
+   "start_time_label": "15:48"
+  },
+  {
+   "start_ms": 954720,
+   "end_ms": 962000,
+   "snippet": "Okay. Uh macro thesis of investing on the Indian market is very simple. Right? That for example legitimately right",
+   "start_time_text": "15:54",
+   "start_time_label": "15:54"
+  },
+  {
+   "start_ms": 962000,
+   "end_ms": 967759,
+   "snippet": "Indian market. Okay. The number one thing that is happening on the Indian market is that",
+   "start_time_text": "16:02",
+   "start_time_label": "16:02"
+  },
+  {
+   "start_ms": 967759,
+   "end_ms": 974079,
+   "snippet": "see there is a lot of pressure on India to buy US's stuff. Okay. [snorts]",
+   "start_time_text": "16:07",
+   "start_time_label": "16:07"
+  },
+  {
+   "start_ms": 974079,
+   "end_ms": 980320,
+   "snippet": "For example, say ethanol producer US right is now the number one producer of ethanol in the world. Okay, India is",
+   "start_time_text": "16:14",
+   "start_time_label": "16:14"
+  },
+  {
+   "start_ms": 980320,
+   "end_ms": 985759,
+   "snippet": "suddenly buying like more ethanol. Okay, now why? Because there is a commitment I think it's hundred billion dollar",
+   "start_time_text": "16:20",
+   "start_time_label": "16:20"
+  },
+  {
+   "start_ms": 985759,
+   "end_ms": 992240,
+   "snippet": "commitment that India has to buy like US stuff whatever like so uh pharma company there",
+   "start_time_text": "16:25",
+   "start_time_label": "16:25"
+  },
+  {
+   "start_ms": 992240,
+   "end_ms": 998639,
+   "snippet": "was a recent news like probably one and a half weeks back that pharma companies",
+   "start_time_text": "16:32",
+   "start_time_label": "16:32"
+  },
+  {
+   "start_ms": 998639,
+   "end_ms": 1004160,
+   "snippet": "have to like I mean they were pushed in a way that you have to build like some capacity in the US. Similarly, Reliance",
+   "start_time_text": "16:38",
+   "start_time_label": "16:38"
+  },
+  {
+   "start_ms": 1004160,
+   "end_ms": 1010959,
+   "snippet": "have put up a refinery in the US. All that stuff is happening, right? So, there's a clear pressure. That's a macro trend on the Indian market. Who do you",
+   "start_time_text": "16:44",
+   "start_time_label": "16:44"
+  },
+  {
+   "start_ms": 1010959,
+   "end_ms": 1017279,
+   "snippet": "think is going to suffer? I'm not going to give you the answer. You guys deliberate segment of the Indian market will get",
+   "start_time_text": "16:50",
+   "start_time_label": "16:50"
+  },
+  {
+   "start_ms": 1017279,
+   "end_ms": 1025480,
+   "snippet": "hit. Okay, that's one. Second, just for example, AI trade. Now, this is something that all of us have witnessed,",
+   "start_time_text": "16:57",
+   "start_time_label": "16:57"
+  },
+  {
+   "start_ms": 1026559,
+   "end_ms": 1032240,
+   "snippet": "right? So, it destroy, right? So, will it completely go to zero? No. Like, but that's a macro trend that you need to",
+   "start_time_text": "17:06",
+   "start_time_label": "17:06"
+  },
+  {
+   "start_ms": 1032240,
+   "end_ms": 1038160,
+   "snippet": "notice. and accordingly prepare your investment strategy. So you have to study these macros. I'm not against the",
+   "start_time_text": "17:12",
+   "start_time_label": "17:12"
+  },
+  {
+   "start_ms": 1038160,
+   "end_ms": 1044559,
+   "snippet": "Indian market. Okay. But there are certain segments of the Indian market that have become uninvestable.",
+   "start_time_text": "17:18",
+   "start_time_label": "17:18"
+  },
+  {
+   "start_ms": 1044559,
+   "end_ms": 1052600,
+   "snippet": "Now which markets have become or which segments of the Indian market have become uninvestable now",
+   "start_time_text": "17:24",
+   "start_time_label": "17:24"
+  },
+  {
+   "start_ms": 1053200,
+   "end_ms": 1059200,
+   "snippet": "especially if you're holding those stocks. But my job is to be honest with you and tell you point blank what is",
+   "start_time_text": "17:33",
+   "start_time_label": "17:33"
+  },
+  {
+   "start_ms": 1059200,
+   "end_ms": 1066320,
+   "snippet": "where I see value. Will I be right about this? No, I can very well be wrong about this, but this is a hypothesis, right?",
+   "start_time_text": "17:39",
+   "start_time_label": "17:39"
+  },
+  {
+   "start_ms": 1066320,
+   "end_ms": 1072160,
+   "snippet": "Every investor runs their own hypothesis and actual account, right? And you guys see",
+   "start_time_text": "17:46",
+   "start_time_label": "17:46"
+  },
+  {
+   "start_ms": 1072160,
+   "end_ms": 1078080,
+   "snippet": "that someone is really putting like money on the line and performing or at least trying to perform honestly. That's",
+   "start_time_text": "17:52",
+   "start_time_label": "17:52"
+  },
+  {
+   "start_ms": 1078080,
+   "end_ms": 1083200,
+   "snippet": "the vision with which I operate. Okay. So, okay. So, which mark which segment of the Indian market is getting hit",
+   "start_time_text": "17:58",
+   "start_time_label": "17:58"
+  },
+  {
+   "start_ms": 1083200,
+   "end_ms": 1091360,
+   "snippet": "badly? Okay. Large caps. Okay. Why? Because large caps predominantly are bought by FIS. Dis but FIS are like you",
+   "start_time_text": "18:03",
+   "start_time_label": "18:03"
+  },
+  {
+   "start_ms": 1091360,
+   "end_ms": 1096480,
+   "snippet": "know like if 100 units of money is coming in the Indian market uh in in",
+   "start_time_text": "18:11",
+   "start_time_label": "18:11"
+  },
+  {
+   "start_ms": 1096480,
+   "end_ms": 1101679,
+   "snippet": "large caps then a chunk of it comes through FIAS or FI major buying is",
+   "start_time_text": "18:16",
+   "start_time_label": "18:16"
+  },
+  {
+   "start_ms": 1101679,
+   "end_ms": 1108440,
+   "snippet": "usually in large caps. Okay. Now what is happening with large gaps?",
+   "start_time_text": "18:21",
+   "start_time_label": "18:21"
+  },
+  {
+   "start_ms": 1108720,
+   "end_ms": 1115120,
+   "snippet": "A lot of things are happening with large gaps. Okay. For example, if you look at uh these family businesses, legacy",
+   "start_time_text": "18:28",
+   "start_time_label": "18:28"
+  },
+  {
+   "start_ms": 1115120,
+   "end_ms": 1122400,
+   "snippet": "businesses are like I'll not name them, right? uh what are their second third generation doing? They are starting",
+   "start_time_text": "18:35",
+   "start_time_label": "18:35"
+  },
+  {
+   "start_ms": 1122400,
+   "end_ms": 1129120,
+   "snippet": "family offices in Singapore, Dubai, this that stuff. Why? Because they understand",
+   "start_time_text": "18:42",
+   "start_time_label": "18:42"
+  },
+  {
+   "start_ms": 1129120,
+   "end_ms": 1135360,
+   "snippet": "it is already 50,000 or 1 lakh cr business and taking it to two lakh cr is very complicated for us. Okay? So what",
+   "start_time_text": "18:49",
+   "start_time_label": "18:49"
+  },
+  {
+   "start_ms": 1135360,
+   "end_ms": 1141200,
+   "snippet": "we are going to do is that we are going not going to invest like a lot of capacity, right? We are rather going to take that money out and just do",
+   "start_time_text": "18:55",
+   "start_time_label": "18:55"
+  },
+  {
+   "start_ms": 1141200,
+   "end_ms": 1147039,
+   "snippet": "investments. Okay, that is much better approach for us advance point",
+   "start_time_text": "19:01",
+   "start_time_label": "19:01"
+  },
+  {
+   "start_ms": 1147039,
+   "end_ms": 1153440,
+   "snippet": "and as a result large cap returns have been subdued in India now up until 2024",
+   "start_time_text": "19:07",
+   "start_time_label": "19:07"
+  },
+  {
+   "start_ms": 1153440,
+   "end_ms": 1160000,
+   "snippet": "I was picking a lot of large caps uh I made decent returns also it's not as if like you know or something of that in",
+   "start_time_text": "19:13",
+   "start_time_label": "19:13"
+  },
+  {
+   "start_ms": 1160000,
+   "end_ms": 1165520,
+   "snippet": "fact I'll share I've shared my uh Indian uh stock returns and mutual fund returns",
+   "start_time_text": "19:20",
+   "start_time_label": "19:20"
+  },
+  {
+   "start_ms": 1165520,
+   "end_ms": 1172960,
+   "snippet": "on Twitter somewhere so I'll put it like maybe in the links okay so you guys can go and watch it uh But long story short",
+   "start_time_text": "19:25",
+   "start_time_label": "19:25"
+  },
+  {
+   "start_ms": 1172960,
+   "end_ms": 1179679,
+   "snippet": "as a segment Indian large cap I do not find it to be attractive right now of course",
+   "start_time_text": "19:32",
+   "start_time_label": "19:32"
+  },
+  {
+   "start_ms": 1179679,
+   "end_ms": 1187280,
+   "snippet": "like generally that's not where your focus area should be say you can find some diamonds great okay where is",
+   "start_time_text": "19:39",
+   "start_time_label": "19:39"
+  },
+  {
+   "start_ms": 1187280,
+   "end_ms": 1192559,
+   "snippet": "opportunity in the Indian market I would say mid mid small cap micro caps this is",
+   "start_time_text": "19:47",
+   "start_time_label": "19:47"
+  },
+  {
+   "start_ms": 1192559,
+   "end_ms": 1198559,
+   "snippet": "the segment where we need to focus more if we are if we can only invest in the",
+   "start_time_text": "19:52",
+   "start_time_label": "19:52"
+  },
+  {
+   "start_ms": 1198559,
+   "end_ms": 1204320,
+   "snippet": "Indian market okay so this is where even I'm going to focus more of my energy going forward. Now why? Because Indian",
+   "start_time_text": "19:58",
+   "start_time_label": "19:58"
+  },
+  {
+   "start_ms": 1204320,
+   "end_ms": 1209600,
+   "snippet": "market for example trend notice fi Indian markets are leaving structurally",
+   "start_time_text": "20:04",
+   "start_time_label": "20:04"
+  },
+  {
+   "start_ms": 1209600,
+   "end_ms": 1215200,
+   "snippet": "is this true 100%. Okay. From 2020 onwards, FIS have been structurally",
+   "start_time_text": "20:09",
+   "start_time_label": "20:09"
+  },
+  {
+   "start_ms": 1215200,
+   "end_ms": 1221360,
+   "snippet": "leaving the Indian market in holds. Okay. So, u who is supporting the Indian",
+   "start_time_text": "20:15",
+   "start_time_label": "20:15"
+  },
+  {
+   "start_ms": 1221360,
+   "end_ms": 1228400,
+   "snippet": "market then? DII, domestic institutional investors, you know, mutual fund and all that stuff. Um, now where do they",
+   "start_time_text": "20:21",
+   "start_time_label": "20:21"
+  },
+  {
+   "start_ms": 1228400,
+   "end_ms": 1237240,
+   "snippet": "typically buy? They flexap the manager gets the mandate",
+   "start_time_text": "20:28",
+   "start_time_label": "20:28"
+  },
+  {
+   "start_ms": 1237919,
+   "end_ms": 1240919,
+   "snippet": "smallap.",
+   "start_time_text": "20:37",
+   "start_time_label": "20:37"
+  },
+  {
+   "start_ms": 1244320,
+   "end_ms": 1249840,
+   "snippet": "So if a flexi cap has to perform what do you think and and show the performance",
+   "start_time_text": "20:44",
+   "start_time_label": "20:44"
+  },
+  {
+   "start_ms": 1249840,
+   "end_ms": 1252840,
+   "snippet": "right",
+   "start_time_text": "20:49",
+   "start_time_label": "20:49"
+  },
+  {
+   "start_ms": 1256559,
+   "end_ms": 1262799,
+   "snippet": "so in order to generate like 40% kagger that that fund has to buy like high-risk",
+   "start_time_text": "20:56",
+   "start_time_label": "20:56"
+  },
+  {
+   "start_ms": 1262799,
+   "end_ms": 1268559,
+   "snippet": "high reward stuff so they will be predominantly like small midcaps or micro whatever right so I hope you get",
+   "start_time_text": "21:02",
+   "start_time_label": "21:02"
+  },
+  {
+   "start_ms": 1268559,
+   "end_ms": 1276240,
+   "snippet": "the picture okay so what I'm getting at is that see because the Indian market has become more and more um driven by",
+   "start_time_text": "21:08",
+   "start_time_label": "21:08"
+  },
+  {
+   "start_ms": 1276240,
+   "end_ms": 1282720,
+   "snippet": "DIIS. There is more incentive and the competition in the AUM management space is increasing dramatically or has",
+   "start_time_text": "21:16",
+   "start_time_label": "21:16"
+  },
+  {
+   "start_ms": 1282720,
+   "end_ms": 1288480,
+   "snippet": "increased dramatically. They are moving to a point where they have to prove alpha and the only way",
+   "start_time_text": "21:22",
+   "start_time_label": "21:22"
+  },
+  {
+   "start_ms": 1288480,
+   "end_ms": 1295039,
+   "snippet": "they will be able to do it is by hiding or sorry finding uh you know or targeting that segment of the Indian",
+   "start_time_text": "21:28",
+   "start_time_label": "21:28"
+  },
+  {
+   "start_ms": 1295039,
+   "end_ms": 1301200,
+   "snippet": "market. So therefore there is opportunity. So I'm giving you like a macro theme of investing. Okay. So I",
+   "start_time_text": "21:35",
+   "start_time_label": "21:35"
+  },
+  {
+   "start_ms": 1301200,
+   "end_ms": 1307840,
+   "snippet": "hope that this is clear right. So I talked about volatility, right? U my strategy so far was buying growth stocks",
+   "start_time_text": "21:41",
+   "start_time_label": "21:41"
+  },
+  {
+   "start_ms": 1307840,
+   "end_ms": 1314640,
+   "snippet": "at fair prices which I have bought Amazon, Meta and all that stuff. Should you buy Meta? Yes. Um I that's a tip for",
+   "start_time_text": "21:47",
+   "start_time_label": "21:47"
+  },
+  {
+   "start_ms": 1314640,
+   "end_ms": 1320400,
+   "snippet": "whatever you call it. Okay. Uh definitely for most of the investor it kind of makes sense. Okay. Uh profit",
+   "start_time_text": "21:54",
+   "start_time_label": "21:54"
+  },
+  {
+   "start_ms": 1320400,
+   "end_ms": 1325919,
+   "snippet": "booking strategy. I spoke about segments over market. I have talked about macrobased investing. I have talked",
+   "start_time_text": "22:00",
+   "start_time_label": "22:00"
+  },
+  {
+   "start_ms": 1325919,
+   "end_ms": 1332000,
+   "snippet": "about where you analyze key trends and accordingly make adjustment to your portfolio. So in India I will be buying",
+   "start_time_text": "22:05",
+   "start_time_label": "22:05"
+  },
+  {
+   "start_ms": 1332000,
+   "end_ms": 1338159,
+   "snippet": "micro micro cap midcap small caps and also understand the risk side of it. For",
+   "start_time_text": "22:12",
+   "start_time_label": "22:12"
+  },
+  {
+   "start_ms": 1338159,
+   "end_ms": 1341159,
+   "snippet": "example",
+   "start_time_text": "22:18",
+   "start_time_label": "22:18"
+  },
+  {
+   "start_ms": 1344240,
+   "end_ms": 1351039,
+   "snippet": "80% are you mad right? Do you even study",
+   "start_time_text": "22:24",
+   "start_time_label": "22:24"
+  },
+  {
+   "start_ms": 1351039,
+   "end_ms": 1357200,
+   "snippet": "like basic data? For example if someone is buying micro caps okay do you know the survival rates of micro cap in",
+   "start_time_text": "22:31",
+   "start_time_label": "22:31"
+  },
+  {
+   "start_ms": 1357200,
+   "end_ms": 1362640,
+   "snippet": "India? Tell me. Right. I mean you guys tell me in the comments. Okay. For example, if there are 100 micro cap",
+   "start_time_text": "22:37",
+   "start_time_label": "22:37"
+  },
+  {
+   "start_ms": 1362640,
+   "end_ms": 1367840,
+   "snippet": "stocks in India, 60 50 60 of them will at least die in the next 10 15 years.",
+   "start_time_text": "22:42",
+   "start_time_label": "22:42"
+  },
+  {
+   "start_ms": 1367840,
+   "end_ms": 1374320,
+   "snippet": "That's the basic and I'm saying die literally like vanish. Okay. So what is the survival rate of micro cap? Maybe",
+   "start_time_text": "22:47",
+   "start_time_label": "22:47"
+  },
+  {
+   "start_ms": 1374320,
+   "end_ms": 1379840,
+   "snippet": "354% on a decade basis. So now if someone is buying 10 stocks of course",
+   "start_time_text": "22:54",
+   "start_time_label": "22:54"
+  },
+  {
+   "start_ms": 1379840,
+   "end_ms": 1385400,
+   "snippet": "five of them will go to zero. Okay, that will happen.",
+   "start_time_text": "22:59",
+   "start_time_label": "22:59"
+  },
+  {
+   "start_ms": 1387840,
+   "end_ms": 1393600,
+   "snippet": "I'm teaching portfolio building and therefore I have stopped commenting on like individual stocks right I just",
+   "start_time_text": "23:07",
+   "start_time_label": "23:07"
+  },
+  {
+   "start_ms": 1393600,
+   "end_ms": 1397240,
+   "snippet": "simply show my portfolic",
+   "start_time_text": "23:13",
+   "start_time_label": "23:13"
+  },
+  {
+   "start_ms": 1405760,
+   "end_ms": 1412640,
+   "snippet": "out of 100 companies 60 are dying I'm creating a portfolio no I'm not saying that pick one stock and invest all your",
+   "start_time_text": "23:25",
+   "start_time_label": "23:25"
+  },
+  {
+   "start_ms": 1412640,
+   "end_ms": 1421159,
+   "snippet": "capital on it so this is basic portfolio construction If you are a complete noob and you do not understand investing,",
+   "start_time_text": "23:32",
+   "start_time_label": "23:32"
+  },
+  {
+   "start_ms": 1421919,
+   "end_ms": 1428480,
+   "snippet": "my videos are not for you. Don't watch it, right? I mean it's I'm being honest with you. Okay. So anyways, uh third and",
+   "start_time_text": "23:41",
+   "start_time_label": "23:41"
+  },
+  {
+   "start_ms": 1428480,
+   "end_ms": 1435200,
+   "snippet": "final point going forward, what is it that I'm going to do? Number one, I'm betting on segments. So I'll bet on micro cap, midcap, small cap segments in",
+   "start_time_text": "23:48",
+   "start_time_label": "23:48"
+  },
+  {
+   "start_ms": 1435200,
+   "end_ms": 1441600,
+   "snippet": "India. Number two, I will own zero tech. Zero, absolute zero tech in India. Okay,",
+   "start_time_text": "23:55",
+   "start_time_label": "23:55"
+  },
+  {
+   "start_ms": 1441600,
+   "end_ms": 1447640,
+   "snippet": "I have said this time and time again. I see no value in owning tech",
+   "start_time_text": "24:01",
+   "start_time_label": "24:01"
+  },
+  {
+   "start_ms": 1447919,
+   "end_ms": 1454080,
+   "snippet": "right I'm making enough dollar returns by my US stock investing where the riskreward equation is much more",
+   "start_time_text": "24:07",
+   "start_time_label": "24:07"
+  },
+  {
+   "start_ms": 1454080,
+   "end_ms": 1459840,
+   "snippet": "favorable even if I have to buy tech micro caps in the US or or tech micro",
+   "start_time_text": "24:14",
+   "start_time_label": "24:14"
+  },
+  {
+   "start_ms": 1459840,
+   "end_ms": 1465440,
+   "snippet": "caps I would rather buy it in the US compared to India okay but if I have to buy let's say capital goods micro cap or",
+   "start_time_text": "24:19",
+   "start_time_label": "24:19"
+  },
+  {
+   "start_ms": 1465440,
+   "end_ms": 1470640,
+   "snippet": "healthcare micro caps etc maybe I'll look at India okay so it's a uh I don't",
+   "start_time_text": "24:25",
+   "start_time_label": "24:25"
+  },
+  {
+   "start_ms": 1470640,
+   "end_ms": 1477919,
+   "snippet": "look at my stock investing as India versus US it's more aggregate what segments am I buying okay uh so that's",
+   "start_time_text": "24:30",
+   "start_time_label": "24:30"
+  },
+  {
+   "start_ms": 1477919,
+   "end_ms": 1485200,
+   "snippet": "it right so basically like this is what I will be uh this is what my macro narrative is as of 3rd August 2026 this",
+   "start_time_text": "24:37",
+   "start_time_label": "24:37"
+  },
+  {
+   "start_ms": 1485200,
+   "end_ms": 1490480,
+   "snippet": "is my most recent kind of pitch this is what I will be directing my communities",
+   "start_time_text": "24:45",
+   "start_time_label": "24:45"
+  },
+  {
+   "start_ms": 1490480,
+   "end_ms": 1496640,
+   "snippet": "towards right and whatever I'm buying I anyways reveal right on my communities right with timestamped datas and",
+   "start_time_text": "24:50",
+   "start_time_label": "24:50"
+  },
+  {
+   "start_ms": 1496640,
+   "end_ms": 1501760,
+   "snippet": "everything so that's pretty much it maybe I'll just stay back and take like questions for 10 minutes or something so",
+   "start_time_text": "24:56",
+   "start_time_label": "24:56"
+  },
+  {
+   "start_ms": 1501760,
+   "end_ms": 1509440,
+   "snippet": "I'll just call my teammate right and I'll check how to take questions right so okay okay so I can read it on your",
+   "start_time_text": "25:01",
+   "start_time_label": "25:01"
+  },
+  {
+   "start_ms": 1509440,
+   "end_ms": 1516400,
+   "snippet": "phone thanks uh",
+   "start_time_text": "25:09",
+   "start_time_label": "25:09"
+  },
+  {
+   "start_ms": 1516400,
+   "end_ms": 1523440,
+   "snippet": "okay so a lot of questions guys uh nifty solid rate",
+   "start_time_text": "25:16",
+   "start_time_label": "25:16"
+  },
+  {
+   "start_ms": 1523440,
+   "end_ms": 1529039,
+   "snippet": "okay should we hold mega caps mega 7 or M7",
+   "start_time_text": "25:23",
+   "start_time_label": "25:23"
+  },
+  {
+   "start_ms": 1529039,
+   "end_ms": 1534240,
+   "snippet": "for the next 2 to four years I would say yes guys uh The reason is very simple and it is mathematics. Okay. The",
+   "start_time_text": "25:29",
+   "start_time_label": "25:29"
+  },
+  {
+   "start_ms": 1534240,
+   "end_ms": 1539919,
+   "snippet": "mathematics for that is it's working. All right. Okay. So I can see it on my",
+   "start_time_text": "25:34",
+   "start_time_label": "25:34"
+  },
+  {
+   "start_ms": 1539919,
+   "end_ms": 1546080,
+   "snippet": "uh on my uh laptop right. So I'll just see it from here. Okay. So yes the",
+   "start_time_text": "25:39",
+   "start_time_label": "25:39"
+  },
+  {
+   "start_ms": 1546080,
+   "end_ms": 1551840,
+   "snippet": "question was that hey should we own like um mag 7? Mag 7 means Microsoft Meta",
+   "start_time_text": "25:46",
+   "start_time_label": "25:46"
+  },
+  {
+   "start_ms": 1551840,
+   "end_ms": 1559440,
+   "snippet": "Amazon Apple type stocks for the next two to three years. Um short answer is a yes that you should do it right. Not",
+   "start_time_text": "25:51",
+   "start_time_label": "25:51"
+  },
+  {
+   "start_ms": 1559440,
+   "end_ms": 1567039,
+   "snippet": "each of these but at least a few right for example Apple I don't see too much value and I have never owned Apple okay",
+   "start_time_text": "25:59",
+   "start_time_label": "25:59"
+  },
+  {
+   "start_ms": 1567039,
+   "end_ms": 1573520,
+   "snippet": "but if some of these stocks are available at a discount for example meta right I've been bullish on meta and I'm",
+   "start_time_text": "26:07",
+   "start_time_label": "26:07"
+  },
+  {
+   "start_ms": 1573520,
+   "end_ms": 1580960,
+   "snippet": "still continue to be bullish on meta and I am adding more meta up to a certain point right portfolio construction point",
+   "start_time_text": "26:13",
+   "start_time_label": "26:13"
+  },
+  {
+   "start_ms": 1580960,
+   "end_ms": 1586640,
+   "snippet": "I'm not saying that sell your house and you know move all your money to meta or something of that sort very low",
+   "start_time_text": "26:20",
+   "start_time_label": "26:20"
+  },
+  {
+   "start_ms": 1586640,
+   "end_ms": 1593679,
+   "snippet": "probability that a company something like meta will die it's already available at a fair price. The only mistake that people make when buying M7",
+   "start_time_text": "26:26",
+   "start_time_label": "26:26"
+  },
+  {
+   "start_ms": 1593679,
+   "end_ms": 1600960,
+   "snippet": "or Mac 7 stocks is that they buy it at very expensive prices. These companies mathematically grow their earnings at",
+   "start_time_text": "26:33",
+   "start_time_label": "26:33"
+  },
+  {
+   "start_ms": 1600960,
+   "end_ms": 1606480,
+   "snippet": "15% plus to 20% plus kegger which means that the stock price typically doubles",
+   "start_time_text": "26:40",
+   "start_time_label": "26:40"
+  },
+  {
+   "start_ms": 1606480,
+   "end_ms": 1612720,
+   "snippet": "in every four years right because of that and also they do not have structural competitive risks. What that",
+   "start_time_text": "26:46",
+   "start_time_label": "26:46"
+  },
+  {
+   "start_ms": 1612720,
+   "end_ms": 1616279,
+   "snippet": "means is that see",
+   "start_time_text": "26:52",
+   "start_time_label": "26:52"
+  },
+  {
+   "start_ms": 1620000,
+   "end_ms": 1625760,
+   "snippet": "right? So then they have to do it. There is no such compulsion on these American tech. Okay. So yeah, so that's what I",
+   "start_time_text": "27:00",
+   "start_time_label": "27:00"
+  },
+  {
+   "start_ms": 1625760,
+   "end_ms": 1631760,
+   "snippet": "would say. Okay. Uh thank you guys. My advice has worked. Okay. So it's just that it works for serious",
+   "start_time_text": "27:05",
+   "start_time_label": "27:05"
+  },
+  {
+   "start_ms": 1631760,
+   "end_ms": 1637520,
+   "snippet": "investor. It does not work for like you know time pass people. Okay. So like if you're genuinely uh working hard,",
+   "start_time_text": "27:11",
+   "start_time_label": "27:11"
+  },
+  {
+   "start_ms": 1637520,
+   "end_ms": 1644320,
+   "snippet": "investing your time, effort, direction, then you will see very good gains. Okay. So yeah, ITVs I continue to hold it",
+   "start_time_text": "27:17",
+   "start_time_label": "27:17"
+  },
+  {
+   "start_ms": 1644320,
+   "end_ms": 1650080,
+   "snippet": "right whatever I had already said that I'm going to make like maybe 15% of my portfolio on Indian IT I have maxed out",
+   "start_time_text": "27:24",
+   "start_time_label": "27:24"
+  },
+  {
+   "start_ms": 1650080,
+   "end_ms": 1656080,
+   "snippet": "last month it has given a little bit of a rally so this is good uh we will not catch the absolute bottom right and but",
+   "start_time_text": "27:30",
+   "start_time_label": "27:30"
+  },
+  {
+   "start_ms": 1656080,
+   "end_ms": 1662159,
+   "snippet": "please remember we did not start buying Indian ID at weak we bought it when it was already like you know whatever 25",
+   "start_time_text": "27:36",
+   "start_time_label": "27:36"
+  },
+  {
+   "start_ms": 1662159,
+   "end_ms": 1667840,
+   "snippet": "30% down or something like this right I'll have to check the exact acquisition price so that was the point okay there",
+   "start_time_text": "27:42",
+   "start_time_label": "27:42"
+  },
+  {
+   "start_ms": 1667840,
+   "end_ms": 1673120,
+   "snippet": "is no fair acquisition price for Micron AMD ARM know uh those are harder stocks",
+   "start_time_text": "27:47",
+   "start_time_label": "27:47"
+  },
+  {
+   "start_ms": 1673120,
+   "end_ms": 1679760,
+   "snippet": "to decipher but I am in the process of adding some of these right and whenever I add I'll announce it on my community",
+   "start_time_text": "27:53",
+   "start_time_label": "27:53"
+  },
+  {
+   "start_ms": 1679760,
+   "end_ms": 1686320,
+   "snippet": "it's because they are they they are too volatile sooxx ETF I was out right and I",
+   "start_time_text": "27:59",
+   "start_time_label": "27:59"
+  },
+  {
+   "start_ms": 1686320,
+   "end_ms": 1692240,
+   "snippet": "booked profits on the right time right and uh uh yeah you haven't missed",
+   "start_time_text": "28:06",
+   "start_time_label": "28:06"
+  },
+  {
+   "start_ms": 1692240,
+   "end_ms": 1700000,
+   "snippet": "Microsoft rally guys koshik asked that hey missed Microsoft rally no you you haven't missed Microsoft is likely to do",
+   "start_time_text": "28:12",
+   "start_time_label": "28:12"
+  },
+  {
+   "start_ms": 1700000,
+   "end_ms": 1705440,
+   "snippet": "well right from this point because the latest results that they have announced they have said that Azure which is the",
+   "start_time_text": "28:20",
+   "start_time_label": "28:20"
+  },
+  {
+   "start_ms": 1705440,
+   "end_ms": 1711840,
+   "snippet": "cloud computing arm of Microsoft that has accelerated its revenues which kind of indicates to the market that boss not",
+   "start_time_text": "28:25",
+   "start_time_label": "28:25"
+  },
+  {
+   "start_ms": 1711840,
+   "end_ms": 1717679,
+   "snippet": "okay um Microsoft is now a pro one AI player it has showed to the world that",
+   "start_time_text": "28:31",
+   "start_time_label": "28:31"
+  },
+  {
+   "start_ms": 1717679,
+   "end_ms": 1724480,
+   "snippet": "it can make money via AI so therefore it rose like a trillion dollar company rising by a by 20% in a matter of two",
+   "start_time_text": "28:37",
+   "start_time_label": "28:37"
+  },
+  {
+   "start_ms": 1724480,
+   "end_ms": 1731760,
+   "snippet": "three trading sessions it's amazing right uh So hey A I'm new here. What is the",
+   "start_time_text": "28:44",
+   "start_time_label": "28:44"
+  },
+  {
+   "start_ms": 1731760,
+   "end_ms": 1739440,
+   "snippet": "difference between community and this membership? So guys uh YouTube community membership is uh basic in nature that I",
+   "start_time_text": "28:51",
+   "start_time_label": "28:51"
+  },
+  {
+   "start_ms": 1739440,
+   "end_ms": 1744960,
+   "snippet": "just discuss my approach. I do not discuss too much about individual stocks unless there is some mega movement in",
+   "start_time_text": "28:59",
+   "start_time_label": "28:59"
+  },
+  {
+   "start_ms": 1744960,
+   "end_ms": 1751360,
+   "snippet": "some. Okay. The uh the wisdom community that I run that's literally a portfolio",
+   "start_time_text": "29:04",
+   "start_time_label": "29:04"
+  },
+  {
+   "start_ms": 1751360,
+   "end_ms": 1759039,
+   "snippet": "re reveal community. I basically do do three things there. Number one, I whatever stocks I'm buying that week,",
+   "start_time_text": "29:11",
+   "start_time_label": "29:11"
+  },
+  {
+   "start_ms": 1759039,
+   "end_ms": 1765919,
+   "snippet": "um I update my community uh in real time basis. So if I for example on 30th July",
+   "start_time_text": "29:19",
+   "start_time_label": "29:19"
+  },
+  {
+   "start_ms": 1765919,
+   "end_ms": 1772399,
+   "snippet": "I added meta, I will reveal how much I added, what percentage of the portfolio, why am I adding it? You'll get the",
+   "start_time_text": "29:25",
+   "start_time_label": "29:25"
+  },
+  {
+   "start_ms": 1772399,
+   "end_ms": 1779360,
+   "snippet": "message on time via WhatsApp etc. Number two, you can look at my portfolio construction along with historic trades",
+   "start_time_text": "29:32",
+   "start_time_label": "29:32"
+  },
+  {
+   "start_ms": 1779360,
+   "end_ms": 1784640,
+   "snippet": "day- wise basis. Number three, I do classes right uh for my community every",
+   "start_time_text": "29:39",
+   "start_time_label": "29:39"
+  },
+  {
+   "start_ms": 1784640,
+   "end_ms": 1790240,
+   "snippet": "month. test last week I did uh like last this weekend I did two classes right uh",
+   "start_time_text": "29:44",
+   "start_time_label": "29:44"
+  },
+  {
+   "start_ms": 1790240,
+   "end_ms": 1797600,
+   "snippet": "for my community one class sorry one class for my community and where I discussed like approach going forward uh",
+   "start_time_text": "29:50",
+   "start_time_label": "29:50"
+  },
+  {
+   "start_ms": 1797600,
+   "end_ms": 1805440,
+   "snippet": "etc right so that's the nature of the community it's holistic it helps you build fundamental knowledge investing insight how am I I am investing my money",
+   "start_time_text": "29:57",
+   "start_time_label": "29:57"
+  },
+  {
+   "start_ms": 1805440,
+   "end_ms": 1811360,
+   "snippet": "I'm not saying that if you join that community you'll 100% win but what is going to happen is that you will actually see real investor putting money",
+   "start_time_text": "30:05",
+   "start_time_label": "30:05"
+  },
+  {
+   "start_ms": 1811360,
+   "end_ms": 1817360,
+   "snippet": "on the line real time basis okay so I have no view on vi engineer vary",
+   "start_time_text": "30:11",
+   "start_time_label": "30:11"
+  },
+  {
+   "start_ms": 1817360,
+   "end_ms": 1822720,
+   "snippet": "energy and uh just looking at the P is not a very sensible way of investing",
+   "start_time_text": "30:17",
+   "start_time_label": "30:17"
+  },
+  {
+   "start_ms": 1822720,
+   "end_ms": 1828559,
+   "snippet": "especially in micro cap midcap segment. Now I'm not this is not a yes or no to vary right I just don't know enough for",
+   "start_time_text": "30:22",
+   "start_time_label": "30:22"
+  },
+  {
+   "start_ms": 1828559,
+   "end_ms": 1833600,
+   "snippet": "me it's about comparing VI to something like let's say uh Oakllo okay so now why",
+   "start_time_text": "30:28",
+   "start_time_label": "30:28"
+  },
+  {
+   "start_ms": 1833600,
+   "end_ms": 1839760,
+   "snippet": "would I not pick something like Oklo maybe right so that's a choice right you always look for let's say both stocks",
+   "start_time_text": "30:33",
+   "start_time_label": "30:33"
+  },
+  {
+   "start_ms": 1839760,
+   "end_ms": 1845039,
+   "snippet": "have 50% stock run up potential then I'll look for lower risk okay so",
+   "start_time_text": "30:39",
+   "start_time_label": "30:39"
+  },
+  {
+   "start_ms": 1845039,
+   "end_ms": 1852960,
+   "snippet": "are you working for CIA I think you watch too much of goi media or whatever crap right so yeah no I don't okay uh",
+   "start_time_text": "30:45",
+   "start_time_label": "30:45"
+  },
+  {
+   "start_ms": 1852960,
+   "end_ms": 1858640,
+   "snippet": "advice on US I'm a full-time investor guys. I mean I don't have like time for all this political anymore,",
+   "start_time_text": "30:52",
+   "start_time_label": "30:52"
+  },
+  {
+   "start_ms": 1858640,
+   "end_ms": 1863679,
+   "snippet": "right? So yeah, I'm out. Okay, Oracle at current valuation. See guys, Oracle is a",
+   "start_time_text": "30:58",
+   "start_time_label": "30:58"
+  },
+  {
+   "start_ms": 1863679,
+   "end_ms": 1869200,
+   "snippet": "AI builtout trade, right? So if you are betting on AI built out,",
+   "start_time_text": "31:03",
+   "start_time_label": "31:03"
+  },
+  {
+   "start_ms": 1869200,
+   "end_ms": 1877120,
+   "snippet": "uh Oracle is worth considering, but it should be a part of your investing bucket on AI built out. Okay,",
+   "start_time_text": "31:09",
+   "start_time_label": "31:09"
+  },
+  {
+   "start_ms": 1877120,
+   "end_ms": 1882159,
+   "snippet": "bare case for meta that's very useful, a good analysis, guys. See for me the bare",
+   "start_time_text": "31:17",
+   "start_time_label": "31:17"
+  },
+  {
+   "start_ms": 1882159,
+   "end_ms": 1887360,
+   "snippet": "case of meta is um I mean I'll have to",
+   "start_time_text": "31:22",
+   "start_time_label": "31:22"
+  },
+  {
+   "start_ms": 1887360,
+   "end_ms": 1894240,
+   "snippet": "run the DCF on discounted cash flow valuations to talk about from a stock valuation point of view but more from a",
+   "start_time_text": "31:27",
+   "start_time_label": "31:27"
+  },
+  {
+   "start_ms": 1894240,
+   "end_ms": 1899679,
+   "snippet": "qualitative discussion point of view what is the bare case for meta what ends up happening is that one of the",
+   "start_time_text": "31:34",
+   "start_time_label": "31:34"
+  },
+  {
+   "start_ms": 1899679,
+   "end_ms": 1905519,
+   "snippet": "hyperscalers like Google or Amazon um",
+   "start_time_text": "31:39",
+   "start_time_label": "31:39"
+  },
+  {
+   "start_ms": 1905519,
+   "end_ms": 1911600,
+   "snippet": "Nvidia get into ads business right especially Google",
+   "start_time_text": "31:45",
+   "start_time_label": "31:45"
+  },
+  {
+   "start_ms": 1911600,
+   "end_ms": 1919679,
+   "snippet": "right and it takes ad business away from meta that is the bare case for meta okay uh that's how I would pursue it but",
+   "start_time_text": "31:51",
+   "start_time_label": "31:51"
+  },
+  {
+   "start_ms": 1919679,
+   "end_ms": 1925760,
+   "snippet": "finance I have made good money I do not I have no interest in owning more of it now right because of the large cap",
+   "start_time_text": "31:59",
+   "start_time_label": "31:59"
+  },
+  {
+   "start_ms": 1925760,
+   "end_ms": 1933919,
+   "snippet": "segmental thesis I told about the entire see guys I mean um you know in India the cost of credit is already very high baj",
+   "start_time_text": "32:05",
+   "start_time_label": "32:05"
+  },
+  {
+   "start_ms": 1933919,
+   "end_ms": 1940480,
+   "snippet": "finance is already a uh they will optimize for cost but I don't know how they will optimize about profits. So",
+   "start_time_text": "32:13",
+   "start_time_label": "32:13"
+  },
+  {
+   "start_ms": 1940480,
+   "end_ms": 1946960,
+   "snippet": "sorry how they were optimized for earning revenues. Okay. Why am I saying it? Because see I mean the last 2 three",
+   "start_time_text": "32:20",
+   "start_time_label": "32:20"
+  },
+  {
+   "start_ms": 1946960,
+   "end_ms": 1952000,
+   "snippet": "years have been or rather like last 5 years I would say",
+   "start_time_text": "32:26",
+   "start_time_label": "32:26"
+  },
+  {
+   "start_ms": 1952000,
+   "end_ms": 1959039,
+   "snippet": "the income levels or the wage growth rate in India has technically grown",
+   "start_time_text": "32:32",
+   "start_time_label": "32:32"
+  },
+  {
+   "start_ms": 1959039,
+   "end_ms": 1967440,
+   "snippet": "slower than inflation right inflation for discretionary spenders. Right? For example, right? For example, it jobs",
+   "start_time_text": "32:39",
+   "start_time_label": "32:39"
+  },
+  {
+   "start_ms": 1967440,
+   "end_ms": 1972799,
+   "snippet": "salary growth fast compared to the inflation for IT people. Okay, for",
+   "start_time_text": "32:47",
+   "start_time_label": "32:47"
+  },
+  {
+   "start_ms": 1972799,
+   "end_ms": 1979840,
+   "snippet": "example, if you're living in Gura, Mumbai, this that stuff like so inflation has gone up higher compared to whatever like your uh wage growth rate",
+   "start_time_text": "32:52",
+   "start_time_label": "32:52"
+  },
+  {
+   "start_ms": 1979840,
+   "end_ms": 1985919,
+   "snippet": "has been. So, this has been a general trend in white collar workers. So, what happens in such a scenario,",
+   "start_time_text": "32:59",
+   "start_time_label": "32:59"
+  },
+  {
+   "start_ms": 1985919,
+   "end_ms": 1992679,
+   "snippet": "right? I mean, if people are accustomed to a certain lifestyle, they will start taking personal loans,",
+   "start_time_text": "33:05",
+   "start_time_label": "33:05"
+  },
+  {
+   "start_ms": 1993039,
+   "end_ms": 1999360,
+   "snippet": "right? And therefore the business skyrocketed in this lean phanase of the economy. But lending businesses are very",
+   "start_time_text": "33:13",
+   "start_time_label": "33:13"
+  },
+  {
+   "start_ms": 1999360,
+   "end_ms": 2007279,
+   "snippet": "complicated right there are cycles right uh there will be default cycle credit bubble burst cycle etc. Uh so basically",
+   "start_time_text": "33:19",
+   "start_time_label": "33:19"
+  },
+  {
+   "start_ms": 2007279,
+   "end_ms": 2014000,
+   "snippet": "like it's already priced and right right so I mean uh and downside potential is there so I would rather pick like some",
+   "start_time_text": "33:27",
+   "start_time_label": "33:27"
+  },
+  {
+   "start_ms": 2014000,
+   "end_ms": 2019760,
+   "snippet": "other stock right which has potential of like you know 2xing 3xing compared to like bajach finance that's my",
+   "start_time_text": "33:34",
+   "start_time_label": "33:34"
+  },
+  {
+   "start_ms": 2019760,
+   "end_ms": 2025039,
+   "snippet": "understanding like bajach finance can very well continue to grow. I don't know. Um, so that's what I would say.",
+   "start_time_text": "33:39",
+   "start_time_label": "33:39"
+  },
+  {
+   "start_ms": 2025039,
+   "end_ms": 2028039,
+   "snippet": "Yeah.",
+   "start_time_text": "33:45",
+   "start_time_label": "33:45"
+  },
+  {
+   "start_ms": 2030720,
+   "end_ms": 2036880,
+   "snippet": "Okay. Someone asked me Tesla and SpaceX. I do plan to own SpaceX. Um, I'm",
+   "start_time_text": "33:50",
+   "start_time_label": "33:50"
+  },
+  {
+   "start_ms": 2036880,
+   "end_ms": 2043200,
+   "snippet": "monitoring right now. Whenever I get it at a decent valuation, I will own it. I have I own Zero right now. Okay. Memory",
+   "start_time_text": "33:56",
+   "start_time_label": "33:56"
+  },
+  {
+   "start_ms": 2043200,
+   "end_ms": 2049040,
+   "snippet": "theme is relevant. No doubt about that. It's cyclical in nature. If you're getting to buy it at a reasonable price",
+   "start_time_text": "34:03",
+   "start_time_label": "34:03"
+  },
+  {
+   "start_ms": 2049040,
+   "end_ms": 2055440,
+   "snippet": "point, it's worth buying. I am looking at I had micron and made money on it right and not like crazy ton money maybe",
+   "start_time_text": "34:09",
+   "start_time_label": "34:09"
+  },
+  {
+   "start_ms": 2055440,
+   "end_ms": 2061280,
+   "snippet": "I had like one and a half 2% of portfolio on it and it grew then I cut positions",
+   "start_time_text": "34:15",
+   "start_time_label": "34:15"
+  },
+  {
+   "start_ms": 2061280,
+   "end_ms": 2067359,
+   "snippet": "um I will be adding more micron right when if I get a chance okay",
+   "start_time_text": "34:21",
+   "start_time_label": "34:21"
+  },
+  {
+   "start_ms": 2067359,
+   "end_ms": 2073520,
+   "snippet": "uh okay guys maybe like one important question if QQQ has our big trust that",
+   "start_time_text": "34:27",
+   "start_time_label": "34:27"
+  },
+  {
+   "start_ms": 2073520,
+   "end_ms": 2080639,
+   "snippet": "is bound to go up in the long run then better TQQQ no so that's leverage guys so do not do that uh but I will try to",
+   "start_time_text": "34:33",
+   "start_time_label": "34:33"
+  },
+  {
+   "start_ms": 2080639,
+   "end_ms": 2086560,
+   "snippet": "answer like this question in a slightly different mathematical manner. See and this is a tweet that I wrote and you",
+   "start_time_text": "34:40",
+   "start_time_label": "34:40"
+  },
+  {
+   "start_ms": 2086560,
+   "end_ms": 2093200,
+   "snippet": "know I mean if you are like an intelligent investor you would actually look at these data points. Um think",
+   "start_time_text": "34:46",
+   "start_time_label": "34:46"
+  },
+  {
+   "start_ms": 2093200,
+   "end_ms": 2100240,
+   "snippet": "about it this way. Okay. So for example, if you are investing in small cap, midcap indexes in India which is the",
+   "start_time_text": "34:53",
+   "start_time_label": "34:53"
+  },
+  {
+   "start_ms": 2100240,
+   "end_ms": 2105440,
+   "snippet": "benchmark, you would typically make around 21% kagger. I mean you guys can",
+   "start_time_text": "35:00",
+   "start_time_label": "35:00"
+  },
+  {
+   "start_ms": 2105440,
+   "end_ms": 2111359,
+   "snippet": "check it. Okay, that 21 22% kagger in INR terms for small and midcap index.",
+   "start_time_text": "35:05",
+   "start_time_label": "35:05"
+  },
+  {
+   "start_ms": 2111359,
+   "end_ms": 2117680,
+   "snippet": "Okay, which means INRA minus 4% because US dollar appreciates",
+   "start_time_text": "35:11",
+   "start_time_label": "35:11"
+  },
+  {
+   "start_ms": 2117680,
+   "end_ms": 2124960,
+   "snippet": "to INR by 4%. So 18% decline. Now what is the growth rate of or average growth",
+   "start_time_text": "35:17",
+   "start_time_label": "35:17"
+  },
+  {
+   "start_ms": 2124960,
+   "end_ms": 2132800,
+   "snippet": "rate of QQQ over 3 5 7 10 15 20 year period. It's again 17 18%. Okay. So",
+   "start_time_text": "35:24",
+   "start_time_label": "35:24"
+  },
+  {
+   "start_ms": 2132800,
+   "end_ms": 2138640,
+   "snippet": "honestly the risk on QQQ or tech index in the US is lower",
+   "start_time_text": "35:32",
+   "start_time_label": "35:32"
+  },
+  {
+   "start_ms": 2138640,
+   "end_ms": 2144000,
+   "snippet": "and the rewards are almost equal on small midcap segments. Okay. The only",
+   "start_time_text": "35:38",
+   "start_time_label": "35:38"
+  },
+  {
+   "start_ms": 2144000,
+   "end_ms": 2149040,
+   "snippet": "way to win like structurally at a portfolio level uh in India is that if",
+   "start_time_text": "35:44",
+   "start_time_label": "35:44"
+  },
+  {
+   "start_ms": 2149040,
+   "end_ms": 2155760,
+   "snippet": "you're picking good quality u midcap small caps right and large caps",
+   "start_time_text": "35:49",
+   "start_time_label": "35:49"
+  },
+  {
+   "start_ms": 2155760,
+   "end_ms": 2162240,
+   "snippet": "are completely at other I have to give you like one kind of advice that you know I mean it would might it might make sense to cut large cap positions",
+   "start_time_text": "35:55",
+   "start_time_label": "35:55"
+  },
+  {
+   "start_ms": 2162240,
+   "end_ms": 2168880,
+   "snippet": "completely in India move to QQQ and India investing smallap microap right so",
+   "start_time_text": "36:02",
+   "start_time_label": "36:02"
+  },
+  {
+   "start_ms": 2168880,
+   "end_ms": 2175680,
+   "snippet": "uh that's better right I mean from that construction portfolio point of view for advanced investors. Okay.",
+   "start_time_text": "36:08",
+   "start_time_label": "36:08"
+  },
+  {
+   "start_ms": 2175680,
+   "end_ms": 2178680,
+   "snippet": "Uh",
+   "start_time_text": "36:15",
+   "start_time_label": "36:15"
+  },
+  {
+   "start_ms": 2180720,
+   "end_ms": 2187920,
+   "snippet": "uh Palenteer is very good. I've already aggregated this Palenteer right and took right and Palenteer long-term is a solid",
+   "start_time_text": "36:20",
+   "start_time_label": "36:20"
+  },
+  {
+   "start_ms": 2187920,
+   "end_ms": 2196160,
+   "snippet": "stock right and cyclical right I mean it it is little bit stretched but I don't think you will",
+   "start_time_text": "36:27",
+   "start_time_label": "36:27"
+  },
+  {
+   "start_ms": 2196160,
+   "end_ms": 2202160,
+   "snippet": "you'll get like Palunteer at cheap prices. Uh but yes I mean it's a high-risisk",
+   "start_time_text": "36:36",
+   "start_time_label": "36:36"
+  },
+  {
+   "start_ms": 2202160,
+   "end_ms": 2207760,
+   "snippet": "high reward stock. Service Now I already have guys and it has already moved up right so and it's",
+   "start_time_text": "36:42",
+   "start_time_label": "36:42"
+  },
+  {
+   "start_ms": 2207760,
+   "end_ms": 2213359,
+   "snippet": "very good. I would say service now is is a fabulous company. It actually benefits from AI rather than getting wiped out.",
+   "start_time_text": "36:47",
+   "start_time_label": "36:47"
+  },
+  {
+   "start_ms": 2213359,
+   "end_ms": 2219680,
+   "snippet": "And if market is beating the entire software theme for example market beat Microsoft also because it kind of you",
+   "start_time_text": "36:53",
+   "start_time_label": "36:53"
+  },
+  {
+   "start_ms": 2219680,
+   "end_ms": 2224960,
+   "snippet": "know sort of u thought that it's a software company. It's not. It's very",
+   "start_time_text": "36:59",
+   "start_time_label": "36:59"
+  },
+  {
+   "start_ms": 2224960,
+   "end_ms": 2231520,
+   "snippet": "wide company right. Um so I do I am bullish on service now. It's not a buy and hold stock for me for like you know",
+   "start_time_text": "37:04",
+   "start_time_label": "37:04"
+  },
+  {
+   "start_ms": 2231520,
+   "end_ms": 2237520,
+   "snippet": "5 years 10 years something like this basically like I just want to trade one good cycle on service now and I do see",
+   "start_time_text": "37:11",
+   "start_time_label": "37:11"
+  },
+  {
+   "start_ms": 2237520,
+   "end_ms": 2246400,
+   "snippet": "like maybe 40 45 50% potential I'll cut and move out okay",
+   "start_time_text": "37:17",
+   "start_time_label": "37:17"
+  },
+  {
+   "start_ms": 2246400,
+   "end_ms": 2251440,
+   "snippet": "uh your views on higher valuation of mutual fund stocks and hospital stocks and",
+   "start_time_text": "37:26",
+   "start_time_label": "37:26"
+  },
+  {
+   "start_ms": 2251440,
+   "end_ms": 2257680,
+   "snippet": "large fund hospitals are getting listed right uh Priya actually you know what I would advocate is that forget about all",
+   "start_time_text": "37:31",
+   "start_time_label": "37:31"
+  },
+  {
+   "start_ms": 2257680,
+   "end_ms": 2262720,
+   "snippet": "this okay basically Like what you need to do is that you need to independently learn how to study valuations. Maybe",
+   "start_time_text": "37:37",
+   "start_time_label": "37:37"
+  },
+  {
+   "start_ms": 2262720,
+   "end_ms": 2269040,
+   "snippet": "I'll make like a uh video for um for community guys. I don't run any stock",
+   "start_time_text": "37:42",
+   "start_time_label": "37:42"
+  },
+  {
+   "start_ms": 2269040,
+   "end_ms": 2276000,
+   "snippet": "market course. I only run global investing community. That's it right you know uh I have not been running any",
+   "start_time_text": "37:49",
+   "start_time_label": "37:49"
+  },
+  {
+   "start_ms": 2276000,
+   "end_ms": 2281200,
+   "snippet": "courses. Uh global investing community basically like whatever wherever I am investing my money I just tell my",
+   "start_time_text": "37:56",
+   "start_time_label": "37:56"
+  },
+  {
+   "start_ms": 2281200,
+   "end_ms": 2286720,
+   "snippet": "student you know what okay guys I'm this is what I'm doing right very honestly right and in real time. Okay, that's the",
+   "start_time_text": "38:01",
+   "start_time_label": "38:01"
+  },
+  {
+   "start_ms": 2286720,
+   "end_ms": 2292000,
+   "snippet": "USP of that, right? I don't teach any courses per say I do like once a month I",
+   "start_time_text": "38:06",
+   "start_time_label": "38:06"
+  },
+  {
+   "start_ms": 2292000,
+   "end_ms": 2300640,
+   "snippet": "teach like two classes that's it right now to this global investing community right um okay your higher valuation of",
+   "start_time_text": "38:12",
+   "start_time_label": "38:12"
+  },
+  {
+   "start_ms": 2300640,
+   "end_ms": 2308079,
+   "snippet": "mutual funds and then hospital stocks of a large uh something",
+   "start_time_text": "38:20",
+   "start_time_label": "38:20"
+  },
+  {
+   "start_ms": 2308079,
+   "end_ms": 2313200,
+   "snippet": "second just a second guys I'm just looking at",
+   "start_time_text": "38:28",
+   "start_time_label": "38:28"
+  },
+  {
+   "start_ms": 2313200,
+   "end_ms": 2320240,
+   "snippet": "like some tech thingy okay Uh okay so",
+   "start_time_text": "38:33",
+   "start_time_label": "38:33"
+  },
+  {
+   "start_ms": 2320240,
+   "end_ms": 2328000,
+   "snippet": "I mean see higher valuation you should be a little bit careful right um if you're buying hospitals I also",
+   "start_time_text": "38:40",
+   "start_time_label": "38:40"
+  },
+  {
+   "start_ms": 2328000,
+   "end_ms": 2333440,
+   "snippet": "bought and I still have like max hospital and what not earlier",
+   "start_time_text": "38:48",
+   "start_time_label": "38:48"
+  },
+  {
+   "start_ms": 2333440,
+   "end_ms": 2339440,
+   "snippet": "see you'll see like whatever like 150% 200%",
+   "start_time_text": "38:53",
+   "start_time_label": "38:53"
+  },
+  {
+   "start_ms": 2339440,
+   "end_ms": 2344720,
+   "snippet": "but at some point the stock price will run ahead of its",
+   "start_time_text": "38:59",
+   "start_time_label": "38:59"
+  },
+  {
+   "start_ms": 2344720,
+   "end_ms": 2350079,
+   "snippet": "fair valuation and then it will go into a correction cycle So therefore profit booking is very",
+   "start_time_text": "39:04",
+   "start_time_label": "39:04"
+  },
+  {
+   "start_ms": 2350079,
+   "end_ms": 2356400,
+   "snippet": "important. So I do feel that you know stretch right and maybe like it kind of",
+   "start_time_text": "39:10",
+   "start_time_label": "39:10"
+  },
+  {
+   "start_ms": 2356400,
+   "end_ms": 2362000,
+   "snippet": "makes sense uh to um to be a little bit chill with it.",
+   "start_time_text": "39:16",
+   "start_time_label": "39:16"
+  },
+  {
+   "start_ms": 2362000,
+   "end_ms": 2367599,
+   "snippet": "Okay. So like do not chase stocks. Okay. Uh",
+   "start_time_text": "39:22",
+   "start_time_label": "39:22"
+  },
+  {
+   "start_ms": 2367599,
+   "end_ms": 2374320,
+   "snippet": "okay. How can Indian investors d-risk US stocks without options guys? you don't need to like I mean a good portfolio",
+   "start_time_text": "39:27",
+   "start_time_label": "39:27"
+  },
+  {
+   "start_ms": 2374320,
+   "end_ms": 2381520,
+   "snippet": "construction itself solves 70 80% of your problems okay now how can so this",
+   "start_time_text": "39:34",
+   "start_time_label": "39:34"
+  },
+  {
+   "start_ms": 2381520,
+   "end_ms": 2387599,
+   "snippet": "question is very good right so I'll just maybe take this as a last question and you know we'll meet again someday uh so",
+   "start_time_text": "39:41",
+   "start_time_label": "39:41"
+  },
+  {
+   "start_ms": 2387599,
+   "end_ms": 2393440,
+   "snippet": "tjas has asked that hey I'm an Indian investor okay and I'm buying US stocks now how do I d-risk myself right because",
+   "start_time_text": "39:47",
+   "start_time_label": "39:47"
+  },
+  {
+   "start_ms": 2393440,
+   "end_ms": 2399040,
+   "snippet": "I can't use options very legitimate concern the way is that you divide your",
+   "start_time_text": "39:53",
+   "start_time_label": "39:53"
+  },
+  {
+   "start_ms": 2399040,
+   "end_ms": 2404480,
+   "snippet": "portfolio into at least at least three to four buckets. Three buckets.",
+   "start_time_text": "39:59",
+   "start_time_label": "39:59"
+  },
+  {
+   "start_ms": 2404480,
+   "end_ms": 2410000,
+   "snippet": "Number one, you buy like stocks in the US for long-term. For example, meta is a",
+   "start_time_text": "40:04",
+   "start_time_label": "40:04"
+  },
+  {
+   "start_ms": 2410000,
+   "end_ms": 2414920,
+   "snippet": "high quality stock which is available at a discount.",
+   "start_time_text": "40:10",
+   "start_time_label": "40:10"
+  },
+  {
+   "start_ms": 2415520,
+   "end_ms": 2421520,
+   "snippet": "I mean, everyday is like products you're using. It's like whatever like nanny company whatever it is right. So that is",
+   "start_time_text": "40:15",
+   "start_time_label": "40:15"
+  },
+  {
+   "start_ms": 2421520,
+   "end_ms": 2425480,
+   "snippet": "there. Okay. So",
+   "start_time_text": "40:21",
+   "start_time_label": "40:21"
+  },
+  {
+   "start_ms": 2427599,
+   "end_ms": 2433760,
+   "snippet": "if you pick your India that's another layer of diversity because you have US",
+   "start_time_text": "40:27",
+   "start_time_label": "40:27"
+  },
+  {
+   "start_ms": 2433760,
+   "end_ms": 2440800,
+   "snippet": "assets which are meta Microsoft whatever you have India assets proportion",
+   "start_time_text": "40:33",
+   "start_time_label": "40:33"
+  },
+  {
+   "start_ms": 2440800,
+   "end_ms": 2446800,
+   "snippet": "and third you have hedges for example just a gold is an u is a non-correlated",
+   "start_time_text": "40:40",
+   "start_time_label": "40:40"
+  },
+  {
+   "start_ms": 2446800,
+   "end_ms": 2453119,
+   "snippet": "asset to stocks typically speaking okay that is there right you can buy this if you are a high net worth individual you",
+   "start_time_text": "40:46",
+   "start_time_label": "40:46"
+  },
+  {
+   "start_ms": 2453119,
+   "end_ms": 2458480,
+   "snippet": "can buy real estate so part of your portfolio I don't have that level of",
+   "start_time_text": "40:53",
+   "start_time_label": "40:53"
+  },
+  {
+   "start_ms": 2458480,
+   "end_ms": 2464240,
+   "snippet": "money I can buy like you know sort of Indian real estate and all that stuff cool no problem just keep that third",
+   "start_time_text": "40:58",
+   "start_time_label": "40:58"
+  },
+  {
+   "start_ms": 2464240,
+   "end_ms": 2471920,
+   "snippet": "bucket liquid then what you are doing is that you're just keeping 20% of the money on the sidelines market right I",
+   "start_time_text": "41:04",
+   "start_time_label": "41:04"
+  },
+  {
+   "start_ms": 2471920,
+   "end_ms": 2479680,
+   "snippet": "mean when there's a lot of bloodbath in the market then only I will deploy this 20% cash market okay so uh that's pretty",
+   "start_time_text": "41:11",
+   "start_time_label": "41:11"
+  },
+  {
+   "start_ms": 2479680,
+   "end_ms": 2485359,
+   "snippet": "much it guys I I think Um a lot of questions but I hope you enjoyed this conversation. It gave you like a sense",
+   "start_time_text": "41:19",
+   "start_time_label": "41:19"
+  },
+  {
+   "start_ms": 2485359,
+   "end_ms": 2492960,
+   "snippet": "of how to uh sort of invest right and uh uh just a second I don't know how to end",
+   "start_time_text": "41:25",
+   "start_time_label": "41:25"
+  },
+  {
+   "start_ms": 2492960,
+   "end_ms": 2498560,
+   "snippet": "this live stream. Okay. So like I'm just trying to figure out um uh so maybe till",
+   "start_time_text": "41:32",
+   "start_time_label": "41:32"
+  },
+  {
+   "start_ms": 2498560,
+   "end_ms": 2506880,
+   "snippet": "then I'll keep on answering some questions. Okay. So uh okay. So maybe I'll take a question. Yeah. So guys uh",
+   "start_time_text": "41:38",
+   "start_time_label": "41:38"
+  },
+  {
+   "start_ms": 2506880,
+   "end_ms": 2513359,
+   "snippet": "okay. So my teammate is here. So we'll end the live stream but I hope you enjoy this conversation. Right. And I'll see you next month probably. I'll try to do",
+   "start_time_text": "41:46",
+   "start_time_label": "41:46"
+  },
+  {
+   "start_ms": 2513359,
+   "end_ms": 2520520,
+   "snippet": "this like maybe once every one, two months. Cool. This gave you clarity. Yeah. Thanks so much for watching.",
+   "start_time_text": "41:53",
+   "start_time_label": "41:53"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "en",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=nD26pvHvbo4"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:26:28"
+}

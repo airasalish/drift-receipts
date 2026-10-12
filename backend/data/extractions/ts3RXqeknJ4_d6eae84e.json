@@ -1,0 +1,47 @@
+{
+ "calls": [
+  {
+   "company": "HDFC Bank",
+   "symbol_guess": "HDFCBANK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "you have purchased like you know some like HDFC large cap.",
+   "start_s": 520,
+   "line": "parak flexi gap. You have purchased like",
+   "evidence": [
+    {
+     "text": "HDFC",
+     "where": "transcript",
+     "start_s": 523
+    }
+   ],
+   "reason": "Used as an example of a large‑cap fund holding, not a specific stock pick."
+  },
+  {
+   "company": "ICICI Bank",
+   "symbol_guess": "ICICIBANK",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "you have purchased like ICICI something large cap.",
+   "start_s": 526,
+   "line": "have purchased like ICICI something",
+   "evidence": [
+    {
+     "text": "ICICI",
+     "where": "transcript",
+     "start_s": 526
+    }
+   ],
+   "reason": "Mentioned as a sample large‑cap holding, without any buy/sell instruction."
+  }
+ ],
+ "rejected_unverified": 5,
+ "chunks": 7,
+ "llm_failed_chunks": 0
+}

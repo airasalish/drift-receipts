@@ -1,0 +1,565 @@
+{
+ "search_metadata": {
+  "id": "6ac9f7584a99b77d2a090585",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/OL7xTmThS-QKXRyW1CWp3JvD2dw2f5fV2GMgB-bAQFo/6ac9f7584a99b77d2a090585.json",
+  "markdown_endpoint": "https://serpapi.com/searches/OL7xTmThS-QKXRyW1CWp3JvD2dw2f5fV2GMgB-bAQFo/6ac9f7584a99b77d2a090585.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/OL7xTmThS-QKXRyW1CWp3JvD2dw2f5fV2GMgB-bAQFo/6ac9f7584a99b77d2a090585.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:12 UTC",
+  "processed_at": "2026-10-10 08:29:12 UTC",
+  "google_url": "https://www.google.com/search?q=Microsoft+share+price&oq=Microsoft+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/OL7xTmThS-QKXRyW1CWp3JvD2dw2f5fV2GMgB-bAQFo/6ac9f7584a99b77d2a090585.html",
+  "total_time_taken": 0.52
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Microsoft share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Microsoft share price",
+  "total_results": 124,
+  "time_taken_displayed": 0.31,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Microsoft Corp",
+  "type": "NASDAQ: MSFT",
+  "entity_type": "finance",
+  "kgmid": "/m/07zln_9",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07zln_9&hl=en-IN&q=Microsoft+Corp",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en-IN&kgmid=%2Fm%2F07zln_9&q=Microsoft+Corp",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAgCAMAAABw3UvaAAAAn1BMVEX___-VlZX5-fno6OiKioqQkJDf39_j4-OkpKSfn5-ZmZnDw8O8vLx7e3vc3Nxvb2_JyckAnu7_twD_79P4qZrwKQDxNgDpqINmtQBwswCCuyX5saLyRgvyUCLzRxTrsJB2uwB_ugCOwT_7VBn7XCp6wSKRxlGzs7O54vxlw_nD4O3_0Gr_0HX_1Yea0_enz-H_vzliYmIBpO_o9P3R6vtO9W2ZAAAA00lEQVQ4je3QW0_CQBCG4TnsYWh3t9MqKhVFRKhVxAP9_7_NXuiNNCa9MTHpez1PvmQApqb-Wefzi_nl1WJRj4XXy5vb1d16fQ_gPAAnzyc3osNw-QWzAiAa9j9P3IxwAG4eNqttXe96mCVGVM2jNCYYixyFommyaIv8BD62bfv0vN-_AKBHSTbXfliSBsA8siQokgwtHsqP8rWqqjcAS9aQ6SGReJ1BZHpvAhROyPwKA7lEITnGoAzBJo8Kgsw69J5DWX7DcR27rjue9Y2FU1N_0ycFpQ50nRvlWQAAAABJRU5ErkJggg.png",
+    "source": "http://t3.gstatic.com/images?q=tbn:ANd9GcS6km-cD_vSytVSWHMXb5BsNyvx-Ee58bq9Ak5VyKaYZtKokr7C"
+   }
+  ],
+  "description": "Microsoft Corporation is an American multinational technology company headquartered in Redmond, Washington.",
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Microsoft"
+  },
+  "headquarters": "Redmond, Washington, United States",
+  "headquarters_links": [
+   {
+    "text": "Redmond, Washington, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Redmond,+Washington&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpq-zxRz4ok0MUDzww13T2Bni7zyEsqRBnx_Ct0tBUH_THBHvhC3pciQzv8kVsyjvBcUIkIRhcdrbWTQtelHhkFfEniMDnh_IQunxjWxu9XgX3pxCsqNte80WwOo8XbmIML2ldCOWsVns7XeYeSLL480Yax-QJUWMRQh_DcLeemZJOrts_A%3D%3D&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhFEAI"
+   }
+  ],
+  "number_of_employees": "2,23,000 (2026)",
+  "founded": "4 April 1975, Albuquerque, New Mexico, United States",
+  "founded_links": [
+   {
+    "text": "Albuquerque, New Mexico, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Albuquerque&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgbJRIaLk1U5IBSLs0YAptWh_9OawRhDiufVVryvhqWpkMYhlvyWAGCXSRuJkpH2G8WKqK71ymEMho8T9dc9FXnWu3QNWhbsDCo0cFMzqA6TG1mYi81-V0m5g8mnCu4jie39cnqtIdFBdvaS0C2MgD5jG9f4&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhIEAI"
+   }
+  ],
+  "ceo": "Satya Nadella (4 Feb 2014–)",
+  "ceo_links": [
+   {
+    "text": "Satya Nadella",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Satya+Nadella&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6774HBF6gU6AcAtGSuONAY_K0H-P5U6ZFk5Ia5TvEVt8abvhz-L9YwWiZvaJMGMTL-umT2J8We0EnWCaaLSdV6k9Oyd6eOM7M0NwSqJWqzuLXbr-kp6VRr8P0lulvO0cAcbvdACVcT_V7PDr7QrKx2PNxlAqu_S_ZNzmk0L44GtYjeUPgmA%3D%3D&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhLEAI"
+   }
+  ],
+  "subsidiaries": "GitHub, LinkedIn Corporation, Activision",
+  "subsidiaries_links": [
+   {
+    "text": "GitHub",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=GitHub&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67zChMehp-fDwLeJq9UM5vRfRIMcghXQYYYyhx332oSv-03FTdkzun-giy-mdZIuPlkVYsQYd8nnkvcEPxEGzU2O7y8wtYOBd8rq1H---cqq8HMiQB7uk7dsWdOspLeTIA4VYk8JuWVFHb08dTgN4FWjvJZR4&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhHEAI"
+   },
+   {
+    "text": "LinkedIn Corporation",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=LinkedIn+Corporation&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW6745EKME00xXBnTTQAFiwjOP0WEfzGTRomJafJ8FSHWjMB3wHpYJE46EVZacu1WPmZE-jEL3gu3SZ2rcj8nILJJBbsfBoM2LD8-qRE18HnUNcVUSk-BSD59szYZ9wHZbwew1h8Zs-RxcNOu3Yf6yDmiDsQA012IKKiIy4gQKXqCWhUG2afw%3D%3D&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhHEAM"
+   },
+   {
+    "text": "Activision",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Activision&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpmPbqvWOTgl359jWO7Fp_JuZ6KaDzuiDTIt7STqB3CqL_YqASXs8RP4NPYxTy7VarX6HlMuRWPEkuHaYY9nBPR8TqM9gg8b186I6lOqVLxFwLuZW5HI1s8JM_Ia_-avkQiND9xEBFnE5ci1j8Xwp6aS0BQDy&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhHEAQ"
+   },
+   {
+    "text": "See more",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=nasdaq:msft+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LSz9U3MK_KyYu31NLOTrbST8vMS8xLTtUvLslPzrZKzs8tSMyr1M3MS8tXKC5NKs5MyUwsykwtXsQqkZdYnJJYaJVbnFaCIgUAUQPoOFYAAAA&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ44YBegQIRxAF"
+   }
+  ],
+  "founders": "Bill Gates, Paul Allen",
+  "founders_links": [
+   {
+    "text": "Bill Gates",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Bill+Gates&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpop6k2D9i0J8bS-3B4V45JcRPjpP2k2FC12y6qc8Rz1ZUXBBQEIObVe-joQKbjdP7Y16h0k_4CR-ojQpd0_1Myg9uyrgrVovMSLNRbjqXIZFjJdbvQJeDxDTCEKqH2JIwMQzPYR51zVvvsCZzyImv_BJ4ZmI&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhGEAI"
+   },
+   {
+    "text": "Paul Allen",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Paul+Allen&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMph1Kdf_Ih1uhzSkd9jcSGkyep6ixxPANWO7xrs7Jyq9ulQB7vfQ18uSY0_tOQ78exC3fYKJmIWk_MJT08XKIgwmoxDI-3R7M44WlxWcXt5sYczPRDx4GJLMl6sHZOXSWylrONrceIZKbQTglyio4GTQrfar7&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQmxN6BAhGEAM"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Quarterly financials"
+   },
+   {
+    "title": "Earnings"
+   }
+  ]
+ },
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Microsoft Corporation (MSFT) closed at 535.07 USD on NASDAQ, up by $12.46 (2.38%) from the previous close.",
+    "snippet_links": [
+     {
+      "text": "535.07 USD",
+      "link": "https://finance.yahoo.com/quote/MSFT/"
+     }
+    ]
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Last Close Price: $535.07 USD"
+     },
+     {
+      "snippet": "Previous Close: $522.61 USD"
+     },
+     {
+      "snippet": "Daily Range: $526.24 – $537.22 USD"
+     },
+     {
+      "snippet": "52-Week Range: $349.20 – $553.72 USD"
+     },
+     {
+      "snippet": "Market Capitalization: ~$3.97 trillion USD"
+     },
+     {
+      "snippet": "Price-to-Earnings (P/E) Ratio: 29.82"
+     }
+    ]
+   }
+  ]
+ },
+ "answer_box": {
+  "type": "finance_results",
+  "title": "You said: Microsoft share priceMicrosoft share price",
+  "exchange": "NASDAQ",
+  "stock": "MSFT",
+  "currency": "USD",
+  "price": 535.07,
+  "price_movement": {
+   "percentage": 2.38,
+   "movement": "Up",
+   "date": "today"
+  },
+  "market": {
+   "closed": true,
+   "date": "9 Oct, 7:59 pm GMT-4",
+   "trading": "After hours",
+   "price": 535.0,
+   "price_movement": {
+    "price": 0.07,
+    "percentage": 0.013,
+    "movement": "Down"
+   }
+  },
+  "table": [
+   {
+    "name": "Open",
+    "value": 528.24
+   },
+   {
+    "name": "High",
+    "value": 537.22
+   },
+   {
+    "name": "Low",
+    "value": 526.24
+   },
+   {
+    "name": "Mkt cap",
+    "value": 3.97
+   },
+   {
+    "name": "P/E ratio",
+    "value": 29.82
+   },
+   {
+    "name": "52-wk high",
+    "value": 553.72
+   },
+   {
+    "name": "Dividend",
+    "value": 0.73
+   },
+   {
+    "name": "Qtrly div amt",
+    "value": 0.98
+   },
+   {
+    "name": "52-wk low",
+    "value": 349.2
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Microsoft (MSFT) Stock price today - quote & chart",
+   "link": "https://www.kraken.com/stocks/msft",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVMnPZoyyVET5edj0n4djnB1s0gvKWkpTvCqDQcWHanK-GhWZZSOJU4h8o8Cl5LTN8sj1277Yi7G4wxFv87aeWUMTtgONqCc5JReWxV-kswzqKUHWAI2XwWg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://www.kraken.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png",
+   "snippet": "The Microsoft Corporation Common Stock (MSFT) stock pre-market price today is $529.21, The previous closing price was $522.71.",
+   "snippet_highlighted_words": [
+    "529.21"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Microsoft Corporation Common Stock (MSFT) stock pre-market price today is $529.21, The previous closing price was $522.71.",
+     "source_info_link": "https://www.kraken.com/stocks/msft",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVk1uUFpveXlWRVQ1ZWRqMG40ZGpuQjFzMGd2S1drcFR2Q3FEUWNXSGFuSy1HaFdaWlNPSlU0aDhvOENsNUxUTjhzajEyNzdZaTdHNHd4RnY4N2FlV1VNVHRnT05xQ2M1SlJlV3hWLWtzd3pxS1VIV0FJMlh3V2cSBBoCCAAa6QQSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACoQCgltaWNyb3NvZnQV2LSCQCpkCgVzaGFyZRVxqBw_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRXBdFFAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVk1uUFpveXlWRVQ1ZWRqMG40ZGpuQjFzMGd2S1drcFR2Q3FEUWNXSGFuSy1HaFdaWlNPSlU0aDhvOENsNUxUTjhzajEyNzdZaTdHNHd4RnY4N2FlV1VNVHRnT05xQ2M1SlJlV3hWLWtzd3pxS1VIV0FJMlh3V2c6TTxiPk1pY3Jvc29mdDwvYj4gKE1TRlQpIDxiPlN0b2NrIHByaWNlPC9iPiB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0IC0gS3Jha2VuQoUBVGhlIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBDb21tb24gU3RvY2sgKE1TRlQpIHN0b2NrIHByZS1tYXJrZXQgcHJpY2UgdG9kYXkgaXMgJDxiPjUyOS4yMTwvYj4sIFRoZSBwcmV2aW91cyBjbG9zaW5nIHByaWNlIHdhcyAkNTIyLjcxLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVk1uUFpveXlWRVQ1ZWRqMG40ZGpuQjFzMGd2S1drcFR2Q3FEUWNXSGFuSy1HaFdaWlNPSlU0aDhvOENsNUxUTjhzajEyNzdZaTdHNHd4RnY4N2FlV1VNVHRnT05xQ2M1SlJlV3hWLWtzd3pxS1VIV0FJMlh3V2cSBBoCCAAa6QQSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAxQQIABAAGAAgACoQCgltaWNyb3NvZnQV2LSCQCpkCgVzaGFyZRVxqBw_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRXBdFFAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVk1uUFpveXlWRVQ1ZWRqMG40ZGpuQjFzMGd2S1drcFR2Q3FEUWNXSGFuSy1HaFdaWlNPSlU0aDhvOENsNUxUTjhzajEyNzdZaTdHNHd4RnY4N2FlV1VNVHRnT05xQ2M1SlJlV3hWLWtzd3pxS1VIV0FJMlh3V2c6TTxiPk1pY3Jvc29mdDwvYj4gKE1TRlQpIDxiPlN0b2NrIHByaWNlPC9iPiB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0IC0gS3Jha2VuQoUBVGhlIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiBDb21tb24gU3RvY2sgKE1TRlQpIHN0b2NrIHByZS1tYXJrZXQgcHJpY2UgdG9kYXkgaXMgJDxiPjUyOS4yMTwvYj4sIFRoZSBwcmV2aW91cyBjbG9zaW5nIHByaWNlIHdhcyAkNTIyLjcxLiICEAFIAFgAaAA",
+   "source": "Kraken"
+  },
+  {
+   "position": 2,
+   "title": "Microsoft Corporation (MSFT) Share Price Today",
+   "link": "https://www.valueresearchonline.com/stocks/43289/microsoft-corporation-msft/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShwEB6zswFU8a2gAfBj84jfTJZdV7qdDIXldqUo5wrWmvJA1kDDxCbxYOjv8lobl-pciybkS6IX5I0pIsBqQ4jfY2eJvWxqLMgZfAO65RfnGtZgoD2CO4WhaRbhU5IbALyneP4EHnWhMKFUFnXYFOEml5EukVYAuwmLFhLU_UltTca-cBlWNJ7F0&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECDEQAQ&uoh=1",
+   "displayed_link": "https://www.valueresearchonline.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEUdT58dT58dT58bTp8US51bebQ6Yqj___9xirwIR5zG0OR_lcOkstIAPZiQo8rb4u61wttIa61Qb66ak-vhAAAAAnRSTlMv51rhgo4AAACsSURBVHgBfdKBFkRACEBRakhD4P8_dhug6bTeLnABNE0Lf2qdedURpiBUUETogno8MPUUNPCNeXRNBifhKuksMlSlL5Q5xNs8WrO4CFa2DAZpldcm3bazSLMYY7Z7TktZ0FDWco5UIRNtfFpmhBplI4KEkikLgsNyloVvA66x3EDOtKppySHISrcBe0RZ7rv1F8SaSPjK8uxaDQaNJyLsQYAFtfDL1L4_aqvefhqFEa-HvoGoAAAAAElFTkSuQmCC.png",
+   "snippet": "The share price of Microsoft Corporation (MSFT) is $522.61 (NASDAQ) as of 08-Oct-2026 16:28 EDT. Microsoft has given a return of 16.89% in the last 3 years.",
+   "snippet_highlighted_words": [
+    "522.61 (NASDAQ"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The share price of Microsoft Corporation (MSFT) is $522.61 (NASDAQ) as of 08-Oct-2026 16:28 EDT. Microsoft has given a return of 16.89% in the last 3 years.",
+     "source_info_link": "https://www.valueresearchonline.com/stocks/43289/microsoft-corporation-msft/",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAOVBMVEUdT58dT58dT58bTp8US51bebQ6Yqj___9xirwIR5zG0OR_lcOkstIAPZiQo8rb4u61wttIa61Qb66ak-vhAAAAAnRSTlMv51rhgo4AAACsSURBVHgBfdKBFkRACEBRakhD4P8_dhug6bTeLnABNE0Lf2qdedURpiBUUETogno8MPUUNPCNeXRNBifhKuksMlSlL5Q5xNs8WrO4CFa2DAZpldcm3bazSLMYY7Z7TktZ0FDWco5UIRNtfFpmhBplI4KEkikLgsNyloVvA66x3EDOtKppySHISrcBe0RZ7rv1F8SaSPjK8uxaDQaNJyLsQYAFtfDL1L4_aqvefhqFEa-HvoGoAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZVOGEyZ0FmQmo4NGpmVEpaZFY3cWRESVhsZHFVbzV3cldtdkpBMWtERHhDYnhZT2p2OGxvYmwtcGNpeWJrUzZJWDVJMHBJc0JxUTRqZlkyZUp2V3hxTE1nWmZBTzY1UmZuR3RaZ29EMkNPNFdoYVJiaFU1SWJBTHluZVA0RUhuV2hNS0ZVRm5YWUZPRW1sNUV1a1ZZQXV3bUxGaExVX1VsdFRjYS1jQmxXTko3RjASBBoCCAAasQUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCLBQgAEAAYACAAKhAKCW1pY3Jvc29mdBWCVaNAKmQKBXNoYXJlFY9DhkAaBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFaKydUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlU4YTJnQWZCajg0amZUSlpkVjdxZERJWGxkcVVvNXdyV212SkExa0REeENieFlPanY4bG9ibC1wY2l5YmtTNklYNUkwcElzQnFRNGpmWTJlSnZXeHFMTWdaZkFPNjVSZm5HdFpnb0QyQ080V2hhUmJoVTVJYkFMeW5lUDRFSG5XaE1LRlVGblhZRk9FbWw1RXVrVllBdXdtTEZoTFVfVWx0VGNhLWNCbFdOSjdGMDo8PGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiAoTVNGVCkgPGI-U2hhcmUgUHJpY2U8L2I-IFRvZGF5QqMBVGhlIHNoYXJlIHByaWNlIG9mIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiAoTVNGVCkgaXMgJDxiPjUyMi42MSAoTkFTREFRPC9iPikgYXMgb2YgMDgtT2N0LTIwMjYgMTY6MjggRURULiBNaWNyb3NvZnQgaGFzIGdpdmVuIGEgcmV0dXJuIG9mIDE2Ljg5JSBpbiB0aGUgbGFzdCAzIHllYXJzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsUBL2dvdG8_dXJsPUNBRVNod0VCNnpzd0ZVOGEyZ0FmQmo4NGpmVEpaZFY3cWRESVhsZHFVbzV3cldtdkpBMWtERHhDYnhZT2p2OGxvYmwtcGNpeWJrUzZJWDVJMHBJc0JxUTRqZlkyZUp2V3hxTE1nWmZBTzY1UmZuR3RaZ29EMkNPNFdoYVJiaFU1SWJBTHluZVA0RUhuV2hNS0ZVRm5YWUZPRW1sNUV1a1ZZQXV3bUxGaExVX1VsdFRjYS1jQmxXTko3RjASBBoCCAAasQUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCLBQgAEAAYACAAKhAKCW1pY3Jvc29mdBWCVaNAKmQKBXNoYXJlFY9DhkAaBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFaKydUAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyxQEvZ290bz91cmw9Q0FFU2h3RUI2enN3RlU4YTJnQWZCajg0amZUSlpkVjdxZERJWGxkcVVvNXdyV212SkExa0REeENieFlPanY4bG9ibC1wY2l5YmtTNklYNUkwcElzQnFRNGpmWTJlSnZXeHFMTWdaZkFPNjVSZm5HdFpnb0QyQ080V2hhUmJoVTVJYkFMeW5lUDRFSG5XaE1LRlVGblhZRk9FbWw1RXVrVllBdXdtTEZoTFVfVWx0VGNhLWNCbFdOSjdGMDo8PGI-TWljcm9zb2Z0PC9iPiBDb3Jwb3JhdGlvbiAoTVNGVCkgPGI-U2hhcmUgUHJpY2U8L2I-IFRvZGF5QqMBVGhlIHNoYXJlIHByaWNlIG9mIE1pY3Jvc29mdCBDb3Jwb3JhdGlvbiAoTVNGVCkgaXMgJDxiPjUyMi42MSAoTkFTREFRPC9iPikgYXMgb2YgMDgtT2N0LTIwMjYgMTY6MjggRURULiBNaWNyb3NvZnQgaGFzIGdpdmVuIGEgcmV0dXJuIG9mIDE2Ljg5JSBpbiB0aGUgbGFzdCAzIHllYXJzLiICEAFIAFgAaAA",
+   "source": "Value Research"
+  },
+  {
+   "position": 3,
+   "title": "MSFT: Microsoft Corp Latest Stock Price, Analysis, News ...",
+   "link": "https://stocktwits.com/symbol/MSFT",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVIFUEcCJeE7Lj0UTBdAFSLpOyMDDXozC7xziQUPWB_o2ixRrP8exm3i2Sg0lOmCmg5xfzZd51_EEpvmgQrgoVkqoNccsyaF-R_ah5cyV_JHLYLYd8N9_jUw&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://stocktwits.com › Symbol",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png",
+   "snippet": "Microsoft Corp (MSFT) stock price, news, financials, community insights, and trading ideas. Cap$3.88T Vol18.5M. Cap $3.88T Volume 18.5M. Sold $MSFT 50% gain in ...",
+   "snippet_highlighted_words": [
+    "Microsoft Corp (MSFT) stock price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Microsoft Corp (MSFT) stock price, news, financials, community insights, and trading ideas. Cap$3.88T Vol18.5M. Cap $3.88T Volume 18.5M. Sold $MSFT 50% gain in ...",
+     "source_info_link": "https://stocktwits.com/symbol/MSFT",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVklGVUVjQ0plRTdMajBVVEJkQUZTTHBPeU1ERFhvekM3eHppUVVQV0JfbzJpeFJyUDhleG0zaTJTZzBsT21DbWc1eGZ6WmQ1MV9FRXB2bWdRcmdvVmtxb05jY3N5YUYtUl9haDVjeVZfSkhMWUxZZDhOOV9qVXcSBBoCCAAamAUSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDyBAgAEAAYACAAKhAKCW1pY3Jvc29mdBX0FURAKmQKBXNoYXJlFQb0Zj0aBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFRhd9D8aBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWSUZVRWNDSmVFN0xqMFVUQmRBRlNMcE95TUREWG96Qzd4emlRVVBXQl9vMml4UnJQOGV4bTNpMlNnMGxPbUNtZzV4ZnpaZDUxX0VFcHZtZ1FyZ29Wa3FvTmNjc3lhRi1SX2FoNWN5Vl9KSExZTFlkOE45X2pVdzpQTVNGVDogPGI-TWljcm9zb2Z0PC9iPiBDb3JwIExhdGVzdCA8Yj5TdG9jayBQcmljZTwvYj4sIEFuYWx5c2lzIC4uLiAtIFN0b2NrdHdpdHNCrwE8Yj5NaWNyb3NvZnQgQ29ycCAoTVNGVCkgc3RvY2sgcHJpY2U8L2I-LCBuZXdzLCBmaW5hbmNpYWxzLCBjb21tdW5pdHkgaW5zaWdodHMsIGFuZCB0cmFkaW5nIGlkZWFzLiBDYXAkMy44OFQgVm9sMTguNU0uIENhcCAkMy44OFQgVm9sdW1lIDE4LjVNLiBTb2xkICRNU0ZUIDUwJSBnYWluIGluJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVklGVUVjQ0plRTdMajBVVEJkQUZTTHBPeU1ERFhvekM3eHppUVVQV0JfbzJpeFJyUDhleG0zaTJTZzBsT21DbWc1eGZ6WmQ1MV9FRXB2bWdRcmdvVmtxb05jY3N5YUYtUl9haDVjeVZfSkhMWUxZZDhOOV9qVXcSBBoCCAAamAUSAggAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDyBAgAEAAYACAAKhAKCW1pY3Jvc29mdBX0FURAKmQKBXNoYXJlFQb0Zj0aBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFRhd9D8aBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyjAEvZ290bz91cmw9Q0FFU1hRSHJPekFWSUZVRWNDSmVFN0xqMFVUQmRBRlNMcE95TUREWG96Qzd4emlRVVBXQl9vMml4UnJQOGV4bTNpMlNnMGxPbUNtZzV4ZnpaZDUxX0VFcHZtZ1FyZ29Wa3FvTmNjc3lhRi1SX2FoNWN5Vl9KSExZTFlkOE45X2pVdzpQTVNGVDogPGI-TWljcm9zb2Z0PC9iPiBDb3JwIExhdGVzdCA8Yj5TdG9jayBQcmljZTwvYj4sIEFuYWx5c2lzIC4uLiAtIFN0b2NrdHdpdHNCrwE8Yj5NaWNyb3NvZnQgQ29ycCAoTVNGVCkgc3RvY2sgcHJpY2U8L2I-LCBuZXdzLCBmaW5hbmNpYWxzLCBjb21tdW5pdHkgaW5zaWdodHMsIGFuZCB0cmFkaW5nIGlkZWFzLiBDYXAkMy44OFQgVm9sMTguNU0uIENhcCAkMy44OFQgVm9sdW1lIDE4LjVNLiBTb2xkICRNU0ZUIDUwJSBnYWluIGluJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Stocktwits"
+  },
+  {
+   "position": 4,
+   "title": "Microsoft (MSFT) Stock Price, News & Analysis",
+   "link": "https://www.marketbeat.com/stocks/NASDAQ/MSFT/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVfzbbMBb0Eipxx2kRwd9APZt0DdpETeVXL_WGRVOqZqpXAVwWSYExwbA4X3R2GsA9RI4KK9_bK26Liy7piSLh0PajnrhuFQACpqEUbqpVG5qjFQ5vM1AH7bz2b215tMlDY9XS1Q&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.marketbeat.com › Stocks › NASDAQ",
+   "favicon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglmAJ0ygCjFeO9Bv8elerp_rt8g0YSjGu-i2AD-7nUyBgy7Jfq8ysZpZtK_dO1X-B3uouzcwalObh1bbxz_hP-0Zlx6--8FD9mAK_dF6DEoUldrgj73_0lfq580vwP__0ffxlXvt5L7X4-lc6uUP8lZlP9oRmiF4NswHf-9mW6Jr9j8PstPe9Se96O8tU5Ahk-rLhbW3P9VVv47RdQDEEZSuSmjwqd9At-S_zNLH-0kllfH_hy342mvuaseZ-V-uDoI36BHzF7kEIAA.webp",
+   "snippet": "Microsoft's stock was trading at $483.62 at the beginning of 2026. Since then, MSFT stock has increased by 9.8% and is now trading at $530.8140.",
+   "snippet_highlighted_words": [
+    "Microsoft's stock",
+    "stock"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.9
+     },
+     "extensions": [
+      "4.9",
+      "Review by MarketBeat"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Microsoft's stock was trading at $483.62 at the beginning of 2026. Since then, MSFT stock has increased by 9.8% and is now trading at $530.8140.",
+     "source_info_link": "https://www.marketbeat.com/stocks/NASDAQ/MSFT/",
+     "icon": "https://serpapi.com/images/i/UklGRu4AAABXRUJQVlA4IOIAAAAwBQCdASocABwAPtEutFooIagoGAEAGglmAJ0ygCjFeO9Bv8elerp_rt8g0YSjGu-i2AD-7nUyBgy7Jfq8ysZpZtK_dO1X-B3uouzcwalObh1bbxz_hP-0Zlx6--8FD9mAK_dF6DEoUldrgj73_0lfq580vwP__0ffxlXvt5L7X4-lc6uUP8lZlP9oRmiF4NswHf-9mW6Jr9j8PstPe9Se96O8tU5Ahk-rLhbW3P9VVv47RdQDEEZSuSmjwqd9At-S_zNLH-0kllfH_hy342mvuaseZ-V-uDoI36BHzF7kEIAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZ6YmJNQmIwRWlweHgya1J3ZDlBUFp0MERkcEVUZVZYTF9XR1JWT3FacXBYQVZ3V1NZRXh3YkE0WDNSMkdzQTlSSTRLSzlfYksyNkxpeTdwaVNMaDBQYWpucmh1RlFBQ3BxRVVicXBWRzVxakZRNXZNMUFIN2J6MmIyMTV0TWxEWTlYUzFREgQaAggAGpcFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA8QQIABAAGAAgACoQCgltaWNyb3NvZnQV9Ax7QCpkCgVzaGFyZRXN5Tg_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRWrfmZAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZ6YmJNQmIwRWlweHgya1J3ZDlBUFp0MERkcEVUZVZYTF9XR1JWT3FacXBYQVZ3V1NZRXh3YkE0WDNSMkdzQTlSSTRLSzlfYksyNkxpeTdwaVNMaDBQYWpucmh1RlFBQ3BxRVVicXBWRzVxakZRNXZNMUFIN2J6MmIyMTV0TWxEWTlYUzFROkw8Yj5NaWNyb3NvZnQ8L2I-IChNU0ZUKSA8Yj5TdG9jayBQcmljZTwvYj4sIE5ld3MgJmFtcDsgQW5hbHlzaXMgLSBNYXJrZXRCZWF0QqIBPGI-TWljcm9zb2Z0JiMzOTtzIHN0b2NrPC9iPiB3YXMgdHJhZGluZyBhdCAkNDgzLjYyIGF0IHRoZSBiZWdpbm5pbmcgb2YgMjAyNi4gU2luY2UgdGhlbiwgTVNGVCA8Yj5zdG9jazwvYj4gaGFzIGluY3JlYXNlZCBieSA5LjglIGFuZCBpcyBub3cgdHJhZGluZyBhdCAkNTMwLjgxNDAuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZ6YmJNQmIwRWlweHgya1J3ZDlBUFp0MERkcEVUZVZYTF9XR1JWT3FacXBYQVZ3V1NZRXh3YkE0WDNSMkdzQTlSSTRLSzlfYksyNkxpeTdwaVNMaDBQYWpucmh1RlFBQ3BxRVVicXBWRzVxakZRNXZNMUFIN2J6MmIyMTV0TWxEWTlYUzFREgQaAggAGpcFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA8QQIABAAGAAgACoQCgltaWNyb3NvZnQV9Ax7QCpkCgVzaGFyZRXN5Tg_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRWrfmZAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVmZ6YmJNQmIwRWlweHgya1J3ZDlBUFp0MERkcEVUZVZYTF9XR1JWT3FacXBYQVZ3V1NZRXh3YkE0WDNSMkdzQTlSSTRLSzlfYksyNkxpeTdwaVNMaDBQYWpucmh1RlFBQ3BxRVVicXBWRzVxakZRNXZNMUFIN2J6MmIyMTV0TWxEWTlYUzFROkw8Yj5NaWNyb3NvZnQ8L2I-IChNU0ZUKSA8Yj5TdG9jayBQcmljZTwvYj4sIE5ld3MgJmFtcDsgQW5hbHlzaXMgLSBNYXJrZXRCZWF0QqIBPGI-TWljcm9zb2Z0JiMzOTtzIHN0b2NrPC9iPiB3YXMgdHJhZGluZyBhdCAkNDgzLjYyIGF0IHRoZSBiZWdpbm5pbmcgb2YgMjAyNi4gU2luY2UgdGhlbiwgTVNGVCA8Yj5zdG9jazwvYj4gaGFzIGluY3JlYXNlZCBieSA5LjglIGFuZCBpcyBub3cgdHJhZGluZyBhdCAkNTMwLjgxNDAuIgIQAUgAWABoAA",
+   "source": "MarketBeat"
+  },
+  {
+   "position": 5,
+   "title": "MICROSOFT CORPORATION (MSFT) Stock, Price, News ...",
+   "link": "https://www.msn.com/en-us/money/stockdetails/fi-a1xzim?id=a1xzim",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAV0PaBjVZAt3NLBIfq9RjMiigV2Z-DkQuCfADuoTuNbGkpNYkn5m_h2qnT8OyhVfrSFzE41CCgk_j-teWHWn1TsfGhaHCeWzj7XDpSskJzyMqWg9cg6eRa8YcBN49gIHzrQ9YXpEkp2oLP0L7nySVs7aKXaXJi2A&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-us › money › stockdetails",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "MSFT is rated \"Strong Buy\" with a 12-month target price of $587.63, a ‎9.82% upside from the current price of $535.07. See more.",
+   "snippet_highlighted_words": [
+    "MSFT is rated \"Strong Buy\" with a 12-month target price of $587.63"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "MSFT is rated \"Strong Buy\" with a 12-month target price of $587.63, a ‎9.82% upside from the current price of $535.07. See more.",
+     "source_info_link": "https://www.msn.com/en-us/money/stockdetails/fi-a1xzim?id=a1xzim",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjBQYUJqVlpBdDNOTEJJZnE5UmpNaWlnVjJaLURrUXVDZkFEdW9UdU5iR2twTllrbjVtX2gycW5UOE95aFZmclNGekU0MUNDZ2tfai10ZVdIV24xVHNmR2hhSENlV3pqN1hEcFNza0p6eU1xV2c5Y2c2ZVJhOFljQk40OWdJSHpyUTlZWHBFa3Ayb0xQMEw3bnlTVnM3YUtYYVhKaTJBEgQaAggAGpwFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9gQIABAAGAAgACoQCgltaWNyb3NvZnQVMOOGQCpkCgVzaGFyZRXX3UU-GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRVXSYFAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjBQYUJqVlpBdDNOTEJJZnE5UmpNaWlnVjJaLURrUXVDZkFEdW9UdU5iR2twTllrbjVtX2gycW5UOE95aFZmclNGekU0MUNDZ2tfai10ZVdIV24xVHNmR2hhSENlV3pqN1hEcFNza0p6eU1xV2c5Y2c2ZVJhOFljQk40OWdJSHpyUTlZWHBFa3Ayb0xQMEw3bnlTVnM3YUtYYVhKaTJBOkg8Yj5NSUNST1NPRlQ8L2I-IENPUlBPUkFUSU9OIChNU0ZUKSA8Yj5TdG9jazwvYj4sIDxiPlByaWNlPC9iPiAuLi4gLSBNU05CkwE8Yj5NU0ZUIGlzIHJhdGVkICZxdW90O1N0cm9uZyBCdXkmcXVvdDsgd2l0aCBhIDEyLW1vbnRoIHRhcmdldCBwcmljZSBvZiAkNTg3LjYzPC9iPiwgYSDigI45LjgyJSB1cHNpZGUgZnJvbSB0aGUgY3VycmVudCBwcmljZSBvZiAkNTM1LjA3LiBTZWUgbW9yZS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjBQYUJqVlpBdDNOTEJJZnE5UmpNaWlnVjJaLURrUXVDZkFEdW9UdU5iR2twTllrbjVtX2gycW5UOE95aFZmclNGekU0MUNDZ2tfai10ZVdIV24xVHNmR2hhSENlV3pqN1hEcFNza0p6eU1xV2c5Y2c2ZVJhOFljQk40OWdJSHpyUTlZWHBFa3Ayb0xQMEw3bnlTVnM3YUtYYVhKaTJBEgQaAggAGpwFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA9gQIABAAGAAgACoQCgltaWNyb3NvZnQVMOOGQCpkCgVzaGFyZRXX3UU-GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRVXSYFAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMrQBL2dvdG8_dXJsPUNBRVNld0hyT3pBVjBQYUJqVlpBdDNOTEJJZnE5UmpNaWlnVjJaLURrUXVDZkFEdW9UdU5iR2twTllrbjVtX2gycW5UOE95aFZmclNGekU0MUNDZ2tfai10ZVdIV24xVHNmR2hhSENlV3pqN1hEcFNza0p6eU1xV2c5Y2c2ZVJhOFljQk40OWdJSHpyUTlZWHBFa3Ayb0xQMEw3bnlTVnM3YUtYYVhKaTJBOkg8Yj5NSUNST1NPRlQ8L2I-IENPUlBPUkFUSU9OIChNU0ZUKSA8Yj5TdG9jazwvYj4sIDxiPlByaWNlPC9iPiAuLi4gLSBNU05CkwE8Yj5NU0ZUIGlzIHJhdGVkICZxdW90O1N0cm9uZyBCdXkmcXVvdDsgd2l0aCBhIDEyLW1vbnRoIHRhcmdldCBwcmljZSBvZiAkNTg3LjYzPC9iPiwgYSDigI45LjgyJSB1cHNpZGUgZnJvbSB0aGUgY3VycmVudCBwcmljZSBvZiAkNTM1LjA3LiBTZWUgbW9yZS4iAhABSABYAGgA",
+   "source": "MSN",
+   "read_more_link": "https://www.msn.com/en-us/money/stockdetails/fi-a1xzim?id=a1xzim#:~:text=MSFT%20is%20rated%20%22Strong%20Buy%22,See%20more"
+  },
+  {
+   "position": 6,
+   "title": "Buy Microsoft Shares | Microsoft Stock Quote",
+   "link": "https://www.ifcmarkets.co.in/en/trading-conditions/stocks/msft",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeQHrOzAVn3EbyZd4EJfvxK1e6qlVmFb4DcQ6L83CWcLXazRCqwuEQSic_tCGnS-yXe6uba9kaYDQQVwm2mQOMcGpsmecyb2K0mUubFwps1Yanr_g7c9Zh-2v_TguI4l7Rdig5Q_ESOyyGOK3066LZDjnsajsSPo16YI&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECGUQAQ&uoh=1",
+   "displayed_link": "https://www.ifcmarkets.co.in › Markets › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAABQBwCdASogACAAPtE-tFooIigoFAEAGglsAKwvAZSGyZz4Ax3v4GkCZw3ZqNgjyYGAFWWqnakqoqt-85R_5u4r_PYAAP7GE1irTeWBzuQSsecx9TdDIsTA0xH63srYHkDHfO4wOqBt_kCgiPiBeVExTvzkPBvT0N8HepbIeUVcayMZlrtV-_x2SUtfv_xwiXg621fXDhG4Ay9NlU0TInZRTCH0sspTy8JRZ-4ML04Vrj67bEfmjbrueo1EEdejMHI_aGIogOWddJf8D0EDa3DGCXcYneGtenjLRk7u7MZH1CYw8Vdx7_PXnMthIfnMvsCuA_yGq5Pw9vTdtAQHTQujYj1pKRS0Ey0ENk7T-xAUoHiQzCxXW46ATcgh-tHmYFROsxM0ctuau-9jiIna9uS53JaLTNsL2rwdud88flj5Ex1Uv3WEp3-XvYCfT4bRrwfV4CiOIE-7IxgAAAA.webp",
+   "snippet": "Get Microsoft stock quote in real-time, -3.04 Pip Size. View Microsoft stock quote (previous, closing, open prices, high and low prices) and start trading with ...",
+   "snippet_highlighted_words": [
+    "Get Microsoft stock quote in real-time"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get Microsoft stock quote in real-time, -3.04 Pip Size. View Microsoft stock quote (previous, closing, open prices, high and low prices) and start trading with ...",
+     "source_info_link": "https://www.ifcmarkets.co.in/en/trading-conditions/stocks/msft",
+     "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAABQBwCdASogACAAPtE-tFooIigoFAEAGglsAKwvAZSGyZz4Ax3v4GkCZw3ZqNgjyYGAFWWqnakqoqt-85R_5u4r_PYAAP7GE1irTeWBzuQSsecx9TdDIsTA0xH63srYHkDHfO4wOqBt_kCgiPiBeVExTvzkPBvT0N8HepbIeUVcayMZlrtV-_x2SUtfv_xwiXg621fXDhG4Ay9NlU0TInZRTCH0sspTy8JRZ-4ML04Vrj67bEfmjbrueo1EEdejMHI_aGIogOWddJf8D0EDa3DGCXcYneGtenjLRk7u7MZH1CYw8Vdx7_PXnMthIfnMvsCuA_yGq5Pw9vTdtAQHTQujYj1pKRS0Ey0ENk7T-xAUoHiQzCxXW46ATcgh-tHmYFROsxM0ctuau-9jiIna9uS53JaLTNsL2rwdud88flj5Ex1Uv3WEp3-XvYCfT4bRrwfV4CiOIE-7IxgAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm4zRWJ5WmQ0RUpmdnhLMWU2cWxWbUZiNERjUTZMODNDV2NMWGF6UkNxd3VFUVNpY190Q0duUy15WGU2dWJhOWthWURRUVZ3bTJtUU9NY0dwc21lY3liMkswbVV1YkZ3cHMxWWFucl9nN2M5WmgtMnZfVGd1STRsN1JkaWc1UV9FU095eUdPSzMwNjZMWkRqbnNhanNTUG8xNllJEgQaAggAGrYFEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAkAUIABAAGAAgACoQCgltaWNyb3NvZnQVuEqDQCpkCgVzaGFyZRX4fwE_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRV85mg_GgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm4zRWJ5WmQ0RUpmdnhLMWU2cWxWbUZiNERjUTZMODNDV2NMWGF6UkNxd3VFUVNpY190Q0duUy15WGU2dWJhOWthWURRUVZ3bTJtUU9NY0dwc21lY3liMkswbVV1YkZ3cHMxWWFucl9nN2M5WmgtMnZfVGd1STRsN1JkaWc1UV9FU095eUdPSzMwNjZMWkRqbnNhanNTUG8xNllJOklCdXkgPGI-TWljcm9zb2Z0IFNoYXJlczwvYj4gfCA8Yj5NaWNyb3NvZnQgU3RvY2s8L2I-IFRyYWRpbmcgfCBJRkNNIEluZGlhQq8BPGI-R2V0IE1pY3Jvc29mdCBzdG9jayBxdW90ZSBpbiByZWFsLXRpbWU8L2I-LCAtMy4wNCBQaXAgU2l6ZS4gVmlldyBNaWNyb3NvZnQgc3RvY2sgcXVvdGUgKHByZXZpb3VzLCBjbG9zaW5nLCBvcGVuIHByaWNlcywgaGlnaCBhbmQgbG93IHByaWNlcykgYW5kIHN0YXJ0IHRyYWRpbmcgd2l0aCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm4zRWJ5WmQ0RUpmdnhLMWU2cWxWbUZiNERjUTZMODNDV2NMWGF6UkNxd3VFUVNpY190Q0duUy15WGU2dWJhOWthWURRUVZ3bTJtUU9NY0dwc21lY3liMkswbVV1YkZ3cHMxWWFucl9nN2M5WmgtMnZfVGd1STRsN1JkaWc1UV9FU095eUdPSzMwNjZMWkRqbnNhanNTUG8xNllJEgQaAggAGrYFEgIIABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAkAUIABAAGAAgACoQCgltaWNyb3NvZnQVuEqDQCpkCgVzaGFyZRX4fwE_GgZzaGFyZWQaCnNoYXJlcG9pbnQaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZSpdCgVwcmljZRV85mg_GgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlMrEBL2dvdG8_dXJsPUNBRVNlUUhyT3pBVm4zRWJ5WmQ0RUpmdnhLMWU2cWxWbUZiNERjUTZMODNDV2NMWGF6UkNxd3VFUVNpY190Q0duUy15WGU2dWJhOWthWURRUVZ3bTJtUU9NY0dwc21lY3liMkswbVV1YkZ3cHMxWWFucl9nN2M5WmgtMnZfVGd1STRsN1JkaWc1UV9FU095eUdPSzMwNjZMWkRqbnNhanNTUG8xNllJOklCdXkgPGI-TWljcm9zb2Z0IFNoYXJlczwvYj4gfCA8Yj5NaWNyb3NvZnQgU3RvY2s8L2I-IFRyYWRpbmcgfCBJRkNNIEluZGlhQq8BPGI-R2V0IE1pY3Jvc29mdCBzdG9jayBxdW90ZSBpbiByZWFsLXRpbWU8L2I-LCAtMy4wNCBQaXAgU2l6ZS4gVmlldyBNaWNyb3NvZnQgc3RvY2sgcXVvdGUgKHByZXZpb3VzLCBjbG9zaW5nLCBvcGVuIHByaWNlcywgaGlnaCBhbmQgbG93IHByaWNlcykgYW5kIHN0YXJ0IHRyYWRpbmcgd2l0aCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "IFCM India"
+  },
+  {
+   "position": 7,
+   "title": "Microsoft Corp (MSFT) Stock Price & News - Google Finance",
+   "link": "https://www.google.com/finance/quote/MSFT:VIE",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.google.com/finance/quote/MSFT:VIE&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECDAQAQ",
+   "displayed_link": "https://www.google.com › finance › quote › MSFT:VIE",
+   "favicon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAACwCACdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHUHrvDucAmEEIDbNXbBvPvkzNFdpt_wBTP-mqc1krmr0Q-DgqGI5AiTTFlAwFnWCgwA_vfxIXPjl4VLIaTPoS3QPhdvtceGRZLFFhAG6WgKLnkHogT82c17uwZf7Oji39R4z2PAtd6Kb3DoOtNiUPa_ewG0aGlVB4gzUl2_Dy3PjPKEMGff2CIuZFGA1zb3dyyOPj9JNypYOM_zx0uUt0UDLa2-r-_r_jXyav6EpjUiQqv-mJciehxcyOZe0maO_vaph_k8_8D8r9JEf35X6ajo71ah8Ap_fOjI52HyC9oyQdXYZEaNtS5zUMfMBelYsNOE2HxDK-jjkkpu_IPMUJ6P_ceCHXjvF_fh9h8K9nyPq1Jxc6DRXOJe5vdZzRJPTgwF0t9hXad4OB9pahCEo0PMIVScgb06ClG7gSGdhGwhoynFC3vAZZGADDfdGH_3MmGr1I_LjzH4TIHUvRnvsAAA.webp",
+   "snippet": "Microsoft Corp (MSFT) Stock Price. Open €469.60 High €475.00 Low €469.30 Mkt. cap 3.87T Avg. vol. 267.00 Volume 157.00 52-wk high €475.00 52-wk low €310.00 ...",
+   "snippet_highlighted_words": [
+    "Microsoft Corp (MSFT) Stock Price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Microsoft Corp (MSFT) Stock Price. Open €469.60 High €475.00 Low €469.30 Mkt. cap 3.87T Avg. vol. 267.00 Volume 157.00 52-wk high €475.00 52-wk low €310.00  ...",
+     "source_info_link": "https://www.google.com/finance/quote/MSFT:VIE",
+     "icon": "https://serpapi.com/images/i/UklGRooBAABXRUJQVlA4IH4BAACwCACdASogACAAPrkurlcnIacnG_DgFwlsAJ0yhHUHrvDucAmEEIDbNXbBvPvkzNFdpt_wBTP-mqc1krmr0Q-DgqGI5AiTTFlAwFnWCgwA_vfxIXPjl4VLIaTPoS3QPhdvtceGRZLFFhAG6WgKLnkHogT82c17uwZf7Oji39R4z2PAtd6Kb3DoOtNiUPa_ewG0aGlVB4gzUl2_Dy3PjPKEMGff2CIuZFGA1zb3dyyOPj9JNypYOM_zx0uUt0UDLa2-r-_r_jXyav6EpjUiQqv-mJciehxcyOZe0maO_vaph_k8_8D8r9JEf35X6ajo71ah8Ap_fOjI52HyC9oyQdXYZEaNtS5zUMfMBelYsNOE2HxDK-jjkkpu_IPMUJ6P_ceCHXjvF_fh9h8K9nyPq1Jxc6DRXOJe5vdZzRJPTgwF0t9hXad4OB9pahCEo0PMIVScgb06ClG7gSGdhGwhoynFC3vAZZGADDfdGH_3MmGr1I_LjzH4TIHUvRnvsAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ci1odHRwczovL3d3dy5nb29nbGUuY29tL2ZpbmFuY2UvcXVvdGUvTVNGVDpWSUUSBBoCCAAaugQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCUBAgAEAAYACAAKhAKCW1pY3Jvc29mdBVSdp5AKmQKBXNoYXJlFYguUD8aBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFbTeYEAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyLWh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vZmluYW5jZS9xdW90ZS9NU0ZUOlZJRTpLPGI-TWljcm9zb2Z0PC9iPiBDb3JwIChNU0ZUKSA8Yj5TdG9jayBQcmljZTwvYj4gJmFtcDsgTmV3cyAtIEdvb2dsZSBGaW5hbmNlQrYBPGI-TWljcm9zb2Z0IENvcnAgKE1TRlQpIFN0b2NrIFByaWNlPC9iPi4gT3BlbiDigqw0NjkuNjAgSGlnaCDigqw0NzUuMDAgTG93IOKCrDQ2OS4zMCBNa3QuIGNhcCAzLjg3VCBBdmcuIHZvbC4gMjY3LjAwIFZvbHVtZSAxNTcuMDAgNTItd2sgaGlnaCDigqw0NzUuMDAgNTItd2sgbG93IOKCrDMxMC4wMCAmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ci1odHRwczovL3d3dy5nb29nbGUuY29tL2ZpbmFuY2UvcXVvdGUvTVNGVDpWSUUSBBoCCAAaugQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCUBAgAEAAYACAAKhAKCW1pY3Jvc29mdBVSdp5AKmQKBXNoYXJlFYguUD8aBnNoYXJlZBoKc2hhcmVwb2ludBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaC3N0b2NrIHF1b3RlGgpzaGFyZXByaWNlKl0KBXByaWNlFbTeYEAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UyLWh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vZmluYW5jZS9xdW90ZS9NU0ZUOlZJRTpLPGI-TWljcm9zb2Z0PC9iPiBDb3JwIChNU0ZUKSA8Yj5TdG9jayBQcmljZTwvYj4gJmFtcDsgTmV3cyAtIEdvb2dsZSBGaW5hbmNlQrYBPGI-TWljcm9zb2Z0IENvcnAgKE1TRlQpIFN0b2NrIFByaWNlPC9iPi4gT3BlbiDigqw0NjkuNjAgSGlnaCDigqw0NzUuMDAgTG93IOKCrDQ2OS4zMCBNa3QuIGNhcCAzLjg3VCBBdmcuIHZvbC4gMjY3LjAwIFZvbHVtZSAxNTcuMDAgNTItd2sgaGlnaCDigqw0NzUuMDAgNTItd2sgbG93IOKCrDMxMC4wMCAmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Google"
+  },
+  {
+   "position": 8,
+   "title": "MSFT - Microsoft Corporation Share Price Live Today",
+   "link": "https://upstox.com/us-stocks/msft-share-price/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVFKH7akNUJrHdslIUDNXARAADak44NpwS2quoJ1cCK0Ov1HoCEMBT9T-QqQE2v56bfrPQlCgb309szwZrOv-YpX_1iItw0PdB-Q9ri3cSgnWy0ZsxUEdrUPYDuxAIEPLcLXE2Fg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQFnoECC8QAQ&uoh=1",
+   "displayed_link": "https://upstox.com › US Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp",
+   "snippet": "Microsoft Corporation's share price is $522.69. traded between $518.83 and $533.31, with an average price of $526.07.",
+   "snippet_highlighted_words": [
+    "Microsoft",
+    "share price",
+    "price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Microsoft Corporation's share price is $522.69. traded between $518.83 and $533.31, with an average price of $526.07.",
+     "source_info_link": "https://upstox.com/us-stocks/msft-share-price/",
+     "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkZLSDdha05VSnJIZHNsSVVETlhBUkFBRGFrNDROcHdTMnF1b0oxY0NLME92MUhvQ0VNQlQ5VC1RcVFFMnY1NmJmclBRbENnYjMwOXN6d1pyT3YtWXBYXzFpSXR3MFBkQi1ROXJpM2NTZ25XeTBac3hVRWRyVVBZRHV4QUlFUExjTFhFMkZnEgQaAggAGv8EEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNsECAAQABgAIAAqEAoJbWljcm9zb2Z0FYDArEAqZAoFc2hhcmUVMv-xQBoGc2hhcmVkGgpzaGFyZXBvaW50GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UqXQoFcHJpY2UVfjG9QBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZGS0g3YWtOVUpySGRzbElVRE5YQVJBQURhazQ0TnB3UzJxdW9KMWNDSzBPdjFIb0NFTUJUOVQtUXFRRTJ2NTZiZnJQUWxDZ2IzMDlzendack92LVlwWF8xaUl0dzBQZEItUTlyaTNjU2duV3kwWnN4VUVkclVQWUR1eEFJRVBMY0xYRTJGZzpKTVNGVCAtIDxiPk1pY3Jvc29mdDwvYj4gQ29ycG9yYXRpb24gPGI-U2hhcmUgUHJpY2U8L2I-IExpdmUgVG9kYXkgLSBVcHN0b3hCjgE8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uJiMzOTtzIDxiPnNoYXJlIHByaWNlPC9iPiBpcyAkNTIyLjY5LiB0cmFkZWQgYmV0d2VlbiAkNTE4LjgzIGFuZCAkNTMzLjMxLCB3aXRoIGFuIGF2ZXJhZ2UgPGI-cHJpY2U8L2I-IG9mICQ1MjYuMDcuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVkZLSDdha05VSnJIZHNsSVVETlhBUkFBRGFrNDROcHdTMnF1b0oxY0NLME92MUhvQ0VNQlQ5VC1RcVFFMnY1NmJmclBRbENnYjMwOXN6d1pyT3YtWXBYXzFpSXR3MFBkQi1ROXJpM2NTZ25XeTBac3hVRWRyVVBZRHV4QUlFUExjTFhFMkZnEgQaAggAGv8EEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNsECAAQABgAIAAqEAoJbWljcm9zb2Z0FYDArEAqZAoFc2hhcmUVMv-xQBoGc2hhcmVkGgpzaGFyZXBvaW50GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoLc3RvY2sgcXVvdGUaCnNoYXJlcHJpY2UqXQoFcHJpY2UVfjG9QBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgtzdG9jayBxdW90ZRoKc2hhcmVwcmljZTKcAS9nb3RvP3VybD1DQUVTYVFIck96QVZGS0g3YWtOVUpySGRzbElVRE5YQVJBQURhazQ0TnB3UzJxdW9KMWNDSzBPdjFIb0NFTUJUOVQtUXFRRTJ2NTZiZnJQUWxDZ2IzMDlzendack92LVlwWF8xaUl0dzBQZEItUTlyaTNjU2duV3kwWnN4VUVkclVQWUR1eEFJRVBMY0xYRTJGZzpKTVNGVCAtIDxiPk1pY3Jvc29mdDwvYj4gQ29ycG9yYXRpb24gPGI-U2hhcmUgUHJpY2U8L2I-IExpdmUgVG9kYXkgLSBVcHN0b3hCjgE8Yj5NaWNyb3NvZnQ8L2I-IENvcnBvcmF0aW9uJiMzOTtzIDxiPnNoYXJlIHByaWNlPC9iPiBpcyAkNTIyLjY5LiB0cmFkZWQgYmV0d2VlbiAkNTE4LjgzIGFuZCAkNTMzLjMxLCB3aXRoIGFuIGF2ZXJhZ2UgPGI-cHJpY2U8L2I-IG9mICQ1MjYuMDcuIgIQAUgAWABoAA",
+   "source": "Upstox"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "Microsoft stock sits at EUR 477.68 in weekend trading",
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/microsoft-stock-sits-at-eur-477-68-in-weekend-trading/70286540",
+   "source": "AD HOC NEWS",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAlUlEQVQ4jZ3Ruw7CMAxG4eMMhVdjq2QEA09YpCJej4tklhIpxHVS_jHq-YYagh2Ngxpj9E2KYoMbMEWINOL98vQEzrNwbwJO_J2LFEAQryIZ6IhdRDbGFSJ_xAWSDHYE5wyWgEEAljtPwNAZv4HLLFzzT9yA5Bh-ztiBFHEFNJAqdoEVxI3DqTGq8VDjpcapO3SQMP4AOehQwAGAml8AAAAASUVORK5CYII.png",
+   "date": "24 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f7584a99b77d2a090585/images/1NcrEGxeOR_r28IJRpp8QllixJWYm46LdoRtHRZzVKw.jpeg"
+  },
+  {
+   "title": "US suspends Microsoft from Green Card sponsorship programme; company responds: Microsoft only files H-1B",
+   "link": "https://timesofindia.indiatimes.com/technology/tech-news/us-suspends-microsoft-from-green-card-sponsorship-programme-company-responds-microsoft-only-files-h-1b-petitions-for-those-who-/articleshow/134799105.cms",
+   "source": "The Times of India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAZlBMVEXMAQDMAADNBgbKAADJAADLAADIAAD43t722trmmJf____llJTODw7VR0f21tbsr6_on5_uuLjdbWzUPj7xwcHQKSn-8_PQHx7dZ2bccXH65eXSJCTQFhbooqLji4vee3v76-vYVVUTPZcvAAAAhklEQVQYlY2O2w6DMAxDkzpJGd0obMC4lF3-_ydX4Im9bJYiR0dKbKKD2NFvwLw67b4BQKAMPouyGNOlir6O1lxvbYe2v9NgobChrgxjb8ELKU6F2FRD5zIFj_wjA5kWaFfyCigDwyPP87WdsIvFrLKM7yZp9ClHQ3IFqIL39Y_qBzlyX_oAugAFO4H--JIAAAAASUVORK5CYII.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f7584a99b77d2a090585/images/1MrdJXYQQzl9z8rszQrWfZtnFk7txJ2H7QUz0ERBnXo.jpeg"
+  },
+  {
+   "title": "Trump administration freezes green cards for Microsoft, IT firms, probes universities",
+   "link": "https://www.reuters.com/business/us-suspending-permanent-residency-program-for-microsoft-vance-says-2026-10-08/",
+   "source": "Reuters",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAAA8AAAAQCAMAAAD-iNU2AAAANlBMVEVHcEzWQADWQADWQADVQADWQADVQADVQADVQADTQADWQADWQADWQADWQADWQADVQADWQADWQADYUPXYAAAAEXRSTlMAk-tzG2YlES0ISDu2gc5XpQRdj_kAAACLSURBVAiZTU9bEgMhCIsKCr52vf9lG5x2pvyQkBAUYNUmp3bFr-ZC8p1dLlv1NmnzWIDRgAS6yyaSRdbJnbb9wF7gfWhzg-QCD_kGmAbJynOXM14ztEJvLBhiBaIQv_IwMDIdQedDfGUuD7TRuT5xGsUIsjOpBozTnM1nlZgPyPc_edupJeGvyrd_AOjAA6sGw87FAAAAAElFTkSuQmCC.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f7584a99b77d2a090585/images/a3Dqvu_JH-dojphUAMxe3Ju71YHgjTcgmvEHrMSA7qo.jpeg"
+  },
+  {
+   "title": "Bringing CRM into the flow of work and agents into business process for sales and service teams",
+   "link": "https://www.microsoft.com/en-us/copilot/blog/2026/10/08/bringing-crm-into-the-flow-of-work-and-agents-into-business-process-for-sales-and-service-teams/",
+   "source": "Microsoft",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAQklEQVQ4jWP87if3nwEH4Nz0iLF-FwNO-UY3BkYmXJLEglEDqGAAxYCRYcl7nPHMECPI-H8n7nTA6D6aDgaHARQDAKgRDRsLiHU6AAAAAElFTkSuQmCC.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f7584a99b77d2a090585/images/UuWsbF_wLZ3OnUQGyJg8UZYf4pYi7Ho9oxCy-dsbPKo.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.com/finance/portfolio/watchlist?sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQnIcKegQIKBAJ",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Microsoft share price nse",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Microsoft+share+price+nse&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhcEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price+nse"
+  },
+  {
+   "block_position": 1,
+   "query": "Microsoft share price in Indian rupees",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Microsoft+share+price+in+Indian+rupees&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhkEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price+in+Indian+rupees"
+  },
+  {
+   "block_position": 1,
+   "query": "Microsoft share price nasdaq",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Microsoft+share+price+nasdaq&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhhEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price+nasdaq"
+  },
+  {
+   "block_position": 1,
+   "query": "Amazon share price",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Amazon+share+price&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhdEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Amazon+share+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Microsoft share price target",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Microsoft+share+price+target&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhbEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price+target"
+  },
+  {
+   "block_position": 1,
+   "query": "Google share price",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Google+share+price&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhfEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Google+share+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Microsoft share price forecast 2026",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=Microsoft+share+price+forecast+2026&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAhgEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price+forecast+2026"
+  },
+  {
+   "block_position": 1,
+   "query": "MSFT stock News today",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&q=MSFT+stock+News+today&sa=X&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ1QJ6BAheEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=MSFT+stock+News+today"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=10&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8NMDegQITRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=10&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAE",
+   "3": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=20&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAG",
+   "4": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=30&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAI",
+   "5": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=40&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAK",
+   "6": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=50&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAM",
+   "7": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=60&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAO",
+   "8": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=70&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAQ",
+   "9": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=80&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAS",
+   "10": "https://www.google.com/search?q=Microsoft+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvq5XqP1p8-mi6E19xbSlrEYwHWwQ:1791620952816&ei=WPfJas-yMaDXptQP-unYsAU&start=90&sa=N&sstk=AS6-VmIf2oEamSkImuv_UEcgRSUyg3I8kKjgUEv3q0i3Rxv5u5qXxY2UiO2qjk1DaOnaKozqXjMd_m3dpH9QoKsRnawpbWeEfqb3tg&ved=2ahUKEwjPvtuThK-XAxWgq4kEHfo0FlYQ8tMDegQITRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Microsoft+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:11"
+}

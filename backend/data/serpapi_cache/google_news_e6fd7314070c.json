@@ -1,0 +1,1508 @@
+{
+ "search_metadata": {
+  "id": "6ac9455b1b6c6ebb1485550c",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/DKM9WEjY5LbOI76P2yjcbdynnPaxNGqBwMmp_8JBZp0/6ac9455b1b6c6ebb1485550c.json",
+  "markdown_endpoint": "https://serpapi.com/searches/DKM9WEjY5LbOI76P2yjcbdynnPaxNGqBwMmp_8JBZp0/6ac9455b1b6c6ebb1485550c.md",
+  "created_at": "2026-10-09 19:49:47 UTC",
+  "processed_at": "2026-10-09 19:49:47 UTC",
+  "google_news_url": "https://news.google.com/search?q=Tata+Motors+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/DKM9WEjY5LbOI76P2yjcbdynnPaxNGqBwMmp_8JBZp0/6ac9455b1b6c6ebb1485550c.html",
+  "total_time_taken": 1.43
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Tata Motors share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Iveco, Tata Motors raises offer price to €14.40 per share",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Louise Heavens",
+     "Gianluca Semeraro",
+     "Anna Uras"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/iveco-tata-motors-raises-offer-price-1440-per-share-2026-10-09/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/Z4HCONP7EFMKPEPI7F672PPCPI.jpg?auth=4524e63312bc16063adf23926aabef0ec0a762b59b0ad81e2efee18a6463cfa5&width=1920&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhOVnBWT1U1dU4yZDZhR3R2VFJEU0F4aVJCU2dLTWdaRkFZeTFLQWM",
+   "date": "10/09/2026, 05:17 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:17:06Z"
+  },
+  {
+   "position": 2,
+   "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Shows Strong Performance",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://economictimes.indiatimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-09-oct-2026/liveblog/134804420.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/height-450,width-600,resizemode-4,imgsize-32224,msid-134804420/tata-motors-pv-share-price-live-updates-tata-motors-pv-shows-strong-performance.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFTVVpCVTI0MFRYWTNjMDFtVFJEQ0FSaURBaWdCTWdhZFE0aXRuUWc",
+   "date": "10/09/2026, 06:07 AM, +0000 UTC",
+   "iso_date": "2026-10-09T06:07:14Z"
+  },
+  {
+   "position": 3,
+   "title": "Maruti Suzuki, Tata Motors PV, M&M shares fall up to 32% in 2026 despite record sales and GST cut; Here’s why",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sreenivas Ajankar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-tata-motors-pv-m-and-m-shares-fall-up-to-32-in-2026-despite-record-sales-and-gst-cut-here-s-why/article-201562/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mandmtatamotorssharetoday.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdTRTlJZDA0MWFtaHdlVXRVVFJDZkF4ampCU2dLTWdrQm9JcG55S1NoMEFF",
+   "date": "10/09/2026, 03:19 AM, +0000 UTC",
+   "iso_date": "2026-10-09T03:19:43Z"
+  },
+  {
+   "position": 4,
+   "title": "Tata Motors PV, Ather Energy, Hyundai, M&M: Share price targets ahead of Q2 results",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/tata-motors-pv-ather-energy-hyundai-mm-share-price-targets-ahead-of-q2-results-560271-2026-10-08",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac702423a6fb-among-oems--nomura-maintained-mahindra--mahindra-ltd-and-ather-energy-ltd-as-its-top-picks-in-pvs-a-083856898-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJZeTFhTFRoTWRYaDNhREF3VFJDZkF4ampCU2dLTWdhTllZN1BzQVU",
+   "date": "10/08/2026, 02:40 AM, +0000 UTC",
+   "iso_date": "2026-10-08T02:40:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Tata Motors raises Iveco bid to €14.40 per share By Investing.com",
+   "source": {
+    "name": "Investing.com India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://in.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vlad Schepkov"
+    ]
+   },
+   "link": "https://in.investing.com/news/stock-market-news/tata-motors-raises-iveco-bid-to-1440-per-share-93CH-5626401",
+   "thumbnail": "https://content-media.investing.com/news/LYNXNPEC0E0NG_L.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9iak5GVGpGTlZ6TlNhRGxTVFJERUF4aW5CU2dLTWdhVmdZb1N2UVE",
+   "date": "10/09/2026, 05:20 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:20:46Z"
+  },
+  {
+   "position": 6,
+   "title": "Tata Motors raises Iveco takeover offer to €14.40 per share",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/companies/tata-motors-raises-iveco-takeover-offer-to-1440-per-share/article71565633.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/a7wxh9/article71565643.ece/alternates/LANDSCAPE_1200/tata%20motors.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdiRkIxYTBkRGJHUnliWFl6VFJDZkF4ampCU2dLTWdtZFVvWnVMV05GMUFB",
+   "date": "10/09/2026, 05:26 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:26:52Z"
+  },
+  {
+   "position": 7,
+   "title": "Tata Motors raises Iveco takeover offer to €14.40 per share, rules out further increase",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/business/companies/tata-motors-raises-iveco-takeover-offer-to-e14-40-per-share-rules-out-further-increase-20008842.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/bilder-67-2026-09-42cfde4dcbff3cb30d3e6eebb1c09f45.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhhemd4WnpscmRrNHlWVTFvVFJDZkF4ampCU2dLTWdZQmhwSUlyZ2M",
+   "date": "10/09/2026, 06:05 PM, +0000 UTC",
+   "iso_date": "2026-10-09T18:05:59Z"
+  },
+  {
+   "position": 8,
+   "title": "Tata Motors - Positive Breakout: These 9 stocks cross above their 200 DMAs",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/positive-breakout-these-9-stocks-cross-above-their-200-dmas/tata-motors/slideshow/134753759.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134753798,width-480,height-360,imgsize-74464,resizemode-75/upside-ahead.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJhVWxsUlhWWFEyUmFSV1JKVFJEb0FoamdBeWdLTWdtTlVZZ091YU5VYXdJ",
+   "date": "10/07/2026, 04:57 AM, +0000 UTC",
+   "iso_date": "2026-10-07T04:57:16Z"
+  },
+  {
+   "position": 9,
+   "title": "Tata Motors PV Share Price Live Updates: Tata Motors PV Trading Below Key Support Level",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/stock-liveblog/tata-motors-pv-share-price-live-updates-08-oct-2026/liveblog/134778339.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134778339,width-600,resizemode-4/tata-motors-pv-share-price-live-updates-08-oct-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFTVVpCVTI0MFRYWTNjMDFtVFJEQ0F4allCQ2dLTWdhZFE0aXRuUWc",
+   "date": "10/08/2026, 06:34 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:34:14Z"
+  },
+  {
+   "position": 10,
+   "title": "Iveco, Tata Motors raises offer price to €14.40 per share",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/reuters.com,2026:newsml_L8N45V1J7:0-iveco-tata-motors-raises-offer-price-to-14-40-per-share/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/09/2026, 05:13 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:13:47Z"
+  },
+  {
+   "position": 11,
+   "title": "Tata Motors PV Shares Fall 6% After Q1 Profit Plunges 79%; Brokerage Sees 11% Downside",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Madhulika Pandey"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/tata-motors-pv-shares-fall-4-after-q1-profit-plunges-79-brokerage-sees-11-downside-1528385.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/08/tata-motors600-51891786693927.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWVkZmYlhseU1FNXJaa2hpVFJEU0FoallCQ2dLTWdhUmc0eXRNUVU",
+   "date": "10/08/2026, 09:59 AM, +0000 UTC",
+   "iso_date": "2026-10-08T09:59:07Z"
+  },
+  {
+   "position": 12,
+   "title": "Iveco, Tata Motors raises offer price to EUR14.40 per share",
+   "source": {
+    "name": "marketscreener.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Louise Heavens",
+     "Anna Uras",
+     "Gianluca Semeraro"
+    ]
+   },
+   "link": "https://www.marketscreener.com/news/iveco-tata-motors-raises-offer-price-to-eur14-40-per-share-ce785ddcdb8af725",
+   "thumbnail": "https://cdn.zonebourse.com/static/resize/768/432//images/reuters/2026-09/2026-09-25T103835Z_1_LYNXMPEM8O0VI_RTROPTP_4_TATA-INDIA.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJWbHBoVkZnM05GaG9NbE5mVFJDZkF4ampCU2dLTWdaSklaQzFsQWs",
+   "date": "10/09/2026, 05:14 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:14:31Z"
+  },
+  {
+   "position": 13,
+   "title": "Tata Motors targets 100,000 vehicles monthly: Tata Motors stock sits 32.13 percent below high",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/tata-motors-targets-100-000-vehicles-monthly-tata-motors-stock-sits-32-13/70275258",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405041_1920_1080.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZkVFF5U2xKSWNtMVdVbmhrVFJDZkF4ampCU2dLTWdNQlFBQQ",
+   "date": "10/09/2026, 09:07 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:07:43Z"
+  },
+  {
+   "position": 14,
+   "title": "How Tata Motors’ Demerger Unlocked Value for Investors",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/sky-learn/market-wtf-by-sky/why-tata-motors-split-into-two-listed-companies-and-what-happened",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/10/Why-Tata-Motors-split-into-two-listed-companies-and-what-happened.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJhRGxQVGtacE1uWnhNbkpOVFJDZkF4amlCU2dLTWdZQmNaYURxZ2M",
+   "date": "10/06/2026, 10:09 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:09:01Z"
+  },
+  {
+   "position": 15,
+   "title": "Tata Motors raises Iveco offer to €14.40 per share as approvals extend",
+   "source": {
+    "name": "Traders Union",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tradersunion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://tradersunion.com/news/financial-news/show/3746692-tata-motors-raises-iveco-offer/",
+   "thumbnail": "https://files.tradersunion.com/images/regional-news/custom-by-date/2026/10/09/small/3746692_small.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBTbE5tUkdSYWQzZzJORGRTVFJETkFoajBBeWdLTWdrQk1KSUlycVlXNVFJ",
+   "date": "10/09/2026, 05:24 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:24:32Z"
+  },
+  {
+   "position": 16,
+   "title": "Tata Motors PV expects 15% market share 'very soon', eyes 20% by FY31: MD Shailesh Chandra",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/tata-motors-pv-expects-15-market-share-very-soon-eyes-20-by-fy31-md-shailesh-chandra/article71515356.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/e6g2qk/article71515378.ece/alternates/LANDSCAPE_1200/tata1_17.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkSEpTTW5aV00yaG5iR1JtVFJDZkF4ampCU2dLTWdheFpJS3ZzUVU",
+   "date": "09/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-27T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "India Car Sales September 2026: Dispatches Rise 21% to 4.58 Lakh Units; Maruti Suzuki Leads, Tata and Mahindra Follow",
+   "source": {
+    "name": "Autopunditz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autopunditz.com/post/india-car-sales-september-2026-oem-wise-dispatches",
+   "thumbnail": "https://static.wixstatic.com/media/1da610_f5abe70aa851484cbabade6a799f360f~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_f5abe70aa851484cbabade6a799f360f~mv2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTalZCUjFoUlUzYzBSM2xHVFJDbUJSakVBeWdLTWdZQkFJakdBUXM",
+   "date": "10/08/2026, 10:00 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:00:06Z"
+  },
+  {
+   "position": 18,
+   "title": "Tata Motors fixes June 12 record date for ₹4.00 FY26 dividend",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/tata-motors-fixes-june-12-as-record-date-for-4-00-final-dividend/41466448",
+   "thumbnail": "https://news-images.dhan.co/tata-motors-fixes-june-12-as-record-date-for-4-00-final-dividend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBVVTlzTm10RWFGVnJiMFJSVFJDaUF4amRCU2dLTWdrQlFJaWxKQ2RNa2dF",
+   "date": "10/04/2026, 09:03 PM, +0000 UTC",
+   "iso_date": "2026-10-04T21:03:21Z"
+  },
+  {
+   "position": 19,
+   "title": "Tata Motors raises Iveco bid to €14.40 per share",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vlad Schepkov"
+    ]
+   },
+   "link": "https://www.investing.com/news/stock-market-news/tata-motors-raises-iveco-bid-to-1440-per-share-93CH-4941532",
+   "thumbnail": "https://content-media.investing.com/news/LYNXNPEC0L0PD_L.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhSGhpYlVWa1RFTTFlbk5WVFJERUF4aW5CU2dLTWdZNWdZRFRPQU0",
+   "date": "10/09/2026, 05:22 PM, +0000 UTC",
+   "iso_date": "2026-10-09T17:22:48Z"
+  },
+  {
+   "position": 20,
+   "title": "Tata Motors Prepares for 1 Lakh Cars a Month as Major Product Offensive Takes Shape",
+   "source": {
+    "name": "Autopunditz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autopunditz.com/post/tata-motors-1-lakh-cars-month-fy28-production-capacity",
+   "thumbnail": "https://static.wixstatic.com/media/1da610_f128e27a0aa0450889725d546fcade3c~mv2.png/v1/fill/w_568,h_710,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_f128e27a0aa0450889725d546fcade3c~mv2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNU9hVlF5YzNkMFRuZExPRXRrVFJEN0FSakpBU2dCTWdzQkFJaUZoU3NsTU1saVhB",
+   "date": "10/07/2026, 02:29 PM, +0000 UTC",
+   "iso_date": "2026-10-07T14:29:29Z"
+  },
+  {
+   "position": 21,
+   "title": "India's Tata Motors PV shares fall after profit plunges, warns on margins",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonia Cheema",
+     "Harikrishnan Nair"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/indias-tata-motors-passenger-vehicles-falls-persistent-margin-demand-concerns-2026-08-14/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/P6N62K2SBZMMBA5QLBDYFOLYZI.jpg?auth=f28da25c206d7b8b4fd1e390446d3b8267e0b69aadfc7edb08cc00a30b31f32d&width=1920&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhVbE5RYmtvdFdsTnNlVTlVVFJERkF4aWtCU2dLTWdZWmNveE12UVE",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers — Ask Profit",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prajwal Jayaraj"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-reliance-industries-tata-motors-pv-swiggy-hdfc-bank-cochin-shipyard-and-kalyan-jewellers-ask-profit-12158193",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/6hios9ac_buy-sell-hold_625x300_08_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUphbmMzY1RCS1QxWjJaMDFKVFJDZkF4ampCU2dLTWdB",
+   "date": "10/08/2026, 04:02 PM, +0000 UTC",
+   "iso_date": "2026-10-08T16:02:21Z"
+  },
+  {
+   "position": 23,
+   "title": "Tata Motors Passenger Vehicles Positioned Amid EU Move To Restrict Chinese Hybrids",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/tata-motors-passenger-vehicles-positioned-amid-eu-move-to-restrict-chinese-hybrids",
+   "thumbnail": "https://www.sahi.com/assets/uploads/286_PE_1_CORPORATE_07_10_2026_16x9_f293cc3c79.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZRMnhuWm05RlZTMXVVRmROVFJDZUF4amxCU2dLTWdtTlVvd0tzV2FLaUFJ",
+   "date": "10/07/2026, 08:35 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:35:55Z"
+  },
+  {
+   "position": 24,
+   "title": "Tata Motors Denies Negotiation Knowledge After Proposal Triggers Up To 3% Share Drop",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/tata-motors-denies-negotiation-knowledge-after-proposal-triggers-up-to-3-share-drop",
+   "thumbnail": "https://www.sahi.com/assets/uploads/5240904_PE_1_CORPORATE_30_09_2026_16x9_9fb65996d7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNWV2N3UVdKcU5GOUJjWGQxVFJDb0FSaXRBaWdCTWdhWlk0eHFyUVk",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are ‘off",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134760154,width-1200,height-900,resizemode-4,imgsize-2217036/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-tablebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVSRTloTUdjNVVUaFlObEo2VFJEZ0F4aUFCU2dLTWdZQlFJallwQWc",
+   "date": "10/07/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:00:04Z"
+  },
+  {
+   "position": 26,
+   "title": "Tata Motors shares rise 2% after company hikes prices of commercial vehicles; all you need to know",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/tata-motors-shares-rise-2-after-company-hikes-prices-of-commercial-vehicles-all-you-need-to-know/article-200418/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tatamotorscvshares-sept-4.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBOelZaU2pNeU9WRlJVSFZLVFJDZkF4ampCU2dLTWdrQmdKQ0ROU2M5a0FF",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Tata Motors stock jumps 6% after strong Q1; Nomura upgrades to Buy, CLSA sees over 30% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-stock-jumps-6-after-strong-q1-nomura-upgrades-to-buy-clsa-sees-over-30-upside-14003938.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2019/08/RTX2QABF.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlZMUF3U2twVFFqTTRYMnB4VFJDZkF4ampCU2dLTWdZRmdvNVBzUVU",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Tata Motors Share Price: 52-Week Low, Valuation and Peers",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Tata_Motors_TMPV_Share_Price_Hits_Fresh_52_Week_Low_at_Rs_27220_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFibmhaV2psaWFUUk9ORXBLVFJDUUF4ai1CU2dLTWdZQktvVGlIZ2s",
+   "date": "09/29/2026, 06:06 AM, +0000 UTC",
+   "iso_date": "2026-09-29T06:06:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Tata Motors Eyes Further Price Hikes as Costs Rise",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-weighs-further-price-hikes-as-commodity-costs-pressure-margins",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/tata_motors_weighs_further_price_hikes_as_commodity_costs_pressure_margins.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBaRlYyZGpSUlRraE9RVjkwVFJDZkF4ampCU2dLTWdhQlU0em5MUVk",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Tata Motors Shares Gain 2.11% to Rs 446.00 in Early Trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-shares-gain-2-11-to-rs-446-00-in-early-trade-alpha-article-13991648.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250305041212_stock_market_recovery_1280x720.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1YME50WW1obmNtSndMWFZMVFJDZkF4ampCU2dLTWdZQmdJZ0N3UVE",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Tata Motors Share Price News: Key Price and Valuation Data",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-share-price-fall-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/TATA_MOTORS_TMCV_Share_Price_Falls_234_as_TMCV_Trades_at_Rs_42020_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpWbEpRYjJzM1UwRkNWV2hOVFJDUUF4ai1CU2dLTWdhQk1KQ2ptZ2s",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Tata Motors Stock And 2 India Manufacturers Tied To Nearshoring Demand",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-tennind/tenneco-clean-air-india-shares/news/tata-motors-stock-and-2-india-manufacturers-tied-to-nearshor",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4012000-choice2-card/1789000137615?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZXbWhSTTBaclpsODNRVXMyVFJDZkF4ampCU2dLTWdZQlJKQ3NJUWc",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "TMPV share price: Buy or Sell",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/tata-motors-passenger-vehicles-share-price-buy-hold-or-sell",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/tata-motors-passenger-vehicles-share-price-buy-hold-or-sell.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtUVzVDYjNSVVZrMUVhMEZvVFJDUUF4ai1CU2dLTWdZQlFJekRuZ2s",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Tata Motors Passenger Vehicles Shares Fall 2.01% to Rs 323.55",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-passenger-vehicles-shares-fall-2-01-to-rs-323-55-alpha-article-14009054.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Tata Motors PV Falls 6% as Q1 Profit Slumps 80%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-passenger-vehicles-shares-fall-6-percent-profit-plunges-80-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/frame_2068.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBZVzUzVlVSamFWUmZlWGRLVFJDZkF4ampCU2dLTWdB",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Tata Motors up 6% after Q1 beat; analysts see demand, margin upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/tata-motors-up-6-after-q1-beat-analysts-see-demand-margin-upside-126081300562_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/full/1767548531-2586.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpaSGRaU1dKRk1tczFWRzFZVFJEV0F4aU5CU2dLTWdZQjBJaUcwZ1E",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Tata Motors shares jump 6% after 83% Q1 FY27 profit surge, JM Financial highlights margin surprise",
+   "source": {
+    "name": "ET Auto",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritik Raj"
+    ]
+   },
+   "link": "https://auto.economictimes.indiatimes.com/news/commercial-vehicle/tata-motors-shares-jump-6-after-83-q1-fy27-profit-surge-jm-financial-highlights-margin-surprise/133202560",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-133202560,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZWM2hEV21acFRuTkxYMGRMVFJDZkF4ampCU2dLTWdhaEU1SnRHUW8",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Tata Motors Share Price News: Today’s Decline Explained",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-share-price-price-fall-2026-09-18",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Tata_Motors_TMPV_Share_Price_Falls_302_to_Rs_30515_Today_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJWbXhFTWpGSVVEWnZXa1Y1VFJDUUF4ai1CU2dLTWdhQkdZU2ptZ2s",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Tata Motors PV shares fall 5% after weak Q1 results. What are Morgan Stanley, Nomura, others saying?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tata-motors-pv-shares-fall-5-after-weak-q1-results-what-are-morgan-stanley-nomura-others-saying/articleshow/133228597.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133228663,width-1200,height-900,resizemode-4,imgsize-1966435/tata-motors-pv-shares-fall-5-after-weak-q1-results-what-are-morgan-stanley-nomura-others-sayingbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWV1pvUldGR2EyRnZRVk56VFJEZ0F4aUFCU2dLTWdhRlVJaWxvZ2c",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Tata Motors gains biggest market share in PV segment in Jan-Aug",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sohini Das"
+    ]
+   },
+   "link": "https://www.business-standard.com/industry/auto/tata-motors-passenger-vehicle-market-share-january-august-2026-126090100594_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/27/full/1785165125-7669.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUV2htY1cxSmVVOWFObHA2VFJDZkF4ampCU2dLTWdZQmtKYkd1Z2M",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Tata Motors shares in focus as Iveco Tender offer opens today",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/tata-motors-shares-steady-as-iveco-tender-offer-window-opens-today/article71437571.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/6sxz3h/article71226665.ece/alternates/LANDSCAPE_1200/Tata-Motors-PV-G1AFVUPOT.3.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNOMVJDZW5SbVdXNTZkRXh0VFJDZkF4ampCU2dLTWdhMWNZYnpyQVE",
+   "date": "09/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-07T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Why are Tata Motors shares rising today?",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/why-are-tata-motors-shares-rising-today",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Why Tata Motors Passenger Vehicles Share Price Is Rising",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=08/03/2026&story=4&title=Why-Tata-Motors-Passenger-Vehicles-Share-Price-Is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2025/07042025-image4-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkRXQyWTJONmMzWlViekZrVFJEYkFSamVBaWdLTWdZZFlaRHVLQVk",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Tata Motors shares gain over 2% in early trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-shares-gain-over-2-in-early-trade-alpha-article-13989731.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250215043505_rupeegain_dollar.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VWG8yWlZoU1ozTTVORTU1VFJDZkF4ampCU2dLTWdZQmNKQ2pzZ1k",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Tata Motors Share Price Today: Rs 313.85 After 4.25% Gain",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-ltd-share-price-price-rise-2026-09-17",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Tata_Motors_Ltd_TMPV_Tata_Motors_Share_Price_Rises_425_Today_TMPV_at_Rs_31385_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFOVVZKV0ZnME4xWkJOMFV0VFJDUUF4ai1CU2dLTWdZQk1JN2lHZ28",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Tata Motors PV eyes 15% market share soon, targets 20% by FY31",
+   "source": {
+    "name": "StoryBoard 18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.storyboard18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.storyboard18.com/amp/brand-makers/tata-motors-pv-eyes-15-market-share-soon-targets-20-by-fy31-111481.htm",
+   "thumbnail": "https://images.storyboard18.com/storyboard18/2026/08/Visuals-Page-2026-08-13T174744.836-2026-08-d2db99e902d3be182900d23e46a01dd6-1019x573.jpg?impolicy=website&width=675&height=1200",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdTM0E0V25WeFRteE5aMWhwVFJEOEFoaWpCU2dLTWdZQm9KVGxQZ2M",
+   "date": "09/27/2026, 08:31 AM, +0000 UTC",
+   "iso_date": "2026-09-27T08:31:01Z"
+  },
+  {
+   "position": 47,
+   "title": "TATA MOTORS Share Price Today: Price Fall Analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-share-price-price-fall-2026-09-28",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/tata-motors-tmcv-share-price-falls-2-01-today.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1kbXhZYkVwcWJHWnpTRTlUVFJDUUF4ai1CU2dLTWdZQlFaakRuZ2s",
+   "date": "09/28/2026, 06:10 AM, +0000 UTC",
+   "iso_date": "2026-09-28T06:10:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Tata Motors PV stock crashes 4.5% after Q1, top Nifty loser; brokerages cautious on margins, JLR recovery",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-pv-stock-slides-4-5-after-q1-top-nifty-loser-brokerages-cautious-on-margins-14005205.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251010095434_Tata-Motors.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliVXhxWm5od05GTlNOM1psVFJDZkF4ampCU2dLTWdZaEU1S05sUVk",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Tata Motors eyes 20% PV market share by FY31, hints of another possible price hike",
+   "source": {
+    "name": "HT Auto",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://auto.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mainak Das"
+    ]
+   },
+   "link": "https://auto.hindustantimes.com/auto/cars/tata-motors-eyes-20-pv-market-share-by-fy31-hints-of-another-possible-price-hike-41790564941431.html",
+   "thumbnail": "https://images.hindustantimes.com/auto/img/2026/09/28/1600x900/Tata_Punch_i-Turbo_Review__1789284839254_31dd280e-8bc6-42b7-bd33-1f4636a6c0f8_1790566892983_LCbs_ca7a70c4-ec55-4a90-9384-64ffce280695_ViSq.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVkekZmVVV0U1NUaEhTR1JhVFJDZkF4ampCU2dLTWdZWllKQ05xUVU",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Tata Motors PV Warns of Heavy Q2 Commodity Hit",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-pv-warns-q2-commodity-hit",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/57284FCC-6587-47F1-B343-CE8867846E47.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxNbWRmV0VsZk0xaEZia2RwVFJDZkF4amlCU2dLTWdZQlFvcWxIZ2c",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Is Now An Opportune Moment To Examine Tata Motors Passenger Vehicles Limited (NSE:TMPV)?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-tmpv/tata-motors-passenger-vehicles-shares/news/is-now-an-opportune-moment-to-examine-tata-motors-passenger",
+   "thumbnail": "https://images.simplywall.st/asset/company-cover/874652-main-header/1585187838822?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBXVXMwVmxOUlRqTXRWRXhRVFJDZkF4ampCU2dLTWdhWk00YXNwUVE",
+   "date": "07/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-02T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Tata Motors PV stock crashes nearly 10%, top Nifty loser today as investors react to JLR FY27 outlook",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:241bd66fe094b:0-tata-motors-pv-stock-crashes-nearly-10-top-nifty-loser-today-as-investors-react-to-jlr-fy27-outlook/",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Tata Motors shares fall 2.01% in today's trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-shares-fall-2-01-in-today-s-trade-alpha-article-13978407.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241027112256_market13.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWxWZWs5T1dIWmpha1Z3VFJDZkF4ampCU2dLTWdZRlVZeG1NZ1U",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "India's Tata Motors PV targets 18–20% market share, double-digit margin",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonia Cheema",
+     "Urvi Dugar",
+     "Janane Venkatraman"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/indias-tata-motor-pv-targets-1820-market-share-double-digit-margin-2026-06-16/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/BMA54WGX6FIU3OTGRFLKPDGO4U.jpg?auth=587387d8869ccf0671bac88a5f11a5ec4bad2a063d1e9125af8ff9ec14210acb&width=1200&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlaV3htV25GMlJsOVBjbEZ2VFJDNUFSaVJBaWdCTWdZNWc0eFJNUVk",
+   "date": "06/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-16T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Tata Motors launches tender offer for common shares of Iveco Group",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lalatendu Mishra"
+    ]
+   },
+   "link": "https://www.thehindu.com/business/Industry/tata-motors-launches-tender-offer-for-common-shares-of-iveco-group/article71430941.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/vq42yb/article71430951.ece/alternates/LANDSCAPE_1200/2026-08-14T035257Z_2119078170_RC23YMAZ7KQH_RTRMADP_3_TATA-MOTORS-IN-STOCKS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNjRGhLVjNCbk1FSjVWVUl4VFJDZkF4ampCU2dLTWdhQlVwS01zUVk",
+   "date": "09/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-05T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Where Is Tata Motors PV Share Price Headed In The Next 3 Years?",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=07/29/2026&story=11&title=Where-Is-Tata-Motors-PV-Share-Price-Headed-In-The-Next-3-Years",
+   "thumbnail": "https://www.eqimg.com/images/von-videos/29-Jul-2026-Rushabh-thumb.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhWWEUwWlhaSFZ6Sk9WRXBqVFJEQUFoaUFCQ2dLTWdhRlVZcldJQWs",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Tata Motors shares jump 6% on strong Q1; analysts see earnings momentum building",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/tata-motors-shares-jump-6-on-strong-q1-analysts-see-earnings-momentum-building/article-198574/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tmcv-13.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVSSGc1UjE4NGREVkZOWEpTVFJDa0FoaVlCaWdLTWdZRlVKU0hLQWc",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Tata Motors Passenger Vehicles shares fall 5.13% in early trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-passenger-vehicles-shares-fall-5-13-in-early-trade-alpha-article-14005240.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Tata Motors PV Q1 FY27 Results on Aug 13: Sales Seen Up 46%, EV Volumes Double",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sourabh Sharma"
+    ]
+   },
+   "link": "https://www.niftytrader.in/markets/tata-motors-pv-q1-fy27-results-on-aug-13/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/08/Tata-Motors-PV-Q1-FY27-Results-on-Aug-13-Sales-Seen-Up-46-EV-Volumes-Double-860x452.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVjMGgzTjJoTllsZHhiRTl1VFJDUkF4ajhCU2dLTWdaSk1ZeTFHQW8",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Tata Motors PV Meets J.P. Morgan UK Following 13.8% Market Share Stability",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/tata-motors-pv-meets-j-p-morgan-uk-following-13-8-market-share-stability-286-PE1_CORP",
+   "thumbnail": "https://www.sahi.com/assets/uploads/286_PE_1_CORPORATE_30_06_2026_16x9_85fce02756.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWtjbkJJYW1SdVFWWlBkVGxJVFJDZUF4amxCU2dLTWd1VmNvZ0tNV1k5aWZwWVJR",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Tata Motors shares decline 2% to Rs 403.50",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-shares-decline-2-to-rs-403-50-alpha-article-13980337.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250315034541_sensex_stocks_nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVRVTF3VUhoMFkwMUpaV1kxVFJDZkF4ampCU2dLTWdQVndoNA",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "TATA MOTORS LIMITED Share Price Update with Fundamentals",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-tata-motors-limited-share-price-price-rise-2026-09-23",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/tata-motors-limited-tmcv-share-price-rises-2-31-as-stock-gains-today.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRTRlJXZWt0WFgyOTFUa3cxVFJDUUF4ai1CU2dLTWdZQkdvTGlHZ28",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Tata Motors Passenger Vehicles Shares Fall 2.17%; Stock Part of Nifty 50",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-passenger-vehicles-shares-fall-2-17-stock-part-of-nifty-50-alpha-article-14002762.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250305041212_stock_market_recovery_1280x720.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1YME50WW1obmNtSndMWFZMVFJDZkF4ampCU2dLTWdZQmdJZ0N3UVE",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Tata Motors PV falls nearly 6% after weak Q1; Jefferies flags JLR headwinds",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/tata-motors-pv-falls-nearly-6-after-weak-q1-jefferies-flags-jlr-headwinds-126081400278_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/25/full/1764093825-5452.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVYMVJQYzFabGRUSTBWekJpVFJDOUF4aXhCU2dLTWdNQmNBZw",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Tata Motors Passenger Vehicles Ltd rises for third straight session",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/tata-motors-passenger-vehicles-ltd-rises-for-third-straight-session-126073100735_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Tata Motors Commercial Vehicle Share Jumps 4% as Brokers Cheers Maker’s Market Share Ambitions",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-shares-jump-4percent-as-brokerages-turn-bullish",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/tata.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFTR015UVZoTWJFcGFOM05FVFJDZkF4ampCU2dLTWdZQmNZcGxzZ1E",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Why is Tata Motors stock down today?",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vahid Karaahmetovic"
+    ]
+   },
+   "link": "https://www.investing.com/news/stock-market-news/why-is-tata-motors-stock-down-today-93CH-4747643",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Tata Motors PV shares fall 5% as JLR weakness, cost pressures weigh on Q1",
+   "source": {
+    "name": "ET Auto",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritik Raj"
+    ]
+   },
+   "link": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/tata-motors-pv-shares-fall-5-as-jlr-weakness-cost-pressures-weigh-on-q1/133230443",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-133230443,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJUSGRRWDNKa2NGa3lUWGxUVFJDZkF4ampCU2dLTWdZUlk0NVFvUWs",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Tata Motors shares jump 2% after receiving order for 3,400 electric commercial vehicles",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tata-motors-shares-in-focus-after-receiving-order-for-3400-electric-commercial-vehicles/articleshow/131900513.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131900512,width-1200,height-900,resizemode-4,imgsize-49968/tata-motors-shares-in-focus-after-receiving-order-for-3400-electric-commercial-vehicles.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXQzFOV2xKZlJuRkplWFpWVFJEZ0F4aUFCU2dLTWdhQkVvSm9GUXM",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Tata Motors PV shares tumble 6% after net profit drops in Q1; analysts stay cautious",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/tata-motors-pv-shares-tumble-6-after-net-profit-drops-in-q1-analysts-stay-cautious-11786697421433.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/14/1600x900/logo/TATA-MOTORS-RESULTS--0_1707197794993_1786698167115_f0c62e43-3d5b-4908-98f5-b27c43855ef8.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9jRUZWTkVSdmVFUjRPRmRZVFJDZkF4ampCU2dLTWdhbEFJaU5IUVE",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Tata Motors Q1 FY27 Result: Profit Jumps 83% to Rs.2,600 Crore as Commercial Vehicle Business Gains Momentum",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sourabh Sharma"
+    ]
+   },
+   "link": "https://www.niftytrader.in/markets/tata-motors-q1-fy27-result-profit-jumps/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/08/Tata-Motors-Q1-FY27-Result-Profit-Jumps-83-to-Rs.2600-Crore-as-Commercial-Vehicle-Business-Gains-Momentum-330x220.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9TQzFTVW5keFNUUjBRazFaVFJEY0FSaktBaWdLTWdrQlFKQWNIQ25BQ1FJ",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Tata Motors aims to achieve over 20% market share by 2030",
+   "source": {
+    "name": "Team-BHP",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.team-bhp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tushar Kelshikar"
+    ]
+   },
+   "link": "https://www.team-bhp.com/news/tata-motors-aims-achieve-over-20-market-share-2030",
+   "thumbnail": "https://www.team-bhp.com/sites/default/files/styles/amp_high_res/public/Screenshot%202026-06-05%20104915.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUlNWEp5UzAxb1NEWjFURmd4VFJDMkF4aThCU2dLTWdrUmNwSW93dVpiRFFJ",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Tata Motors PV shares rise after automaker's plan to raise prices by up to ₹25,000/unit from September",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/tata-motors-pv-shares-rise-after-automaker-s-plan-to-raise-prices-by-up-to-25-000-unit-from-september/article-199017/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tatamotorssierra1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSRTR3WW1STlNVNTFWM2R6VFJDZkF4ampCU2dLTWdZQmNwWUhzZ2M",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Five factors why Kotak remains bearish on this Tata Motors unit",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/tata-motors-passenger-vehicles-pv-share-price-five-factors-why-kotak-remains-bearish-on-this-tata-motors-unit-19981051.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-2d7f3769b2becf17ffb989590961760b.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpTMGxZUVd4c2NtZGtiWFZGVFJDZkF4ampCU2dLTWdB",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Tata Motors Jumps 5% After Strong Q1, Firm Demand Outlook",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-jumps-5-strong-q1-demand-outlook",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/frame_2027.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNSelYwWlZkb1owMWpNWGgxVFJDZkF4ampCU2dLTWdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Tata Motors shares fall 2.06 percent to Rs 399.50",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:5747987ed094b:0-tata-motors-shares-fall-2-06-percent-to-rs-399-50/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Tata Motors Passenger Vehicles shares gain 2.11% to Rs 350.25",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-passenger-vehicles-shares-gain-2-11-to-rs-350-25-alpha-article-14004016.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250130061113_Stock-Market-News.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdWVGxMUjNaWk5XdFBXVFJwVFJDZkF4ampCU2dLTWdZQldKSUFLd2M",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Tata Motors shares climb 2.03 percent ahead of Q1 FY27 results board meeting",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-shares-climb-2-03-percent-ahead-of-q1-fy27-results-board-meeting-alpha-article-13984240.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Tata Motors PV stock crashes 10% intra-day; sharpest intraday fall since Oct'25",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar",
+     "Puneet Wadhwa"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/tata-motors-pv-stock-crash-10-intra-day-sharpest-intraday-fall-since-oct-25-126061700736_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/02/full/1754103450-2333.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNVWFV5VEZaQldEa3pkRlpUVFJERUF4aW5CU2dLTWdZZElZeXJzUVU",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "India's Tata Motors PV shares fall after profit plunges, warns on margins",
+   "source": {
+    "name": "ET BrandEquity",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://brandequity.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://brandequity.economictimes.indiatimes.com/news/business-of-brands/indias-tata-motors-pv-shares-fall-after-profit-plunges-warns-on-margins/133241174",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-133241174,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFhRTlCUW5wUU1uTm9OVzFmVFJDZkF4ampCU2dLTWdZQmdJNkV1QVU",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "LIC ups stake in Tata Motors Passenger Vehicles to over 5%",
+   "source": {
+    "name": "ET Auto",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://auto.economictimes.indiatimes.com/news/passenger-vehicle/lic-ups-stake-in-tata-motors-passenger-vehicles-to-over-5/132602433",
+   "thumbnail": "https://etimg.etb2bimg.com/photo/132602468.cms",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxZekZNU0RVeVVrWklUSEZOVFJEVUF4aVBCU2dLTWdhaFpJQ3RxUUk",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Tata Motors CV stock gains 4% as brokerages bullish on 40% market-share target, eye benefits from Iveco...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-cv-stock-gains-4-as-brokerages-bullish-on-40-market-share-target-eye-benefits-from-iveco-deal-13957373.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2019/08/RTX2QABF.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlZMUF3U2twVFFqTTRYMnB4VFJDZkF4ampCU2dLTWdZRmdvNVBzUVU",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Tata Motors Bets Big on the Future: ₹40,000 Crore Investment Plan Targets 12 Lakh Annual Sales by FY31",
+   "source": {
+    "name": "Autopunditz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autopunditz.com/post/tata-motors-bets-big-on-the-future-40-000-crore-investment-plan-targets-12-lakh-annual-sales-by-fy31",
+   "thumbnail": "https://static.wixstatic.com/media/1da610_11a3e07d72624ce194ee6030ee052c6f~mv2.png/v1/fill/w_980,h_1178,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_11a3e07d72624ce194ee6030ee052c6f~mv2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZUMWgyUkZSdFp6Wk9WMlp1VFJEMkFSak5BU2dCTWdrQkFvUmprYXBhZ1FN",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Tata Motors CV shares rise over 3% after robust July sales; Nomura sees Iveco recovery key for earnings",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/tata-motors-cv-shares-rise-over-2-after-july-sales-growth-nomura-sees-iveco-recovery-key-for-earnings-13991854.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260718025230_sensex_nifty-marketup_sensexup-Niftyup.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhNVTVIZVZwbVVYVnViVGxOVFJDZkF4ampCU2dLTWdZNU1ZaTJHQWs",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Tata Motors CV shares trade lower ahead of Q1 FY27 results: 5 things investors need to know",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/tata-motors-cv-shares-trade-lower-ahead-of-q1-fy-27-results-5-things-investors-need-to-know/article-198459/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tata-motors-cv-shares-august-11.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFSVzVKVVdOUE1FSklhM2w0VFJDZkF4ampCU2dLTWdZQklJd2tIZ1k",
+   "date": "08/11/2026, 07:28 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:28:18Z"
+  },
+  {
+   "position": 86,
+   "title": "Tata Motors shares jump 6% after strong Q1; Nomura upgrades stock, CLSA retains Outperform rating",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tata-motors-shares-jump-6-after-strong-q1-nomura-upgrades-stock-clsa-retains-outperform-rating/articleshow/133197624.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133197667,width-1200,height-900,resizemode-4,imgsize-2213232/tata-motors-shares-jump-6-after-strong-q1-nomura-upgrades-stock-clsa-retains-outperform-ratingbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSamxKZEhkeE9VSkdiM0pFVFJEZ0F4aUFCU2dLTWdZQllZaVdVQU0",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Tata Motors Edges Ahead of Mahindra in the PV Market Share Race",
+   "source": {
+    "name": "Autocar Professional",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autocarpro.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shruti Shiraguppi"
+    ]
+   },
+   "link": "https://www.autocarpro.in/analysis-sales/tata-motors-edges-ahead-of-mahindra-in-the-pv-market-share-race-133436",
+   "thumbnail": "https://img.autocarpro.in/autocarpro/f6383a55-545a-40de-b10b-931718f1bf43_lead-imagewa.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNW5iRE5NUTBwdUxWVmtUMEZsVFJDZkF4ampCU2dLTWdNTlloQQ",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Tata Motors shares jump 5% on strong growth guidance. What are Nomura, other brokerages saying?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/tata-motors-shares-jump-5-on-strong-growth-guidance-what-are-nomura-other-brokerages-saying/articleshow/131959186.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131959322,width-1200,height-900,resizemode-4,imgsize-49968/tata-motors-shares-jump-5-on-strong-growth-guidance-what-are-nomura-other-brokerages-saying.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNXQzFOV2xKZlJuRkplWFpWVFJEZ0F4aUFCU2dLTWdhQkVvSm9GUXM",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Tata Motors stock rating: Buy or sell? Brokerages divided; bullish on JLR growth, cautious on near-term...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-stock-rating-buy-or-sell-brokerages-divided-bullish-on-jlr-growth-cautious-on-near-term-outlook-13952607.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250328065223_tata-motors1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRNMmREZGxOZlVVcHpjalV6VFJDZkF4ampCU2dLTWdtVlVJNnJ2V1VsU0FJ",
+   "date": "06/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-18T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Tata Motors stock rebounds 22% from June low, nears record high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/tata-motors-stock-rebounds-22-from-june-low-nears-record-high-126082000529_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-04/01/full/1775036274-773.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVRbUpZZGxOUFdtTnlPVkJxVFJDRkF4aVZCaWdLTWdZQjBJb294UVE",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Tata Motors CV shares gain after bullish analysts expect stock to cross ₹500 levels",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sudarshan Kumar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/tata-motors-cv-share-price-investor-day-fy28-outlook-analysts-bullish-rating-target-price-19931238.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-98d9cd10767d6536f8c0ff141f5fec85.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZlVTFTUldKMmRWVkRWbGt0VFJDZkF4ampCU2dLTWdrRklZZ0VQU1JqSlFJ",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Tata Motors July CV Sales Jump 37%; Shares Climb Over 3%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/tata-motors-july-commercial-vehicle-sales-jump-37-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/tata_motors_july_cv_sales_jump_37_shares_climb_over_3_.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVPRlZvTVZNeWJGcEpNRzFQVFJDZkF4ampCU2dLTWdZQmNJekVxZ2M",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Tata Motors PV aims 20% market share by 2031",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lalatendu Mishra"
+    ]
+   },
+   "link": "https://www.thehindu.com/business/tata-motors-pv-aims-20-market-share-by-2031/article71198639.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/9w8qok/article71048144.ece/alternates/LANDSCAPE_1200/iStock-1352228708.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZXVE0zVUhBMmJuWnphRGN6VFJDZkF4ampCU2dLTWdZQkU0Um9GUXM",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Tata Motors gains EV market share as bookings rise three-fold",
+   "source": {
+    "name": "Telangana Today",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://telanganatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://telanganatoday.com/tata-motors-gains-ev-market-share-as-bookings-rise-three-fold",
+   "thumbnail": "https://media.telanganatoday.com/wp-content/uploads/2026/08/tata-motors.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWpaRzh5VW1sSlNYVjVSR1owVFJDb0F4alVCU2dLTWdNQkFBaw",
+   "date": "08/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-30T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Tata Motors Q1 FY27 results: Check date, time, recent updates, share price trend and more",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/tata-motors-q1-fy-27-results-check-date-time-recent-updates-share-price-trend-and-more/article-197609/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tata-motors-q1-results-dividend-live-updates-share-price.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZRV1JJYkVJMFlrZFRSVkp4VFJDZkF4ampCU2dLTWdZQndJem14QVU",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Tata Motors PV to increase prices of cars, SUVs by up to 1.5% from July 1, shares rise over 1%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-pv-to-increase-prices-of-cars-suvs-by-up-to-1-5-from-july-1-shares-rise-over-1-13947940.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/10/20251010095434_Tata-Motors.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliVXhxWm5od05GTlNOM1psVFJDZkF4ampCU2dLTWdZaEU1S05sUVk",
+   "date": "06/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-12T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Stocks to watch: Tata Motors PV, Jio Financial, Lenskart among shares in focus today; check list here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-tata-motors-pv-jio-financial-lenskart-among-shares-in-focus-today-check-list-here-11786586543838.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/stock_1786587797388_1786587797513_85978156-54aa-4610-8d7e-2e4dc12b7b49.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSVlpwYlUxSFZVRnVNRkZPVFJDZkF4ampCU2dLTWdhTkFJTHBHQWM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Tata Motors PV stock soars up to 8% on improving JLR demand, launch pipeline",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-pv-stock-soars-up-to-8-as-jlr-cost-cut-premium-push-ease-margin-worries-13920090.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/05/20260515042751_tata-motors3.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUthV3RZVEhSa1dHRlVhVTloVFJDZkF4ampCU2dLTWdtVllJeXJRV1VsQ1FJ",
+   "date": "05/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-15T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Tata Motors PV shares slip 4% as Q1 profit plunges 80%; Indigo Paints jumps 4% on strong earnings",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/tata-motors-pv-shares-slip-4-as-q1-profit-plunges-80-indigo-paints-jumps-4-on-strong-earnings-14005159.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260422075010_stocks5.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdiVzF6VWpkd2JsOWhjRTAwVFJDZkF4ampCU2dLTWdhMU1KUzBGQW8",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Tata Motors launches tender offer for Iveco shares after securing all regulatory clearances",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWARAJ BAGGONKAR"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/automobile/tata-motors-launches-tender-offer-for-iveco-shares-after-securing-all-regulatory-clearances-article-14023119.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/07/20250731083030_iveco.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZZV0k0V0Uxb1VHeFpaSFJOVFJDZkF4ampCU2dLTWdhUkVvNUtrUW8",
+   "date": "09/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-05T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:47"
+}

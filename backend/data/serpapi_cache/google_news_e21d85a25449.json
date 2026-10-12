@@ -1,0 +1,1505 @@
+{
+ "search_metadata": {
+  "id": "6ac945511e760b3a02e6e92d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Jz1WS4YfH8qM6jupYHd4gSldkx4OPBOpk-rTRSsZsCI/6ac945511e760b3a02e6e92d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Jz1WS4YfH8qM6jupYHd4gSldkx4OPBOpk-rTRSsZsCI/6ac945511e760b3a02e6e92d.md",
+  "created_at": "2026-10-09 19:49:37 UTC",
+  "processed_at": "2026-10-09 19:49:37 UTC",
+  "google_news_url": "https://news.google.com/search?q=Reliance+Industries+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/Jz1WS4YfH8qM6jupYHd4gSldkx4OPBOpk-rTRSsZsCI/6ac945511e760b3a02e6e92d.html",
+  "total_time_taken": 1.12
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Reliance Industries share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Reliance Industries shares: 5 reasons why RIL stock is cracking",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/reliance-industries-shares-5-reasons-why-ril-stock-is-cracking-560567-2026-10-09",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac87521a7114-the-street-is-also-awaiting-rils-september-quarter-q2-fy27-results-09012139-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhblp4YUd4alZVcHZXbWRNVFJDZkF4ampCU2dLTWdhZGM1WkxMUWM",
+   "date": "10/09/2026, 05:01 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:01:33Z"
+  },
+  {
+   "position": 2,
+   "title": "Reliance Industries Share Price Prediction for Monday, 12 October 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-monday-12-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/09/2026, 10:32 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:32:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Reliance Industries seeks nod for ₹1.45 lakh crore RPTs and new business",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/reliance-seeks-nod-for-1-45-lakh-crore-rpts-new-business/46162850",
+   "thumbnail": "https://news-images.dhan.co/reliance-seeks-nod-for-1-45-lakh-crore-rpts-new-business.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpXSHBuUWt4MVNYZDVNMjh6VFJDaUF4amRCU2dLTWdZQllJS29yUVE",
+   "date": "10/08/2026, 10:11 PM, +0000 UTC",
+   "iso_date": "2026-10-08T22:11:47Z"
+  },
+  {
+   "position": 4,
+   "title": "Jio Platforms IPO: What does it mean for Reliance Industries share price? What should RIL investors do?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/jio-platforms-ipo-what-does-it-mean-for-reliance-industries-share-price-what-should-ril-investors-do-11791361785458.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/jio_1791365341274_wbez_1791365341511_yBho_53b68e18-8cd4-4eb9-a2d9-dca5333cd45d_bdi0.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpNRTB4T1RkalFUVjRRVmh3VFJDZkF4amlCU2dLTWdrQklJd1JuYWlwS3dF",
+   "date": "10/07/2026, 09:31 AM, +0000 UTC",
+   "iso_date": "2026-10-07T09:31:57Z"
+  },
+  {
+   "position": 5,
+   "title": "Reliance Industries' share price jumps 2.75%: Eight possible factors behind today’s rally",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Swati Verma"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/reliance-industries-share-price-jumps-2-75-eight-possible-factors-behind-today-s-rally/article-201369/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ril-share-price-oct-6-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJjVFJGVVUxS05EZGhaVlZOVFJDZkF4ampCU2dLTWdZdGRZNnVzUVk",
+   "date": "10/06/2026, 09:55 AM, +0000 UTC",
+   "iso_date": "2026-10-06T09:55:07Z"
+  },
+  {
+   "position": 6,
+   "title": "Reliance Jio IPO: Likely price band for India's biggest listing revealed. Check details",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details/articleshow/134831025.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134831058,width-1200,height-900,resizemode-4,imgsize-19088/reliance-jio-ipo-likely-price-band-range-for-indias-biggest-listing-revealed-check-details.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZjekl3V1U1M1ozVlNPWGxyVFJEZ0F4aUFCU2dLTWdZNVFaaVhJQWs",
+   "date": "10/09/2026, 10:48 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:48:59Z"
+  },
+  {
+   "position": 7,
+   "title": "Stock markets trade higher, led by bank stocks, Reliance Industries",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/markets/stock-markets-trade-higher-led-by-bank-stocks-reliance-industries/article71550014.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/tyy0wm/article71550027.ece/alternates/LANDSCAPE_1200/20261005326L_vWGMEKA.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDFXRk5GVVhoWmRFaEJiSEZGVFJDZkF4ampCU2dLTWdNMUZ6QQ",
+   "date": "10/06/2026, 05:09 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:09:26Z"
+  },
+  {
+   "position": 8,
+   "title": "Reliance Industries down 2%, at 17-month low; what's making Street nervous?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/reliance-industries-down-2-at-17-month-low-what-s-making-street-nervous-126092400512_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/04/full/1780568693-0281.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjV05PWm0xZk4yaDJNMUF6VFJDckF4alBCU2dLTWdZUndvb294UVE",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Adani Group stocks surge up to 3 pc; Reliance Industries, BSE shares drag",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/adani-group-stocks-surge-up-to-3-pc-reliance-industries-bse-shares-drag796927",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Trading_82.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFhMDVqUlU5YVMwRktkMEpvVFJDM0FSaVRBaWdCTWdhUklZcHdKUWc",
+   "date": "10/09/2026, 11:48 AM, +0000 UTC",
+   "iso_date": "2026-10-09T11:48:38Z"
+  },
+  {
+   "position": 10,
+   "title": "Reliance shares may be a cheaper way to buy Jio Platforms after its listing",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/ipo/reliance-industries-share-price-jio-platforms-ipo-11791435313094.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Jio_1791435860458_NMan_1791435860582_XjJp_4370b90f-da80-4131-872c-54f021bb2e96_9BvT.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJZVUp2U1dNeFdsUXljWEZ6VFJDZkF4ampCU2dLTWdtNUFJNHl0V1VXWUFN",
+   "date": "10/08/2026, 05:07 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:07:06Z"
+  },
+  {
+   "position": 11,
+   "title": "Maruti Suzuki, Reliance Industries, Bharti Airtel and others: 17 NIFTY50 stocks that are near their 52-week lows; check full list",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-reliance-industries-bharti-airtel-and-others-17-nifty-50-stocks-that-are-near-their-52-week-lows-check-full-list/article-201604/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/52-week-low-oct-9.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUthMWRRVm1neVFqRmtlR2RVVFJDZkF4ampCU2dLTWdPQmNnZw",
+   "date": "10/09/2026, 10:13 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:13:18Z"
+  },
+  {
+   "position": 12,
+   "title": "Reliance Industries Share Price Prediction for Tomorrow, 8 October 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-8-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/07/2026, 10:29 AM, +0000 UTC",
+   "iso_date": "2026-10-07T10:29:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Reliance Industries gains 3% as Jio IPO plan fuels hopes of value unlocking",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/reliance-industries-gains-3-as-jio-ipo-plan-fuels-hopes-of-value-unlocking-126100600608_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/19/full/1784478858-0523.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBkMUJTV1RsTFlYWlRPREF4VFJDdkF4akhCU2dLTWdrQlFKQ2pKbWNXUmdJ",
+   "date": "10/06/2026, 08:56 AM, +0000 UTC",
+   "iso_date": "2026-10-06T08:56:44Z"
+  },
+  {
+   "position": 14,
+   "title": "Reliance Industries shares gain 3% as JIO IPO inches closer; Jefferies increases weight in conglomerate",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate/articleshow/134738865.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134738956,width-1200,height-900,resizemode-4,imgsize-178764/reliance-industries-shares-gain-3-as-jio-ipo-inches-closer-jefferies-increases-weight-in-conglomerate.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVZakZ3VVZCQ1UzaFZUbEUzVFJEZ0F4aUFCU2dLTWdZSndZckZ2Z1U",
+   "date": "10/06/2026, 11:26 AM, +0000 UTC",
+   "iso_date": "2026-10-06T11:26:33Z"
+  },
+  {
+   "position": 15,
+   "title": "Reliance Industries Share Price rise: key levels and context",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/Reliance_Industries_RELIANCE_Share_Price_rises_218_as_stock_trades_at_Rs_119140_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpRbHAwTkdwRlFtOTJSMlpDVFJDUkF4ai1CU2dLTWdB",
+   "date": "10/05/2026, 09:32 AM, +0000 UTC",
+   "iso_date": "2026-10-05T09:32:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Reliance Industries Share Price Today, Valuation in Focus",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-share-price-fall-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/Reliance_Industries_RELIANCE_Share_Price_Falls_222_in_Latest_Session_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVVM2RITlU1NGEwczFkVGxPVFJDUUF4ai1CU2dLTWdhQk1aQ2ptZ2s",
+   "date": "10/08/2026, 06:51 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:51:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Reliance Industries Prediction for Tomorrow: 9 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-9-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/reliance-industries-share-price-prediction-for-tomorrow-9-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlPSGRhWVVnMWVtdElhRnB5VFJDUUF4ai1CU2dLTWdhQkVJYkRHZ28",
+   "date": "10/08/2026, 10:24 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:24:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Reliance Industries Prediction for Tomorrow: 7 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-7-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/reliance-industries-share-price-prediction-for-tomorrow-7-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNWRWg0TkVNMFMycFVkRmMwVFJDUUF4ai1CU2dLTWdrQklJaDNIQ214eHdJ",
+   "date": "10/06/2026, 10:28 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:28:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Reliance Industries Share Price Rise Streak, Key Levels",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-consecutive-price-rise-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/06/2026, 06:27 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:27:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Reliance Industries Prediction for Tomorrow: 6 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-6-october-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/reliance-industries-share-price-prediction-for-tomorrow-6-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWVU5oWVhOcWJGaHZibWRTVFJDUUF4ai1CU2dLTWdZQk1JYWpHZ28",
+   "date": "10/05/2026, 10:23 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:23:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Reliance Industries Share Price Rallies 3%: What's Driving the Stock Higher?",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/reliance-industries-share-price-rallies-3-whats-driving-the-stock-higher",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Reliance Industries fell 25% this year: Which mutual funds have the highest exposure — and should you be worried?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/money/personal-finance/reliance-industries-fell-25-this-year-which-mutual-funds-have-the-highest-exposure-and-should-you-be-worried-11790692502140.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/29/1600x900/logo/ryeuern_1790696925793_a7Af_1790696934186_yKTi_0e8a49fa-80c6-492d-bfdc-e59088cf9781_ou6c.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdZbVJPWWtoZk1sTm1WM0l5VFJDZkF4ampCU2dLTWdrRkFKQWxpV2RGa1FF",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Reliance Industries receives ₹18.75 lakh customs penalty for misclassification",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/reliance-industries-receives-18-75-lakh-customs-penalty/52939315",
+   "thumbnail": "https://news-images.dhan.co/reliance-industries-receives-18-75-lakh-customs-penalty.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNUVE5wZFc1cVJVNDVXbk5hVFJDaUF4amRCU2dLTWdhZFU0cU1MUVU",
+   "date": "10/07/2026, 05:26 PM, +0000 UTC",
+   "iso_date": "2026-10-07T17:26:05Z"
+  },
+  {
+   "position": 24,
+   "title": "Reliance shares are down 17% despite soaring refining margins. What the market is missing",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikhil Agarwal"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-shares-are-down-17-despite-soaring-refining-margins-what-the-market-is-missing/articleshow/133751003.cms",
+   "thumbnail": "https://img.etimg.com/thumb/width-420,height-315,imgsize-2023585,resizemode-75,msid-133751052/markets/stocks/news/reliance-shares-are-down-17-despite-soaring-refining-margins-what-the-market-is-missing/reliance-shares-are-down-17-despite-soaring-refining-margins-what-the-market-is-missingbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNkbTVGY1RCQ2VHeFJTQzFKVFJDN0FoaWtBeWdLTWdrRllJNnVKT1lHc0FF",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Reliance Industries stock after-hours: INR 12,000 crore debenture allotment",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nachboerse/reliance-industries-stock-after-hours-inr-12-000-crore-debenture/70200497",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2404999_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtRMVE0VlZBM1VVSlhaMmw2VFJDZkF4ampCU2dLTWdtQllZZ3BMdVk4VUFF",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Jio IPO Impact on Reliance Share Price: Value Unlock or Dilution?",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/jio-ipo-impact-reliance-share-price-value-unlocking-stake-dilution-holdco-discount",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/jio-platforms-ipo-and-the-reliance-share-price-value-unlocking-or-holdco.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1kUzFhVUd4VlRHWk9hbEJCVFJDUUF4ai1CU2dLTWdhQk1JaWpHZ28",
+   "date": "10/07/2026, 09:54 AM, +0000 UTC",
+   "iso_date": "2026-10-07T09:54:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Reliance May Be a Cheaper Way to Buy Jio After Its Listing",
+   "source": {
+    "name": "Bloomberg.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rajesh Mascarenhas",
+     "Samie Modak"
+    ]
+   },
+   "link": "https://www.bloomberg.com/news/articles/2026-10-08/reliance-may-be-a-cheaper-way-to-buy-jio-after-its-listing",
+   "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iPB2N7gJl9N0/v0/-1x-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpYM05QWDFwS2JqSlhWVzVDVFJDekF4akNCU2dLTWdZSlFveXVxUVk",
+   "date": "10/08/2026, 04:15 AM, +0000 UTC",
+   "iso_date": "2026-10-08T04:15:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Buy, Sell Or Hold: Reliance Industries, Tata Motors PV, Swiggy, HDFC Bank, Cochin Shipyard And Kalyan Jewellers — Ask Profit",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prajwal Jayaraj"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-reliance-industries-tata-motors-pv-swiggy-hdfc-bank-cochin-shipyard-and-kalyan-jewellers-ask-profit-12158193",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/6hios9ac_buy-sell-hold_625x300_08_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUphbmMzY1RCS1QxWjJaMDFKVFJDZkF4ampCU2dLTWdB",
+   "date": "10/08/2026, 04:02 PM, +0000 UTC",
+   "iso_date": "2026-10-08T16:02:21Z"
+  },
+  {
+   "position": 29,
+   "title": "Reliance Industries Share Price Prediction for Tomorrow: 16 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-16-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-16-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpOV2c0U0ZkWVFVTjRVRTFXVFJDUUF4ai1CU2dLTWdrQklKTERHaW9laGdJ",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Reliance Industries shares gain as govt slashes windfall tax on fuel exports; stock down 21% in 2026 so fa",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-govt-slashes-windfall-tax-on-fuel-exports-stock-down-21-in-2026-so-far/articleshow/134301211.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134301262,width-1200,height-900,resizemode-4,imgsize-2025278/reliance-industries-shares-in-focus-as-govt-slashes-windfall-tax-on-fuel-exports-stock-down-21-in-2026-so-farbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZOWEJPUlV4QlRsOUZaV3AzVFJEZ0F4aUFCU2dLTWdZTk1ZaU1HUW8",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Results: Reliance Industries Limited Beat Earnings Expectations And Analysts Now Have New Forecasts",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/results-reliance-industries-limited-beat-earnings-expectatio",
+   "thumbnail": "https://images.simplywall.st/asset/company-cover/878373-main-header/1585187459200?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBlV2QzTUhab1RuYzNkVUpFVFJDZkF4ampCU2dLTWdrRkVJYWxNZVFzWkFJ",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Reliance Industries’ shares settle higher; three developments market participants need to know",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/reliance-industries-share-price-three-reasons-why-the-stock-is-in-spotlight-on-monday-august-17/article-198720/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ril-share-price-augu-17-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURZVTVSZW5FMlNWVmZObXhIVFJEZ0F4aUFCU2dLTWdZZGdKQkxNUVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/reliance-industries-shares-contribute-to-nifty-recovery-jefferies-sees-53-percent-upside-19981261.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-fda3c8029aa6940fc9ee61530bd20897.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdUVVpXYVcxQlRFdFdYMDVJVFJDZkF4ampCU2dLTWdtTk1ZYUtuV1NLOXdB",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Stock markets edged higher in early trade amid lower crude oil prices, buying in Reliance Industries",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/markets/stock-markets-edged-higher-in-early-trade-amid-lower-crude-oil-prices-buying-in-reliance-industries/article71312154.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/hfx0xp/article71116509.ece/alternates/LANDSCAPE_1200/2025-11-07T065921Z_1148292179_RC2USDAMZK08_RTRMADP_3_INDIA-STOCKS-FLOWS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNiVmxyYVZCUVowWmhiMEp3VFJDZkF4ampCU2dLTWdhTlVJQ1N6QUk",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Reliance Share Price Holds Firm Despite Q1 Profit Fall as Jio Growth and IPO Plans Drive Optimism",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/earnings/reliance-share-price-holds-firm-despite-q1-profit-fall-as-jio-growth-and-ipo-plans-drive-optimism",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Reliance Industries Share Price: price action at yearly low",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-price-52-week-low-2026-09-25",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-hits-fresh-52-week-low-at-rs-1-214-key-reasons.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdhMUZFTlhJMVJrTkZaRzF2VFJDUUF4ai1CU2dLTWdhQktaakNIZ2s",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "As NSE, Reliance Jio eye listings, what are India's biggest share offerings?",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.reuters.com/world/india/indias-largest-ever-ipos-ahead-ambanis-jio-offering-2026-09-11/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/6EHN7AUAXNJLBJBTRTAT2DXKBA.jpg?auth=ddb72f2a2c9b39407861c5310ba2eca8f2148a7c53edf448cdf6b6349eac69b2&width=1200&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxRVE15Wmt0V2QwcEdNV1ZZVFJEQUF4aXNCU2dLTWdhQnRZNGt3Z1U",
+   "date": "09/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-10T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Reliance Industries Share Price at 52-week low, key metrics",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-price-52-week-low-2026-09-18",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/Reliance_Industries_Share_Price_Slips_to_Fresh_52_Week_Low_at_Rs_1234_Heres_Why_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURSbVJYWlhaWFoyb3hkMnd3VFJDUUF4ai1CU2dLTWdZQlFaRGltZ2s",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Reliance Industries promoters raise stake to 50.48%; stock gains 2% ahead of Q1 results",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/reliance-industries-promoters-raise-stake-to-50-48-stock-gains-2-ahead-of-q1-results-13976684.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/10/reliance-industries.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iRzF5WlZsalkwbHZVMDUxVFJDZkF4ampCU2dLTWdZSllKcXJwUWc",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Reliance Industries shares contribute to Nifty recovery; Jefferies sees 53% upside - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_reliance-industries-shares-contribute-to-activity-7500453687828320256-ou-n",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQHT7AH0Ll8A5g/articleshare-shrink_800/B4DaBb2o1fJsAc-/0/1788247445162?e=2147483647&v=beta&t=5Tkx9mcUTIRdpvCWLC-vmEkobH1AGB_ntqZJbegfBv4",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFUMWhUVG5adVNFTk9NMGQ1VFJDZkF4ampCU2dLTWdhTk1ZaUtuUVE",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Reliance Industries (RELIANCE) Share/Stock Price Live, NSE",
+   "source": {
+    "name": "TechGraph",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techgraph.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://techgraph.co/stock-market/quote/reliance-ns/",
+   "thumbnail": "https://static.techgraph.co/wp-content/uploads/2023/05/favicon.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJiRzEwVlVwVFpYQTFjREZFVFJDMkFoaTJBaWdLTWdZZFk0NUxyUWM",
+   "date": "09/08/2026, 12:29 PM, +0000 UTC",
+   "iso_date": "2026-09-08T12:29:34Z"
+  },
+  {
+   "position": 42,
+   "title": "Reliance Industries share price target: What are brokerages saying after Q1 results?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-share-price-target-what-are-brokerages-saying-after-q1-results/articleshow/132505723.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132505719,width-1200,height-900,resizemode-4,imgsize-34218/reliance-industries-share-price-target-what-are-brokerages-saying-after-q1-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVUamxJZDBac1ExRTJXbEV0VFJEZ0F4aUFCU2dLTWdZQnBKQ0hQUVk",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Top stocks to watch today: TCS, Tata Steel, Reliance, Sun Pharma shares in focus on Thursday, 8 October | Full list",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/top-stocks-to-watch-today-tcs-tata-steel-reliance-sun-pharma-shares-in-focus-on-thursday-8-october-full-list-11791422724767.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/STW_1791424694413_9p2Z_1791424694534_ZzbY_f77c3de2-7d89-46f2-b534-66efbbe58d52_0NtU.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFlRnBJTTNSSGRXZFpWMW8wVFJDZkF4amlCU2dLTWdrUllJVHByS1pqbGdB",
+   "date": "10/08/2026, 01:59 AM, +0000 UTC",
+   "iso_date": "2026-10-08T01:59:18Z"
+  },
+  {
+   "position": 44,
+   "title": "Indian shares fall as IT, Reliance drag; losses deepen in closing auction",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bharath Rajeswaran"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/indian-shares-seen-higher-oil-slides-strait-hormuz-reopening-hopes-2026-08-26/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/ARFIUEDV3ZM6XH5YFFJD3FRLDA.jpg?auth=3f068b1332b1e7a95f6801bf6a9fe97411238f66633f004f356e1f8b62196b28&width=960&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxkSFZmZURGNVNURkhkMk10VFJEUEF4aVdCU2dLTWdtaFVvQ3MxYUZFQ1FJ",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Reliance Industries Share Price: price action and valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-price-52-week-low-today-2026",
+   "date": "10/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-01T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Reliance rises 2% to be among top Nifty gainers, stock crosses key technical level",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/reliance-rises-2-to-be-among-top-nifty-gainers-stock-crosses-key-technical-level-14022671.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/05/20260520163319_RIL-new.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdVamRoTWxsbk1YSndNMjlpVFJDZkF4ampCU2dLTWdZaFZJcHNPUVU",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "RIIL share price surges 9%, up for the second straight day - Can Reliance Industrial Infrastructure stock rise further?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/riil-share-price-surges-9-up-for-the-second-straight-day-can-reliance-industrial-infrastructure-stock-rise-further-11791351275271.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/logo/RIIL_share_price_1791351702444_HPWL_1791351706245_aHtZ_e57638e8-f2bc-460a-86c0-c2c9028410a0_GsXK.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNaM1Z5U3pkaVZUVkViMWQ2VFJDZkF4amlCU2dLTWdZQkFJeUVNZ1k",
+   "date": "10/07/2026, 06:03 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:03:13Z"
+  },
+  {
+   "position": 48,
+   "title": "Reliance Industries Prediction for Monday: 5 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-monday-5-october-2026",
+   "date": "10/01/2026, 10:29 AM, +0000 UTC",
+   "iso_date": "2026-10-01T10:29:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Reliance shares briefly slip below ₹1,300 amid volatility: Buy the dip or wait?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-shares-briefly-slip-below-1-300-amid-volatility-buy-the-dip-or-wait-11786950918125.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/Stock_market_volatility_1766041038943_1766041045607_1786951172087_2a90b908-39a8-4d9a-b95a-0650dfd5a3ac.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdYMVZTYkdwT1JVSlJVWGhKVFJDZkF4ampCU2dLTWdaWkFLeFpBQTA",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Reliance Industries shares jump 2% ahead of Mukesh Ambani-led company’s Q1 earnings. How to trade stock to",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/ril-q1-strategy-how-to-trade-reliance-industries-shares-ahead-of-june-quarter-earnings/articleshow/132452163.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132452159,width-1200,height-900,resizemode-4,imgsize-2465898/ril-q1-strategy-how-to-trade-reliance-industries-shares-ahead-of-june-quarter-earnings.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZNVGhQWms5Q1VHeG5OWEZaVFJEZ0F4aUFCU2dLTWdtQmtZUXh0U1dwMUFB",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Atmastco Secures ₹66 Crore Reliance Order; Shares Rise 4.78%",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/atmastco-receives-rs-66-crore-order-from-reliance-industries",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/image-2026-09-11T101348.440.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVNVkJyUlZsNlRHVlFVV1ZtVFJDZkF4amlCU2dLTWdZQlNKQmpvZ1k",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Reliance Industries, SBI among 10 stocks with highest DII holding in Q1. Do you own any?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-sbi-among-10-stocks-with-highest-dii-holding-in-q1-do-you-own-any/taking-stock/slideshow/133528902.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133528902,width-480,height-360,imgsize-164439,resizemode-75/taking-stock.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVJhVjlEYms5YVVVczJRazFSVFJEb0FoamdBeWdLTWdrTlU1QlJvYWlwS3dJ",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Reliance Industries Prediction for Tomorrow: 24 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-24-september-2026-thursday",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-24-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWpMVjlEU1dwSVZVVnBWMVJRVFJDUUF4ai1CU2dLTWdrQk1JaDNIT21vcGdJ",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Reliance Industries Share Price Prediction for Tomorrow, 14",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-14-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/reliance-industries-share-price-prediction-for-tomorrow-14-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVWR3RJVXpOclF6WkxaV0V4VFJDUUF4ai1CU2dLTWdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Reliance Industries Prediction for Monday: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-monday-28-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-monday-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVURTVSYlVVd01WOHpOM1paVFJDUUF4ai1CU2dLTWdZQk1JNmtIZ28",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "RIL AGM: Reliance Industries shares fall 2% amid Mukesh Ambani's big announcements at 49th AGM",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani/articleshow/131845679.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131845461,width-1200,height-900,resizemode-4,imgsize-48628/reliance-industries-shares-in-focus-ahead-of-49th-agm-what-are-shareholders-expecting-from-mukesh-ambani.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNRzlFY1dSRU5tUk5hakV3VFJEZ0F4aUFCU2dLTWdhdElhTHdtQW8",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Reliance Industries shares rise 3.5% on crossing key technical indicator, multiple block deals",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/reliance-industries-shares-rise-3-5-on-crossing-key-technical-indicator-multiple-block-deals-13996710.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260424150405_reliance1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdjRE5UYTBzdFVsZGFSWHBFVFJDZkF4ampCU2dLTWdZQllZd01wZ1U",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Reliance Industries Prediction for Tomorrow: 29 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-29-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpMVEpuVUVSVFFWTmFaSFo0VFJDUUF4ai1CU2dLTWdZQk1JakNHZ28",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Reliance Industries Prediction for Tomorrow: 1 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-1-october-2026",
+   "date": "09/30/2026, 11:13 AM, +0000 UTC",
+   "iso_date": "2026-09-30T11:13:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Is It Smart To Buy Reliance Industries Limited (NSE:RELIANCE) Before It Goes Ex-Dividend?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/is-it-smart-to-buy-reliance-industries-limited-nsereliance-b",
+   "thumbnail": "https://images.simplywall.st/asset/company-cover/878373-main-header/1585187459200?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBlV2QzTUhab1RuYzNkVUpFVFJDZkF4ampCU2dLTWdrRkVJYWxNZVFzWkFJ",
+   "date": "05/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-31T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Reliance Industries share price rises after Q1 results. Should you buy or sell the stock?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-rises-after-q1-results-should-you-buy-or-sell-the-stock-11784519995844.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/20/1600x900/RIL_1784520515282_1784520515384_c46d7ffe-8915-4c67-b69c-3e509ba7170c.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9ObVEyWWxocU9WZEtWR052VFJDZkF4ampCU2dLTWdZTlFZTHJLQWs",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Reliance Industries Prediction for Tomorrow: 30 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-2",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Reliance Industries shares: Stock slips nearly 2% after Jio update, other announcements; details here",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/reliance-industries-shares-stock-slips-nearly-2-after-jio-update-and-other-announcements-everything-investors-need-to-know/article-195671/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/ril-shares-june-19.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXZRMUpoTkY5dU9USkVabUZFVFJDZkF4ampCU2dLTWd1QkFJWWdoNnMxSUd1TEhR",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Stocks in news: Reliance Industries, Bank of Baroda, Power Grid, NATCO Pharma and JSW Infra",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra/articleshow/133444199.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133444588,width-1600,height-900,resizemode-4,imgsize-247258/stocks-in-news-reliance-industries-bank-of-baroda-power-grid-natco-pharma-and-jsw-infra-br.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJiRE5yTTFONWRXWkdTVzVtVFJDZkF4ampCU2dLTWdrQndJakNUZVFsY2dF",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Reliance Industries Prediction for Tomorrow: 25 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-25-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-25-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZXVGRhV2xZMldWWlNaa05hVFJDUUF4ai1CU2dLTWdrQk1JaWpHaW9tY0FF",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Reliance Share Price Prediction for Monday 17 Aug",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-monday-17-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/reliance-industries-share-price-prediction-for-monday-17-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkMFpsWVhGUk9XRlVZVkpaVFJDUUF4ai1CU2dLTWdhQk1JekRuZ2s",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "RIL stock: Three events that could drive a re-rating post 19% fall this year",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/ril-shares-are-down-19-percent-this-year-three-events-that-could-drive-a-re-rating-in-the-near-term-554442-2026-09-10",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6aa22ad5cf777-ril-share-price-the-brokerage-expects-reliance-as-particularly-well-placed-to-benefit-from-the-favo-105808257-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhblp4YUd4alZVcHZXbWRNVFJDZkF4ampCU2dLTWdhZGM1WkxMUWM",
+   "date": "09/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-10T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Reliance Industries shares move up after securing long-term green ammonia offtake agreement with Samsung C&T, details here",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/reliance-industries-shares-move-up-after-securing-long-term-green-ammonia-offtake-agreement-with-samsung-c-and-t-details-here",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F03%2F17154528%2Freliance-green-ammonia-offtake-samsung-ct.webp&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRaa0ZhWWxVNWFrVmtXVkJMVFJDNEFSaVJBaWdCTWdB",
+   "date": "09/30/2026, 08:26 AM, +0000 UTC",
+   "iso_date": "2026-09-30T08:26:22Z"
+  },
+  {
+   "position": 69,
+   "title": "Reliance Industries Prediction for Tomorrow: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-28-september-2026-sunday",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBTME5wZEdzeVUzUnJibEY2VFJDUUF4ai1CU2dLTWdZQk1JNmtIZ28",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Reliance Industries share price: Morgan Stanley reiterates positive view after Rolls-Royce partnership pla",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-share-price-morgan-stanley-reiterates-positive-view-after-rolls-royce-partnership-plan/articleshow/133294926.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133295413,width-1200,height-900,resizemode-4,imgsize-244884/reliance-industries-share-price-morgan-stanley-reiterates-positive-view-after-rolls-royce-partnership-plan.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZVbDkzTkZGYVJEWkpORTlOVFJEZ0F4aUFCU2dLTWdZQlFKRHNIQVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Reliance Industries 52 Week Low Streak: Repeated low pattern",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-near-52-week-consecutive-low-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/reliance-industries-ltd-reliance-reliance-industries-52-week-low-streak-why-the.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlPSFo2VDBKNFIySXhSbUUxVFJDUUF4ai1CU2dLTWdhQlFZemltZ2s",
+   "date": "10/01/2026, 04:27 AM, +0000 UTC",
+   "iso_date": "2026-10-01T04:27:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new energy",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:4d96fe7bc094b:0-reliance-industries-stock-jumps-2-after-agm-brokerages-see-up-to-34-percent-upside-on-ai-jio-ipo-new-energy/",
+   "date": "06/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-21T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Jio IPO gets Sebi nod; here’s how Reliance Industries shares reacted",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/ipo/jio-ipo-gets-sebi-nod-heres-how-reliance-industries-shares-reacted/156572",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/import/2022-05/1768f3f5-0804-4493-a5cb-32006b775f3f/RIL_2.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpRMFp6ZWxweFV6SmZOM2RuVFJDZkF4ampCU2dLTWdhQnFZaWt4Z00",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Reliance Industries Share Price Prediction for Tomorrow: Levels for 19 August 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-share-price-prediction-for-tomorrow-19-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/reliance-share-price-prediction-for-tomorrow-19-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVljMUl3T1ZwRWJsTm5XSGd3VFJDUUF4ai1CU2dLTWdZQlFJeWpIZ28",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Reliance Industries Share Price Prediction for Monday: 21 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-monday-21-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-monday-21-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRWbDltY2pkbFQzRk5RVVYyVFJDUUF4ai1CU2dLTWdrQk1KckVubWtkYUFJ",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Three upside scenarios that JPMorgan lists out for Reliance Industries going forward",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/reliance-industries-share-price-jpmorgan-lists-out-three-upside-scenarios-buy-target-returns-19983267.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/image-2026-09-7af0e7720f9808d0b29b53345397deae.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZOV0oyTlhSVGFXOTFNMHhRVFJDZkF4ampCU2dLTWdrSmNZanF2Q1J6S3dJ",
+   "date": "09/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-03T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Reliance Industries Share Price Prediction for Tomorrow: 18 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/reliance-industries-share-price-prediction-for-tomorrow-18-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/reliance-industries-share-price-prediction-for-tomorrow-18-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRNalJVWTBVNGNqQkVjRXRFVFJDUUF4ai1CU2dLTWdhQklJYWpHZ28",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "IPO: Reliance Jio announces what may be India's biggest-ever share sale",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikita Yadav"
+    ]
+   },
+   "link": "https://www.bbc.com/news/articles/cx2kerpkynko",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/729f/live/2993b3e0-6bbe-11f1-8e5f-879143928516.png.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpZMFZpUmpkWWFFMTNRWFJPVFJDTkFoamdBeWdLTWdhdEpaek9HUW8",
+   "date": "06/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-19T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Reliance Industries Shares Remain Under Pressure After SEBI Administrative Warning Over Alleged Insider Trading",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/reliance-industries-shares-remain-under-pressure-after-sebi-administrative-warning-over-alleged-insider-trading",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Reliance Industries stock: Brokerages stay bullish after Q1 beat; Goldman Sachs sees 41% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/reliance-industries-stock-brokerages-stay-bullish-after-q1-beat-goldman-sachs-sees-41-upside-13978193.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/10/reliance-industries.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iRzF5WlZsalkwbHZVMDUxVFJDZkF4ampCU2dLTWdZSllKcXJwUWc",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Reliance Industries (NSE:RELIANCE) Posted Healthy Earnings But There Are Some Other Factors To Be Aware Of",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/reliance-industries-nsereliance-posted-healthy-earnings-but",
+   "thumbnail": "https://images.simplywall.st/asset/company-cover/878373-main-header/1585187459200?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBlV2QzTUhab1RuYzNkVUpFVFJDZkF4ampCU2dLTWdrRkVJYWxNZVFzWkFJ",
+   "date": "05/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-01T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Reliance Industries Shares Under Pressure After Sebi Warning Over Insider Trading By Employees",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.outlookmoney.com/invest/reliance-industries-share-price-sebi-insider-trading-regulations",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-07-07/uhr0wpy7/reliance-industries-share-price.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlNalJNVWpWb05DMVVUVVZaVFJDZkF4ampCU2dLTWdhOWNaRFNzQVU",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Reliance Industries share price tanks for 9th day in a row, erodes ₹129,000 crore in market cap",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Saloni Goel"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-tanks-for-9th-day-in-a-row-erodes-rs-129000-crore-in-market-cap-11780907364525.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/06/08/1600x900/logo/INDIA-GUJARAT-SUMMIT-9_1705051231945_1780907478428_e4a9dbc3-13d5-474b-a6c3-e5f63b8b42c9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBVRGhVTVdGWFZtZFlaMDk0VFJDZkF4ampCU2dLTWdZUk1ZS0hIQWc",
+   "date": "06/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Reliance Industries stock jumps 2% after AGM; brokerages see up to 34 percent upside on AI, Jio IPO, new...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/reliance-industries-stock-jumps-2-after-agm-brokerages-see-up-to-34-percent-upside-on-ai-jio-ipo-new-energy-13955348.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/10/reliance-industries.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5iRzF5WlZsalkwbHZVMDUxVFJDZkF4ampCU2dLTWdZSllKcXJwUWc",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Reliance Industries share price can go up to ₹1,890, analysts project after Q1 results - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_reliance-industries-share-price-can-go-up-activity-7484835800593952768-_d27",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQGBdDOHxns9Rg/articleshare-shrink_800/B56Z996U9nGoAY-/0/1784523870436?e=2147483647&v=beta&t=4oAsDodlfOUIujwv1mnTWIwaj2TyqNAjHhnHj_mFJxc",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdOVVZ1Tm1kNlZuQlJZbGx4VFJDZkF4ampCU2dLTWdZQmNJWVVQUVk",
+   "date": "07/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-19T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Reliance Industries share price rises 2.5% despite stock market crash. Do you own?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-share-price-rises-2-5-despite-stock-market-crash-do-you-own-11779259120245.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/20/1600x900/logo/Reliance_1779261632981_1779261633159_1a1c2df9-8fd0-49f3-97fb-3d6923cc32ac.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFWaTFNYjBsNFZWbHdUbHBQVFJDZkF4ampCU2dLTWdZUk1ZS0lIQWc",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Reliance shares gain over 2%: Why is RIL stock rising today?",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/business/market/story/reliance-shares-jio-ipo-stock-rises-after-drhp-filing-indias-biggest-listing-bid-2931476-2026-06-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202606/ril-share-price-222814146-16x9_0.jpg?VersionId=56mURyUd_qGoWotm9uiSUDQpy8HNDGEW&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRhblp4YUd4alZVcHZXbWRNVFJDZkF4ampCU2dLTWdhZGM1WkxMUWM",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Reliance Industries Ltd. 52 Week Low Streak and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-reliance-industries-ltd-share-52-week-consecutive-low-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/Reliance_Industries_Ltd_RELIANCE_52_Week_Low_Streak_Deepens_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBhMkZzWVdSa056ZG1RVlZ3VFJDUUF4ai1CU2dLTWdZQktaYWlIZ2s",
+   "date": "09/30/2026, 03:55 AM, +0000 UTC",
+   "iso_date": "2026-09-30T03:55:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Reliance Industries shares gain 3% as Jio files DRHP for India’s largest IPO",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-jio-files-drhp-for-indias-largest-ipo/articleshow/131900152.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131900412,width-1200,height-900,resizemode-4,imgsize-48628/reliance-industries-shares-in-focus-as-jio-files-drhp-for-indias-largest-ipo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNRzlFY1dSRU5tUk5hakV3VFJEZ0F4aUFCU2dLTWdhdElhTHdtQW8",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Reliance Industries gains 1% after Q1 results; should you take a fresh bet?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/reliance-industries-share-price-gains-1-after-q1-results-is-now-the-time-to-buy-ril-126072000192_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/04/full/1780568693-0281.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjV05PWm0xZk4yaDJNMUF6VFJDckF4alBCU2dLTWdZUndvb294UVE",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Reliance Industries (NSEI:RELIANCE) Stock Fair Value Edges Higher After Analyst Fine Tuning",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Bailey Pemberton"
+    ]
+   },
+   "link": "https://finance.yahoo.com/markets/stocks/articles/reliance-industries-nsei-reliance-stock-021043227.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/975cf3b161395afc9aecf56557c633361bba3b941af86b77736c3e77be7156c5/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F0485d0c1021bfa3ad2518a171bbc021d",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUVablZ0TmtoblNVaEphazlyVFJETkFoaVpCeWdLTWdzUklJVHJ2ZU5FWnVyYWln",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Reliance Share Price Today, August 25, 2026: ₹1,301 in Morning Trade",
+   "source": {
+    "name": "The Eastern Herald",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://easternherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://easternherald.com/2026/08/25/reliance-share-price-today-august-25-2026/",
+   "thumbnail": "https://easternherald.com/wp-content/uploads/2026/08/reliance-share-price-reliance-market-vesu-surat.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTBYMWREU1dFelNtRTFTSGxxVFJERUF4aW1CU2dLTWdNQm9BQQ",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Rs 9,000 crore bet! Reliance Industries promoters increase stake by 0.5% in June quarter",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/rs-9000-crore-bet-reliance-industries-promoters-increase-stake-by-0-5-in-june-quarter/articleshow/132458644.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132459239,width-1200,height-900,resizemode-4,imgsize-39140/reliance.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFkMDE1UVhsalQwODVZa2t5VFJEZ0F4aUFCU2dLTWdZVmRZN0pMUVk",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "​Reliance Industries - 9 Sensex stocks with up to 41% upside potential. Are these in your portfolio?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/9-sensex-stocks-with-up-to-41-upside-potential-are-these-in-your-portfolio/reliance-industries/slideshow/133271787.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133271796,width-480,height-360,imgsize-17846,resizemode-75/analyst-picks.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpVVFJsZW14aVRFWjROSFpHVFJEb0FoamdBeWdLTWdhQmNwQlJyUVk",
+   "date": "08/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-16T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Reliance Industries shares in focus as company gets Sebi's warning over alleged insider trading",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-in-focus-as-company-gets-sebis-warning-over-alleged-insider-trading/articleshow/132229731.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132229728,width-1200,height-900,resizemode-4,imgsize-34218/reliance-industries-shares-in-focus-as-company-gets-sebis-warning-over-alleged-insider-trading.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVUamxJZDBac1ExRTJXbEV0VFJEZ0F4aUFCU2dLTWdZQnBKQ0hQUVk",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Reliance Share Price Prediction for Monday 24 Aug",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/reliance-share-price-prediction-for-monday-24-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/reliance-share-price-prediction-for-monday-24-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxUSE5oUzBkb1RrVlVTV0UzVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Stocks in news: Reliance Industries, Wipro, Tata Motors, among 9 stocks that will be in focus today",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-reliance-industries-wipro-tata-motors-among-9-stocks-that-will-be-in-focus-today/articleshow/133695276.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133695713,width-1200,height-900,resizemode-4,imgsize-199112/stocks-in-news-reliance-industries-wipro-tata-motors-among-9-stocks-that-will-be-in-focus-todaybr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNSa2N6V0ZNeVJsSkRTMkp4VFJEZ0F4aUFCU2dLTWdtUklvaUhHcWxjTVFF",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Reliance Industries shares rise nearly 3% amid broader market gains",
+   "source": {
+    "name": "Telegraph India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.telegraphindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.telegraphindia.com/business/reliance-industries-shares-rise-nearly-3-per-cent-amid-broader-market-gains/cid/2158044",
+   "thumbnail": "https://assets.telegraphindia.com/telegraph/2025/Oct/1761311518_reliance-industries-1.gif",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVTM1JOWmxnd2VFaDFjR2xFVFJERUF4aW1CU2dLTWdZZFZJcHJQUVU",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Reliance Industries shares to be in focus tomorrow as Mukesh Ambani-led firm announces AGM date, dividend record date",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/reliance-industries-shares-to-be-in-focus-tomorrow-as-mukesh-ambani-led-firm-announces-agm-date-dividend-record-date-11779940398170.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/05/28/1600x900/logo/Reliance_Industries_agm_date_1779941109761_1779941109899_ae2e5d14-c469-4718-bcf7-7f4c8566f281.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJiM0ZKZG1kRVRqSnlOVkpTVFJDZkF4ampCU2dLTWdrQkFKTEptV2E1elFF",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Reliance Industries stock: Brokerages stay bullish after Q1 beat; Goldman Sachs sees 41% upside",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:f72409fe3094b:0-reliance-industries-stock-brokerages-stay-bullish-after-q1-beat-goldman-sachs-sees-41-upside/",
+   "date": "07/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-19T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:37"
+}

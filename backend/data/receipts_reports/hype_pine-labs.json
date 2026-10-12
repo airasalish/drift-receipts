@@ -1,0 +1,931 @@
+{
+ "company": "Pine Labs Limited",
+ "ticker": {
+  "yahoo_symbol": "PINELABS.NS",
+  "google_finance": "PINELABS:NSE",
+  "name": "Pine Labs Limited",
+  "exchange": "NSE"
+ },
+ "videos": [
+  {
+   "video_id": "AvAL2qO62NY",
+   "title": "A Strong Q1FY27 For Pine Labs | Online Business Is Growing At About 20-30%, Says Company | CNBC TV18",
+   "url": "https://www.youtube.com/watch?v=AvAL2qO62NY",
+   "channel": "CNBC-TV18",
+   "channel_url": "https://www.youtube.com/@CNBC-TV18",
+   "views": 4437,
+   "length": "7:14",
+   "published_text": "2mo ago",
+   "published_date": "2026-08-09",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/AvAL2qO62NY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUEJJkR7K62kpAO7JF5v3mMGio3Q"
+  },
+  {
+   "video_id": "3HqODxuAgSc",
+   "title": "PINE Labs share news today,buy ? pine labs share analysis,review,pine labs share target 2026",
+   "url": "https://www.youtube.com/watch?v=3HqODxuAgSc",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 1774,
+   "length": "1:06",
+   "published_text": "2mo ago",
+   "published_date": "2026-08-09",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/3HqODxuAgSc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTvPYiz4VuI4RaEm7QBER8aGgIjw"
+  },
+  {
+   "video_id": "nuDBcK4IuSc",
+   "title": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030",
+   "url": "https://www.youtube.com/watch?v=nuDBcK4IuSc",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 5502,
+   "length": "2:02",
+   "published_text": "1mo ago",
+   "published_date": "2026-09-08",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/nuDBcK4IuSc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLLdGDVcLoydknGlNxmPT7GfBYBw"
+  },
+  {
+   "video_id": "VumR4Ej2MiY",
+   "title": "Pine Labs share future,hold or sell ?,pine labs share news today,pine labs share target 2030",
+   "url": "https://www.youtube.com/watch?v=VumR4Ej2MiY",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 2759,
+   "length": "1:20",
+   "published_text": "1mo ago",
+   "published_date": "2026-09-08",
+   "date_uncertainty_days": 15,
+   "thumbnail": "https://i.ytimg.com/vi/VumR4Ej2MiY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBR0KvEE_1DHiA7uGWozW-xinvI9w"
+  },
+  {
+   "video_id": "gqjO5Qhy2B0",
+   "title": "Pine Labs share future,Buy or sell ?,pine labs share news today,pine labs share target 2030",
+   "url": "https://www.youtube.com/watch?v=gqjO5Qhy2B0",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 3546,
+   "length": "1:15",
+   "published_text": "3w ago",
+   "published_date": "2026-09-17",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/gqjO5Qhy2B0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClG6PcJuSebSFcZ_L5sGqeyK6F4Q"
+  },
+  {
+   "video_id": "b9vFRqwVelg",
+   "title": "Pine Labs share future,Buy or sell ?,pine labs share news today,pine labs share target 2030",
+   "url": "https://www.youtube.com/watch?v=b9vFRqwVelg",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 1053,
+   "length": "2:20",
+   "published_text": "3w ago",
+   "published_date": "2026-09-17",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/b9vFRqwVelg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA-OY4s9qnVp_8Q-5oSm2OBtpMl-A"
+  },
+  {
+   "video_id": "iB0r2MG5OQI",
+   "title": "Why Pine Labs Share Price is Rising ? | पाइन लैब्स में 14% का जोरदार उछाल | Hero of The Day Stock",
+   "url": "https://www.youtube.com/watch?v=iB0r2MG5OQI",
+   "channel": "CNBC Awaaz.",
+   "channel_url": "https://www.youtube.com/@cnbcawaaz",
+   "views": 12332,
+   "length": "2:59",
+   "published_text": "3w ago",
+   "published_date": "2026-09-17",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/iB0r2MG5OQI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZ-k65TbZrUheOHIvuhVrzhk-liQ",
+   "mentions": [
+    {
+     "direction": "hold",
+     "explicit": false,
+     "target_price": null,
+     "quote": "इसलिए 15% ये स्टॉक अप है।",
+     "start_s": 168,
+     "line": "ज्यादा स्पेंडिंग में आ रही है। तो जो मैनेजमेंट की बातें हैं वो भी काफी इंटरेस्टिंग है और जो यह एआई को लेकर अग्रेसर होकर कामकाज कर रहे हैं वो भी",
+     "evidence": [
+      {
+       "text": "15% ये स्टॉक अप है",
+       "where": "transcript",
+       "start_s": 175
+      }
+     ],
+     "reason": "The speaker notes a 15% rise and positive developments but does not explicitly advise buying or selling, so the recommendation is treated as a neutral hold.",
+     "timestamp_url": "https://www.youtube.com/watch?v=iB0r2MG5OQI&t=168s",
+     "context": [
+      {
+       "start_s": 152,
+       "text": "हैं वो भी काफी इंटरेस्टिंग है। तो Pine LPS ने कहा कि कंपनी के मुताबिक ट्रांजैक्शन वैल्यू पिछले साल के मुकाबले"
+      },
+      {
+       "start_s": 161,
+       "text": "25 से 30% बढ़ी है। यानी कि ग्रोथ सिर्फ ट्रांजैक्शन की गिनती में नहीं है बल्कि वॉल्यूम पर हो रहा है। ट्रांजैक्शन पर"
+      },
+      {
+       "start_s": 168,
+       "text": "ज्यादा स्पेंडिंग में आ रही है। तो जो मैनेजमेंट की बातें हैं वो भी काफी इंटरेस्टिंग है और जो यह एआई को लेकर अग्रेसर होकर कामकाज कर रहे हैं वो भी"
+      },
+      {
+       "start_s": 175,
+       "text": "काफी इंटरेस्टिंग है। इसलिए 15% ये स्टॉक अप है।"
+      }
+     ],
+     "quote_en": "That's why this stock is up 15%"
+    }
+   ]
+  },
+  {
+   "video_id": "WK4MZOnyAPU",
+   "title": "Pine Labs share future,Buy ?,pine labs share news today,pine labs share longterm target 2030",
+   "url": "https://www.youtube.com/watch?v=WK4MZOnyAPU",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 5664,
+   "length": "1:46",
+   "published_text": "2w ago",
+   "published_date": "2026-09-24",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/WK4MZOnyAPU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCTa766sC3qS_wPFIx8fOmvSulG7g",
+   "mentions": [
+    {
+     "direction": "buy",
+     "explicit": true,
+     "target_price": 250.0,
+     "quote": "सो pin लैब्स में वन ईयर पर्सपेक्टिव से रिकमेंड करूंगी विथ अ टारगेट प्राइस ऑफ़ 250।",
+     "start_s": 81,
+     "line": "अच्छे मार्जिनस हैं। तो रेवेन्यू ग्रोथ भी स्ट्रांग है। एंड प्लस मार्जिन एक्सपेंशन हाई होने से आपके अर्निंग्स ग्रोथ में",
+     "evidence": [
+      {
+       "text": "रिकमेंड",
+       "where": "transcript",
+       "start_s": 89
+      },
+      {
+       "text": "टारगेट प्राइस ऑफ़ 250",
+       "where": "transcript",
+       "start_s": 89
+      }
+     ],
+     "reason": "She explicitly recommends Pine Labs with a one‑year target price of ₹250, indicating a buy recommendation.",
+     "timestamp_url": "https://www.youtube.com/watch?v=WK4MZOnyAPU&t=81s",
+     "context": [
+      {
+       "start_s": 66,
+       "text": "सब्सटेंशियली इंप्रूव होंगे फ्रॉम करंट न 9% जो कि इनकी 25 में थी वहां से 29% की"
+      },
+      {
+       "start_s": 73,
+       "text": "तरफ मूव करेंगे। एंड यह लार्जली बिकॉज़ अह यह काफी कुछ हायर मार्जिन ट्रांजैक्शन लेड बिज़नेसेस की तरफ मूव कर रहे हैं। जहां पे"
+      },
+      {
+       "start_s": 81,
+       "text": "अच्छे मार्जिनस हैं। तो रेवेन्यू ग्रोथ भी स्ट्रांग है। एंड प्लस मार्जिन एक्सपेंशन हाई होने से आपके अर्निंग्स ग्रोथ में"
+      },
+      {
+       "start_s": 89,
+       "text": "काफी अच्छी बढ़ोतरी देखने को मिलेगी। सो pin लैब्स में वन ईयर पर्सपेक्टिव से रिकमेंड करूंगी विथ अ टारगेट प्राइस ऑफ़ 250।"
+      },
+      {
+       "start_s": 97,
+       "text": "पायल लैप शानदार परफेंस यहां पर पिछले कुछ सत्रों में देखने को मिल रही है और यह इन्वेस्टमेंट के हिसाब से आप रख सकते हैं"
+      }
+     ],
+     "quote_en": "So, I would recommend Pin Labs from a one‑year perspective with a target price of 250."
+    }
+   ]
+  },
+  {
+   "video_id": "4JYb-L8IE_Q",
+   "title": "Pine Labs share future,Buy or not ?,pine labs share news today,pine labs share target 2030",
+   "url": "https://www.youtube.com/watch?v=4JYb-L8IE_Q",
+   "channel": "Stock Market Live",
+   "channel_url": "https://www.youtube.com/@StockMarketLiveNews",
+   "views": 5903,
+   "length": "1:27",
+   "published_text": "2w ago",
+   "published_date": "2026-09-24",
+   "date_uncertainty_days": 3,
+   "thumbnail": "https://i.ytimg.com/vi/4JYb-L8IE_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAi137Rj1CpYwc-geF-vqxUoKqzzA",
+   "mentions": [
+    {
+     "direction": "buy",
+     "explicit": true,
+     "target_price": 205.0,
+     "quote": "बाय एंड होल्ड करने की सलाह है",
+     "start_s": 51,
+     "line": "तक तो दिखा नहीं है। तो हमारा तो व्यू अभी भी स्टिल पॉजिटिव है। और 180 179 का एसएल लगा के यहां पे बाय एंड होल्ड करने की",
+     "evidence": [
+      {
+       "text": "पहला टारगेट 205",
+       "where": "transcript",
+       "start_s": 60
+      }
+     ],
+     "reason": "The speaker explicitly advises buying and holding Pine Labs, gives a target of 205 and a stop‑loss of 179, indicating a bullish recommendation.",
+     "timestamp_url": "https://www.youtube.com/watch?v=4JYb-L8IE_Q&t=51s",
+     "context": [
+      {
+       "start_s": 34,
+       "text": "कंसोलिडेशन ही बना और अभी भी वो कंसोलिडेशन बरकरार है बस बट उसमें एक चीज देखेंगे कि उस कंसोलिडेशन में 22 पॉजिटिव"
+      },
+      {
+       "start_s": 42,
+       "text": "बने हुए हैं। तो अभी भी 200 डेमा सारे इंपॉर्टेंट मूविंग एवरेजेस डेली सुपर ट्रेंड ये सबको स्टॉक सस्टेन कर पा रहा है। तो कोई भी न्यूज़ का इंपैक्ट ऐसा अभी"
+      },
+      {
+       "start_s": 51,
+       "text": "तक तो दिखा नहीं है। तो हमारा तो व्यू अभी भी स्टिल पॉजिटिव है। और 180 179 का एसएल लगा के यहां पे बाय एंड होल्ड करने की"
+      },
+      {
+       "start_s": 60,
+       "text": "सलाह है। पहला टारगेट 205 जो बहुत छोटा सा अभी स्विंग हाई है। 205 निकलने के बाद हम 225 तक की रैली बाइन लैब से एक्सपेक्ट"
+      },
+      {
+       "start_s": 69,
+       "text": "करते हैं। व्यू पॉजिटिव है। बाय एंड होल्ड कीजिए 179 के स्टॉप लॉस के साथ और जो 225 तक का मूवमेंट है 2 से 2 1/2 महीने में देखने को मिल सकता है।"
+      }
+     ],
+     "quote_en": "The advice is to buy and hold."
+    }
+   ]
+  },
+  {
+   "video_id": "HJc8s4YU6IQ",
+   "title": "PINE LABS STOCK ANALYSIS | WHAT SHOULD INVESTORS DO NOW?",
+   "url": "https://www.youtube.com/watch?v=HJc8s4YU6IQ",
+   "channel": "Umang Bhutada",
+   "channel_url": "https://www.youtube.com/@UmangBhutada",
+   "views": 4069,
+   "length": "3:40",
+   "published_text": "10d ago",
+   "published_date": "2026-09-28",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/HJc8s4YU6IQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo0abtNv0dUNUcbRhlMgNqgoNnIw"
+  }
+ ],
+ "pump_check": {
+  "status": "ok",
+  "level": "partial",
+  "fired": [
+   {
+    "rule": "volume_spike",
+    "label": "Volume exploded after the promotion",
+    "detail": "peak volume 11x the pre-promotion average"
+   }
+  ],
+  "metrics": {
+   "baseline_avg_price": 151.33,
+   "baseline_daily_turnover_inr": 3873350973,
+   "price_at_promotion": 161.94,
+   "peak_price": 202.17,
+   "peak_date": "2026-09-11",
+   "runup_x": 1.25,
+   "volume_spike_x": 10.8,
+   "trough_after_peak": 167.16,
+   "trough_date": "2026-10-05",
+   "drawdown_from_peak_pct": 17.3,
+   "data_spacing_days": 1
+  },
+  "promotion_date_used": "2026-08-09"
+ },
+ "series": {
+  "source": "google_finance",
+  "symbol": "PINELABS:NSE",
+  "window": "6M",
+  "points": [
+   {
+    "date": "2026-04-07",
+    "price": 156.58,
+    "volume": 4103944
+   },
+   {
+    "date": "2026-04-08",
+    "price": 174.99,
+    "volume": 17534492
+   },
+   {
+    "date": "2026-04-09",
+    "price": 170.12,
+    "volume": 2562562
+   },
+   {
+    "date": "2026-04-10",
+    "price": 177.56,
+    "volume": 4426903
+   },
+   {
+    "date": "2026-04-13",
+    "price": 179.03,
+    "volume": 3829148
+   },
+   {
+    "date": "2026-04-15",
+    "price": 183.81,
+    "volume": 2126561
+   },
+   {
+    "date": "2026-04-16",
+    "price": 189.63,
+    "volume": 2066532
+   },
+   {
+    "date": "2026-04-17",
+    "price": 193.53,
+    "volume": 2092839
+   },
+   {
+    "date": "2026-04-20",
+    "price": 194.0,
+    "volume": 937147
+   },
+   {
+    "date": "2026-04-21",
+    "price": 195.62,
+    "volume": 876412
+   },
+   {
+    "date": "2026-04-22",
+    "price": 197.75,
+    "volume": 15930143
+   },
+   {
+    "date": "2026-04-23",
+    "price": 196.78,
+    "volume": 1342727
+   },
+   {
+    "date": "2026-04-24",
+    "price": 195.84,
+    "volume": 1280428
+   },
+   {
+    "date": "2026-04-27",
+    "price": 200.1,
+    "volume": 1433778
+   },
+   {
+    "date": "2026-04-28",
+    "price": 205.47,
+    "volume": 3041589
+   },
+   {
+    "date": "2026-04-29",
+    "price": 197.03,
+    "volume": 1672510
+   },
+   {
+    "date": "2026-04-30",
+    "price": 193.71,
+    "volume": 889801
+   },
+   {
+    "date": "2026-05-04",
+    "price": 195.72,
+    "volume": 498165
+   },
+   {
+    "date": "2026-05-05",
+    "price": 194.83,
+    "volume": 391673
+   },
+   {
+    "date": "2026-05-06",
+    "price": 199.15,
+    "volume": 1111580
+   },
+   {
+    "date": "2026-05-07",
+    "price": 201.62,
+    "volume": 1383416
+   },
+   {
+    "date": "2026-05-08",
+    "price": 196.14,
+    "volume": 1186927
+   },
+   {
+    "date": "2026-05-11",
+    "price": 195.46,
+    "volume": 1442288
+   },
+   {
+    "date": "2026-05-12",
+    "price": 188.01,
+    "volume": 1708489
+   },
+   {
+    "date": "2026-05-13",
+    "price": 162.18,
+    "volume": 34011398
+   },
+   {
+    "date": "2026-05-14",
+    "price": 155.71,
+    "volume": 25374588
+   },
+   {
+    "date": "2026-05-15",
+    "price": 152.48,
+    "volume": 23984959
+   },
+   {
+    "date": "2026-05-18",
+    "price": 153.55,
+    "volume": 12571885
+   },
+   {
+    "date": "2026-05-19",
+    "price": 149.39,
+    "volume": 7573272
+   },
+   {
+    "date": "2026-05-20",
+    "price": 149.27,
+    "volume": 4926826
+   },
+   {
+    "date": "2026-05-21",
+    "price": 148.32,
+    "volume": 5080368
+   },
+   {
+    "date": "2026-05-22",
+    "price": 142.84,
+    "volume": 36817039
+   },
+   {
+    "date": "2026-05-25",
+    "price": 146.2,
+    "volume": 24633385
+   },
+   {
+    "date": "2026-05-26",
+    "price": 137.94,
+    "volume": 75696833
+   },
+   {
+    "date": "2026-05-27",
+    "price": 145.83,
+    "volume": 86728367
+   },
+   {
+    "date": "2026-05-29",
+    "price": 144.51,
+    "volume": 65636370
+   },
+   {
+    "date": "2026-06-01",
+    "price": 143.85,
+    "volume": 38312806
+   },
+   {
+    "date": "2026-06-02",
+    "price": 142.82,
+    "volume": 13985279
+   },
+   {
+    "date": "2026-06-03",
+    "price": 143.04,
+    "volume": 19663572
+   },
+   {
+    "date": "2026-06-04",
+    "price": 142.24,
+    "volume": 11076784
+   },
+   {
+    "date": "2026-06-05",
+    "price": 144.47,
+    "volume": 40471675
+   },
+   {
+    "date": "2026-06-08",
+    "price": 142.75,
+    "volume": 21197709
+   },
+   {
+    "date": "2026-06-09",
+    "price": 152.36,
+    "volume": 71971522
+   },
+   {
+    "date": "2026-06-10",
+    "price": 150.32,
+    "volume": 44545213
+   },
+   {
+    "date": "2026-06-11",
+    "price": 145.18,
+    "volume": 18145903
+   },
+   {
+    "date": "2026-06-12",
+    "price": 150.57,
+    "volume": 17659839
+   },
+   {
+    "date": "2026-06-15",
+    "price": 153.59,
+    "volume": 29813423
+   },
+   {
+    "date": "2026-06-16",
+    "price": 150.09,
+    "volume": 53910294
+   },
+   {
+    "date": "2026-06-17",
+    "price": 152.12,
+    "volume": 27871982
+   },
+   {
+    "date": "2026-06-18",
+    "price": 149.83,
+    "volume": 10789500
+   },
+   {
+    "date": "2026-06-19",
+    "price": 152.31,
+    "volume": 51017033
+   },
+   {
+    "date": "2026-06-22",
+    "price": 152.92,
+    "volume": 16083411
+   },
+   {
+    "date": "2026-06-23",
+    "price": 150.05,
+    "volume": 23284815
+   },
+   {
+    "date": "2026-06-24",
+    "price": 161.27,
+    "volume": 94654541
+   },
+   {
+    "date": "2026-06-25",
+    "price": 160.07,
+    "volume": 40301134
+   },
+   {
+    "date": "2026-06-29",
+    "price": 158.51,
+    "volume": 11729418
+   },
+   {
+    "date": "2026-06-30",
+    "price": 156.76,
+    "volume": 10951562
+   },
+   {
+    "date": "2026-07-01",
+    "price": 155.81,
+    "volume": 11167244
+   },
+   {
+    "date": "2026-07-02",
+    "price": 159.84,
+    "volume": 11756595
+   },
+   {
+    "date": "2026-07-03",
+    "price": 156.12,
+    "volume": 8559757
+   },
+   {
+    "date": "2026-07-06",
+    "price": 151.0,
+    "volume": 10881223
+   },
+   {
+    "date": "2026-07-07",
+    "price": 147.96,
+    "volume": 8952622
+   },
+   {
+    "date": "2026-07-08",
+    "price": 142.07,
+    "volume": 10919835
+   },
+   {
+    "date": "2026-07-09",
+    "price": 143.29,
+    "volume": 6758826
+   },
+   {
+    "date": "2026-07-10",
+    "price": 145.27,
+    "volume": 6711587
+   },
+   {
+    "date": "2026-07-13",
+    "price": 155.14,
+    "volume": 50633391
+   },
+   {
+    "date": "2026-07-14",
+    "price": 156.92,
+    "volume": 17542322
+   },
+   {
+    "date": "2026-07-15",
+    "price": 157.25,
+    "volume": 25173173
+   },
+   {
+    "date": "2026-07-16",
+    "price": 155.56,
+    "volume": 10138739
+   },
+   {
+    "date": "2026-07-17",
+    "price": 153.17,
+    "volume": 10141490
+   },
+   {
+    "date": "2026-07-20",
+    "price": 149.74,
+    "volume": 5956769
+   },
+   {
+    "date": "2026-07-21",
+    "price": 150.42,
+    "volume": 14670819
+   },
+   {
+    "date": "2026-07-22",
+    "price": 146.89,
+    "volume": 8498422
+   },
+   {
+    "date": "2026-07-23",
+    "price": 147.48,
+    "volume": 7415786
+   },
+   {
+    "date": "2026-07-24",
+    "price": 145.67,
+    "volume": 7741143
+   },
+   {
+    "date": "2026-07-27",
+    "price": 148.94,
+    "volume": 5482549
+   },
+   {
+    "date": "2026-07-28",
+    "price": 152.94,
+    "volume": 39988745
+   },
+   {
+    "date": "2026-07-29",
+    "price": 144.64,
+    "volume": 32188389
+   },
+   {
+    "date": "2026-07-30",
+    "price": 140.17,
+    "volume": 13631307
+   },
+   {
+    "date": "2026-07-31",
+    "price": 138.97,
+    "volume": 40429689
+   },
+   {
+    "date": "2026-08-03",
+    "price": 152.17,
+    "volume": 71026387
+   },
+   {
+    "date": "2026-08-04",
+    "price": 151.19,
+    "volume": 32675774
+   },
+   {
+    "date": "2026-08-05",
+    "price": 147.82,
+    "volume": 10656864
+   },
+   {
+    "date": "2026-08-06",
+    "price": 156.04,
+    "volume": 46391035
+   },
+   {
+    "date": "2026-08-07",
+    "price": 154.44,
+    "volume": 12806006
+   },
+   {
+    "date": "2026-08-10",
+    "price": 161.94,
+    "volume": 39414621
+   },
+   {
+    "date": "2026-08-11",
+    "price": 167.58,
+    "volume": 50029710
+   },
+   {
+    "date": "2026-08-12",
+    "price": 169.93,
+    "volume": 19985559
+   },
+   {
+    "date": "2026-08-13",
+    "price": 166.58,
+    "volume": 8283720
+   },
+   {
+    "date": "2026-08-14",
+    "price": 164.86,
+    "volume": 7778096
+   },
+   {
+    "date": "2026-08-17",
+    "price": 162.63,
+    "volume": 7831075
+   },
+   {
+    "date": "2026-08-18",
+    "price": 160.32,
+    "volume": 13598806
+   },
+   {
+    "date": "2026-08-19",
+    "price": 157.62,
+    "volume": 9494711
+   },
+   {
+    "date": "2026-08-20",
+    "price": 159.73,
+    "volume": 16569121
+   },
+   {
+    "date": "2026-08-21",
+    "price": 156.91,
+    "volume": 21914302
+   },
+   {
+    "date": "2026-08-24",
+    "price": 157.54,
+    "volume": 8276263
+   },
+   {
+    "date": "2026-08-25",
+    "price": 163.69,
+    "volume": 32244404
+   },
+   {
+    "date": "2026-08-26",
+    "price": 166.88,
+    "volume": 13295971
+   },
+   {
+    "date": "2026-08-27",
+    "price": 169.67,
+    "volume": 31650500
+   },
+   {
+    "date": "2026-08-28",
+    "price": 165.07,
+    "volume": 8248186
+   },
+   {
+    "date": "2026-08-31",
+    "price": 164.03,
+    "volume": 20261585
+   },
+   {
+    "date": "2026-09-01",
+    "price": 159.89,
+    "volume": 6836836
+   },
+   {
+    "date": "2026-09-02",
+    "price": 162.32,
+    "volume": 20367566
+   },
+   {
+    "date": "2026-09-03",
+    "price": 156.5,
+    "volume": 17143077
+   },
+   {
+    "date": "2026-09-04",
+    "price": 166.37,
+    "volume": 46587163
+   },
+   {
+    "date": "2026-09-07",
+    "price": 164.49,
+    "volume": 10783461
+   },
+   {
+    "date": "2026-09-08",
+    "price": 169.55,
+    "volume": 38342385
+   },
+   {
+    "date": "2026-09-09",
+    "price": 175.08,
+    "volume": 40668170
+   },
+   {
+    "date": "2026-09-10",
+    "price": 173.17,
+    "volume": 15911117
+   },
+   {
+    "date": "2026-09-11",
+    "price": 202.17,
+    "volume": 276696049
+   },
+   {
+    "date": "2026-09-15",
+    "price": 193.8,
+    "volume": 62792856
+   },
+   {
+    "date": "2026-09-16",
+    "price": 185.71,
+    "volume": 112454490
+   },
+   {
+    "date": "2026-09-17",
+    "price": 184.48,
+    "volume": 47871043
+   },
+   {
+    "date": "2026-09-18",
+    "price": 192.04,
+    "volume": 66808323
+   },
+   {
+    "date": "2026-09-21",
+    "price": 193.7,
+    "volume": 18744636
+   },
+   {
+    "date": "2026-09-22",
+    "price": 197.58,
+    "volume": 82008849
+   },
+   {
+    "date": "2026-09-23",
+    "price": 188.3,
+    "volume": 37096342
+   },
+   {
+    "date": "2026-09-24",
+    "price": 179.31,
+    "volume": 32802728
+   },
+   {
+    "date": "2026-09-25",
+    "price": 176.57,
+    "volume": 17665754
+   },
+   {
+    "date": "2026-09-28",
+    "price": 173.02,
+    "volume": 23290188
+   },
+   {
+    "date": "2026-09-29",
+    "price": 171.55,
+    "volume": 18280064
+   },
+   {
+    "date": "2026-09-30",
+    "price": 171.79,
+    "volume": 19780220
+   },
+   {
+    "date": "2026-10-01",
+    "price": 167.59,
+    "volume": 13924916
+   },
+   {
+    "date": "2026-10-05",
+    "price": 167.16,
+    "volume": 9150895
+   },
+   {
+    "date": "2026-10-06",
+    "price": 172.73,
+    "volume": 10927701
+   },
+   {
+    "date": "2026-10-07",
+    "price": 177.67,
+    "volume": 40832241
+   }
+  ]
+ },
+ "generated_at": "2026-10-08T16:04:50"
+}

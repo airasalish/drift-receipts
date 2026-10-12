@@ -1,0 +1,698 @@
+{
+ "search_metadata": {
+  "id": "6acaab910a91563ab0311218",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/azhV8IyTm8wVwCBwhc6VwAuI03KK9mpyIpbJDWcwEtU/6acaab910a91563ab0311218.json",
+  "markdown_endpoint": "https://serpapi.com/searches/azhV8IyTm8wVwCBwhc6VwAuI03KK9mpyIpbJDWcwEtU/6acaab910a91563ab0311218.md",
+  "created_at": "2026-10-10 21:18:09 UTC",
+  "processed_at": "2026-10-10 21:18:09 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Neeraj+Joshi+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/azhV8IyTm8wVwCBwhc6VwAuI03KK9mpyIpbJDWcwEtU/6acaab910a91563ab0311218.html",
+  "total_time_taken": 5.04
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Neeraj Joshi stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 2188736,
+  "video_results_state": "Results for exact spelling"
+ },
+ "channel_results": [
+  {
+   "position_on_page": 1,
+   "title": "Neeraj joshi",
+   "link": "https://www.youtube.com/@Neerajjoshi",
+   "verified": true,
+   "handle": "@Neerajjoshi",
+   "subscribers": 5290000,
+   "description": "This channel is created solely for financial education and awareness. We share clear, well-researched educational content on ...",
+   "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 7,
+   "title": "Neeraj Joshi Talks",
+   "link": "https://www.youtube.com/@NEERAJJOSHITALKS",
+   "verified": true,
+   "handle": "@NEERAJJOSHITALKS",
+   "subscribers": 2550000,
+   "description": "Neeraj Joshi Talks is a comprehensive Educational and Finance YouTube Channel that covers the Latest Trends and insights in ...",
+   "thumbnail": "https://yt3.ggpht.com/SCmcrIql0cdRPtjnZFJyNsgkMIhn-ZRMWviVhn8Zgtj6Mgi9IEepB7HkBfBNIcdaERV10REGxg=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 2,
+   "title": "Learn Trading From Scratch 2026 | Trading For Beginners Full Course | Trading Kaise Sikhe",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSGK4NUic4bIsyWWXExLkMFE",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Trading Course (Day 1/10) : Learn Trading From Scratch | Trading For Beginners Full Course",
+     "length": "30:23",
+     "link": "https://www.youtube.com/watch?v=R2pgcqHApJM&list=PLJwRwY_zmmSGK4NUic4bIsyWWXExLkMFE"
+    },
+    {
+     "title": "Crypto Trading For Beginners Full Course | Learn Trading From Scratch | Trading Course (Day 2/10)",
+     "length": "48:39",
+     "link": "https://www.youtube.com/watch?v=1LNEV1ZpB_Q&list=PLJwRwY_zmmSGK4NUic4bIsyWWXExLkMFE"
+    }
+   ],
+   "video_count": 10,
+   "thumbnail": "https://i.ytimg.com/vi/R2pgcqHApJM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDRiTF8u3gXT3kkFQrHcGxQs1U54w"
+  },
+  {
+   "position_on_page": 3,
+   "title": "Intraday Trading For Beginners - Free Course | Intraday Trading kaise kare in Hindi | Intraday Trading Strategies",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSF-yTeebHZ1h5rm-3WZiWVf",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Intraday Trading FULL COURSE For Beginners in Hindi | Intraday Trading Kaise Kare | Stock market",
+     "length": "1:15:09",
+     "link": "https://www.youtube.com/watch?v=8t0_xs0399g&list=PLJwRwY_zmmSF-yTeebHZ1h5rm-3WZiWVf"
+    },
+    {
+     "title": "Intraday Trading For Beginners: LIVE Trading DEMO | Short Selling | Intraday kaise kare in hindi",
+     "length": "19:46",
+     "link": "https://www.youtube.com/watch?v=GxhCKRA2Fn8&list=PLJwRwY_zmmSF-yTeebHZ1h5rm-3WZiWVf"
+    }
+   ],
+   "video_count": 37,
+   "thumbnail": "https://i.ytimg.com/vi/8t0_xs0399g/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLBfl7klO6aCZ66hwM23EEaaVLqyCg"
+  },
+  {
+   "position_on_page": 5,
+   "title": "Stock Market Crash Course | Learn How To Invest And Make Money | Stock Market for Beginners in Hindi",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSGpnjCmXHi_mvZ01oB5vmOt",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Share Market Basics For Beginners CRASH COURSE Part 1 | How to Start Investing in Stock Market",
+     "length": "26:29",
+     "link": "https://www.youtube.com/watch?v=gv20filGA7o&list=PLJwRwY_zmmSGpnjCmXHi_mvZ01oB5vmOt"
+    },
+    {
+     "title": "Share Market Basics LIVE DEMO For Beginners CRASH COURSE Part 2 | Start Investing in Stock Market",
+     "length": "27:08",
+     "link": "https://www.youtube.com/watch?v=dP4limY9Mq8&list=PLJwRwY_zmmSGpnjCmXHi_mvZ01oB5vmOt"
+    }
+   ],
+   "video_count": 8,
+   "thumbnail": "https://i.ytimg.com/vi/gv20filGA7o/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDep8iwpkd5b_bsYCcNFyZEVNt0FQ"
+  },
+  {
+   "position_on_page": 6,
+   "title": "Options Trading for Beginners (FREE COURSE) | Basic to Advance Options Trading Course",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSFGy_yYyOH9m6XBfWUOUuZr",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "OPTIONS TRADING For Beginners FULL COURSE in Hindi | Option Trading kaise karte hain | Live Trading",
+     "length": "1:22:01",
+     "link": "https://www.youtube.com/watch?v=iIoZPfYKwpM&list=PLJwRwY_zmmSFGy_yYyOH9m6XBfWUOUuZr"
+    },
+    {
+     "title": "Options Trading For Beginners | L-01 | Free Course | Option Trading Live | Basics Of Option Trading",
+     "length": "27:22",
+     "link": "https://www.youtube.com/watch?v=K_PYanq1WG8&list=PLJwRwY_zmmSFGy_yYyOH9m6XBfWUOUuZr"
+    }
+   ],
+   "video_count": 19,
+   "thumbnail": "https://i.ytimg.com/vi/iIoZPfYKwpM/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjq2Hwt2Qp_0QSpDzWfZjPZ2xBvg"
+  },
+  {
+   "position_on_page": 10,
+   "title": "ICT + SMC Complete Trading Full Course | ICT + SMC Trading Strategy Course",
+   "link": "https://www.youtube.com/playlist?list=PLGED7j0giRFI",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "ICT + SMC Trading Full Course (Ep.1) | Basic To Advance  | Smart Money Concept",
+     "length": "22:18",
+     "link": "https://www.youtube.com/watch?v=YhTLZoyneUs&list=PLGED7j0giRFI"
+    },
+    {
+     "title": "Market Structure & Liquidity Sweep Masterclass | ICT + SMC Trading Strategy Course (Ep.2)",
+     "length": "26:37",
+     "link": "https://www.youtube.com/watch?v=tFHyr0nRZaU&list=PLGED7j0giRFI"
+    }
+   ],
+   "video_count": 10,
+   "thumbnail": "https://i.ytimg.com/vi/YhTLZoyneUs/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAQDt5i_RqHijDEGUCpH14mx7S2vA"
+  },
+  {
+   "position_on_page": 12,
+   "title": "Candlestick Pattern Hindi | Complete Course Playlist | Candlestick Patterns for Beginners",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSFktK9ri3WXNdex2HXwa_zt",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Candlestick Pattern Hindi | Free Course | Part 1 | All Single Candlestick Pattern | Trading Strategy",
+     "length": "53:15",
+     "link": "https://www.youtube.com/watch?v=ZsKGhc0AXKs&list=PLJwRwY_zmmSFktK9ri3WXNdex2HXwa_zt&pp=0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "Candlestick Pattern Hindi Part 2 | Free Course | All Double Candlestick Pattern | Trading Strategy",
+     "length": "33:01",
+     "link": "https://www.youtube.com/watch?v=G9vGUDjwAbw&list=PLJwRwY_zmmSFktK9ri3WXNdex2HXwa_zt"
+    }
+   ],
+   "video_count": 8,
+   "thumbnail": "https://i.ytimg.com/vi/ZsKGhc0AXKs/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD427h3iPIt2w_-DIO6hZvR_IUazg"
+  },
+  {
+   "position_on_page": 13,
+   "title": "Trading Strategy Playlist | Trading Strategies for Crypto, Intraday, Forex, Options, Stock Market Trading",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSEalYc_vZtO_d_L0bJHCHDG",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "I Tried MY Trading Strategy for 30 Days SHOCKING RESULT | Backtesting a Trading Strategy",
+     "length": "9:48",
+     "link": "https://www.youtube.com/watch?v=Bj4ckno_O-w&list=PLJwRwY_zmmSEalYc_vZtO_d_L0bJHCHDG&pp=0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "1 Click में Breakout ढूंढो : Secret Trading Strategy Revealed | Breakout Trading Strategies",
+     "length": "11:53",
+     "link": "https://www.youtube.com/watch?v=D1E9BlXsR-M&list=PLJwRwY_zmmSEalYc_vZtO_d_L0bJHCHDG"
+    }
+   ],
+   "video_count": 23,
+   "thumbnail": "https://i.ytimg.com/vi/Bj4ckno_O-w/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAxphfiOD_dhiaw5tWVcunYCfGGjA"
+  },
+  {
+   "position_on_page": 14,
+   "title": "How to Start Trading FULL COURSE Playlist | Trading for Beginners",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSEpUNMWD6Oa5Xv7i_50IS1h",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Crypto Trading For Beginners | Bitcoin Trading for Beginners | Crypto Trading kaise kare | App India",
+     "length": "31:21",
+     "link": "https://www.youtube.com/watch?v=dYNgpZXHxvo&list=PLJwRwY_zmmSEpUNMWD6Oa5Xv7i_50IS1h&pp=0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "How to Trade in Delta Exchange? | LIVE Trading DEMO | Delta Exchange India Me Trading Kaise Kare",
+     "length": "18:56",
+     "link": "https://www.youtube.com/watch?v=zyAgy0jxN4c&list=PLJwRwY_zmmSEpUNMWD6Oa5Xv7i_50IS1h"
+    }
+   ],
+   "video_count": 13,
+   "thumbnail": "https://i.ytimg.com/vi/dYNgpZXHxvo/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDD3yLz9kAfFgwuk3AlU4jWLXA5hw"
+  },
+  {
+   "position_on_page": 15,
+   "title": "Trading Indicators Course | Trading For Beginners",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSFCX6UNiYPXVsHwAw_tTM7z",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "NEVER Miss a TREND! | Price + Volume Strategy For DOUBLE Confirmation | PVT Indicator in Trading",
+     "length": "13:48",
+     "link": "https://www.youtube.com/watch?v=5h7_96ioFWY&list=PLJwRwY_zmmSFCX6UNiYPXVsHwAw_tTM7z"
+    },
+    {
+     "title": "RSI Trading Strategy: You Are Using It WRONG! | RSI Indicator Divergence Trading Strategy",
+     "length": "13:57",
+     "link": "https://www.youtube.com/watch?v=icml_txwHdY&list=PLJwRwY_zmmSFCX6UNiYPXVsHwAw_tTM7z"
+    }
+   ],
+   "video_count": 7,
+   "thumbnail": "https://i.ytimg.com/vi/5h7_96ioFWY/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLB_33Uqy2HOvun-sTPw0RfOzoNVOg"
+  },
+  {
+   "position_on_page": 20,
+   "title": "Crypto Trading Crash Course | Crypto Trading for Beginners | Crypto Trading Kaise Kare | Crypto Live Trading",
+   "link": "https://www.youtube.com/playlist?list=PLJwRwY_zmmSE_dx1cwA6Z6jAw2d34ADI7",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi"
+   },
+   "videos": [
+    {
+     "title": "Crypto Trading for Beginners + Trading Strategy | How to Start Crypto Trading",
+     "length": "23:38",
+     "link": "https://www.youtube.com/watch?v=fG5U4dsY1SA&list=PLJwRwY_zmmSE_dx1cwA6Z6jAw2d34ADI7"
+    },
+    {
+     "title": "Liquidity Sweep Trading Strategy | Liquidity Explained",
+     "length": "19:15",
+     "link": "https://www.youtube.com/watch?v=rzxv2IyBuK8&list=PLJwRwY_zmmSE_dx1cwA6Z6jAw2d34ADI7"
+    }
+   ],
+   "video_count": 33,
+   "thumbnail": "https://i.ytimg.com/vi/fG5U4dsY1SA/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAjN7r33rdIAMG6JsNK93mNKHFA2A"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 4,
+   "shorts": [
+    {
+     "title": "Neeraj Joshi's Viral Scalping Strategy: +84% Return or ₹1? Algo Backtest",
+     "link": "https://www.youtube.com/shorts/IX_AqqA8ew8",
+     "thumbnail": "https://i.ytimg.com/vi/IX_AqqA8ew8/frame0.jpg",
+     "views_original": "7.2K views",
+     "views": 7200,
+     "video_id": "IX_AqqA8ew8"
+    },
+    {
+     "title": "Trading for Beginners | How to Start Trading | Trading Course",
+     "link": "https://www.youtube.com/shorts/cJf4fpVxdUg",
+     "thumbnail": "https://i.ytimg.com/vi/cJf4fpVxdUg/frame0.jpg",
+     "views_original": "83K views",
+     "views": 83000,
+     "video_id": "cJf4fpVxdUg"
+    },
+    {
+     "title": "Can You Start Investing in Stock Market with Just ₹1? | Why Avoid Penny Stocks ?🤔",
+     "link": "https://www.youtube.com/shorts/43JfN2NVwks",
+     "thumbnail": "https://i.ytimg.com/vi/43JfN2NVwks/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "43JfN2NVwks"
+    },
+    {
+     "title": "REALITY CHECK : How to Start Trading in a Right Way",
+     "link": "https://www.youtube.com/shorts/A0CI4hs4JrY",
+     "thumbnail": "https://i.ytimg.com/vi/A0CI4hs4JrY/frame0.jpg",
+     "views_original": "53K views",
+     "views": 53000,
+     "video_id": "A0CI4hs4JrY"
+    },
+    {
+     "title": "EMA Indicator Trading Strategy | Trading Course Day 37",
+     "link": "https://www.youtube.com/shorts/PkwuugVXZbk",
+     "thumbnail": "https://i.ytimg.com/vi/PkwuugVXZbk/frame0.jpg",
+     "views_original": "73K views",
+     "views": 73000,
+     "video_id": "PkwuugVXZbk"
+    }
+   ]
+  },
+  {
+   "position_on_page": 8,
+   "shorts": [
+    {
+     "title": "The Art of Intraday Trading  #trading",
+     "link": "https://www.youtube.com/shorts/kS0cJW8VUCQ",
+     "thumbnail": "https://i.ytimg.com/vi/kS0cJW8VUCQ/frame0.jpg",
+     "views_original": "107K views",
+     "views": 107000,
+     "video_id": "kS0cJW8VUCQ"
+    },
+    {
+     "title": "Before Buying Any Stocks, Watch This",
+     "link": "https://www.youtube.com/shorts/9AbCR5RqL9E",
+     "thumbnail": "https://i.ytimg.com/vi/9AbCR5RqL9E/frame0.jpg",
+     "views_original": "39K views",
+     "views": 39000,
+     "video_id": "9AbCR5RqL9E"
+    },
+    {
+     "title": "How to Start Investing | Stock Market for Beginners",
+     "link": "https://www.youtube.com/shorts/FxJ36QeKTPc",
+     "thumbnail": "https://i.ytimg.com/vi/FxJ36QeKTPc/frame0.jpg",
+     "views_original": "84K views",
+     "views": 84000,
+     "video_id": "FxJ36QeKTPc"
+    },
+    {
+     "title": "How to Take Perfect Entry, Target & Stoploss in Trading",
+     "link": "https://www.youtube.com/shorts/dNKKRK3QR7I",
+     "thumbnail": "https://i.ytimg.com/vi/dNKKRK3QR7I/frame0.jpg",
+     "views_original": "89K views",
+     "views": 89000,
+     "video_id": "dNKKRK3QR7I"
+    },
+    {
+     "title": "Breakout Trading Strategy",
+     "link": "https://www.youtube.com/shorts/HH-va0WHErA",
+     "thumbnail": "https://i.ytimg.com/vi/HH-va0WHErA/frame0.jpg",
+     "views_original": "119K views",
+     "views": 119000,
+     "video_id": "HH-va0WHErA"
+    },
+    {
+     "title": "ICT Footprints in Trading | Trading Course Day 47",
+     "link": "https://www.youtube.com/shorts/alkIP8hae4A",
+     "thumbnail": "https://i.ytimg.com/vi/alkIP8hae4A/frame0.jpg",
+     "views_original": "36K views",
+     "views": 36000,
+     "video_id": "alkIP8hae4A"
+    },
+    {
+     "title": "5 Things You Must Know Before Investing in Stock Markets",
+     "link": "https://www.youtube.com/shorts/OAZmHQWJrOE",
+     "thumbnail": "https://i.ytimg.com/vi/OAZmHQWJrOE/frame0.jpg",
+     "views_original": "25K views",
+     "views": 25000,
+     "video_id": "OAZmHQWJrOE"
+    },
+    {
+     "title": "Things To Consider While Trading",
+     "link": "https://www.youtube.com/shorts/T6K6qxUTZLI",
+     "thumbnail": "https://i.ytimg.com/vi/T6K6qxUTZLI/frame0.jpg",
+     "views_original": "39K views",
+     "views": 39000,
+     "video_id": "T6K6qxUTZLI"
+    },
+    {
+     "title": "Reliable Trading Platform in India | Trading Course Day 43",
+     "link": "https://www.youtube.com/shorts/zKiEmaeuiNA",
+     "thumbnail": "https://i.ytimg.com/vi/zKiEmaeuiNA/frame0.jpg",
+     "views_original": "24K views",
+     "views": 24000,
+     "video_id": "zKiEmaeuiNA"
+    },
+    {
+     "title": "RSI Indicator Trading Strategy | Trading Course Day 38",
+     "link": "https://www.youtube.com/shorts/TfpTdN0iDIU",
+     "thumbnail": "https://i.ytimg.com/vi/TfpTdN0iDIU/frame0.jpg",
+     "views_original": "42K views",
+     "views": 42000,
+     "video_id": "TfpTdN0iDIU"
+    },
+    {
+     "title": "SHOCKING News For Traders! | Trading | Stock Market #neerajjoshi",
+     "link": "https://www.youtube.com/shorts/Q4TatZ-6lLE",
+     "thumbnail": "https://i.ytimg.com/vi/Q4TatZ-6lLE/frame0.jpg",
+     "views_original": "110K views",
+     "views": 110000,
+     "video_id": "Q4TatZ-6lLE"
+    },
+    {
+     "title": "Money Expo Mumbai #Shorts #stockmarket #sharemarket #Finance #neerajjoshi",
+     "link": "https://www.youtube.com/shorts/yjuefV_b_vw",
+     "thumbnail": "https://i.ytimg.com/vi/yjuefV_b_vw/frame0.jpg",
+     "views_original": "402K views",
+     "views": 402000,
+     "video_id": "yjuefV_b_vw"
+    },
+    {
+     "title": "Types of Trading | Trading Options for Beginners | Trading Course Day 3",
+     "link": "https://www.youtube.com/shorts/KUNL43DTpBQ",
+     "thumbnail": "https://i.ytimg.com/vi/KUNL43DTpBQ/frame0.jpg",
+     "views_original": "49K views",
+     "views": 49000,
+     "video_id": "KUNL43DTpBQ"
+    },
+    {
+     "title": "Most Profitable Trade in the World 💹",
+     "link": "https://www.youtube.com/shorts/3sxKEu_KH3g",
+     "thumbnail": "https://i.ytimg.com/vi/3sxKEu_KH3g/frame0.jpg",
+     "views_original": "581K views",
+     "views": 581000,
+     "video_id": "3sxKEu_KH3g"
+    },
+    {
+     "title": "MAKE MONEY ONLINE",
+     "link": "https://www.youtube.com/shorts/91OQDH2_04I",
+     "thumbnail": "https://i.ytimg.com/vi/91OQDH2_04I/frame0.jpg",
+     "views_original": "38 views",
+     "views": 38,
+     "video_id": "91OQDH2_04I"
+    },
+    {
+     "title": "Calories ka Stoploss 🔻Trade ka Target 🎯 #shorts #trading #neerajjoshi",
+     "link": "https://www.youtube.com/shorts/Agy_7e2wujo",
+     "thumbnail": "https://i.ytimg.com/vi/Agy_7e2wujo/frame0.jpg",
+     "views_original": "1.1M views",
+     "views": 1100000,
+     "video_id": "Agy_7e2wujo"
+    },
+    {
+     "title": "Do You Only Need One Trading Strategy ?",
+     "link": "https://www.youtube.com/shorts/Eqq9Qxg3To0",
+     "thumbnail": "https://i.ytimg.com/vi/Eqq9Qxg3To0/frame0.jpg",
+     "views_original": "45K views",
+     "views": 45000,
+     "video_id": "Eqq9Qxg3To0"
+    },
+    {
+     "title": "OHLC in Trading : Price Action | Trading Course Day 21",
+     "link": "https://www.youtube.com/shorts/sr3EGT-hqf0",
+     "thumbnail": "https://i.ytimg.com/vi/sr3EGT-hqf0/frame0.jpg",
+     "views_original": "40K views",
+     "views": 40000,
+     "video_id": "sr3EGT-hqf0"
+    },
+    {
+     "title": "Master All Chart Patterns | Trading Course Day 34",
+     "link": "https://www.youtube.com/shorts/AST5mYzunhI",
+     "thumbnail": "https://i.ytimg.com/vi/AST5mYzunhI/frame0.jpg",
+     "views_original": "33K views",
+     "views": 33000,
+     "video_id": "AST5mYzunhI"
+    },
+    {
+     "title": "SMART MONEY CONCEPT TRADING STRATEGY",
+     "link": "https://www.youtube.com/shorts/PKYbZ5rUo1A",
+     "thumbnail": "https://i.ytimg.com/vi/PKYbZ5rUo1A/frame0.jpg",
+     "views_original": "53K views",
+     "views": 53000,
+     "video_id": "PKYbZ5rUo1A"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 9,
+   "title": "How to Start Trading for Beginners | How to Make Money Online from Trading | Trading",
+   "link": "https://www.youtube.com/watch?v=Jhjeww2KNqY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Jhjeww2KNqY",
+   "video_id": "Jhjeww2KNqY",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 1227132,
+   "length": "12:37",
+   "description": "How to Start Trading for Beginners | How to Make Money Online from Trading | Trading Crypto Trading APP Link ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Jhjeww2KNqY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN8f9aMEIJTbtTimz7IYgeIMMbwg",
+    "rich": "https://i.ytimg.com/an_webp/Jhjeww2KNqY/mqdefault_6s.webp?du=3000&sqp=CP7UqtYG&rs=AOn4CLAZkgIRXnmHFObVEyJRrlW6DVTfrw"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "2 Min में Stocks ढूंढें | How to Find Best Stocks to Buy Now | Stock Market for Beginners -Education",
+   "link": "https://www.youtube.com/watch?v=Pcxl6sBQRLQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Pcxl6sBQRLQ",
+   "video_id": "Pcxl6sBQRLQ",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 177608,
+   "length": "10:50",
+   "description": "2 Min में Stocks ढूंढें | How to Find Best Stocks to Buy Now | Stock Market for Beginners This video is based on step ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Pcxl6sBQRLQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XAQOoxHNJRSp_apx93oSJL7WKA",
+    "rich": "https://i.ytimg.com/an_webp/Pcxl6sBQRLQ/mqdefault_6s.webp?du=3000&sqp=CLjIqtYG&rs=AOn4CLBPlsNaq4ay4Nimv1MlYlNK56efmg"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "ICT Trading FULL COURSE in Hindi | ICT Trading Strategy | ICT Concepts | Inner Circle Trader",
+   "link": "https://www.youtube.com/watch?v=FAt3PiB8-cM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FAt3PiB8-cM",
+   "video_id": "FAt3PiB8-cM",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 1134223,
+   "length": "1:10:17",
+   "description": "ICT Trading FULL COURSE in Hindi | ICT Trading Strategy | ICT Concepts | Inner Circle Trader Crypto Trading APP Link ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/FAt3PiB8-cM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDomhLImnkrexMJtstesKYOlmtUIQ",
+    "rich": "https://i.ytimg.com/an_webp/FAt3PiB8-cM/mqdefault_6s.webp?du=3000&sqp=CLWqqtYG&rs=AOn4CLDoE4R-kbDWx7Iblde2atGzRjbUQg"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Daily Bias Strategy : Which Day to Take Buy or Sell Trades? | Trading For Beginners",
+   "link": "https://www.youtube.com/watch?v=VAZXz_ieec4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VAZXz_ieec4",
+   "video_id": "VAZXz_ieec4",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3d ago",
+   "views": 122302,
+   "length": "20:25",
+   "description": "Daily Bias Strategy : Which Day to Take Buy or Sell Trades? | Trading For Beginners This video is based on Daily Bias Strategy or ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VAZXz_ieec4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUyE63RfFk_Y8OJ16kfKJYFCYcdA",
+    "rich": "https://i.ytimg.com/an_webp/VAZXz_ieec4/mqdefault_6s.webp?du=3000&sqp=CLzDqtYG&rs=AOn4CLCtaoVn7zfmk3DvUsm0XIQM2cNOHA"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "PERFECT Entry, Stoploss and Target MASTERCLASS in Options Trading | Trading in Share Market",
+   "link": "https://www.youtube.com/watch?v=pG_kH1TbT6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pG_kH1TbT6w",
+   "video_id": "pG_kH1TbT6w",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 1646582,
+   "length": "16:37",
+   "description": "PERFECT Entry, Stoploss and Target MASTERCLASS in Options Trading | Trading in Share Market Open FREE Demat in Stock ...",
+   "extensions": [
+    "4K",
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pG_kH1TbT6w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCgTqF2iHjJSw8T_P6Titf4A_Nfbg",
+    "rich": "https://i.ytimg.com/an_webp/pG_kH1TbT6w/mqdefault_6s.webp?du=3000&sqp=CJDDqtYG&rs=AOn4CLBUaEWaS7_Ql4JpMnOJuznE7fcbOw"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Trade Using Claude Ai Trading Bot | Trading For Beginners | Delta Exchange India MCP",
+   "link": "https://www.youtube.com/watch?v=_45lPcZ-3WE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_45lPcZ-3WE",
+   "video_id": "_45lPcZ-3WE",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 75812,
+   "length": "17:18",
+   "description": "How To Trade Using Claude Ai Trading Bot | Model Context Protocol(MCP) | Delta Exchange India This video is based on How To ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_45lPcZ-3WE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDi2c9xCuqzZ6jjFz1eQ0MvJowOuw",
+    "rich": "https://i.ytimg.com/an_webp/_45lPcZ-3WE/mqdefault_6s.webp?du=3000&sqp=CNqnqtYG&rs=AOn4CLBTLUCh4g9CEjJmluePtj74gwqt9w"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "TradingView Trading Strategy: Mark Every Trade on Chart | Trading For Beginners | Trading Strategies",
+   "link": "https://www.youtube.com/watch?v=cJqYRn_nP-M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cJqYRn_nP-M",
+   "video_id": "cJqYRn_nP-M",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5d ago",
+   "views": 108464,
+   "length": "16:16",
+   "description": "TradingView Trading Strategy: Mark Every Trade on Chart | Trading For Beginners | Trading Strategies This video is based on Top ...",
+   "extensions": [
+    "New",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cJqYRn_nP-M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXkfv4gehLI-7vXmWceuHJojuULg",
+    "rich": "https://i.ytimg.com/an_webp/cJqYRn_nP-M/mqdefault_6s.webp?du=3000&sqp=COejqtYG&rs=AOn4CLAw5fUShp7VSZO-Gy3tQ3GDmYX36g"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Trading Course (Day 1/10) : Learn Trading From Scratch | Trading For Beginners Full Course",
+   "link": "https://www.youtube.com/watch?v=R2pgcqHApJM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R2pgcqHApJM",
+   "video_id": "R2pgcqHApJM",
+   "channel": {
+    "name": "Neeraj joshi",
+    "link": "https://www.youtube.com/@Neerajjoshi",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/F4P7MQbibToUe8FHbTkc3HZwUEnR3zuvbl2sAYgS99uvyUWRw8ZrODJlOxgarqIWqPZJLj6G=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6mo ago",
+   "views": 2600552,
+   "length": "30:23",
+   "description": "Trading Course (Day 1/10) : Learn Trading From Scratch | Trading For Beginners Full Course This is the first video of a complete ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/R2pgcqHApJM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZx_lnojSJF2dox34hnnl-a00SQg",
+    "rich": "https://i.ytimg.com/an_webp/R2pgcqHApJM/mqdefault_6s.webp?du=3000&sqp=CIbPqtYG&rs=AOn4CLAoLNmp-zs6emgtP9OFFxvShz-Bpw"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Neeraj+Joshi+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Neeraj%20Joshi%20stocks&sp=SBSCARhVQ2ZZSHZZeUZJQ0h3SFZPOWxId21paWeCASJQTEp3UndZX3ptbVNHSzROVWljNGJJc3lXV1hFeExrTUZFggEiUExKd1J3WV96bW1TRi15VGVlYkhaMWg1cm0tM1daaVdWZoIBIlBMSndSd1lfem1tU0dwbmpDbVhIaV9tdlowMW9CNXZtT3SCASJQTEp3UndZX3ptbVNGR3lfeVl5T0g5bTZYQmZXVU9VdVpyggEYVUNuZ00tNnFZeklnRWlESGhaaXpyNHVRggELSmhqZXd3MktOcVmCAQ1QTEdFRDdqMGdpUkZJggELUGN4bDZzQlFSTFGCASJQTEp3UndZX3ptbVNGa3RLOXJpM1dYTmRleDJIWHdhX3p0ggEiUExKd1J3WV96bW1TRWFsWWNfdlp0T19kX0wwYkpIQ0hER4IBIlBMSndSd1lfem1tU0VwVU5NV0Q2T2E1WHY3aV81MElTMWiCASJQTEp3UndZX3ptbVNGQ1g2VU5pWVBYVnNId0F3X3RUTTd6ggELRkF0M1BpQjgtY02CAQtWQVpYel9pZWVjNIIBC3BHX2tIMVRiVDZ3ggELXzQ1bFBjWi0zV0WCASJQTEp3UndZX3ptbVNFX2R4MWN3QTZaNmpBdzJkMzRBREk3ggELY0pxWVJuX25QLU2CAQtSMnBnY3FIQXBKTbIBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ2ZZSHZZeUZJQ0h3SFZPOWxId21paWeCASJQTEp3UndZX3ptbVNHSzROVWljNGJJc3lXV1hFeExrTUZFggEiUExKd1J3WV96bW1TRi15VGVlYkhaMWg1cm0tM1daaVdWZoIBIlBMSndSd1lfem1tU0dwbmpDbVhIaV9tdlowMW9CNXZtT3SCASJQTEp3UndZX3ptbVNGR3lfeVl5T0g5bTZYQmZXVU9VdVpyggEYVUNuZ00tNnFZeklnRWlESGhaaXpyNHVRggELSmhqZXd3MktOcVmCAQ1QTEdFRDdqMGdpUkZJggELUGN4bDZzQlFSTFGCASJQTEp3UndZX3ptbVNGa3RLOXJpM1dYTmRleDJIWHdhX3p0ggEiUExKd1J3WV96bW1TRWFsWWNfdlp0T19kX0wwYkpIQ0hER4IBIlBMSndSd1lfem1tU0VwVU5NV0Q2T2E1WHY3aV81MElTMWiCASJQTEp3UndZX3ptbVNGQ1g2VU5pWVBYVnNId0F3X3RUTTd6ggELRkF0M1BpQjgtY02CAQtWQVpYel9pZWVjNIIBC3BHX2tIMVRiVDZ3ggELXzQ1bFBjWi0zV0WCASJQTEp3UndZX3ptbVNFX2R4MWN3QTZaNmpBdzJkMzRBREk3ggELY0pxWVJuX25QLU2CAQtSMnBnY3FIQXBKTbIBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Neeraj+Joshi+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Neeraj+Joshi+stocks&sp=SBSCARhVQ2ZZSHZZeUZJQ0h3SFZPOWxId21paWeCASJQTEp3UndZX3ptbVNHSzROVWljNGJJc3lXV1hFeExrTUZFggEiUExKd1J3WV96bW1TRi15VGVlYkhaMWg1cm0tM1daaVdWZoIBIlBMSndSd1lfem1tU0dwbmpDbVhIaV9tdlowMW9CNXZtT3SCASJQTEp3UndZX3ptbVNGR3lfeVl5T0g5bTZYQmZXVU9VdVpyggEYVUNuZ00tNnFZeklnRWlESGhaaXpyNHVRggELSmhqZXd3MktOcVmCAQ1QTEdFRDdqMGdpUkZJggELUGN4bDZzQlFSTFGCASJQTEp3UndZX3ptbVNGa3RLOXJpM1dYTmRleDJIWHdhX3p0ggEiUExKd1J3WV96bW1TRWFsWWNfdlp0T19kX0wwYkpIQ0hER4IBIlBMSndSd1lfem1tU0VwVU5NV0Q2T2E1WHY3aV81MElTMWiCASJQTEp3UndZX3ptbVNGQ1g2VU5pWVBYVnNId0F3X3RUTTd6ggELRkF0M1BpQjgtY02CAQtWQVpYel9pZWVjNIIBC3BHX2tIMVRiVDZ3ggELXzQ1bFBjWi0zV0WCASJQTEp3UndZX3ptbVNFX2R4MWN3QTZaNmpBdzJkMzRBREk3ggELY0pxWVJuX25QLU2CAQtSMnBnY3FIQXBKTbIBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ2ZZSHZZeUZJQ0h3SFZPOWxId21paWeCASJQTEp3UndZX3ptbVNHSzROVWljNGJJc3lXV1hFeExrTUZFggEiUExKd1J3WV96bW1TRi15VGVlYkhaMWg1cm0tM1daaVdWZoIBIlBMSndSd1lfem1tU0dwbmpDbVhIaV9tdlowMW9CNXZtT3SCASJQTEp3UndZX3ptbVNGR3lfeVl5T0g5bTZYQmZXVU9VdVpyggEYVUNuZ00tNnFZeklnRWlESGhaaXpyNHVRggELSmhqZXd3MktOcVmCAQ1QTEdFRDdqMGdpUkZJggELUGN4bDZzQlFSTFGCASJQTEp3UndZX3ptbVNGa3RLOXJpM1dYTmRleDJIWHdhX3p0ggEiUExKd1J3WV96bW1TRWFsWWNfdlp0T19kX0wwYkpIQ0hER4IBIlBMSndSd1lfem1tU0VwVU5NV0Q2T2E1WHY3aV81MElTMWiCASJQTEp3UndZX3ptbVNGQ1g2VU5pWVBYVnNId0F3X3RUTTd6ggELRkF0M1BpQjgtY02CAQtWQVpYel9pZWVjNIIBC3BHX2tIMVRiVDZ3ggELXzQ1bFBjWi0zV0WCASJQTEp3UndZX3ptbVNFX2R4MWN3QTZaNmpBdzJkMzRBREk3ggELY0pxWVJuX25QLU2CAQtSMnBnY3FIQXBKTbIBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "_fetched_at": "2026-10-10T21:18:12"
+}

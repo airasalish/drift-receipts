@@ -1,0 +1,21 @@
+{
+ "calls": [
+  {
+   "company": "IOL Chemicals and Pharmaceuticals",
+   "symbol_guess": "IOLCHEM",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "iOL केमics के स्टॉक के बारे में",
+   "start_s": 0,
+   "line": "नमस्कार दोस्तों। चलिए आज के इस वीडियो में बात करेंगे iOL केमics के स्टॉक के बारे में। स्टॉक की करंट प्राइस की बात करेंगे तो 196.90 इसकी करंट प्राइस चल रही",
+   "evidence": [],
+   "reason": "The speaker analyzes IOL Chemicals but explicitly states there is no buying recommendation, so it is listed as a watch rather than a buy."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,106 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf1aa2897176b464513d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/nnfCTFTmA65mbs4xiomRXSfG0zO9fglHqrgDVrJLLKA/6ac7bf1aa2897176b464513d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/nnfCTFTmA65mbs4xiomRXSfG0zO9fglHqrgDVrJLLKA/6ac7bf1aa2897176b464513d.md",
+  "created_at": "2026-10-08 16:04:42 UTC",
+  "processed_at": "2026-10-08 16:04:42 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=WK4MZOnyAPU",
+  "raw_html_file": "https://serpapi.com/searches/nnfCTFTmA65mbs4xiomRXSfG0zO9fglHqrgDVrJLLKA/6ac7bf1aa2897176b464513d.html",
+  "prettify_html_file": "https://serpapi.com/searches/nnfCTFTmA65mbs4xiomRXSfG0zO9fglHqrgDVrJLLKA/6ac7bf1aa2897176b464513d.prettify",
+  "total_time_taken": 7.3
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "WK4MZOnyAPU",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "रही हैं स्नेहा जी गुड आफ्टरनून स्वागत है आपका कार्यक्रम में बताइए मैम इन्वेस्टमेंट पर्पस के हिसाब से कौन सा स्टॉक पसंद आ रहा है आपको",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 8000,
+   "snippet": "गुड आफ्टरनून सो इन्वेस्टमेंट पर्पस के लिए मैं पाइन लैब्स सजेस्ट करूंगी पाइन लैब्स जो है वो बेसिकली बेनिफिट करती है",
+   "start_time_text": "0:08",
+   "start_time_label": "8 seconds"
+  },
+  {
+   "start_ms": 16000,
+   "snippet": "इंडिया की जो ओवरऑल डिजिटल पेमेंट इकोसिस्टम है वहां पे अभी भी पेनिट्रेशन",
+   "start_time_text": "0:16",
+   "start_time_label": "16 seconds"
+  },
+  {
+   "start_ms": 23000,
+   "snippet": "काफी लो है दो मेट्रोस और टिए टू सिटीज में अच्छा खासा पेनिट्रेशन है बट स्टिल और डीपर पेनिट्रेशन के बहुत स्कोप है। सो इसके लिए मैं पाइन लैब्स प्रेफर करूंगी।",
+   "start_time_text": "0:23",
+   "start_time_label": "23 seconds"
+  },
+  {
+   "start_ms": 34000,
+   "snippet": "इनके काफी वेल डवर्सिफाइड प्रोडक्ट सूट है और बहुत ही डीप रिलेशनशिप रखते हैं अपने सारे मर्चेंट्स ब्रांड्स और फाइनेंसियल",
+   "start_time_text": "0:34",
+   "start_time_label": "34 seconds"
+  },
+  {
+   "start_ms": 41000,
+   "snippet": "इंस्टीटशंस के साथ और जो अभी रिसेंट में जो एमडीआर को लेके जो गवर्नमेंट की अनाउंसमेंट आई थी तो बेसिकली इससे ये",
+   "start_time_text": "0:41",
+   "start_time_label": "41 seconds"
+  },
+  {
+   "start_ms": 50000,
+   "snippet": "कंपनी भी डेफिनेटली बेनिफिट करेगी 4% इनके लिए एडिशनली 10 टू 15% इंक्रीमेंटल रेवेन्यू लाके देगा। सो ओवरऑल अह",
+   "start_time_text": "0:50",
+   "start_time_label": "50 seconds"
+  },
+  {
+   "start_ms": 59000,
+   "snippet": "अर्निंग्स ग्रोथ अराउंड 25% प्लस एक्सपेक्टेड है ओवर नेक्स्ट टू इयर्स एंड इनकी अगर हम मार्जिनस की बात करें तो बहुत",
+   "start_time_text": "0:59",
+   "start_time_label": "59 seconds"
+  },
+  {
+   "start_ms": 66000,
+   "snippet": "सब्सटेंशियली इंप्रूव होंगे फ्रॉम करंट न 9% जो कि इनकी 25 में थी वहां से 29% की",
+   "start_time_text": "1:06",
+   "start_time_label": "1 minute, 6 seconds"
+  },
+  {
+   "start_ms": 73000,
+   "snippet": "तरफ मूव करेंगे। एंड यह लार्जली बिकॉज़ अह यह काफी कुछ हायर मार्जिन ट्रांजैक्शन लेड बिज़नेसेस की तरफ मूव कर रहे हैं। जहां पे",
+   "start_time_text": "1:13",
+   "start_time_label": "1 minute, 13 seconds"
+  },
+  {
+   "start_ms": 81000,
+   "snippet": "अच्छे मार्जिनस हैं। तो रेवेन्यू ग्रोथ भी स्ट्रांग है। एंड प्लस मार्जिन एक्सपेंशन हाई होने से आपके अर्निंग्स ग्रोथ में",
+   "start_time_text": "1:21",
+   "start_time_label": "1 minute, 21 seconds"
+  },
+  {
+   "start_ms": 89000,
+   "snippet": "काफी अच्छी बढ़ोतरी देखने को मिलेगी। सो pin लैब्स में वन ईयर पर्सपेक्टिव से रिकमेंड करूंगी विथ अ टारगेट प्राइस ऑफ़ 250।",
+   "start_time_text": "1:29",
+   "start_time_label": "1 minute, 29 seconds"
+  },
+  {
+   "start_ms": 97000,
+   "snippet": "पायल लैप शानदार परफेंस यहां पर पिछले कुछ सत्रों में देखने को मिल रही है और यह इन्वेस्टमेंट के हिसाब से आप रख सकते हैं",
+   "start_time_text": "1:37",
+   "start_time_label": "1 minute, 37 seconds"
+  },
+  {
+   "start_ms": 104000,
+   "snippet": "रेडपस",
+   "start_time_text": "1:44",
+   "start_time_label": "1 minute, 44 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:04:48"
+}

@@ -1,0 +1,130 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf84afea4551eb3849e6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/hVsa7NWvXdu0e04wJrwUnhXXK3hVMsGMwnnvsn4TRh8/6ac7bf84afea4551eb3849e6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/hVsa7NWvXdu0e04wJrwUnhXXK3hVMsGMwnnvsn4TRh8/6ac7bf84afea4551eb3849e6.md",
+  "created_at": "2026-10-08 16:06:28 UTC",
+  "processed_at": "2026-10-08 16:06:28 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=nIlZAVqrGPA",
+  "raw_html_file": "https://serpapi.com/searches/hVsa7NWvXdu0e04wJrwUnhXXK3hVMsGMwnnvsn4TRh8/6ac7bf84afea4551eb3849e6.html",
+  "prettify_html_file": "https://serpapi.com/searches/hVsa7NWvXdu0e04wJrwUnhXXK3hVMsGMwnnvsn4TRh8/6ac7bf84afea4551eb3849e6.prettify",
+  "total_time_taken": 8.83
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "nIlZAVqrGPA",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "Lalita jewelry and that IPO is opening today. Mima standing by with not just the details but a complete SWAT analysis when it comes to this one.",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "It's an interesting one because uh you know a counter which has grown very well in the last 3 years but the IPO size of course compared to that is very small.",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 15000,
+   "snippet": "We take a look at the details just a brief about what Lada jewelry basically does. It was founded in 1985 is headquartered in Chennai. So basically a",
+   "start_time_text": "0:15",
+   "start_time_label": "15 seconds"
+  },
+  {
+   "start_ms": 23000,
+   "snippet": "southbased jeweler is what it is. It sells gold diamond jewelry and silver jewelry as well. has 50 um six stores",
+   "start_time_text": "0:23",
+   "start_time_label": "23 seconds"
+  },
+  {
+   "start_ms": 31000,
+   "snippet": "across 46 cities but has presence um you know in Telangana, Andhra Pradesh, Telang Karnataka as well as Puducheria",
+   "start_time_text": "0:31",
+   "start_time_label": "31 seconds"
+  },
+  {
+   "start_ms": 39000,
+   "snippet": "and the gold jewelry right now is more than 94% of its revenue follows a satellite model. So only owns three out",
+   "start_time_text": "0:39",
+   "start_time_label": "39 seconds"
+  },
+  {
+   "start_ms": 46000,
+   "snippet": "of these 56 stores that I just talked about. Now in terms of the IPO details, it is a 1,700 odd cr IPO of which 1,200",
+   "start_time_text": "0:46",
+   "start_time_label": "46 seconds"
+  },
+  {
+   "start_ms": 53000,
+   "snippet": "cr is a fresh issue and 500 cr is offer for sale. price band is set between 190 to 201 and it opens on 17th August that",
+   "start_time_text": "0:53",
+   "start_time_label": "53 seconds"
+  },
+  {
+   "start_ms": 62000,
+   "snippet": "is today. Now in terms of financials as I was saying that the overall financials if you take a look at uh the numbers has been very strong. It's grown from 16,000",
+   "start_time_text": "1:02",
+   "start_time_label": "1 minute, 2 seconds"
+  },
+  {
+   "start_ms": 70000,
+   "snippet": "cr to 25,400 or uh 20 20 thou 25,40 odd cr in the last 3 years. So strong",
+   "start_time_text": "1:10",
+   "start_time_label": "1 minute, 10 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "financials for sure. uh in terms of where the object stands around 1 th00and cr is going to be issued uh for um opening of new stores and the rest is going to be used for general purposes.",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 88000,
+   "snippet": "Now in terms of SWAT analysis um you know overall strong regional brand in South India for sure is one of its strength. It has high revenue store",
+   "start_time_text": "1:28",
+   "start_time_label": "1 minute, 28 seconds"
+  },
+  {
+   "start_ms": 96000,
+   "snippet": "productivity and strong revenue and pat growth is what we've seen in the last couple of years. Opportunities well 12 stores uh expansion funded by IPO that",
+   "start_time_text": "1:36",
+   "start_time_label": "1 minute, 36 seconds"
+  },
+  {
+   "start_ms": 104000,
+   "snippet": "is a big opportunity coming in for this one. Um the plus the rising share of organized jewelry in the entire space is also an opportunity and higher gold",
+   "start_time_text": "1:44",
+   "start_time_label": "1 minute, 44 seconds"
+  },
+  {
+   "start_ms": 113000,
+   "snippet": "prices can support nominal growth as well. In terms of where weaknesses go, significant inventory intensity and concentrated ge geographic presence is",
+   "start_time_text": "1:53",
+   "start_time_label": "1 minute, 53 seconds"
+  },
+  {
+   "start_ms": 121000,
+   "snippet": "something uh that could weigh on uh the company. And lastly in terms of threat I think um high intense competition coming",
+   "start_time_text": "2:01",
+   "start_time_label": "2 minutes, 1 second"
+  },
+  {
+   "start_ms": 129000,
+   "snippet": "in from all these established jewelers that have pan India presence plus gold plus volatility and margin pressure",
+   "start_time_text": "2:09",
+   "start_time_label": "2 minutes, 9 seconds"
+  },
+  {
+   "start_ms": 136000,
+   "snippet": "could uh kind of put pressure because of competitive pricing as well. So that's the entire SWAT analysis and what you need to watch out for in the IPO.",
+   "start_time_text": "2:16",
+   "start_time_label": "2 minutes, 16 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:06:35"
+}

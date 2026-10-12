@@ -1,0 +1,57 @@
+{
+ "calls": [
+  {
+   "company": "Rajesh Exports",
+   "symbol_guess": "RAJESHEXPO",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप राजेश एक्सपोर्ट्स को ले लो।",
+   "start_s": 700,
+   "line": "प्रोडक्ट्स के बारे में हम कुछ जानते ही",
+   "evidence": [
+    {
+     "text": "ले लो",
+     "where": "transcript",
+     "start_s": 702
+    },
+    {
+     "text": "राजेश एक्सपोर्ट्स",
+     "where": "transcript",
+     "start_s": 702
+    }
+   ],
+   "reason": "The speaker directly tells viewers to take Rajesh Exports, indicating a buy recommendation."
+  },
+  {
+   "company": "Dixon Technologies",
+   "symbol_guess": "DIXON",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "डजीन कभी ना कभी हर घर में यूज़ होती है।",
+   "start_s": 775,
+   "line": "पता नहीं होता ना कि इसको कौन बना रहा है।",
+   "evidence": [
+    {
+     "text": "डजीन",
+     "where": "transcript",
+     "start_s": 777
+    },
+    {
+     "text": "लिस्टेड हैं",
+     "where": "transcript",
+     "start_s": 784
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a listed product maker, not as a specific investment pick."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 4,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,1141 @@
+{
+ "search_metadata": {
+  "id": "6acc4fd5304eba61c169e125",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/s46ldP8_FQPeV-hzuYaglN9XXABCDKVTHoNSXj_5fMA/6acc4fd5304eba61c169e125.json",
+  "markdown_endpoint": "https://serpapi.com/searches/s46ldP8_FQPeV-hzuYaglN9XXABCDKVTHoNSXj_5fMA/6acc4fd5304eba61c169e125.md",
+  "created_at": "2026-10-12 03:11:17 UTC",
+  "processed_at": "2026-10-12 03:11:17 UTC",
+  "google_news_url": "https://news.google.com/search?q=stock+market+tips+fraud+arrested+India&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/s46ldP8_FQPeV-hzuYaglN9XXABCDKVTHoNSXj_5fMA/6acc4fd5304eba61c169e125.html",
+  "total_time_taken": 0.92
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "stock market tips fraud arrested India"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Surat Cyber Crime Cell busts interstate investment scam; arrests five in Rs 27.2 lakh fraud case",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dilip Kshatriya"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/states/gujarat/2026/Jul/17/surat-cyber-crime-cell-busts-interstate-investment-scam-arrests-five-in-rs-272-lakh-fraud-case",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-07-17/0qdjwvfh/Arrested-Accused.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVNSRXBUWW14YU1saHFiMlpGVFJDaEF4amZCU2dLTWdzQlVKWWFwQ2pJREFyVGln",
+   "date": "07/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-17T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Multi-crore fraud scam lured investors via gaming platform, kingpin arrested",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiatoday.in/india/uttar-pradesh/story/up-stf-arrests-anurag-srivastava-in-investment-fraud-linked-to-gaming-platform-2962890-2026-08-04",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/up-multi-crore-fraud-scam-045632455-16x9_0.jpg?VersionId=GRNeAWUfNQ_v1KJfojyh8mrEwbPeBvRo&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlkSFV0ZDBoeVRrWkpaMHhZVFJDZkF4ampCU2dLTWdhdEpZTE9HUWs",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Fake Profits, Real Losses: The New Investment Fraud Sweeping WhatsApp and Telegram Groups",
+   "source": {
+    "name": "Open Magazine",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://openthemagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://openthemagazine.com/india/fake-profits-real-losses-the-new-investment-fraud-sweeping-whatsapp-and-telegram-groups",
+   "thumbnail": "https://media.openthemagazine.com/openthemagazine/2026-07-07/xxpzuqkd/New-Project-2026-07-07T131744.536.jpg?w=640&auto=format,compress&q=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXZhRE42ZHpocWNIUnRNSFZYVFJEb0FoaUFCU2dLTWdzQkVJS0xyT0kwcG1wcU5R",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Rs 80 lakh gone in fake stock tips: Delhi Police recover trail, freeze assets",
+   "source": {
+    "name": "The Statesman",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.thestatesman.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thestatesman.com/india/delhi-police-bust-rs-80-lakh-online-investment-fraud-two-arrested-shares-frozen-1503608299.html",
+   "thumbnail": "https://www.thestatesman.com/wp-content/uploads/2026/06/Rs-80-lakh-gone-in-fake-stock-tips-Delhi-Police-recover-trail-freeze-assets.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURObkV4WjB0eVFXeFplVUZhVFJDZkF4ampCU2dLTWdhaFk0cE10UVk",
+   "date": "06/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-21T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Panchkula police arrests Delhi-based man in Rs 4-lakh online trading fraud",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/chandigarh/panchkula-police-arrests-delhi-based-man-in-rs-4-lakh-online-trading-fraud-10743204/",
+   "thumbnail": "https://images.indianexpress.com/2026/06/police_20260616201903.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVjMlp2T0c1b09XOVhTRFpMVFJDZkF4ampCU2dLTWdZQkFKaHhqQW8",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Stock trading scam: Police arrest two for duping Mumbai woman of Rs 28 lakh",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/stock-trading-scam-police-arrest-two-for-duping-mumbai-woman-of-rs-28-lakh/articleshow/130175875.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-117518373,width-1280,height-720,imgsize-98012,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZYM2xwVldGRlJGTktRVnBRVFJDZkF4ampCU2dLTWdhUk1vNkxyUVk",
+   "date": "04/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-10T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Three arrested for stock trading, investment fraud by Hyderabad cybercrime police",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/news/national/telangana/three-arrested-for-stock-trading-and-investment-fraud-by-hyderabad-cybercrime-police/article69773267.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "07/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-04T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Delhi police busts online investment scam, nabs 4 for defrauding",
+   "source": {
+    "name": "ANI News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.aninews.in/news/national/general-news/delhi-police-busts-online-investment-scam-nabs-4-for-defrauding20260215144023",
+   "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20260215090006.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkMUU1U2pSa2NqWldkWFJGVFJEZ0F4aUFCU2dLTWdZcGRZck5LUWM",
+   "date": "02/15/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-15T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "How a Social Media Tip Turned into a ₹45 Lakh Online Fraud",
+   "source": {
+    "name": "Open Magazine",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://openthemagazine.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://openthemagazine.com/india/how-a-social-media-tip-turned-into-a-45-lakh-online-fraud",
+   "thumbnail": "https://media.openthemagazine.com/openthemagazine/2026-02-07/rvh0yfcy/Cybersecurity.jpeg?w=640&auto=format,compress&q=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJSVXREZGtSMWJua3dWMkpJVFJEb0FoaUFCU2dLTWdZVlVJd3BwZ2M",
+   "date": "02/15/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-15T08:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Investment fraud racket: Telangana security guard arrested",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/indore/investment-fraud-racket-telangana-security-guard-arrested/articleshow/127729458.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-117621499,width-1280,height-720,imgsize-299793,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpObFZ3YkRZd0xXRm5aR05EVFJDZkF4ampCU2dLTWdhaFJJcU5wUVE",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "One arrested in ₹2 crore stock trading scam in Hyderabad",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/news/national/telangana/one-arrested-in-2-crore-stock-trading-scam-in-hyderabad/article69435592.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "04/11/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-11T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Odisha Crime Branch arrests Delhi resident over Rs 2 crore trading scam",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newindianexpress.com/cities/bhubaneswar/2026/Apr/25/odisha-crime-branch-arrests-delhi-resident-over-rs-2-crore-trading-scam",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2026-04-25%2Fv3ed39cy%2FANI_20250407081921.jpg?w=480&auto=format%2Ccompress&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhOSGxNZVY5UldIWXlMV0ZRVFJDT0FoamdBeWdLTWdhSk5ZWW5yZ1E",
+   "date": "04/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-25T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Cyber fraud gang busted in Mumbai: Four arrested for stock market investment scam",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/mumbai/cyber-fraud-gang-busted-in-mumbai-four-arrested-for-stock-market-investment-scam-10220704/",
+   "thumbnail": "https://images.indianexpress.com/2025/08/cyber.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpNVTVpVFUwNVZuUXRVVUl3VFJDZkF4ampCU2dLTWdZZFlJQktRUUk",
+   "date": "08/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-30T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Man dupes 75-year-old in online stock market scam, arrested",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/delhi/man-dupes-75-year-old-in-online-stock-market-scam-arrested/articleshow/123473313.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-123473913,width-1280,height-720,resizemode-72/123473913.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpVRVprTFdwTE0yVmxka3hXVFJDZkF4amlCU2dLTWdtZE00YkxwYU5VWmdJ",
+   "date": "08/23/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-23T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "HYDERABAD: Cyber Crime Police Arrests Four Men for Stock Market Fraud",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/news/national/telangana/hyderabad-citizens-conned-of-116-crore-in-two-major-stock-trading-frauds/article67977035.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/d8gli9/article67979197.ece/alternates/LANDSCAPE_1200/IMG_World_Financial_Cris_2_1_IQC574O7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpYemxoVUVkS01HVXhaM2czVFJDZkF4ampCU2dLTWdhQklaVDBHQWs",
+   "date": "03/22/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-03-22T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "After losing money in stock market, bank employee in Ghaziabad withdraws Rs 64 lakh from customers’ accounts; arrested",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Neetika Jha"
+    ]
+   },
+   "link": "https://indianexpress.com/article/cities/delhi/ghaziabad-bank-emplyee-stock-market-customers-account-withdrawal-10419411/",
+   "thumbnail": "https://images.indianexpress.com/2025/11/money-1_20250523110051_20251108162840.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVJiRkpvVDJSeVRYbzNXVE5HVFJDZkF4ampCU2dLTWdNTmdBdw",
+   "date": "12/14/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-14T08:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Fake Call Centre Busted in Navi Mumbai, 20 Held for Defrauding US Citizens by Computer Virus Attack, Onli",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "George Mendonca"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/fake-call-centre-busted-in-navi-mumbai-20-held-for-defrauding-us-citizens-by-computer-virus-attack-online-stock-market-scam/articleshow/125467166.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-117518373,width-1280,height-720,resizemode-72/117518373.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhSMHM0ZVRkMGQyOXliamhaVFJDZkF4ampCU2dLTWdhVk1vNk1yUVk",
+   "date": "11/21/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-21T08:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Police arrest two fraudsters in online stock market scam linked to chinese mastermind",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/delhi/police-arrest-two-fraudsters-in-online-stock-market-scam-linked-to-chinese-mastermind/articleshow/124186486.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-124186485,width-1280,height-720,resizemode-72/124186485.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVMWE14VjBsd2FHNTRXSEY0VFJDZkF4amlCU2dLTWdZcE5Zck9uUWc",
+   "date": "09/28/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-28T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Money recovered, accused arrested — What's happening in the IDFC First Bank Rs 590 crore scam case? Top d",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/money-recovered-accused-arrested-whats-happening-in-the-idfc-first-bank-rs-590-crore-scam-case-top-developments/articleshow/128771776.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-128773082,width-1280,height-720,imgsize-1094522,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtja05xTVVFME1IaEtUV1YzVFJDZkF4ampCU2dLTWdhQlFveXFKUVk",
+   "date": "02/25/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-25T08:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Investors lured with stock market tips, cheated of Rs 33cr",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/ahmedabad/investors-lured-with-stock-market-tips-cheated-of-rs-33cr/articleshow/113749304.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+   "date": "09/28/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-09-28T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Cyber police crack down on fake stock trading scam, arrest key accomplice in ₹36 lakh fraud.",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/cyber-police-crack-down-on-fake-stock-trading-scam-arrest-key-accomplice-in-36-lakh-fraud-/articleshow/116949928.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+   "date": "01/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-04T08:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Mumbai Police South Region Cyber Cell Busts ₹42 Crore Share Market Fraud, 7 Arrested Across Multiple States",
+   "source": {
+    "name": "Hello Mumbai News",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hellomumbainews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hellomumbainews.com/current-news/mumbai-police-south-region-cyber-cell-busts-%E2%82%B942-crore-share-market-fraud-7-arrested-across-multiple-states/",
+   "thumbnail": "https://i0.wp.com/hellomumbainews.com/wp-content/uploads/2026/02/IMG-20260207-WA0038-scaled.jpg?fit=768%2C633&ssl=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVZZbEJRVUhGTVkyTkdaRTVDVFJEM0F4amlCQ2dLTWdB",
+   "date": "02/07/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-07T08:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Asmita Patel: Ban on financial influencer exposes regulation cracks",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Archana Shukla"
+    ]
+   },
+   "link": "https://www.bbc.com/news/articles/cddyye3zplno",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/f529/live/4bb259d0-f4f1-11ef-ae0a-4bca4f518eb0.png.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNNWEpzYW0xS1lXTm9VbXB0VFJDT0FoamdBeWdLTWdZcE5ZN05vUWM",
+   "date": "03/03/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-03-03T08:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Fake trading app scam: Mumbai Cyber police arrest three for Rs 48.5-lakh fraud",
+   "source": {
+    "name": "Mid-Day",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.mid-day.com/mumbai/mumbai-crime-news/article/fake-trading-app-scam-mumbai-cyber-police-arrest-three-for-rs-48-5-lakh-fraud-23615209",
+   "thumbnail": "https://images.mid-day.com/images/images/2026/feb/Fake-trading-app-1770248367389_d.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxjMDlzUldWMWN6UlNOMVZaVFJDZkF4ampCU2dLTWdZQlVKaURLQWs",
+   "date": "02/05/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-05T08:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Delhi Police Arrest Three in Noida Cyber Investment Fraud Case",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/delhi/delhi-police-arrest-three-in-noida-cyber-investment-fraud-case/articleshow/134416009.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-33486062,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlZVWxXVlhWcWNGcENVVEZFVFJDZkF4ampCU2dLTWdNRm94QQ",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Two Gujarat men arrested for ₹49 lakh cyber fraud via fake trading app",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/chandigarh/two-gujarat-men-arrested-for-49-lakh-cyber-fraud-via-fake-trading-app/articleshow/131028996.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-131028995,width-1280,height-720,imgsize-61456,resizemode-4,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpaMlpRUjBkblMzSnBkRFpRVFJDZkF4ampCU2dLTWdZaE5JYk5HUVE",
+   "date": "05/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-12T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "UT cyber police cracks `3.66-crore online share market fraud, arrests accused from Tihar Jail",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/chandigarh/cyber-police-cracks-online-share-market-fraud-9941354/",
+   "thumbnail": "https://images.indianexpress.com/2025/04/cyber-scam-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5TMFJuYVRWM1MyNUdNMUptVFJDZkF4ampCU2dLTWdtZFlJQXJ6V0tTcndF",
+   "date": "04/13/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-13T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "What to know about 4 online scams targeted towards Indians in recent months",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mahender Singh Manral"
+    ]
+   },
+   "link": "https://indianexpress.com/article/explained/everyday-explainers/online-scams-arrest-investment-wfh-dating-9642542/",
+   "thumbnail": "https://images.indianexpress.com/2024/10/online-scams.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlTM0JqVUZoYVUxQnRUalZ3VFJDZkF4ampCU2dLTWdZZElZb3F2UVU",
+   "date": "10/28/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-28T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Karnataka man loses Rs 10 lakh in online stock market scam after Facebook link trap",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepthi Sanjiv"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mangaluru/karnataka-man-loses-rs-10-lakh-in-online-stock-market-scam-after-facebook-link-trap/articleshow/123276720.cms",
+   "date": "08/13/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-13T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "3 cyber fraud rackets busted; 6 held across multiple states",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/delhi/3-cyber-fraud-rackets-busted-6-held-across-multiple-states/articleshow/131021914.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-131021912,width-1280,height-720,imgsize-50572,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNPVzVLZFdkeVVWOWhNemhJVFJDZ0F4amlCU2dLTWdtWk00akxwYU5NWmdJ",
+   "date": "05/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-11T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "2 from Guj held in ₹28cr pan-India share trade scam",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/2-from-gujarat-arrested-in-28-crore-panindia-share-trade-scam/articleshow/107442384.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+   "date": "02/06/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-02-06T08:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Former director of company in Chakan MIDC loses 11 crore to online share-trading fraud",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mihir Tanksale"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/pune/former-director-of-company-in-chakan-midc-loses-11-crore-to-online-share-trading-fraud/articleshow/128684686.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-128712387,width-1280,height-720,imgsize-36948,resizemode-72,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFNM0ZKYld4c2JFOW1SRmRrVFJDZkF4amlCU2dLTWdZcE5Zck9uUWc",
+   "date": "02/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-23T08:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Thane Man Duped Of Rs 1.23 Crore In Share Trading Fraud, 3 Arrested",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/cities/thane-man-duped-of-rs-1-23-crore-in-share-trading-fraud-3-arrested-8083417",
+   "thumbnail": "https://c.ndtvimg.com/2024-09/207atukg_cyber-fraud_625x300_06_September_24.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZNMmRVYjBkSE9USlBOelJwVFJDeUF4akNCU2dLTWdtWlFvZ3luV2VTTkFF",
+   "date": "04/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-04T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Raids on Gujarat IPS officer’s home for alleged stock market fraud",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/ahmedabad/raids-on-gujarat-ips-officers-home-for-alleged-stock-market-fraud/articleshow/119270108.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-119280450,width-1280,height-720,resizemode-72/119280450.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5SRXhJUW10UlEwaDFiMk16VFJDZkF4ampCU2dLTWdB",
+   "date": "03/21/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-03-21T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "₹1.07 Crore Online Share Trading Fraud Busted in Mumbai",
+   "source": {
+    "name": "GujaratSamachar English",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://english.gujaratsamachar.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://english.gujaratsamachar.com/news/mumbai/indian-rupee107-crore-online-share-trading-fraud-six-arrested-53962970837",
+   "thumbnail": "https://cdn.gujaratsamachar.com/media/post/2026/07/c99f8f4cae2de5ca2af6d0619b918022.jpg?w=1060&f=webp&q=90",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRXRnBrZUVKalJHOHpjV2g1VFJDb0FSaXNBaWdCTWdZdHc0aFJTUVE",
+   "date": "07/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-03T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Rourkela police busts fake pan-India share trading racket, nine arrested",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prasanjeet Sarkar"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/states/odisha/2025/Apr/09/rourkela-police-busts-pan-india-fake-share-trading-racket-nine-arrested",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress%2F2025-04-03%2Fw5b82nv1%2F202501043293519.jpg?rect=0%2C0%2C299%2C168&w=480&auto=format%2Ccompress&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBkVUpMV25od1pHcFpNQzFXVFJDTkFoamdBeWdLTWdrQk1Jcml3cU9wNUFJ",
+   "date": "04/09/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-09T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Delhi Police Arrest Three in Noida Over Cyber Investment Fraud Network",
+   "source": {
+    "name": "The420.in",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://the420.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://the420.in/noida-cyber-investment-fraud-telegram-146-sim-cards-three-arrested/",
+   "thumbnail": "https://the420.in/wp-content/uploads/2026/08/telegram-scam.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRSR1V4TWpKQ2QzSmtTemxVVFJDZkF4ampCU2dLTWdtZFk0anFNV1JVQ1FJ",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Gujarat Cyber Centre of Excellence busts 4 investment fraud cases involving Rs 35.4 cr",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/ahmedabad/nine-arrested-gujarat-cyber-centre-of-excellence-busts-4-investment-fraud-cases-valued-at-rs-35-4-cr-10472024/",
+   "thumbnail": "https://images.indianexpress.com/2026/01/police-constable-3col_1072ec.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlPV0ZHVWtrNVpXVktNSE5WVFJDZkF4ampCU2dLTWdZQkFKVEFKQWc",
+   "date": "01/14/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-14T08:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Punjab police file forgery case based on former IPS officer's suicide note alleging Rs 8 crore cyber fraud",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harpreet Bajwa"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/india/2025/Dec/23/punjab-police-file-forgery-case-based-on-former-ips-officers-suicide-note-alleging-rs-8-crore-cyber-fraud",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-12-22/qu1clgo5/punjab-ips-suicide.png?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRPRmhZYlhReGNrTjFlRXN5VFJDbkF4alZCU2dLTWdZaFZvRHNOUVE",
+   "date": "12/23/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-23T08:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "SMC busts fake stock market advisory racket, seven held",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/surat/smc-busts-fake-stock-market-advisory-racket/articleshow/106713445.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-106713443,width-1280,height-720,resizemode-72/106713443.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUtNMmh3VW5ZNFNsTk5XRFE0VFJDZkF4amtCU2dLTWdB",
+   "date": "01/11/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-01-11T08:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "IIT-trained hacker arrested in Rs 22 lakh stock advisory scam linked to Cambodia cybercrime network",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/iit-trained-hacker-arrested-in-rs-22-lakh-stock-advisory-scam-linked-to-cambodia-cybercrime-network/articleshow/121289106.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-121289137,width-1200,height-900,resizemode-4,imgsize-8216/iit-trained-hacker-arrested-in-rs-22-lakh-stock-advisory-scam-linked-to-cambodia-cybercrime-network.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdMVlp6T0ZCemVuZHVOM3BYVFJEZ0F4aUFCU2dLTWdB",
+   "date": "05/20/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-20T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Bengaluru cops raid illegal call centre, arrest 2 men for trading fraud",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-cops-raid-illegal-call-centre-arrest-2-men-for-trading-fraud/articleshow/116924498.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-116930975,width-1280,height-720,resizemode-72/116930975.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRNWE13T1dZM1YyVjRVak5pVFJDZkF4ampCU2dLTWdrSkVvU0ZLaVJOOGdB",
+   "date": "01/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-04T08:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Sixth accused arrested in Rs 3-cr stock investment fraud case",
+   "source": {
+    "name": "The Tribune",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.tribuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tribuneindia.com/news/chandigarh/sixth-accused-arrested-in-3-cr-stock-investment-fraud-case/",
+   "thumbnail": "https://www.tribuneindia.com/sortd-service/imaginary/v22-01/jpg/large/high?url=dGhldHJpYnVuZS1zb3J0ZC1wcm8tcHJvZC1zb3J0ZC9tZWRpYTAxYzM4OWIwLTE3Y2EtMTFmMC05YzRkLWExYjFjMjMzZTcyMi5qcGc=",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9jRzEyZHpaSFNVdDRWMmw0VFJERUF4aW1CU2dLTWdhVk5JYXFNUVE",
+   "date": "04/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-12T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Police arrest two mule account holders while probing fraud",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/pune/police-arrest-two-mule-account-holders-while-probing-fraud/articleshow/124265494.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-124265682,width-1280,height-720,resizemode-72/124265682.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNVbFUxYkdSeE4zb3pWVzlVVFJDZkF4amlCU2dLTWdrWkE0aEluYVZVRmdF",
+   "date": "10/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-02T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Mumbai police bust online fraud: 2 arrested in connection with Rs 60.35 lakhs investment scam",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/mumbai-police-bust-online-fraud-2-arrested-in-connection-with-rs-60-35-lakhs-investment-scam/articleshow/108212385.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-108212474,width-1280,height-720,resizemode-72/108212474.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdMV293YUZWeFFYcFZRV3h5VFJDZkF4ampCU2dLTWdZQk1ZakNSZ00",
+   "date": "03/04/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-03-04T08:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "3 held in Mumbai for Rs 2.77 cr fraud: WhatsApp trading scam lured victim with fake app; 28 cases registere...",
+   "source": {
+    "name": "Bhaskar English",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bhaskarenglish.in/local/maharashtra/news/3-held-in-mumbai-for-rs-277-cr-fraud-whatsapp-trading-scam-lured-victim-with-fake-app-134933469.html",
+   "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/04/29/1000517243_1745939128.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1SbWQxZVdSWVYzUlFOSGwxVFJEZ0F4aUFCU2dLTWdZRkFaU2trQXM",
+   "date": "04/29/2025, 05:23 PM, +0000 UTC",
+   "iso_date": "2025-04-29T17:23:41Z"
+  },
+  {
+   "position": 47,
+   "title": "‘Company director’ among 2 held for Rs 3.6 crore share trade fraud",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nitasha Natu"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/co-director-among-2-held-for-3-6cr-share-trade-fraud/articleshow/121504263.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-121504262,width-1280,height-720,resizemode-72/121504262.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhORXRtWW1OQ01GZFhZWE5mVFJDZkF4amlCU2dLTWdtWkE0aEluYVZVRlFF",
+   "date": "05/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-30T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Fake share advisory call centre busted, three arrested",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/indore/fake-share-advisory-call-centre-busted-three-arrested/articleshow/121241431.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-121241430,width-1280,height-720,resizemode-72/121241430.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJSVXBJWWxoaGRuQlpjMFpEVFJDZ0F4amlCU2dLTWdZbHhJS014UU0",
+   "date": "05/18/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-18T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Stock market scam: Retd Brigadier duped of 4 crore by cyber fraudsters",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/chandigarh/brigadier-duped-of-4-crore-by-cyber-fraudsters-9599250/",
+   "thumbnail": "https://images.indianexpress.com/2024/10/stock-market.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlRbWhKZFhGdk9WQXdjWGN4VFJDZkF4ampCU2dLTWdZaEE0eFBLUVk",
+   "date": "10/02/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-02T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Sebi bans media guest expert Sanjiv Bhasin, 11 others from securities market for stock manipulation",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-bans-media-guest-expert-sanjiv-bhasin-11-others-from-securities-market-for-stock-manipulation/articleshow/121912343.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-121912372,width-1280,height-720,resizemode-4/121912372.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXljVkZNVHpGMWFWTjVhVEJHVFJDZkF4ampCU2dLTWdZeGhJNlBOUVk",
+   "date": "06/17/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-17T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Bengaluru Police arrest Axis Bank manager, 3 sales executives in a Rs 97-crore stock-market fraud",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/bengaluru-police-arrest-axis-bank-manager-3-sales-executives-in-a-rs-97-crore-stock-market-fraud-12842502.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2015/01/axis-bank-357_4414_356_18931793.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OV1ZOT1ZjeVlrdzFaamhpVFJDZkF4ampCU2dLTWdZdFVZNHhLUWs",
+   "date": "10/15/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-15T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Dewas police raid 13 fraud call centres, seven arrested",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/indore/dewas-police-raid-13-fraud-call-centres-seven-arrested/articleshow/118767388.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-117621496,width-1280,height-720,resizemode-72/117621496.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNRnBqVW5CdVdFUkVPV0kyVFJDZkF4ampCU2dLTWdhbFZJcU1wUVE",
+   "date": "03/06/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-03-06T08:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Digital arrest to UPI fraud: How to stay safe from top cyber scams",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anjaly Raj"
+    ]
+   },
+   "link": "https://www.business-standard.com/technology/tech-news/protect-yourself-cyber-scams-india-digital-arrest-investment-fraud-126062500136_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/26/thumb/featurecrop/1200X628/1761497715-1679.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBTbkJrTVZWRlRFcElaVTVOVFJDUUF4ai1CU2dLTWdrQllJclNPQ1dhandF",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Bhiwandi man held for aiding cyber cheats in share trading scam",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/city/mumbai/bhiwandi-man-held-for-aiding-cyber-cheats-in-share-trading-scam/articleshow/121343674.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-121344195,width-1280,height-720,resizemode-72/121344195.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhORXRtWW1OQ01GZFhZWE5mVFJDZkF4amlCU2dLTWdtWkE0aEluYVZVRlFF",
+   "date": "05/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-22T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Ketan Parekh: The Rs 40,000 Crore Scam That Sank the Market",
+   "source": {
+    "name": "marketfeed",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketfeed.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketfeed.com/read/en/the-ketan-parekh-scam-of-2001",
+   "thumbnail": "https://www.marketfeed.com/api/media/file/the-ketan-parekh-scam-of-2001-hero-1200x675-kJpNvVIxmAgdfKkOBj4FxCIoNgS1bM-1-1200x675.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFaRXR6UzI4eFdEUnJhMjQxVFJDZkF4ampCU2dLTWdhTlVvd1V3UVE",
+   "date": "08/02/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-08-02T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "8 cyber fraudsters linked to Rs 83cr scam; arrested in Gurgaon",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mahesh Buddi"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/8-cyber-fraudsters-linked-to-rs-83cr-scam-arrested-in-gurgaon/articleshow/117208122.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/resizemode-4,width-1280,msid-33486062/33486062.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUVSbFZUWWxSa04wZEpWWGQ0VFJERUF4aW1CU2dLTWdNSmt4SQ",
+   "date": "01/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-13T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Money heist-inspired gang behind Rs 150-crore online scam busted in Delhi",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Himanshu Mishra"
+    ]
+   },
+   "link": "https://www.indiatoday.in/india/story/money-heist-inspired-gang-behind-rs-150-crore-online-scam-busted-in-delhi-2815133-2025-11-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202511/bhopal-digital-arrest-07411261-16x9_0.jpg?VersionId=rgPobTk47twkv04CLzMgMZhNfmsWuVnv&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBZa3RhTWw5U2VtVTFRMlZwVFJDZkF4ampCU2dLTWdB",
+   "date": "11/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-07T08:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Chennai engineer held for Rs 8.5 crore pan India AI stock trading scam",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newindianexpress.com/states/tamil-nadu/2025/May/20/chennai-engineer-held-for-rs-85-crore-pan-india-ai-stock-trading-scam",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2025-05-20/yy4csvl8/cyber-crime-briefing-.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZWRVF3ZUd0V1h6VlpSMWxEVFJDZkF4ampCU2dLTWdrQklJSWtvZVV0cFFJ",
+   "date": "05/20/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-20T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "ET Wealth Edition 14 June 2026",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/wealth/8-june-2026/editionlist/131526655.cms",
+   "thumbnail": "https://img.etimg.com/thumb/height-450,width-800,msid-131544068,imgsize-57894/cyber-fraud.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdhR1JWZFVWaU9VOWtNazFxVFJDb0FSaXNBaWdCTWdhSmdvWXh1UVE",
+   "date": "06/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-08T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Delhi court grants bail to alleged mastermind of Rs 91 lakh cyber fraud",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nirbhay Thakur"
+    ]
+   },
+   "link": "https://indianexpress.com/article/cities/delhi/delhi-court-bail-cyber-fraud-9541018/",
+   "thumbnail": "https://images.indianexpress.com/2024/08/cyberfraud_d18abe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVZOVmxhZDFKWk5FRlVhR05XVFJDZkF4ampCU2dLTWdrZFVJQXJTV0tTendF",
+   "date": "08/30/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-08-30T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "2 cyber fraudsters swindle Delhi man in fake investment scheme, arrested",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/delhi/cyber-fraudsters-dupe-man-fake-investment-scheme-arrested-9994117/",
+   "thumbnail": "https://images.indianexpress.com/2025/05/cyber-fraud.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTBlRXcxTkRVMFVHUmZkVzFDVFJDZkF4ampCU2dLTWdrZFVJQXFSV0tTN3dF",
+   "date": "05/10/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-10T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Tamil Nadu: Two arrested in cyber cons involving lakhs",
+   "source": {
+    "name": "DT Next",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dtnext.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.dtnext.in/news/tamilnadu/tamil-nadu-two-arrested-in-cyber-cons-involving-lakhs-830689",
+   "thumbnail": "https://media.assettype.com/dt-next/import/h-upload/2024/04/02/813701-754156-arrest.webp?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlPRmhaYzJKNVZYQkhWMlZvVFJDdEF4akxCU2dLTWdhSkZJYnB4UU0",
+   "date": "04/20/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-20T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Cybercrime police arrest two in investment fraud cases in Malkajgiri",
+   "source": {
+    "name": "Hyderabad Mail",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://hyderabadmail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsha Vardhini"
+    ]
+   },
+   "link": "https://hyderabadmail.com/malkajgiri-cybercrime-police-arrest-two-investment-fraud-cases/",
+   "thumbnail": "https://hyderabadmail.com/wp-content/uploads/2026/02/cyberabad.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNWalZ6UmtwWlVreENNRFpTVFJEbEF4ajRCQ2dLTWdZcGhZVE52UUk",
+   "date": "05/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-09T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Fraud with a legal twist: Lawyer among key accused in Rs 13.7L cyber scam",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tushar Tere"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/vadodara/fraud-with-a-legal-twist-lawyer-among-key-accused-in-rs-13-7l-cyber-scam/articleshow/120774275.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-117694053,width-1280,height-720,resizemode-4/117694053.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZWRlZvTFhod2RrVlpXVFpLVFJDZkF4ampCU2dLTWdtZFU0cXVwZVJVY1FF",
+   "date": "05/01/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-01T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Cyber crime: Four arrested for ‘defrauding’ Vadodara man of Rs 13.70 lakh",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/ahmedabad/cyber-crime-four-arrested-defrauding-vadodara-man-rs-13-70-lakh-9939869/",
+   "thumbnail": "https://images.indianexpress.com/2025/02/bangalore-10.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlORWxDUkdReFRETlRhWFkzVFJDZkF4ampCU2dLTWdZUlVaSklMUWM",
+   "date": "04/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-12T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Faridabad police arrest 2 men from Delhi in Rs 93 lakh share market fraud case",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/delhi/faridabad-police-arrest-2-men-from-delhi-in-rs-93-lakh-share-market-fraud-case-10101188/",
+   "thumbnail": "https://images.indianexpress.com/2025/06/Cyber-Fraud-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpWRXh0TWpOR1NHRnZUMlJNVFJDZkF4ampCU2dLTWdZUlVaWXVvUWc",
+   "date": "07/02/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-02T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Pune Rs 2.5 crore fraud: Man linked to cyber racketeers from Pakistan, Dubai, Nepal held",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://indianexpress.com/article/cities/pune/pune-rs-2-5-crore-fraud-man-linked-to-cyber-racketeers-from-pakistan-dubai-nepal-held-9940945/",
+   "thumbnail": "https://images.indianexpress.com/2025/04/pimpri-online-fraud.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5OSFJKWlc1NFgyVldSbDh6VFJDZkF4ampCU2dLTWdZQm9JNmtQUWM",
+   "date": "04/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-12T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Bank staffer & trader help cyber cons open account to park defrauded funds, arrested",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mahesh Buddi"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/gurgaon/bank-staffer-trader-help-cyber-cons-open-account-to-park-defrauded-funds-arrested/articleshow/118461801.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-118461799,width-1280,height-720,resizemode-72/118461799.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJXV0ZETnpsSVUxVk9VMVJpVFJDZ0F4amlCU2dLTWdZTk1vN25IQWM",
+   "date": "02/22/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-22T08:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Telegram group cyber investment fraud busted | Mumbai news",
+   "source": {
+    "name": "Hindustan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vinay Dalvi"
+    ]
+   },
+   "link": "https://www.hindustantimes.com/cities/mumbai-news/telegram-group-cyber-investment-fraud-busted-101738954767553.html",
+   "thumbnail": "https://www.hindustantimes.com/ht-img/img/2024/12/18/1600x900/Cities_1_1734524006079_1734524020011.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXFWbmhoYURSWFJVUndlR1IzVFJDZkF4ampCU2dLTWdNQmtBUQ",
+   "date": "02/08/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-02-08T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Vadodara cyber crime busts fake stock market fraud gang: 3 youths arrested for ₹8 crore online investment s...",
+   "source": {
+    "name": "Bhaskar English",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bhaskarenglish.in/local/gujarat/vadodara/news/vadodara-cyber-crime-busts-fake-stock-market-fraud-gang-3-youths-arrested-for-8-crore-online-investment-136364729.html",
+   "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/11/08/img-20251108-wa0004_1762569704.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxObUpKYWtOaVlVTm5Zazg1VFJEZ0F4aUFCU2dLTWdhTkFwb21qUXM",
+   "date": "11/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-07T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Kota bank manager diverts Rs 4.6 crore from customer accounts, loses it all in stock market",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/icici-bank-manager-diverts-rs-4-6-crore-from-customer-accounts-loses-it-all-in-stock-market/articleshow/121670048.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-121671217,width-1200,height-900,resizemode-4,imgsize-7968/kota-bank-manager-fraud.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDRWMUpXY1VkTGRGZ3haVmxPVFJEZ0F4aUFCU2dLTWdtWllaYjJMS2lhS2dJ",
+   "date": "06/07/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-07T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Penny stocks scam: Sebi raids Pune finfluencer Avadhut Sathe with 9 lakh YouTube subscribers",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Riya Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/penny-stocks-scam-sebi-raids-pune-finfluencer-avadhut-sathe-with-9-lakh-youtube-subscribers/articleshow/123450364.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-123450362,width-1200,height-900,resizemode-4,imgsize-18406/penny-stocks-scam-sebi-raids-pune-finfluencer-avadhut-sathe-with-9-lakh-youtube-subscribers.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTRGgxZWtSaFlrWkRVbVJFVFJEZ0F4aUFCU2dLTWdhaE5vanNuUWs",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Investment scheme fraud: ED arrests four in Chennai",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Siddharth Prabhakar"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/chennai/investment-scheme-fraud-ed-arrests-four-in-chennai/articleshow/79665010.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-79664984,imgsize-11164,width-400,height-225,resizemode-72/79664984.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlNR2RGYXpBNU5uTkNRMVp6VFJEaEFSaVBBeWdLTWdhTllvWW5RUU0",
+   "date": "12/10/2020, 08:00 AM, +0000 UTC",
+   "iso_date": "2020-12-10T08:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "MBA graduate held in Rs 12 cr fraud case",
+   "source": {
+    "name": "The Hans India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehansindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehansindia.com/news/national/mba-graduate-held-in-rs-12-cr-fraud-case-1059965",
+   "thumbnail": "https://assets.thehansindia.com/h-upload/2026/03/27/1639206-odisha-assembly.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWlPWGxQU3pCcWJFdzRRMGd3VFJDdEF4akxCU2dLTWdB",
+   "date": "03/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-27T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Man arrested in Bengal over Rs 3.35 crore stock market fraud case",
+   "source": {
+    "name": "The Hans India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehansindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehansindia.com/news/national/man-arrested-in-bengal-over-rs-335-crore-stock-market-fraud-case-1043461",
+   "thumbnail": "https://assets.thehansindia.com/h-upload/2026/01/29/1621918-arrested.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTBXbU5sWlZKdVpUZ3lkRUZYVFJDdEF4akxCU2dLTWdB",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Mumbai Cyber Fraud: Mulund Finance Consultant Duped Of ₹74.35 Lakh In Online Share Trading Scam, Case",
+   "source": {
+    "name": "Free Press Journal",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.freepressjournal.in/mumbai/mumbai-cyber-fraud-mulund-finance-consultant-duped-of-7435-lakh-in-online-share-trading-scam-case-registered",
+   "thumbnail": "https://media.assettype.com/freepressjournal/2025-10-18/b38x9kca/Cyber-Crime-5.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1iWHAxU1cxYVRFc3pVR05rVFJDZkF4ampCU2dLTWdhWllwQkpzZ1k",
+   "date": "10/18/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-18T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Mumbai Cybercrime: Police Arrest Director Of Ascent IT Services In ₹4.12 Crore Share Market Fraud Case",
+   "source": {
+    "name": "Free Press Journal",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.freepressjournal.in/mumbai/mumbai-cybercrime-police-arrest-director-of-ascent-it-services-in-412-crore-share-market-fraud-case",
+   "thumbnail": "https://media.assettype.com/freepressjournal/2025-10-08/udcpqol5/Cyber-Crime-2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVM053YkVsalIwOHlVV1F6VFJDZkF4ampCU2dLTWdhaEJvNExEZ28",
+   "date": "10/08/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-08T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Navi Mumbai Cyber Police Bust Fake Call Centre Racket; 20 Arrested For ₹12-Crore Stock Scam And Ransomware",
+   "source": {
+    "name": "Free Press Journal",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.freepressjournal.in/mumbai/navi-mumbai-cyber-police-bust-fake-call-centre-racket-20-arrested-for-12-crore-stock-scam-and-ransomware-attacks-on-us-citizens",
+   "thumbnail": "https://media.assettype.com/freepressjournal/2025-11-20/irm2z072/FotoJet-2025-11-20T204511.310.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRSVGw0TVRRME1WbFdNV0k0VFJDZkF4ampCU2dLTWdZUllKWndKQWc",
+   "date": "11/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-20T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-12T03:11:18"
+}

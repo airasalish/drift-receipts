@@ -1,0 +1,798 @@
+{
+ "search_metadata": {
+  "id": "6acb1e602f47f88053e4bc70",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/8epmutHC_VMWFP1R0geWMc7sxKSueciz_MSDHRXBb2I/6acb1e602f47f88053e4bc70.json",
+  "markdown_endpoint": "https://serpapi.com/searches/8epmutHC_VMWFP1R0geWMc7sxKSueciz_MSDHRXBb2I/6acb1e602f47f88053e4bc70.md",
+  "created_at": "2026-10-11 05:28:00 UTC",
+  "processed_at": "2026-10-11 05:28:00 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=v5-TPHSkalE",
+  "raw_html_file": "https://serpapi.com/searches/8epmutHC_VMWFP1R0geWMc7sxKSueciz_MSDHRXBb2I/6acb1e602f47f88053e4bc70.html",
+  "prettify_html_file": "https://serpapi.com/searches/8epmutHC_VMWFP1R0geWMc7sxKSueciz_MSDHRXBb2I/6acb1e602f47f88053e4bc70.prettify",
+  "total_time_taken": 1.54
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "v5-TPHSkalE",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha",
+ "thumbnail": "https://i.ytimg.com/vi/v5-TPHSkalE/maxresdefault.jpg",
+ "channel": {
+  "name": "Sagar Sinha Daily",
+  "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@sagarsinhadaily",
+  "subscribers": "1.33M subscribers",
+  "extracted_subscribers": 1330000,
+  "verified": true
+ },
+ "views": "58,708 views",
+ "extracted_views": 58708,
+ "likes": "1.7K",
+ "extracted_likes": 1700,
+ "published_date": "Jan 23, 2026",
+ "description": {
+  "content": "💰📊 Invest In Mutual Fund SIP, SWP, Stocks | Open FREE Demat Account\nhttps://tinyurl.com/firstpunji\n\n👉🎯Crypto Trading FREE Telegram \nhttps://t.me/officialcryptoprotraders\n\n👉CoinDCX - Get 20% Discount On Brokerage Using This Link \nhttps://join.coindcx.com/invite/Az7y2\n\n👉 Sagar Sinha - FREE Official Telegram Channel\nhttps://t.me/coachsagarsinha\n\n Sagar Sinha Twitter - https://x.com/CoachSagarSinha\n\n👉Best Term Insurance and Get upto 15% Discount \nhttps://tinyurl.com/ssTermpb\n\n👉Best Health Insurance and Get upto 25% Discount \nhttps://tinyurl.com/ssHealthpb \n\n👉The Real Rich Book IN Hindi - Amazon & Flipkart\nhttps://amzn.to/4bYZwDt\n\n2026 Wealth Plan | 10 Smart Investment Tips | Stocks, SIP & Mutual Funds | Sagar Sinha\n\nConnect -  \nEmail - biz.sagarsinha@gmail.com   \nFacebook–   / sagarsinhamotivation  \nYoutube -    / @sagarsinhamotivation  \nYT Shorts-    / @sagarsinhashorts  \nYT Clips -    / @sagarsinhaclips  \nInstagram-   / coachsagarsinha  \nLinkedin-   / sagar-sinha-87142333  \nTelegram - https://t.me/coachsagarsinha\n‎WhatsApp - https://whatsapp.com/channel/0029Vb5i...\n\nDisclaimer\n-------------------------------\nThis video is created solely for educational and informational purposes and is based on individual research. It should not be considered as financial, investment, or trading advice. We are not SEBI-registered investment advisors or analysts. Viewers are strongly advised to conduct their own research and consult with a SEBI-registered financial advisor before making any investment decisions.\nAs per SEBI’s study on the derivatives segment, nine out of ten traders in the Futures & Options (F&O) market incur losses, with the average loss-making trader losing significantly more than the profitable ones gain. Trading in derivatives involves substantial risk and is not suitable for all investors.\nRegarding cryptocurrencies in India: Cryptocurrencies are currently not considered legal tender in India, but trading and holding crypto assets is not banned. However, they are unregulated, and the Government of India, RBI, and SEBI have repeatedly cautioned investors about the high volatility and risk of fraud. Crypto gains are subject to a 30% tax on profits and 1% TDS on transactions as per the current tax laws. Regulatory frameworks may change in the future, and viewers should stay updated with official guidelines before making any decisions in this space.\nStock market investments are subject to market risks, and past performance is not indicative of future results. We do not guarantee any profits or protection against losses. This content is for educational purposes only and is based on personal research. Viewers should always conduct their own due diligence before making any financial decisions.\nBy watching this video, you acknowledge that we and our representatives are not liable for any financial losses or decisions made based on the information provided. Always trade and invest responsibly.\n\n#investment #investing #finance #personalfinance #stockmarket #trading #wealthcreation #compounding #financialfreedom #moneymaking #financialliteracy",
+  "links": [
+   {
+    "start_index": 70,
+    "length": 30,
+    "text": "tps://tinyurl.com/firstpunji\n\n",
+    "url": "https://tinyurl.com/firstpunji"
+   },
+   {
+    "start_index": 136,
+    "length": 37,
+    "text": "s://t.me/officialcryptoprotraders\n\n👉C",
+    "url": "https://t.me/officialcryptoprotraders"
+   },
+   {
+    "start_index": 234,
+    "length": 37,
+    "text": "://join.coindcx.com/invite/Az7y2\n\n👉 S",
+    "url": "https://join.coindcx.com/invite/Az7y2"
+   },
+   {
+    "start_index": 321,
+    "length": 28,
+    "text": "//t.me/coachsagarsinha\n\n Sag",
+    "url": "https://t.me/coachsagarsinha"
+   },
+   {
+    "start_index": 374,
+    "length": 29,
+    "text": "//x.com/CoachSagarSinha\n\n👉Bes",
+    "url": "https://x.com/CoachSagarSinha"
+   },
+   {
+    "start_index": 454,
+    "length": 28,
+    "text": "/tinyurl.com/ssTermpb\n\n👉Best",
+    "url": "https://tinyurl.com/ssTermpb"
+   },
+   {
+    "start_index": 535,
+    "length": 30,
+    "text": "tinyurl.com/ssHealthpb \n\n👉The ",
+    "url": "https://tinyurl.com/ssHealthpb"
+   },
+   {
+    "start_index": 618,
+    "length": 23,
+    "text": "mzn.to/4bYZwDt\n\n2026 We",
+    "url": "https://amzn.to/4bYZwDt"
+   },
+   {
+    "start_index": 789,
+    "length": 26,
+    "text": "sinhamotivation  \nYoutube ",
+    "url": "https://www.facebook.com/sagarsinhamotivation"
+   },
+   {
+    "start_index": 826,
+    "length": 28,
+    "text": "arsinhamotivation  \nYT Short",
+    "url": "https://www.youtube.com/@sagarsinhamotivation"
+   },
+   {
+    "start_index": 866,
+    "length": 24,
+    "text": "arsinhashorts  \nYT Clips",
+    "url": "https://www.youtube.com/@sagarsinhashorts"
+   },
+   {
+    "start_index": 902,
+    "length": 23,
+    "text": "arsinhaclips  \nInstagra",
+    "url": "https://www.youtube.com/@sagarsinhaclips"
+   },
+   {
+    "start_index": 937,
+    "length": 21,
+    "text": "sagarsinha  \nLinkedin",
+    "url": "https://www.instagram.com/coachsagarsinha/"
+   },
+   {
+    "start_index": 969,
+    "length": 26,
+    "text": "-sinha-87142333  \nTelegram",
+    "url": "https://www.linkedin.com/in/sagar-sinha-87142333/"
+   },
+   {
+    "start_index": 1007,
+    "length": 28,
+    "text": ".me/coachsagarsinha\n‎WhatsAp",
+    "url": "https://t.me/coachsagarsinha"
+   },
+   {
+    "start_index": 1048,
+    "length": 40,
+    "text": "hatsapp.com/channel/0029Vb5i...\n\nDisclai",
+    "url": "https://whatsapp.com/channel/0029Vb5ix71DZ4LaMOGMC32y"
+   },
+   {
+    "start_index": 2950,
+    "length": 11,
+    "text": "nt #investi",
+    "url": "https://www.youtube.com/hashtag/investment",
+    "type": "browse"
+   },
+   {
+    "start_index": 2962,
+    "length": 10,
+    "text": "g #finance",
+    "url": "https://www.youtube.com/hashtag/investing",
+    "type": "browse"
+   },
+   {
+    "start_index": 2973,
+    "length": 8,
+    "text": "#persona",
+    "url": "https://www.youtube.com/hashtag/finance",
+    "type": "browse"
+   },
+   {
+    "start_index": 2982,
+    "length": 16,
+    "text": "finance #stockma",
+    "url": "https://www.youtube.com/hashtag/personalfinance",
+    "type": "browse"
+   },
+   {
+    "start_index": 2999,
+    "length": 12,
+    "text": "ket #trading",
+    "url": "https://www.youtube.com/hashtag/stockmarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 3012,
+    "length": 8,
+    "text": "#wealthc",
+    "url": "https://www.youtube.com/hashtag/trading",
+    "type": "browse"
+   },
+   {
+    "start_index": 3021,
+    "length": 15,
+    "text": "eation #compoun",
+    "url": "https://www.youtube.com/hashtag/wealthcreation",
+    "type": "browse"
+   },
+   {
+    "start_index": 3037,
+    "length": 12,
+    "text": "ing #financi",
+    "url": "https://www.youtube.com/hashtag/compounding",
+    "type": "browse"
+   },
+   {
+    "start_index": 3050,
+    "length": 17,
+    "text": "lfreedom #moneyma",
+    "url": "https://www.youtube.com/hashtag/financialfreedom",
+    "type": "browse"
+   },
+   {
+    "start_index": 3068,
+    "length": 12,
+    "text": "ing #financi",
+    "url": "https://www.youtube.com/hashtag/moneymaking",
+    "type": "browse"
+   },
+   {
+    "start_index": 3081,
+    "length": 18,
+    "text": "lliteracy",
+    "url": "https://www.youtube.com/hashtag/financialliteracy",
+    "type": "browse"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "61_ouz8Rr4s",
+   "link": "https://www.youtube.com/watch?v=61_ouz8Rr4s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=61_ouz8Rr4s",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/61_ouz8Rr4s/hqdefault_custom_2.jpg?sqp=CKy7rNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1knMQlqo1JIHV-myjfN2R2CGILQ",
+    "rich": "https://i.ytimg.com/an_webp/61_ouz8Rr4s/mqdefault_6s.webp?du=3000&sqp=CMahrNYG&rs=AOn4CLBgzPthQ2igTDeDnt6vftEKXY1K3g"
+   },
+   "title": "Stock Market Crash, Gold, US Stocks & Bulletproof Portfolio | Saurabh Mukherjea | FO573 Raj Shamani",
+   "published_date": "13h ago",
+   "views": "303K",
+   "extracted_views": 303000,
+   "channel": {
+    "name": "Raj Shamani",
+    "link": "https://www.youtube.com/@rajshamani",
+    "thumbnail": "https://yt3.ggpht.com/qSVJkhoSs6lw5cNMsZAJ8ZAk1pxiewDb_gLtnzOsyM5TWQ6YggQj0eBetOLSxFuJqgxsyQ73NA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "7pskkrMWpo4",
+   "link": "https://www.youtube.com/watch?v=7pskkrMWpo4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7pskkrMWpo4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/7pskkrMWpo4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1XpTDb9J2ctp_B_iem9bLOhfGZw",
+    "rich": "https://i.ytimg.com/an_webp/7pskkrMWpo4/mqdefault_6s.webp?du=3000&sqp=CN6irNYG&rs=AOn4CLBYHnCUoe75UG87Cu21DRbCY4Woqw"
+   },
+   "title": "Nifty Bounces Back, But FIIs Are Still Selling! What Next? | The N Show ",
+   "published_date": "1h ago",
+   "views": "4.2K",
+   "extracted_views": 4200,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "tPIHG6h_UfA",
+   "link": "https://www.youtube.com/watch?v=tPIHG6h_UfA&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tPIHG6h_UfA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tPIHG6h_UfA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCkKTssbC-ysBUEiOfXJ3lhNhjMw",
+    "rich": "https://i.ytimg.com/an_webp/tPIHG6h_UfA/mqdefault_6s.webp?du=3000&sqp=CICqrNYG&rs=AOn4CLA1fhpHJiQj8hOlZUEyp9U9Lf0jWQ"
+   },
+   "title": "Best Investment Plan For Your Child | Best Child Financial Plan | SAGAR SINHA",
+   "published_date": "2d ago",
+   "views": "246K",
+   "extracted_views": 246000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "ehXiE7AogRM",
+   "link": "https://www.youtube.com/watch?v=ehXiE7AogRM&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ehXiE7AogRM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ehXiE7AogRM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4UZCJhn0HM-Ymo6E8Gg_T8DeniQ",
+    "rich": "https://i.ytimg.com/an_webp/ehXiE7AogRM/mqdefault_6s.webp?du=3000&sqp=CISZrNYG&rs=AOn4CLCUMeAP4SMLMwEHxwb-sR5E3xkVFg"
+   },
+   "title": "The Power of SIP Compounding | ₹10,000 Can Grow to ₹1 Crore? | Gajendra Kothari 🔥",
+   "published_date": "3d ago",
+   "views": "48K",
+   "extracted_views": 48000,
+   "channel": {
+    "name": "StocksVerse Studio",
+    "link": "https://www.youtube.com/@StocksVerseStudio",
+    "thumbnail": "https://yt3.ggpht.com/HzwgO6hqtUF_J9_J2Qz6H4oyv1OV1HyVNxi4rm9iw4NDcX8k3aqmOb_JvaYUEemsSdhO0_KWow=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New",
+    "Auto-dubbed"
+   ]
+  },
+  {
+   "video_id": "uoCoDwWO12s",
+   "link": "https://www.youtube.com/watch?v=uoCoDwWO12s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uoCoDwWO12s",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/uoCoDwWO12s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtE-6rA9YaQddZTCSxQX9-TgfxGA",
+    "rich": "https://i.ytimg.com/an_webp/uoCoDwWO12s/mqdefault_6s.webp?du=3000&sqp=CLearNYG&rs=AOn4CLA9671Hm91feQrCL9ygYJITtSZscw"
+   },
+   "title": "Middle Class se Rich Kaise Bane? Real Wealth Formula",
+   "published_date": "1mo ago",
+   "views": "197K",
+   "extracted_views": 197000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "vv1kf1mLj_M",
+   "link": "https://www.youtube.com/watch?v=vv1kf1mLj_M&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vv1kf1mLj_M",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/vv1kf1mLj_M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJfceBQY43UcRRa_cjCgIB4l8alw",
+    "rich": "https://i.ytimg.com/an_webp/vv1kf1mLj_M/mqdefault_6s.webp?du=3000&sqp=CPaArNYG&rs=AOn4CLCHfVvF-SPFnrVXujf4p-76gg0gFA"
+   },
+   "title": "छोटी SIP से करोड़ों की Wealth कैसे बनेगी  Mobile से SIP शुरू कैसे करें | Sagar Sinha",
+   "published_date": "3mo ago",
+   "views": "75K",
+   "extracted_views": 75000,
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte",
+    "thumbnail": "https://yt3.ggpht.com/fu8C3Km3tEJhOCmhxJ1LziTQy1nA-TyV_QI2wec4yogEwBwwlHqEarlZSygN3dB9_a0gNH4Lpg=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "PZzO5pJNS2A",
+   "link": "https://www.youtube.com/watch?v=PZzO5pJNS2A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PZzO5pJNS2A",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PZzO5pJNS2A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUGf4zqF-0FYPeN8R3NyEPzO8OAw",
+    "rich": "https://i.ytimg.com/an_webp/PZzO5pJNS2A/mqdefault_6s.webp?du=3000&sqp=CICkrNYG&rs=AOn4CLDHXxaW-s7Jk_gfgHJhkZltdyuGNA"
+   },
+   "title": "10 Big Salary Mistakes Everyone Makes | Sagar Sinha",
+   "published_date": "9mo ago",
+   "views": "133K",
+   "extracted_views": 133000,
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily",
+    "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "zlAF9lbf3hU",
+   "link": "https://www.youtube.com/watch?v=zlAF9lbf3hU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zlAF9lbf3hU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zlAF9lbf3hU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBsiy054jyqwjxzJ_wMP0iMTt0opw",
+    "rich": "https://i.ytimg.com/an_webp/zlAF9lbf3hU/mqdefault_6s.webp?du=3000&sqp=CM2RrNYG&rs=AOn4CLAoR4NptNmFblHT92yW7GbuqLvxhg"
+   },
+   "title": "From ₹3,000 Salary to Retiring at 47 from Apple | ₹24 LPA Passive Income | F.I.R.E. Masterclass",
+   "published_date": "2w ago",
+   "views": "214K",
+   "extracted_views": 214000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Km_2sVWr80M",
+   "link": "https://www.youtube.com/watch?v=Km_2sVWr80M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Km_2sVWr80M",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Km_2sVWr80M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCI5iiXRdS2joJ6hagxgpwobels7g",
+    "rich": "https://i.ytimg.com/an_webp/Km_2sVWr80M/mqdefault_6s.webp?du=3000&sqp=CK-prNYG&rs=AOn4CLDFko4IcbLrGQjahFsfNGat1hyTUQ"
+   },
+   "title": "SIP से करोड़पति बनने का Secret Formula @DeepakWadhwa.OFFICIAL | Chitresh Soni Podcast ",
+   "published_date": "11mo ago",
+   "views": "305K",
+   "extracted_views": 305000,
+   "channel": {
+    "name": "Chitresh Soni ",
+    "link": "https://www.youtube.com/@ChitreshSoni165",
+    "thumbnail": "https://yt3.ggpht.com/RVlK-PJRAKCadL2Snt6IWtpnUMar-qBWKGS5kQqXLSqFqW3OZ4LcShbqlYsAAYzSq1Ldq-jqpA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "wutNDRC1Dws",
+   "link": "https://www.youtube.com/watch?v=wutNDRC1Dws",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wutNDRC1Dws",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wutNDRC1Dws/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGSJz1w6UZP2UNvdx-NINx0KoqMw",
+    "rich": "https://i.ytimg.com/an_webp/wutNDRC1Dws/mqdefault_6s.webp?du=3000&sqp=CNmnrNYG&rs=AOn4CLDO6s45wVPU1gTEX_7_4StMI3NpOg"
+   },
+   "title": "₹ 5000 SIP to ₹100 Crore Wealth with Mutual Fund? Wealth Creation Secrets Ft. Gajendra Kothari",
+   "published_date": "4mo ago",
+   "views": "258K",
+   "extracted_views": 258000,
+   "channel": {
+    "name": "Vijay Vikram Singh",
+    "link": "https://www.youtube.com/@vijayvikramsingh6",
+    "thumbnail": "https://yt3.ggpht.com/k5F2tUrAvIE6BV5jRcVhWejcpmpYirgt1Sxe4bu5KG_U-wZn4iq1CAYy8jFZDsnCN_I3QhMsOw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "Y7_G3GuzfWk",
+   "link": "https://www.youtube.com/watch?v=Y7_G3GuzfWk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y7_G3GuzfWk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Y7_G3GuzfWk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUe_d2WKjo9rzNrv1Mu4qRqOCO3A",
+    "rich": "https://i.ytimg.com/an_webp/Y7_G3GuzfWk/mqdefault_6s.webp?du=3000&sqp=COSirNYG&rs=AOn4CLDkIXZ_Swg0S4YE_F3NwvTaXSZ1pw"
+   },
+   "title": "SIP से 62 Crore का Portfolio - ऐसे करो SIPs - Gajendra Kothari & Rahul Jain",
+   "published_date": "6mo ago",
+   "views": "711K",
+   "extracted_views": 711000,
+   "channel": {
+    "name": "Good 2 Great By Rahul Jain and 2 more"
+   }
+  },
+  {
+   "video_id": "85jzwhOd96U",
+   "link": "https://www.youtube.com/watch?v=85jzwhOd96U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85jzwhOd96U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/85jzwhOd96U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA60DJFLfEC5cmb6xSCN88tAkZVlA",
+    "rich": "https://i.ytimg.com/an_webp/85jzwhOd96U/mqdefault_6s.webp?du=3000&sqp=CJSIrNYG&rs=AOn4CLD_RfA7NmbwKDPqBZK6yCdRJb8Vjg"
+   },
+   "title": "SIP क्या होती है? SIP कैसे करें? | Complete Beginner's Guide | Sagar Sinha Money Bytes",
+   "published_date": "2mo ago",
+   "views": "274K",
+   "extracted_views": 274000,
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte",
+    "thumbnail": "https://yt3.ggpht.com/fu8C3Km3tEJhOCmhxJ1LziTQy1nA-TyV_QI2wec4yogEwBwwlHqEarlZSygN3dB9_a0gNH4Lpg=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "S5OackLZqgk",
+   "link": "https://www.youtube.com/watch?v=S5OackLZqgk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S5OackLZqgk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/S5OackLZqgk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDg3RemYMg8DpP5hTm1RHGZbKLLaQ",
+    "rich": "https://i.ytimg.com/an_webp/S5OackLZqgk/mqdefault_6s.webp?du=3000&sqp=CLqlrNYG&rs=AOn4CLBmt7fBqsoPsHox_c5QxWUxnC_Vkg"
+   },
+   "title": "करोड़पति बनने का महीन Formula? | Basesh Gala Podcast | Business, Naukri और Middle Class का सच",
+   "published_date": "1mo ago",
+   "views": "233K",
+   "extracted_views": 233000,
+   "channel": {
+    "name": "The Arvindams",
+    "link": "https://www.youtube.com/@TheArvindams",
+    "thumbnail": "https://yt3.ggpht.com/hMPeZ2f9qee64Y5sjzBfrCBH2Wqwf66AOzm2hxrzL_CFJ7cDB_rJxDbcNKkaDu6fxZx5530a6Rg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "bFhBdU1pbag",
+   "link": "https://www.youtube.com/watch?v=bFhBdU1pbag",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bFhBdU1pbag",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/bFhBdU1pbag/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOn48hEDjh2fanIX99tlmEesLClg",
+    "rich": "https://i.ytimg.com/an_webp/bFhBdU1pbag/mqdefault_6s.webp?du=3000&sqp=CJCNrNYG&rs=AOn4CLD-sLlOaWjOP-f21qUaLaU6fF4rew"
+   },
+   "title": "SIP से 31 Crore का Portfolio - ऐसे करो SIPs - Step-by-Step पूरा प्लान!",
+   "published_date": "5mo ago",
+   "views": "144K",
+   "extracted_views": 144000,
+   "channel": {
+    "name": "The KST Show",
+    "link": "https://www.youtube.com/@TheKSTShow",
+    "thumbnail": "https://yt3.ggpht.com/6Mq_wsOOLPj0JjKX4mEaVbOizbaDGFM5Fw4hhxNtM56OWT02_6OOnsTA7lE4rJ_5gbVR4m-5=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "ccdLV71ofZE",
+   "link": "https://www.youtube.com/watch?v=ccdLV71ofZE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ccdLV71ofZE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ccdLV71ofZE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDbH-8HI8s9lvQbRn-aW9DFXqaNmA",
+    "rich": "https://i.ytimg.com/an_webp/ccdLV71ofZE/mqdefault_6s.webp?du=3000&sqp=CPGnrNYG&rs=AOn4CLAgD56RXaqE-ZU2KtXPcRllLxGZCg"
+   },
+   "title": "How To Start SIP In US Stocks | Invest In AI | Complete Process Explained | SAGAR SINHA",
+   "published_date": "1mo ago",
+   "views": "392K",
+   "extracted_views": 392000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "TsYiM7COQac",
+   "link": "https://www.youtube.com/watch?v=TsYiM7COQac&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=TsYiM7COQac",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/TsYiM7COQac/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBQWZi67cbAdqiyTHbhFc2EsXdl1w",
+    "rich": "https://i.ytimg.com/an_webp/TsYiM7COQac/mqdefault_6s.webp?du=3000&sqp=CPmfrNYG&rs=AOn4CLBfBnhe8ZbpkupzrEhBl_lwGsdV_w"
+   },
+   "title": "SBI का सरकारी Pension Plan | Lumpsum Investment To Monthly Pension",
+   "published_date": "11mo ago",
+   "views": "3.8M",
+   "extracted_views": 3800000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "gH7mgBe7PTk",
+   "link": "https://www.youtube.com/watch?v=gH7mgBe7PTk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gH7mgBe7PTk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/gH7mgBe7PTk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDn8fR6wWRCBid3lrIoQODL6VHYAw",
+    "rich": "https://i.ytimg.com/an_webp/gH7mgBe7PTk/mqdefault_6s.webp?du=3000&sqp=CMuarNYG&rs=AOn4CLBD9VSXeq-NOD3aq54XdpQKCOVBOQ"
+   },
+   "title": "SIP का बाप - ETF  SIP से भी ज़्यादा कमाई  ETF क्या होता है | Sagar Sinha Money Bytes",
+   "published_date": "1mo ago",
+   "views": "375K",
+   "extracted_views": 375000,
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte",
+    "thumbnail": "https://yt3.ggpht.com/fu8C3Km3tEJhOCmhxJ1LziTQy1nA-TyV_QI2wec4yogEwBwwlHqEarlZSygN3dB9_a0gNH4Lpg=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+    "rich": "https://i.ytimg.com/an_webp/w_b8_rtiZKg/mqdefault_6s.webp?du=3000&sqp=CJi2rNYG&rs=AOn4CLCw1YqOZU315T81OtxR72jv20DmUA"
+   },
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "3d ago",
+   "views": "466K",
+   "extracted_views": 466000,
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi",
+    "thumbnail": "https://yt3.ggpht.com/FWqvZ-FTNej3vJ4-tso3uSGOjRsCDxTmB2lVCf1cKN3D__RBxwthab1b3P66n3K3Fb7vPFVJuw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "5lrA2UaYsBM",
+   "link": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5lrA2UaYsBM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5lrA2UaYsBM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-02pUst4aNiFgOVwsiQQ7u4wM6A",
+    "rich": "https://i.ytimg.com/an_webp/5lrA2UaYsBM/mqdefault_6s.webp?du=3000&sqp=CL-ArNYG&rs=AOn4CLDwYrxp_OXKTfISLhuce09OX-_0FA"
+   },
+   "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
+   "published_date": "3w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Np8RZMglfns",
+   "link": "https://www.youtube.com/watch?v=Np8RZMglfns",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Np8RZMglfns",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Np8RZMglfns/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAdOg3VNVQwPND1-9xpc5gVKDrfHw",
+    "rich": "https://i.ytimg.com/an_webp/Np8RZMglfns/mqdefault_6s.webp?du=3000&sqp=CLmwrNYG&rs=AOn4CLAYeJoQVk0g4SiSXjfCcFPMdIFNCg"
+   },
+   "title": "Mutual Fund सबसे बड़ा Fraud है | Sagar Sinha Podcast",
+   "published_date": "4d ago",
+   "views": "61K",
+   "extracted_views": 61000,
+   "channel": {
+    "name": "Sagar Sinha Podcast",
+    "link": "https://www.youtube.com/@sagarsinhapodcast_",
+    "thumbnail": "https://yt3.ggpht.com/rEfcmM7hRif6Fln1HJhloenVkbktH9vvQ8xfiSnYsl-li6jHcfEBA-gSraG6I2bJ9W4oqhDgew=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILdjUtVFBIU2thbEXAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnAZNZ29JLV95VndjeXN4TTgyMnM2TDZ3ekNCQXFfQkFvRDhqNEFDZzdDUGdzSWk5X0ctTE9YLXFfckFRb0Q4ajRBQ2c3Q1Bnc0lqczNhbUt1U3ljM3VBUW9EOGo0QUNnN0NQZ3NJOEtQOXc3cmpnZm0wQVFvRDhqNEFDZzNDUGdvSWs0S2lnYnZDLUlwNkNnUHlQZ0FLRHNJLUN3anJycnVzOElHcXdMb0JDZ1B5UGdBS0RzSS1Dd2p6bjY3TTlZX1pfcjRCQ2dQeVBnQUtEY0ktQ2dqZ2xyV1M2ZHl6emowS0FfSS1BQW9Pd2o0TENKVzhfN2Jsdm9Hb3pnRUtBX0ktQUFvTndqNEtDTVBtcjYyVjF2MjNLZ29EOGo0QUNnN0NQZ3NJaTU3VWhkR2gwX1hDQVFvRDhqNEFDZzNDUGdvSTZmck4zY2JiOGQ5akNnUHlQZ0FLRHNJLUN3aWw3X2Vjb2ZpOHpQTUJDZ1B5UGdBS0RjSS1DZ2lKMU9hV3BNN215VXNLQV9JLUFBb053ajRLQ0tqYnBldlVycENzYkFvRDhqNEFDZzNDUGdvSWtmdWg2X3ZxMHVOeENnUHlQZ0FLRGNJLUNnaW5nN21FdThhSTQwNEtBX0ktQUFvT3dqNExDTG42N0wyQjBMbV9nQUVLQV9JLUFBb093ajRMQ0tqSmlkdnJuN183d3dFS0FfSS1BQW9Pd2o0TENKUGc0clNVbTdDdDVnRUtBX0ktQUFvTndqNEtDUHY4bGNITXJNVFBOaElVQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZYUJBZ0FFQUVhQkFnQ0VBTWFCQWdFRUFVYUJBZ0dFQWNhQkFnSUVBa2FCQWdLRUFzYUJBZ01FQTBhQkFnT0VBOGFCQWdRRUJFYUJBZ1NFQk1hQkFnVUVCVWFCQWdXRUJjYUJBZ1lFQmthQkFnYUVCc2FCQWdjRUIwYUJBZ2VFQjhhQkFnZ0VDRWFCQWdpRUNNYUJBZ2tFQ1VhQkFnbUVDY3FGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "61_ouz8Rr4s",
+   "link": "https://www.youtube.com/watch?v=61_ouz8Rr4s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=61_ouz8Rr4s",
+   "thumbnail": "https://i.ytimg.com/vi/61_ouz8Rr4s/hqdefault_custom_2.jpg?sqp=CKy7rNYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA1knMQlqo1JIHV-myjfN2R2CGILQ",
+   "title": "Stock Market Crash, Gold, US Stocks & Bulletproof Portfolio | Saurabh Mukherjea | FO573 Raj Shamani",
+   "published_date": "13 hours ago",
+   "views": "303K views",
+   "extracted_views": 303000,
+   "length": "1:58:02",
+   "channel": {
+    "name": "Raj Shamani",
+    "link": "https://www.youtube.com/@rajshamani"
+   }
+  },
+  {
+   "video_id": "7pskkrMWpo4",
+   "link": "https://www.youtube.com/watch?v=7pskkrMWpo4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7pskkrMWpo4",
+   "thumbnail": "https://i.ytimg.com/vi/7pskkrMWpo4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD1XpTDb9J2ctp_B_iem9bLOhfGZw",
+   "title": "Nifty Bounces Back, But FIIs Are Still Selling! What Next? | The N Show ",
+   "published_date": "1 hour ago",
+   "views": "4.2K views",
+   "extracted_views": 4200,
+   "length": "59:26",
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai"
+   }
+  },
+  {
+   "video_id": "tPIHG6h_UfA",
+   "link": "https://www.youtube.com/watch?v=tPIHG6h_UfA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tPIHG6h_UfA",
+   "thumbnail": "https://i.ytimg.com/vi/tPIHG6h_UfA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDCkKTssbC-ysBUEiOfXJ3lhNhjMw",
+   "title": "Best Investment Plan For Your Child | Best Child Financial Plan | SAGAR SINHA",
+   "published_date": "2 days ago",
+   "views": "246K views",
+   "extracted_views": 246000,
+   "length": "35:00",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   }
+  },
+  {
+   "video_id": "ehXiE7AogRM",
+   "link": "https://www.youtube.com/watch?v=ehXiE7AogRM&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ehXiE7AogRM",
+   "thumbnail": "https://i.ytimg.com/vi/ehXiE7AogRM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD4UZCJhn0HM-Ymo6E8Gg_T8DeniQ",
+   "title": "The Power of SIP Compounding | ₹10,000 Can Grow to ₹1 Crore? | Gajendra Kothari 🔥",
+   "published_date": "3 days ago",
+   "views": "48K views",
+   "extracted_views": 48000,
+   "length": "10:23",
+   "channel": {
+    "name": "StocksVerse Studio",
+    "link": "https://www.youtube.com/@StocksVerseStudio"
+   }
+  },
+  {
+   "video_id": "uoCoDwWO12s",
+   "link": "https://www.youtube.com/watch?v=uoCoDwWO12s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uoCoDwWO12s",
+   "thumbnail": "https://i.ytimg.com/vi/uoCoDwWO12s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDtE-6rA9YaQddZTCSxQX9-TgfxGA",
+   "title": "Middle Class se Rich Kaise Bane? Real Wealth Formula",
+   "published_date": "1 month ago",
+   "views": "197K views",
+   "extracted_views": 197000,
+   "length": "32:46",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "vv1kf1mLj_M",
+   "link": "https://www.youtube.com/watch?v=vv1kf1mLj_M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vv1kf1mLj_M",
+   "thumbnail": "https://i.ytimg.com/vi/vv1kf1mLj_M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCJfceBQY43UcRRa_cjCgIB4l8alw",
+   "title": "छोटी SIP से करोड़ों की Wealth कैसे बनेगी  Mobile से SIP शुरू कैसे करें | Sagar Sinha",
+   "published_date": "3 months ago",
+   "views": "75K views",
+   "extracted_views": 75000,
+   "length": "48:50",
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte"
+   }
+  },
+  {
+   "video_id": "PZzO5pJNS2A",
+   "link": "https://www.youtube.com/watch?v=PZzO5pJNS2A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PZzO5pJNS2A",
+   "thumbnail": "https://i.ytimg.com/vi/PZzO5pJNS2A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAUGf4zqF-0FYPeN8R3NyEPzO8OAw",
+   "title": "10 Big Salary Mistakes Everyone Makes | Sagar Sinha",
+   "published_date": "9 months ago",
+   "views": "133K views",
+   "extracted_views": 133000,
+   "length": "49:44",
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily"
+   }
+  },
+  {
+   "video_id": "zlAF9lbf3hU",
+   "link": "https://www.youtube.com/watch?v=zlAF9lbf3hU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zlAF9lbf3hU",
+   "thumbnail": "https://i.ytimg.com/vi/zlAF9lbf3hU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBsiy054jyqwjxzJ_wMP0iMTt0opw",
+   "title": "From ₹3,000 Salary to Retiring at 47 from Apple | ₹24 LPA Passive Income | F.I.R.E. Masterclass",
+   "published_date": "2 weeks ago",
+   "views": "214K views",
+   "extracted_views": 214000,
+   "length": "1:11:24",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "Km_2sVWr80M",
+   "link": "https://www.youtube.com/watch?v=Km_2sVWr80M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Km_2sVWr80M",
+   "thumbnail": "https://i.ytimg.com/vi/Km_2sVWr80M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCI5iiXRdS2joJ6hagxgpwobels7g",
+   "title": "SIP से करोड़पति बनने का Secret Formula @DeepakWadhwa.OFFICIAL | Chitresh Soni Podcast ",
+   "published_date": "11 months ago",
+   "views": "305K views",
+   "extracted_views": 305000,
+   "length": "37:33",
+   "channel": {
+    "name": "Chitresh Soni ",
+    "link": "https://www.youtube.com/@ChitreshSoni165"
+   }
+  },
+  {
+   "video_id": "wutNDRC1Dws",
+   "link": "https://www.youtube.com/watch?v=wutNDRC1Dws",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wutNDRC1Dws",
+   "thumbnail": "https://i.ytimg.com/vi/wutNDRC1Dws/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBGSJz1w6UZP2UNvdx-NINx0KoqMw",
+   "title": "₹ 5000 SIP to ₹100 Crore Wealth with Mutual Fund? Wealth Creation Secrets Ft. Gajendra Kothari",
+   "published_date": "4 months ago",
+   "views": "258K views",
+   "extracted_views": 258000,
+   "length": "1:22:12",
+   "channel": {
+    "name": "Vijay Vikram Singh",
+    "link": "https://www.youtube.com/@vijayvikramsingh6"
+   }
+  },
+  {
+   "video_id": "Y7_G3GuzfWk",
+   "link": "https://www.youtube.com/watch?v=Y7_G3GuzfWk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y7_G3GuzfWk",
+   "thumbnail": "https://i.ytimg.com/vi/Y7_G3GuzfWk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBUe_d2WKjo9rzNrv1Mu4qRqOCO3A",
+   "title": "SIP से 62 Crore का Portfolio - ऐसे करो SIPs - Gajendra Kothari & Rahul Jain",
+   "published_date": "6 months ago",
+   "views": "711K views",
+   "extracted_views": 711000,
+   "length": "53:17",
+   "channel": {
+    "name": "Good 2 Great By Rahul Jain and 2 more"
+   }
+  },
+  {
+   "video_id": "85jzwhOd96U",
+   "link": "https://www.youtube.com/watch?v=85jzwhOd96U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85jzwhOd96U",
+   "thumbnail": "https://i.ytimg.com/vi/85jzwhOd96U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA60DJFLfEC5cmb6xSCN88tAkZVlA",
+   "title": "SIP क्या होती है? SIP कैसे करें? | Complete Beginner's Guide | Sagar Sinha Money Bytes",
+   "published_date": "2 months ago",
+   "views": "274K views",
+   "extracted_views": 274000,
+   "length": "1:07:53",
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC3Y1LVRQSFNrYWxFGAYyJSIRIgt2NS1UUEhTa2FsRTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC3Y1LVRQSFNrYWxFGAYyOCIRIgt2NS1UUEhTa2FsRTAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC3Y1LVRQSFNrYWxFGAYyOCIRIgt2NS1UUEhTa2FsRTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=v5-TPHSkalE"
+ },
+ "_fetched_at": "2026-10-11T05:27:58"
+}

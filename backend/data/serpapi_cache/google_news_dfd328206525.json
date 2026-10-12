@@ -1,0 +1,699 @@
+{
+ "search_metadata": {
+  "id": "6ac9453c3d34dd688c95ad31",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/cJfUi4MR35uBVt0OuvtA1PWyDF0ZOJcy93Hlr1rJ0VA/6ac9453c3d34dd688c95ad31.json",
+  "markdown_endpoint": "https://serpapi.com/searches/cJfUi4MR35uBVt0OuvtA1PWyDF0ZOJcy93Hlr1rJ0VA/6ac9453c3d34dd688c95ad31.md",
+  "created_at": "2026-10-09 19:49:16 UTC",
+  "processed_at": "2026-10-09 19:49:16 UTC",
+  "google_news_url": "https://news.google.com/search?q=L.+T.+Elevator+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/cJfUi4MR35uBVt0OuvtA1PWyDF0ZOJcy93Hlr1rJ0VA/6ac9453c3d34dd688c95ad31.html",
+  "total_time_taken": 1.05
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "L. T. Elevator share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "L.T. Elevator Allots 4.61 Lakh Equity Shares on Preferential Basis to Acquire Ricardo Elevators",
+   "source": {
+    "name": "EquityBulls",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.equitybulls.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitybulls.com/category.php?id=376701",
+   "thumbnail": "https://www.equitybulls.com/equitybullsadmin/uploads/L%20T%20Elevator%20Limited%20Logo%203.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFNMmxrZGs1c1MxazFWMlJIVFJDZEF4am5CU2dLTWdB",
+   "date": "10/09/2026, 03:52 PM, +0000 UTC",
+   "iso_date": "2026-10-09T15:52:42Z"
+  },
+  {
+   "position": 2,
+   "title": "LT Elevator Lower Circuit Today: Price, Data and Peers",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-ltelevator-share-price-lower-circuit-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/lt-elevator-ltd-hits-lower-circuit-on-bse-5-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZjMDE2UmxVek5HVnZWVmh4VFJDUUF4ai1CU2dLTWdZQktackRHZ2s",
+   "date": "10/05/2026, 01:50 PM, +0000 UTC",
+   "iso_date": "2026-10-05T13:50:21Z"
+  },
+  {
+   "position": 3,
+   "title": "L.T. Elevator Signs Agreement to Buy DYPC Inc. in South Korea",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/l-t-elevator-signs-agreement-to-buy-dypc-inc-in-south-korea-4576914-PE1_",
+   "thumbnail": "https://www.sahi.com/assets/uploads/4576914_PE_1_CORPORATE_05_08_2026_16x9_a0253e07cd.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdOWGswVVhKa016bE5jblJaVFJDZUF4amxCU2dLTWdtSlVZb3ByV2FTcVFJ",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Half Yearly Results, Half yearly Earnings for L T Elevator",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://economictimes.indiatimes.com/l-t-elevator-ltd/halfyearly/companyid-2275620.cms",
+   "date": "09/25/2026, 09:32 AM, +0000 UTC",
+   "iso_date": "2026-09-25T09:32:00Z"
+  },
+  {
+   "position": 5,
+   "title": "L.T. Elevator closes trading window ahead of Q2FY27 results",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-closes-trading-window-ahead-q2fy27-results/52132639",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-closes-trading-window-ahead-q2fy27-results.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVFkM1pxYTJwNFFVMWhVRkZsVFJDaUF4amRCU2dLTWdNUkZSSQ",
+   "date": "09/28/2026, 09:19 AM, +0000 UTC",
+   "iso_date": "2026-09-28T09:19:34Z"
+  },
+  {
+   "position": 6,
+   "title": "L.T. Elevator raises ₹494.8M in preferential issue backed by Bandhan Small Cap Fund",
+   "source": {
+    "name": "Dealroom.co",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://app.dealroom.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://app.dealroom.co/news/note/l-t-elevator-raises-494-8m-in-preferential-issue-backed-by-bandhan-small-cap-fund",
+   "thumbnail": "https://sg-imgs.dealroom.co/6e0d5e88b603832458c5398174444fd8.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9ORGx6Y3pGUVRtcGlaVVZTVFJDM0FSaVRBaWdCTWdZTk1veHJKUVk",
+   "date": "07/27/2026, 11:53 PM, +0000 UTC",
+   "iso_date": "2026-07-27T23:53:09Z"
+  },
+  {
+   "position": 7,
+   "title": "L. T. Elevator Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/368673/l-t-elevator-ltd/peer-comparison/",
+   "date": "08/27/2026, 12:36 PM, +0000 UTC",
+   "iso_date": "2026-08-27T12:36:46Z"
+  },
+  {
+   "position": 8,
+   "title": "L.T. Elevator to acquire 66.45% stake in Korean parking technology company Dongyang PC",
+   "source": {
+    "name": "smallcapspotlight.in",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://smallcapspotlight.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://smallcapspotlight.in/news/l-t-elevator-to-acquire-66-45-stake-in-korean-parking-technology-company-dongyang-pc/",
+   "thumbnail": "https://smallcapspotlight.in/wp-content/uploads/2026/08/L-T-Elevator.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBYMmMyV1hCSGJXdHpTM3BmVFJEUUF4aVVCU2dLTWdB",
+   "date": "08/19/2026, 04:54 AM, +0000 UTC",
+   "iso_date": "2026-08-19T04:54:50Z"
+  },
+  {
+   "position": 9,
+   "title": "L. T. Elevator Ltd Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/368673/l-t-elevator-ltd/key-ratios/",
+   "date": "08/30/2026, 04:18 AM, +0000 UTC",
+   "iso_date": "2026-08-30T04:18:22Z"
+  },
+  {
+   "position": 10,
+   "title": "LT Elevator Ltd. Share Price Near 52-Week High Analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/lt-elevator-ltd-share-price-near-52-week-high-2026-08-10-3",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/LT_Elevator_Ltd_LTELEVATOR_Share_Price_Near_52_Week_High_Stock_Trades_Within_2_of_One_Year_Peak_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdVM1ZuVlRsWWNqUlNZVUZvVFJDUUF4ai1CU2dLTWdZQlFJb0Ntd2s",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "L. T. Elevator seeks approval for ₹12.99 crore Ricardo Elevators share swap",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-seeks-approval-12-99-crore-ricardo-elevators-share-swap/48616418",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-seeks-approval-12-99-crore-ricardo-elevators-share-swap.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhSR2xVVURaZk1FbFFRVVpCVFJDZkF4ampCU2dLTWdZQkZJcXNKUVk",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "L. T. Elevator Ltd Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/368673/l-t-elevator-ltd/company-financial/",
+   "date": "08/29/2026, 01:14 PM, +0000 UTC",
+   "iso_date": "2026-08-29T13:14:04Z"
+  },
+  {
+   "position": 13,
+   "title": "L.T. Elevator begins West Bengal plant construction to boost capacity 2.5x",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-begins-construction-of-new-manufacturing-plant-in-west-bengal-targets-2-5x-capacity-expansion-by-q4-fy27/45660202",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-begins-construction-of-new-manufacturing-plant-in-west-bengal-targets-2-5x-capacity-expansion-by-q4-fy27.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTVhM1JsWm1OclF6TTFUMFJ3VFJDaUF4amRCU2dLTWdNQmdBZw",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "L.T. Elevator Signs Agreement to Acquire South Korea's DYPC Inc. to Expand Global Automated Parking Tech",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-buys-66-45-stake-in-dongyang-pc-inc-at-usd-2-85-per-share/47417243",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-buys-66-45-stake-in-dongyang-pc-inc-at-usd-2-85-per-share.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdNVUl3U0VOQlZUUktaV2w2VFJDaUF4amRCU2dLTWdNaFFSQQ",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "L. T. Elevator shareholders unanimously approve Ricardo Elevators share swap deal",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-agm-approves-ricardo-elevators-share-swap-deal/50511211",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-agm-approves-ricardo-elevators-share-swap-deal.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtja1pUUldock1rczNRa2hLVFJDaUF4amRCU2dLTWdhQlFaRG1yQVk",
+   "date": "09/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-09T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "L.T. Elevator revenue surges 97% in FY26 to ₹111.3 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-revenue-surges-97-fy26-111-3-crore/50244563",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-revenue-surges-97-fy26-111-3-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWphMUZ6UkdKMWJGOVpiMXBhVFJDaUF4amRCU2dLTWdPcFF3WQ",
+   "date": "09/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-06T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "L.T. Elevator Limited Reports Strong FY26 Annual Results; Consolidated Net Profit Rises to ₹1,702.10 Lakhs",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-limited-reports-strong-fy26-annual-results-consolidated-net-profit-rises-to-1-702-10-lakhs/39886563",
+   "date": "05/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-09T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "L.T. Elevator revises allottee for preferential issue",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-revises-allottee-for-preferential-issue/42550059",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-revises-allottee-for-preferential-issue.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUpjVGRsVkRodmVtWnhiRXBsVFJDaUF4amRCU2dLTWdtQkVKRGtscWt0UndJ",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "L.T. Elevator Limited Announces Strategic Merger with Ricardo Elevators to Enter Premium Home Elevator Market",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/orders-deals/l-t-elevator-limited-announces-strategic-merger-with-ricardo-elevators-to-enter-premium-home-elevator-market/29491356",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-limited-announces-strategic-merger-with-ricardo-elevators-to-enter-premium-home-elevator-market.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSRGt3Vlc1WmQxQlVaVzFoVFJDdEF4akxCU2dLTWdrQkVJYUJMS2R6c3dB",
+   "date": "01/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-09T08:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "L.T. Elevator Limited Announces Strategic Merger with Ricardo Elevators to Enter Premium Home Elevator Market",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/orders-deals/l-t-elevator-limited-announces-strategic-merger-with-ricardo-elevators-to-enter-premium-home-elevator-market/29490589",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-limited-announces-strategic-merger-with-ricardo-elevators-to-enter-premium-home-elevator-market.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRSRGt3Vlc1WmQxQlVaVzFoVFJDdEF4akxCU2dLTWdrQkVJYUJMS2R6c3dB",
+   "date": "01/08/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-08T08:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "L T Elevator Ltd. Share Price Today - L T Elevator Ltd. Stock Price Live NSE/BSE",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/l-t-elevator-ltd-share-price/YQRE9C/",
+   "date": "09/19/2025, 07:50 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:50:07Z"
+  },
+  {
+   "position": 22,
+   "title": "L. T. Elevator Ltd Share Price Today | L. T. Elevator Live NSE/BSE",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/368673/l-t-elevator-ltd/",
+   "date": "09/19/2025, 05:40 PM, +0000 UTC",
+   "iso_date": "2025-09-19T17:40:38Z"
+  },
+  {
+   "position": 23,
+   "title": "Dream Debut! LT Elevator share price lists at ₹136.10 on BSE SME, a premium of 74% over IPO price",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/dream-debut-lt-elevator-share-price-lists-at-rs-136-10-on-bse-sme-a-premium-of-74-49-from-ipo-price-11758255454790.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/09/19/1600x900/logo/g56be44bad0ce6dbd122384d76bb12fabed422c617b502f45c_1758255596602_1758255596821.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5ZVEIwYTBsRmJIVmpkMnd4VFJDZkF4ampCU2dLTWdB",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "LT Elevator IPO to open on September 12, price band at Rs 76-78 per share",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lt-elevator-ipo-open-on-september-12-price-band-at-rs-76-78-per-share-13529943.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250903013020_IPO-blue-glowsign.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDRkVlJXUmtWdExXOHpTRTFRVFJDZkF4ampCU2dLTWdzQklZSVBuZWdsVUFpNndB",
+   "date": "09/08/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-08T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Bumper market debut: LT Elevator shares list at 74% premium on BSE SME platform",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/bumper-market-debut-lt-elevator-shares-list-at-74-premium-on-bse-sme-platform-13559744.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/09/Collage-Maker-26-Sep-2023-09-57-AM-8841.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXSGRaVkZseVRXMDJWemxYVFJDZkF4ampCU2dLTWdZWkpvWXBLZ1k",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "LT Elevator shares make a stellar debut, list at 75% premium over IPO price on BSE SME platform",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lt-elevator-ipo-listing-on-friday-gmp-robust-after-strong-subscription/articleshow/123988304.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-123988286,width-1200,height-900,resizemode-4,imgsize-8816/lt-elevator-ipo-listing.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1ORnBsUlRGa1JXUkpRbFJWVFJEZ0F4aUFCU2dLTWdhSmtaYk90QWM",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "LT Elevator Lists at ₹136, Soars 79% Above IPO Price ₹78",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/l-t-elevator-lists-at-rs-136-10-surges-79-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2025/09/L.T.-Elevator-Lists-at-%E2%82%B9136.10-Surges-79-Over-IPO-Price-of-%E2%82%B978%E2%80%8B-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVpVVEp5WjFVdE5YWmtNRFUyVFJDZkF4ampCU2dLTWdB",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "LT Elevator IPO opens today. Check GMP, price band, issue size and other details",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lt-elevator-ipo-opens-today-check-gmp-price-band-issue-size-and-other-details/articleshow/123841334.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-123841328,width-1200,height-900,resizemode-4,imgsize-3738/lt-elevator-ipo-opens-today-check-gmp-price-band-issue-size-and-other-details.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRja04xVkVzNFExQTJkREZXVFJEZ0F4aUFCU2dLTWdhSmtaVE5OQWM",
+   "date": "09/12/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-12T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "LT Elevator IPO closes with over 170x subscription; check GMP, listing & allotment dates",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lt-elevator-ipo-closes-with-over-170x-subscription-check-gmp-listing-allotment-dates-13551620.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250916143923_LT_Elevator.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUZNVmhRTkdZNU1FZExkelppVFJDZkF4ampCU2dLTWdB",
+   "date": "09/16/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-16T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "LT Elevator IPO Date, Review, Price, Allotment Details",
+   "source": {
+    "name": "IPO Watch",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ipowatch.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://ipowatch.in/lt-elevator-ipo-date-review-price-allotment-details/",
+   "thumbnail": "https://ipowatch.in/wp-content/uploads/2025/09/lt-elevator-ipo.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUblJDYTBGUk9HWXhhM1pNVFJDUkF4ajhCU2dLTWdZcGRZaU5MUWM",
+   "date": "09/17/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-17T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "LT Elevator IPO GMP, Grey Market Premium Today",
+   "source": {
+    "name": "IPO Watch",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ipowatch.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jagat Joshi"
+    ]
+   },
+   "link": "https://ipowatch.in/lt-elevator-ipo-gmp-grey-market-premium/",
+   "thumbnail": "https://ipowatch.in/wp-content/uploads/2025/09/lt-elevator-ipo.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUblJDYTBGUk9HWXhhM1pNVFJDUkF4ajhCU2dLTWdZcGRZaU5MUWM",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "LT Elevator acquires South Korea's DYPC to enter global automated parking market",
+   "source": {
+    "name": "ET Manufacturing",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://manufacturing.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/l-t-elevator-acquires-south-koreas-dypc-to-enter-global-automated-parking-market/132893215",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132893215,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJNMmQyVDFoUmJreEhiREZFVFJDZkF4ampCU2dLTWdtZEFJQXVxYU5FbWdB",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "LT Elevator begins work on West Bengal manufacturing facility, targets 2.5x capacity expansion",
+   "source": {
+    "name": "ET Manufacturing",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://manufacturing.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://manufacturing.economictimes.indiatimes.com/news/industry/lt-elevator-begins-work-on-west-bengal-manufacturing-facility-targets-2-5x-capacity-expansion/132415252",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-132415252,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTJVUzFyYlZwc01IZG1PVUZJVFJDZkF4ampCU2dLTWdNQlVBdw",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "L.T. Elevator FY26 Revenue Surges 97% to ₹111.7 Crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/l-t-elevator-limited-schedules-investor-conference-call-on-ricardo-elevators-acquisition-reports-111-crore-revenue-in-fy26/40040187",
+   "thumbnail": "https://news-images.dhan.co/l-t-elevator-limited-schedules-investor-conference-call-on-ricardo-elevators-acquisition-reports-111-crore-revenue-in-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUWFYyUTNnemNUbEpUSFp4VFJDdEF4akxCU2dLTWdZVkVJQ3V0UUU",
+   "date": "09/27/2026, 01:49 PM, +0000 UTC",
+   "iso_date": "2026-09-27T13:49:06Z"
+  },
+  {
+   "position": 35,
+   "title": "L.T. Elevator Starts Building West Bengal Facility for 2.5x Capacity Leap by Q4 FY27",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/l-t-elevator-starts-building-west-bengal-facility-for-2-5x-capacity-leap-by-q4-fy27-4576914-PE1_",
+   "thumbnail": "https://www.sahi.com/assets/uploads/4576914_PE_1_CORPORATE_15_07_2026_16x9_90924606ae.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTNjMHhsY1drdFVERmFSRzVrVFJDZUF4amxCU2dLTWdrcFJJaU9KU1NUOGdB",
+   "date": "07/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-15T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "LT Elevator Commences Construction of Integrated Manufacturing Facility",
+   "source": {
+    "name": "Machine Maker",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://themachinemaker.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://themachinemaker.com/news/lt-elevator-commences-construction-of-integrated-manufacturing-facility/",
+   "thumbnail": "https://themachinemaker.com/wp-content/uploads/2026/01/L.T.-Elevator-1-300x200.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhMVkZWVGtKWWJtaElTR1pTVFJESUFSaXNBaWdLTWdZQlFJZ1FuUWM",
+   "date": "07/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-18T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "LT Elevator hopes to cross Rs 400-cr revenue mark by FY2028",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Udit Prasanna Mukherji"
+    ]
+   },
+   "link": "https://timesofindia.indiatimes.com/city/kolkata/lt-elevator-hopes-to-cross-rs-400-cr-revenue-mark-by-fy2028/articleshow/126856299.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-126856297,width-1280,height-720,imgsize-154802,resizemode-72,overlay-toi_sw,pt-32,y_pad-600,x_pad-1200/photo.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZUakJUZVRKM1ZVVldSRTlWVFJDZkF4amtCU2dLTWdZQm9KS091QVk",
+   "date": "01/21/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-21T08:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "LT Elevator IPO listed at a 74.48% premium on BSE at ₹136.10",
+   "source": {
+    "name": "IPO Watch",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ipowatch.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://ipowatch.in/lt-elevator-ipo-listed-on-bse/",
+   "thumbnail": "https://ipowatch.in/wp-content/uploads/2025/09/lt-elevator-ipo.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdUblJDYTBGUk9HWXhhM1pNVFJDUkF4ajhCU2dLTWdZcGRZaU5MUWM",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Stocks to Watch Today: Vedanta, John Cockerill, Texmaco Rail, Unichem Labs, LT Elevator, Mobikwik, JSW...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-vedanta-john-cockerill-texmaco-rail-unichem-labs-lt-elevator-mobikwik-jsw-energy-sasken-waaree-energies-in-focus-on-19-september-13558724.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/09/20240928040545_stocks5.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdiVzF6VWpkd2JsOWhjRTAwVFJDZkF4ampCU2dLTWdhMU1KUzBGQW8",
+   "date": "09/19/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-19T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Icon Facilitators Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/365137/icon-facilitators-ltd/peer-comparison/",
+   "date": "08/30/2026, 03:52 PM, +0000 UTC",
+   "iso_date": "2026-08-30T15:52:36Z"
+  },
+  {
+   "position": 41,
+   "title": "PTL Enterprises Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43888/ptl-enterprises-ltd/peer-comparison/",
+   "date": "08/31/2026, 02:39 PM, +0000 UTC",
+   "iso_date": "2026-08-31T14:39:53Z"
+  },
+  {
+   "position": 42,
+   "title": "Vindhya Telelinks - Unique Picks: 10 stocks held by a single MF scheme in July; rally up to 125% in 6 months",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/unique-picks-10-stocks-held-by-a-single-mf-scheme-in-july-rally-up-to-125-in-6-months/vindhya-telelinks/slideshow/133316838.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133316871,width-480,height-360,imgsize-57988,resizemode-75/exclusive-mf-picks.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZlbEp1V0VOU1dXeHJVRWhqVFJEb0FoamdBeWdLTWdrUlE0cG9vdWhUVUFF",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Vindhya Telelinks - Unique Picks: 10 stocks held by a single MF scheme in August; rally up to 141% in 6 months",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/unique-picks-10-stocks-held-by-a-single-mf-scheme-in-august-rally-up-to-141-in-6-months/vindhya-telelinks/slideshow/134305865.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134305886,width-480,height-360,imgsize-64802,resizemode-75/exclusive-mf-bets.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZkSFk1UjNCclozSnFZVm94VFJEb0FoamdBeWdLTWdhWlU0eXJwUWc",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "INTERARCH Stock Price and Chart — NSE:INTERARCH",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-INTERARCH/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/interarch-building-prod-l--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRVelE0WDJReGRGZE1OR2hCVFJDcUJCaXFCQ2dLTWdZcEpaRE9uUWs",
+   "date": "01/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-06T08:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "INDIANHUME Stock Price and Chart — NSE:INDIANHUME",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-INDIANHUME/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/indian-hume-pipe-coltd--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxjRVJaYWtwblMzcG9aakZCVFJDcUJCaXFCQ2dLTWdhaGxKRE51UVk",
+   "date": "08/16/2017, 10:12 PM, +0000 UTC",
+   "iso_date": "2017-08-16T22:12:02Z"
+  },
+  {
+   "position": 46,
+   "title": "ASIANTILES Stock Price and Chart — NSE:ASIANTILES",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-ASIANTILES/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/asian-granito--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFWVXhpZG1aelQzUnpTSGxOVFJDcUJCaXFCQ2dLTWdZWm80eVF2UVk",
+   "date": "07/21/2017, 03:57 AM, +0000 UTC",
+   "iso_date": "2017-07-21T03:57:05Z"
+  },
+  {
+   "position": 47,
+   "title": "SOMANYCERA Stock Price and Chart — NSE:SOMANYCERA",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-SOMANYCERA/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/somany-ceramics--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBXRGhDWDFkc2FXWlJVREUwVFJDcUJCaXFCQ2dLTWdZTmdaSkl0UVk",
+   "date": "07/21/2017, 06:42 PM, +0000 UTC",
+   "iso_date": "2017-07-21T18:42:26Z"
+  },
+  {
+   "position": 48,
+   "title": "Mobility solutions company eyes growth",
+   "source": {
+    "name": "The Sunday Guardian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sundayguardianlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://sundayguardianlive.com/business/mobility-solutions-company-eyes-growth-283358/",
+   "thumbnail": "https://sundayguardianlive.com/wp-content/uploads/2026/09/screenshot-2026-09-13-021040.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBlblpxVFZreVdHTmhYemxOVFJEeUFoam9CQ2dLTWdZQlFJWkpzUU0",
+   "date": "09/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-13T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:15"
+}

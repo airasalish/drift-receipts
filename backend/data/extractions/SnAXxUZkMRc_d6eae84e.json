@@ -1,0 +1,32 @@
+{
+ "calls": [
+  {
+   "company": "Sadhna Broadcast Limited",
+   "symbol_guess": "SADHBRC",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "4-5 months",
+   "quote": "अप्रैल में ऊपर से देख सकते हैं पुणे से चार से पांच महीने में",
+   "start_s": 230,
+   "line": "के आगे बढ़ने के लेकिन ज्यादा आंच और रूपए का जो है सपोर्ट जहर तोड़ देता है तो चांस बन सकते हैं इसके गिरावट के अदर वाइज",
+   "evidence": [
+    {
+     "text": "अप्रैल में ऊपर से देख सकते हैं",
+     "where": "transcript",
+     "start_s": 238
+    },
+    {
+     "text": "पुणे से चार से पांच महीने",
+     "where": "transcript",
+     "start_s": 238
+    }
+   ],
+   "reason": "Speaker suggests investing in Sadhna Broadcast, indicating a buy recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

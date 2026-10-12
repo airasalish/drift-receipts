@@ -1,0 +1,165 @@
+{
+ "channel": "Neeraj Joshi",
+ "channel_url": "https://www.youtube.com/@Neerajjoshi",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "R2pgcqHApJM",
+   "title": "Trading Course (Day 1/10) : Learn Trading From Scratch | Trading For Beginners Full Course",
+   "url": "https://www.youtube.com/watch?v=R2pgcqHApJM",
+   "channel": "Neeraj joshi",
+   "channel_url": "https://www.youtube.com/@Neerajjoshi",
+   "views": 2600552,
+   "length": "30:23",
+   "published_text": "6mo ago",
+   "published_date": "2026-03-21",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/R2pgcqHApJM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZx_lnojSJF2dox34hnnl-a00SQg",
+   "transcript_status": "none"
+  },
+  {
+   "video_id": "Jhjeww2KNqY",
+   "title": "How to Start Trading for Beginners | How to Make Money Online from Trading | Trading",
+   "url": "https://www.youtube.com/watch?v=Jhjeww2KNqY",
+   "channel": "Neeraj joshi",
+   "channel_url": "https://www.youtube.com/@Neerajjoshi",
+   "views": 1227132,
+   "length": "12:37",
+   "published_text": "1y ago",
+   "published_date": "2025-10-02",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/Jhjeww2KNqY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN8f9aMEIJTbtTimz7IYgeIMMbwg",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 3,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "Pcxl6sBQRLQ",
+   "title": "2 Min में Stocks ढूंढें | How to Find Best Stocks to Buy Now | Stock Market for Beginners -Education",
+   "url": "https://www.youtube.com/watch?v=Pcxl6sBQRLQ",
+   "channel": "Neeraj joshi",
+   "channel_url": "https://www.youtube.com/@Neerajjoshi",
+   "views": 177608,
+   "length": "10:50",
+   "published_text": "1y ago",
+   "published_date": "2024-10-29",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/Pcxl6sBQRLQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2XAQOoxHNJRSp_apx93oSJL7WKA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 3,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "FAt3PiB8-cM",
+   "title": "ICT Trading FULL COURSE in Hindi | ICT Trading Strategy | ICT Concepts | Inner Circle Trader",
+   "url": "https://www.youtube.com/watch?v=FAt3PiB8-cM",
+   "channel": "Neeraj joshi",
+   "channel_url": "https://www.youtube.com/@Neerajjoshi",
+   "views": 1134223,
+   "length": "1:10:17",
+   "published_text": "1y ago",
+   "published_date": "2025-10-09",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/FAt3PiB8-cM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDomhLImnkrexMJtstesKYOlmtUIQ",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 14,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [],
+ "report_card": {
+  "explicit": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "featured_picks": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "all_scoreable": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [],
+  "watch_mentions": 0
+ },
+ "regulatory": {
+  "name": "Neeraj Joshi",
+  "sebi_pages": [
+   {
+    "title": "Neeraj Joshi | Trade With Less Capital #papertrading ...",
+    "url": "https://www.instagram.com/reel/DTj-hCmCbI4/",
+    "snippet": "₹1,000 se trading possible hai, lekin capital se zyada important hai Risk Management. Bina proper risk management ke bada capital bhi ..."
+   },
+   {
+    "title": "Neeraj Joshi on Reels",
+    "url": "https://www.facebook.com/Neerajjoshiofficial/videos/1109648345366002/",
+    "snippet": "No photo description available. Bidwell Trading. Financial Service. Pages · Businesses · Finance · Neeraj Joshi · Videos. Neeraj Joshi."
+   },
+   {
+    "title": "Neeraj Joshi | I Gave ₹1.5 Lakh to Traders for a Trading ...",
+    "url": "https://www.instagram.com/reel/DU2y3KqCXZe/",
+    "snippet": "🏍️ 100 DAYS. ONE TRADING CHALLENGE. ONE BIG GOAL! Aaj students ke saath LIVE trading session — real market, real trades, real learning."
+   },
+   {
+    "title": "Neeraj Joshi | Stoploss should be 2% of your capital, but why it ...",
+    "url": "https://www.instagram.com/reel/DdYVDoBtZRe/",
+    "snippet": "Which rule do you struggle with the most: Risk Management, Stop Loss, Revenge Trading, Position Sizing, or Weekly Loss Limit? I'll reply to ..."
+   },
+   {
+    "title": "Are you a Swing Trader? confused Watch the full video # ...",
+    "url": "https://www.instagram.com/reel/DddemNLBs6R/",
+    "snippet": "94 likes, 1 comments - neerajjoshi5014 on September 18, 2026: \"Are you a Swing Trader? ‍ confused Watch the full video #trader ..."
+   },
+   {
+    "title": "Complete Trading System Masterclass Ep 40",
+    "url": "https://www.facebook.com/Neerajjoshiofficial/videos/complete-trading-system-masterclass-trading-courseep40-trading-for-beginners-how/1633926931771451/",
+    "snippet": "Neeraj Joshi and any person associated with this channel accept no liability for any content uploaded on this channel or responsibility for any ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "3 अगस्त से बदलेगा F&O शेयरों का Closing System #FnO #FnOTrading #ClosingSystem #NSE #StockMarket #SEBI #Derivatives #OptionsTrading #FuturesTrading #StockMarketIndia #MarketUpdate",
+    "url": "https://www.facebook.com/zeebusinessonline/videos/3-%E0%A4%85%E0%A4%97%E0%A4%B8%E0%A5%8D%E0%A4%A4-%E0%A4%B8%E0%A5%87-%E0%A4%AC%E0%A4%A6%E0%A4%B2%E0%A5%87%E0%A4%97%E0%A4%BE-fo-%E0%A4%B6%E0%A5%87%E0%A4%AF%E0%A4%B0%E0%A5%8B%E0%A4%82-%E0%A4%95%E0%A4%BE-closing-systemfno-fnotrading-closingsystem-nse-st/1674344276985733/",
+    "source": "Facebook",
+    "date": "07/30/2026, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "16 Top Trading YouTube Channels Indian Market Leaders Watch in 2026",
+    "url": "https://businessviewpointmagazine.com/top-trading-youtube-channels-india/",
+    "source": "Business Viewpoint Magazine",
+    "date": "03/04/2026, 07:08 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 11,
+ "generated_at": "2026-10-10T21:24:48"
+}

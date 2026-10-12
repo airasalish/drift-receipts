@@ -1,0 +1,776 @@
+{
+ "search_metadata": {
+  "id": "6ac9f7bb03610a83743d265d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/WW-YxaHyKm-FCtiD3lnu7sw9EIzgkajv_cVVGFpHutM/6ac9f7bb03610a83743d265d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/WW-YxaHyKm-FCtiD3lnu7sw9EIzgkajv_cVVGFpHutM/6ac9f7bb03610a83743d265d.md",
+  "created_at": "2026-10-10 08:30:51 UTC",
+  "processed_at": "2026-10-10 08:30:51 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=BXPPUsXUl7A",
+  "raw_html_file": "https://serpapi.com/searches/WW-YxaHyKm-FCtiD3lnu7sw9EIzgkajv_cVVGFpHutM/6ac9f7bb03610a83743d265d.html",
+  "prettify_html_file": "https://serpapi.com/searches/WW-YxaHyKm-FCtiD3lnu7sw9EIzgkajv_cVVGFpHutM/6ac9f7bb03610a83743d265d.prettify",
+  "total_time_taken": 6.02
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "BXPPUsXUl7A",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "My Complete Stock Selection Process Explained",
+ "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/maxresdefault.jpg",
+ "channel": {
+  "name": "Pranjal Kamra",
+  "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@pranjalkamra",
+  "subscribers": "6.5M subscribers",
+  "extracted_subscribers": 6500000,
+  "verified": true
+ },
+ "views": "41,006 views",
+ "extracted_views": 41006,
+ "likes": "1.5K",
+ "extracted_likes": 1500,
+ "published_date": "Premiered May 24, 2026",
+ "description": {
+  "content": "Building a reliable financial product for Indian investors requires balancing rigorous research with real-world execution. In this video, I take you behind the scenes of creating Finology 30, our flagship product that delivers 2 to 3 handpicked stock recommendations every month, building a robust portfolio of 30 to 35 well-researched stocks over one year.\n\nWhat You Will Learn:\n\n•Our Stock Selection Framework: How we filter thousands of companies down to the best long-term opportunities.\n•The Suitability Challenge: Designing a product that aligns with the diverse risk profiles of Indian retail investors.\n•The Delivery Challenge: Managing the publishing research and maintaining absolute transparency.\n\nWhether you are an investor or an entrepreneur, this video provides a transparent look at the mechanics of institutional-grade research.\n\n➡️ Get 30 Stocks For Long Term: https://tinyurl.com/30stocks\n___________________________________________________________________________________________\n00:00 - Introduction\n01:05 - Suitability Challenges\n04:14 - Delivery Challenges\n09:03 - Mutual Funds vs Finology 30\n11:00 - Why should you renew Finology 30?\n12:51 - Finology 30 vs multiple stock baskets\n14:20 - Stock Picking Framework\n18:27 - Is Finology 30 for you?\n19:15 - Conclusion\n___________________________________________________________________________________________\n\n➡️ Explore Finology Quest Courses: https://tinyurl.com/allcourses-quest\n\n➡️ Join my WhatsApp channel: https://whatsapp.com/channel/0029Va8O...\n\n➡️ Open Zerodha Demat Account for FREE - https://zerodha.com/open-account?c=ZM...\n\n➡️ Buy Investonomy: https://amzn.to/4jkeM09\n\n➡️ Get spam-free insurance: https://ditto.sh/7mh8g6\n_________________________________________________________________________________________\n\n➡️ For disclosures and regulatory information, visit: https://recipe.finology.in/disclaimer\n_________________________________________________________________________________________\n\nGet in Touch: \n⏩ Email Us - support@finology.in\n🌐 Website - https://www.finology.in/\n📞 For queries, contact - 022-489-66660",
+  "links": [
+   {
+    "start_index": 879,
+    "length": 28,
+    "text": "https://tinyurl.com/30stocks",
+    "url": "https://tinyurl.com/30stocks"
+   },
+   {
+    "start_index": 1000,
+    "length": 5,
+    "text": "00:00",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&pp=0gcJCWMAwfN6Pr3D",
+    "type": "watch"
+   },
+   {
+    "start_index": 1021,
+    "length": 5,
+    "text": "01:05",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=65s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1052,
+    "length": 5,
+    "text": "04:14",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=254s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1080,
+    "length": 5,
+    "text": "09:03",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=543s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1116,
+    "length": 5,
+    "text": "11:00",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=660s&pp=0gcJCWMAwfN6Pr3D",
+    "type": "watch"
+   },
+   {
+    "start_index": 1158,
+    "length": 5,
+    "text": "12:51",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=771s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1204,
+    "length": 5,
+    "text": "14:20",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=860s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1236,
+    "length": 5,
+    "text": "18:27",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=1107s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1268,
+    "length": 5,
+    "text": "19:15",
+    "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A&t=1155s",
+    "type": "watch"
+   },
+   {
+    "start_index": 1415,
+    "length": 36,
+    "text": "https://tinyurl.com/allcourses-quest",
+    "url": "https://tinyurl.com/allcourses-quest"
+   },
+   {
+    "start_index": 1482,
+    "length": 40,
+    "text": "https://whatsapp.com/channel/0029Va8O...",
+    "url": "https://whatsapp.com/channel/0029Va8OXlYBVJl0V9G87p1O"
+   },
+   {
+    "start_index": 1565,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPXIG"
+   },
+   {
+    "start_index": 1627,
+    "length": 23,
+    "text": "https://amzn.to/4jkeM09",
+    "url": "https://amzn.to/4jkeM09"
+   },
+   {
+    "start_index": 1680,
+    "length": 23,
+    "text": "https://ditto.sh/7mh8g6",
+    "url": "https://ditto.sh/7mh8g6"
+   },
+   {
+    "start_index": 1849,
+    "length": 37,
+    "text": "https://recipe.finology.in/disclaimer",
+    "url": "https://recipe.finology.in/disclaimer"
+   },
+   {
+    "start_index": 2039,
+    "length": 24,
+    "text": "ttps://www.finology.in/\n",
+    "url": "https://www.finology.in/"
+   }
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_23033.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4dshnH7vJp4ppg5hrztFMVwoXsQ",
+   "time_start": 0
+  },
+  {
+   "title": "Suitability Challenges",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_83766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqd0aXRGVE5yAkYedEKfHurlcUeg",
+   "time_start": 65
+  },
+  {
+   "title": "Delivery Challenges",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_262100.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCEZnZN7SgOhV6S9S3rSLIkB9wanQ",
+   "time_start": 254
+  },
+  {
+   "title": "Mutual Funds vs Finology 30",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_549200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAj9PYZeQJIuk_3JUehyMmeEA903Q",
+   "time_start": 543
+  },
+  {
+   "title": "Why should you renew Finology 30?",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_662166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAi71AJIr0jgr711MyjBHHyja8Qqw",
+   "time_start": 660
+  },
+  {
+   "title": "Finology 30 vs multiple stock baskets",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_785866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDDdgMQAv7Hacc4YeaCkp87BuV2GQ",
+   "time_start": 771
+  },
+  {
+   "title": "Stock Picking Framework",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_869000.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAOGfIxkJKVNt4ojhDlbAqF57i7Ug",
+   "time_start": 860
+  },
+  {
+   "title": "Is Finology 30 for you?",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_1108166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDIvdN7q3sw1SLUi9mZUHUlGPhE0g",
+   "time_start": 1107
+  },
+  {
+   "title": "Conclusion",
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hqdefault_1157633.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDeULS9yGqXNxi2IkUofCay34ZN3A",
+   "time_start": 1155
+  }
+ ],
+ "related_videos": [
+  {
+   "video_id": "xEk2do30B1I",
+   "link": "https://www.youtube.com/watch?v=xEk2do30B1I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xEk2do30B1I",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xEk2do30B1I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVglvAw16-SbG_165hZaooU42NQw",
+    "rich": "https://i.ytimg.com/an_webp/xEk2do30B1I/mqdefault_6s.webp?du=3000&sqp=CMbjp9YG&rs=AOn4CLALVu0Peva4uGU049CioxDJlyhMOQ"
+   },
+   "title": "What happened to the Indian Stock Market?",
+   "published_date": "8d ago",
+   "views": "526K",
+   "extracted_views": 526000,
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "UyR3rpA80ZM",
+   "link": "https://www.youtube.com/watch?v=UyR3rpA80ZM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UyR3rpA80ZM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UyR3rpA80ZM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCoYip4UH2wkCXJvipaoBzG9cmlUg",
+    "rich": "https://i.ytimg.com/an_webp/UyR3rpA80ZM/mqdefault_6s.webp?du=3000&sqp=CLLTp9YG&rs=AOn4CLAauUQ0qj2sNsb37Dfy_wdF2vgRtA"
+   },
+   "title": "You Don't Need More Stock Tips. You Need This Framework",
+   "published_date": "1mo ago",
+   "views": "342K",
+   "extracted_views": 342000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "lmgXpToLry0",
+   "link": "https://www.youtube.com/watch?v=lmgXpToLry0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lmgXpToLry0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/lmgXpToLry0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjUGQgcVqSgJVFwFBPQUqdR-FKZA",
+    "rich": "https://i.ytimg.com/an_webp/lmgXpToLry0/mqdefault_6s.webp?du=3000&sqp=CN_ip9YG&rs=AOn4CLCekjvFh1mjlCMD9JOUB-UA7_VJ0Q"
+   },
+   "title": "He Managed ₹20,000 Crores, Here's His Stock Picking SECRET | Kushal Lodha #388",
+   "published_date": "10d ago",
+   "views": "71K",
+   "extracted_views": 71000,
+   "channel": {
+    "name": "Kushal Lodha and Emkay Investment Managers Limited (EIML)",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Ojqe8gWSeac",
+   "link": "https://www.youtube.com/watch?v=Ojqe8gWSeac&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ojqe8gWSeac",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Ojqe8gWSeac/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDg-YSF-00KqjY79UCUSn8mHF_F1Q",
+    "rich": "https://i.ytimg.com/an_webp/Ojqe8gWSeac/mqdefault_6s.webp?du=3000&sqp=CPm1p9YG&rs=AOn4CLBe71IIXOXq3YHRvoXih-kMMcdLmA"
+   },
+   "title": "Indian Students’ US Future: H-1B & J-1 Concerns, Pakistan on Edge, Rubio’s Big Hint • Sumit Peer",
+   "published_date": "Streamed 16h ago",
+   "views": "59K",
+   "extracted_views": 59000,
+   "channel": {
+    "name": "PGurus",
+    "link": "https://www.youtube.com/@PGurus1",
+    "thumbnail": "https://yt3.ggpht.com/l4yblcrSL0buVlVgzDwVbtYf_GP7kQ0qr6fV5kroc8iLHFpLMkgHHHFDg1ER9Aln0nLQNgdmgA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CL_bp9YG&rs=AOn4CLDD51Rz0dT8mXUez4Lfiizjjj-k0g"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "5lrA2UaYsBM",
+   "link": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5lrA2UaYsBM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5lrA2UaYsBM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-02pUst4aNiFgOVwsiQQ7u4wM6A",
+    "rich": "https://i.ytimg.com/an_webp/5lrA2UaYsBM/mqdefault_6s.webp?du=3000&sqp=CKTJp9YG&rs=AOn4CLBcIww6RODoCkfs8V5RHBiFtje57A"
+   },
+   "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
+   "published_date": "3w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "CJmxHtZEsKA",
+   "link": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CJmxHtZEsKA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmW_jsjen1VPCw79HjJqDLeVUuaQ",
+    "rich": "https://i.ytimg.com/an_webp/CJmxHtZEsKA/mqdefault_6s.webp?du=3000&sqp=CPDhp9YG&rs=AOn4CLC9j6yqH9AbdJKP3QORgcZMYoXcTQ"
+   },
+   "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
+   "published_date": "3mo ago",
+   "views": "341K",
+   "extracted_views": 341000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "INqAU9MJvYI",
+   "link": "https://www.youtube.com/watch?v=INqAU9MJvYI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=INqAU9MJvYI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/INqAU9MJvYI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr6qwuu8-ozKkUFuNy8ojqUoJczw",
+    "rich": "https://i.ytimg.com/an_webp/INqAU9MJvYI/mqdefault_6s.webp?du=3000&sqp=CPTYp9YG&rs=AOn4CLDcvzKLVJHM1o0NyVMnozYl8uRVYA"
+   },
+   "title": "The Easiest Way to Reach Your ₹1 Crore!",
+   "published_date": "1mo ago",
+   "views": "389K",
+   "extracted_views": 389000,
+   "channel": {
+    "name": "Angel One Podcasts and Angel One",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+    "rich": "https://i.ytimg.com/an_webp/w_b8_rtiZKg/mqdefault_6s.webp?du=3000&sqp=CMDup9YG&rs=AOn4CLAMXT6o2ahA4QJ9tNLwGxqVxh3jZQ"
+   },
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "2d ago",
+   "views": "426K",
+   "extracted_views": 426000,
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi",
+    "thumbnail": "https://yt3.ggpht.com/FWqvZ-FTNej3vJ4-tso3uSGOjRsCDxTmB2lVCf1cKN3D__RBxwthab1b3P66n3K3Fb7vPFVJuw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDksHlfSsSQER8uo2HEM8GxW6rNA",
+    "rich": "https://i.ytimg.com/an_webp/NZ0fsllxcdE/mqdefault_6s.webp?du=3000&sqp=CO7Cp9YG&rs=AOn4CLBpv5hy0gh8E5hXXTTs5P5OMaGZEw"
+   },
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2w ago",
+   "views": "319K",
+   "extracted_views": 319000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A",
+    "rich": "https://i.ytimg.com/an_webp/sKQbZZNB7Ww/mqdefault_6s.webp?du=3000&sqp=CJDXp9YG&rs=AOn4CLCTNRgTP029qlqvecWwdAOqpZpU_w"
+   },
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "4w ago",
+   "views": "458K",
+   "extracted_views": 458000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw",
+    "rich": "https://i.ytimg.com/an_webp/iVMRAOSB96c/mqdefault_6s.webp?du=3000&sqp=CPvRp9YG&rs=AOn4CLD3lkfFA1XEMRUeTjUZ14qtosMXhg"
+   },
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1mo ago",
+   "views": "450K",
+   "extracted_views": 450000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "cffpAnh0CcY",
+   "link": "https://www.youtube.com/watch?v=cffpAnh0CcY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cffpAnh0CcY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cffpAnh0CcY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeO6nw-8Y3avkcis8Jw9NW7ArCUQ",
+    "rich": "https://i.ytimg.com/an_webp/cffpAnh0CcY/mqdefault_6s.webp?du=3000&sqp=CKixp9YG&rs=AOn4CLALGjUiYeMY0spcbCZJEDo7iIMIbA"
+   },
+   "title": "Buffett Sells Too! The “Buy Forever” Investing Myth Exposed | The N Show ",
+   "published_date": "8d ago",
+   "views": "283K",
+   "extracted_views": 283000,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "UdPvNJHDP14",
+   "link": "https://www.youtube.com/watch?v=UdPvNJHDP14",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UdPvNJHDP14",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UdPvNJHDP14/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCciPWKXDxKUlSqxHAcbuluFf7uOA",
+    "rich": "https://i.ytimg.com/an_webp/UdPvNJHDP14/mqdefault_6s.webp?du=3000&sqp=CPbLp9YG&rs=AOn4CLACgimJ9arasuYmYveW6gh8amlONA"
+   },
+   "title": "Why Investing in US stocks is NOT worth it",
+   "published_date": "3mo ago",
+   "views": "443K",
+   "extracted_views": 443000,
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha",
+    "thumbnail": "https://yt3.ggpht.com/m0SYHJ0N9BvOzsQ1x_rjJZ93AozarehZou4GcNU8m_D8oV90UoGO0vOXRzPLzeZ-NlTq7mntFw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAZI4x37jq5lf4wTyTQQxaRQukR8w",
+    "rich": "https://i.ytimg.com/an_webp/6xmfg5bICd4/mqdefault_6s.webp?du=3000&sqp=COzMp9YG&rs=AOn4CLA9-nB_1BOvCP4oPltQgHYcanffog"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "753K",
+   "extracted_views": 753000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "fjEpprP1kSY",
+   "link": "https://www.youtube.com/watch?v=fjEpprP1kSY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=fjEpprP1kSY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/fjEpprP1kSY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB2KTsD_ImQ2DAemRtnmgMlT6sGIg",
+    "rich": "https://i.ytimg.com/an_webp/fjEpprP1kSY/mqdefault_6s.webp?du=3000&sqp=CNbUp9YG&rs=AOn4CLDSkZP85NUp6fgaXVI-fM7qyQpfYQ"
+   },
+   "title": "This 1 Strategy Made Me Financially Free",
+   "published_date": "1mo ago",
+   "views": "325K",
+   "extracted_views": 325000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "CidUhSKrmYU",
+   "link": "https://www.youtube.com/watch?v=CidUhSKrmYU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CidUhSKrmYU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CidUhSKrmYU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiIC2lR3vT1aj0AqBCg9EJNDhxug",
+    "rich": "https://i.ytimg.com/an_webp/CidUhSKrmYU/mqdefault_6s.webp?du=3000&sqp=CKrlp9YG&rs=AOn4CLBAgsNRzl5RLdnkSmIYfzZqQWB4DA"
+   },
+   "title": "Top Investment Expert Kalpen Parekh on Investing, Risk Management, SIP & Wealth Creation",
+   "published_date": "3w ago",
+   "views": "423K",
+   "extracted_views": 423000,
+   "channel": {
+    "name": "Jay Thadeshwar",
+    "link": "https://www.youtube.com/@jay.thadeshwar",
+    "thumbnail": "https://yt3.ggpht.com/mmBbyLY9sSb46eDIHLERx8Njoy3ub_IrDiW8x6Kwd8fzzK475sfYGQzsa60HSMX3YLFcrXfBTA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "A39iY5_orVk",
+   "link": "https://www.youtube.com/watch?v=A39iY5_orVk&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=A39iY5_orVk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/A39iY5_orVk/hqdefault_custom_2.jpg?sqp=CIjvp9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD5CYrn2iRRARLdMsHP6yCVg8rssA",
+    "rich": "https://i.ytimg.com/an_webp/A39iY5_orVk/mqdefault_6s.webp?du=3000&sqp=CKnIp9YG&rs=AOn4CLCB6FWXXBNk4FcFGJZGDx-B2kB-lA"
+   },
+   "title": "Is the market going to crash? My Strategy Explained",
+   "published_date": "6d ago",
+   "views": "142K",
+   "extracted_views": 142000,
+   "channel": {
+    "name": "SOIC",
+    "link": "https://www.youtube.com/@SOICfinance",
+    "thumbnail": "https://yt3.ggpht.com/bR4QYaBph_4Q6qRJZRk67W7X7aoCfu6JFs00drTfCwqFNSe9zrlyQ6SQqKnNQpNyUqeMnapcuw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "E5tINrq4Gms",
+   "link": "https://www.youtube.com/watch?v=E5tINrq4Gms",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=E5tINrq4Gms",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/E5tINrq4Gms/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkljj5h3o0jrIQUEZc69Wfl_MONg",
+    "rich": "https://i.ytimg.com/an_webp/E5tINrq4Gms/mqdefault_6s.webp?du=3000&sqp=CPPJp9YG&rs=AOn4CLDS19vEIekjsFhVDcZ3cZkho5YT9w"
+   },
+   "title": "Why Most Investors Sell Right Before They Get Rich | Kushal Lodha #329",
+   "published_date": "4mo ago",
+   "views": "154K",
+   "extracted_views": 154000,
+   "channel": {
+    "name": "Kushal Lodha and Krishan Sharma -Gateway to Financial Freedom",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILQlhQUFVzWFVsN0HAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmAZNZ29JNjdUZzFldUcwczBUMnM2TDZ3eV9CQXE4QkFvRDhqNEFDZzdDUGdzSTBvN1E3LWpPemFURUFRb0Q4ajRBQ2czQ1Bnb0lrNlB6Z2VuMW5aSlRDZ1B5UGdBS0RzSS1Dd2l0M3E3UTBfU0Z0SllCQ2dQeVBnQUtEY0ktQ2dpbjg4bXNvTjZublRvS0FfSS1BQW9Pd2o0TENPMjI1SXFhNE1pZDlRRUtBX0ktQUFvT3dqNExDSlBnNHJTVW03Q3Q1Z0VLQV9JLUFBb053ajRLQ1BUZXdkcTludG5tWFFvRDhqNEFDZzNDUGdvSW9PR1NzdTJqN013SUNnUHlQZ0FLRGNJLUNnaUMtNmFZdllxZzdTQUtBX0ktQUFvT3dqNExDS2pKaWR2cm43Xzd3d0VLQV9JLUFBb053ajRLQ05IanhjdWw5c2ZPTlFvRDhqNEFDZzdDUGdzSTdOcUhtdG5zaHRLd0FRb0Q4ajRBQ2c3Q1Bnc0lwLS1IcEk2Z3hLbUpBUW9EOGo0QUNnM0NQZ29JeHBQUXc2ZWctdnR4Q2dQeVBnQUtEY0ktQ2dqZV9veU95ZWI3NlZFS0FfSS1BQW9Pd2o0TENONlRvTGE1OE9lTTZ3RUtBX0ktQUFvTndqNEtDS2FpMXBfcnRNcVlmZ29EOGo0QUNnM0NQZ29JaGJPdWxkS1ExWk1LQ2dQeVBnQUtEY0ktQ2dqWjJxTF91Y3pZdndNS0FfSS1BQW9Od2o0S0NPdTA0TlhyaHRMTkV4SVVBQUlFQmdnS0RBNFFFaFFXR0JvY0hpQWlKQ1lhQkFnQUVBRWFCQWdDRUFNYUJBZ0VFQVVhQkFnR0VBY2FCQWdJRUFrYUJBZ0tFQXNhQkFnTUVBMGFCQWdPRUE4YUJBZ1FFQkVhQkFnU0VCTWFCQWdVRUJVYUJBZ1dFQmNhQkFnWUVCa2FCQWdhRUJzYUJBZ2NFQjBhQkFnZUVCOGFCQWdnRUNFYUJBZ2lFQ01hQkFna0VDVWFCQWdtRUNjcUZBQUNCQVlJQ2d3T0VCSVVGaGdhSEI0Z0lpUW1qD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "xEk2do30B1I",
+   "link": "https://www.youtube.com/watch?v=xEk2do30B1I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xEk2do30B1I",
+   "thumbnail": "https://i.ytimg.com/vi/xEk2do30B1I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVglvAw16-SbG_165hZaooU42NQw",
+   "title": "What happened to the Indian Stock Market?",
+   "published_date": "8 days ago",
+   "views": "526K views",
+   "extracted_views": 526000,
+   "length": "16:36",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra"
+   }
+  },
+  {
+   "video_id": "UyR3rpA80ZM",
+   "link": "https://www.youtube.com/watch?v=UyR3rpA80ZM&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UyR3rpA80ZM",
+   "thumbnail": "https://i.ytimg.com/vi/UyR3rpA80ZM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCoYip4UH2wkCXJvipaoBzG9cmlUg",
+   "title": "You Don't Need More Stock Tips. You Need This Framework",
+   "published_date": "1 month ago",
+   "views": "342K views",
+   "extracted_views": 342000,
+   "length": "27:56",
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney"
+   }
+  },
+  {
+   "video_id": "lmgXpToLry0",
+   "link": "https://www.youtube.com/watch?v=lmgXpToLry0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=lmgXpToLry0",
+   "thumbnail": "https://i.ytimg.com/vi/lmgXpToLry0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCjUGQgcVqSgJVFwFBPQUqdR-FKZA",
+   "title": "He Managed ₹20,000 Crores, Here's His Stock Picking SECRET | Kushal Lodha #388",
+   "published_date": "10 days ago",
+   "views": "71K views",
+   "extracted_views": 71000,
+   "length": "1:19:55",
+   "channel": {
+    "name": "Kushal Lodha and Emkay Investment Managers Limited (EIML)"
+   }
+  },
+  {
+   "video_id": "Ojqe8gWSeac",
+   "link": "https://www.youtube.com/watch?v=Ojqe8gWSeac",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ojqe8gWSeac",
+   "thumbnail": "https://i.ytimg.com/vi/Ojqe8gWSeac/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDg-YSF-00KqjY79UCUSn8mHF_F1Q",
+   "title": "Indian Students’ US Future: H-1B & J-1 Concerns, Pakistan on Edge, Rubio’s Big Hint • Sumit Peer",
+   "published_date": "Streamed 16 hours ago",
+   "views": "59K views",
+   "extracted_views": 59000,
+   "length": "42:03",
+   "channel": {
+    "name": "PGurus",
+    "link": "https://www.youtube.com/@PGurus1"
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1.1M views",
+   "extracted_views": 1100000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "5lrA2UaYsBM",
+   "link": "https://www.youtube.com/watch?v=5lrA2UaYsBM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5lrA2UaYsBM",
+   "thumbnail": "https://i.ytimg.com/vi/5lrA2UaYsBM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB-02pUst4aNiFgOVwsiQQ7u4wM6A",
+   "title": "The Real Strategy to Getting Rich in the Next 3 Years.",
+   "published_date": "3 weeks ago",
+   "views": "1M views",
+   "extracted_views": 1000000,
+   "length": "28:00",
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney"
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q",
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20 hours ago",
+   "views": "5K views",
+   "extracted_views": 5000,
+   "length": "57:18",
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund"
+   }
+  },
+  {
+   "video_id": "CJmxHtZEsKA",
+   "link": "https://www.youtube.com/watch?v=CJmxHtZEsKA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CJmxHtZEsKA",
+   "thumbnail": "https://i.ytimg.com/vi/CJmxHtZEsKA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmW_jsjen1VPCw79HjJqDLeVUuaQ",
+   "title": "₹93,000 Crore Wealth Manager Explains How to Build Wealth | ₹10 Crore Roadmap ft. Feroze Azeez",
+   "published_date": "3 months ago",
+   "views": "341K views",
+   "extracted_views": 341000,
+   "length": "1:07:50",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "INqAU9MJvYI",
+   "link": "https://www.youtube.com/watch?v=INqAU9MJvYI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=INqAU9MJvYI",
+   "thumbnail": "https://i.ytimg.com/vi/INqAU9MJvYI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBr6qwuu8-ozKkUFuNy8ojqUoJczw",
+   "title": "The Easiest Way to Reach Your ₹1 Crore!",
+   "published_date": "1 month ago",
+   "views": "389K views",
+   "extracted_views": 389000,
+   "length": "40:29",
+   "channel": {
+    "name": "Angel One Podcasts and Angel One"
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "2 days ago",
+   "views": "426K views",
+   "extracted_views": 426000,
+   "length": "21:20",
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi"
+   }
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDksHlfSsSQER8uo2HEM8GxW6rNA",
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2 weeks ago",
+   "views": "319K views",
+   "extracted_views": 319000,
+   "length": "44:44",
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj"
+   }
+  },
+  {
+   "video_id": "sKQbZZNB7Ww",
+   "link": "https://www.youtube.com/watch?v=sKQbZZNB7Ww",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sKQbZZNB7Ww",
+   "thumbnail": "https://i.ytimg.com/vi/sKQbZZNB7Ww/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLClovY1xI1V_Z75wdtOQ2wWiCJH8A",
+   "title": "How I Built a ₹35 Crore Portfolio & Retired at 29 | Small Cap Masterclass ft. Shubham Sethi",
+   "published_date": "4 weeks ago",
+   "views": "458K views",
+   "extracted_views": 458000,
+   "length": "58:52",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC0JYUFBVc1hVbDdBGAYyJSIRIgtCWFBQVXNYVWw3QTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC0JYUFBVc1hVbDdBGAYyOCIRIgtCWFBQVXNYVWw3QTAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC0JYUFBVc1hVbDdBGAYyOCIRIgtCWFBQVXNYVWw3QTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=BXPPUsXUl7A"
+ },
+ "_fetched_at": "2026-10-10T08:30:54"
+}

@@ -1,0 +1,559 @@
+{
+ "search_metadata": {
+  "id": "6ac7bec779ac9a140d159589",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/VslTDudkE58kT9izCmVkQvSDQX5955szesHx8DoB0Tw/6ac7bec779ac9a140d159589.json",
+  "markdown_endpoint": "https://serpapi.com/searches/VslTDudkE58kT9izCmVkQvSDQX5955szesHx8DoB0Tw/6ac7bec779ac9a140d159589.md",
+  "created_at": "2026-10-08 16:03:19 UTC",
+  "processed_at": "2026-10-08 16:03:19 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Ravindra+Bharti+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/VslTDudkE58kT9izCmVkQvSDQX5955szesHx8DoB0Tw/6ac7bec779ac9a140d159589.html",
+  "total_time_taken": 2.89
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Ravindra Bharti stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 609642,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Free Training: Learn a Structured Mechanical Trading Approach",
+   "link": "https://www.youtube.com/watch?v=jxzzonNaCDM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=jxzzonNaCDM",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CvSXUx77HauPtLKLw0vAPyoLi-AeByczkiAH4kovz6BXYhf7zxUYQASAAYMn-tIfco5QRggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSqlJs-qQLgTU0PxS6qPqgDBMgDCqoEqQJP0N3GtRxa3Wf-zov-Ly1ZFf2Bhxbw0e0TUmBEvN9AZNRu1e4T1WCpBsAruQglaqbxOAHsz1TRVLECWobe0Wf7ENNjXb-RWm4ax3-1MfxlOeYLIqFQAuu0A9CBU0CR0W93dQH0O5d_aCh-K_ss0Npew24tp-noe0uK1Wjzix8ijIUZnZlOpJCQrKcMhzLNn64QBUM8W2aPz8mCD9_zv2zRX9eWMES8_WJxLlp_OSu9uChIbipxjK85ziwm2TE9rWAW8WcsiX3sndybX_p7LfMGXq6OjTskJQj9hDMKcQXKlHjLcTKVJ49CeFZSA_nnaIFpqTWQQYJy-wIRojgXjXWAWszrzhhz5Ira-0nV4QNA2zsV7u8qc1wFkZHWDc_P9YRrS8CChTqnthqIBavY_rdWkgUICBN4w_6ghxmgBqEBgAeE4uT6GJAHBKgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH-dOxAqgHydqxAqgHqeCxAqgHqNIbqAex3BuoB7CbsQKoB66xsQKoB_2ysQKoB8jPsQKoB8nPsQKoB_zVsQKoB_vVsQKoB4zWsQKoB4vWsQKoB5risQKoB5visQKoB53XsQKoB53UsQKoB4HGG6gH_K-xAqgH1c4bqAe-2bECqAerxRuoB5zcG6gHt6GxAqgH1amxAqgH59qxAqgH3rWxAqgH6rGxAqgHvrexAqgHmbWxAqgHhcGxAqgH66WxAqgHyqmxApIIC2p4enpvbk5hQ0RNqAgB0gguCIBBEAEYXjICggI6D4BCgMCAgICAgIACqoCAGEjZoNI1UBRYiN7M9uWqlwNgAZoJIWh0dHBzOi8vc3RhcnQuMXBlcmNlbnRjbHViLmNvL3ZzbLEJ7O2cXfCnAQbICRfICY8ByAnCAcgJlQKYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCBboDBXZpYXRs0AsS0gwCEAHaDCUKChCgm7nlqv3yzxoSAgEDGg0Yq9j-t1Yg75vAv7YFQAFKAhAfmg0BEqoNAlVTyA0B0g3gAmh0dHBzOi8vc3RhcnQuMXBlcmNlbnRjbHViLmNvL3ZzbD9nY19pZD0yMzIwMjg2ODI2NyZoX2dhX2lkPTE4NjQyNzM3OTE4MyZoX2FkX2lkPTc5ODE2MTA4OTM1NyZoX2tleXdvcmRfaWQ9YXVkLTI0MjM5NDY5Njk4MTYmaF9rZXl3b3JkPSZoX3BsYWNlbWVudD0mdXRtX3NvdXJjZT1Hb29nbGUrQWRzJnV0bV9tZWRpdW09cGFpZCZ1dG1fY2FtcGFpZ249MjMyMDI4NjgyNjcmdXRtX2NvbnRlbnQ9MTg2NDI3Mzc5MTgzJnV0bV90ZXJtPSZjYW1wYWlnbl9pZD0yMzIwMjg2ODI2NyZtZWRpdW1faWQ9MTg2NDI3Mzc5MTgzJmFkX2lkPTc5ODE2MTA4OTM1NyZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjMyMDI4NjgyNje4E____________wGIFAKwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXjk9x1PXmrOS6FwYoADAAOAHQGAHwGAHCGQIIAQ&ase=2&gclid=EAIaIQobChMIo-3M9uWqlwMVIrgUCB1KgRh_EAEYASAAEgI75PD_BwE&num=1&cid=CAASqgHkaMNU2Oxd9XZd5bbFg0BcjeA3wRKWeb1JBXC9Us2ht04-JBYSGR-H0b1BjgvIeCKsuEEUzMv6RVWcwiXe7sIwuAP-W6tv9P-m97II9PIdrABCHAFx9h2vfJpYvnDBuVS66c_G-94nOx_NtGG8g3zsFzFXmcynjgo7aUCywU0YMB2ahC7PLwhdS9rGLHpGaPOkyvP5RPN0gKT2GvuYPsWsH3G5FjDd0ZQ-tw&ad_cpn=%5BCPN%5D&sig=AOD64_0Ls_kamQpYtHFnh2CEW_ibVzMDZQ&ctype=110&video_id=jxzzonNaCDM&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "1 PERCENT CLUB",
+    "thumbnail": "https://yt3.ggpht.com/proxy/XwdvOqDMHopTokNUOoaWpWl_jPSAzJ5vo5K0o1IpGevJWZh4yvpUHn3tKD6aSN2YgVJoFxTSY3e3Xoz-m_ICVDup6dyXEMCezfa5wfvFTMt5lDlVl7bSJWKxcm9AswGzs3Rxo7XQqZUOoA2BQLWFoU5BK-MEj5U_qra1EF7YfY5qTMK5_1B4efhcWJAxO6K6NsFCk5YXf933uqqh4HQm5eQKQ86e_gAczC3i-9W4FG7AYcpqROJLeIiv8rkmPHYbyeTf_gM=w68-h68-nd"
+   },
+   "description": "Learn a structured mechanical trading approach designed for consistency and discipline",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/jxzzonNaCDM/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IGQoZTAP&rs=AOn4CLCa0TvjHQg-u5wCkdaxMrDsSPt93w"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "RAVINDRA BHARTI - START-UP & BUSINESS CONSULTANCY",
+   "link": "https://www.youtube.com/@Ravindra_Bharti_Official",
+   "handle": "@Ravindra_Bharti_Official",
+   "subscribers": 14800000,
+   "description": "Your Complete Business Growth Partner Welcome to Business Mastermind, where we help entrepreneurs and business owners ...",
+   "thumbnail": "https://yt3.ggpht.com/7lZigzZUNxM-_aIGZHIQQqFP8f-fDn2OJ5X6-kM0lSBwejVvquVoMOszLrhxH1dSk7DGWRXl9I4=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 3,
+   "title": "Bharti Share Market & Real Estate - Marathi",
+   "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+   "handle": "@Bharti_Finance_Mall_Marathi",
+   "subscribers": 1120000,
+   "description": "Bharti Share Market (Marathi) मध्ये आपले स्वागत आहे इथे आम्ही Stock Market, Mutual Fund, ...",
+   "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s88-c-k-c0x00ffffff-no-rj-mo"
+  },
+  {
+   "position_on_page": 4,
+   "title": "Bharti Share Market & Real Estate - Hindi",
+   "link": "https://www.youtube.com/@Bharti_Finance_Mall",
+   "handle": "@Bharti_Finance_Mall",
+   "subscribers": 740000,
+   "description": "Bharti Share Market (Hindi) में आपका स्वागत है यहाँ हम Stock Market, Mutual Fund, Insurance, Loan और ...",
+   "thumbnail": "https://yt3.ggpht.com/Yt5VxX14J8Jy1KrQTleRNFsRRXOgJMgAtEAEbsGVM47ISLlu-Eq76gEqmANphWP5iVt9gPrw=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 5,
+   "shorts": [
+    {
+     "title": "SEBI fines Rs. 12 Crore to Ravindra Balu Bharti #investing #sebi #ravindrabalu #sharemarket",
+     "link": "https://www.youtube.com/shorts/ze3dj2CYrV8",
+     "thumbnail": "https://i.ytimg.com/vi/ze3dj2CYrV8/frame0.jpg",
+     "views_original": "2.9K views",
+     "views": 2900,
+     "video_id": "ze3dj2CYrV8"
+    },
+    {
+     "title": "#shorts podcast with Ravindra Bharti Stock Market Expert In #arvindarora #show",
+     "link": "https://www.youtube.com/shorts/nK-RHsiIqe4",
+     "thumbnail": "https://i.ytimg.com/vi/nK-RHsiIqe4/frame0.jpg",
+     "views_original": "85 views",
+     "views": 85,
+     "video_id": "nK-RHsiIqe4"
+    },
+    {
+     "title": "Ravindra Balu Bharti: SEBI Cracks Down on YouTube Financial Influencer",
+     "link": "https://www.youtube.com/shorts/1JZy4Z0TjOQ",
+     "thumbnail": "https://i.ytimg.com/vi/1JZy4Z0TjOQ/frame0.jpg",
+     "views_original": "6.6K views",
+     "views": 6600,
+     "video_id": "1JZy4Z0TjOQ"
+    },
+    {
+     "title": "Great Culture, Greater Growth – The Secret to Success ! Ravindra Bharti",
+     "link": "https://www.youtube.com/shorts/criVDtnvSOs",
+     "thumbnail": "https://i.ytimg.com/vi/criVDtnvSOs/frame0.jpg",
+     "views_original": "837 views",
+     "views": 837,
+     "video_id": "criVDtnvSOs"
+    },
+    {
+     "title": "Stock Market titan Prof. Ravindra Bharti at the ultimate event - Tanza x Nims I Bharti Share Market",
+     "link": "https://www.youtube.com/shorts/zkeFMr48PZc",
+     "thumbnail": "https://i.ytimg.com/vi/zkeFMr48PZc/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "zkeFMr48PZc"
+    }
+   ]
+  },
+  {
+   "position_on_page": 9,
+   "shorts": [
+    {
+     "title": "share market king|share market richest man|professor ravindra bharathi |bharatisharemarket #shorts",
+     "link": "https://www.youtube.com/shorts/k3WsxAvxbZE",
+     "thumbnail": "https://i.ytimg.com/vi/k3WsxAvxbZE/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "k3WsxAvxbZE"
+    },
+    {
+     "title": "COLLEGE PART TIME  AND SHARE MARKET FULL TIME | RAVINDRA BHARTI",
+     "link": "https://www.youtube.com/shorts/a8FhHM8RtAI",
+     "thumbnail": "https://i.ytimg.com/vi/a8FhHM8RtAI/frame0.jpg",
+     "views_original": "3K views",
+     "views": 3000,
+     "video_id": "a8FhHM8RtAI"
+    },
+    {
+     "title": "5 Actionable Buy Stocks! 🚀 Airtel, Dixon, Vodafone Idea, Walchandnagar, Manipal | Big Targets 🔥",
+     "link": "https://www.youtube.com/shorts/byuQp7rCxKs",
+     "thumbnail": "https://i.ytimg.com/vi/byuQp7rCxKs/frame0.jpg",
+     "views_original": "74 views",
+     "views": 74,
+     "video_id": "byuQp7rCxKs"
+    },
+    {
+     "title": "🌟 Thank you, Ms. Ravindra Bharathi, for sharing your valuable feedback! 🙏✨",
+     "link": "https://www.youtube.com/shorts/tDCyX8mkTeU",
+     "thumbnail": "https://i.ytimg.com/vi/tDCyX8mkTeU/frame0.jpg",
+     "views_original": "84 views",
+     "views": 84,
+     "video_id": "tDCyX8mkTeU"
+    },
+    {
+     "title": "Ravindra bharti ke video 2021",
+     "link": "https://www.youtube.com/shorts/ePbJ-V6irgw",
+     "thumbnail": "https://i.ytimg.com/vi/ePbJ-V6irgw/frame0.jpg",
+     "views_original": "137 views",
+     "views": 137,
+     "video_id": "ePbJ-V6irgw"
+    },
+    {
+     "title": "Why Every Investor Needs a Financial Copilot to Navigate Market Turbulence #prosperitypath #sip",
+     "link": "https://www.youtube.com/shorts/k4mcqLya9gU",
+     "thumbnail": "https://i.ytimg.com/vi/k4mcqLya9gU/frame0.jpg",
+     "views_original": "20 views",
+     "views": 20,
+     "video_id": "k4mcqLya9gU"
+    },
+    {
+     "title": "Loving the World Without Expectations! | Ravindra Bharti #marathi #marathicommunity",
+     "link": "https://www.youtube.com/shorts/AUNZjmwVMMM",
+     "thumbnail": "https://i.ytimg.com/vi/AUNZjmwVMMM/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "AUNZjmwVMMM"
+    },
+    {
+     "title": "Pandit Ji's Reaction On Shweta | Ravindra Bharti",
+     "link": "https://www.youtube.com/shorts/eWx7fkQupOk",
+     "thumbnail": "https://i.ytimg.com/vi/eWx7fkQupOk/frame0.jpg",
+     "views_original": "280 views",
+     "views": 280,
+     "video_id": "eWx7fkQupOk"
+    },
+    {
+     "title": "Weekend plans?Me: just checking my portfolio real quick 🎯 #stockmarket #funnyshorts #memestocks",
+     "link": "https://www.youtube.com/shorts/o8oAZN4dD5o",
+     "thumbnail": "https://i.ytimg.com/vi/o8oAZN4dD5o/frame0.jpg",
+     "views_original": "66 views",
+     "views": 66,
+     "video_id": "o8oAZN4dD5o"
+    },
+    {
+     "title": "Ravindra bharti ke video",
+     "link": "https://www.youtube.com/shorts/9Z_Uktblpvs",
+     "thumbnail": "https://i.ytimg.com/vi/9Z_Uktblpvs/frame0.jpg",
+     "views_original": "2.1K views",
+     "views": 2100,
+     "video_id": "9Z_Uktblpvs"
+    },
+    {
+     "title": "✅ Financial Planning Session For Our MTI Batch Students By Mr Ravindra Bharti Sir",
+     "link": "https://www.youtube.com/shorts/uNRT9joXp2o",
+     "thumbnail": "https://i.ytimg.com/vi/uNRT9joXp2o/frame0.jpg",
+     "views_original": "881 views",
+     "views": 881,
+     "video_id": "uNRT9joXp2o"
+    },
+    {
+     "title": "🎭  Stunning Sculptures at Ravindra Bharathi | Hyderabad",
+     "link": "https://www.youtube.com/shorts/jnuWND3kc9s",
+     "thumbnail": "https://i.ytimg.com/vi/jnuWND3kc9s/frame0.jpg",
+     "views_original": "463 views",
+     "views": 463,
+     "video_id": "jnuWND3kc9s"
+    },
+    {
+     "title": "FROM FARMER TO STOCK BROKER JOURNEY | RAVINDRA BHARTI | TANZA TALKS",
+     "link": "https://www.youtube.com/shorts/g6Sqp7qoip8",
+     "thumbnail": "https://i.ytimg.com/vi/g6Sqp7qoip8/frame0.jpg",
+     "views_original": "389 views",
+     "views": 389,
+     "video_id": "g6Sqp7qoip8"
+    },
+    {
+     "title": "\"Purpose Changes Everything  From Big Problems to Small\" #ravindrabharti",
+     "link": "https://www.youtube.com/shorts/APUxR9HhYv4",
+     "thumbnail": "https://i.ytimg.com/vi/APUxR9HhYv4/frame0.jpg",
+     "views_original": "35K views",
+     "views": 35000,
+     "video_id": "APUxR9HhYv4"
+    },
+    {
+     "title": "HOW I LEARNED SHARE MARKET | RAVINDRA BHARTI | TANZA TALKS",
+     "link": "https://www.youtube.com/shorts/n7nv6iZ9OZ0",
+     "thumbnail": "https://i.ytimg.com/vi/n7nv6iZ9OZ0/frame0.jpg",
+     "views_original": "771 views",
+     "views": 771,
+     "video_id": "n7nv6iZ9OZ0"
+    },
+    {
+     "title": "🛢️ Crude $90 ke neeche… lekin oil stocks bhi low!Kal FOMC Minutes — volatility ke liye ready?",
+     "link": "https://www.youtube.com/shorts/_sBbTYegpJo",
+     "thumbnail": "https://i.ytimg.com/vi/_sBbTYegpJo/frame0.jpg",
+     "views_original": "198 views",
+     "views": 198,
+     "video_id": "_sBbTYegpJo"
+    },
+    {
+     "title": "illegal Profit-Sharing से ₹12 Crore का Fraud 😨🤯",
+     "link": "https://www.youtube.com/shorts/Ry_eqDCrJAo",
+     "thumbnail": "https://i.ytimg.com/vi/Ry_eqDCrJAo/frame0.jpg",
+     "views_original": "148K views",
+     "views": 148000,
+     "video_id": "Ry_eqDCrJAo"
+    },
+    {
+     "title": "WATCH THIS IF YOU WANT TO GET SUCCESS | RAVINDRA BHARTI | TANZA TALKS",
+     "link": "https://www.youtube.com/shorts/lmChgdS-bpc",
+     "thumbnail": "https://i.ytimg.com/vi/lmChgdS-bpc/frame0.jpg",
+     "views_original": "319 views",
+     "views": 319,
+     "video_id": "lmChgdS-bpc"
+    },
+    {
+     "title": "🚨 IT STOCKS IN TROUBLE? 7 BIG IT Stocks Down 20–40% in 2026! | Nifty IT Dark Side",
+     "link": "https://www.youtube.com/shorts/p33yX-D4Fhw",
+     "thumbnail": "https://i.ytimg.com/vi/p33yX-D4Fhw/frame0.jpg",
+     "views_original": "2.2K views",
+     "views": 2200,
+     "video_id": "p33yX-D4Fhw"
+    },
+    {
+     "title": "Ravindra Singh Bhati Shares His Election Preparation Strategy",
+     "link": "https://www.youtube.com/shorts/EaWsJN9Y-Bo",
+     "thumbnail": "https://i.ytimg.com/vi/EaWsJN9Y-Bo/frame0.jpg",
+     "views_original": "104K views",
+     "views": 104000,
+     "video_id": "EaWsJN9Y-Bo"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 6,
+   "title": "JOURNEY of Prof RAVINDRA BHARTI |  INVESTING | TRADING | BSM TRAINER",
+   "link": "https://www.youtube.com/watch?v=XKNoGujeZK4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XKNoGujeZK4",
+   "video_id": "XKNoGujeZK4",
+   "channel": {
+    "name": "BSM Trainer",
+    "link": "https://www.youtube.com/@BSMTrainer",
+    "thumbnail": "https://yt3.ggpht.com/2zwdNmE7KcucyRg7Hqg4hKNUQYUtUX9xl99ZW65WgLna2NuQNiiu0kE1vkpJxoaY-MWksIG7WQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 64,
+   "length": "5:31",
+   "description": "Investing #Trading #stockmarket #ravindrabharti #bsmtrainer 1. Open Free Dmat Account in Angel One with Bharti Share Market, ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XKNoGujeZK4/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBN4UMH3nVHECQ3G2Hirs6TjEIrNg"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "A match of Finances | Ravindra Bharti | TEDxDYPAkurdi",
+   "link": "https://www.youtube.com/watch?v=sdViCNNpn2w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sdViCNNpn2w",
+   "video_id": "sdViCNNpn2w",
+   "channel": {
+    "name": "TEDx Talks",
+    "link": "https://www.youtube.com/@TEDx",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/1gDPO-4YPWFErfn3yQBnv0yxpkmiud1m5CrorApkOqUYdNd9FrZQ9xB9C9VmDt4EsgArnlwqAQc=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 676,
+   "length": "19:57",
+   "description": "Disclaimer: This TEDx Talk on the Stock Market, Financial Planning, and Money Management is for educational purposes only.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sdViCNNpn2w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiVq_xf-el7Hz3T9qONxp9Bka00w",
+    "rich": "https://i.ytimg.com/an_webp/sdViCNNpn2w/mqdefault_6s.webp?du=3000&sqp=CLzqntYG&rs=AOn4CLCAhnwCg3sjmAxRTlPWfnb22rF8Fg"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "STOCK SIP | डायरेक्ट शेअर्स मध्ये SIP कशी करायची ? | Bharti Share Market | Ravindra Bharti",
+   "link": "https://www.youtube.com/watch?v=UIko90y9PSM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UIko90y9PSM",
+   "video_id": "UIko90y9PSM",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 47531,
+   "length": "6:44",
+   "description": "1) फ्री डिमॅट अकाउंट आणि फ्री शेअर मार्केट कोर्स साठी खाली दिलेल्या ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UIko90y9PSM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv4rQzBfHvmTqIrPhlKiGno1-WYQ",
+    "rich": "https://i.ytimg.com/an_webp/UIko90y9PSM/mqdefault_6s.webp?du=3000&sqp=CNvbntYG&rs=AOn4CLBV7WS7f5fg-i_Xw5Czy5qqxbSlYg"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Fundamentals of Stock Analysis: A Simple Process to Analyze stocks for Beginners | RavindraBharti",
+   "link": "https://www.youtube.com/watch?v=rXG9WoaLxms",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rXG9WoaLxms",
+   "video_id": "rXG9WoaLxms",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 6532,
+   "length": "29:45",
+   "description": "1) फ्री डिमॅट अकाउंट आणि फ्री शेअर मार्केट कोर्स साठी खाली दिलेल्या ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rXG9WoaLxms/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBO38Y3tlDjXxMYPqJZfe3N7yj-vw",
+    "rich": "https://i.ytimg.com/an_webp/rXG9WoaLxms/mqdefault_6s.webp?du=3000&sqp=CIX7ntYG&rs=AOn4CLCsrABRVNOxWn479Y4Id5hG4LyCvA"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "कमी किमतीचे Undervalued शेअर्स कसे शोधायचे ? | Basics Of Stock Market For Beginners",
+   "link": "https://www.youtube.com/watch?v=Ky_F0cWZXQg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Ky_F0cWZXQg",
+   "video_id": "Ky_F0cWZXQg",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 38657,
+   "length": "5:10",
+   "description": "Ravindra Bharti sir Instagram चॅनेल ची लिंक https://www.instagram.com/ravindrabhartiofficials/ आमच्या ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Ky_F0cWZXQg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKGKx-8m37bLt2V5zcOkOqprss9w",
+    "rich": "https://i.ytimg.com/an_webp/Ky_F0cWZXQg/mqdefault_6s.webp?du=3000&sqp=COjvntYG&rs=AOn4CLAc6izDz7rDDVYBqokm1d6s-i8K8Q"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "SEBI Orders Finfluencer Ravindra Bharti To Return ₹12 Crore In Illegal Gains",
+   "link": "https://www.youtube.com/watch?v=_UwQWX1ajiw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_UwQWX1ajiw",
+   "video_id": "_UwQWX1ajiw",
+   "channel": {
+    "name": "Business Today",
+    "link": "https://www.youtube.com/@BusinessToday",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/d8aonbazIXdeP94JJ5mXnMam7VctYGR6ggoMLfUhtqun7sajHCl6oTeIG3Ubrm-UpsBm0hllOQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 4562,
+   "length": "2:13",
+   "description": "sebi #infuencer #RavindraBaluBharti #reeipl #sebichief #finfluencer Famous finfluencer Ravindra Balu Bharti faces SEBI's ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_UwQWX1ajiw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHvrxkKNjKSJsKAZCM2ZfDhyWsgQ",
+    "rich": "https://i.ytimg.com/an_webp/_UwQWX1ajiw/mqdefault_6s.webp?du=3000&sqp=CMjTntYG&rs=AOn4CLA98kc04jR6-LPebZoyAgO8JGV2hA"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "Bharti Share Market | Ravindra Bharti | स्टॉक मार्केट बेसिक नॉलेज Lecture - 1 | Ravindra bharti",
+   "link": "https://www.youtube.com/watch?v=KPjc4aTEO5w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=KPjc4aTEO5w",
+   "video_id": "KPjc4aTEO5w",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Hindi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall",
+    "thumbnail": "https://yt3.ggpht.com/Yt5VxX14J8Jy1KrQTleRNFsRRXOgJMgAtEAEbsGVM47ISLlu-Eq76gEqmANphWP5iVt9gPrw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 32825,
+   "length": "13:21",
+   "description": "1) फ्री डीमैट अकाउंट और फ्री शेयर मार्केट कोर्स के लिए नीचे दिए गए ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/KPjc4aTEO5w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxKew6Jrn5_Up6bzSf-uJ4lRfycw",
+    "rich": "https://i.ytimg.com/an_webp/KPjc4aTEO5w/mqdefault_6s.webp?du=3000&sqp=CPjzntYG&rs=AOn4CLCuWbnijhARaHFCxGRAQZ9PL22zCA"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "SHARE MARKET NEW STUDIO OPENING | Ravindra bharti BHARTI",
+   "link": "https://www.youtube.com/watch?v=_G66htN8ftk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_G66htN8ftk",
+   "video_id": "_G66htN8ftk",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 1597,
+   "length": "2:38",
+   "description": "1) फ्री डिमॅट अकाउंट आणि फ्री शेअर मार्केट कोर्स साठी खाली दिलेल्या ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_G66htN8ftk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZCM3nJ1xgzUz_PdjIp67aKZNZQA",
+    "rich": "https://i.ytimg.com/an_webp/_G66htN8ftk/mqdefault_6s.webp?du=3000&sqp=CMb1ntYG&rs=AOn4CLBm1f41FSwILekr4U39hqLBjL3glw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Top 5 Stocks For Long Term Investment | RavindraBharti",
+   "link": "https://www.youtube.com/watch?v=1r6Gz5Ata5Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1r6Gz5Ata5Q",
+   "video_id": "1r6Gz5Ata5Q",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 5y ago",
+   "views": 18618,
+   "length": "10:37",
+   "description": "1) Master in Trading & Investment (MTI) ऑनलाईन किंवा ऑफलाईन कोर्सला ऍडमिशन ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1r6Gz5Ata5Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW2unIPTW_1Kq3olC-vCGWK5VQNg",
+    "rich": "https://i.ytimg.com/an_webp/1r6Gz5Ata5Q/mqdefault_6s.webp?du=3000&sqp=CLjsntYG&rs=AOn4CLCWX5od7-_OGhieHbWHKacN4JQkRQ"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "2025 साठी Watchlist मधील Top 5 शेअर्स | Ravindra bharti",
+   "link": "https://www.youtube.com/watch?v=cgpmLfUTgtg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cgpmLfUTgtg",
+   "video_id": "cgpmLfUTgtg",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 55653,
+   "length": "27:17",
+   "description": "1) फ्री डिमॅट अकाउंट आणि फ्री शेअर मार्केट कोर्स साठी खाली दिलेल्या ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cgpmLfUTgtg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAn1LMic8enrgsxMLXoJDfCJ0IT2g",
+    "rich": "https://i.ytimg.com/an_webp/cgpmLfUTgtg/mqdefault_6s.webp?du=3000&sqp=CMjwntYG&rs=AOn4CLASNj-xRhrddAU_FnHp3Jgho8FnvQ"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "How this YouTuber Fooled Traders for 100 Crores? | Bharti Share Market Pune Fake Finfluencers Ep-13",
+   "link": "https://www.youtube.com/watch?v=4LPWVPNej3c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4LPWVPNej3c",
+   "video_id": "4LPWVPNej3c",
+   "channel": {
+    "name": "A Digital Blogger",
+    "link": "https://www.youtube.com/@ADigitalBlogger",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/VsBhCNOTQqoKpIvnTrtMYaTUhdD2SYw0I9I2jM1mXfOavHdYMJHChD3Nlkmkh4MqKOk9fFPeFA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 254532,
+   "length": "13:16",
+   "description": "Following an investigation by the market regulator SEBI, certain actions have been taken against individuals and entities involved ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4LPWVPNej3c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQpIbt5fh1JPvlhj-euQoLgwDmfg",
+    "rich": "https://i.ytimg.com/an_webp/4LPWVPNej3c/mqdefault_6s.webp?du=3000&sqp=CML1ntYG&rs=AOn4CLCqBp0lZslxip93cqSOD-QvPwwynQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "💰 पैसे म्युच्युअल फंड मध्ये की शेअर मार्केट मध्ये गुंतवावेत ? 📈 | Ravindra bharti",
+   "link": "https://www.youtube.com/watch?v=YxSSdxNp74E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YxSSdxNp74E",
+   "video_id": "YxSSdxNp74E",
+   "channel": {
+    "name": "Bharti Share Market & Real Estate - Marathi",
+    "link": "https://www.youtube.com/@Bharti_Finance_Mall_Marathi",
+    "thumbnail": "https://yt3.ggpht.com/TticUwHujItgbd8XyVTqvolfXccY0-rLMqMjgNOHGLk1Sa7Uc7CX3yFqTvfycYGW4iWEC7dP=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 56971,
+   "length": "5:55",
+   "description": "1) फ्री डिमॅट अकाउंट आणि फ्री शेअर मार्केट कोर्स साठी खाली दिलेल्या ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YxSSdxNp74E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNPmDTgK0Q2vjuSkypDzmzGqFZUQ",
+    "rich": "https://i.ytimg.com/an_webp/YxSSdxNp74E/mqdefault_6s.webp?du=3000&sqp=CKnXntYG&rs=AOn4CLAp5RcNvCFfJf8EwfmH89xg5rWmcg"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "share market king|share market richest man|professor ravindra bharathi |bharatisharemarket #shorts",
+   "link": "https://www.youtube.com/watch?v=kMy30Pb7glM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kMy30Pb7glM",
+   "video_id": "kMy30Pb7glM",
+   "channel": {
+    "name": "Aman Mania",
+    "link": "https://www.youtube.com/@amanmania.",
+    "thumbnail": "https://yt3.ggpht.com/OylGQ8HUn3x-eWqzgn_xxXr-HsmHXgp--VDWs8zHUPtnhFwmoDV8Iz8N2oVLsk5JliVhD2_PbQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 50,
+   "length": "2:40",
+   "description": "share market king|share market richest man|professor ravindra bharathi |bharatisharemarket #short about this video~maine logon ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kMy30Pb7glM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqQQ-JTtFHCMs0L9VQ9WdNfOhlmQ",
+    "rich": "https://i.ytimg.com/an_webp/kMy30Pb7glM/mqdefault_6s.webp?du=3000&sqp=CJftntYG&rs=AOn4CLA6337bZJc1KKRRCEvJaRI3fH-aOg"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Ravindra+Bharti+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Ravindra%20Bharti%20stocks&sp=SBSCARhVQzNBWkxwLWlZWmtmNm9adUFuQkdBSkGCARhVQ2h2bWhqcW9qcUVNOUF1YXdNV1dnVmeCARhVQ1hKVmdTZzNnc3AtYVlCY1M0NXlmSkGCAQtYS05vR3VqZVpLNIIBC3NkVmlDTk5wbjJ3ggELVUlrbzkweTlQU02CAQtyWEc5V29hTHhtc4IBC0t5X0YwY1daWFFnggELX1V3UVdYMWFqaXeCAQtLUGpjNGFURU81d4IBC19HNjZodE44ZnRrggELMXI2R3o1QXRhNVGCAQtjZ3BtTGZVVGd0Z4IBCzRMUFdWUE5lajNjggELWXhTU2R4TnA3NEWCAQtrTXkzMFBiN2dsTbIBBgoECBQQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQzNBWkxwLWlZWmtmNm9adUFuQkdBSkGCARhVQ2h2bWhqcW9qcUVNOUF1YXdNV1dnVmeCARhVQ1hKVmdTZzNnc3AtYVlCY1M0NXlmSkGCAQtYS05vR3VqZVpLNIIBC3NkVmlDTk5wbjJ3ggELVUlrbzkweTlQU02CAQtyWEc5V29hTHhtc4IBC0t5X0YwY1daWFFnggELX1V3UVdYMWFqaXeCAQtLUGpjNGFURU81d4IBC19HNjZodE44ZnRrggELMXI2R3o1QXRhNVGCAQtjZ3BtTGZVVGd0Z4IBCzRMUFdWUE5lajNjggELWXhTU2R4TnA3NEWCAQtrTXkzMFBiN2dsTbIBBgoECBQQAuoBBAgCEBk%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Ravindra+Bharti+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Ravindra+Bharti+stocks&sp=SBSCARhVQzNBWkxwLWlZWmtmNm9adUFuQkdBSkGCARhVQ2h2bWhqcW9qcUVNOUF1YXdNV1dnVmeCARhVQ1hKVmdTZzNnc3AtYVlCY1M0NXlmSkGCAQtYS05vR3VqZVpLNIIBC3NkVmlDTk5wbjJ3ggELVUlrbzkweTlQU02CAQtyWEc5V29hTHhtc4IBC0t5X0YwY1daWFFnggELX1V3UVdYMWFqaXeCAQtLUGpjNGFURU81d4IBC19HNjZodE44ZnRrggELMXI2R3o1QXRhNVGCAQtjZ3BtTGZVVGd0Z4IBCzRMUFdWUE5lajNjggELWXhTU2R4TnA3NEWCAQtrTXkzMFBiN2dsTbIBBgoECBQQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQzNBWkxwLWlZWmtmNm9adUFuQkdBSkGCARhVQ2h2bWhqcW9qcUVNOUF1YXdNV1dnVmeCARhVQ1hKVmdTZzNnc3AtYVlCY1M0NXlmSkGCAQtYS05vR3VqZVpLNIIBC3NkVmlDTk5wbjJ3ggELVUlrbzkweTlQU02CAQtyWEc5V29hTHhtc4IBC0t5X0YwY1daWFFnggELX1V3UVdYMWFqaXeCAQtLUGpjNGFURU81d4IBC19HNjZodE44ZnRrggELMXI2R3o1QXRhNVGCAQtjZ3BtTGZVVGd0Z4IBCzRMUFdWUE5lajNjggELWXhTU2R4TnA3NEWCAQtrTXkzMFBiN2dsTbIBBgoECBQQAuoBBAgCEBk%3D"
+ },
+ "_fetched_at": "2026-10-08T16:03:20"
+}

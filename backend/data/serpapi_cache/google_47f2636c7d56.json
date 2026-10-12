@@ -1,0 +1,364 @@
+{
+ "search_metadata": {
+  "id": "6acb1d025c4bf41be32d9435",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/26fnabn4Nv0NRfz1vg0E0m4T_H3XTdb9yWpGRiXoFeA/6acb1d025c4bf41be32d9435.json",
+  "markdown_endpoint": "https://serpapi.com/searches/26fnabn4Nv0NRfz1vg0E0m4T_H3XTdb9yWpGRiXoFeA/6acb1d025c4bf41be32d9435.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/26fnabn4Nv0NRfz1vg0E0m4T_H3XTdb9yWpGRiXoFeA/6acb1d025c4bf41be32d9435.json_with_pixel_position",
+  "created_at": "2026-10-11 05:22:10 UTC",
+  "processed_at": "2026-10-11 05:22:10 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&oq=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/26fnabn4Nv0NRfz1vg0E0m4T_H3XTdb9yWpGRiXoFeA/6acb1d025c4bf41be32d9435.html",
+  "total_time_taken": 0.4
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Yadnya Investment Academy\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Yadnya Investment Academy\"",
+  "total_results": 57,
+  "time_taken_displayed": 0.15,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "10 Things I learned about Money",
+   "link": "https://www.youtube.com/watch?v=uwEeg1r1rZY",
+   "thumbnail": "https://serpapi.com/searches/6acb1d025c4bf41be32d9435/images/OWfj6LXHSuDouosxmJT1ZCMfsm6JvQ13u-0iAu8bS2U.jpeg",
+   "channel": "Yadnya Investment Academy",
+   "duration": "18:27",
+   "platform": "YouTube",
+   "date": "1 Dec 2021",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQYsI2dVnZyt2zz1gGtVdc6La3ivqPeIzrYDQ"
+  },
+  {
+   "position": 2,
+   "title": "Daily Stock Market News(Dec 19'2025)",
+   "link": "https://www.youtube.com/watch?v=tN7j8o08XBE",
+   "thumbnail": "https://serpapi.com/searches/6acb1d025c4bf41be32d9435/images/PwHQMKnxMboWnbk94kbjw7eWK_--J9o14YKY9oul-Dk.jpeg",
+   "channel": "Yadnya Investment Academy",
+   "duration": "14:55",
+   "platform": "YouTube",
+   "date": "19 Dec 2025",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRubTPmAqNa8Hq4pOmogD0ZMTtCtGUKCbGAEg"
+  },
+  {
+   "position": 3,
+   "title": "Why is it So Hard to Manage Investor Behavior? (A Real-Life ...",
+   "link": "https://www.youtube.com/watch?v=oBbcc7exS-E",
+   "thumbnail": "https://serpapi.com/searches/6acb1d025c4bf41be32d9435/images/RJqvIAXWsF085qL04v3uygOIXnkPfx2u0UnpESoEjP8.jpeg",
+   "channel": "Yadnya Investment Academy",
+   "duration": "5:35",
+   "platform": "YouTube",
+   "date": "10 Aug 2025",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQkP5wZlB9_KchGZTnda7c2Ssu_eg36MQigWA"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Yadnya Investment Academy",
+   "link": "https://t.me/s/investyadnya?before=420",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVc7RcSZqDeIlCHvt5kDNJGQG8h4tba8m2_TTwl6A8PTFuUIp7TS215ZwVIFlp6FPcwe9iO8HjpOWHCb_JZbNI7yqOoqrnt2BJ8he8YvaTnTw1TnvpZZUQdbE&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://t.me › investyadnya",
+   "favicon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vAnoHCGadmHdYD1AbYDnutMz9ADpUiIW50ANQG1XD_eKbvvHVYMvfJvT4hmQqNjfQAAD-9gnVO4ZwGIpr75OphP-P8z_NEOwzwOcvxoa2EmmEPdkjyWvfQvYBjNiW83pETtfq6fzExdnu4-5CPna9ibgdcaLS8_uvxNhH8z4Vnp_GQogIYOme_6O_TM_M8hgGQ-OK2zr9pEosscj_Xsk2NMuz5ruGDimE81Drkxx4PWkcjv1ePxd72T6h82Z0mnTC1R_KxUYhQWBfu1eF5R2ULdfPe2v5NpE-jO-uVdypUyZzyNldLXxsaHTA5Zil0XrNU_zYY8M6KZrFL-beAdP-pHdMU6Kg7H3PbH8dzI6bfFIr1wHFbfiCa3KFrD_0_4QZ1aGi1w3Wa3jjAAAA.webp",
+   "snippet": "How to Invest in International Stocks? Yadnya Investment Academy. How to Invest in International Stocks? | How to invest in Google, Amazon, Microsoft, etc? - ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "How to Invest in International Stocks? Yadnya Investment Academy. How to Invest in International Stocks? | How to invest in Google, Amazon, Microsoft, etc? - ...",
+     "source_info_link": "https://t.me/s/investyadnya?before=420",
+     "icon": "https://serpapi.com/images/i/UklGRlQBAABXRUJQVlA4IEgBAACQCACdASocABwAPtE-tFooIigoFAEAGglsAJ0vAnoHCGadmHdYD1AbYDnutMz9ADpUiIW50ANQG1XD_eKbvvHVYMvfJvT4hmQqNjfQAAD-9gnVO4ZwGIpr75OphP-P8z_NEOwzwOcvxoa2EmmEPdkjyWvfQvYBjNiW83pETtfq6fzExdnu4-5CPna9ibgdcaLS8_uvxNhH8z4Vnp_GQogIYOme_6O_TM_M8hgGQ-OK2zr9pEosscj_Xsk2NMuz5ruGDimE81Drkxx4PWkcjv1ePxd72T6h82Z0mnTC1R_KxUYhQWBfu1eF5R2ULdfPe2v5NpE-jO-uVdypUyZzyNldLXxsaHTA5Zil0XrNU_zYY8M6KZrFL-beAdP-pHdMU6Kg7H3PbH8dzI6bfFIr1wHFbfiCa3KFrD_0_4QZ1aGi1w3Wa3jjAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVmM3UmNTWnFEZUlsQ0h2dDVrRE5KR1FHOGg0dGJhOG0yX1RUd2w2QThQVEZ1VUlwN1RTMjE1WndWSUZscDZGUGN3ZTlpTzhIanBPV0hDYl9KWmJOSTd5cU9vcXJudDJCSjhoZThZdmFUblR3MVRudnBaWlVRZGJFEgQaAggAGsADEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJwDCAAQABgAIAAqDQoGeWFkbnlhFSIQxkAqEQoKaW52ZXN0bWVudBX68MNAKg4KB2FjYWRlbXkVTtvDQDKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZjN1JjU1pxRGVJbENIdnQ1a0ROSkdRRzhoNHRiYThtMl9UVHdsNkE4UFRGdVVJcDdUUzIxNVp3VklGbHA2RlBjd2U5aU84SGpwT1dIQ2JfSlpiTkk3eXFPb3FybnQyQko4aGU4WXZhVG5UdzFUbnZwWlpVUWRiRTogPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj5CrQFIb3cgdG8gSW52ZXN0IGluIEludGVybmF0aW9uYWwgU3RvY2tzPyA8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gSG93IHRvIEludmVzdCBpbiBJbnRlcm5hdGlvbmFsIFN0b2Nrcz8gfCBIb3cgdG8gaW52ZXN0IGluIEdvb2dsZSwgQW1hem9uLCBNaWNyb3NvZnQsIGV0Yz8gLSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVmM3UmNTWnFEZUlsQ0h2dDVrRE5KR1FHOGg0dGJhOG0yX1RUd2w2QThQVEZ1VUlwN1RTMjE1WndWSUZscDZGUGN3ZTlpTzhIanBPV0hDYl9KWmJOSTd5cU9vcXJudDJCSjhoZThZdmFUblR3MVRudnBaWlVRZGJFEgQaAggAGsADEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJwDCAAQABgAIAAqDQoGeWFkbnlhFSIQxkAqEQoKaW52ZXN0bWVudBX68MNAKg4KB2FjYWRlbXkVTtvDQDKNAS9nb3RvP3VybD1DQUVTWGdIck96QVZjN1JjU1pxRGVJbENIdnQ1a0ROSkdRRzhoNHRiYThtMl9UVHdsNkE4UFRGdVVJcDdUUzIxNVp3VklGbHA2RlBjd2U5aU84SGpwT1dIQ2JfSlpiTkk3eXFPb3FybnQyQko4aGU4WXZhVG5UdzFUbnZwWlpVUWRiRTogPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj5CrQFIb3cgdG8gSW52ZXN0IGluIEludGVybmF0aW9uYWwgU3RvY2tzPyA8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gSG93IHRvIEludmVzdCBpbiBJbnRlcm5hdGlvbmFsIFN0b2Nrcz8gfCBIb3cgdG8gaW52ZXN0IGluIEdvb2dsZSwgQW1hem9uLCBNaWNyb3NvZnQsIGV0Yz8gLSZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Telegram Messenger",
+   "read_more_link": "https://t.me/s/investyadnya?before=420#:~:text=How%20to%20Invest%20in%20International,etc%3F%20%2D%20Yadnya%20Investment%20Academy"
+  },
+  {
+   "position": 2,
+   "title": "Yadnya Investment Academy",
+   "link": "https://www.facebook.com/InvestYadnya/photos/1001767835304295/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAV4h78D78KeRZNVVwtf2YyVio4H5hAtFlJoRqWnOERPlhnFZMwgMxwTYl_Y-BeImpRmuMSpdoED3rhNHyytszDykS4TWCREhD75TTHcRZqUD0Ey26f_kzRKDq1xconEJIlua_Yae_IWfx7z7sFyhssKf0&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBUQAQ&uoh=1",
+   "displayed_link": "1 year ago",
+   "favicon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp",
+   "snippet": "Join us on our channel to view directly Yadnya Investment Academy Save and share this with someone choosing investments before defining their ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Join us on our channel to view directly Yadnya Investment Academy Save and share this with someone choosing investments before defining their ...",
+     "source_info_link": "https://www.facebook.com/InvestYadnya/photos/1001767835304295/",
+     "icon": "https://serpapi.com/images/i/UklGRqoBAABXRUJQVlA4IJ4BAABwCQCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHA3lfFBO1wAOUA_QD3LbivzzOpj3kDygCma-Rh7ANX--unhjJOlma5yFBwxABGtbBmfGruNiAAA_vYOb16QPF2AohybdBK44SXhExiRjqi-kNM3hHu_Yw7AJrL-7rM8d_rijdiRy0j-ZeW7w6RIRuMqgm_RO4f6lRIhYknlxf6mMoXAQaj6_tRkMRwBV5EdP_uMw4kqy2ZhqPi3PG5PpxthXgQWj6H4uUXexYHFqh3xYBX5dL6Dsx0kaiR__FvN_6m7_QiD5ix90ybowZPZ4EJjzU2ag7SQJ4wrf_2kwO1hPlzmly6sn4r0HSBDYT_CBJqgzjphFkqJAiVh_RCXqM9h1YZk1Q4HA5xuHo3rNsBGkg4DVoQb6lPRqlYEs1YLGkTSOA-pXnCCv-FX4cz9i_E71o22GBeX206C3AI8KMZxPikjU93MZF-5b_bVPypp2kWlnV7cYdOVJ_T0iqe1D8CmirqI-Ktb5K_S123btql4LlRpp_0gELOp_50DZ4WlAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRoNzhENzhLZVJaTlZWd3RmMll5VmlvNEg1aEF0RmxKb1JxV25PRVJQbGhuRlpNd2dNeHdUWWxfWS1CZUltcFJtdU1TcGRvRUQzcmhOSHl5dHN6RHlrUzRUV0NSRWhENzVUVEhjUlpxVUQwRXkyNmZfa3pSS0RxMXhjb25FSklsdWFfWWFlX0lXZng3ejdzRnloc3NLZjASBBoCCAAa2wMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAtwMIABAAGAAgACoNCgZ5YWRueWEVZS-SQCoRCgppbnZlc3RtZW50FXSxmkAqDgoHYWNhZGVteRVlL5JAMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRoNzhENzhLZVJaTlZWd3RmMll5VmlvNEg1aEF0RmxKb1JxV25PRVJQbGhuRlpNd2dNeHdUWWxfWS1CZUltcFJtdU1TcGRvRUQzcmhOSHl5dHN6RHlrUzRUV0NSRWhENzVUVEhjUlpxVUQwRXkyNmZfa3pSS0RxMXhjb25FSklsdWFfWWFlX0lXZng3ejdzRnloc3NLZjA6KzxiPllhZG55YSBJbnZlc3RtZW50IEFjYWRlbXk8L2I-IC0gRmFjZWJvb2tCnQFKb2luIHVzIG9uIG91ciBjaGFubmVsIHRvIHZpZXcgZGlyZWN0bHkgPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4gU2F2ZSBhbmQgc2hhcmUgdGhpcyB3aXRoIHNvbWVvbmUgY2hvb3NpbmcgaW52ZXN0bWVudHMgYmVmb3JlIGRlZmluaW5nIHRoZWlyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRoNzhENzhLZVJaTlZWd3RmMll5VmlvNEg1aEF0RmxKb1JxV25PRVJQbGhuRlpNd2dNeHdUWWxfWS1CZUltcFJtdU1TcGRvRUQzcmhOSHl5dHN6RHlrUzRUV0NSRWhENzVUVEhjUlpxVUQwRXkyNmZfa3pSS0RxMXhjb25FSklsdWFfWWFlX0lXZng3ejdzRnloc3NLZjASBBoCCAAa2wMSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAtwMIABAAGAAgACoNCgZ5YWRueWEVZS-SQCoRCgppbnZlc3RtZW50FXSxmkAqDgoHYWNhZGVteRVlL5JAMq0BL2dvdG8_dXJsPUNBRVNkZ0hyT3pBVjRoNzhENzhLZVJaTlZWd3RmMll5VmlvNEg1aEF0RmxKb1JxV25PRVJQbGhuRlpNd2dNeHdUWWxfWS1CZUltcFJtdU1TcGRvRUQzcmhOSHl5dHN6RHlrUzRUV0NSRWhENzVUVEhjUlpxVUQwRXkyNmZfa3pSS0RxMXhjb25FSklsdWFfWWFlX0lXZng3ejdzRnloc3NLZjA6KzxiPllhZG55YSBJbnZlc3RtZW50IEFjYWRlbXk8L2I-IC0gRmFjZWJvb2tCnQFKb2luIHVzIG9uIG91ciBjaGFubmVsIHRvIHZpZXcgZGlyZWN0bHkgPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4gU2F2ZSBhbmQgc2hhcmUgdGhpcyB3aXRoIHNvbWVvbmUgY2hvb3NpbmcgaW52ZXN0bWVudHMgYmVmb3JlIGRlZmluaW5nIHRoZWlyJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Facebook · Yadnya Investment Academy",
+   "read_more_link": "https://www.facebook.com/InvestYadnya/photos/1001767835304295/#:~:text=Join%20us%20on%20our%20channel,investments%20before%20defining%20their%20goals."
+  },
+  {
+   "position": 3,
+   "title": "Mutual Funds – Page 3",
+   "link": "https://blog.investyadnya.in/category/mutual-funds/page/3/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScgHrOzAVVU5steicRY8idYji-MWwFZeDrK69f66zLb-GvV2EeXYUbDznEn3vx3gF8l8wCmJoj6G2W1V_XrNSB_7o7mLMBy1SUTyJBm9lDDVPMcoWQT9-rwUvLSiBSPmJy-YqLY1mFTGfYRESDd-Rd0CySg&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › category › page",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+     "source_info_link": "https://blog.investyadnya.in/category/mutual-funds/page/3/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlZVNXN0ZWljUlk4aWRZamktTVd3RlplRHJLNjlmNjZ6TGItR3ZWMkVlWFlVYkR6bkVuM3Z4M2dGOGw4d0NtSm9qNkcyVzFWX1hyTlNCXzdvN21MTUJ5MVNVVHlKQm05bEREVlBNY29XUVQ5LXJ3VXZMU2lCU1BtSnktWXFMWTFtRlRHZllSRVNEZC1SZDBDeVNnEgQaAggAGuwDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqDQoGeWFkbnlhFazpAUEqEQoKaW52ZXN0bWVudBUi6gJBKg4KB2FjYWRlbXkVvDeRQDKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZWVTVzdGVpY1JZOGlkWWppLU1Xd0ZaZURySzY5ZjY2ekxiLUd2VjJFZVhZVWJEem5FbjN2eDNnRjhsOHdDbUpvajZHMlcxVl9Yck5TQl83bzdtTE1CeTFTVVR5SkJtOWxERFZQTWNvV1FUOS1yd1V2TFNpQlNQbUp5LVlxTFkxbUZUR2ZZUkVTRGQtUmQwQ3lTZzozTXV0dWFsIEZ1bmRzIOKAkyBQYWdlIDMgLSBZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15QqsBPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4uIE1lbnUuIFByb2R1Y3RzICZtaWRkb3Q7IFBlcnNvbmFsaXplZCBGaW5hbmNpYWwgUGxhbm5pbmcgJm1pZGRvdDsgU3RvY2sgTWFya2V0IEFuYWx5c2lzIFN1YnNjcmlwdGlvbiAmbWlkZG90OyBTaW1wbGVzdCBJbmNvbWUgVGF4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqgBL2dvdG8_dXJsPUNBRVNjZ0hyT3pBVlZVNXN0ZWljUlk4aWRZamktTVd3RlplRHJLNjlmNjZ6TGItR3ZWMkVlWFlVYkR6bkVuM3Z4M2dGOGw4d0NtSm9qNkcyVzFWX1hyTlNCXzdvN21MTUJ5MVNVVHlKQm05bEREVlBNY29XUVQ5LXJ3VXZMU2lCU1BtSnktWXFMWTFtRlRHZllSRVNEZC1SZDBDeVNnEgQaAggAGuwDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMgDCAAQABgAIAAqDQoGeWFkbnlhFazpAUEqEQoKaW52ZXN0bWVudBUi6gJBKg4KB2FjYWRlbXkVvDeRQDKoAS9nb3RvP3VybD1DQUVTY2dIck96QVZWVTVzdGVpY1JZOGlkWWppLU1Xd0ZaZURySzY5ZjY2ekxiLUd2VjJFZVhZVWJEem5FbjN2eDNnRjhsOHdDbUpvajZHMlcxVl9Yck5TQl83bzdtTE1CeTFTVVR5SkJtOWxERFZQTWNvV1FUOS1yd1V2TFNpQlNQbUp5LVlxTFkxbUZUR2ZZUkVTRGQtUmQwQ3lTZzozTXV0dWFsIEZ1bmRzIOKAkyBQYWdlIDMgLSBZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15QqsBPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4uIE1lbnUuIFByb2R1Y3RzICZtaWRkb3Q7IFBlcnNvbmFsaXplZCBGaW5hbmNpYWwgUGxhbm5pbmcgJm1pZGRvdDsgU3RvY2sgTWFya2V0IEFuYWx5c2lzIFN1YnNjcmlwdGlvbiAmbWlkZG90OyBTaW1wbGVzdCBJbmNvbWUgVGF4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/category/mutual-funds/page/3/#:~:text=Menu"
+  },
+  {
+   "position": 4,
+   "title": "Yadnya Investment Academy - Hindi",
+   "link": "https://www.youtube.com/channel/UCmWjF2A-BruGEH6FAHTpfgw",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVbfxINn8u8X64AKbVzjc7I27QXtz6Ii3osXVv2C7t2x5-t48f_6mc0i-H3gyy3OlopVrgbVT8MON0funUbK8ogYjTGMnfhT-MeJk1elr0qdFZ-ngslJE9WC1fP0eLZVcxUnEuMOU2asTJV9c&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBsQAQ&uoh=1",
+   "displayed_link": "3.9K+ followers",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Yadnya Investment Academy - Hindi · Mutual Fund Benchmark & Categories in Hindi | म्यूच्यूअल फंड्स के प्रकार · म्यूच्यूअल ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy - Hindi · Mutual Fund Benchmark & Categories in Hindi | म्यूच्यूअल फंड्स के प्रकार · म्यूच्यूअल ...",
+     "source_info_link": "https://www.youtube.com/channel/UCmWjF2A-BruGEH6FAHTpfgw",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmJmeElObjh1OFg2NEFLYlZ6amM3STI3UVh0ejZJaTNvc1hWdjJDN3QyeDUtdDQ4Zl82bWMwaS1IM2d5eTNPbG9wVnJnYlZUOE1PTjBmdW5VYks4b2dZalRHTW5maFQtTWVKazFlbHIwcWRGWi1uZ3NsSkU5V0MxZlAwZUxaVmN4VW5FdU1PVTJhc1RKVjljEgQaAggAGpoEEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQPYDCAAQABgAIAAqDQoGeWFkbnlhFXg9xUAqEQoKaW52ZXN0bWVudBW8iMBAKg4KB2FjYWRlbXkVeNS9QDKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZiZnhJTm44dThYNjRBS2JWempjN0kyN1FYdHo2SWkzb3NYVnYyQzd0Mng1LXQ0OGZfNm1jMGktSDNneXkzT2xvcFZyZ2JWVDhNT04wZnVuVWJLOG9nWWpUR01uZmhULU1lSmsxZWxyMHFkRlotbmdzbEpFOVdDMWZQMGVMWlZjeFVuRXVNT1UyYXNUSlY5YzoyPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4gLSBIaW5kaSAtIFlvdVR1YmVC3QE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPiAtIEhpbmRpICZtaWRkb3Q7IE11dHVhbCBGdW5kIEJlbmNobWFyayAmYW1wOyBDYXRlZ29yaWVzIGluIEhpbmRpIHwg4KSu4KWN4KSv4KWC4KSa4KWN4KSv4KWC4KSF4KSyIOCkq-CkguCkoeCljeCkuCDgpJXgpYcg4KSq4KWN4KSw4KSV4KS-4KSwICZtaWRkb3Q7IOCkruCljeCkr-ClguCkmuCljeCkr-ClguCkheCksiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmJmeElObjh1OFg2NEFLYlZ6amM3STI3UVh0ejZJaTNvc1hWdjJDN3QyeDUtdDQ4Zl82bWMwaS1IM2d5eTNPbG9wVnJnYlZUOE1PTjBmdW5VYks4b2dZalRHTW5maFQtTWVKazFlbHIwcWRGWi1uZ3NsSkU5V0MxZlAwZUxaVmN4VW5FdU1PVTJhc1RKVjljEgQaAggAGpoEEgAaACIAKgAyBggBEgJpbjoAQgQIAhAASgBaAHIAegCCQPYDCAAQABgAIAAqDQoGeWFkbnlhFXg9xUAqEQoKaW52ZXN0bWVudBW8iMBAKg4KB2FjYWRlbXkVeNS9QDKlAS9nb3RvP3VybD1DQUVTY0FIck96QVZiZnhJTm44dThYNjRBS2JWempjN0kyN1FYdHo2SWkzb3NYVnYyQzd0Mng1LXQ0OGZfNm1jMGktSDNneXkzT2xvcFZyZ2JWVDhNT04wZnVuVWJLOG9nWWpUR01uZmhULU1lSmsxZWxyMHFkRlotbmdzbEpFOVdDMWZQMGVMWlZjeFVuRXVNT1UyYXNUSlY5YzoyPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4gLSBIaW5kaSAtIFlvdVR1YmVC3QE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPiAtIEhpbmRpICZtaWRkb3Q7IE11dHVhbCBGdW5kIEJlbmNobWFyayAmYW1wOyBDYXRlZ29yaWVzIGluIEhpbmRpIHwg4KSu4KWN4KSv4KWC4KSa4KWN4KSv4KWC4KSF4KSyIOCkq-CkguCkoeCljeCkuCDgpJXgpYcg4KSq4KWN4KSw4KSV4KS-4KSwICZtaWRkb3Q7IOCkruCljeCkr-ClguCkmuCljeCkr-ClguCkheCksiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "YouTube · Yadnya Investment Academy - Hindi",
+   "read_more_link": "https://www.youtube.com/channel/UCmWjF2A-BruGEH6FAHTpfgw#:~:text=Yadnya%20Investment%20Academy%20%2D%20Hindi&text=Mutual%20Fund%20Benchmark%20%26%20Categories,%7C%20%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%85%E0%A4%B2%20%E0%A4%AB%E0%A4%82%E0%A4%A1%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%87%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A4%BE%E0%A4%B0&text=%E0%A4%AE%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%9A%E0%A5%8D%E0%A4%AF%E0%A5%82%E0%A4%85%E0%A4%B2%20%E0%A4%AB%E0%A4%82%E0%A4%A1%E0%A5%8D%E0%A4%B8%20%E0%A4%95%E0%A5%87%20Basics%20%2D,Hindi"
+  },
+  {
+   "position": 5,
+   "title": "Tag: Investment",
+   "link": "https://blog.investyadnya.in/tag/investment/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAV74t_2PZBmTT_qtZ9Aao3O-R_KhUESvF9eqDGuan12XgNYKV3u2WdqyC7NvgR-m0ZlCi-C1BT0M_wJ3ASPKSz0VSoFjLLoR_sQ0vpBdiJHAg6WEeFy9GJbN00Kqy6o4c&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › tag › investment",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy. Menu. Products · Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy. Menu. Products · Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest ...",
+     "source_info_link": "https://blog.investyadnya.in/tag/investment/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjc0dF8yUFpCbVRUX3F0WjlBYW8zTy1SX0toVUVTdkY5ZXFER3VhbjEyWGdOWUtWM3UyV2RxeUM3TnZnUi1tMFpsQ2ktQzFCVDBNX3dKM0FTUEtTejBWU29GakxMb1Jfc1EwdnBCZGlKSEFnNldFZUZ5OUdKYk4wMEtxeTZvNGMSBBoCCAAa2AMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAMIABAAGAAgACoNCgZ5YWRueWEVWrkBQSoRCgppbnZlc3RtZW50FXICIkEqDgoHYWNhZGVteRW0cpNAMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjc0dF8yUFpCbVRUX3F0WjlBYW8zTy1SX0toVUVTdkY5ZXFER3VhbjEyWGdOWUtWM3UyV2RxeUM3TnZnUi1tMFpsQ2ktQzFCVDBNX3dKM0FTUEtTejBWU29GakxMb1Jfc1EwdnBCZGlKSEFnNldFZUZ5OUdKYk4wMEtxeTZvNGM6K1RhZzogSW52ZXN0bWVudCAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCsgE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjc0dF8yUFpCbVRUX3F0WjlBYW8zTy1SX0toVUVTdkY5ZXFER3VhbjEyWGdOWUtWM3UyV2RxeUM3TnZnUi1tMFpsQ2ktQzFCVDBNX3dKM0FTUEtTejBWU29GakxMb1Jfc1EwdnBCZGlKSEFnNldFZUZ5OUdKYk4wMEtxeTZvNGMSBBoCCAAa2AMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAtAMIABAAGAAgACoNCgZ5YWRueWEVWrkBQSoRCgppbnZlc3RtZW50FXICIkEqDgoHYWNhZGVteRW0cpNAMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVjc0dF8yUFpCbVRUX3F0WjlBYW8zTy1SX0toVUVTdkY5ZXFER3VhbjEyWGdOWUtWM3UyV2RxeUM3TnZnUi1tMFpsQ2ktQzFCVDBNX3dKM0FTUEtTejBWU29GakxMb1Jfc1EwdnBCZGlKSEFnNldFZUZ5OUdKYk4wMEtxeTZvNGM6K1RhZzogSW52ZXN0bWVudCAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCsgE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/tag/investment/#:~:text=Menu"
+  },
+  {
+   "position": 6,
+   "title": "Tag: What Should Individuals Do?",
+   "link": "https://blog.investyadnya.in/tag/what-should-individuals-do/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdAHrOzAVL_0EyXU4aJZNajCwCyUfS9Tt08GBL5rE6ZZLPRlPl9W2mSfyrktzn-uIoeXV4qY4scU4hVo2miboBXlaxDQ1i48E3aVqsF5MNSzzHqZSD394dPVUWbgalNvzOKTthCA_hEOrUkEADDUhRHokRODA&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › tag › what-should-individ...",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+     "source_info_link": "https://blog.investyadnya.in/tag/what-should-individuals-do/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkxfMEV5WFU0YUpaTmFqQ3dDeVVmUzlUdDA4R0JMNXJFNlpaTFBSbFBsOVcybVNmeXJrdHpuLXVJb2VYVjRxWTRzY1U0aFZvMm1pYm9CWGxheERRMWk0OEUzYVZxc0Y1TU5TenpIcVpTRDM5NGRQVlVXYmdhbE52ek9LVHRoQ0FfaEVPclVrRUFERFVoUkhva1JPREESBBoCCAAa8gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoNCgZ5YWRueWEV2qH3QCoRCgppbnZlc3RtZW50Fdqh90AqDgoHYWNhZGVteRXaoYdAMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkxfMEV5WFU0YUpaTmFqQ3dDeVVmUzlUdDA4R0JMNXJFNlpaTFBSbFBsOVcybVNmeXJrdHpuLXVJb2VYVjRxWTRzY1U0aFZvMm1pYm9CWGxheERRMWk0OEUzYVZxc0Y1TU5TenpIcVpTRDM5NGRQVlVXYmdhbE52ek9LVHRoQ0FfaEVPclVrRUFERFVoUkhva1JPREE6N1doYXQgU2hvdWxkIEluZGl2aWR1YWxzIERvPyAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCqwE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0IEluY29tZSBUYXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkxfMEV5WFU0YUpaTmFqQ3dDeVVmUzlUdDA4R0JMNXJFNlpaTFBSbFBsOVcybVNmeXJrdHpuLXVJb2VYVjRxWTRzY1U0aFZvMm1pYm9CWGxheERRMWk0OEUzYVZxc0Y1TU5TenpIcVpTRDM5NGRQVlVXYmdhbE52ek9LVHRoQ0FfaEVPclVrRUFERFVoUkhva1JPREESBBoCCAAa8gMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAzgMIABAAGAAgACoNCgZ5YWRueWEV2qH3QCoRCgppbnZlc3RtZW50Fdqh90AqDgoHYWNhZGVteRXaoYdAMqoBL2dvdG8_dXJsPUNBRVNkQUhyT3pBVkxfMEV5WFU0YUpaTmFqQ3dDeVVmUzlUdDA4R0JMNXJFNlpaTFBSbFBsOVcybVNmeXJrdHpuLXVJb2VYVjRxWTRzY1U0aFZvMm1pYm9CWGxheERRMWk0OEUzYVZxc0Y1TU5TenpIcVpTRDM5NGRQVlVXYmdhbE52ek9LVHRoQ0FfaEVPclVrRUFERFVoUkhva1JPREE6N1doYXQgU2hvdWxkIEluZGl2aWR1YWxzIERvPyAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCqwE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0IEluY29tZSBUYXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/tag/what-should-individuals-do/#:~:text=Menu"
+  },
+  {
+   "position": 7,
+   "title": "Contact",
+   "link": "https://blog.investyadnya.in/contact/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAV5TDFn4vRkf_XvTdL7mwf_iSyKkmqEp841_6LlhUcbL8wb5t9IBKRvuM3R8J5UXu-sdGH8fh-0_wBhQMRNgpXiejkiRiVT8hVFXmdOEfnFZqFtxg21YR_MQ&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › contact",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+     "source_info_link": "https://blog.investyadnya.in/contact/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjVUREZuNHZSa2ZfWHZUZEw3bXdmX2lTeUtrbXFFcDg0MV82TGxoVWNiTDh3YjV0OUlCS1J2dU0zUjhKNVVYdS1zZEdIOGZoLTBfd0JoUU1STmdwWGllamtpUmlWVDhoVkZYbWRPRWZuRlpxRnR4ZzIxWVJfTVESBBoCCAAawAMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAnAMIABAAGAAgACoNCgZ5YWRueWEV4hn4QCoRCgppbnZlc3RtZW50FeIZ-EAqDgoHYWNhZGVteRXiGYhAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjVUREZuNHZSa2ZfWHZUZEw3bXdmX2lTeUtrbXFFcDg0MV82TGxoVWNiTDh3YjV0OUlCS1J2dU0zUjhKNVVYdS1zZEdIOGZoLTBfd0JoUU1STmdwWGllamtpUmlWVDhoVkZYbWRPRWZuRlpxRnR4ZzIxWVJfTVE6I0NvbnRhY3QgLSBZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15QqsBPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4uIE1lbnUuIFByb2R1Y3RzICZtaWRkb3Q7IFBlcnNvbmFsaXplZCBGaW5hbmNpYWwgUGxhbm5pbmcgJm1pZGRvdDsgU3RvY2sgTWFya2V0IEFuYWx5c2lzIFN1YnNjcmlwdGlvbiAmbWlkZG90OyBTaW1wbGVzdCBJbmNvbWUgVGF4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjVUREZuNHZSa2ZfWHZUZEw3bXdmX2lTeUtrbXFFcDg0MV82TGxoVWNiTDh3YjV0OUlCS1J2dU0zUjhKNVVYdS1zZEdIOGZoLTBfd0JoUU1STmdwWGllamtpUmlWVDhoVkZYbWRPRWZuRlpxRnR4ZzIxWVJfTVESBBoCCAAawAMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAnAMIABAAGAAgACoNCgZ5YWRueWEV4hn4QCoRCgppbnZlc3RtZW50FeIZ-EAqDgoHYWNhZGVteRXiGYhAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVjVUREZuNHZSa2ZfWHZUZEw3bXdmX2lTeUtrbXFFcDg0MV82TGxoVWNiTDh3YjV0OUlCS1J2dU0zUjhKNVVYdS1zZEdIOGZoLTBfd0JoUU1STmdwWGllamtpUmlWVDhoVkZYbWRPRWZuRlpxRnR4ZzIxWVJfTVE6I0NvbnRhY3QgLSBZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15QqsBPGI-WWFkbnlhIEludmVzdG1lbnQgQWNhZGVteTwvYj4uIE1lbnUuIFByb2R1Y3RzICZtaWRkb3Q7IFBlcnNvbmFsaXplZCBGaW5hbmNpYWwgUGxhbm5pbmcgJm1pZGRvdDsgU3RvY2sgTWFya2V0IEFuYWx5c2lzIFN1YnNjcmlwdGlvbiAmbWlkZG90OyBTaW1wbGVzdCBJbmNvbWUgVGF4Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/contact/#:~:text=Menu"
+  },
+  {
+   "position": 8,
+   "title": "Page 98 – Financial Planning Made Simple",
+   "link": "https://blog.investyadnya.in/page/98/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVHslXP3OyeCJoxAuCK9oD1Xw4t36Oe4jcAD5-xXAPPGYkVdY2CgBliI8HYWVE8Hrzq6l8scuUq8V2wzGQEo0z_ocK1EK0rX3waWTpXsCMAlUqT8ldnnyCew&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › page",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy · Comprehensive Mutual Fund Reviews · Financial Planning Workshop – Book your ticket now! · Simplest Income Tax Information Bank.",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy · Comprehensive Mutual Fund Reviews · Financial Planning Workshop – Book your ticket now! · Simplest Income Tax Information Bank.",
+     "source_info_link": "https://blog.investyadnya.in/page/98/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkhzbFhQM095ZUNKb3hBdUNLOW9EMVh3NHQzNk9lNGpjQUQ1LXhYQVBQR1lrVmRZMkNnQmxpSThIWVdWRThIcnpxNmw4c2N1VXE4VjJ3ekdRRW8wel9vY0sxRUswclgzd2FXVHBYc0NNQWxVcVQ4bGRubnlDZXcSBBoCCAAa5QMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwQMIABAAGAAgACoNCgZ5YWRueWEV6X37QCoRCgppbnZlc3RtZW50Fel9-0AqDgoHYWNhZGVteRXpfYtAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkhzbFhQM095ZUNKb3hBdUNLOW9EMVh3NHQzNk9lNGpjQUQ1LXhYQVBQR1lrVmRZMkNnQmxpSThIWVdWRThIcnpxNmw4c2N1VXE4VjJ3ekdRRW8wel9vY0sxRUswclgzd2FXVHBYc0NNQWxVcVQ4bGRubnlDZXc6OkZpbmFuY2lhbCBQbGFubmluZyBNYWRlIFNpbXBsZSAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCuQE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPiAmbWlkZG90OyBDb21wcmVoZW5zaXZlIE11dHVhbCBGdW5kIFJldmlld3MgJm1pZGRvdDsgRmluYW5jaWFsIFBsYW5uaW5nIFdvcmtzaG9wIOKAkyBCb29rIHlvdXIgdGlja2V0IG5vdyEgJm1pZGRvdDsgU2ltcGxlc3QgSW5jb21lIFRheCBJbmZvcm1hdGlvbiBCYW5rLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkhzbFhQM095ZUNKb3hBdUNLOW9EMVh3NHQzNk9lNGpjQUQ1LXhYQVBQR1lrVmRZMkNnQmxpSThIWVdWRThIcnpxNmw4c2N1VXE4VjJ3ekdRRW8wel9vY0sxRUswclgzd2FXVHBYc0NNQWxVcVQ4bGRubnlDZXcSBBoCCAAa5QMSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAwQMIABAAGAAgACoNCgZ5YWRueWEV6X37QCoRCgppbnZlc3RtZW50Fel9-0AqDgoHYWNhZGVteRXpfYtAMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVkhzbFhQM095ZUNKb3hBdUNLOW9EMVh3NHQzNk9lNGpjQUQ1LXhYQVBQR1lrVmRZMkNnQmxpSThIWVdWRThIcnpxNmw4c2N1VXE4VjJ3ekdRRW8wel9vY0sxRUswclgzd2FXVHBYc0NNQWxVcVQ4bGRubnlDZXc6OkZpbmFuY2lhbCBQbGFubmluZyBNYWRlIFNpbXBsZSAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCuQE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPiAmbWlkZG90OyBDb21wcmVoZW5zaXZlIE11dHVhbCBGdW5kIFJldmlld3MgJm1pZGRvdDsgRmluYW5jaWFsIFBsYW5uaW5nIFdvcmtzaG9wIOKAkyBCb29rIHlvdXIgdGlja2V0IG5vdyEgJm1pZGRvdDsgU2ltcGxlc3QgSW5jb21lIFRheCBJbmZvcm1hdGlvbiBCYW5rLiICEAFIAFgAaAA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/page/98/#:~:text=Menu&text=Comprehensive%20Mutual%20Fund%20Reviews&text=Financial%20Planning%20Workshop%20%E2%80%93%20Book,your%20ticket%20now!&text=Simplest%20Income%20Tax%20Information%20Bank"
+  },
+  {
+   "position": 9,
+   "title": "Tag: investing tips",
+   "link": "https://blog.investyadnya.in/tag/investing-tips/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaAHrOzAV3QEpL5YvF2G42nER7TnkMsIiRPU3PQ4Lj3s3WIxHP9luGd1ZtED262J4cVWmJEPAsvLgj9W2T6mcJwLnTztoVsFiL6kskzt8VJfd8MR9bCJkiXkfuoRnlq9ZGFxfqF3Kq-Xv&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://blog.investyadnya.in › tag › investing-tips",
+   "favicon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp",
+   "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+   "snippet_highlighted_words": [
+    "Yadnya Investment Academy"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ...",
+     "source_info_link": "https://blog.investyadnya.in/tag/investing-tips/",
+     "icon": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4IIABAABQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0y3WfpgQYDCr7u99mslVnkHQbSMz6P_kc6Ey9ycm13kk9ZDlKbfLYAAP7zrh3lieZp5csccDRYsmobGy_ww9H3lrbTbs8zDeGD464MvI3QOLhmYrKVXIt6nvQPNT_ZHz-yhVmoL6BN-neaNIl4rV3_VRms4g6s65JuOMmjQ9qftSO3XWRGXRnp65gfFyMmqWaGa87_e7I_gcvhSFWTIT2X49dM_aGLdo6P-_1l4b_85gow2lOetHGwtN1VgDFwVS_4IBQSLYfI2WjoPxOrsSglBKGktA2JyD4Q_f4__BvzBkIPM0yc5CntLahFmKIXWC-NQWJs6zTd_g4Ixqb7xTmyyeL_gdT5yz-FZauMv2VXO0YdBmV_LB-Vfot-Xf-o6e7jxmbpqz4IK2OH0H40KLIxL5ZM9IN_-f_rWdMTWEq0h_3a_XS9xdue7JnE08RLrfRUgOB9H-9Lk16Nj4gwf_yhr1GAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjNRRXBMNVl2RjJHNDJuRVI3VG5rTXNJaVJQVTNQUTRMajNzM1dJeEhQOWx1R2QxWnRFRDI2Mko0Y1ZXbUpFUEFzdkxnajlXMlQ2bWNKd0xuVHp0b1ZzRmlMNmtza3p0OFZKZmQ4TVI5YkNKa2lYa2Z1b1JubHE5WkdGeGZxRjNLcS1YdhIEGgIIABrVAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCxAwgAEAAYACAAKg0KBnlhZG55YRXMrgFBKhEKCmludmVzdG1lbnQVnLkHQSoOCgdhY2FkZW15FZddk0AymgEvZ290bz91cmw9Q0FFU2FBSHJPekFWM1FFcEw1WXZGMkc0Mm5FUjdUbmtNc0lpUlBVM1BRNExqM3MzV0l4SFA5bHVHZDFadEVEMjYySjRjVldtSkVQQXN2TGdqOVcyVDZtY0p3TG5UenRvVnNGaUw2a3NrenQ4VkpmZDhNUjliQ0praVhrZnVvUm5scTlaR0Z4ZnFGM0txLVh2OippbnZlc3RpbmcgdGlwcyAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCqwE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0IEluY29tZSBUYXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpoBL2dvdG8_dXJsPUNBRVNhQUhyT3pBVjNRRXBMNVl2RjJHNDJuRVI3VG5rTXNJaVJQVTNQUTRMajNzM1dJeEhQOWx1R2QxWnRFRDI2Mko0Y1ZXbUpFUEFzdkxnajlXMlQ2bWNKd0xuVHp0b1ZzRmlMNmtza3p0OFZKZmQ4TVI5YkNKa2lYa2Z1b1JubHE5WkdGeGZxRjNLcS1YdhIEGgIIABrVAxIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCxAwgAEAAYACAAKg0KBnlhZG55YRXMrgFBKhEKCmludmVzdG1lbnQVnLkHQSoOCgdhY2FkZW15FZddk0AymgEvZ290bz91cmw9Q0FFU2FBSHJPekFWM1FFcEw1WXZGMkc0Mm5FUjdUbmtNc0lpUlBVM1BRNExqM3MzV0l4SFA5bHVHZDFadEVEMjYySjRjVldtSkVQQXN2TGdqOVcyVDZtY0p3TG5UenRvVnNGaUw2a3NrenQ4VkpmZDhNUjliQ0praVhrZnVvUm5scTlaR0Z4ZnFGM0txLVh2OippbnZlc3RpbmcgdGlwcyAtIFlhZG55YSBJbnZlc3RtZW50IEFjYWRlbXlCqwE8Yj5ZYWRueWEgSW52ZXN0bWVudCBBY2FkZW15PC9iPi4gTWVudS4gUHJvZHVjdHMgJm1pZGRvdDsgUGVyc29uYWxpemVkIEZpbmFuY2lhbCBQbGFubmluZyAmbWlkZG90OyBTdG9jayBNYXJrZXQgQW5hbHlzaXMgU3Vic2NyaXB0aW9uICZtaWRkb3Q7IFNpbXBsZXN0IEluY29tZSBUYXgmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Invest Yadnya",
+   "read_more_link": "https://blog.investyadnya.in/tag/investing-tips/#:~:text=Menu"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Yadnya investment academy review",
+   "link": "https://www.google.com/search?sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&q=Yadnya+investment+academy+review&sa=X&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ1QJ6BAhBEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Yadnya+investment+academy+review"
+  },
+  {
+   "block_position": 1,
+   "query": "Yadnya investment academy salary",
+   "link": "https://www.google.com/search?sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&q=Yadnya+investment+academy+salary&sa=X&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ1QJ6BAhCEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Yadnya+investment+academy+salary"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=10&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8NMDegQIPhAO",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=10&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8tMDegQIPhAE",
+   "3": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=20&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8tMDegQIPhAG",
+   "4": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=30&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8tMDegQIPhAI",
+   "5": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=40&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8tMDegQIPhAK",
+   "6": "https://www.google.com/search?q=site:sebi.gov.in+%22Yadnya+Investment+Academy%22&sca_esv=9c6e8c09599e8c8d&hl=en&gl=in&sxsrf=APpeQnusP_x_LVlrD45wzSLtFFl8s6HTag:1791696130715&ei=Ah3LatSTKv2LptQPs8OXkQU&start=50&sa=N&sstk=AS6-VmJAcbDL6AuVqZ6QWTSiXpOSpBkOuyonaHJRaUUnug7Srv2LdgHyD6Xl-UBCcPfBAJOZOGJVc7SCsw0y9N93ArHSVQddyPxi1g&ved=2ahUKEwjUnKmbnLGXAxX9hYkEHbPhJVIQ8tMDegQIPhAM"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Yadnya+Investment+Academy%22&start=50"
+  }
+ },
+ "_fetched_at": "2026-10-11T05:22:08"
+}

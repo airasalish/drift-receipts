@@ -1,0 +1,1496 @@
+{
+ "search_metadata": {
+  "id": "6ac9453ef61b7d9ba2a296fe",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/1nUn-PgcFdcxN84WrOWSMriDkq1F9rXq64ef_ySL6hg/6ac9453ef61b7d9ba2a296fe.json",
+  "markdown_endpoint": "https://serpapi.com/searches/1nUn-PgcFdcxN84WrOWSMriDkq1F9rXq64ef_ySL6hg/6ac9453ef61b7d9ba2a296fe.md",
+  "created_at": "2026-10-09 19:49:18 UTC",
+  "processed_at": "2026-10-09 19:49:18 UTC",
+  "google_news_url": "https://news.google.com/search?q=Lalithaa+Jewellery+Mart+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/1nUn-PgcFdcxN84WrOWSMriDkq1F9rXq64ef_ySL6hg/6ac9453ef61b7d9ba2a296fe.html",
+  "total_time_taken": 0.74
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Lalithaa Jewellery Mart share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Lalithaa Jewellery Mart Ltd. Share Price Live Today",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/lalithaa-jewellery-mart-ltd-share-price/K5RX9O/",
+   "thumbnail": "https://images.cnbctv18.com/cnbc-assets/images/cnbc-english-logo-og.png?im=FitAndFill,width=1200,height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthSEEyUTBacVRWZHRjR1owVFJDb0FSaXNBaWdCTWdhaGhKS01NUVk",
+   "date": "10/09/2026, 07:44 AM, +0000 UTC",
+   "iso_date": "2026-10-09T07:44:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Lalithaa Jewellery IPO Turns Into A Blockbuster: Shares List 32% Higher; Check How Much Investors Made",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Madhulika Pandey"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/lalithaa-jewellery-ipo-turns-into-a-blockbuster-shares-list-32-higher-check-how-much-investors-ma-1530241.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/08/lalithaajewelleryipo6-74781787549393.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNjV1JITXpRdFdWTmFORmhtVFJEU0FoallCQ2dLTWdtRnBJQWtQdVNwbUFB",
+   "date": "10/07/2026, 07:37 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:37:52Z"
+  },
+  {
+   "position": 3,
+   "title": "LALITHAA 52 Week High Streak: Fourth Straight Session",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-lalithaa-jewellery-mart-l-share-near-52-week-consecutive-high-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/lalithaa-jewellery-mart-l-lalithaa-jewellery-mart-52-week-high-streak-fourth.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNlWE5JUWpSWFh5MXJhQzB5VFJDUUF4ai1CU2dLTWdhQklJcWpuZ2s",
+   "date": "10/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Shanti Gold International Buys 1.44 Lakh Shares In Lalithaa Jewellery Mart For ₹3.88 Crore",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/shanti-gold-international-buys-1-44-lakh-shares-in-lalithaa-jewellery-mart-for-3-88-crore-3965610-PE1_",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3965610_PE_1_CORPORATE_31_08_2026_16x9_8b3bb2d3b7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpaSHBhYUdwM1RVVjZXRmRaVFJDZUF4amxCU2dLTWdZWkE0cXRGUVU",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Lalithaa Jewellery Mart to come up with IPO on August 17",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/lalithaa-jewellery-mart-to-come-up-with-ipo-on-august-17422594",
+   "date": "10/07/2026, 10:27 PM, +0000 UTC",
+   "iso_date": "2026-10-07T22:27:48Z"
+  },
+  {
+   "position": 6,
+   "title": "Lalithaa Jewellery Mart Share Price Today: Stock Lists at 31.84% Premium. ₹4,736 profit per lot",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/lalithaa-jewellery-mart-share-price-today-stock-lists-at-31-84-premium-4736-profit-per-lot",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Lalithaa Jewellery Mart shares shine on debut, list at 32% premium over IPO price",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-to-debut-today-gmp-signals-37-premium-ahead-of-listing/articleshow/133449448.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133449581,width-1200,height-900,resizemode-4,imgsize-2329212/lalithaa-jewellery-mart-share-debut-strongly-br.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjMmxDUVhKT05tbDBiV0poVFJEZ0F4aUFCU2dLTWdZQlVvaUZJZ2c",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Did you get Lalithaa Jewellery Mart IPO? Shares up 36% from IPO price -What's next for investors? Buy more?Sell or hold?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/did-you-get-lalithaa-jewellery-mart-ipo-shares-up-36-from-ipo-price-whats-next-for-investors-buy-more-sell-or-hold-11787554814815.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/g1417d0f500e6d98725308785bc2c76af7b1dd6f1270f48076_1787557207992_1787557208109_dd158f66-542c-4e24-b837-3f6509f29b49.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNaWEZNTFRkdmVqVkJORFZNVFJDZkF4ampCU2dLTWdZQkFJNTVBQTA",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Lalithaa Jewellery Mart shares list at 32% premium on NSE, BSE; here's how much investors made per lot",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/ipo/lalithaa-jewellery-mart-shares-list-at-32-premium-on-nse-here-s-how-much-investors-made-per-lot/article-199090/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lalithaa-jewellery-ipo-share-price-listing-nse-bse.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTMmRuT1hwZlRFUkJXVU5yVFJDZkF4ampCU2dLTWdZQkVZenFuUVk",
+   "date": "08/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-23T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Lalithaa Jewellery shares end with 24% listing gains, Horizon Industrial Parks end below ₹60-IPO price, should you buy?",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/lalithaa-jewellery-mart-shares-debut-at-32-premium-over-ipo-price-should-you-buy-blackstone-backed-horizon-industrial-parks-makes-muted-debut/article71383216.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/news/j3mgvi/article71385096.ece/alternates/LANDSCAPE_1200/BL25_MR_Lalithaa%20Jewellery%20Listing%20Ceremony.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlYMUkwUkhORWRrVXlZMFpqVFJDZkF4ampCU2dLTWdZQklKclBJQW8",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Lalithaa Jewellery Mart Share Price Hits 5% Upper Circuit — Here's Why",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-share-price-today-5-percent-upper-circuit-q1-earnings-12079286",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/fjf4p9kk_jewellery-stocks-under-market-focus_625x300_21_September_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJhMHhUVkc1WE1ETnZMVk5PVFJDZkF4ampCU2dLTWdZVllJNktzUVk",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Lalithaa Jewellery shares shine bright on market debut, list at 32% premium",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Saloni Goel"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/lalithaa-jewellery-share-price-shines-bright-on-market-debut-lists-at-32-premium-126082400176_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/10/full/1778431011-2549.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpXbkp1TVRkdWEwTXRNVEZTVFJETEF4aWJCU2dLTWdZQklaeFFGUW8",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Lalithaa Jewellery Mart (NSEI:LALITHAA) - Stock Analysis",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/consumer-durables/nse-lalithaa/lalithaa-jewellery-mart-shares",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/logos/www.lalithaajewellery.com?size=74",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiM1ZSUjFGR2RVbDBTSGRNVFJDcUJCaXFCQ2dLTWdhWlU0cHFLUVU",
+   "date": "08/22/2026, 01:29 AM, +0000 UTC",
+   "iso_date": "2026-08-22T01:29:57Z"
+  },
+  {
+   "position": 14,
+   "title": "Lalithaa Jewellery Mart Ltd Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/387588/lalithaa-jewellery-mart-ltd/company-financial/",
+   "date": "08/29/2026, 11:04 PM, +0000 UTC",
+   "iso_date": "2026-08-29T23:04:54Z"
+  },
+  {
+   "position": 15,
+   "title": "Small-Cap Jewellery Stocks: Lalithaa Jewellery, Goldiam, Augmont",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/small-cap-jewellery-stocks-strong-roadmap",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/3-small-cap-jewellery-stocks-with-a-strong-future-roadmap-lalithaa-jewellery.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJPV3R4VWpBNU0wa3haWE4yVFJDUUF4ai1CU2dLTWdZQk1JcWpIZ28",
+   "date": "10/07/2026, 03:53 AM, +0000 UTC",
+   "iso_date": "2026-10-07T03:53:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Lalithaa Jewellery Mart shares surge 36% from IPO price after strong market debut. Should you buy, sell or",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-surge-36-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/133452015.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133452059,width-1200,height-900,resizemode-4,imgsize-2199860/lalithaa-jewellery-mart-shares-surge-36-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-holdbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWekZmTFc0NVpGaFRYMEkxVFJEZ0F4aUFCU2dLTWdhQmdZeUZNZ1U",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Lalithaa Jewellery Mart IPO GMP Today: Latest GMP, Subscription Status and Estimated Listing Price",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/ipo/lalithaa-jewellery-mart-ipo-gmp-today-latest-gmp-subscription-status-and-estimated-listing-price",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Lalithaa Jewellery Mart makes strong debut, lists at 32% premium to IPO price",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lalithaa-jewellery-mart-share-price-ipo-listing-today-makes-strong-debut-premium-issue-price-nse-bse-19975395.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-2a1ed2a280f58f6c19cc46430186e39b.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVVNRGRNYVZwT1YwNHlTV2c0VFJDZkF4ampCU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Lalithaa Jewellery Mart share price hits 5% upper circuit today | Should you buy, sell or hold?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lalithaa-jewellery-mart-share-price-hits-5-upper-circuit-today-should-you-buy-sell-or-hold-11790049404603.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/22/1600x900/logo/Lalithaa_1790050382576_0EhM_1790050382840_Uyat_e6fb0692-f4aa-4be7-bb7d-d6c8f0574241_ZRPR.jfif",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdaVmhQVXpCRlNGbGZOelJXVFJDZkF4ampCU2dLTWdhWk1KU05xUWM",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Lalithaa Jewellery share price hits 5% upper circuit | What’s driving the rally?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lalithaa-jewellery-share-price-hits-5-upper-circuit-what-s-driving-the-rally-11790139873026.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/23/1600x900/logo/Lalithaa_Jewellery_1790140938637_WMn2_1790140943027_lxlv_73556215-94d9-4d77-998c-31396b33fd6c_Gico.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpXWEJhTVhjeFFsVm1YMW8wVFJDZkF4amlCU2dLTWdZVklZalNRQVE",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Lalithaa Jewellery IPO: Margin, cash flow risks linger; bid or avoid?",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/ipo/lalithaa-jewellery-ipo-review-latest-gmp-margin-cash-flow-risks-linger-bid-or-avoid-126081400115_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/10/full/1770746881-1061.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVViVXQ2ZDNaek9YSnZRM0JJVFJERUF4aW1CU2dLTWdhdFJJNnZvUVk",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "LALITHAA JEWELLERY MART L Share Price",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/stocks/lalithaa-jewellery-mart-l-share-price/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/logos/BSE_EQ%7CINE0K9O01026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUdlbUp3YVU1YWVURnlWRjlsVFJEekFoaWJCQ2dLTWdzWk00cUtwU1JORXNtZXVR",
+   "date": "08/22/2026, 02:41 AM, +0000 UTC",
+   "iso_date": "2026-08-22T02:41:20Z"
+  },
+  {
+   "position": 23,
+   "title": "Lalithaa Jewellery Mart Share Price Falls After Strong Listing. What Should Allotted Investors Do?",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-share-price-falls-after-strong-listing-what-should-allotted-investors-do-11950649",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/aksma2oc_lalithaa-jewellery_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNakJ3TTFKcVZWWlNXWEZqVFJDZkF4ampCU2dLTWdhQkFZeVFFQXc",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Lalithaa Jewellery Q1FY27 net profit falls 40% QoQ to ₹208 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/lalithaa-jewellery-q1fy27-results-net-profit-falls-40-qoq-208-crore/50678868",
+   "thumbnail": "https://news-images.dhan.co/lalithaa-jewellery-q1fy27-results-net-profit-falls-40-qoq-208-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhiall5V1Uxa1JXUklhSFZKVFJDaUF4amRCU2dLTWdZWmc0eU10UVU",
+   "date": "09/11/2026, 01:31 PM, +0000 UTC",
+   "iso_date": "2026-09-11T13:31:34Z"
+  },
+  {
+   "position": 25,
+   "title": "Lalithaa Jewellery Mart IPO: Price band set at ₹190-201 per share; check key dates, issue details",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-price-band-set-at-rs-190-201-per-share-check-key-dates-issue-details-11786417826251.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/11/1600x900/logo/Lalithaa_Jewellery_Mart_IPO_1786418454180_1786418471795_a6ae32c6-280d-4e9e-82d7-afe43496686f.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlOVEJKT1RoUVdUUlFNVEZVVFJDZkF4ampCU2dLTWdZZFZvb0tMZ1k",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Lalithaa Jewellery Mart Share Price: Stock debuts at over 31% premium — Hold or Sell? Anil Singhvi’s views",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Maurya"
+    ]
+   },
+   "link": "https://www.zeebiz.com/market-news/news-lalithaa-jewellery-mart-share-price-stock-debuts-at-over-31-premium-hold-or-sell-anil-singhvi-s-views-401019",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/08/24/412396-ipo.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhZVTB5YWs0MVNYVkJkRWxpVFJEOEFSakFBeWdLTWdhSmtaVEdzZ1k",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Lalithaa Jewellery Mart Shares Make Strong Debut, Jewellery Brand’s Stock Lists With 32% Gains",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ayush Khar"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/invest/lalithaa-jewellery-mart-shares-make-strong-debut-jewellery-brands-stock-lists-with-32-gains",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2026-08-24/xdg6laah/lalithaa-jewellery-mart-share-price?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXplRkI0WWxOblptSmZXVVZzVFJDZkF4ampCU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Lalithaa Jewellery IPO subscribed 63x on final day of bidding; GMP at 20%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-ipo-subscribed-over-4x-so-far-on-final-day-gmp-signals-20-listing-premium-14010013.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260716053743_Alpine-Texworld-IPO-Day-3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZkWHBtTURVNGJYUnVhMHBaVFJDZkF4ampCU2dLTWdZaFpaQU1KZ2s",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Lalithaa Jewellery Mart sets price band at Rs 190-201 per share, seeks market cap of Rs 12,250 crore",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-mart-sets-price-band-at-rs-190-201-per-share-seeks-market-cap-of-rs-12-250-crore-14002057.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260407051223_Kalyan-Jewellers-Reuters.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFWWEpGU1VaVFFUUnJjMWR2VFJDZkF4ampCU2dLTWdZSkFZUUl3Z00",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Lalithaa Jewellery Mart to open its Rs 1,700-crore IPO on August 17, listing expected on August 24",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sunil Matkar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-mart-to-open-its-rs-1-700-crore-ipo-on-august-17-listing-expected-on-august-24-14000406.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260810103914_Lalithaa_Jewellery.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhkbmxuZEhRMlRHMHhiUzF0VFJDZkF4ampCU2dLTWdB",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Lalithaa Jewellery Mart IPO allotment expected today; GMP at 27% — Here’s how to check status",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-allotment-expected-today-gmp-at-27-heres-how-to-check-status/articleshow/133362377.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133362628,width-1200,height-900,resizemode-4,imgsize-2294368/lalithaa-jewellery-mart-ipo-allotment-expected-today-gmp-at-27-heres-how-to-check-statusbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUxSWGRRUVhoV1NUbDJURVk1VFJEZ0F4aUFCU2dLTWdzTk1vandvS2RVMFZpdXFR",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Lalithaa Jewellery Mart IPO kicks-off on 17 August: GMP hints 11% listing pop; check 10 key things to know",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-lalithaa-jewellery-mart-ipo-details-lalithaa-jewellery-ipo-gmp-india-independence-day-11786775870610.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/15/1600x900/logo/537b6fb7-5c77-447e-b39b-ce98c91c0a20_signature1_1786777647218_1786777658977_dc6183cc-14ca-4e27-bc76-8b6cdd0e24ed.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHphbUY2V1hWTFJXb3hTVUpuVFJDZkF4ampCU2dLTWdZWk5vd3BxZ1k",
+   "date": "08/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-15T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Lalithaa Jewellery Mart shares end nearly 24 pc higher in market debut trade | Business News",
+   "source": {
+    "name": "Hindustan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.hindustantimes.com/business/lalithaa-jewellery-mart-shares-end-nearly-24-pc-higher-in-market-debut-trade-101787569359980.html",
+   "thumbnail": "https://www.hindustantimes.com/ht-img/img/2026/08/24/1600x900/logo/pexels-photo-38841268_1787567267834_1787567287305_55095f7d-4846-471a-83e2-44e4103dd68d_1787569651492_623b508e-532f-42b1-bfb7-4807f86a908e.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVRUbW8xVVZwSVRrVnZjM296VFJDZkF4ampCU2dLTWc0QklaZ3VJV2dkSTVzRjhBTFpIZw",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Lalithaa Jewellery Mart IPO: Shares Make Strong Debut, List With 32% Premium At Rs 265.30 On BSE",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-shares-make-strong-debut-list-with-32-premium-at-rs-265-30-on-bse-11949947",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/aksma2oc_lalithaa-jewellery_625x300_19_August_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVNakJ3TTFKcVZWWlNXWEZqVFJDZkF4ampCU2dLTWdhQkFZeVFFQXc",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Lalithaa Jewellery shares make strong market debut at 32% premium; should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-share-price-stock-lists-at-32pc-premium-over-ipo-price-on-nse-should-you-buy-sell-or-hold-14013508.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814162540_Lalithaa_Jewellery1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFiamRGTWpOWE1VZFFSazgwVFJDZkF4ampCU2dLTWdrZEU0cnJwV05FWmdJ",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Lalithaa Jewellery IPO listing share price prediction: What latest GMP hints at",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-ipo-listing-share-price-prediction-what-latest-gmp-hints-at-11787302031455.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/21/1600x900/logo/2025_09_27_11_01_1-center_1787293852564_1787293860_1787303342098_1787303342751_885fe72f-88c1-4d72-8273-9923ccbdffad.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhkWFZLVTI1aVRUZGFVelV0VFJDZkF4amlCU2dLTWdZUkFvUUx4UU0",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Lalithaa Jewellery IPO: ₹1,700 crore issue opens Monday; what brokerages recommend",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/lalithaa-jewellery-ipo-1700-crore-issue-subscription-opens-monday-gmp-price-band-what-brokerages-recommend-19970440.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-4c21f26cea8a8bb13edb607762684172.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWFVWGx0U0VKTVZrVkJka0Y2VFJDZkF4ampCU2dLTWdB",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "LALITHAA Share Price Today - LALITHAA JEWELLERY MART L Stock Price Live NSE/BSE",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/stocks/lalithaa/lalithaa-jewellery-mart-l-share-price-today",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_sdp.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW9lbFJZTVcweFdIVTRiVWhtVFJERkFoaXdCeWdLTWdtVklvYm5HR3B6dGdB",
+   "date": "08/25/2026, 09:19 PM, +0000 UTC",
+   "iso_date": "2026-08-25T21:19:59Z"
+  },
+  {
+   "position": 39,
+   "title": "Lalithaa Jewellery IPO subscribed 69% on opening day; GMP signals 15% listing premium",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-mart-ipo-subscribed-11-so-far-on-opening-day-gmp-signals-15-listing-premium-14007268.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260722063711_Alpine-Texworld-IPO.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtWekJuUjNkNVJ6bEJTM000VFJDZkF4ampCU2dLTWdhQlVaRE5yUWc",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Lalithaa Jewellery Mart's Rs 1,700-cr IPO opens: GMP signals 15% premium. Should you subscribe?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-opens-today-gmp-signals-15-premium-should-you-subscribe/articleshow/133285001.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133285164,width-1200,height-900,resizemode-4,imgsize-2213306/lalithaa-jewellery-mart-ipo-opens-today-gmp-signals-15-premium-should-you-subscribebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxabnByTldvM1VHSllMV1p4VFJEZ0F4aUFCU2dLTWdZRlVKU2xKZ2M",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "LALITHAA Share Price Today - Lalithaa Jewellery Mart Stock Analysis",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/share-price/lalithaa",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2022/08/idt-all-in-one.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRjWGRmT1dGaFYxZzRSMDVFVFJDd0FoandCeWdLTWdrQlVJd0NINmdXYkFF",
+   "date": "08/24/2026, 04:57 PM, +0000 UTC",
+   "iso_date": "2026-08-24T16:57:33Z"
+  },
+  {
+   "position": 42,
+   "title": "Lalithaa Jewellery Mart Ltd Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/387588/lalithaa-jewellery-mart-ltd/shareholding/",
+   "date": "08/27/2026, 04:11 PM, +0000 UTC",
+   "iso_date": "2026-08-27T16:11:03Z"
+  },
+  {
+   "position": 43,
+   "title": "Lalithaa Jewellery IPO listing date today. GMP, experts hint up to 36% listing gain",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-ipo-listing-date-today-gmp-experts-hint-up-to-36-listing-gain-11787502809866.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/23/1600x900/logo/537b6fb7-5c77-447e-b39b-ce98c91c0a20_signature1_1787504059779_1787504109730_fdf17337-0194-4598-bbe9-c800e7a902ed.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZaM1pNWjJodFNuWm5jV3BEVFJDZkF4ampCU2dLTWdZWlJvcEpyZ1U",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Lalithaa Jewellery Mart IPO GMP In Focus As Subscription Opens Today",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-gmp-in-focus-ahead-of-launch-11909909",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/n0aj0vis_ipo_625x300_14_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZRblpwWVVocFZXZFVibTB6VFJDZkF4ampCU2dLTWdZSllwUXhzUWM",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Lalithaa Jewellery Mart IPO: Issue booked 69% so far. GMP hints 15% listing pop. Apply or not?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-lalithaa-jewellery-ipo-gmp-lalithaa-jewellery-ipo-review-lalithaa-jewellery-ipo-date-11786936827173.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/17/1600x900/logo/537b6fb7-5c77-447e-b39b-ce98c91c0a20_signature1_1786938727906_1786938741632_c72f6f7d-770e-4600-961b-355152d48902.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRZVVl4ZURobk5qTXdWRFpIVFJDZkF4amlCU2dLTWdZWlJvd3BLZ1k",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Lalithaa Jewellery vs Horizon IPO: Analysts decode better bet for investors",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/lalithaa-jewellery-vs-horizon-ipo-analysts-decode-better-bet-for-investors-126081900417_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/05/full/1783265566-6949.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5TakpMZFhGblN6QllVbmxYVFJERUF4aW5CU2dLTWdZQkFJeDRqQW8",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Lalithaa Jewellery Mart IPO: Details, GMP, Subscription, Financials and Key Investor Insights",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/ipo/lalithaa-jewellery-mart-ipo-details-gmp-subscription-financials-and-key-investor-insights",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Lalithaa Jewellery Mart IPO subscribed 17.47 times so far on Day 3: Check allotment date and steps",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kamal Joshi"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/ipo/lalithaa-jewellery-mart-ipo-day-3-check-subscription-status-allotment-date-and-steps/article-198855/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lalithaa-jewellery-ipo-day-3-allotment-date.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhkVWd4WlhOdFYwMDRlRlYzVFJDZkF4ampCU2dLTWdZZEJKQ3VzUVk",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Lalithaa Jewellery IPO listing share price prediction: What latest GMP hints at",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moodys:0420b3b7e5bfd:0-lalithaa-jewellery-ipo-listing-share-price-prediction-what-latest-gmp-hints-at/",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Lalithaa Jewellery Mart IPO Listing Today: Check Expected Listing Price Based On Latest GMP",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-listing-today-check-expected-listing-price-based-on-latest-gmp-11940262",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/qeqp8jfg_ipo_625x300_21_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpOV1JJU0dWVmFVTjJYMHRXVFJDZkF4ampCU2dLTWdhQmM0N01KUVk",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Lalithaa Jewellery Mart IPO allotment today; check status on BSE, NSE and registrar",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-mart-ipo-allotment-today-check-status-on-bse-nse-and-registrar-14010934.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260804060510_Alpine-Texworld-IPO-Day-2.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVRjVkJNVm5rd1pFTm9aVzVmVFJDZkF4ampCU2dLTWdNRllSbw",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Lalithaa Jewellery Lists at 32 Percent Premium on Debut",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/lalithaa-jewellery-lists-32-percent-premium",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/lalithaa_jewellery_mart_shares_jump_32_in_market_debut_trade.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdNRXQwVHpFelJUQmFYM3BKVFJDZkF4ampCU2dLTWdZQlVJN0RLZ1k",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Can Lalithaa Jewellery Mart IPO deliver long-term growth for high-risk investors?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/can-lalithaa-jewellery-mart-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/133226694.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133227360,width-1200,height-900,resizemode-4,imgsize-2337375/can-lalithaa-jewellery-mart-ipo-deliver-long-term-growth-for-high-risk-investorsbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRSbVpIZG1obVUwbFJRbkJQVFJEZ0F4aUFCU2dLTWdZQlVKQ1lJQWc",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Lalithaa Jewellery Mart IPO Day 3: Subscribed 28.89x so far; GMP signals 20% premium",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribe/articleshow/133336766.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133336915,width-1200,height-900,resizemode-4,imgsize-2312063/lalithaa-jewellery-mart-ipo-day-3-gmp-indicates-20-premium-subscribed-3-07x-should-you-subscribebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNXhlbVZvU0MxaWJHdHhaRjloVFJEZ0F4aUFCU2dLTWdzSklZZ0dPYVd4YVFxVlJR",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Class 5 dropout, now owns Rs 11,000 crore Lalithaa Jewellery: How Kiran Kumar turned his mother's 4 gold...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Saurav Pandey"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lalithaa-jewellery-owner-kiran-kumar-journey-from-class-5-dropout-to-owner-of-rs-11000-crore-business-14007637.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260817084633_Lalithaa-Jewellery-owner-Kiran-Kumar.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZZV3hKTTIxdGVsSlBhWEJNVFJDZkF4ampCU2dLTWdhSlJZS3ZuUWs",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Lalithaa Jewellery Mart raises Rs 508 crore from anchor investors ahead of Rs 1,700-crore IPO",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-mart-raises-rs-508-crore-from-anchor-investors-ahead-of-rs-1-700-crore-ipo-14006049.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260814162540_Lalithaa_Jewellery1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDFiamRGTWpOWE1VZFFSazgwVFJDZkF4ampCU2dLTWdrZEU0cnJwV05FWmdJ",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Buy, Sell Or Hold: Tata Motors PV, Airtel, Inox Wind, Lalithaa Jewellery Mart — Ask Profit",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaishnavi Mishra",
+     "Soumil Kamat"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/buy-sell-or-hold-tata-motors-pv-airtel-inox-wind-lalithaa-jewellery-mart-ask-profit-12085089",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/cmgoq1uk_buy-sell-hold_625x300_22_September_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpjMGxLWWtKVlQxVXpiSE15VFJDZkF4ampCU2dLTWdZQklJNkJwQWM",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:59Z"
+  },
+  {
+   "position": 58,
+   "title": "Jewellery Stocks Today: PC Jeweller, Lalithaa Jewellery, BlueStone, PNG Jewellers, Thangamayil Rise Up to 15%",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/jewellery-stocks-today-pc-jeweller-lalithaa-jewellery-bluestone-png-jewellers-thangamayil-rise-up-to-15",
+   "thumbnail": "https://www.indiainfoline.com/next-assets/image/default-new.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhaWEZGT0VjM1VXMUxjM0ZaVFJDZkFoai1BeWdLTWdhSmNaSVRLUWc",
+   "date": "09/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-07T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Lalithaa Jewellery IPO allotment finalised: How to check status online on MUFG Intime India, NSE, BSE; listing date, time revealed",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kamal Joshi"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/ipo/lalithaa-jewellery-ipo-allotment-how-to-check-status-online-on-nse-bse-mufg-intime-india-listing-date-time-revealed/article-198933/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lalithaa-jewellery-ipo-allotment-date-time-steps-bse-bse-mufg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTMmRuT1hwZlRFUkJXVU5yVFJDZkF4ampCU2dLTWdZQkVZenFuUVk",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Lalithaa Jewellery Mart Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/387588/lalithaa-jewellery-mart-ltd/peer-comparison/",
+   "date": "08/28/2026, 08:22 PM, +0000 UTC",
+   "iso_date": "2026-08-28T20:22:02Z"
+  },
+  {
+   "position": 61,
+   "title": "Lalithaa Jewellery Mart IPO Allotment: How to Check Status",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/lalithaa-jewellery-mart-ipo-allotment-status",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/image-2026-08-20T112543.467.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZUMWs1Y3pBd2FXUnNVRXhLVFJDZkF4amlCU2dLTWdtQmNJalhyR2ZCckFF",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Lalithaa Jewellery IPO sees over 3x subscription on Day 2; check latest GMP",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/lalithaa-jewellery-ipo-gets-fully-subscribed-on-day-2-check-latest-gmp-14008647.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260818051828_lalithaa.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNURVekpqWkVObVFXOVhZMU5mVFJDZkF4ampCU2dLTWd1WmNJQ09KU0pObUxoa05R",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Lalithaa Jewellery Mart IPO GMP jumps, allotment date in focus after strong subscription status",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-gmp-jumps-allotment-date-in-focus-after-strong-subscription-status-11787198527712.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/20/1600x900/logo/Lalithaa_Jewellery_Mart_IPO_GMP_Subscription_statu_1787198955651_1787198955771_bd5728ad-38f9-4ed3-a456-88c473d05f6c.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZVV2s1WVVGblpWRlNjelJhVFJDZkF4ampCU2dLTWdZcEFJSjRBQTA",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Lalithaa Jewellery lists at 32% premium: Should you buy?",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jasmine Anand"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/ipo/story/lalithaa-jewellery-lists-at-32-premium-should-you-buy-2978408-2026-08-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/ipo-244331240-16x9_0.jpg?VersionId=Ddm7CEe40enan0eDz5EfQJFBlPw52Tey&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxiazlUWkhWdk1GTlZUV0ZqVFJDZkF4ampCU2dLTWdhSm80Ukl2Z00",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Lalithaa Jewellery Mart lists at premium",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-lists-at-premium-126082400222_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Lalithaa Jewellery IPO listing: Shares list at 32% premium over the issue price. Details here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lalithaa-jewellery-ipo-listing-shares-list-at-32-premium-over-the-issue-price-details-here-11787545678542.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/24/1600x900/logo/stock_1787545950519_1787545950754_e058c832-1e00-4784-b4ba-2d9b5e015a39.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVRkRUZEYjJzdFpqVlBhbWxDVFJDZkF4ampCU2dLTWdtQkFJREVObU1XWUFN",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Lalithaa Jewellery Mart IPO: Issue subscribed near 63 times, GMP signals 20% listing gain. Apply or not?",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/lalithaa-jewellery-mart-ipo-day-2-live-gmp-subscription-status-to-review-apply-or-not-11787026286137.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/Lalithaa_Jewellery_Mart_IPO_GMP_Subscription_Statu_1787027660568_1787027661315_d4f71463-9b8c-4755-8d2e-582acb530d19.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFVWEJXUWpOd2RXc3lTRmxCVFJDZkF4ampCU2dLTWdZWk5vd3BwZ1k",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "IPO listing: Lalithaa Jewellery Mart shares list at 32% premium; Horizon Industrial Parks debuts flat",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/ipo/ipo-listing-lalithaa-jewellery-mart-shares-list-at-32-premium-horizon-industrial-parks-debuts-flat/155385",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-06-18/1kxjknfr/NSE-Building.JPG?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVhRME0yY2tKbUxWRlNlVEZpVFJDZkF4ampCU2dLTWdPQmNBQQ",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Lalithaa Jewellery Mart IPO Day 2: GMP Signals 16% Listing Gain As Issue Gets 3.07 Times Subscription",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-gmp-in-focus-as-subscription-enters-day-2-today-11920887",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/i5nd0gqc_gmp_625x300_17_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJNMWhmTFRRMFdWWXhiVEI2VFJDZkF4ampCU2dLTWdhSllwUXhMUWc",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Lalithaa Jewellery Mart Ltd Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/387588/lalithaa-jewellery-mart-ltd/key-ratios/",
+   "date": "08/30/2026, 01:09 PM, +0000 UTC",
+   "iso_date": "2026-08-30T13:09:55Z"
+  },
+  {
+   "position": 71,
+   "title": "7 new IPOs next week: Horizon Industrial Parks, Lalithaa Jewellery lead Rs 6,400-crore rush",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/7-new-ipos-next-week-horizon-industrial-parks-lalithaa-jewellery-lead-rs-6-400-crore-rush-14006659.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260716083920_SBI-Funds-IPO-GM.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjWHBVU0U1c2MyTlVkVkUxVFJDZkF4ampCU2dLTWdZWkZJcXNHUVk",
+   "date": "08/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-16T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Shanti Gold buys 42,130 more Lalithaa Jewellery shares for ₹1.11 crore",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/shanti-gold-international-buys-1-44-lakh-shares-lalithaa-jewellery/49718505",
+   "thumbnail": "https://news-images.dhan.co/shanti-gold-international-buys-1-44-lakh-shares-lalithaa-jewellery.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlVa3RpV21WdFdWY3RhRVpDVFJDZkF4ampCU2dLTWdZQklJU01OUU0",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Lalithaa Jewellery Mart IPO price band fixed at Rs 190-201 for Rs 1,700 crore IPO; issue opens on August 1",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-price-band-fixed-at-rs-190-201-for-rs-1700-crore-ipo-issue-opens-on-august-17/articleshow/133141350.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133141386,width-1200,height-900,resizemode-4,imgsize-2228128/lalithaa-jewellery-mart-ipo-price-band-fixed-at-rs-190-201-for-rs-1700-crore-ipo-issue-opens-on-august-17br.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1VVUpsYlhKV2F6SlJiRTg1VFJEZ0F4aUFCU2dLTWdrSllZeUdzaVUxcndF",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Vaishali Parekh's top 3 stocks to buy: HDFC Bank, NRB Bearings, Lalithaa Jewellery | Target, stop-loss, market outlook",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Asit Manohar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/vaishali-parekhs-top-3-stocks-to-buy-hdfc-bank-nrb-bearings-lalithaa-jewellery-target-stop-loss-market-outlook-11791013240687.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/03/1600x900/logo/Vaishali_Parekh_stock_recommendations_today_1791013857700_uW5y_1791013857811_tt5j_2d4676be-7b29-4916-a1f1-33d09f8ff19b_86E8.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURXakJMY0U5aGJTMVlNR1EwVFJDZkF4ampCU2dLTWdhSlVJamtJZ2s",
+   "date": "10/03/2026, 11:30 AM, +0000 UTC",
+   "iso_date": "2026-10-03T11:30:11Z"
+  },
+  {
+   "position": 75,
+   "title": "Lalithaa Jewellery Mart IPO Day 2: Issue subscribed 69% so far; GMP signals 15% listing gains",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lalithaa-jewellery-mart-ipo-day-2-issue-subscribed-69-so-far-gmp-signals-15-listing-gains/articleshow/133309785.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133310318,width-1200,height-900,resizemode-4,imgsize-2367781/lalithaa-jewellery-mart-ipo-day-2-issue-subscribed-69-so-far-gmp-signals-15-listing-gainsbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXVEpvTlhoS01XaEJNMFJGVFJEZ0F4aUFCU2dLTWdZQmRJNnZ2UVU",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Lalithaa Jewellery Mart shares jump 32 pc in market debut trade",
+   "source": {
+    "name": "Daily Excelsior",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailyexcelsior.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.dailyexcelsior.com/lalithaa-jewellery-mart-shares-jump-32-pc-in-market-debut-trade/",
+   "thumbnail": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTE4MWU0YTgwLTlmYTMtMTFmMS1iNmVmLTk1MTQwZTcyYzNlZi5qcGc=",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFMVGM1VUc5cWJsUjVjbU5JVFJDZ0F4amlCU2dLTWdZQkI0cGlrd3M",
+   "date": "08/24/2026, 10:03 AM, +0000 UTC",
+   "iso_date": "2026-08-24T10:03:44Z"
+  },
+  {
+   "position": 77,
+   "title": "Lalithaa Jewellery Mart IPO Allotment Today: Check Status, GMP And Listing Date",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-allotment-today-check-status-gmp-and-listing-date-11933675",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/34hcl5ns_ljio_625x300_20_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJTRmcxTkdST1YydHBUVVkwVFJDZkF4ampCU2dLTWdhcFJJNk9JUVk",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Lalithaa Jewellery IPO Day 3: QIB And NII Demand Powers 34.99 Times Subscription",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-day-3-check-subscription-status-gmp-key-details-and-more-11930056",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/aksma2oc_lalithaa-jewellery_625x300_19_August_26.png?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBaMTlQV1dsQ2VrYzFZazlwVFJDZkF4ampCU2dLTWdhQkFZeXhEQXc",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Lalithaa Jewellery Mart IPO subscribed 3.07 times",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/lalithaa-jewellery-mart-ipo-subscribed-3-07-times-126081800983_1.html",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Lalithaa Jewellery Mart Ltd Share Price Today NSE/BSE Charts",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/investment/stocks/lalithaa-jewellery-mart-ltd",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=%2Fnew-landing%2Fbg-mandala-new.webp&w=3840&q=90",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWlMV2t6VDFOM2JHMTRlSFUyVFJEV0F4aU1CU2dLTWdPWkF4WQ",
+   "date": "08/24/2026, 06:01 PM, +0000 UTC",
+   "iso_date": "2026-08-24T18:01:23Z"
+  },
+  {
+   "position": 81,
+   "title": "Lalithaa Jewellery Mart to launch ₹1,700 cr IPO on August 17; price band set at ₹190-201",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/gold/lalithaa-jewellery-mart-to-launch-1700-cr-ipo-on-august-17-price-band-set-at-190-201/article71331063.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/68jykt/article71331070.ece/alternates/LANDSCAPE_1200/_Jewellery_shop2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlWREF0TFRSWFkxZG5VVFZZVFJDZkF4ampCU2dLTWdZaEFJQUpqZ3M",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Lalithaa Jewellery’s ₹1,700 crore IPO opens August 17; price band fixed at ₹190-201",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anupama Ghosh"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/lalithaa-jewellerys-1700-crore-ipo-opens-august-17-price-band-fixed-at-190-201/article71332468.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/news/variety/wsnvol/article71332460.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%203.52.48%20PM.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZUbDl1WDBSSU1IazVVRkZDVFJDZkF4ampCU2dLTWdhWk5wb0xuZ2s",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Lalithaa Jewellery Mart Limited (LALITHAA.NS) stock historical prices and data",
+   "source": {
+    "name": "Yahoo Finance UK",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://uk.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://uk.finance.yahoo.com/quote/LALITHAA.NS/history/",
+   "date": "08/28/2026, 03:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T03:00:16Z"
+  },
+  {
+   "position": 84,
+   "title": "Price Band Hitters, September 21, 2026 at 12:00 PM IST: Lalithaa Jewellery Mart Leads The List",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/price-band-hitters-september-21-2026-at-12-pm",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/09/price_band_hitters_september_21_2026_.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRZVU5uUlRGVU1VVmxNR1J4VFJDZkF4ampCU2dLTWdZQmdJcEZNZ1U",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Stock Alert: Lalithaa Jewellery Mart, HDFC Bank, KEC International, Aurobindo Pharma",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-lalithaa-jewellery-mart-hdfc-bank-kec-international-aurobindo-pharma-126091500114_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Lalithaa Jewellery Mart shares make a strong market debut; stocks list at 32% premium on BSE, NSE",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pawan Nahar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/lalithaa-jewellery-mart-shares-make-a-strong-market-debut-stocks-list-at-32-premium-on-bse-nse-550839-2026-08-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8bc734c6211-incorporated-in-1985--chennai-based-lalithaa-jewellery-mart-is-a-jewellery-retail-company-with-a-st-242311194-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVNhWEJ6T1ZkNmEwOXlkRGxuVFJDZkF4ampCU2dLTWdtUmdZN0t3ZVFsaHdJ",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Lalithaa Jewellery Mart IPO Day 3 Subscription Status: Issue Booked 6.84x so Far",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/lalithaa-jewellery-mart-ipo-day-3-subscription-status-issue-booked-6-84x-so-far",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/image-2026-08-19T120116.231.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXJaa2RPYVVSb2RrSlNaMmRFVFJDZkF4amlCU2dLTWdB",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Lalithaa Jewellery Mart IPO Closes With 63x Subscription; GMP Signals 20.65% Listing Gain",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lalithaa-jewellery-mart-ipo-final-day-gmp-signals-17-listing-gain-11926451",
+   "thumbnail": "https://c.ndtvimg.com/2026-08/0ljka2dg_lipo_625x300_18_August_26.png?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWall4TUhwWFgzbEdiM2RoVFJDZkF4ampCU2dLTWdZQmNwQUpMUVk",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Lalithaa Jewellery Mart submits SEBI fair disclosure code to exchanges",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/lalithaa-jewellery-mart-submits-sebi-fair-disclosure-code-exchanges/49459775",
+   "thumbnail": "https://news-images.dhan.co/lalithaa-jewellery-mart-submits-sebi-fair-disclosure-code-exchanges.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXa1ExU1dKU1pqVlpiR05hVFJDZkF4ampCU2dLTWdZQkFJQXBLZ2M",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Lalithaa Jewellery IPO Day 1: Check subscription status, price band, lot size and key dates",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kamal Joshi"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/ipo/lalithaa-jewellery-ipo-day-1-check-subscription-status-price-band-lot-size-and-key-dates/article-198719/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lalithaa-jewellery-ipo-day-1-price-band-lot-size-date.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZTMmRuT1hwZlRFUkJXVU5yVFJDZkF4ampCU2dLTWdZQkVZenFuUVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Lalithaa Jewellery Mart IPO Sees 63x Subscription",
+   "source": {
+    "name": "Rediff MoneyWiz",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://money.rediff.com/news/market/lalithaa-jewellery-mart-ipo-sees-63x-subscription/52799520260819",
+   "thumbnail": "https://im.rediff.com/1200-900/money/2021/jul/13ipo2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJialF5TmtoRU9VRjZUa2RYVFJEZ0F4aUFCU2dLTWdhWlFvUnNJUWc",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Lalithaa Jewellery IPO Day 1: Subscribed 0.69x so far",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/lalithaa-jewellery-ipo-day-1-subscribed-069x-so-far/article71356100.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/ipcqka/article71356131.ece/alternates/LANDSCAPE_1200/IMG_bl09_IPO_2_1_S392GQOA.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFSMTgxUjBwTVJXMXpRVlZqVFJDZkF4ampCU2dLTWdZZFlZeHZ3UVE",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Lalithaa Jewellery Mart IPO: Should You Subscribe?",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akhil Nallamuthu"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/lalithaa-jewellery-mart-ipo-should-you-subscribe/article71348738.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/gav2eu/article71349459.ece/alternates/LANDSCAPE_1200/PO16_Lalitha_jewellery_1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVNRTVsYjJJMmVIcG1ZMnB3VFJDZkF4ampCU2dLTWdZQkFJaXRtUWc",
+   "date": "08/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-15T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Lalithaa Jewellery Mart Shares List 32% Above IPO Price After Strong Subscription",
+   "source": {
+    "name": "BW Businessworld",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businessworld.in/article/lalithaa-jewellery-mart-shares-list-32-above-ipo-price-after-strong-subscription-620460",
+   "thumbnail": "https://static.businessworld.in/IPO_20241021145021_original_image_41.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFNMjFmTld4amJEQXlSekV5VFJDOUFSaUxBaWdCTWdZWms0eXNRUVk",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Lalithaa Jewellery Mart (NSEI:LALITHAA) Stock Price",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stock/nsei/lalithaa",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/logos/www.lalithaajewellery.com?size=92",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiM1ZSUjFGR2RVbDBTSGRNVFJDcUJCaXFCQ2dLTWdhWlU0cHFLUVU",
+   "date": "08/22/2026, 01:37 AM, +0000 UTC",
+   "iso_date": "2026-08-22T01:37:46Z"
+  },
+  {
+   "position": 96,
+   "title": "IPO GMPs: Lalitha Jewellery IPO, Horizon Industrial Parks IPO to Shankesh Jewellers IPO —what grey market premium hints",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/ipo/ipo-gmps-lalitha-jewellery-ipo-gmp-vs-horizon-industrial-parks-ipo-gmp-vs-sunshine-pictures-ipo-gmp-11787036925581.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/IPO_1752033040408_1752033040516_1787046196787_b91ef263-7ff7-4b42-91d2-84cb50ea6b4b.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdZVVpCTldsVWRISTJabVpFVFJDZkF4ampCU2dLTWdZaGhKYk1NUWM",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Lalithaa Jewellery Mart IPO Draws ₹508 Crore in Anchor Bids",
+   "source": {
+    "name": "patersoncapital.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://patersoncapital.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://patersoncapital.com/lalithaa-jewellery-mart-ipo-draws-%E2%82%B9508-crore-in-anchor-bids/",
+   "thumbnail": "https://patersoncapital.com/wp-content/uploads/2026/08/paterson-20260816-Lalithaa_Jewellery_Mart_IPO_Draws__508_C-768x421.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXhhWEF0TjFGSmFVZEhXRkJuVFJDYUF4anNCU2dLTWdNQkFEdw",
+   "date": "08/16/2026, 10:11 AM, +0000 UTC",
+   "iso_date": "2026-08-16T10:11:58Z"
+  },
+  {
+   "position": 98,
+   "title": "Lalithaa Jewellery Mart Limited (LALITHAA.NS) Stock Historical Prices & Data",
+   "source": {
+    "name": "Yahoo! Finance Canada",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ca.finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://ca.finance.yahoo.com/quote/LALITHAA.NS/history/",
+   "date": "08/28/2026, 03:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T03:00:14Z"
+  },
+  {
+   "position": 99,
+   "title": "Lalithaa Jewellery IPO opens today at ₹190-201; issue size ₹1,700 crore",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Badri Narayanan"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/lalithaa-jewellerys-1700-crore-ipo-opens-today-at-190-201-price-band/article71353602.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/f90029/article71354724.ece/alternates/LANDSCAPE_1200/WhatsApp%20Image%202026-08-11%20at%203.52.48%20PM.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlSREJGT0RSU1RFMU5jblJVVFJDZkF4ampCU2dLTWdhZEJvb0xFZ3M",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Lalithaa Jewellery Mart IPO Last Day: Rs 190-201, Closing Today",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lakshit Sharma"
+    ]
+   },
+   "link": "https://univest.in/blogs/lalithaa-jewellery-mart-initial-public-offering-last-day-19-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/lalithaa-jewellery-mart-initial-public-offering-last-day-19-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNWbVZWZDFvMlVGTlhOblprVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:17"
+}

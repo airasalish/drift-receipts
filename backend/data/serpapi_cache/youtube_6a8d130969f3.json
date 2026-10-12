@@ -1,0 +1,626 @@
+{
+ "search_metadata": {
+  "id": "6ac676bb4a0898d43a583daa",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/xb5EwxHnKQ2493PoDyKFDGx-o1DhqoOQzMhUGivmewo/6ac676bb4a0898d43a583daa.json",
+  "markdown_endpoint": "https://serpapi.com/searches/xb5EwxHnKQ2493PoDyKFDGx-o1DhqoOQzMhUGivmewo/6ac676bb4a0898d43a583daa.md",
+  "created_at": "2026-10-07 16:43:39 UTC",
+  "processed_at": "2026-10-07 16:43:39 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Pranay+Phulkar+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/xb5EwxHnKQ2493PoDyKFDGx-o1DhqoOQzMhUGivmewo/6ac676bb4a0898d43a583daa.html",
+  "total_time_taken": 2.16
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Pranay Phulkar stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 619,
+  "video_results_state": "Results for exact spelling"
+ },
+ "channel_results": [
+  {
+   "position_on_page": 1,
+   "title": "Pranay Phulkar",
+   "link": "https://www.youtube.com/@pranayphulkar",
+   "handle": "@pranayphulkar",
+   "subscribers": 11100,
+   "description": "Welcome to my Channel! My name is Pranay Phulkar. I have more than a decade of experience in strategy, programs & category ...",
+   "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 2,
+   "title": "3 UNDERVALUED Stocks to Buy before Next Bull Run I TURNAROUND Stocks To Track I Best Stocks to Buy",
+   "link": "https://www.youtube.com/watch?v=Uwj70kTggk8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Uwj70kTggk8",
+   "video_id": "Uwj70kTggk8",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "43 min ago",
+   "views": 153,
+   "length": "8:56",
+   "description": "In today's video, we're diving deep into 3 UNDERVALUED STOCKS that could deliver outsized returns in the coming months.",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Uwj70kTggk8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCjNk3G8x4Zp9wnlnA8A19BqAsz3g"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "Can these 2 AI Beneficiaries become Multibaggers of the Next Bull Market I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=4NQ8aMVcj3Y",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4NQ8aMVcj3Y",
+   "video_id": "4NQ8aMVcj3Y",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5d ago",
+   "views": 8399,
+   "length": "7:42",
+   "description": "In today's video, we're diving deep into 2 AI related Stocks that could deliver outsized returns in the coming months. These are ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4NQ8aMVcj3Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCa7swTI3GCoaee2eiNpllIE0M3aw"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "3 Stocks to Track before the Market BOUNCE BACK I Best Stocks to Buy Now I Pranay Phulkar",
+   "link": "https://www.youtube.com/watch?v=MQL4G83KGZ8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MQL4G83KGZ8",
+   "video_id": "MQL4G83KGZ8",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 9242,
+   "length": "7:23",
+   "description": "In today's video, we're diving deep into 3 Turnaround Stocks gaining Momentum that could deliver outsized returns in the coming ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MQL4G83KGZ8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABK6-Mm38OyOKRaZgk_biOQ6ssxA"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Best GROWTH STOCKS set to Outrun Nifty in the Next Rally [Don't Skip] I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=YcPDRBiqALY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YcPDRBiqALY",
+   "video_id": "YcPDRBiqALY",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 7758,
+   "length": "8:05",
+   "description": "In today's video, we're diving deep into 3 Future Market Leaders stocks that could deliver outsized returns in the coming months.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YcPDRBiqALY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGLM7wSW82frT-vZQbL_FwBA99Pg"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "High Growth Microcaps with Multibagger Potential I Best Stocks to Buy Now I Pranay Phulkar",
+   "link": "https://www.youtube.com/watch?v=d0aUkPWADe0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d0aUkPWADe0",
+   "video_id": "d0aUkPWADe0",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 8258,
+   "length": "3:39",
+   "description": "In today's video, we're diving deep into 2 HIGH GROWTH MICROCAPS that could deliver outsized returns in the coming months.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/d0aUkPWADe0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_GxX4GSb8QI8bJZ4gLaYegTD7FQ"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Hidden Growth Stocks in the Next Multi-Decade Investing Theme I Best Stocks To Buy Now",
+   "link": "https://www.youtube.com/watch?v=C4U58FwsNeg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C4U58FwsNeg",
+   "video_id": "C4U58FwsNeg",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 10585,
+   "length": "8:39",
+   "description": "In today's video, we're diving deep into 4 High Growth Stocks that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/C4U58FwsNeg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRJLi3zx_ha3T6EGcbOmm4GtWNqw"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Top investor Vijay Kedia's latest stock investment| Stock to buy now l Pranay Phulkar",
+   "link": "https://www.youtube.com/watch?v=Fkka8UNpAKY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fkka8UNpAKY",
+   "video_id": "Fkka8UNpAKY",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3w ago",
+   "views": 7309,
+   "length": "4:24",
+   "description": "In today's video, we're diving deep into 1 Microcas stocks that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Fkka8UNpAKY/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCcPyOUvLw0i59jY1S14ypvL0EBrQ"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "3 Stocks Ready for a Turnaround I Undervalued Stocks to Buy in Market Crash I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=56pIHD2KhIc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=56pIHD2KhIc",
+   "video_id": "56pIHD2KhIc",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 13611,
+   "length": "8:11",
+   "description": "In today's video, we're diving deep into 3 High Growth Turnaround Stocks that could deliver outsized returns in the coming months ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/56pIHD2KhIc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDe1rDe0sPNtCIDLIkk7-NFCA83aw"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "3 High Growth Stocks with Multibagger Outlook for the Next Bull Market I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=aF4o-CRTDlg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aF4o-CRTDlg",
+   "video_id": "aF4o-CRTDlg",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "12d ago",
+   "views": 19251,
+   "length": "7:56",
+   "description": "In today's video, we're diving deep into 3 High Growth Turnaround Stocks that could deliver outsized returns in the coming months ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/aF4o-CRTDlg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAa_R2uTyR0e35BjWP2qzU5yXSERQ"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "4 Stocks for the Next Bull Run I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=RiW85KlcZzE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RiW85KlcZzE",
+   "video_id": "RiW85KlcZzE",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 10456,
+   "length": "6:36",
+   "description": "In today's video, we're diving deep into 4 high-potential stocks that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RiW85KlcZzE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA93ZLrQbSIBhR7BLiNQQ6ZqHCmiw"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Chemical Micro-cap with Huge Potential I Chemical stock to Buy in 2026",
+   "link": "https://www.youtube.com/watch?v=VgGj01c0BB8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VgGj01c0BB8",
+   "video_id": "VgGj01c0BB8",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 4051,
+   "length": "6:05",
+   "description": "In today's video, we're diving deep into a chemical stock that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VgGj01c0BB8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_DNPgBQdez_piE2-r2RGg9Gt8bg"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Why FIIs are Buying these High Growth Stocks I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=uX_37wcIcIA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uX_37wcIcIA",
+   "video_id": "uX_37wcIcIA",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 3665,
+   "length": "8:53",
+   "description": "In today's video, we're diving deep into 4 high-potential stocks that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/uX_37wcIcIA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA7uSOqbG_2dodRv0BVyNOJpKVxhA"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "5 Critical Mineral Exploration Stocks To Add to your Watchlist",
+   "link": "https://www.youtube.com/watch?v=pkMbpbp2Gok",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pkMbpbp2Gok",
+   "video_id": "pkMbpbp2Gok",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 1114,
+   "length": "9:04",
+   "description": "In today's video, we're diving deep into 5 high-potential CRITICAL MINING & MINERAL EXPLORATION stocks that could deliver ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pkMbpbp2Gok/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCTeL24nEGwm9im3jx-KVAYGbUHoQ"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "High Growth Stock with Immense Long Term Potential I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=Y2JYI2pHNTc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Y2JYI2pHNTc",
+   "video_id": "Y2JYI2pHNTc",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 3738,
+   "length": "9:21",
+   "description": "In today's video, we're diving deep into 5 high-potential stocks that could deliver outsized returns in the coming months. These are ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Y2JYI2pHNTc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9xBJq4BkXUjFvRlU5t6I7WrXzYQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "High Growth Microcaps to Watch in 2026",
+   "link": "https://www.youtube.com/watch?v=6FJRzG7kUjI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6FJRzG7kUjI",
+   "video_id": "6FJRzG7kUjI",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 6986,
+   "length": "16:05",
+   "description": "In today's video, we're diving deep into 3 high-potential microcap stocks that could deliver outsized returns in the coming months.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6FJRzG7kUjI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCL0JCC92ULY_HFFBqBRTtrd5pgFg"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "7 Stocks that gave Excellent Results I Best Stocks To Buy Now",
+   "link": "https://www.youtube.com/watch?v=smhUsTh2Xaw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=smhUsTh2Xaw",
+   "video_id": "smhUsTh2Xaw",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 3641,
+   "length": "9:33",
+   "description": "In this video, I explain everything in a simple and practical manner: • Detailed analysis of quarterly results of the below 7 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/smhUsTh2Xaw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAIDu9vOUw4z9SuS0EjfgdEuEilGA"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "In-depth Equity Research | Stock Valuation & Insights I Stock Review of Cyeint",
+   "link": "https://www.youtube.com/watch?v=u9dyiO-4Ahk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u9dyiO-4Ahk",
+   "video_id": "u9dyiO-4Ahk",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "11mo ago",
+   "views": 1710,
+   "length": "5:54",
+   "description": "In this video, I do a complete fundamental analysis of CYIENT Ltd, breaking down their business models, financial performance, ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/u9dyiO-4Ahk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwW1LOD40EnaumHKK5qrsM-wTDUw"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Greenfield Capex of 340cr I Import Substitution theme I PE of 17",
+   "link": "https://www.youtube.com/watch?v=2ucR7yWG_o0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2ucR7yWG_o0",
+   "video_id": "2ucR7yWG_o0",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 1971,
+   "length": "5:58",
+   "description": "In today's video, we're diving deep into 1 high-potential SMALLCAP stocks that could deliver outsized returns in the coming ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/2ucR7yWG_o0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAthYvysygE_G1b2kdgdDOwGyEbrA"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "The BEST Agri Stock for Long Term Is..",
+   "link": "https://www.youtube.com/watch?v=li6cn0S3Axo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=li6cn0S3Axo",
+   "video_id": "li6cn0S3Axo",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 380,
+   "length": "7:55",
+   "description": "How do global export policies, minimum export prices (MEP), and shifting geopolitical trade dynamics impact the bottom lines of ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/li6cn0S3Axo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5u9YqaWJWDumiBpXgbbiOi0iAiA"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 4,
+   "shorts": [
+    {
+     "title": "Futuristic Company building a great product I Stock Analysis of Olectra Greentech",
+     "link": "https://www.youtube.com/shorts/EG6KHqN-wg8",
+     "thumbnail": "https://i.ytimg.com/vi/EG6KHqN-wg8/frame0.jpg",
+     "views_original": "1.7K views",
+     "views": 1700,
+     "video_id": "EG6KHqN-wg8"
+    },
+    {
+     "title": "Strong Smallcap down 50%I Undervalued I Fundamental Analysis Campus#fundamentalanalysis #stocks",
+     "link": "https://www.youtube.com/shorts/ZOyGyRP9SkI",
+     "thumbnail": "https://i.ytimg.com/vi/ZOyGyRP9SkI/frame0.jpg",
+     "views_original": "1.8K views",
+     "views": 1800,
+     "video_id": "ZOyGyRP9SkI"
+    },
+    {
+     "title": "Don't even think of investing in EV & Infra stocks without watching this...",
+     "link": "https://www.youtube.com/shorts/J_xEaPPhYWA",
+     "thumbnail": "https://i.ytimg.com/vi/J_xEaPPhYWA/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "J_xEaPPhYWA"
+    },
+    {
+     "title": "Is this the end of Gold & Silver rally? What to do Next ? MUST WATCH if you are invested",
+     "link": "https://www.youtube.com/shorts/QWqaqdITq44",
+     "thumbnail": "https://i.ytimg.com/vi/QWqaqdITq44/frame0.jpg",
+     "views_original": "3.8K views",
+     "views": 3800,
+     "video_id": "QWqaqdITq44"
+    },
+    {
+     "title": "A Turnaround in making I PVR Inox I Growth Alert 🤟",
+     "link": "https://www.youtube.com/shorts/vCJLbnxMMbc",
+     "thumbnail": "https://i.ytimg.com/vi/vCJLbnxMMbc/frame0.jpg",
+     "views_original": "990 views",
+     "views": 990,
+     "video_id": "vCJLbnxMMbc"
+    }
+   ]
+  },
+  {
+   "position_on_page": 8,
+   "shorts": [
+    {
+     "title": "What Q1 results of L&T tell us about the Indian Economy?",
+     "link": "https://www.youtube.com/shorts/iCAs4lfCkIA",
+     "thumbnail": "https://i.ytimg.com/vi/iCAs4lfCkIA/frame0.jpg",
+     "views_original": "1.6K views",
+     "views": 1600,
+     "video_id": "iCAs4lfCkIA"
+    },
+    {
+     "title": "4 FUNDAMENTALLY STRONG STOCKS 🚨 AFTER CORRECTION BREAKOUT! 🔥 | FII + DII HOLDING | October 2026",
+     "link": "https://www.youtube.com/shorts/woPUZJUcYig",
+     "thumbnail": "https://i.ytimg.com/vi/woPUZJUcYig/frame0.jpg",
+     "views_original": "247 views",
+     "views": 247,
+     "video_id": "woPUZJUcYig"
+    },
+    {
+     "title": "Why do stock prices of certain stocks crash for no reason?",
+     "link": "https://www.youtube.com/shorts/VbQ6vp55CWY",
+     "thumbnail": "https://i.ytimg.com/vi/VbQ6vp55CWY/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "VbQ6vp55CWY"
+    },
+    {
+     "title": "Ganesha Ecosphere - Strictly for long term",
+     "link": "https://www.youtube.com/shorts/IAqF9jDKms0",
+     "thumbnail": "https://i.ytimg.com/vi/IAqF9jDKms0/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "IAqF9jDKms0"
+    },
+    {
+     "title": "10/7/2026: QQQ, SQQQ, TQQQ, NVDA, TSLA, MSFT, AAPL, GOOGL, META, AMZN, MU, SNDK, ORCL, AMC",
+     "link": "https://www.youtube.com/shorts/MVoKth2aNgo",
+     "thumbnail": "https://i.ytimg.com/vi/MVoKth2aNgo/frame0.jpg",
+     "views_original": "22 views",
+     "views": 22,
+     "video_id": "MVoKth2aNgo"
+    },
+    {
+     "title": "FanDuel's Parent Down 64%: Citi Says the Panic Went Too Far",
+     "link": "https://www.youtube.com/shorts/_xVnnVo1Ymg",
+     "thumbnail": "https://i.ytimg.com/vi/_xVnnVo1Ymg/frame0.jpg",
+     "views_original": "2 views",
+     "views": 2,
+     "video_id": "_xVnnVo1Ymg"
+    },
+    {
+     "title": "Future of Gold Prices: What Smart Investors Need to Know",
+     "link": "https://www.youtube.com/shorts/3rNUXq3GX7s",
+     "thumbnail": "https://i.ytimg.com/vi/3rNUXq3GX7s/frame0.jpg",
+     "views_original": "1.6K views",
+     "views": 1600,
+     "video_id": "3rNUXq3GX7s"
+    },
+    {
+     "title": "3 Stocks Ready to Breakout Tomorrow?",
+     "link": "https://www.youtube.com/shorts/AU432Fu4E7c",
+     "thumbnail": "https://i.ytimg.com/vi/AU432Fu4E7c/frame0.jpg",
+     "views_original": "481 views",
+     "views": 481,
+     "video_id": "AU432Fu4E7c"
+    },
+    {
+     "title": "Can this stock live to its HYPE?",
+     "link": "https://www.youtube.com/shorts/7aJyMwGV2EY",
+     "thumbnail": "https://i.ytimg.com/vi/7aJyMwGV2EY/frame0.jpg",
+     "views_original": "2.1K views",
+     "views": 2100,
+     "video_id": "7aJyMwGV2EY"
+    },
+    {
+     "title": "Why Yatharth crash by 8.5% today | Block deal scenarios explained",
+     "link": "https://www.youtube.com/shorts/M8xjDmHQVD4",
+     "thumbnail": "https://i.ytimg.com/vi/M8xjDmHQVD4/frame0.jpg",
+     "views_original": "3.7K views",
+     "views": 3700,
+     "video_id": "M8xjDmHQVD4"
+    },
+    {
+     "title": "Investing Rs.1,00,000 in Random Stocks!",
+     "link": "https://www.youtube.com/shorts/Y3x8qQUpSz0",
+     "thumbnail": "https://i.ytimg.com/vi/Y3x8qQUpSz0/frame0.jpg",
+     "views_original": "4M views",
+     "views": 4000000,
+     "video_id": "Y3x8qQUpSz0"
+    },
+    {
+     "title": "AI Stocks Under $12 That Could EXPLODE in 2026 🚀 | Big bear Ai & Sound Hound Ai",
+     "link": "https://www.youtube.com/shorts/_4yB685canw",
+     "thumbnail": "https://i.ytimg.com/vi/_4yB685canw/frame0.jpg",
+     "views_original": "25 views",
+     "views": 25,
+     "video_id": "_4yB685canw"
+    },
+    {
+     "title": "Is it a potential Long term Winner?I Kya yeh ek Lambi race ka Ghoda hai? 🐎📈",
+     "link": "https://www.youtube.com/shorts/uyFMocHk15U",
+     "thumbnail": "https://i.ytimg.com/vi/uyFMocHk15U/frame0.jpg",
+     "views_original": "2.6K views",
+     "views": 2600,
+     "video_id": "uyFMocHk15U"
+    },
+    {
+     "title": "🚨 IT STOCKS IN TROUBLE? 7 BIG IT Stocks Down 20–40% in 2026! | Nifty IT Dark Side",
+     "link": "https://www.youtube.com/shorts/p33yX-D4Fhw",
+     "thumbnail": "https://i.ytimg.com/vi/p33yX-D4Fhw/frame0.jpg",
+     "views_original": "1.6K views",
+     "views": 1600,
+     "video_id": "p33yX-D4Fhw"
+    },
+    {
+     "title": "3 BREAKOUT STOCKS FOR TOMORROW | Parag Milk Foods, Vedanta & BHEL | Stocks to Watch",
+     "link": "https://www.youtube.com/shorts/vBYv2xvQaoE",
+     "thumbnail": "https://i.ytimg.com/vi/vBYv2xvQaoE/frame0.jpg",
+     "views_original": "527 views",
+     "views": 527,
+     "video_id": "vBYv2xvQaoE"
+    },
+    {
+     "title": "Why Trump tariffs the biggest test for Modi government",
+     "link": "https://www.youtube.com/shorts/h8sNTezymFg",
+     "thumbnail": "https://i.ytimg.com/vi/h8sNTezymFg/frame0.jpg",
+     "views_original": "721 views",
+     "views": 721,
+     "video_id": "h8sNTezymFg"
+    },
+    {
+     "title": "What Q1 results of Asian Paints tell us about Urban Consumption",
+     "link": "https://www.youtube.com/shorts/USpBrV05MPA",
+     "thumbnail": "https://i.ytimg.com/vi/USpBrV05MPA/frame0.jpg",
+     "views_original": "676 views",
+     "views": 676,
+     "video_id": "USpBrV05MPA"
+    },
+    {
+     "title": "9 Solar Stocks India Investors Shouldn’t Ignore in 2026 By @VivekPrashantAcademy",
+     "link": "https://www.youtube.com/shorts/brxrclMrm94",
+     "thumbnail": "https://i.ytimg.com/vi/brxrclMrm94/frame0.jpg",
+     "views_original": "233 views",
+     "views": 233,
+     "video_id": "brxrclMrm94"
+    },
+    {
+     "title": "Business Models that can grow 10x I High ROE, Low Debt, Cash rich stocks",
+     "link": "https://www.youtube.com/shorts/LWxQ9bdL9P0",
+     "thumbnail": "https://i.ytimg.com/vi/LWxQ9bdL9P0/frame0.jpg",
+     "views_original": "1.3K views",
+     "views": 1300,
+     "video_id": "LWxQ9bdL9P0"
+    },
+    {
+     "title": "High growth smallcap with huge TAM Fundamental Analysis Genesys International #fundamentalanalysis",
+     "link": "https://www.youtube.com/shorts/tWwJro520I0",
+     "thumbnail": "https://i.ytimg.com/vi/tWwJro520I0/frame0.jpg",
+     "views_original": "3.7K views",
+     "views": 3700,
+     "video_id": "tWwJro520I0"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Pranay+Phulkar+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Pranay%20Phulkar%20stocks&sp=SBSCARhVQ09tSkZGdEhtZ2Z6aFhnMjloLXhxS2eCAQtVd2o3MGtUZ2drOIIBCzROUThhTVZjajNZggELTVFMNEc4M0tHWjiCAQtZY1BEUkJpcUFMWYIBC2QwYVVrUFdBRGUwggELQzRVNThGd3NOZWeCAQtGa2thOFVOcEFLWYIBCzU2cElIRDJLaEljggELYUY0by1DUlREbGeCAQtSaVc4NUtsY1p6RYIBC1ZnR2owMWMwQkI4ggELdVhfMzd3Y0ljSUGCAQtwa01icGJwMkdva4IBC1kySllJMnBITlRjggELNkZKUnpHN2tVakmCAQtzbWhVc1RoMlhhd4IBC3U5ZHlpTy00QWhrggELMnVjUjd5V0dfbzCCAQtsaTZjbjBTM0F4b7IBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ09tSkZGdEhtZ2Z6aFhnMjloLXhxS2eCAQtVd2o3MGtUZ2drOIIBCzROUThhTVZjajNZggELTVFMNEc4M0tHWjiCAQtZY1BEUkJpcUFMWYIBC2QwYVVrUFdBRGUwggELQzRVNThGd3NOZWeCAQtGa2thOFVOcEFLWYIBCzU2cElIRDJLaEljggELYUY0by1DUlREbGeCAQtSaVc4NUtsY1p6RYIBC1ZnR2owMWMwQkI4ggELdVhfMzd3Y0ljSUGCAQtwa01icGJwMkdva4IBC1kySllJMnBITlRjggELNkZKUnpHN2tVakmCAQtzbWhVc1RoMlhhd4IBC3U5ZHlpTy00QWhrggELMnVjUjd5V0dfbzCCAQtsaTZjbjBTM0F4b7IBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pranay+Phulkar+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Pranay+Phulkar+stocks&sp=SBSCARhVQ09tSkZGdEhtZ2Z6aFhnMjloLXhxS2eCAQtVd2o3MGtUZ2drOIIBCzROUThhTVZjajNZggELTVFMNEc4M0tHWjiCAQtZY1BEUkJpcUFMWYIBC2QwYVVrUFdBRGUwggELQzRVNThGd3NOZWeCAQtGa2thOFVOcEFLWYIBCzU2cElIRDJLaEljggELYUY0by1DUlREbGeCAQtSaVc4NUtsY1p6RYIBC1ZnR2owMWMwQkI4ggELdVhfMzd3Y0ljSUGCAQtwa01icGJwMkdva4IBC1kySllJMnBITlRjggELNkZKUnpHN2tVakmCAQtzbWhVc1RoMlhhd4IBC3U5ZHlpTy00QWhrggELMnVjUjd5V0dfbzCCAQtsaTZjbjBTM0F4b7IBBgoECBYQAuoBBAgCEBk%253D",
+  "next_page_token": "SBSCARhVQ09tSkZGdEhtZ2Z6aFhnMjloLXhxS2eCAQtVd2o3MGtUZ2drOIIBCzROUThhTVZjajNZggELTVFMNEc4M0tHWjiCAQtZY1BEUkJpcUFMWYIBC2QwYVVrUFdBRGUwggELQzRVNThGd3NOZWeCAQtGa2thOFVOcEFLWYIBCzU2cElIRDJLaEljggELYUY0by1DUlREbGeCAQtSaVc4NUtsY1p6RYIBC1ZnR2owMWMwQkI4ggELdVhfMzd3Y0ljSUGCAQtwa01icGJwMkdva4IBC1kySllJMnBITlRjggELNkZKUnpHN2tVakmCAQtzbWhVc1RoMlhhd4IBC3U5ZHlpTy00QWhrggELMnVjUjd5V0dfbzCCAQtsaTZjbjBTM0F4b7IBBgoECBYQAuoBBAgCEBk%3D"
+ },
+ "_fetched_at": "2026-10-07T16:43:40"
+}

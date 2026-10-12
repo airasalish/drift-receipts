@@ -1,0 +1,288 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5d81266d707c7e0baaa",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Tvf7l-b54DJwspZ1fFa64-n-2R8IJqQUXeeusTUSvXU/6ac9f5d81266d707c7e0baaa.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Tvf7l-b54DJwspZ1fFa64-n-2R8IJqQUXeeusTUSvXU/6ac9f5d81266d707c7e0baaa.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/Tvf7l-b54DJwspZ1fFa64-n-2R8IJqQUXeeusTUSvXU/6ac9f5d81266d707c7e0baaa.json_with_pixel_position",
+  "created_at": "2026-10-10 08:22:48 UTC",
+  "processed_at": "2026-10-10 08:22:48 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Sunil+Minglani%22&oq=site%3Asebi.gov.in+%22Sunil+Minglani%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/Tvf7l-b54DJwspZ1fFa64-n-2R8IJqQUXeeusTUSvXU/6ac9f5d81266d707c7e0baaa.html",
+  "total_time_taken": 0.27
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Sunil Minglani\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Sunil Minglani\"",
+  "total_results": 10,
+  "time_taken_displayed": 0.16,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Home - scores.sebi.gov.in",
+   "link": "https://scores.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVWRCIcZVmguYhJMqwnr3Ml1MK4qyEX39LF0W5guBPaYUBgKjCv8XhQ298Z9eXNNBj93VbeDM13pdgzOd3bnpgBa4tNPfhGArPqHfYvW3FYPx-&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBYQAQ&uoh=1",
+   "displayed_link": "https://scores.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp",
+   "snippet": "“SCORES is an online grievance redressal facilitation platform provided by SEBI. Complainants can lodge grievances pertaining to securities market against SEBI ...",
+   "about_this_result": {
+    "source": {
+     "description": "“SCORES is an online grievance redressal facilitation platform provided by SEBI. Complainants can lodge grievances pertaining to securities market against SEBI ...",
+     "source_info_link": "https://scores.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVldSQ0ljWlZtZ3VZaEpNcXducjNNbDFNSzRxeUVYMzlMRjBXNWd1QlBhWVVCZ0tqQ3Y4WGhRMjk4WjllWE5OQmo5M1ZiZURNMTNwZGd6T2QzYm5wZ0JhNHROUGZoR0FyUHFIZll2VzNGWVB4LRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVldSQ0ljWlZtZ3VZaEpNcXducjNNbDFNSzRxeUVYMzlMRjBXNWd1QlBhWVVCZ0tqQ3Y4WGhRMjk4WjllWE5OQmo5M1ZiZURNMTNwZGd6T2QzYm5wZ0JhNHROUGZoR0FyUHFIZll2VzNGWVB4LRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "scores.sebi.gov.in",
+   "read_more_link": "https://scores.sebi.gov.in/#:~:text=%E2%80%9CSCORES%20is%20an%20online%20grievance,Intermediaries%20and%20Market%20Infrastructure%20Institutions."
+  },
+  {
+   "position": 2,
+   "title": "Time Line Benchmarks for Activities Involving Public Interface",
+   "link": "https://www.sebi.gov.in/allbenchmark.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVt_BLE2do7iUy34tRJg8deXPgzhJ3KKuONZoFqT263qFaYNSmN28eet7CXLRSqu22lTCUi4aY425oG4NIwUUdl1hYfqHmyKoecbMm--6gQKNfTNekKOYVtOzJFj-e-vE&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBUQAQ&uoh=1",
+   "displayed_link": "https://www.sebi.gov.in › allbenchmark",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp",
+   "snippet": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the ...",
+   "about_this_result": {
+    "source": {
+     "description": "Securities and Exchange Board of India is made for protect the interests of investors in securities and to promote the development of, and to regulate the ...",
+     "source_info_link": "https://www.sebi.gov.in/allbenchmark.html",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVnRfQkxFMmRvN2lVeTM0dFJKZzhkZVhQZ3poSjNLS3VPTlpvRnFUMjYzcUZhWU5TbU4yOGVldDdDWExSU3F1MjJsVENVaTRhWTQyNW9HNE5Jd1VVZGwxaFlmcUhteUtvZWNiTW0tLTZnUUtOZlROZWtLT1lWdE96SkZqLWUtdkUSBBoCCAAaLxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWg8IARILc2ViaS5nb3YuaW5yAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVnRfQkxFMmRvN2lVeTM0dFJKZzhkZVhQZ3poSjNLS3VPTlpvRnFUMjYzcUZhWU5TbU4yOGVldDdDWExSU3F1MjJsVENVaTRhWTQyNW9HNE5Jd1VVZGwxaFlmcUhteUtvZWNiTW0tLTZnUUtOZlROZWtLT1lWdE96SkZqLWUtdkUSBBoCCAAaLxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWg8IARILc2ViaS5nb3YuaW5yAHoAIgIQAUgAWABoAA",
+   "source": "SEBI"
+  },
+  {
+   "position": 3,
+   "title": ":: Home | SEBI Investor",
+   "link": "https://investor.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVUi3q3Ruu5V2iJbrFjZ8cPdf9p4ZdR2_crjUnr3wFbp7dfrGaH2Ko8gOQ5DpyizlEfATt4VeetRZhHc3LKTUu2M-m9Q0wCwul-tnfwH3m1tiKItw&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://investor.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp",
+   "snippet": "सेबी की निवेशक वेबसाइट पर आपका स्वागत है. Welcome to Investor website of Securities and Exchange Board of India.",
+   "about_this_result": {
+    "source": {
+     "description": "सेबी की निवेशक वेबसाइट पर आपका स्वागत है. Welcome to Investor website of Securities and Exchange Board of India.",
+     "source_info_link": "https://investor.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVlVpM3EzUnV1NVYyaUpickZqWjhjUGRmOXA0WmRSMl9jcmpVbnIzd0ZicDdkZnJHYUgyS284Z09RNURweWl6bEVmQVR0NFZlZXRSWmhIYzNMS1RVdTJNLW05UTB3Q3d1bC10bmZ3SDNtMXRpS0l0dxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVlVpM3EzUnV1NVYyaUpickZqWjhjUGRmOXA0WmRSMl9jcmpVbnIzd0ZicDdkZnJHYUgyS284Z09RNURweWl6bEVmQVR0NFZlZXRSWmhIYzNMS1RVdTJNLW05UTB3Q3d1bC10bmZ3SDNtMXRpS0l0dxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "SEBI Investor",
+   "read_more_link": "https://investor.sebi.gov.in/#:~:text=%E0%A4%B8%E0%A5%87%E0%A4%AC%E0%A5%80%20%E0%A4%95%E0%A5%80%20%E0%A4%A8%E0%A4%BF%E0%A4%B5%E0%A5%87%E0%A4%B6%E0%A4%95%20%E0%A4%B5%E0%A5%87%E0%A4%AC%E0%A4%B8%E0%A4%BE%E0%A4%87%E0%A4%9F%20%E0%A4%AA%E0%A4%B0,and%20Exchange%20Board%20of%20India"
+  },
+  {
+   "position": 4,
+   "title": "Welcome to SEBI Intermediary Portal",
+   "link": "https://siportal.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVcGiEojAozgIEYAuTv1w209tvTU6gC6NQQWbs65EGO6FXu5CrofeSzvCq7-0-OgHeOUeMSgKfZQF84drjVlcEjIwwPauLP0YzaCS5nXMKZ4IKbvQ&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBAQAQ&uoh=1",
+   "displayed_link": "https://siportal.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBQCdASocABwAPtE-tFooIigoFAEAGglkALElQABzLJWa1NKehuvhN2tL6lqTsdSoDAAA_vYRFg5-BJbEpswCYH8cfwKB3aUMFNp_p6859u-8hnS8y6DFT9HVNa1c7nUIAGDTAjBxgGOZk7Sv46WL_kqdigHJQ93g9WbWxX83x0_hYTjLqZrUxlQJaPsE7HKJHlWVYdmL6WP711pVu92AdUOp1nINpmz3pTlB2envBq-pz_TVPbHY_6aqGccvSIwLjiJYJMD_0fsRNQebx5HeaLsqlO6u_NINtdPmY3bRn5bhU7m1kFxRAEJu498VMUWbpl36N87ARcAA.webp",
+   "snippet": "ESTABLISHMENT OF SEBI. The Securities and Exchange Board Of India was established on 12 April,1992 in accordance with the provisions of the Securities and ...",
+   "about_this_result": {
+    "source": {
+     "description": "ESTABLISHMENT OF SEBI. The Securities and Exchange Board Of India was established on 12 April,1992 in accordance with the provisions of the Securities and ...",
+     "source_info_link": "https://siportal.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAABQBQCdASocABwAPtE-tFooIigoFAEAGglkALElQABzLJWa1NKehuvhN2tL6lqTsdSoDAAA_vYRFg5-BJbEpswCYH8cfwKB3aUMFNp_p6859u-8hnS8y6DFT9HVNa1c7nUIAGDTAjBxgGOZk7Sv46WL_kqdigHJQ93g9WbWxX83x0_hYTjLqZrUxlQJaPsE7HKJHlWVYdmL6WP711pVu92AdUOp1nINpmz3pTlB2envBq-pz_TVPbHY_6aqGccvSIwLjiJYJMD_0fsRNQebx5HeaLsqlO6u_NINtdPmY3bRn5bhU7m1kFxRAEJu498VMUWbpl36N87ARcAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVmNHaUVvakFvemdJRVlBdVR2MXcyMDl0dlRVNmdDNk5RUVdiczY1RUdPNkZYdTVDcm9mZVN6dkNxNy0wLU9nSGVPVWVNU2dLZlpRRjg0ZHJqVmxjRWpJd3dQYXVMUDBZemFDUzVuWE1LWjRJS2J2URIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoUBL2dvdG8_dXJsPUNBRVNXQUhyT3pBVmNHaUVvakFvemdJRVlBdVR2MXcyMDl0dlRVNmdDNk5RUVdiczY1RUdPNkZYdTVDcm9mZVN6dkNxNy0wLU9nSGVPVWVNU2dLZlpRRjg0ZHJqVmxjRWpJd3dQYXVMUDBZemFDUzVuWE1LWjRJS2J2URIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "SEBI Intermediary Portal",
+   "read_more_link": "https://siportal.sebi.gov.in/#:~:text=ESTABLISHMENT%20OF%20SEBI,Board%20of%20India%20Act%2C%201992"
+  },
+  {
+   "position": 5,
+   "title": "MI Login - mi.sebi.gov.in - scores.sebi.gov.in",
+   "link": "https://mi.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUgHrOzAVAItbksP18ZKlkJdiqvIGhIqxg_BC4l0Zbzwfht9HKUfiaXRhpP3c95GoMHqQQj8UU83y4VXcqyQvt0CXRXJLHDn_pnpdpG_-CHECXtc&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBEQAQ&uoh=1",
+   "displayed_link": "https://mi.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp",
+   "snippet": "About Market Intelligence (MI) Portal. Market Intelligence (MI) portal is an online portal for providing information to SEBI regarding violations of any of ...",
+   "about_this_result": {
+    "source": {
+     "description": "About Market Intelligence (MI) Portal. Market Intelligence (MI) portal is an online portal for providing information to SEBI regarding violations of any of ...",
+     "source_info_link": "https://mi.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWQUl0YmtzUDE4Wktsa0pkaXF2SUdoSXF4Z19CQzRsMFpiendmaHQ5SEtVZmlhWFJocFAzYzk1R29NSHFRUWo4VVU4M3k0VlhjcXlRdnQwQ1hSWEpMSERuX3BucGRwR18tQ0hFQ1h0YxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cn0vZ290bz91cmw9Q0FFU1VnSHJPekFWQUl0YmtzUDE4Wktsa0pkaXF2SUdoSXF4Z19CQzRsMFpiendmaHQ5SEtVZmlhWFJocFAzYzk1R29NSHFRUWo4VVU4M3k0VlhjcXlRdnQwQ1hSWEpMSERuX3BucGRwR18tQ0hFQ1h0YxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "mi.sebi.gov.in",
+   "read_more_link": "https://mi.sebi.gov.in/#:~:text=About%20Market%20Intelligence%20(MI)%20Portal,provisions%20of%20the%20securities%20laws."
+  },
+  {
+   "position": 6,
+   "title": "FreezeUnfreeze - scores.sebi.gov.in: FreezeUnfreezeHome",
+   "link": "https://secure.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESVgHrOzAVGVCGWakoLG7rBpRBpoI1F-zVHzViQLbiR7qDicAd--UdQg22ctnWMjSGfrNfTv9FlNfcneNRy9qLH_vhSYTJyC_rurpPGPynNV4i1_mjwbEE&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBsQAQ&uoh=1",
+   "displayed_link": "https://secure.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp",
+   "snippet": "This portal is an online platform for resolving the issues related to freezing of PAN from accessing securities market. This portal empowers you to address the ...",
+   "about_this_result": {
+    "source": {
+     "description": "This portal is an online platform for resolving the issues related to freezing of PAN from accessing securities market. This portal empowers you to address the ...",
+     "source_info_link": "https://secure.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVkdWQ0dXYWtvTEc3ckJwUkJwb0kxRi16Vkh6VmlRTGJpUjdxRGljQWQtLVVkUWcyMmN0bldNalNHZnJOZlR2OUZsTmZjbmVOUnk5cUxIX3ZoU1lUSnlDX3J1cnBQR1B5bk5WNGkxX21qd2JFRRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoIBL2dvdG8_dXJsPUNBRVNWZ0hyT3pBVkdWQ0dXYWtvTEc3ckJwUkJwb0kxRi16Vkh6VmlRTGJpUjdxRGljQWQtLVVkUWcyMmN0bldNalNHZnJOZlR2OUZsTmZjbmVOUnk5cUxIX3ZoU1lUSnlDX3J1cnBQR1B5bk5WNGkxX21qd2JFRRIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "SEBI",
+   "read_more_link": "https://secure.sebi.gov.in/#:~:text=This%20portal%20is%20an%20online,(ii)%20completion%20of%20enforcement%20proceedings."
+  },
+  {
+   "position": 7,
+   "title": "Social Media related Disclaimer",
+   "link": "https://www.sebi.gov.in/social_media_rel_disclaimer.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScwHrOzAVCXxbqiIAdFuuSupq6PTX2JJ25rJngDbgjkq6TypShqJPYXOVBoxzOevOhoyAcEbQLRD_U01mnC22kbKN9k7ZKRBWIa5hHwZ29oL7aXBtUw2uc9yMn9VKpO88Xpq5QoTTDdoc_PWzbBUAvLQR8IE&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBMQAQ&uoh=1",
+   "displayed_link": "https://www.sebi.gov.in › social_media_rel_disclaimer",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp",
+   "snippet": "Official X account of the Securities and Exchange Board of India @SEBI_updates, Official LinkedIn account of the Securities and Exchange Board of India ...",
+   "about_this_result": {
+    "source": {
+     "description": "Official X account of the Securities and Exchange Board of India @SEBI_updates, Official LinkedIn account of the Securities and Exchange Board of India ...",
+     "source_info_link": "https://www.sebi.gov.in/social_media_rel_disclaimer.html",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkNYeGJxaUlBZEZ1dVN1cHE2UFRYMkpKMjVySm5nRGJnamtxNlR5cFNocUpQWVhPVkJveHpPZXZPaG95QWNFYlFMUkRfVTAxbW5DMjJrYktOOWs3WktSQldJYTVoSHdaMjlvTDdhWEJ0VXcydWM5eU1uOVZLcE84OFhwcTVRb1RURGRvY19QV3piQlVBdkxRUjhJRRIEGgIIABovEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaDwgBEgtzZWJpLmdvdi5pbnIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqkBL2dvdG8_dXJsPUNBRVNjd0hyT3pBVkNYeGJxaUlBZEZ1dVN1cHE2UFRYMkpKMjVySm5nRGJnamtxNlR5cFNocUpQWVhPVkJveHpPZXZPaG95QWNFYlFMUkRfVTAxbW5DMjJrYktOOWs3WktSQldJYTVoSHdaMjlvTDdhWEJ0VXcydWM5eU1uOVZLcE84OFhwcTVRb1RURGRvY19QV3piQlVBdkxRUjhJRRIEGgIIABovEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaDwgBEgtzZWJpLmdvdi5pbnIAegAiAhABSABYAGgA",
+   "source": "SEBI",
+   "read_more_link": "https://www.sebi.gov.in/social_media_rel_disclaimer.html#:~:text=Official%20X%20account%20of%20the,and%20Exchange%20Board%20of%20India"
+  },
+  {
+   "position": 8,
+   "title": "Login - SEBI",
+   "link": "https://iaraportal.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVJsUsvQ_sxcRQBsZuaG02ssLBHNfk8ljrBQ-zm3zF9enxo355aMQVpk1ctaziSaePAigUROEaHKW6m09kDLY-lQXhiXeTCe4i4nwFjoQKgw3xOUwIgw&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBIQAQ&uoh=1",
+   "displayed_link": "https://iaraportal.sebi.gov.in",
+   "snippet": "Contact No. Enlistment / SEBI Registration and Post Enlistment applications, Ms. Rasika Naik (RA), 022-2272 8753. Ms.Vaishali Mhatre (RA), 022-2272 8411.",
+   "about_this_result": {
+    "source": {
+     "description": "Contact No. Enlistment / SEBI Registration and Post Enlistment applications, Ms. Rasika Naik (RA), 022-2272 8753. Ms.Vaishali Mhatre (RA), 022-2272 8411.",
+     "source_info_link": "https://iaraportal.sebi.gov.in/"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVkpzVXN2UV9zeGNSUUJzWnVhRzAyc3NMQkhOZms4bGpyQlEtem0zekY5ZW54bzM1NWFNUVZwazFjdGF6aVNhZVBBaWdVUk9FYUhLVzZtMDlrRExZLWxRWGhpWGVUQ2U0aTRud0Zqb1FLZ3czeE9Vd0lndxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CogBL2dvdG8_dXJsPUNBRVNXZ0hyT3pBVkpzVXN2UV9zeGNSUUJzWnVhRzAyc3NMQkhOZms4bGpyQlEtem0zekY5ZW54bzM1NWFNUVZwazFjdGF6aVNhZVBBaWdVUk9FYUhLVzZtMDlrRExZLWxRWGhpWGVUQ2U0aTRud0Zqb1FLZ3czeE9Vd0lndxIEGgIIABogEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegAiAhABSABYAGgA",
+   "source": "SEBI IARA Portal",
+   "read_more_link": "https://iaraportal.sebi.gov.in/#:~:text=Contact%20No.,022%2D2272%208411"
+  },
+  {
+   "position": 9,
+   "title": "Home - E-Services",
+   "link": "https://eservices.sebi.gov.in/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVklMCE8dMZ1NGCQTu3oNJBgREhHNyZbT16DZm6pVD3Ro4Ql1Ni6EAvsGcMvPMSv-R2bFfHGSqjzbcO9YBj8KvswOF0gWRgSUvxG45fa_Pq83yWvKj&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBcQAQ&uoh=1",
+   "displayed_link": "https://eservices.sebi.gov.in",
+   "favicon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp",
+   "snippet": "Welcome to SEBI E-Services ... One stop solution for everything electronic.",
+   "about_this_result": {
+    "source": {
+     "description": "Welcome to SEBI E-Services ... One stop solution for everything electronic.",
+     "source_info_link": "https://eservices.sebi.gov.in/",
+     "icon": "https://serpapi.com/images/i/UklGRgABAABXRUJQVlA4IPQAAADQBQCdASocABwAPtE-tFooIigoFAEAGgliAHjSIFqjc-iLWrGx-Bs1rmkPMx5tf8l_47IThUgAAP79KnD49a8gs6n4mURJp3YKp_5pPd5j_GmLHO0rOpvoS2K9h32ppnno7svj4dIKV5xOD_hhiJQ0ZMGPu9BCXy-2gm5Y7b1jPbontX-S5JcYGadr4WvQHC159mtRWx7jQt5deBohNNIWWhF56zZIrq6v69He5X0V4yYl9PhZIvamlHtGETM2BUf4ZBcfxb86EVTu2VMrtpexLeGFuJ594_zX29vUp09g8Y-l82rHUBc-IPd4aIhm7Su1BmAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmtsTUNFOGRNWjFOR0NRVHUzb05KQmdSRWhITnlaYlQxNkRabTZwVkQzUm80UWwxTmk2RUF2c0djTXZQTVN2LVIyYkZmSEdTcWp6YmNPOVlCajhLdnN3T0YwZ1dSZ1NVdnhHNDVmYV9QcTgzeVd2S2oSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CoYBL2dvdG8_dXJsPUNBRVNXUUhyT3pBVmtsTUNFOGRNWjFOR0NRVHUzb05KQmdSRWhITnlaYlQxNkRabTZwVkQzUm80UWwxTmk2RUF2c0djTXZQTVN2LVIyYkZmSEdTcWp6YmNPOVlCajhLdnN3T0YwZ1dSZ1NVdnhHNDVmYV9QcTgzeVd2S2oSBBoCCAAaIBIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAIgIQAUgAWABoAA",
+   "source": "SEBI",
+   "read_more_link": "https://eservices.sebi.gov.in/#:~:text=Welcome%20to%20SEBI%20E%2DServices&text=One%20stop%20solution%20for%20everything,electronic."
+  },
+  {
+   "position": 10,
+   "title": "Organisation Structure",
+   "link": "https://www.sebi.gov.in/orgchart-grid.html",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVEbXoQPlN3Sd-Y-wM0yNen7jWqkNtt7Sf2JldbNF_10TAbaQy-PVBSvk_hOGcmY2MXKpdyqhwAOcRdwRzHaoPdT8Io8_qsPm1RtueJzEuBbwncSCUxfGmVQ-_CcHnQY2Q&ved=2ahUKEwiQzaHcgq-XAxV_EGIAHT4UAFkQFnoECBkQAQ&uoh=1",
+   "displayed_link": "https://www.sebi.gov.in › orgchart-grid",
+   "favicon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp",
+   "snippet": "Department / Division, Executive Director, Phone No. (+91) 022 / E-mail ID. Legal Affairs Department (LAD2). Ms. G Babita Rayudu. 40459332/26449332",
+   "about_this_result": {
+    "source": {
+     "description": "Department / Division, Executive Director, Phone No. (+91) 022 / E-mail ID. Legal Affairs Department (LAD2). Ms. G Babita Rayudu. 40459332/26449332",
+     "source_info_link": "https://www.sebi.gov.in/orgchart-grid.html",
+     "icon": "https://serpapi.com/images/i/UklGRkYBAABXRUJQVlA4IDoBAABQBgCdASogABAAPtEwtFooIigoGAEAGglmAKkF-OdSTbs1sCmXeLtMd_WBbYXrAZghRENO8IKRUPeUgAD-_VCfaHs6CIStWh1CmoanP6UcyxnzJzVMNyvnX_ln890yJu1z_AL1j6JY4Hy_xtX5Qr0iOEaXHJImCsf1MAaFINgk77yoBdEiqgcMV2P3HJv56SUIdjX0LZCzT--G_1vz-4PDi4GLmoxrZvTOHdQz2TWN6RihtpIJXgP_8Y8gu-GQqXmYEYXRf5n0-ivSB_p6sFLGcPr-ya1fxjg8JvSzVhDbIP1Ac8hhLdH0pheTnK4ds-urKNPmYA9LNEHv5mmZbgJ_dk6mrcoTAj15Vo3A7OAjfM4wPun5yWuRVCA96FizyElbxXm9pqu7efATXeUxW6xHx9z5qThoUcAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkViWG9RUGxOM1NkLVktd00weU5lbjdqV3FrTnR0N1NmMkpsZGJORl8xMFRBYmFReS1QVkJTdmtfaE9HY21ZMk1YS3BkeXFod0FPY1Jkd1J6SGFvUGRUOElvOF9xc1BtMVJ0dWVKekV1QmJ3bmNTQ1V4ZkdtVlEtX0NjSG5RWTJREgQaAggAGi8SABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoPCAESC3NlYmkuZ292LmlucgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkViWG9RUGxOM1NkLVktd00weU5lbjdqV3FrTnR0N1NmMkpsZGJORl8xMFRBYmFReS1QVkJTdmtfaE9HY21ZMk1YS3BkeXFod0FPY1Jkd1J6SGFvUGRUOElvOF9xc1BtMVJ0dWVKekV1QmJ3bmNTQ1V4ZkdtVlEtX0NjSG5RWTJREgQaAggAGi8SABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoPCAESC3NlYmkuZ292LmlucgB6ACICEAFIAFgAaAA",
+   "source": "SEBI",
+   "read_more_link": "https://www.sebi.gov.in/orgchart-grid.html#:~:text=Department%20%2F%20Division,40459332%2F26449332"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:22:46"
+}

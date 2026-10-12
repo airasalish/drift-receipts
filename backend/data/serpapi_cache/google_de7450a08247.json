@@ -1,0 +1,611 @@
+{
+ "search_metadata": {
+  "id": "6ac9f75e4632b5db23c5d5be",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/2lbCCDwo49JxZQbv-MzGe9nhZ11sXVeLrUqKuGMe7b0/6ac9f75e4632b5db23c5d5be.json",
+  "markdown_endpoint": "https://serpapi.com/searches/2lbCCDwo49JxZQbv-MzGe9nhZ11sXVeLrUqKuGMe7b0/6ac9f75e4632b5db23c5d5be.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/2lbCCDwo49JxZQbv-MzGe9nhZ11sXVeLrUqKuGMe7b0/6ac9f75e4632b5db23c5d5be.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:18 UTC",
+  "processed_at": "2026-10-10 08:29:18 UTC",
+  "google_url": "https://www.google.com/search?q=Palantir+Technologies+share+price&oq=Palantir+Technologies+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/2lbCCDwo49JxZQbv-MzGe9nhZ11sXVeLrUqKuGMe7b0/6ac9f75e4632b5db23c5d5be.html",
+  "total_time_taken": 0.68
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Palantir Technologies share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Palantir Technologies share price",
+  "total_results": 126,
+  "time_taken_displayed": 0.41,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Palantir Technologies Inc",
+  "type": "NASDAQ: PLTR",
+  "entity_type": "finance",
+  "kgmid": "/g/11l9rv6gfw",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11l9rv6gfw&hl=en-IN&q=Palantir+Technologies+Inc",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en-IN&kgmid=%2Fg%2F11l9rv6gfw&q=Palantir+Technologies+Inc",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAfCAMAAACF8f6iAAAAYFBMVEX___8AAAD6-vrv7-97e3uysrKioqJsbGyvr6-6urre3t7IyMjl5eXz8_OFhYVvb29TU1NjY2OYmJhJSUnX19ccHBypqanPz88ODg4jIyM5OTmQkJA0NDRERERZWVkrKyvl7LPLAAABOUlEQVQ4je2Sy5qDIAyFcwBRBNGqBS_Vvv9bTlDbftOZLmbWZoFJzB9zIkSnnWbrRvX_4Brc8ivU1iKEUJRHvtK_FBvzdGtEPjOkMjUotaLYX5QQb5Qjui-PQCLbnh4JvPCh8QDfuLb79u2jb4_yAA3Iem83cHOEFmG2ZC631tnICjLzA1wr2Y9rQB9ROFCBGKElOj0jxMtUVLnnqEuyHMxrVA82RZHFeMVgz86cy7SFeSK98ka8OADK0W_LaR8aiYS6DvAMkhoHKJmG0jdqmx2Uh8oOixr333GAV27iE3jjrP4AikA2X_gChCcoUfHeZ4cq6W4-gBkwV-QU0sR1s-Xu93aZksZlaNep3sGRS3OXv0aVMzACOi23PG5e0ZauF5bbtr2MIm2j5MgWVenIvO6FyS2ddtpf7Aty9A7WA-JN7wAAAABJRU5ErkJggg.png",
+    "source": "https://1000logos.net/palantir-logo/"
+   }
+  ],
+  "description": "Palantir Technologies Inc. is an American publicly traded company that develops data integration and analytics software. Palantir is headquartered in Miami, Florida, and was founded in 2003 by Peter Thiel, Stephen Cohen, Joe Lonsdale, Alex Karp, and Nathan Gettings.",
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Palantir"
+  },
+  "headquarters": "Aventura, Florida, United States",
+  "headquarters_links": [
+   {
+    "text": "Aventura, Florida, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Aventura,+Florida&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpvubfZlE6SH4DIwmR-p-fZPPE5A-N_kCEGMBFiIzgPKGxF0kK9buPnRl8JV9MQ9HJacTUzwBr0LuKsuL_N36WL9ddT2gwqR4l0XLoygSUx4GxwFS9ERBuAnI2rxWCOaut50ZXqT8Fktnd_8YPxOMQmdcOSdkxaKzFwCUGqTkCqm50Tu0Jw%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhkEAI"
+   }
+  ],
+  "number_of_employees": "4,401 (2026)",
+  "founded": "6 May 2003",
+  "ceo": "Alex Karp (2004–)",
+  "ceo_links": [
+   {
+    "text": "Alex Karp",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Alex+Karp&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4CahYGXFijzufAio-Lq34_h46Eh_UCRkwtYwGjKcXQfxQyOxj713otV49CTTC-E9_RVTiRUhBwbt_ZTmS0Q1GYVvd2B_NiAGfRJ-irIY_pB8pRHPXdODTNVKwAfd4AcnclrBJ6aKKGaJ9MubMEPcwgRPTa-Xu7tR-DTQJznMBUBJwSr22A%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhqEAI"
+   }
+  ],
+  "subsidiaries": "Palantir Italia S.R.L., Palantir USG, Inc.",
+  "subsidiaries_links": [
+   {
+    "text": "Palantir Italia S.R.L.",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+Italia+S.R.L.&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0cxQmMhtIGU9PQ5DPyeBUNSGAwW6fIIZTQQZdNYvvIRb6drMD1lomvyDvRHiBhxTj3Ii2FRK8eXqOqI-nhKIVp0nB2DrN7gScSxEA4y6V1IFBKghoTfaG7TnI5HPV0vwJWmTCOJ3avolc3Ye1eUoTw_UiA8znL8HNWglTqoFJSsdMFtLDNGDRjI82knCxPAGKteXbmo%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhoEAI"
+   },
+   {
+    "text": "Palantir USG, Inc.",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+USG,+Inc.&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0TwIdbfUCVR44LCzJt0I4Fyp37twxOhkqxbi9GEwNvzsL81P0GXIkGuIiHbD8ivZ3mf9AYtkb02HG0x_bqb7PdoEhy6tBvb4oEGxjKXdoJzEJLwwvTu9-AGLS_FMYMHFRVhb8SKFhvi9AOBA4vj6mTpunKYkUNx8nBMYj-MmGCTczCvVUQ%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhoEAM"
+   },
+   {
+    "text": "See more",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=nasdaq:pltr+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMyxLCozS08r19LOTrbST8vMS8xLTtUvLslPzrZKzs8tSMyr1M3MS8tXKC5NKs5MyUwsykwtXsQqkZdYnJJYaFWQU1KEIgUAi0HsG1kAAAA&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ44YBegQIaBAE"
+   }
+  ],
+  "founders": "Alex Karp, Peter Thiel, Joe Lonsdale, Stephen Cohen, Nathan Gettings",
+  "founders_links": [
+   {
+    "text": "Alex Karp",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Alex+Karp&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4CahYGXFijzufAio-Lq34_h46Eh_UCRkwtYwGjKcXQfxQyOxj713otV49CTTC-E9_RVTiRUhBwbt_ZTmS0Q1GYVvd2B_NiAGfRJ-irIY_pB8pRHPXdODTNVKwAfd4AcnclrBJ6aKKGaJ9MubMEPcwgRPTa-Xu7tR-DTQJznMBUBJwSr22A%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhmEAI"
+   },
+   {
+    "text": "Peter Thiel",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Peter+Thiel&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZu5fjKoG-jll0toJ4IE_FmXCYGlX2JpCciMEGA1ylDoMe1AWLqNz4L1jGhH5Z6tNs7cmvZwk1tHuQNlS8Auu-po5Jsk_P_Pn7iLYfOrQ42MY2bDOiDsk3gm6EcnRIgMfnNlIThMR-BK_Jrd9RxV1qUOl4xpOrax-bBqPEHpBXBhzxJKTw%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhmEAM"
+   },
+   {
+    "text": "Joe Lonsdale",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Joe+Lonsdale&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW674jy-XU3eh4uPX13-NOl7XJSU3zxUGXg9wVRgzVK31D7rn-c3HRpzM6rN_kRyczwrmY1lRW1-EzRAM0W3BwS8fp5_BKqH3XG_8O7O929EdKOwuyv-oqE7ZmQQEXz8_I7sUqubbgYSMLa6Dqa3of_a2xzE-kJiIkdqwx79jLrONwqWF2pPw%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhmEAQ"
+   },
+   {
+    "text": "Stephen Cohen",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Stephen+Cohen+(entrepreneur)&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW671TRfcA2fSTFfOJM5r5V5VBUQyDxXlzHoyzCQL75k84fCndS-dtBiLNtRXLl7I60x4wiQG35646GA6sfCB8HFn3xsXdwMB5A0RdWFJCrvEjLfYN7vGCWpc0vTRXOcC-H3S4t1zrf4sweZEjCi6VphF5kbCaWCsUS5RMKAB1SaCExIau1e80Uh1sPFBU0MUpGav6Bt3I%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhmEAU"
+   },
+   {
+    "text": "Nathan Gettings",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Nathan+Gettings&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0cbKzlyxKiVJS4HTgJMUs2BTdjbgANn9MJCq79KDPhySPcDZsm1hsWVeDyliPLc9wqzP8a4zIy0kwvveIaIoJvCh4ondfvzjjqvWRbxQmAsl4NCDsJ4OoFMnCWXCO4kQOc7RByO6eZ1G7KvFdxdaniN9EBKvMf_loCxewmdO2XnKhFVulA%3D%3D&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQmxN6BAhmEAY"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Goldman Sachs Upgrades Palantir Stock to Buy on Sovereign AI Demand",
+    "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/wLNUOVDODRn3H3W1lNyXzUlDbaLXYE5SPITnKFk8WHE8LHPP-RrlMDHP47GnXLet.webp",
+    "source": "TIKR.com",
+    "date": "20 hours ago",
+    "link": "https://www.tikr.com/blog/goldman-sachs-upgrades-palantir-buy-sovereign-ai"
+   },
+   {
+    "title": "Earnings"
+   },
+   {
+    "title": "Quarterly financials"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "What is the current stock price of Palantir Technologies Inc. in the US?",
+   "type": "ai_overview",
+   "page_token": "DeXCs3icHdBdboIwAADg7DI-yr-LJmZZN4prQrG0tNCXBYoIgtApGejb7rJT7TRbdoMv39d31_Ttz0Naj6O-bgxjmqblcRiO3WGphrORX2-9MlTedUWu2s3qcWU9VWrrXyfwMkyAJFrz19ikPd9jWKbFGZoJV1PEJOJnWEcQI2pCFFoQZb0GWas5YXikNp7zYB2qVDu58BwqPCJ8FHImZ8ZirWDJokTOeY8aCuWAE3TL7pmLzREQ26tje-aih28i0bPy103OOym6EhDTt_Jd6JAOsuyEZbFDdhjIoGy9IBZjRTlxlUXcSGQUWrUtW10XZh3SU70vUvBnB1XJn91DAi9Bg0C8w7dIyDgJ1gKfZEts-RFB381EKSmHlyLgd5Z4TSY8sKjU59ZZ_I9t36vzuNGX4fgLjqt2_w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=DeXCs3icHdBdboIwAADg7DI-yr-LJmZZN4prQrG0tNCXBYoIgtApGejb7rJT7TRbdoMv39d31_Ttz0Naj6O-bgxjmqblcRiO3WGphrORX2-9MlTedUWu2s3qcWU9VWrrXyfwMkyAJFrz19ikPd9jWKbFGZoJV1PEJOJnWEcQI2pCFFoQZb0GWas5YXikNp7zYB2qVDu58BwqPCJ8FHImZ8ZirWDJokTOeY8aCuWAE3TL7pmLzREQ26tje-aih28i0bPy103OOym6EhDTt_Jd6JAOsuyEZbFDdhjIoGy9IBZjRTlxlUXcSGQUWrUtW10XZh3SU70vUvBnB1XJn91DAi9Bg0C8w7dIyDgJ1gKfZEts-RFB381EKSmHlyLgd5Z4TSY8sKjU59ZZ_I9t36vzuNGX4fgLjqt2_w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0b2NrIHByaWNlIG9mIFBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIGluIHRoZSBVUz8iLCJsayI6IkdoRndZV3hoYm5ScGNpQnpkRzlqYXlCMWN3IiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSBjdXJyZW50IHN0b2NrIHByaWNlIG9mIFBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIGluIHRoZSBVUz8iLCJsayI6IkdoRndZV3hoYm5ScGNpQnpkRzlqYXlCMWN3IiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9"
+  },
+  {
+   "question": "How does Palantir make money?",
+   "type": "ai_overview",
+   "page_token": "h-Qe6XicHdBdbpswAABg7TJ9bDDQTI4UTSKxISSms7EN-GVy7CQkNj9rWUL7trvsVDvNpH1H-H7_8dfe_f1yb6dpfF8tFo_H4_kyDBd_ejZDt9DvH71ZGO39URu3Wn5dgm9ns0a_dsnm5y6hYhzllgXlLU91YF4YgMkxCELiwPejVCl1uDUSfrAAX7mA1PQ213VCKmQ_mzDHCvusyti-QqBmHSxK4bdljwGXsJEijsu-KOwW942b3l5TuS8dOKjabtQG9JWDB-1hoDwFNoTXIhMxuyVtgdjG1n5JnPdkW4S6I5HqC0BSsLfeRzxCMZf5svE5qUPVVKgFDLfZ6VbMMgWcOsZQaxvbqX1TwR1HQ8xD8LAY0zqS9DXziZ6HKxXs09x8J3x7OAk6ixQWnLu5keRFZ-ogu2kmyEolxrugT2dzX0dP_z_XP87dtBrfhss_2zx_vg",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=h-Qe6XicHdBdbpswAABg7TJ9bDDQTI4UTSKxISSms7EN-GVy7CQkNj9rWUL7trvsVDvNpH1H-H7_8dfe_f1yb6dpfF8tFo_H4_kyDBd_ejZDt9DvH71ZGO39URu3Wn5dgm9ns0a_dsnm5y6hYhzllgXlLU91YF4YgMkxCELiwPejVCl1uDUSfrAAX7mA1PQ213VCKmQ_mzDHCvusyti-QqBmHSxK4bdljwGXsJEijsu-KOwW942b3l5TuS8dOKjabtQG9JWDB-1hoDwFNoTXIhMxuyVtgdjG1n5JnPdkW4S6I5HqC0BSsLfeRzxCMZf5svE5qUPVVKgFDLfZ6VbMMgWcOsZQaxvbqX1TwR1HQ8xD8LAY0zqS9DXziZ6HKxXs09x8J3x7OAk6ixQWnLu5keRFZ-ogu2kmyEolxrugT2dzX0dP_z_XP87dtBrfhss_2zx_vg",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJIb3cgZG9lcyBQYWxhbnRpciBtYWtlIG1vbmV5PyIsImxrIjoiR2h4b2IzY2daRzlsY3lCd1lXeGhiblJwY2lCdFlXdGxJRzF2Ym1WNSIsImJzIjoiYzJXUE1RdkNNQkJHY2Mya3VCV3R0N2s1MUItUXdhV0tncURpS0NHZUpqVE5sU1JWX1BkV2E3WHFlcnp2OFk0ZFdMcFhJb0QyRUJTQ0xKMURHOEFIa2hrVVRrc0VPc0ZhR0dHRGRyQkZxU3daT212ME1MZHlBdG8taDdzTlRfcFJyMmpBV2xCNnh0a3dwU3NjcVJxOE5ibklFSEt5ZU9OSkhBMVVBeFRfQUZ1d2FWTlk3U1hCQ29Nd0hwWTYxd0dQWV8tSlZzSmhIZDNFVkhqcnltWnM5SWk1a0JGQkczdzVXOFU4Z1NoV1A4ajNVOTNPSFEiLCJpZCI6ImZjX1h2Zkphb0hMSjhPbXB0UVBfdVA4eUFrXzIifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJIb3cgZG9lcyBQYWxhbnRpciBtYWtlIG1vbmV5PyIsImxrIjoiR2h4b2IzY2daRzlsY3lCd1lXeGhiblJwY2lCdFlXdGxJRzF2Ym1WNSIsImJzIjoiYzJXUE1RdkNNQkJHY2Mya3VCV3R0N2s1MUItUXdhV0tncURpS0NHZUpqVE5sU1JWX1BkV2E3WHFlcnp2OFk0ZFdMcFhJb0QyRUJTQ0xKMURHOEFIa2hrVVRrc0VPc0ZhR0dHRGRyQkZxU3daT212ME1MZHlBdG8taDdzTlRfcFJyMmpBV2xCNnh0a3dwU3NjcVJxOE5ibklFSEt5ZU9OSkhBMVVBeFRfQUZ1d2FWTlk3U1hCQ29Nd0hwWTYxd0dQWV8tSlZzSmhIZDNFVkhqcnltWnM5SWk1a0JGQkczdzVXOFU4Z1NoV1A4ajNVOTNPSFEiLCJpZCI6ImZjX1h2Zkphb0hMSjhPbXB0UVBfdVA4eUFrXzIifQ%3D%3D"
+  },
+  {
+   "question": "What is Palco Metals Limited's current share price?",
+   "type": "ai_overview",
+   "page_token": "UCVrWnicHdBdboIwAADg7DI-Cq3oEhOziPwYMqoU22JfFmj50RZhgmPwtrvsVDvNlp3gS76vb325qZ-npOr7tlsbxjAM87JpSp3PRVMbaTfehCFSrbNUqPXqeQVeCrFxu8HeNYMdkbalDjZj0nfnevmQPkaUgRMGCp4X6Jz5FQhj4MlaI2FiTgC1YtZDFgNKJ8mQo2vqyAIDTDjFjYRth9gwiiQcmS9xtufjwUcTSQJP3ORr6hAQJVsg3RKGavn4c5tQ40o49D2FMkpMfcx2YOQK78KJLvikUV5_7tmJXoXLu9wNAYEBlyc39kAFuWqrzKzC-Fods8Q2CbULSbdWTry7fwlsvEfjgfEYUdlSWA4RtCwE7CljgLA6-EiVVGHCTcI8PCvEx2Yx-x_bvBV1v27vTfkLSsF4eA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=UCVrWnicHdBdboIwAADg7DI-Cq3oEhOziPwYMqoU22JfFmj50RZhgmPwtrvsVDvNlp3gS76vb325qZ-npOr7tlsbxjAM87JpSp3PRVMbaTfehCFSrbNUqPXqeQVeCrFxu8HeNYMdkbalDjZj0nfnevmQPkaUgRMGCp4X6Jz5FQhj4MlaI2FiTgC1YtZDFgNKJ8mQo2vqyAIDTDjFjYRth9gwiiQcmS9xtufjwUcTSQJP3ORr6hAQJVsg3RKGavn4c5tQ40o49D2FMkpMfcx2YOQK78KJLvikUV5_7tmJXoXLu9wNAYEBlyc39kAFuWqrzKzC-Fods8Q2CbULSbdWTry7fwlsvEfjgfEYUdlSWA4RtCwE7CljgLA6-EiVVGHCTcI8PCvEx2Yx-x_bvBV1v27vTfkLSsF4eA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIFBhbGNvIE1ldGFscyBMaW1pdGVkJ3MgY3VycmVudCBzaGFyZSBwcmljZT8iLCJsayI6IkdoRndZV3hqYnlCemFHRnlaU0J3Y21salpRIiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJXaGF0IGlzIFBhbGNvIE1ldGFscyBMaW1pdGVkJ3MgY3VycmVudCBzaGFyZSBwcmljZT8iLCJsayI6IkdoRndZV3hqYnlCemFHRnlaU0J3Y21salpRIiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9"
+  },
+  {
+   "question": "How volatile is Palantir stock?",
+   "type": "ai_overview",
+   "page_token": "fCFBXHicHdBRboIwGADg7DI-KgV008QsQ6yugTqK_GBfFihipRUaJaK-7S471U6zZRf4Hr6vb31s1M9TJrvOXGajUd_3w0PbHvR-KNrTKL_cGzESudZFLtRs8jxBr5WYLy-9t2h7L0qMAZ9ZsY3d7EEsftJN5LxbcbbshE-OoKcBrNw7rTHdArg5wKZM2bZca7arMeeY4Nzx6gimDqSS7pTReS0DXutN6ZDLzuYIGpnCirnBNrKDhCShLz-KdYvSFUHsBCpPx7cYIhQ2lFHkIerzSWgTXzjJuMD8BqjUIaaLADjdJzcnVmPCIYwxkjZXRhaWDOP6z8w8KwGvKuHN3Sf4vDoSj63pfZPyuABjWKMeYiknoF46Ct61tLhJlKxYUwLUJRtU4jp3Bv9j88_q1M3MuT38AtJqdxs",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fCFBXHicHdBRboIwGADg7DI-KgV008QsQ6yugTqK_GBfFihipRUaJaK-7S471U6zZRf4Hr6vb31s1M9TJrvOXGajUd_3w0PbHvR-KNrTKL_cGzESudZFLtRs8jxBr5WYLy-9t2h7L0qMAZ9ZsY3d7EEsftJN5LxbcbbshE-OoKcBrNw7rTHdArg5wKZM2bZca7arMeeY4Nzx6gimDqSS7pTReS0DXutN6ZDLzuYIGpnCirnBNrKDhCShLz-KdYvSFUHsBCpPx7cYIhQ2lFHkIerzSWgTXzjJuMD8BqjUIaaLADjdJzcnVmPCIYwxkjZXRhaWDOP6z8w8KwGvKuHN3Sf4vDoSj63pfZPyuABjWKMeYiknoF46Ct61tLhJlKxYUwLUJRtU4jp3Bv9j88_q1M3MuT38AtJqdxs",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJIb3cgdm9sYXRpbGUgaXMgUGFsYW50aXIgc3RvY2s/IiwibGsiOiJHaDVvYjNjZ2RtOXNZWFJwYkdVZ2FYTWdjR0ZzWVc1MGFYSWdjM1J2WTJzIiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSTGNYa3RaM3BxUzBkV00zaFViVGhrU1hZemEwUkNjRXQ1WldoQmVHZFNUalF5WjFGdVJVZHFjelp2U2prMmNUUmpVelJSVDE5WWVYcEJhRUk1U3pGUGNVeFNUelpXYzFsTVprbDNVek16VlZCcUxUSndWVmhDUzFWMVVSSVhXSFptU21GdlNFeEtPRTl0Y0hSUlVGOTFVRGg1UVdzYUlrRkVjM0k1WmxKdE1WTTNUM295VW5oS1RtMU5TVTV4UkVGQkxVTlFhV2R4YW1jIiwiZmN2IjoiMyIsImVpIjoiWHZmSmFvSExKOE9tcHRRUF91UDh5QWsiLCJxYyI6IkNpRndZV3hoYm5ScGNpQjBaV05vYm05c2IyZHBaWE1nYzJoaGNtVWdjSEpwWTJVUUFIMThBQTBfIiwicXVlc3Rpb24iOiJIb3cgdm9sYXRpbGUgaXMgUGFsYW50aXIgc3RvY2s%2FIiwibGsiOiJHaDVvYjNjZ2RtOXNZWFJwYkdVZ2FYTWdjR0ZzWVc1MGFYSWdjM1J2WTJzIiwiYnMiOiJjMldQTVF2Q01CQkdjYzJrdUJXdHQ3azUxQi1Rd2FXS2dxRGlLQ0dlSmpUTmxTUlZfUGRXYTdYcWVyenY4WTRkV0xwWElvRDJFQlNDTEoxREc4QUhraGtVVGtzRU9zRmFHR0dEZHJCRnFTd1pPbXYwTUxkeUF0by1oN3NOVF9wUnIyakFXbEI2eHRrd3BTc2NxUnE4TmJuSUVIS3llT05KSEExVUF4VF9BRnV3YVZOWTdTWEJDb013SHBZNjF3R1BZXy1KVnNKaEhkM0VWSGpyeW1aczlJaTVrQkZCRzN3NVc4VThnU2hXUDhqM1U5M09IUSIsImlkIjoiZmNfWHZmSmFvSExKOE9tcHRRUF91UDh5QWtfMiJ9"
+  }
+ ],
+ "answer_box": {
+  "type": "finance_results",
+  "title": "News",
+  "exchange": "NASDAQ",
+  "stock": "PLTR",
+  "currency": "USD",
+  "price": 209.05,
+  "price_movement": {
+   "percentage": 5.17,
+   "movement": "Up",
+   "date": "today"
+  },
+  "market": {
+   "closed": true,
+   "date": "9 Oct, 7:59 pm GMT-4",
+   "trading": "After hours",
+   "price": 208.73,
+   "price_movement": {
+    "price": 0.32,
+    "percentage": 0.15,
+    "movement": "Down"
+   }
+  },
+  "table": [
+   {
+    "name": "Open",
+    "value": 201.48
+   },
+   {
+    "name": "High",
+    "value": 209.58
+   },
+   {
+    "name": "Low",
+    "value": 198.3
+   },
+   {
+    "name": "Mkt cap",
+    "value": 50.24
+   },
+   {
+    "name": "P/E ratio",
+    "value": 178.15
+   },
+   {
+    "name": "52-wk high",
+    "value": 209.58
+   },
+   {
+    "name": "Dividend",
+    "value": "-"
+   },
+   {
+    "name": "Qtrly div amt",
+    "value": "-"
+   },
+   {
+    "name": "52-wk low",
+    "value": 106.38
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Palantir Technologies Inc. Stock Overview (U.S.: Nasdaq)",
+   "link": "https://www.barrons.com/market-data/stocks/pltr",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESagHrOzAVwkPbSJvpVR5Fr-jXwcJymnIBQnDXGwuGjonFZdMU0ABb_bqRt_9DpguCMOFwxDgGbvWEEz_qnrh2YirHEdqtIK-qX2jG89zBclqyep2DAishKmy4MMvk0Ld5zdv-gyh3QyAb14w&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://www.barrons.com › Home Page › Quotes",
+   "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADwBACdASocABwAPtEutFooIagoGAEAGglnAMwdjLzgWRsrYr_0nRQXkqtNdkLGyYAA_ujQruwtvF5uC8crPhUMFO9p5cA_FLnb4DqTgjLgV20a4oVV5qKIHoQqeOWNppS2Q95LJH69P0Pwr57vMlk_XpN1PSPArrdTsQAwAy6CxufxB_ERVfyv4xhVX4z2ZX_wu7Ao-7tpccZfP9NgxVuQvf85kTc8il3CacCFEkLuG4AAAAA.webp",
+   "snippet": "View real-time PLTR stock price and news, along with industry-best analysis. Share Seem Fully Valued Sentiment: 9.27/10 Palantir and Microsoft Drop.",
+   "snippet_highlighted_words": [
+    "real-time PLTR stock price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "View real-time PLTR stock price and news, along with industry-best analysis. Share Seem Fully Valued Sentiment: 9.27/10 Palantir and Microsoft Drop.",
+     "source_info_link": "https://www.barrons.com/market-data/stocks/pltr",
+     "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADwBACdASocABwAPtEutFooIagoGAEAGglnAMwdjLzgWRsrYr_0nRQXkqtNdkLGyYAA_ujQruwtvF5uC8crPhUMFO9p5cA_FLnb4DqTgjLgV20a4oVV5qKIHoQqeOWNppS2Q95LJH69P0Pwr57vMlk_XpN1PSPArrdTsQAwAy6CxufxB_ERVfyv4xhVX4z2ZX_wu7Ao-7tpccZfP9NgxVuQvf85kTc8il3CacCFEkLuG4AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVndrUGJTSnZwVlI1RnItalh3Y0p5bW5JQlFuRFhHd3VHam9uRlpkTVUwQUJiX2JxUnRfOURwZ3VDTU9Gd3hEZ0didldFRXpfcW5yaDJZaXJIRWRxdElLLXFYMmpHODl6QmNscXllcDJEQWlzaEtteTRNTXZrMExkNXpkdi1neWgzUXlBYjE0dxIEGgIIABqTBRICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO0ECAAQABgAIAAqHgoIcGFsYW50aXIV9n-UQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVPFBxQBoEdGVjaCpOCgVzaGFyZRVqt6M-Ggljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFZFZmz8aBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWd2tQYlNKdnBWUjVGci1qWHdjSnltbklCUW5EWEd3dUdqb25GWmRNVTBBQmJfYnFSdF85RHBndUNNT0Z3eERnR2J2V0VFel9xbnJoMllpckhFZHF0SUstcVgyakc4OXpCY2xxeWVwMkRBaXNoS215NE1NdmswTGQ1emR2LWd5aDNReUFiMTR3Ok08Yj5QYWxhbnRpciBUZWNobm9sb2dpZXM8L2I-IEluYy4gPGI-U3RvY2s8L2I-IE92ZXJ2aWV3IChVLlMuOiA8Yj5OYXNkYXE8L2I-KUKbAVZpZXcgPGI-cmVhbC10aW1lIFBMVFIgc3RvY2sgcHJpY2U8L2I-IGFuZCBuZXdzLCBhbG9uZyB3aXRoIGluZHVzdHJ5LWJlc3QgYW5hbHlzaXMuIFNoYXJlIFNlZW0gRnVsbHkgVmFsdWVkIFNlbnRpbWVudDogOS4yNy8xMCBQYWxhbnRpciBhbmQgTWljcm9zb2Z0IERyb3AuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cp0BL2dvdG8_dXJsPUNBRVNhZ0hyT3pBVndrUGJTSnZwVlI1RnItalh3Y0p5bW5JQlFuRFhHd3VHam9uRlpkTVUwQUJiX2JxUnRfOURwZ3VDTU9Gd3hEZ0didldFRXpfcW5yaDJZaXJIRWRxdElLLXFYMmpHODl6QmNscXllcDJEQWlzaEtteTRNTXZrMExkNXpkdi1neWgzUXlBYjE0dxIEGgIIABqTBRICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQO0ECAAQABgAIAAqHgoIcGFsYW50aXIV9n-UQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVPFBxQBoEdGVjaCpOCgVzaGFyZRVqt6M-Ggljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFZFZmz8aBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UynQEvZ290bz91cmw9Q0FFU2FnSHJPekFWd2tQYlNKdnBWUjVGci1qWHdjSnltbklCUW5EWEd3dUdqb25GWmRNVTBBQmJfYnFSdF85RHBndUNNT0Z3eERnR2J2V0VFel9xbnJoMllpckhFZHF0SUstcVgyakc4OXpCY2xxeWVwMkRBaXNoS215NE1NdmswTGQ1emR2LWd5aDNReUFiMTR3Ok08Yj5QYWxhbnRpciBUZWNobm9sb2dpZXM8L2I-IEluYy4gPGI-U3RvY2s8L2I-IE92ZXJ2aWV3IChVLlMuOiA8Yj5OYXNkYXE8L2I-KUKbAVZpZXcgPGI-cmVhbC10aW1lIFBMVFIgc3RvY2sgcHJpY2U8L2I-IGFuZCBuZXdzLCBhbG9uZyB3aXRoIGluZHVzdHJ5LWJlc3QgYW5hbHlzaXMuIFNoYXJlIFNlZW0gRnVsbHkgVmFsdWVkIFNlbnRpbWVudDogOS4yNy8xMCBQYWxhbnRpciBhbmQgTWljcm9zb2Z0IERyb3AuIgIQAUgAWABoAA",
+   "source": "Barron's"
+  },
+  {
+   "position": 2,
+   "title": "Palantir Technologies Inc. - Stock Price, Quote and News",
+   "link": "https://www.cnbc.com/quotes/PLTR",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWwHrOzAVHPmSocJqdpVIeP8XjOGuhYKtsHko7JfWxxiThu5DAKjPUpvM-kFu1tIsUh5njQtDZxUnSIaG_MldFALLEByWaZZ6Yc_AtP4TnQAGnvXsXKtGkeYA5tA&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFIQAQ&uoh=1",
+   "displayed_link": "https://www.cnbc.com › quotes › PLTR",
+   "favicon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASocABwAPtE-tFooIigoFAEAGglmALEfJgFJz1yFfw0gnjBr5Q3mgy0MZ_eJR4AA_vKV42wfRkKtAncvfquCc4Z7WZ0KFe9ofe_l_BWkeGOLZFQO0PqxLfopGw8E6kF_uvOuEV7lNxYdaZGJIdmid0frHTrh3w5rb5QEDaQqaBL06iXutzz3EKsCX_sWyL_r_Wi0b1VDBcXiyO-MKSBvJ9-jlNRCXsI01a4RLCODjpdc-Lh7EA1c0M_HCn8MLh035J2rZgx6O210RnhgAAA.webp",
+   "snippet": "Get Palantir Technologies Inc. (PLTR:NASDAQ) real-time stock quotes, news, price and financial information from CNBC.",
+   "snippet_highlighted_words": [
+    "Get Palantir Technologies Inc. (PLTR:NASDAQ) real-time stock quotes"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Get Palantir Technologies Inc. (PLTR:NASDAQ) real-time stock quotes, news, price and financial information from CNBC.",
+     "source_info_link": "https://www.cnbc.com/quotes/PLTR",
+     "icon": "https://serpapi.com/images/i/UklGRt4AAABXRUJQVlA4INIAAABQBQCdASocABwAPtE-tFooIigoFAEAGglmALEfJgFJz1yFfw0gnjBr5Q3mgy0MZ_eJR4AA_vKV42wfRkKtAncvfquCc4Z7WZ0KFe9ofe_l_BWkeGOLZFQO0PqxLfopGw8E6kF_uvOuEV7lNxYdaZGJIdmid0frHTrh3w5rb5QEDaQqaBL06iXutzz3EKsCX_sWyL_r_Wi0b1VDBcXiyO-MKSBvJ9-jlNRCXsI01a4RLCODjpdc-Lh7EA1c0M_HCn8MLh035J2rZgx6O210RnhgAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkhQbVNvY0pxZHBWSWVQOFhqT0d1aFlLdHNIa283SmZXeHhpVGh1NURBS2pQVXB2TS1rRnUxdElzVWg1bmpRdERaeFVuU0lhR19NbGRGQUxMRUJ5V2FaWjZZY19BdFA0VG5RQUdudlhzWEt0R2tlWUE1dEESBBoCCAAa3gQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC4BAgAEAAYACAAKh4KCHBhbGFudGlyFWdmBkAaDWl2O3A7cGFsYW50aXIqGQoMdGVjaG5vbG9naWVzFWdmBkAaBHRlY2gqTgoFc2hhcmUVAAAAABoJY29tIHN0b2NrGgpjb3JwIHN0b2NrGgZuYXNkYXEaBnNoYXJlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZSpLCgVwcmljZRVnZgZAGgRjb3N0GgVjb3N0cxoGbmFzZGFxGgZwcmljZXMaBXJhdGVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlMokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkhQbVNvY0pxZHBWSWVQOFhqT0d1aFlLdHNIa283SmZXeHhpVGh1NURBS2pQVXB2TS1rRnUxdElzVWg1bmpRdERaeFVuU0lhR19NbGRGQUxMRUJ5V2FaWjZZY19BdFA0VG5RQUdudlhzWEt0R2tlWUE1dEE6TFBMVFI6IDxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiAtIDxiPlN0b2NrPC9iPiBQcmljZSwgUXVvdGUgYW5kIE5ld3NCfDxiPkdldCBQYWxhbnRpciBUZWNobm9sb2dpZXMgSW5jLiAoUExUUjpOQVNEQVEpIHJlYWwtdGltZSBzdG9jayBxdW90ZXM8L2I-LCBuZXdzLCBwcmljZSBhbmQgZmluYW5jaWFsIGluZm9ybWF0aW9uIGZyb20gQ05CQy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkhQbVNvY0pxZHBWSWVQOFhqT0d1aFlLdHNIa283SmZXeHhpVGh1NURBS2pQVXB2TS1rRnUxdElzVWg1bmpRdERaeFVuU0lhR19NbGRGQUxMRUJ5V2FaWjZZY19BdFA0VG5RQUdudlhzWEt0R2tlWUE1dEESBBoCCAAa3gQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC4BAgAEAAYACAAKh4KCHBhbGFudGlyFWdmBkAaDWl2O3A7cGFsYW50aXIqGQoMdGVjaG5vbG9naWVzFWdmBkAaBHRlY2gqTgoFc2hhcmUVAAAAABoJY29tIHN0b2NrGgpjb3JwIHN0b2NrGgZuYXNkYXEaBnNoYXJlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZSpLCgVwcmljZRVnZgZAGgRjb3N0GgVjb3N0cxoGbmFzZGFxGgZwcmljZXMaBXJhdGVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlMokBL2dvdG8_dXJsPUNBRVNXd0hyT3pBVkhQbVNvY0pxZHBWSWVQOFhqT0d1aFlLdHNIa283SmZXeHhpVGh1NURBS2pQVXB2TS1rRnUxdElzVWg1bmpRdERaeFVuU0lhR19NbGRGQUxMRUJ5V2FaWjZZY19BdFA0VG5RQUdudlhzWEt0R2tlWUE1dEE6TFBMVFI6IDxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiAtIDxiPlN0b2NrPC9iPiBQcmljZSwgUXVvdGUgYW5kIE5ld3NCfDxiPkdldCBQYWxhbnRpciBUZWNobm9sb2dpZXMgSW5jLiAoUExUUjpOQVNEQVEpIHJlYWwtdGltZSBzdG9jayBxdW90ZXM8L2I-LCBuZXdzLCBwcmljZSBhbmQgZmluYW5jaWFsIGluZm9ybWF0aW9uIGZyb20gQ05CQy4iAhABSABYAGgA",
+   "source": "CNBC"
+  },
+  {
+   "position": 3,
+   "title": "Palantir Technologies (PLTR) Stock price today",
+   "link": "https://www.kraken.com/in/stocks/pltr",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVnIBUksKO68OYgWfElxXPtUJokKR5jkCcRdo5yPtT0By0une1uzGNS1fc-C0W9hqN1z6XQPhEjburyfBb5KzJOBFSirR4dCeGo4O1DcOjMgngywiuVBc-tj_SqQ&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFEQAQ&uoh=1",
+   "displayed_link": "https://www.kraken.com › In › Stocks",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png",
+   "snippet": "The Palantir Technologies Inc. Class A Common Stock (PLTR) stock price today is $193.84, reflecting a -0.12% move since the market opened.",
+   "snippet_highlighted_words": [
+    "193.84"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The Palantir Technologies Inc. Class A Common Stock (PLTR) stock price today is $193.84, reflecting a -0.12% move since the market opened.",
+     "source_info_link": "https://www.kraken.com/in/stocks/pltr",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm5JQlVrc0tPNjhPWWdXZkVseFhQdFVKb2tLUjVqa0NjUmRvNXlQdFQwQnkwdW5lMXV6R05TMWZjLUMwVzlocU4xejZYUVBoRWpidXJ5ZkJiNUt6Sk9CRlNpclI0ZENlR280TzFEY09qTWduZ3l3aXVWQmMtdGpfU3FREgQaAggAGv0EEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNkECAAQABgAIAAqHgoIcGFsYW50aXIVScmLQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVKOmPQBoEdGVjaCpOCgVzaGFyZRXLQQA_Ggljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFeg9cEAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWbklCVWtzS082OE9ZZ1dmRWx4WFB0VUpva0tSNWprQ2NSZG81eVB0VDBCeTB1bmUxdXpHTlMxZmMtQzBXOWhxTjF6NlhRUGhFamJ1cnlmQmI1S3pKT0JGU2lyUjRkQ2VHbzRPMURjT2pNZ25neXdpdVZCYy10al9TcVE6UDxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gKFBMVFIpIDxiPlN0b2NrPC9iPiBwcmljZSB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0QpEBVGhlIFBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIENsYXNzIEEgQ29tbW9uIFN0b2NrIChQTFRSKSBzdG9jayBwcmljZSB0b2RheSBpcyAkPGI-MTkzLjg0PC9iPiwgcmVmbGVjdGluZyBhIC0wLjEyJSBtb3ZlIHNpbmNlIHRoZSBtYXJrZXQgb3BlbmVkLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVm5JQlVrc0tPNjhPWWdXZkVseFhQdFVKb2tLUjVqa0NjUmRvNXlQdFQwQnkwdW5lMXV6R05TMWZjLUMwVzlocU4xejZYUVBoRWpidXJ5ZkJiNUt6Sk9CRlNpclI0ZENlR280TzFEY09qTWduZ3l3aXVWQmMtdGpfU3FREgQaAggAGv0EEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQNkECAAQABgAIAAqHgoIcGFsYW50aXIVScmLQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVKOmPQBoEdGVjaCpOCgVzaGFyZRXLQQA_Ggljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFeg9cEAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UykAEvZ290bz91cmw9Q0FFU1lBSHJPekFWbklCVWtzS082OE9ZZ1dmRWx4WFB0VUpva0tSNWprQ2NSZG81eVB0VDBCeTB1bmUxdXpHTlMxZmMtQzBXOWhxTjF6NlhRUGhFamJ1cnlmQmI1S3pKT0JGU2lyUjRkQ2VHbzRPMURjT2pNZ25neXdpdVZCYy10al9TcVE6UDxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gKFBMVFIpIDxiPlN0b2NrPC9iPiBwcmljZSB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0QpEBVGhlIFBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIENsYXNzIEEgQ29tbW9uIFN0b2NrIChQTFRSKSBzdG9jayBwcmljZSB0b2RheSBpcyAkPGI-MTkzLjg0PC9iPiwgcmVmbGVjdGluZyBhIC0wLjEyJSBtb3ZlIHNpbmNlIHRoZSBtYXJrZXQgb3BlbmVkLiICEAFIAFgAaAA",
+   "source": "Kraken",
+   "read_more_link": "https://www.kraken.com/in/stocks/pltr#:~:text=The%20Palantir%20Technologies%20Inc.%20Class,move%20since%20the%20market%20opened."
+  },
+  {
+   "position": 4,
+   "title": "PLTR: Palantir Stock Price Today, Premarket and ...",
+   "link": "https://stocktwits.com/symbol/PLTR",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXQHrOzAVRnQLm4c_RuesY_Xs9nqcG996KUQG7Wcf4Kx_k6jUi9emWBLeDzE99HXiB9qKuu9bKi_Jm6X-J_v6U3HcMbZ9uLqH1hqGNAWvMBzBQ8X2hi_HMzBt_jvvYw&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFAQAQ&uoh=1",
+   "displayed_link": "https://stocktwits.com › Symbol",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png",
+   "snippet": "Palantir Technologies Inc $209.05 $10.27 (5.17%) Today ·Closed $209.05 $0.30 Mkt Cap$477.68B Vol37.62M … $250 is the next target.",
+   "snippet_highlighted_words": [
+    "209.05"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Palantir Technologies Inc $209.05 $10.27 (5.17%) Today ·Closed $209.05 $0.30 Mkt Cap$477.68B Vol37.62M … $250 is the next target.",
+     "source_info_link": "https://stocktwits.com/symbol/PLTR",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVlJuUUxtNGNfUnVlc1lfWHM5bnFjRzk5NktVUUc3V2NmNEt4X2s2alVpOWVtV0JMZUR6RTk5SFhpQjlxS3V1OWJLaV9KbTZYLUpfdjZVM0hjTWJaOXVMcUgxaHFHTkFXdk1CekJROFgyaGlfSE16QnRfanZ2WXcSBBoCCAAa7AQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDGBAgAEAAYACAAKh4KCHBhbGFudGlyFf71TUAaDWl2O3A7cGFsYW50aXIqGQoMdGVjaG5vbG9naWVzFaVpCj8aBHRlY2gqTgoFc2hhcmUV5PL_PRoJY29tIHN0b2NrGgpjb3JwIHN0b2NrGgZuYXNkYXEaBnNoYXJlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZSpLCgVwcmljZRXuSxlAGgRjb3N0GgVjb3N0cxoGbmFzZGFxGgZwcmljZXMaBXJhdGVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVlJuUUxtNGNfUnVlc1lfWHM5bnFjRzk5NktVUUc3V2NmNEt4X2s2alVpOWVtV0JMZUR6RTk5SFhpQjlxS3V1OWJLaV9KbTZYLUpfdjZVM0hjTWJaOXVMcUgxaHFHTkFXdk1CekJROFgyaGlfSE16QnRfanZ2WXc6R1BMVFI6IDxiPlBhbGFudGlyIFN0b2NrPC9iPiBQcmljZSBUb2RheSwgUHJlbWFya2V0IGFuZCAuLi4gLSBTdG9ja3R3aXRzQosBUGFsYW50aXIgVGVjaG5vbG9naWVzIEluYyAkPGI-MjA5LjA1PC9iPiAkMTAuMjcgKDUuMTclKSBUb2RheSDCt0Nsb3NlZCAkMjA5LjA1ICQwLjMwIE1rdCBDYXAkNDc3LjY4QiBWb2wzNy42Mk0g4oCmICQyNTAgaXMgdGhlIG5leHQgdGFyZ2V0LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVlJuUUxtNGNfUnVlc1lfWHM5bnFjRzk5NktVUUc3V2NmNEt4X2s2alVpOWVtV0JMZUR6RTk5SFhpQjlxS3V1OWJLaV9KbTZYLUpfdjZVM0hjTWJaOXVMcUgxaHFHTkFXdk1CekJROFgyaGlfSE16QnRfanZ2WXcSBBoCCAAa7AQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDGBAgAEAAYACAAKh4KCHBhbGFudGlyFf71TUAaDWl2O3A7cGFsYW50aXIqGQoMdGVjaG5vbG9naWVzFaVpCj8aBHRlY2gqTgoFc2hhcmUV5PL_PRoJY29tIHN0b2NrGgpjb3JwIHN0b2NrGgZuYXNkYXEaBnNoYXJlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZSpLCgVwcmljZRXuSxlAGgRjb3N0GgVjb3N0cxoGbmFzZGFxGgZwcmljZXMaBXJhdGVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlMowBL2dvdG8_dXJsPUNBRVNYUUhyT3pBVlJuUUxtNGNfUnVlc1lfWHM5bnFjRzk5NktVUUc3V2NmNEt4X2s2alVpOWVtV0JMZUR6RTk5SFhpQjlxS3V1OWJLaV9KbTZYLUpfdjZVM0hjTWJaOXVMcUgxaHFHTkFXdk1CekJROFgyaGlfSE16QnRfanZ2WXc6R1BMVFI6IDxiPlBhbGFudGlyIFN0b2NrPC9iPiBQcmljZSBUb2RheSwgUHJlbWFya2V0IGFuZCAuLi4gLSBTdG9ja3R3aXRzQosBUGFsYW50aXIgVGVjaG5vbG9naWVzIEluYyAkPGI-MjA5LjA1PC9iPiAkMTAuMjcgKDUuMTclKSBUb2RheSDCt0Nsb3NlZCAkMjA5LjA1ICQwLjMwIE1rdCBDYXAkNDc3LjY4QiBWb2wzNy42Mk0g4oCmICQyNTAgaXMgdGhlIG5leHQgdGFyZ2V0LiICEAFIAFgAaAA",
+   "source": "Stocktwits"
+  },
+  {
+   "position": 5,
+   "title": "Palantir Technologies Inc Ordinary Shares - Class A (PLTR)",
+   "link": "https://www.morningstar.com/stocks/xswx/pltr/quote",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbQHrOzAVYr3JBkw-i1LrqfQti1CNldDIsRc0BcZxbZwT_bx2UTj79ew4QTOCrfsUzDEQu2vrUz2gtJsvRbg4lixEXrJiJag_8vbDIeXm9p2zbdgZcriAopMemyKD6Jd5O4XnNqbZrHtqtgYo_Ss&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFMQAQ&uoh=1",
+   "displayed_link": "https://www.morningstar.com › xswx › pltr › quote",
+   "favicon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHAi01IAubr-AcAB5WfsheToTOe7NGr_nc1jFI0LtHoR5KHGS2K0Fx7wfzLvQAD-9hPOiLoAA5YigO7gCmKF03lJDMX2Wti9vSKbbM-Npf1EkMOggzQ6Alt0F-QYuWG2hDvCqz_H0wtD-ZcDyvgJ9uhfmld_eKJR2nzMLl2gHeYpVOxqDxvspr4huCqqv3p7WjTFC9qyABvDHc98kWsiAg4-SeH4sTeWR8ELgqwhdVY6qITxxON1x3XoF2SCtioFs5zvDdYTlcV6m44j9r0ot6k3QknKnWR7qS9TK7YTu3_PGi0iQxSoW9fmBHzvG_yvW6AT0J9egljVqkKmLzzwPv9dtbR5HqP-vx_y5ny715d4XV757uWp3dgGVRMUrCeQZ3hi1b3JBr2Z16Fb2_w5BAc9-_jyvuSDYv_jIp_tiYy6bzJ2J3y39pVF45jvjovQuQqPp4GRx3UJa8L2MP3gENN_vtOYboT0A6bylYf1P_0uT5da-EsrAAAA.webp",
+   "snippet": "See the latest Palantir Technologies Inc Ordinary Shares - Class A stock price … valuation, dividends and more. Price/Book Value 47.90 13.46 54.89 Price/Sales ...",
+   "snippet_highlighted_words": [
+    "Class A stock price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "See the latest Palantir Technologies Inc Ordinary Shares - Class A stock price … valuation, dividends and more. Price/Book Value 47.90 13.46 54.89 Price/Sales ...",
+     "source_info_link": "https://www.morningstar.com/stocks/xswx/pltr/quote",
+     "icon": "https://serpapi.com/images/i/UklGRqIBAABXRUJQVlA4IJYBAAAwCACdASogACAAPtEutFooIagoGAEAGglsAJ0yhHAi01IAubr-AcAB5WfsheToTOe7NGr_nc1jFI0LtHoR5KHGS2K0Fx7wfzLvQAD-9hPOiLoAA5YigO7gCmKF03lJDMX2Wti9vSKbbM-Npf1EkMOggzQ6Alt0F-QYuWG2hDvCqz_H0wtD-ZcDyvgJ9uhfmld_eKJR2nzMLl2gHeYpVOxqDxvspr4huCqqv3p7WjTFC9qyABvDHc98kWsiAg4-SeH4sTeWR8ELgqwhdVY6qITxxON1x3XoF2SCtioFs5zvDdYTlcV6m44j9r0ot6k3QknKnWR7qS9TK7YTu3_PGi0iQxSoW9fmBHzvG_yvW6AT0J9egljVqkKmLzzwPv9dtbR5HqP-vx_y5ny715d4XV757uWp3dgGVRMUrCeQZ3hi1b3JBr2Z16Fb2_w5BAc9-_jyvuSDYv_jIp_tiYy6bzJ2J3y39pVF45jvjovQuQqPp4GRx3UJa8L2MP3gENN_vtOYboT0A6bylYf1P_0uT5da-EsrAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVllyM0pCa3ctaTFMcnFmUXRpMUNObGRESXNSYzBCY1p4Ylp3VF9ieDJVVGo3OWV3NFFUT0NyZnNVekRFUXUydnJVejJndEpzdlJiZzRsaXhFWHJKaUphZ184dmJESWVYbTlwMnpiZGdaY3JpQW9wTWVteUtENkpkNU80WG5OcWJackh0cXRnWW9fU3MSBBoCCAAaiAUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA5AQIABAAGAAgACoeCghwYWxhbnRpchUKUWhAGg1pdjtwO3BhbGFudGlyKhkKDHRlY2hub2xvZ2llcxW-HghAGgR0ZWNoKk4KBXNoYXJlFRLl5j4aCWNvbSBzdG9jaxoKY29ycCBzdG9jaxoGbmFzZGFxGgZzaGFyZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UqSwoFcHJpY2UVfB-zQBoEY29zdBoFY29zdHMaBm5hc2RhcRoGcHJpY2VzGgVyYXRlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZTKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZZcjNKQmt3LWkxTHJxZlF0aTFDTmxkRElzUmMwQmNaeGJad1RfYngyVVRqNzlldzRRVE9DcmZzVXpERVF1MnZyVXoyZ3RKc3ZSYmc0bGl4RVhySmlKYWdfOHZiREllWG05cDJ6YmRnWmNyaUFvcE1lbXlLRDZKZDVPNFhuTnFiWnJIdHF0Z1lvX1NzOitQTFRSIDxiPlN0b2NrPC9iPiBQcmljZSBRdW90ZSB8IE1vcm5pbmdzdGFyQrABU2VlIHRoZSBsYXRlc3QgUGFsYW50aXIgVGVjaG5vbG9naWVzIEluYyBPcmRpbmFyeSBTaGFyZXMgLSA8Yj5DbGFzcyBBIHN0b2NrIHByaWNlPC9iPiDigKYgdmFsdWF0aW9uLCBkaXZpZGVuZHMgYW5kIG1vcmUuIFByaWNlL0Jvb2sgVmFsdWUgNDcuOTAgMTMuNDYgNTQuODkgUHJpY2UvU2FsZXMmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqEBL2dvdG8_dXJsPUNBRVNiUUhyT3pBVllyM0pCa3ctaTFMcnFmUXRpMUNObGRESXNSYzBCY1p4Ylp3VF9ieDJVVGo3OWV3NFFUT0NyZnNVekRFUXUydnJVejJndEpzdlJiZzRsaXhFWHJKaUphZ184dmJESWVYbTlwMnpiZGdaY3JpQW9wTWVteUtENkpkNU80WG5OcWJackh0cXRnWW9fU3MSBBoCCAAaiAUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA5AQIABAAGAAgACoeCghwYWxhbnRpchUKUWhAGg1pdjtwO3BhbGFudGlyKhkKDHRlY2hub2xvZ2llcxW-HghAGgR0ZWNoKk4KBXNoYXJlFRLl5j4aCWNvbSBzdG9jaxoKY29ycCBzdG9jaxoGbmFzZGFxGgZzaGFyZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UqSwoFcHJpY2UVfB-zQBoEY29zdBoFY29zdHMaBm5hc2RhcRoGcHJpY2VzGgVyYXRlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZTKhAS9nb3RvP3VybD1DQUVTYlFIck96QVZZcjNKQmt3LWkxTHJxZlF0aTFDTmxkRElzUmMwQmNaeGJad1RfYngyVVRqNzlldzRRVE9DcmZzVXpERVF1MnZyVXoyZ3RKc3ZSYmc0bGl4RVhySmlKYWdfOHZiREllWG05cDJ6YmRnWmNyaUFvcE1lbXlLRDZKZDVPNFhuTnFiWnJIdHF0Z1lvX1NzOitQTFRSIDxiPlN0b2NrPC9iPiBQcmljZSBRdW90ZSB8IE1vcm5pbmdzdGFyQrABU2VlIHRoZSBsYXRlc3QgUGFsYW50aXIgVGVjaG5vbG9naWVzIEluYyBPcmRpbmFyeSBTaGFyZXMgLSA8Yj5DbGFzcyBBIHN0b2NrIHByaWNlPC9iPiDigKYgdmFsdWF0aW9uLCBkaXZpZGVuZHMgYW5kIG1vcmUuIFByaWNlL0Jvb2sgVmFsdWUgNDcuOTAgMTMuNDYgNTQuODkgUHJpY2UvU2FsZXMmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Morningstar"
+  },
+  {
+   "position": 6,
+   "title": "Palantir Technologies Inc. Stock Price Live, Charts & News",
+   "link": "https://economictimes.indiatimes.com/markets/us-stocks/palantir-technologies-inc/pltr",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkAEB6zswFexkl8zGPCiayO6MDpkwP5DmnPwREe9KZAOaOIo_lVvz8qFSP2KgXhKfz4at5odcQ6ALI6tkMit1AXFCbIAOQYKe9WVC0xpqEXrcNwxYMMIYdmkQoCqrS_zhBtD-TpUmWaA-oYHOMXaiOYVU8WT0nCtvB5_Y-J8hcNK7DQaX5di8KRj8Yl7TdsPd5TM&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFQQAQ&uoh=1",
+   "displayed_link": "https://economictimes.indiatimes.com › ... › US Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp",
+   "date": "4 days ago",
+   "snippet": "NASDAQ|Vol: 17,451.96k Palantir Technologies (PLTR) $192.07 2.67 (1.41%) As on 06 Oct 2026, 01:00 PM. Historical Return Returns. Millions USD ...",
+   "snippet_highlighted_words": [
+    "192.07"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "NASDAQ|Vol: 17,451.96k Palantir Technologies (PLTR) $192.07 2.67 (1.41%) As on 06 Oct 2026, 01:00 PM. Historical Return Returns. Millions USD ...",
+     "source_info_link": "https://economictimes.indiatimes.com/markets/us-stocks/palantir-technologies-inc/pltr",
+     "icon": "https://serpapi.com/images/i/UklGRgYBAABXRUJQVlA4IPoAAADwBACdASocABwAPtE-tFooIigoFAEAGglqAKwAD1Wf0pGIUINbx-y-9jzxix3I4AAA_p8ELfqEO4Wi-FZva3gGpZHdf5-MYo8oSzzzCPPLILGCo2YbyqdMDdK_WkQg__xvH-Tvv3AAfxeLbfVfKBSnYQ-StNpcagq_fkuiYwZYvhTOnwz_vm26B605HEySsAU7RS1piaLfCHgEc_7f_sXQl6Wmewl0XkDYbkOdrFm-qWhHldI-9YbY3Aw4sa1bA9JBADWk7RAAivnDghbPT1eOHFYNfIUAUUO4AAt2cdd5ApR-sDP5hCxB0OdWJPBPcQ3x78f8ITa3KMAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZleGtsOHpHUENpYXlPNk1EcGt3UDVEbW5Qd1JFZTlLWkFPYU9Jb19sVnZ6OHFGU1AyS2dYaEtmejRhdDVvZGNRNkFMSTZ0a01pdDFBWEZDYklBT1FZS2U5V1ZDMHhwcUVYcmNOd3hZTU1JWWRta1FvQ3FyU196aEJ0RC1UcFVtV2FBLW9ZSE9NWGFpT1lWVThXVDBuQ3R2QjVfWS1KOGhjTks3RFFhWDVkaThLUmo4WWw3VGRzUGQ1VE0SBBoCCAAaygUSAggAGgAiAggBKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKIFCAAQABgAIAAqHgoIcGFsYW50aXIV_CqIQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVhryIQBoEdGVjaCpOCgVzaGFyZRUGNw9AGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFbxarEAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2Uy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmV4a2w4ekdQQ2lheU82TURwa3dQNURtblB3UkVlOUtaQU9hT0lvX2xWdno4cUZTUDJLZ1hoS2Z6NGF0NW9kY1E2QUxJNnRrTWl0MUFYRkNiSUFPUVlLZTlXVkMweHBxRVhyY053eFlNTUlZZG1rUW9DcXJTX3poQnRELVRwVW1XYUEtb1lIT01YYWlPWVZVOFdUMG5DdHZCNV9ZLUo4aGNOSzdEUWFYNWRpOEtSajhZbDdUZHNQZDVUTTpMPGI-UGFsYW50aXIgVGVjaG5vbG9naWVzPC9iPiBJbmMuIDxiPlN0b2NrPC9iPiBQcmljZSBMaXZlLCBDaGFydHMgJmFtcDsgTmV3c0KdAU5BU0RBUXxWb2w6IDE3LDQ1MS45NmsgUGFsYW50aXIgVGVjaG5vbG9naWVzIChQTFRSKSAkPGI-MTkyLjA3PC9iPiAyLjY3ICgxLjQxJSkgQXMgb24gMDYgT2N0IDIwMjYsIDAxOjAwIFBNLiBIaXN0b3JpY2FsIFJldHVybiBSZXR1cm5zLiBNaWxsaW9ucyBVU0QmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtEBL2dvdG8_dXJsPUNBRVNrQUVCNnpzd0ZleGtsOHpHUENpYXlPNk1EcGt3UDVEbW5Qd1JFZTlLWkFPYU9Jb19sVnZ6OHFGU1AyS2dYaEtmejRhdDVvZGNRNkFMSTZ0a01pdDFBWEZDYklBT1FZS2U5V1ZDMHhwcUVYcmNOd3hZTU1JWWRta1FvQ3FyU196aEJ0RC1UcFVtV2FBLW9ZSE9NWGFpT1lWVThXVDBuQ3R2QjVfWS1KOGhjTks3RFFhWDVkaThLUmo4WWw3VGRzUGQ1VE0SBBoCCAAaygUSAggAGgAiAggBKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKIFCAAQABgAIAAqHgoIcGFsYW50aXIV_CqIQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVhryIQBoEdGVjaCpOCgVzaGFyZRUGNw9AGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFbxarEAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2Uy0QEvZ290bz91cmw9Q0FFU2tBRUI2enN3RmV4a2w4ekdQQ2lheU82TURwa3dQNURtblB3UkVlOUtaQU9hT0lvX2xWdno4cUZTUDJLZ1hoS2Z6NGF0NW9kY1E2QUxJNnRrTWl0MUFYRkNiSUFPUVlLZTlXVkMweHBxRVhyY053eFlNTUlZZG1rUW9DcXJTX3poQnRELVRwVW1XYUEtb1lIT01YYWlPWVZVOFdUMG5DdHZCNV9ZLUo4aGNOSzdEUWFYNWRpOEtSajhZbDdUZHNQZDVUTTpMPGI-UGFsYW50aXIgVGVjaG5vbG9naWVzPC9iPiBJbmMuIDxiPlN0b2NrPC9iPiBQcmljZSBMaXZlLCBDaGFydHMgJmFtcDsgTmV3c0KdAU5BU0RBUXxWb2w6IDE3LDQ1MS45NmsgUGFsYW50aXIgVGVjaG5vbG9naWVzIChQTFRSKSAkPGI-MTkyLjA3PC9iPiAyLjY3ICgxLjQxJSkgQXMgb24gMDYgT2N0IDIwMjYsIDAxOjAwIFBNLiBIaXN0b3JpY2FsIFJldHVybiBSZXR1cm5zLiBNaWxsaW9ucyBVU0QmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "The Economic Times"
+  },
+  {
+   "position": 7,
+   "title": "PALANTIR TECHNOLOGIES INC. (PLTR) Stock, Price ...",
+   "link": "https://www.msn.com/en-us/money/stockdetails/pltr-us-stock/fi-bvsk7w",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfwHrOzAVdMore-hEAcx6lDc9z4ZEWciS6pd31YjaCi93OFsbiGn4itUhrRsic94Ffv3Dmc_doo3LW4mYun1sYcvCUtqC_IqaEldXU9IYmDey4QQba5C4h0ezLOW4s7z3Qepw822BiLEDyQ96DB3-vfNNKnHRR8yYNaf1xBYVkz4&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECHgQAQ&uoh=1",
+   "displayed_link": "https://www.msn.com › en-us › money › stockdetails › pl...",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp",
+   "snippet": "PLTR is rated \"Buy\" with a 12-month target price of $203.35, a 2.30% upside from the current price of $198.78.",
+   "snippet_highlighted_words": [
+    "PLTR is rated \"Buy\" with a 12-month target price of $203.35"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "PLTR is rated \"Buy\" with a 12-month target price of $203.35, a 2.30% upside from the current price of $198.78.",
+     "source_info_link": "https://www.msn.com/en-us/money/stockdetails/pltr-us-stock/fi-bvsk7w",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABQCACdASogACAAPtEutFooIagoGAEAGglsAKwvPns34q8nM73AA22d2q7ymRHqWbLtZdNRYLewyWJ4IVjAahhFc2X75ovdqreOigAA_vm7q5FT3bYA5uGrOipm2Qk2DyMau4Vfl8-LdDyUcfPp_Fk77s4B5-vDzFGhf3ew7cz0P_mfmld5p_gAUvFbOKi98ENf_1S36hbn--uBTTz-zJ7n3l7n1J-nraxV9LIkIu4d1b43aLp6A9Zk-IAzc4aLeFR_WFb6NTL4jmJMS11ozQ10gmP-o1eSiVVaX8lFouwu8oIZidtdIs6vmHzn46QGco7-NZxsaNPj2agidBypao8MuQ3LQQFm8fkNJxZ3rVj-JY74LToQoxl9cZbMvsP6XSevE50jfVWtVdaeT0jhObuhgtDp-7NgBtHmaWPciwMCG6Oi3S0UMD16AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmRNb3JlLWhFQWN4NmxEYzl6NFpFV2NpUzZwZDMxWWphQ2k5M09Gc2JpR240aXRVaHJSc2ljOTRGZnYzRG1jX2RvbzNMVzRtWXVuMXNZY3ZDVXRxQ19JcWFFbGRYVTlJWW1EZXk0UVFiYTVDNGgwZXpMT1c0czd6M1FlcHc4MjJCaUxFRHlROTZEQjMtdmZOTktuSFJSOHlZTmFmMXhCWVZrejQSBBoCCAAaiQUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA5QQIABAAGAAgACoeCghwYWxhbnRpchV88p5AGg1pdjtwO3BhbGFudGlyKhkKDHRlY2hub2xvZ2llcxVNfItAGgR0ZWNoKk4KBXNoYXJlFV74CT4aCWNvbSBzdG9jaxoKY29ycCBzdG9jaxoGbmFzZGFxGgZzaGFyZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UqSwoFcHJpY2UVcBaTQBoEY29zdBoFY29zdHMaBm5hc2RhcRoGcHJpY2VzGgVyYXRlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZkTW9yZS1oRUFjeDZsRGM5ejRaRVdjaVM2cGQzMVlqYUNpOTNPRnNiaUduNGl0VWhyUnNpYzk0RmZ2M0RtY19kb28zTFc0bVl1bjFzWWN2Q1V0cUNfSXFhRWxkWFU5SVltRGV5NFFRYmE1QzRoMGV6TE9XNHM3ejNRZXB3ODIyQmlMRUR5UTk2REIzLXZmTk5LbkhSUjh5WU5hZjF4QllWa3o0OkY8Yj5QQUxBTlRJUiBURUNITk9MT0dJRVM8L2I-IElOQy4gKFBMVFIpIDxiPlN0b2NrPC9iPiwgUHJpY2UgLi4uIC0gTVNOQn88Yj5QTFRSIGlzIHJhdGVkICZxdW90O0J1eSZxdW90OyB3aXRoIGEgMTItbW9udGggdGFyZ2V0IHByaWNlIG9mICQyMDMuMzU8L2I-LCBhIDIuMzAlIHVwc2lkZSBmcm9tIHRoZSBjdXJyZW50IHByaWNlIG9mICQxOTguNzguIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrkBL2dvdG8_dXJsPUNBRVNmd0hyT3pBVmRNb3JlLWhFQWN4NmxEYzl6NFpFV2NpUzZwZDMxWWphQ2k5M09Gc2JpR240aXRVaHJSc2ljOTRGZnYzRG1jX2RvbzNMVzRtWXVuMXNZY3ZDVXRxQ19JcWFFbGRYVTlJWW1EZXk0UVFiYTVDNGgwZXpMT1c0czd6M1FlcHc4MjJCaUxFRHlROTZEQjMtdmZOTktuSFJSOHlZTmFmMXhCWVZrejQSBBoCCAAaiQUSABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJA5QQIABAAGAAgACoeCghwYWxhbnRpchV88p5AGg1pdjtwO3BhbGFudGlyKhkKDHRlY2hub2xvZ2llcxVNfItAGgR0ZWNoKk4KBXNoYXJlFV74CT4aCWNvbSBzdG9jaxoKY29ycCBzdG9jaxoGbmFzZGFxGgZzaGFyZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UqSwoFcHJpY2UVcBaTQBoEY29zdBoFY29zdHMaBm5hc2RhcRoGcHJpY2VzGgVyYXRlcxoFc3RvY2saBnRpY2tlchoKc2hhcmVwcmljZTK5AS9nb3RvP3VybD1DQUVTZndIck96QVZkTW9yZS1oRUFjeDZsRGM5ejRaRVdjaVM2cGQzMVlqYUNpOTNPRnNiaUduNGl0VWhyUnNpYzk0RmZ2M0RtY19kb28zTFc0bVl1bjFzWWN2Q1V0cUNfSXFhRWxkWFU5SVltRGV5NFFRYmE1QzRoMGV6TE9XNHM3ejNRZXB3ODIyQmlMRUR5UTk2REIzLXZmTk5LbkhSUjh5WU5hZjF4QllWa3o0OkY8Yj5QQUxBTlRJUiBURUNITk9MT0dJRVM8L2I-IElOQy4gKFBMVFIpIDxiPlN0b2NrPC9iPiwgUHJpY2UgLi4uIC0gTVNOQn88Yj5QTFRSIGlzIHJhdGVkICZxdW90O0J1eSZxdW90OyB3aXRoIGEgMTItbW9udGggdGFyZ2V0IHByaWNlIG9mICQyMDMuMzU8L2I-LCBhIDIuMzAlIHVwc2lkZSBmcm9tIHRoZSBjdXJyZW50IHByaWNlIG9mICQxOTguNzguIgIQAUgAWABoAA",
+   "source": "MSN"
+  },
+  {
+   "position": 8,
+   "title": "Palantir Technologies Inc. Class A Share Price Live Today",
+   "link": "https://upstox.com/us-stocks/pltr-share-price/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESaQHrOzAVVa4EPQCxCn-u7RoiwJxCRFupyMJ9LVRFwPcGVC2LDNGICktPBPst205hdb8gIt43XRsAvhukO8Mp0lrazZiViEazBmAPJb-nhTiYwrMSbgCvCZgSm7p-1VHvIWhYVr6tf1_hwg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECE8QAQ&uoh=1",
+   "displayed_link": "https://upstox.com › US Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp",
+   "snippet": "As of 29 September 2026, Palantir Technologies Inc. Class A's share price is $187.56. The stock opened at $186.43, compared to its previous close of $189.63.",
+   "snippet_highlighted_words": [
+    "Class A's share price is $187.56"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "As of 29 September 2026, Palantir Technologies Inc. Class A's share price is $187.56. The stock opened at $186.43, compared to its previous close of $189.63.",
+     "source_info_link": "https://upstox.com/us-stocks/pltr-share-price/",
+     "icon": "https://serpapi.com/images/i/UklGRtgAAABXRUJQVlA4IMwAAABwBQCdASocABwAPtEwtFooIigoGAEAGgloALsvoDxAYXAeSAHLVExvWNqRBZemWyiMuyKAAP7YjLsq9vDXM7KeGgwxIayXTEZFWtm_Qp1JzlQ0tPdY0PnZwOBP-3jgcXPmTmgCDwegPeP2oDlaOAFv9v2y6CNb_LJ4HsrFr6M1vN_4OUuJP4cozf4pwTfrwOBnjrAS04EIaNlR84juIx1I0a77Ifkr3j1z0aWTv3Yc3t3qq9ZcOtaOaAuObPxFENkQL2bPQHmFV9AAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlZhNEVQUUN4Q24tdTdSb2l3SnhDUkZ1cHlNSjlMVlJGd1BjR1ZDMkxETkdJQ2t0UEJQc3QyMDVoZGI4Z0l0NDNYUnNBdmh1a084TXAwbHJhelppVmlFYXpCbUFQSmItbmhUaVl3ck1TYmdDdkNaZ1NtN3AtMVZIdklXaFlWcjZ0ZjFfaHdnEgQaAggAGpUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEECAAQABgAIAAqHgoIcGFsYW50aXIVO7PJQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVC9LIQBoEdGVjaCpOCgVzaGFyZRUVpMxAGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFTw520AaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWVmE0RVBRQ3hDbi11N1JvaXdKeENSRnVweU1KOUxWUkZ3UGNHVkMyTEROR0lDa3RQQlBzdDIwNWhkYjhnSXQ0M1hSc0F2aHVrTzhNcDBscmF6WmlWaUVhekJtQVBKYi1uaFRpWXdyTVNiZ0N2Q1pnU203cC0xVkh2SVdoWVZyNnRmMV9od2c6RTxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiBDbGFzcyBBIDxiPlNoYXJlIFByaWNlPC9iPiAtIFVwc3RveEKoAUFzIG9mIDI5IFNlcHRlbWJlciAyMDI2LCBQYWxhbnRpciBUZWNobm9sb2dpZXMgSW5jLiA8Yj5DbGFzcyBBJiMzOTtzIHNoYXJlIHByaWNlIGlzICQxODcuNTY8L2I-LiBUaGUgc3RvY2sgb3BlbmVkIGF0ICQxODYuNDMsIGNvbXBhcmVkIHRvIGl0cyBwcmV2aW91cyBjbG9zZSBvZiAkMTg5LjYzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpwBL2dvdG8_dXJsPUNBRVNhUUhyT3pBVlZhNEVQUUN4Q24tdTdSb2l3SnhDUkZ1cHlNSjlMVlJGd1BjR1ZDMkxETkdJQ2t0UEJQc3QyMDVoZGI4Z0l0NDNYUnNBdmh1a084TXAwbHJhelppVmlFYXpCbUFQSmItbmhUaVl3ck1TYmdDdkNaZ1NtN3AtMVZIdklXaFlWcjZ0ZjFfaHdnEgQaAggAGpUFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPEECAAQABgAIAAqHgoIcGFsYW50aXIVO7PJQBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVC9LIQBoEdGVjaCpOCgVzaGFyZRUVpMxAGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFTw520AaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UynAEvZ290bz91cmw9Q0FFU2FRSHJPekFWVmE0RVBRQ3hDbi11N1JvaXdKeENSRnVweU1KOUxWUkZ3UGNHVkMyTEROR0lDa3RQQlBzdDIwNWhkYjhnSXQ0M1hSc0F2aHVrTzhNcDBscmF6WmlWaUVhekJtQVBKYi1uaFRpWXdyTVNiZ0N2Q1pnU203cC0xVkh2SVdoWVZyNnRmMV9od2c6RTxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiBDbGFzcyBBIDxiPlNoYXJlIFByaWNlPC9iPiAtIFVwc3RveEKoAUFzIG9mIDI5IFNlcHRlbWJlciAyMDI2LCBQYWxhbnRpciBUZWNobm9sb2dpZXMgSW5jLiA8Yj5DbGFzcyBBJiMzOTtzIHNoYXJlIHByaWNlIGlzICQxODcuNTY8L2I-LiBUaGUgc3RvY2sgb3BlbmVkIGF0ICQxODYuNDMsIGNvbXBhcmVkIHRvIGl0cyBwcmV2aW91cyBjbG9zZSBvZiAkMTg5LjYzLiICEAFIAFgAaAA",
+   "source": "Upstox",
+   "read_more_link": "https://upstox.com/us-stocks/pltr-share-price/#:~:text=As%20of%2029%20September%202026%2C,its%20previous%20close%20of%20%24189.63."
+  },
+  {
+   "position": 9,
+   "title": "Palantir Technologies Inc. Class A Common Stock",
+   "link": "https://www.bybit.com/en/tradfi/info/PLTR/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVFLiEspMigPu3twPnjFq0kAnrt6HqWVypIonvkvPYEz-rDqoYySmsxS7n0YycPQ1X9U4dchHhSsYd_QZK7hRUPww7MvslnbR19hmocydbTojSUXk0Kbf2J2IJi6QoO9sV&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQFnoECFUQAQ&uoh=1",
+   "displayed_link": "https://www.bybit.com › tradfi › info › PLTR",
+   "favicon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAQBQCdASogACAAPtEutFooIagoGAEAGglAAZlVWKC__7IJeQdxB3kZ_0dqkS6V3GFAAPa__OY_VonvV_M-QmFBeT7SCoMPjK5t_BgtSTf4r_6GlL33-FZEl_85j0_UL_ypugN-Q78Eb_ghZC4-0B_8paiTtHJzfPkeOYGJH2TZWh_l5y2IpVZ7-6-HOwFl13RzOfROH_L7CFnw19A_UdxYp-GKkn1vVRi8xd_pu_8GSu-vZ2p316P-Ftz2r5sbDZqSEUc3fx6P-w_vFXO9xvg207ZLNOpi1g67cb7n9WsSOWzsFAPCiIvp9P4IrxUsDJUDojWxZwNjrxh_q7ynvxx0imPv-aVJ_I-m0gAA.webp",
+   "snippet": "View the Palantir Technologies Inc. Class A Common Stock (PLTR) stock price today at $-- (--%). Explore live charts, financials, news, and analyst data.",
+   "snippet_highlighted_words": [
+    "Palantir Technologies Inc. Class A Common Stock (PLTR) stock price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "View the Palantir Technologies Inc. Class A Common Stock (PLTR) stock price today at $-- (--%). Explore live charts, financials, news, and analyst data.",
+     "source_info_link": "https://www.bybit.com/en/tradfi/info/PLTR/",
+     "icon": "https://serpapi.com/images/i/UklGRhgBAABXRUJQVlA4IAwBAAAQBQCdASogACAAPtEutFooIagoGAEAGglAAZlVWKC__7IJeQdxB3kZ_0dqkS6V3GFAAPa__OY_VonvV_M-QmFBeT7SCoMPjK5t_BgtSTf4r_6GlL33-FZEl_85j0_UL_ypugN-Q78Eb_ghZC4-0B_8paiTtHJzfPkeOYGJH2TZWh_l5y2IpVZ7-6-HOwFl13RzOfROH_L7CFnw19A_UdxYp-GKkn1vVRi8xd_pu_8GSu-vZ2p316P-Ftz2r5sbDZqSEUc3fx6P-w_vFXO9xvg207ZLNOpi1g67cb7n9WsSOWzsFAPCiIvp9P4IrxUsDJUDojWxZwNjrxh_q7ynvxx0imPv-aVJ_I-m0gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkZMaUVzcE1pZ1B1M3R3UG5qRnEwa0FucnQ2SHFXVnlwSW9udmt2UFlFei1yRHFvWXlTbXN4UzduMFl5Y1BRMVg5VTRkY2hIaFNzWWRfUVpLN2hSVVB3dzdNdnNsbmJSMTlobW9jeWRiVG9qU1VYazBLYmYySjJJSmk2UW9POXNWEgQaAggAGoYFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqHgoIcGFsYW50aXIVX6G-QBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVCTGmQBoEdGVjaCpOCgVzaGFyZRUAAAAAGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFRSEOUAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWRkxpRXNwTWlnUHUzdHdQbmpGcTBrQW5ydDZIcVdWeXBJb252a3ZQWUV6LXJEcW9ZeVNtc3hTN24wWXljUFExWDlVNGRjaEhoU3NZZF9RWks3aFJVUHd3N012c2xuYlIxOWhtb2N5ZGJUb2pTVVhrMEtiZjJKMklKaTZRb085c1Y6RTxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiBDbGFzcyBBIENvbW1vbiA8Yj5TdG9jazwvYj4gLSBCeWJpdEKfAVZpZXcgdGhlIDxiPlBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIENsYXNzIEEgQ29tbW9uIFN0b2NrIChQTFRSKSBzdG9jayBwcmljZTwvYj4gdG9kYXkgYXQgJC0tICgtLSUpLiBFeHBsb3JlIGxpdmUgY2hhcnRzLCBmaW5hbmNpYWxzLCBuZXdzLCBhbmQgYW5hbHlzdCBkYXRhLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVkZMaUVzcE1pZ1B1M3R3UG5qRnEwa0FucnQ2SHFXVnlwSW9udmt2UFlFei1yRHFvWXlTbXN4UzduMFl5Y1BRMVg5VTRkY2hIaFNzWWRfUVpLN2hSVVB3dzdNdnNsbmJSMTlobW9jeWRiVG9qU1VYazBLYmYySjJJSmk2UW9POXNWEgQaAggAGoYFEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqHgoIcGFsYW50aXIVX6G-QBoNaXY7cDtwYWxhbnRpcioZCgx0ZWNobm9sb2dpZXMVCTGmQBoEdGVjaCpOCgVzaGFyZRUAAAAAGgljb20gc3RvY2saCmNvcnAgc3RvY2saBm5hc2RhcRoGc2hhcmVzGgVzdG9jaxoGdGlja2VyGgpzaGFyZXByaWNlKksKBXByaWNlFRSEOUAaBGNvc3QaBWNvc3RzGgZuYXNkYXEaBnByaWNlcxoFcmF0ZXMaBXN0b2NrGgZ0aWNrZXIaCnNoYXJlcHJpY2UylgEvZ290bz91cmw9Q0FFU1pRSHJPekFWRkxpRXNwTWlnUHUzdHdQbmpGcTBrQW5ydDZIcVdWeXBJb252a3ZQWUV6LXJEcW9ZeVNtc3hTN24wWXljUFExWDlVNGRjaEhoU3NZZF9RWks3aFJVUHd3N012c2xuYlIxOWhtb2N5ZGJUb2pTVVhrMEtiZjJKMklKaTZRb085c1Y6RTxiPlBhbGFudGlyIFRlY2hub2xvZ2llczwvYj4gSW5jLiBDbGFzcyBBIENvbW1vbiA8Yj5TdG9jazwvYj4gLSBCeWJpdEKfAVZpZXcgdGhlIDxiPlBhbGFudGlyIFRlY2hub2xvZ2llcyBJbmMuIENsYXNzIEEgQ29tbW9uIFN0b2NrIChQTFRSKSBzdG9jayBwcmljZTwvYj4gdG9kYXkgYXQgJC0tICgtLSUpLiBFeHBsb3JlIGxpdmUgY2hhcnRzLCBmaW5hbmNpYWxzLCBuZXdzLCBhbmQgYW5hbHlzdCBkYXRhLiICEAFIAFgAaAA",
+   "source": "Bybit"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "Goldman Sachs Upgrades Palantir Stock to Buy on Sovereign AI Demand",
+   "link": "https://www.tikr.com/blog/goldman-sachs-upgrades-palantir-buy-sovereign-ai",
+   "source": "TIKR.com",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABZklEQVQ4jaXTP0iVYRQG8N93u4kRBpl_KjCaI3IKAgUFCXKRoIQiEFJCiEgyl8bAWUSCvIVDk0MOuohD0NYSDS1GRAQ5OBQoLorE_Rq-c-VT7ydBZzq873Oe53nPOS__GUnRRVoBHWjEN0hGD-PKRxQfwwTacR_b9bClgmLowj0MoLfI6SGCiJN4gjPYxK9_Isip38SNyOfwCQ1pRSmHKXRwHmOy5n3GK1mvnuISpLN1CHLMw7iKXcxgDX14hoco52dXOlDciQeRv8NC5N1owh305GvyT2gI6xewgSlsxd1b_MRpjOPUnoOc-nXcjnwe73EOF6MXr3O4wZqLmoPmYG7Cd7xANc6e47hsGh8jfxxO9wjuxtuqeIkvuIYh3EI_1jGNHVyJXiUlXMYj2ep-wBuckK1xm2ypJtCCRSyH6Ah6yjgbhytYwm_ZJ_oaiin-BNkqJvEjBFuTtCIJkGR030jrxgFM8hcY2FEspQ4MYgAAAABJRU5ErkJggg.png",
+   "date": "20 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/k52NrwARKTeZJflV4JapunV50GMHxrXFS2N9kt_ZaEI.webp"
+  },
+  {
+   "title": "Why Palantir Stock Powered to a More Than 5% Gain Today",
+   "link": "https://www.fool.com/investing/2026/10/09/why-palantir-stock-powered-to-a-more-than-5-gain-today/",
+   "source": "The Motley Fool",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABjElEQVQ4jdXQv0uVcRTH8df3eR7utaIflhElebsQ0lAiETUI7RWujYVokkNDNbQHQkQRURAkQVhTBEFLa0tDDbXcpTK4gjcJasjyanaf59ugksj9B_xM53DO-3M-HDa8wmoxW7m63MeQCnLEvdO3wKPuBxACabQ8G26MLRt8rV6RtFLoxgUcxSc8nlnaWZtPoi-h8wjOoxfvMYFGkQTZCrwHD3F6TbrBntKPkZf5wZCIEyswDOIYhpMifktCkcDoOhh6F2X3O7TurYFXdQajIZLFpKhgAHewFWexLSAX-lJR_P-sOTzDLwzEoCeLRTgQQrxrofQqbvmThhjquI5k3dUCN2Nwo9Us51nH0qlYhGrWeem1oll6q5WYe3IixyTOtYk9hckQ5ScvvpBmrXflzYuHs3J_Y5x4DW9-Pj0OsyGGWhuDWgzmUar0f1zatP33IYxnoiFCA4Qo5GlLiLdRR2UFnsZzNFF8r--zv-_zBwwFbdSoXrYraar_7Upr-W5TduRdYcHIzFi79Y2uf3u8hJX5NVwzAAAAAElFTkSuQmCC.png",
+   "date": "8 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/tQ0XlONo7GYrvyBPqJLtIWYKET6X8gCiJE9r8mX1IU8.webp"
+  },
+  {
+   "title": "Palantir Stock Price Forecast: Poised to Break All-Time High as Barclays Sees Strong Growth, Stock May Rise to $235",
+   "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262208995-palantir-pltr-price-high-forecast-barclays-buy-rating-265-price-target-tradingkey",
+   "source": "TradingKey",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACIElEQVQ4jX2TX0hTURzHP_fubrf5YCMpgvIPgzFrIvkkE3sIrLSHBKmgQgocGkiwTInKSEp7KCMsEvEhCjHoJepFSXoIikyIEkEyipCwEv8tHc3Nu3tOD-MKbnd-nw6cz_fz4xzOUciSQLCmGmgBgoAOfAGeAvcnR4dXLU5JL5ZUHEFKeQu4nMU9ARycHB2eA1DTd6WU7ZuUAUqBgUCwhg0CeVYlWFl1Ebi5SdnKIaAcQAMQIcV14_feh1HTGQI431iP3-e1bc7OztN5txegDhhTRJPKUGTns6szpSeSMnUlI88f09zaYSvo7e6g-ngDpml-dep6sYYqawcXC9fLAFJKvv2YthUYyaS19BuJxB7tp5FzZiLm2QD9XV7h5WAfC0sRGsPtmKbJva4reIsK0BwOhBAWWqstmHogfcrJ0AVcLicDfd3ouotYbJVAsY-jp89hGEmklBZ6WNuxJbGWLhBCEI8nuN3TTyyWejMSiMcT6Wi-utsd--TLidqe91K4icL8XWzP25b54lKZ11Doby74Xh-eKstg3rwbo-taCwBvP3y0EwwpAKJNufNoxtvaM-1DZJuVmV9AiQPgeqXyuiw3shT0LJYbQnUvJ538M7Wsza0OI-5UZdXn96-mN4wTbYobOIYk9Cfu3j--4lHGox4moh7mDZ08bY2K3IXVA7lzp_Y9ibwAm9-4LmtV_EgakNQhKUKyhGAESaf6QE5Z3H-Pesk-cdD0NgAAAABJRU5ErkJggg.png",
+   "date": "15 hours ago",
+   "thumbnail": "https://serpapi.com/images/i/UklGRpYCAABXRUJQVlA4IIoCAACwDACdASpcAFwAPwFYwGArKSsrEjFgIAlnANFHMWOdJAcG9H3gWJcoe0_7y2MPt6lLDdPyssCJwSQPCDYMwX4QaMM6h7Sxtqriv2Z_IMSeRaUuEGyUokdXgh5oURA6uhk3lz0PNlbIc6t45yYUYAD-8O9i9i6LSd22a_EHyFfaTgrvVylgFFCiNrCSpc8cQTTEvx9bXwPxazbV1q841ymAmY2mG93nwNnpKJ1sbwb9gielX-29Hvm0EDRm1S4Oj5fgNNwWet-y1aetQ6Tafj_1xZT-auXho7Daney2X_ymHvkfT3-lzT8K-iCGBsruIp865h-3xVZzYsNprX7CFcz54e6hFoUeAnTz0ULvD02YYl7J_H9MEbucWovMQodb_AvKj55e5FrieejBi0BNaZ9vV-ReV6IY5MU6yaTw6--Uhqiw0d3fJ4GmzkeREvAhAA7m74TR7-_4UGvZ8Td5ei8XjI974f_L4qNh76ln-QLe6lIb3Izj25NGkCucRJeCX_SN1tKE-RMiP7JXsJ_v8F6j86GsUUglxCEfF28CjOB-NwJ37EgcHIGkh1EFZzt8NUayuOxw2pXo4gSz9q9uCY75_oCtptbDMru3dazEn5GNSOmeU8fD759q0wxZ7r4uT6vFyzW8o6_LB9_HmwQQQZ__sZ3-ivoR9TkpstGBw9UbL4uGEhJZxlmxfn5yqrUNM1Eud892Co2r7FqnUaAYRdT2ME6Avbk99jUyydC43fULJH-Ym-ZZQMNkEBRscOJHNLt16bAlc8YYP6elja3YRHWwLUKbv4OFSFoK1x-extRRmScO_ErRs0UZPqK7UIMN2CV0CaLGgeeWduFQPNI-SKfGyA6wK0m9oa8AAA.webp"
+  },
+  {
+   "title": "Palantir Technologies Inc (PLTR) Stock Up 5.2% but GF Value Says Overvalued -- GF Score: 82/100",
+   "link": "https://www.gurufocus.com/news/9117902/palantir-technologies-inc-pltr-stock-up-52-but-gf-value-says-overvalued-gf-score-82100",
+   "source": "GuruFocus",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAdElEQVQ4jWNkYGBg0A5q-89ABri6roqRkVzNcKAd1PYfGcD46DQuOSaYQTrB7XgtwiXPhFWUBDCcDLiytpJ8A3SC2zFCGZ-ByHKM2kFt_6-srWTQCW5ngNGkABZCNuADOsHt2A0gxRUUByLFmYmRgYGy7AwAcBFWFMcfTNsAAAAASUVORK5CYII.png",
+   "date": "11 hours ago",
+   "thumbnail": "https://serpapi.com/images/i/UklGRowBAABXRUJQVlA4TH8BAAAvW8AWAHXI1fbPEJ29gHOCUm1ybiAVe9s2ezu5gHR2Utm2rdK27WymWBz96_Ps_Ge-2Yj-T0DUYOnK1rYUqvfmex__oPdKJ8_QhyZn4YXZSTWtKDdJ_2rTCIJcJnl-UtNIw6TzCbwYiwHeddLMLhjAClEVAw-i3AGInQybge8t81kPlDJ4YLpW0wFehD4Gvmi1S6CPBEsM7KleAJZIsMvAouphYJcEB4Cx1bOAlyAAM6sXgD0SrDSwqXoYWCnBCAMvq4cBK4HGwKDqDAHiSMRDwMvqYKCQoSPA2XxnATrKoFsArjfL8g6gUCkfA_xa0yZh3S-Axyqmf07q-1u-JFWbyaF6MyVnUFkX_s7jvMq58VpvVdU5Nz79Nzh_Y46qam-7UYSmBh7NVVVt1Laba2tVVXlkIEiwj-TPNVWa6dYUJK0AlT4F4tPdEq6MSfcV9U911sMU4N4U1GQWsyIhB5xIy6suErTVum95XChU2qm3026XKnLPY4ZQqNgtSm3YMQA.webp"
+  },
+  {
+   "title": "How Much Growth Are You Paying For In Palantir Stock?",
+   "link": "https://www.trefis.com/stock/pltr/articles/618151/how-much-growth-are-you-paying-for-in-palantir-stock/2026-10-09",
+   "source": "Trefis",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAABeElEQVQ4jbWTPW7CQBBG36wtkwgo-GmQ5S434AZRurhBuQMHSJUb5EAI2WLTRek4gQsKaIwQEnSRF3ZTEFtAUEKTr9vZb55mRjMyHA7vgFcgBm64TgUwAV787-Qn55xYawEQEQCccxffSqlARGIg8IFH55yEYUgYhgd8UbDdbul2uwCs12uazSa1Wg2APM9ZLBYA9z5w65yj3-8TxzHGGJIkodfrMRgMABiNRhhjiOOYIAjQWjOfzxERX5VNiQjWWrTWJEmCMaZqeLfbMZlMSNMUa23VEoB_bNJaMx6PMcacmMr_NE3xPA-l1ClAKcV0OmWz2VxMLissIa1Wq_JUFSyXS0QEEammfQlSFAV5nleAkxlcq2Ov-sV3lf4HYK09mYNzjnJL_wQopYiiiE6nU8Xa7TZRFOF53g-AD3xydEQiQr1eJ8syZrMZcNiBRqPBarU6z9_7wBuHSzxE9nuyLKtKL6FldWf68IEXIAAeypYuGM_lgHfg-QuNFp54LjK56gAAAABJRU5ErkJggg.png",
+   "date": "15 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/1nkelvYNOJjWFB7F0e5zcGw_q4gm4KiIAme337WhGZ0.webp"
+  },
+  {
+   "title": "Form 144 Palantir Technologies Inc For: 10 October",
+   "link": "https://in.investing.com/news/stock-market-news/form-144-palantir-technologies-inc-for-10-october-93CH-5626723",
+   "source": "Investing.com India",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACI0lEQVQ4jV2Tv0pjURDGfyPXexNzg9XWggbcMiAssmhhbbPgA1i6D7C9L-Ar7AMIQrBWUbBYEPEP2CxssRhJu-ReSBSZ-bZIbrw6zZmZc2bOnO98n21vbwcTM0kyM5MEIDMzQIDxZrPYzEgioiqc7E6K6369-KMpiYjZYUnUG1X-JJwM9yHBXEQQEdZsNpFk0_id7-5I4tPCyL59_mvN5AVJ5u425-7a39-n1-vh7nJ33J2quGrm7vz4-sD3L7_JGKtqmri7LS8vA_D6-mpJktBqtQDodDrc3d3NnvTzV5s_gyb_MGs0YgLmxsaGBoOBJGl3d1dlWery8lJlWUqSbm9vdXh4KEna29uL9fV1lWWpwWCgzc1NzU1HBCBNU_I8Z2lpiYODA4qioNvtcn9_D8DW1patra2R5zlnZ2e4-wTEytwdgF6vx9HRkU5PTwEoy5KiKOh0OqysrABwfn4OQBIRM2JUzapJ5ufnAXh-fubk5ISdnR3yPOfp6YmbmxsajYbeTVAnUT0P6Pr6GoDV1VWurq5IkoSIsCQi7PHxEXdnOBzS7_cZDodEhBVFoX6_b5Ls4uKCh4cHFhcXOT4-nl1i3W5XZVkSEcqyjPF4bM1mk4WFBUajES8vL7Tb7RkWkmi1WqRpOqGyJPI8Z0pVsixDEhFBlmWkaVpRWu12eyaiCruk0sAHHFQTmUUENZXWRaak-rq6YnhTYLVWP6WpyGYK_g8XYpLBMobJkAAAAABJRU5ErkJggg.png",
+   "date": "4 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/vEWjc5IKka0-3CTqYTIhwCslbChFIFHUNEA7Hlxc-Yg.webp"
+  },
+  {
+   "title": "US Stocks Rise as Dow Gains Over 400 Points; Tech and Pharma Lead; Palantir Jumps 5% to Record High",
+   "link": "https://www.tradingkey.com/analysis/stocks/us-stocks/262209290-us-stock-close-nasdaq-dow-rise-spacex-verizon-palantir-tradingkey",
+   "source": "TradingKey",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAACIElEQVQ4jX2TX0hTURzHP_fubrf5YCMpgvIPgzFrIvkkE3sIrLSHBKmgQgocGkiwTInKSEp7KCMsEvEhCjHoJepFSXoIikyIEkEyipCwEv8tHc3Nu3tOD-MKbnd-nw6cz_fz4xzOUciSQLCmGmgBgoAOfAGeAvcnR4dXLU5JL5ZUHEFKeQu4nMU9ARycHB2eA1DTd6WU7ZuUAUqBgUCwhg0CeVYlWFl1Ebi5SdnKIaAcQAMQIcV14_feh1HTGQI431iP3-e1bc7OztN5txegDhhTRJPKUGTns6szpSeSMnUlI88f09zaYSvo7e6g-ngDpml-dep6sYYqawcXC9fLAFJKvv2YthUYyaS19BuJxB7tp5FzZiLm2QD9XV7h5WAfC0sRGsPtmKbJva4reIsK0BwOhBAWWqstmHogfcrJ0AVcLicDfd3ouotYbJVAsY-jp89hGEmklBZ6WNuxJbGWLhBCEI8nuN3TTyyWejMSiMcT6Wi-utsd--TLidqe91K4icL8XWzP25b54lKZ11Doby74Xh-eKstg3rwbo-taCwBvP3y0EwwpAKJNufNoxtvaM-1DZJuVmV9AiQPgeqXyuiw3shT0LJYbQnUvJ538M7Wsza0OI-5UZdXn96-mN4wTbYobOIYk9Cfu3j--4lHGox4moh7mDZ08bY2K3IXVA7lzp_Y9ibwAm9-4LmtV_EgakNQhKUKyhGAESaf6QE5Z3H-Pesk-cdD0NgAAAABJRU5ErkJggg.png",
+   "date": "12 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f75e4632b5db23c5d5be/images/HrMsxcznhFg8h8CVIgRENlP0ci5lNzl1PWN5HzMP-SQ.webp"
+  }
+ ],
+ "top_stories_link": "https://www.google.com/finance/portfolio/watchlist?sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQnIcKegQIOhAJ",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Palantir stock News today",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+News+today&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAhyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+News+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stock PE ratio",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+PE+ratio&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh8EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+PE+ratio"
+  },
+  {
+   "block_position": 1,
+   "query": "Why Palantir stock is down today",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Why+Palantir+stock+is+down+today&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Why+Palantir+stock+is+down+today"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stock analysis",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+analysis&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh6EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+analysis"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stock price today live",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+price+today+live&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh5EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+price+today+live"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stocktwits",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stocktwits&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh3EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stocktwits"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stock chart",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+chart&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh2EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+chart"
+  },
+  {
+   "block_position": 1,
+   "query": "Palantir stock price prediction 2030",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&q=Palantir+stock+price+prediction+2030&sa=X&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ1QJ6BAh0EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+stock+price+prediction+2030"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=10&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8NMDegQIaxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=10&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAE",
+   "3": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=20&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAG",
+   "4": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=30&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAI",
+   "5": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=40&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAK",
+   "6": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=50&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAM",
+   "7": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=60&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAO",
+   "8": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=70&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAQ",
+   "9": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=80&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAS",
+   "10": "https://www.google.com/search?q=Palantir+Technologies+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnta1T_tyu9j1KL0DcCG17uIzdtRVg:1791620958653&ei=XvfJaoHLJ8OmptQP_uP8yAk&start=90&sa=N&sstk=AS6-VmJQDXypBuMnZwsA7dYV6NUWrnxvrj8fusMxxIJPWIT7WwA6Spz_46upP9Urcnb5nL7FiUcNMpzDp6tY7jAK4YdwuKM8dFsrXg&ved=2ahUKEwiB8r-WhK-XAxVDk4kEHf4xH5kQ8tMDegQIaxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Palantir+Technologies+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:18"
+}

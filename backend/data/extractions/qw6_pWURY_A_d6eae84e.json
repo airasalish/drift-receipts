@@ -1,0 +1,57 @@
+{
+ "calls": [
+  {
+   "company": "Lalithaa Jewellery Ltd.",
+   "symbol_guess": "LALITHA",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": "12 months",
+   "quote": "country's best company to buy right now",
+   "start_s": 111,
+   "line": "uh 42%. So on paper it looks like",
+   "evidence": [
+    {
+     "text": "best company to buy",
+     "where": "transcript",
+     "start_s": 115
+    },
+    {
+     "text": "buy",
+     "where": "transcript",
+     "start_s": 115
+    }
+   ],
+   "reason": "The speaker describes Lalithaa Jewellery as the country's best company to buy right now, indicating a clear buy recommendation."
+  },
+  {
+   "company": "Titan Company Ltd.",
+   "symbol_guess": "TITAN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Titan because Titan is a global company",
+   "start_s": 290,
+   "line": "Lalita dwellers to something like a",
+   "evidence": [
+    {
+     "text": "Titan",
+     "where": "transcript",
+     "start_s": 292
+    },
+    {
+     "text": "global company",
+     "where": "transcript",
+     "start_s": 292
+    }
+   ],
+   "reason": "Titan is mentioned only as a comparison to Lalithaa Jewellery and not recommended as a pick."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

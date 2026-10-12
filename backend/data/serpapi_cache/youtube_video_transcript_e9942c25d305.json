@@ -1,0 +1,3299 @@
+{
+ "search_metadata": {
+  "id": "6ac9f7c2b7ff9d791cb4a5bf",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/xCOnHRpiayXw12DYi6UiNTwoRdDm27T6COvft_V67hA/6ac9f7c2b7ff9d791cb4a5bf.json",
+  "markdown_endpoint": "https://serpapi.com/searches/xCOnHRpiayXw12DYi6UiNTwoRdDm27T6COvft_V67hA/6ac9f7c2b7ff9d791cb4a5bf.md",
+  "created_at": "2026-10-10 08:30:58 UTC",
+  "processed_at": "2026-10-10 08:30:58 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=BXPPUsXUl7A",
+  "raw_html_file": "https://serpapi.com/searches/xCOnHRpiayXw12DYi6UiNTwoRdDm27T6COvft_V67hA/6ac9f7c2b7ff9d791cb4a5bf.html",
+  "prettify_html_file": "https://serpapi.com/searches/xCOnHRpiayXw12DYi6UiNTwoRdDm27T6COvft_V67hA/6ac9f7c2b7ff9d791cb4a5bf.prettify",
+  "total_time_taken": 7.16
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "BXPPUsXUl7A",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 80,
+   "end_ms": 2560,
+   "snippet": "सोचो अगर आपको पता हो कि आप जो प्रोडक्ट",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 2560,
+   "end_ms": 5440,
+   "snippet": "बिल्ड कर रहे हो उसके बेसिस पर हजारों",
+   "start_time_text": "0:02",
+   "start_time_label": "0:02"
+  },
+  {
+   "start_ms": 5440,
+   "end_ms": 8080,
+   "snippet": "लाखों इंडियंस शायद अपनी जिंदगी भर की",
+   "start_time_text": "0:05",
+   "start_time_label": "0:05"
+  },
+  {
+   "start_ms": 8080,
+   "end_ms": 11040,
+   "snippet": "कमाई इन्वेस्ट करने वाले हैं। प्रेशर और",
+   "start_time_text": "0:08",
+   "start_time_label": "0:08"
+  },
+  {
+   "start_ms": 11040,
+   "end_ms": 13759,
+   "snippet": "रिस्पांसिबिलिटी दोनों बहुत बढ़ जाते हैं।",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 13759,
+   "end_ms": 16880,
+   "snippet": "बहुत सारे चैलेंजेस, कॉन्फ्लिक्ट्स और",
+   "start_time_text": "0:13",
+   "start_time_label": "0:13"
+  },
+  {
+   "start_ms": 16880,
+   "end_ms": 19520,
+   "snippet": "पैराडॉक्सेस आते हैं। तो अगर आप एक",
+   "start_time_text": "0:16",
+   "start_time_label": "0:16"
+  },
+  {
+   "start_ms": 19520,
+   "end_ms": 21840,
+   "snippet": "स्टूडेंट हो, इन्वेस्टर हो, एंटरप्रेन्योर",
+   "start_time_text": "0:19",
+   "start_time_label": "0:19"
+  },
+  {
+   "start_ms": 21840,
+   "end_ms": 24400,
+   "snippet": "हो या प्रोडक्ट डिजाइनर हो तो इस वीडियो",
+   "start_time_text": "0:21",
+   "start_time_label": "0:21"
+  },
+  {
+   "start_ms": 24400,
+   "end_ms": 27119,
+   "snippet": "से मैं कोशिश करूंगा कि एक मास्टर क्लास",
+   "start_time_text": "0:24",
+   "start_time_label": "0:24"
+  },
+  {
+   "start_ms": 27119,
+   "end_ms": 29760,
+   "snippet": "डिलीवर कर सकूं ऑन [संगीत] बिल्डिंग एन",
+   "start_time_text": "0:27",
+   "start_time_label": "0:27"
+  },
+  {
+   "start_ms": 29760,
+   "end_ms": 32239,
+   "snippet": "इन्वेस्टमेंट प्रोडक्ट फॉर इंडिया। उसको",
+   "start_time_text": "0:29",
+   "start_time_label": "0:29"
+  },
+  {
+   "start_ms": 32239,
+   "end_ms": 35200,
+   "snippet": "बिल्ड करने के सारे चैलेंजेस और कई 100",
+   "start_time_text": "0:32",
+   "start_time_label": "0:32"
+  },
+  {
+   "start_ms": 35200,
+   "end_ms": 37335,
+   "snippet": "घंटों के डिस्कशन से डिराइव हुए सॉलशंस।",
+   "start_time_text": "0:35",
+   "start_time_label": "0:35"
+  },
+  {
+   "start_ms": 37335,
+   "end_ms": 38399,
+   "snippet": "[संगीत]",
+   "start_time_text": "0:37",
+   "start_time_label": "0:37"
+  },
+  {
+   "start_ms": 38399,
+   "end_ms": 41520,
+   "snippet": "मैं रिवील करूंगा सब कुछ। दिस इज प्रांजलल",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 41520,
+   "end_ms": 44160,
+   "snippet": "कामरा। आप देख रहे हैं फिनोलॉजी द",
+   "start_time_text": "0:41",
+   "start_time_label": "0:41"
+  },
+  {
+   "start_ms": 44160,
+   "end_ms": 46719,
+   "snippet": "फाइनेंसियल फ्रीडम कंपनी। आज जानते हैं",
+   "start_time_text": "0:44",
+   "start_time_label": "0:44"
+  },
+  {
+   "start_ms": 46719,
+   "end_ms": 49440,
+   "snippet": "कैसे हमने बिल्ड किया अभी तक का हमारा",
+   "start_time_text": "0:46",
+   "start_time_label": "0:46"
+  },
+  {
+   "start_ms": 49440,
+   "end_ms": 50960,
+   "snippet": "सबसे डिफिकल्ट प्रोडक्ट।",
+   "start_time_text": "0:49",
+   "start_time_label": "0:49"
+  },
+  {
+   "start_ms": 50960,
+   "end_ms": 52399,
+   "snippet": "इन्वेस्टमेंट इन द सिक्योरिटीज मार्केट इज",
+   "start_time_text": "0:50",
+   "start_time_label": "0:50"
+  },
+  {
+   "start_ms": 52399,
+   "end_ms": 53760,
+   "snippet": "सब्जेक्ट टू मार्केट रिस्क। इन्वेस्टर्स",
+   "start_time_text": "0:52",
+   "start_time_label": "0:52"
+  },
+  {
+   "start_ms": 53760,
+   "end_ms": 55360,
+   "snippet": "आर एडवाइस टू रीड ऑल रिलेटेड डॉक्यूमेंट्स",
+   "start_time_text": "0:53",
+   "start_time_label": "0:53"
+  },
+  {
+   "start_ms": 55360,
+   "end_ms": 59000,
+   "snippet": "केयरफुली बिफोर इन्वेस्टिंग।",
+   "start_time_text": "0:55",
+   "start_time_label": "0:55"
+  },
+  {
+   "start_ms": 61039,
+   "end_ms": 63520,
+   "snippet": "तीन मेजर कैटेगरीज थी जिनके बारे में हमको",
+   "start_time_text": "1:01",
+   "start_time_label": "1:01"
+  },
+  {
+   "start_ms": 63520,
+   "end_ms": 66960,
+   "snippet": "सोचना था। सूटेबिलिटी चैलेंजेस, डिलीवरी",
+   "start_time_text": "1:03",
+   "start_time_label": "1:03"
+  },
+  {
+   "start_ms": 66960,
+   "end_ms": 70479,
+   "snippet": "चैलेंजेस और स्टॉक सिलेक्शन फ्रेमवर्क। ये",
+   "start_time_text": "1:06",
+   "start_time_label": "1:06"
+  },
+  {
+   "start_ms": 70479,
+   "end_ms": 72640,
+   "snippet": "तीनों के बारे में मैं इस वीडियो में",
+   "start_time_text": "1:10",
+   "start_time_label": "1:10"
+  },
+  {
+   "start_ms": 72640,
+   "end_ms": 75040,
+   "snippet": "डिटेल में आपको बताऊंगा। शुरू करते हैं",
+   "start_time_text": "1:12",
+   "start_time_label": "1:12"
+  },
+  {
+   "start_ms": 75040,
+   "end_ms": 77360,
+   "snippet": "सूटेबिलिटी से। देखो कोई भी स्टॉक",
+   "start_time_text": "1:15",
+   "start_time_label": "1:15"
+  },
+  {
+   "start_ms": 77360,
+   "end_ms": 79840,
+   "snippet": "रिकमेंडेशन प्रोडक्ट लगता बहुत सिंपल है",
+   "start_time_text": "1:17",
+   "start_time_label": "1:17"
+  },
+  {
+   "start_ms": 79840,
+   "end_ms": 82000,
+   "snippet": "कि क्या करना है? जो सब्सक्राइबर्स हैं",
+   "start_time_text": "1:19",
+   "start_time_label": "1:19"
+  },
+  {
+   "start_ms": 82000,
+   "end_ms": 84080,
+   "snippet": "उनको स्टॉक रिकमेंडेशंस डिलीवर करने हैं।",
+   "start_time_text": "1:22",
+   "start_time_label": "1:22"
+  },
+  {
+   "start_ms": 84080,
+   "end_ms": 86640,
+   "snippet": "महीने के एक दो तीन या साल के 20, 25, 30",
+   "start_time_text": "1:24",
+   "start_time_label": "1:24"
+  },
+  {
+   "start_ms": 86640,
+   "end_ms": 89280,
+   "snippet": "जो भी आपका फॉर्मेट है। अब इसके पीछे के",
+   "start_time_text": "1:26",
+   "start_time_label": "1:26"
+  },
+  {
+   "start_ms": 89280,
+   "end_ms": 91680,
+   "snippet": "चैलेंजेस को समझते हैं। पहला चैलेंज कि",
+   "start_time_text": "1:29",
+   "start_time_label": "1:29"
+  },
+  {
+   "start_ms": 91680,
+   "end_ms": 94159,
+   "snippet": "आपने रिकमेंड कर दिया और मान लो स्टॉक में",
+   "start_time_text": "1:31",
+   "start_time_label": "1:31"
+  },
+  {
+   "start_ms": 94159,
+   "end_ms": 96320,
+   "snippet": "लिक्विडिटी नहीं है और आपके सब्सक्राइबर्स",
+   "start_time_text": "1:34",
+   "start_time_label": "1:34"
+  },
+  {
+   "start_ms": 96320,
+   "end_ms": 98400,
+   "snippet": "वो स्टॉक को एक्चुअली उसमें इन्वेस्ट कर",
+   "start_time_text": "1:36",
+   "start_time_label": "1:36"
+  },
+  {
+   "start_ms": 98400,
+   "end_ms": 100479,
+   "snippet": "नहीं पा रहे हैं। दूसरा क्योंकि कोई भी",
+   "start_time_text": "1:38",
+   "start_time_label": "1:38"
+  },
+  {
+   "start_ms": 100479,
+   "end_ms": 102799,
+   "snippet": "स्टॉक रिकमेंडेशन प्रोडक्ट वन टू मेनी",
+   "start_time_text": "1:40",
+   "start_time_label": "1:40"
+  },
+  {
+   "start_ms": 102799,
+   "end_ms": 105119,
+   "snippet": "होता है। यानी एक एंटिटी बहुत सारे लोगों",
+   "start_time_text": "1:42",
+   "start_time_label": "1:42"
+  },
+  {
+   "start_ms": 105119,
+   "end_ms": 107840,
+   "snippet": "को वो स्टॉक्स रिकमेंड कर रही है। तो आपको",
+   "start_time_text": "1:45",
+   "start_time_label": "1:45"
+  },
+  {
+   "start_ms": 107840,
+   "end_ms": 110000,
+   "snippet": "यह ध्यान रखना होता है कि जो स्टॉक्स आप",
+   "start_time_text": "1:47",
+   "start_time_label": "1:47"
+  },
+  {
+   "start_ms": 110000,
+   "end_ms": 112399,
+   "snippet": "दे रहे हो वो आपके जो पोटेंशियल क्लाइंट्स",
+   "start_time_text": "1:50",
+   "start_time_label": "1:50"
+  },
+  {
+   "start_ms": 112399,
+   "end_ms": 114560,
+   "snippet": "हैं उनमें से ज्यादातर यानी मेजॉरिटी",
+   "start_time_text": "1:52",
+   "start_time_label": "1:52"
+  },
+  {
+   "start_ms": 114560,
+   "end_ms": 117040,
+   "snippet": "लोगों के लिए सूटेबल हो। तीसरा आपको यह",
+   "start_time_text": "1:54",
+   "start_time_label": "1:54"
+  },
+  {
+   "start_ms": 117040,
+   "end_ms": 118479,
+   "snippet": "ध्यान रखना पड़ता है कि आपके",
+   "start_time_text": "1:57",
+   "start_time_label": "1:57"
+  },
+  {
+   "start_ms": 118479,
+   "end_ms": 120640,
+   "snippet": "सब्सक्राइबर्स जब हर महीने आपकी",
+   "start_time_text": "1:58",
+   "start_time_label": "1:58"
+  },
+  {
+   "start_ms": 120640,
+   "end_ms": 123920,
+   "snippet": "रिकमेंडेशंस के जरिए अगर इन्वेस्ट करेंगे",
+   "start_time_text": "2:00",
+   "start_time_label": "2:00"
+  },
+  {
+   "start_ms": 123920,
+   "end_ms": 126240,
+   "snippet": "तो क्या पोर्टफोलियो लेवल पे उन्हें",
+   "start_time_text": "2:03",
+   "start_time_label": "2:03"
+  },
+  {
+   "start_ms": 126240,
+   "end_ms": 128640,
+   "snippet": "प्रॉपर डायवर्सिफिकेशन मिल रहा है या आप",
+   "start_time_text": "2:06",
+   "start_time_label": "2:06"
+  },
+  {
+   "start_ms": 128640,
+   "end_ms": 131440,
+   "snippet": "बस किसी बिजनेस न्यूज़ चैनल या मैगजीन की",
+   "start_time_text": "2:08",
+   "start_time_label": "2:08"
+  },
+  {
+   "start_ms": 131440,
+   "end_ms": 133520,
+   "snippet": "तरह रैंडम स्टॉक्स रिकमेंड कर रहे हैं और",
+   "start_time_text": "2:11",
+   "start_time_label": "2:11"
+  },
+  {
+   "start_ms": 133520,
+   "end_ms": 135280,
+   "snippet": "आप यह नहीं सोच रहे हो कि क्लाइंट के",
+   "start_time_text": "2:13",
+   "start_time_label": "2:13"
+  },
+  {
+   "start_ms": 135280,
+   "end_ms": 137840,
+   "snippet": "पोर्टफोलियो पे आपकी इस तरह की रैंडम",
+   "start_time_text": "2:15",
+   "start_time_label": "2:15"
+  },
+  {
+   "start_ms": 137840,
+   "end_ms": 140640,
+   "snippet": "रिकमेंडेशंस का फर्क क्या पड़ेगा। चौथा",
+   "start_time_text": "2:17",
+   "start_time_label": "2:17"
+  },
+  {
+   "start_ms": 140640,
+   "end_ms": 143040,
+   "snippet": "आपको यह भी ध्यान रखना पड़ता है कि आपकी",
+   "start_time_text": "2:20",
+   "start_time_label": "2:20"
+  },
+  {
+   "start_ms": 143040,
+   "end_ms": 145920,
+   "snippet": "कंपनीज़ आपस में एक दूसरे के रिस्क को",
+   "start_time_text": "2:23",
+   "start_time_label": "2:23"
+  },
+  {
+   "start_ms": 145920,
+   "end_ms": 148959,
+   "snippet": "बैलेंस करें। जैसे अगर कुछ कंपनियां बहुत",
+   "start_time_text": "2:25",
+   "start_time_label": "2:25"
+  },
+  {
+   "start_ms": 148959,
+   "end_ms": 151040,
+   "snippet": "ज्यादा ग्रोथ ओरिएंटेड हैं तो हो सकता है",
+   "start_time_text": "2:28",
+   "start_time_label": "2:28"
+  },
+  {
+   "start_ms": 151040,
+   "end_ms": 153360,
+   "snippet": "वो वोलेटाइल हो। तो जब आप स्टॉक रिकमेंड",
+   "start_time_text": "2:31",
+   "start_time_label": "2:31"
+  },
+  {
+   "start_ms": 153360,
+   "end_ms": 155920,
+   "snippet": "कर रहे हैं तो अपनी पिछले रिकमेंडेशन के",
+   "start_time_text": "2:33",
+   "start_time_label": "2:33"
+  },
+  {
+   "start_ms": 155920,
+   "end_ms": 158879,
+   "snippet": "रिस्क को बैलेंस करने की कोशिश करनी होती",
+   "start_time_text": "2:35",
+   "start_time_label": "2:35"
+  },
+  {
+   "start_ms": 158879,
+   "end_ms": 161760,
+   "snippet": "है वाया योर नेक्स्ट स्टॉक रिकमेंडेशन।",
+   "start_time_text": "2:38",
+   "start_time_label": "2:38"
+  },
+  {
+   "start_ms": 161760,
+   "end_ms": 164959,
+   "snippet": "ताकि स्टेबिलिटी और वोलेटिलिटी का परफेक्ट",
+   "start_time_text": "2:41",
+   "start_time_label": "2:41"
+  },
+  {
+   "start_ms": 164959,
+   "end_ms": 168239,
+   "snippet": "बैलेंस रहे। पांचवा आप रेगुलर ब्रॉड यह जो",
+   "start_time_text": "2:44",
+   "start_time_label": "2:44"
+  },
+  {
+   "start_ms": 168239,
+   "end_ms": 170560,
+   "snippet": "म्यूच्यूल फंड्स होते हैं उनके अगेंस्ट",
+   "start_time_text": "2:48",
+   "start_time_label": "2:48"
+  },
+  {
+   "start_ms": 170560,
+   "end_ms": 172959,
+   "snippet": "कुछ एक्स्ट्रा क्या ऑफर कर रहे हो वो",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 172959,
+   "end_ms": 176000,
+   "snippet": "वैल्यू भी अपने सब्सक्राइबर्स को जस्टिफाई",
+   "start_time_text": "2:52",
+   "start_time_label": "2:52"
+  },
+  {
+   "start_ms": 176000,
+   "end_ms": 178560,
+   "snippet": "करना होता है। तो ब्रॉडली जब आप सोचते हो",
+   "start_time_text": "2:56",
+   "start_time_label": "2:56"
+  },
+  {
+   "start_ms": 178560,
+   "end_ms": 180560,
+   "snippet": "ना कि मैं स्टॉक रिकमेंडेशन प्रोडक्ट",
+   "start_time_text": "2:58",
+   "start_time_label": "2:58"
+  },
+  {
+   "start_ms": 180560,
+   "end_ms": 183360,
+   "snippet": "बनाऊंगा तो एक पहला ख्याल ये होता है मैं",
+   "start_time_text": "3:00",
+   "start_time_label": "3:00"
+  },
+  {
+   "start_ms": 183360,
+   "end_ms": 186000,
+   "snippet": "ना बेस्ट स्टॉक्स ढूंढूंगा। ये बहुत ही",
+   "start_time_text": "3:03",
+   "start_time_label": "3:03"
+  },
+  {
+   "start_ms": 186000,
+   "end_ms": 189200,
+   "snippet": "आइसोलेटेड थॉट है। जब आपको बेस्ट स्टॉक्स",
+   "start_time_text": "3:06",
+   "start_time_label": "3:06"
+  },
+  {
+   "start_ms": 189200,
+   "end_ms": 191680,
+   "snippet": "को एक प्रोडक्ट बना के डिलीवर करना है तो",
+   "start_time_text": "3:09",
+   "start_time_label": "3:09"
+  },
+  {
+   "start_ms": 191680,
+   "end_ms": 195920,
+   "snippet": "शायद 30 बेस्ट स्टॉक्स एक 30 स्टॉक्स का",
+   "start_time_text": "3:11",
+   "start_time_label": "3:11"
+  },
+  {
+   "start_ms": 195920,
+   "end_ms": 198560,
+   "snippet": "बेस्ट बास्केट ना बनाए। जैसे क्रिकेट टीम",
+   "start_time_text": "3:15",
+   "start_time_label": "3:15"
+  },
+  {
+   "start_ms": 198560,
+   "end_ms": 201280,
+   "snippet": "में 11 बेहतरीन खिलाड़ी एक बेस्ट टीम नहीं",
+   "start_time_text": "3:18",
+   "start_time_label": "3:18"
+  },
+  {
+   "start_ms": 201280,
+   "end_ms": 204319,
+   "snippet": "बनाएंगे। एक टीम में बैलेंस होना जरूरी",
+   "start_time_text": "3:21",
+   "start_time_label": "3:21"
+  },
+  {
+   "start_ms": 204319,
+   "end_ms": 206480,
+   "snippet": "है। एक दूसरे को कॉम्प्लीमेंट करें। ऐसे",
+   "start_time_text": "3:24",
+   "start_time_label": "3:24"
+  },
+  {
+   "start_ms": 206480,
+   "end_ms": 208640,
+   "snippet": "खिलाड़ी जरूरी हैं। और जब एक अच्छा",
+   "start_time_text": "3:26",
+   "start_time_label": "3:26"
+  },
+  {
+   "start_ms": 208640,
+   "end_ms": 211360,
+   "snippet": "परफॉर्म ना करे तो दूसरा उसकी जगह ले सके।",
+   "start_time_text": "3:28",
+   "start_time_label": "3:28"
+  },
+  {
+   "start_ms": 211360,
+   "end_ms": 215280,
+   "snippet": "ऐसे रिजर्व प्लेयर्स भी जरूरी हैं। तो 11",
+   "start_time_text": "3:31",
+   "start_time_label": "3:31"
+  },
+  {
+   "start_ms": 215280,
+   "end_ms": 218000,
+   "snippet": "इंडिविजुअल बेस्ट प्लेयर्स डू नॉट क्रिएट",
+   "start_time_text": "3:35",
+   "start_time_label": "3:35"
+  },
+  {
+   "start_ms": 218000,
+   "end_ms": 221440,
+   "snippet": "अ परफेक्ट टीम। तो मुझे पता है कि भले ही",
+   "start_time_text": "3:38",
+   "start_time_label": "3:38"
+  },
+  {
+   "start_ms": 221440,
+   "end_ms": 224080,
+   "snippet": "हम इंडिविजुअल स्टॉक्स आपको बता रहे हैं",
+   "start_time_text": "3:41",
+   "start_time_label": "3:41"
+  },
+  {
+   "start_ms": 224080,
+   "end_ms": 226799,
+   "snippet": "लेकिन वो इकट्ठा हो के एट योर लेवल एट द",
+   "start_time_text": "3:44",
+   "start_time_label": "3:44"
+  },
+  {
+   "start_ms": 226799,
+   "end_ms": 229280,
+   "snippet": "सब्सक्राइबर लेवल वो एक पोर्टफोलियो बन",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 229280,
+   "end_ms": 231519,
+   "snippet": "रहा है। तो वो भी बैक ऑफ द माइंड ध्यान",
+   "start_time_text": "3:49",
+   "start_time_label": "3:49"
+  },
+  {
+   "start_ms": 231519,
+   "end_ms": 233840,
+   "snippet": "रखना पड़ता है। तो ये जो मैंने पांच चीजें",
+   "start_time_text": "3:51",
+   "start_time_label": "3:51"
+  },
+  {
+   "start_ms": 233840,
+   "end_ms": 237760,
+   "snippet": "डिस्कस की ये हमें हमेशा हमारे आगे के कोई",
+   "start_time_text": "3:53",
+   "start_time_label": "3:53"
+  },
+  {
+   "start_ms": 237760,
+   "end_ms": 240480,
+   "snippet": "भी डिसीजन लेने के समय हमें ध्यान रखनी",
+   "start_time_text": "3:57",
+   "start_time_label": "3:57"
+  },
+  {
+   "start_ms": 240480,
+   "end_ms": 242560,
+   "snippet": "पड़ती है। ये एक तरह से हमारे स्टैंडिंग",
+   "start_time_text": "4:00",
+   "start_time_label": "4:00"
+  },
+  {
+   "start_ms": 242560,
+   "end_ms": 244400,
+   "snippet": "इंस्ट्रक्शंस होते हैं कि इन चीजों का",
+   "start_time_text": "4:02",
+   "start_time_label": "4:02"
+  },
+  {
+   "start_ms": 244400,
+   "end_ms": 247360,
+   "snippet": "ध्यान तो रखना ही रखना है। इसके बाद जब हम",
+   "start_time_text": "4:04",
+   "start_time_label": "4:04"
+  },
+  {
+   "start_ms": 247360,
+   "end_ms": 250000,
+   "snippet": "प्रोडक्ट डिजाइन कर रहे थे तो सबसे पहले",
+   "start_time_text": "4:07",
+   "start_time_label": "4:07"
+  },
+  {
+   "start_ms": 250000,
+   "end_ms": 252560,
+   "snippet": "बात करते हैं कि प्रोडक्ट किस फॉर्मेट में",
+   "start_time_text": "4:10",
+   "start_time_label": "4:10"
+  },
+  {
+   "start_ms": 252560,
+   "end_ms": 254720,
+   "snippet": "डिलीवर हो उसमें क्या चैलेंजेस थे। बहुत",
+   "start_time_text": "4:12",
+   "start_time_label": "4:12"
+  },
+  {
+   "start_ms": 254720,
+   "end_ms": 256560,
+   "snippet": "सिंपल लगता है। स्टॉक रिकमेंडेशन प्रोडक्ट",
+   "start_time_text": "4:14",
+   "start_time_label": "4:14"
+  },
+  {
+   "start_ms": 256560,
+   "end_ms": 258479,
+   "snippet": "ही तो है। क्या सोचना है? डिलीवरी माने",
+   "start_time_text": "4:16",
+   "start_time_label": "4:16"
+  },
+  {
+   "start_ms": 258479,
+   "end_ms": 261040,
+   "snippet": "क्या? मैं आपको सिर्फ पहला एग्जांपल देता",
+   "start_time_text": "4:18",
+   "start_time_label": "4:18"
+  },
+  {
+   "start_ms": 261040,
+   "end_ms": 262880,
+   "snippet": "हूं और आप समझ जाओगे ये कितना कॉम्प्लेक्स",
+   "start_time_text": "4:21",
+   "start_time_label": "4:21"
+  },
+  {
+   "start_ms": 262880,
+   "end_ms": 265680,
+   "snippet": "है। सबसे पहला पैराडॉक्स। देखो इस",
+   "start_time_text": "4:22",
+   "start_time_label": "4:22"
+  },
+  {
+   "start_ms": 265680,
+   "end_ms": 268080,
+   "snippet": "इंडस्ट्री में ना दो फॉर्मेट्स चलते हैं",
+   "start_time_text": "4:25",
+   "start_time_label": "4:25"
+  },
+  {
+   "start_ms": 268080,
+   "end_ms": 270800,
+   "snippet": "इस तरह के प्रोडक्ट के लिए। पहला फॉर्मेट",
+   "start_time_text": "4:28",
+   "start_time_label": "4:28"
+  },
+  {
+   "start_ms": 270800,
+   "end_ms": 274479,
+   "snippet": "कि आप वन स्टॉक अ मंथ डिलीवर करो। फिर",
+   "start_time_text": "4:30",
+   "start_time_label": "4:30"
+  },
+  {
+   "start_ms": 274479,
+   "end_ms": 276720,
+   "snippet": "उनको मतलब नहीं है कि 1 साल में 12, 2 साल",
+   "start_time_text": "4:34",
+   "start_time_label": "4:34"
+  },
+  {
+   "start_ms": 276720,
+   "end_ms": 280160,
+   "snippet": "में 24, 5 साल में 60, 10 साल में 120",
+   "start_time_text": "4:36",
+   "start_time_label": "4:36"
+  },
+  {
+   "start_ms": 280160,
+   "end_ms": 282000,
+   "snippet": "स्टॉक्स आपके पास हो रहे हैं। उनकी",
+   "start_time_text": "4:40",
+   "start_time_label": "4:40"
+  },
+  {
+   "start_ms": 282000,
+   "end_ms": 284000,
+   "snippet": "रिस्पांसिबिलिटी सिंपल है। हर महीने हमने",
+   "start_time_text": "4:42",
+   "start_time_label": "4:42"
+  },
+  {
+   "start_ms": 284000,
+   "end_ms": 286320,
+   "snippet": "आपको एक स्टॉक बोला था वो हम दे देंगे। ये",
+   "start_time_text": "4:44",
+   "start_time_label": "4:44"
+  },
+  {
+   "start_ms": 286320,
+   "end_ms": 288720,
+   "snippet": "फॉर्मेट करने में बहुत आसान है। इट्स इजी",
+   "start_time_text": "4:46",
+   "start_time_label": "4:46"
+  },
+  {
+   "start_ms": 288720,
+   "end_ms": 291199,
+   "snippet": "टू एग्जीक्यूट। लेकिन वी बिलीव्ड कि इससे",
+   "start_time_text": "4:48",
+   "start_time_label": "4:48"
+  },
+  {
+   "start_ms": 291199,
+   "end_ms": 293040,
+   "snippet": "ना जो सब्सक्राइबर सॉल्यूशन ढूंढ रहा है",
+   "start_time_text": "4:51",
+   "start_time_label": "4:51"
+  },
+  {
+   "start_ms": 293040,
+   "end_ms": 294960,
+   "snippet": "वो नहीं मिल रहा है। ये थोड़ा मैगजीीन",
+   "start_time_text": "4:53",
+   "start_time_label": "4:53"
+  },
+  {
+   "start_ms": 294960,
+   "end_ms": 296880,
+   "snippet": "जैसा हो जा रहा है कि हर 15 दिन में एक नए",
+   "start_time_text": "4:54",
+   "start_time_label": "4:54"
+  },
+  {
+   "start_ms": 296880,
+   "end_ms": 299360,
+   "snippet": "कवर पेज के साथ कवर स्टोरी के साथ एक नया",
+   "start_time_text": "4:56",
+   "start_time_label": "4:56"
+  },
+  {
+   "start_ms": 299360,
+   "end_ms": 302000,
+   "snippet": "एडिशन आ गया। तो ये डिलीवरी फॉर्मेट",
+   "start_time_text": "4:59",
+   "start_time_label": "4:59"
+  },
+  {
+   "start_ms": 302000,
+   "end_ms": 304479,
+   "snippet": "सॉल्यूशन ओरिएंटेड नहीं है। रिजेक्ट कर",
+   "start_time_text": "5:02",
+   "start_time_label": "5:02"
+  },
+  {
+   "start_ms": 304479,
+   "end_ms": 307120,
+   "snippet": "दिया हमने यह फॉर्मेट और फिर हम गए इसके",
+   "start_time_text": "5:04",
+   "start_time_label": "5:04"
+  },
+  {
+   "start_ms": 307120,
+   "end_ms": 309360,
+   "snippet": "एक ऑोजिट डिलीवरी मैकेनिज्म की तरफ। हमने",
+   "start_time_text": "5:07",
+   "start_time_label": "5:07"
+  },
+  {
+   "start_ms": 309360,
+   "end_ms": 311360,
+   "snippet": "सोचा कि क्या हम एक मॉडल पोर्टफोलियो",
+   "start_time_text": "5:09",
+   "start_time_label": "5:09"
+  },
+  {
+   "start_ms": 311360,
+   "end_ms": 313280,
+   "snippet": "बनाएं स्माल केस के जैसा कि आपने",
+   "start_time_text": "5:11",
+   "start_time_label": "5:11"
+  },
+  {
+   "start_ms": 313280,
+   "end_ms": 316080,
+   "snippet": "सब्सक्राइब किया और आपको सारे स्टॉक एक",
+   "start_time_text": "5:13",
+   "start_time_label": "5:13"
+  },
+  {
+   "start_ms": 316080,
+   "end_ms": 318960,
+   "snippet": "पोर्टफोलियो के फॉर्म में एट वंस मिल गए।",
+   "start_time_text": "5:16",
+   "start_time_label": "5:16"
+  },
+  {
+   "start_ms": 318960,
+   "end_ms": 321600,
+   "snippet": "क्या इसको देखना चाहिए? इसमें द प्रॉब्लम",
+   "start_time_text": "5:18",
+   "start_time_label": "5:18"
+  },
+  {
+   "start_ms": 321600,
+   "end_ms": 325280,
+   "snippet": "वी फेल्ट वाज़ कि फिर आप कब सब्सक्राइब कर",
+   "start_time_text": "5:21",
+   "start_time_label": "5:21"
+  },
+  {
+   "start_ms": 325280,
+   "end_ms": 327360,
+   "snippet": "रहे हो वो बहुत इंपॉर्टेंट हो जाएगा। अगर",
+   "start_time_text": "5:25",
+   "start_time_label": "5:25"
+  },
+  {
+   "start_ms": 327360,
+   "end_ms": 329360,
+   "snippet": "आप तब सब्सक्राइब कर रहे हो जब मार्केट लो",
+   "start_time_text": "5:27",
+   "start_time_label": "5:27"
+  },
+  {
+   "start_ms": 329360,
+   "end_ms": 332080,
+   "snippet": "पे है तो मॉडल पोर्टफोलियो सिस्टम वर्क्स",
+   "start_time_text": "5:29",
+   "start_time_label": "5:29"
+  },
+  {
+   "start_ms": 332080,
+   "end_ms": 333840,
+   "snippet": "ग्रेट। आपको सारे स्टॉक्स दिख गए। अगर",
+   "start_time_text": "5:32",
+   "start_time_label": "5:32"
+  },
+  {
+   "start_ms": 333840,
+   "end_ms": 335919,
+   "snippet": "आपके पास लिक्विडिटी है परफेक्ट आपका",
+   "start_time_text": "5:33",
+   "start_time_label": "5:33"
+  },
+  {
+   "start_ms": 335919,
+   "end_ms": 338240,
+   "snippet": "एंट्री बहुत अच्छे समय हो जाएगा। लेकिन",
+   "start_time_text": "5:35",
+   "start_time_label": "5:35"
+  },
+  {
+   "start_ms": 338240,
+   "end_ms": 340800,
+   "snippet": "इसमें दो प्रॉब्लम है। अगर आप बहुत बुलिश",
+   "start_time_text": "5:38",
+   "start_time_label": "5:38"
+  },
+  {
+   "start_ms": 340800,
+   "end_ms": 343520,
+   "snippet": "मार्केट के समय घुसे तो आप सारे स्टॉक्स",
+   "start_time_text": "5:40",
+   "start_time_label": "5:40"
+  },
+  {
+   "start_ms": 343520,
+   "end_ms": 345440,
+   "snippet": "या तो महंगे में ले लोगे और दूसरा",
+   "start_time_text": "5:43",
+   "start_time_label": "5:43"
+  },
+  {
+   "start_ms": 345440,
+   "end_ms": 348000,
+   "snippet": "लिक्विडिटी प्रॉब्लम कि आज आपने प्रोडक्ट",
+   "start_time_text": "5:45",
+   "start_time_label": "5:45"
+  },
+  {
+   "start_ms": 348000,
+   "end_ms": 349759,
+   "snippet": "सब्सक्राइब किया हो सकता है आपके पास अभी",
+   "start_time_text": "5:48",
+   "start_time_label": "5:48"
+  },
+  {
+   "start_ms": 349759,
+   "end_ms": 351520,
+   "snippet": "लिक्विडिटी नहीं है। अभी आपके पास",
+   "start_time_text": "5:49",
+   "start_time_label": "5:49"
+  },
+  {
+   "start_ms": 351520,
+   "end_ms": 353520,
+   "snippet": "लिक्विडिटी कम है तो आप सारे स्टॉक्स खरीद",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 353520,
+   "end_ms": 355199,
+   "snippet": "नहीं पाओगे या बहुत कम क्वांटिटी खरीद",
+   "start_time_text": "5:53",
+   "start_time_label": "5:53"
+  },
+  {
+   "start_ms": 355199,
+   "end_ms": 357360,
+   "snippet": "पाओगे। और कुछ महीने बाद जब आपके पास",
+   "start_time_text": "5:55",
+   "start_time_label": "5:55"
+  },
+  {
+   "start_ms": 357360,
+   "end_ms": 359919,
+   "snippet": "लिक्विडिटी आई तो मार्केट बहुत भाग गया।",
+   "start_time_text": "5:57",
+   "start_time_label": "5:57"
+  },
+  {
+   "start_ms": 359919,
+   "end_ms": 361759,
+   "snippet": "स्टॉक्स के प्राइस बढ़ गए। अब वो",
+   "start_time_text": "5:59",
+   "start_time_label": "5:59"
+  },
+  {
+   "start_ms": 361759,
+   "end_ms": 364000,
+   "snippet": "रिकमेंडेड प्राइस से ऊपर चले गए और अब आप",
+   "start_time_text": "6:01",
+   "start_time_label": "6:01"
+  },
+  {
+   "start_ms": 364000,
+   "end_ms": 366560,
+   "snippet": "खरीद ही नहीं सकते। तो मॉडल पोर्टफोलियो",
+   "start_time_text": "6:04",
+   "start_time_label": "6:04"
+  },
+  {
+   "start_ms": 366560,
+   "end_ms": 369680,
+   "snippet": "प्रोडक्ट में ये प्रॉब्लम है। वन स्टॉक अ",
+   "start_time_text": "6:06",
+   "start_time_label": "6:06"
+  },
+  {
+   "start_ms": 369680,
+   "end_ms": 372800,
+   "snippet": "मंथ या ऑल स्टॉक्स एट वंस। ये दो ब्रॉड",
+   "start_time_text": "6:09",
+   "start_time_label": "6:09"
+  },
+  {
+   "start_ms": 372800,
+   "end_ms": 375440,
+   "snippet": "फॉर्मेट चलते हैं। इनमें से किसको पिक",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 375440,
+   "end_ms": 378160,
+   "snippet": "करें? बहुत बड़ी दुविधा थी ये। डिलीवरी",
+   "start_time_text": "6:15",
+   "start_time_label": "6:15"
+  },
+  {
+   "start_ms": 378160,
+   "end_ms": 380880,
+   "snippet": "में दूसरा प्रॉब्लम कि हम कितने स्टॉक्स",
+   "start_time_text": "6:18",
+   "start_time_label": "6:18"
+  },
+  {
+   "start_ms": 380880,
+   "end_ms": 383759,
+   "snippet": "दें? आप देखोगे कि जो ज्यादातर प्रोडक्ट्स",
+   "start_time_text": "6:20",
+   "start_time_label": "6:20"
+  },
+  {
+   "start_ms": 383759,
+   "end_ms": 386240,
+   "snippet": "हैं ना वो या तो साल के 12 स्टॉक्स देते",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386240,
+   "end_ms": 388560,
+   "snippet": "हैं और जो मॉडल पोर्टफोलियो वाले हैं वो",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 388560,
+   "end_ms": 391280,
+   "snippet": "15 20 बहुत हुआ तो 25 स्टॉक्स देते हैं।",
+   "start_time_text": "6:28",
+   "start_time_label": "6:28"
+  },
+  {
+   "start_ms": 391280,
+   "end_ms": 394560,
+   "snippet": "व्हाई डिड वी एंड अप ऑन 30? हमने दुनिया",
+   "start_time_text": "6:31",
+   "start_time_label": "6:31"
+  },
+  {
+   "start_ms": 394560,
+   "end_ms": 398080,
+   "snippet": "के कुछ सबसे अक्लेम्ड साइंटिफिक रिसर्च",
+   "start_time_text": "6:34",
+   "start_time_label": "6:34"
+  },
+  {
+   "start_ms": 398080,
+   "end_ms": 401280,
+   "snippet": "पेपर्स पर रिलाई किया जो कहते हैं कि",
+   "start_time_text": "6:38",
+   "start_time_label": "6:38"
+  },
+  {
+   "start_ms": 401280,
+   "end_ms": 404639,
+   "snippet": "डायवर्सिफिकेशन का बेनिफिट इज एट इट्स पीक",
+   "start_time_text": "6:41",
+   "start_time_label": "6:41"
+  },
+  {
+   "start_ms": 404639,
+   "end_ms": 407919,
+   "snippet": "बिटवीन 25 टू 30 स्टॉक्स और उसके बाद वो",
+   "start_time_text": "6:44",
+   "start_time_label": "6:44"
+  },
+  {
+   "start_ms": 407919,
+   "end_ms": 409840,
+   "snippet": "धीरे-धीरे कम होने लगता है। तो हमने",
+   "start_time_text": "6:47",
+   "start_time_label": "6:47"
+  },
+  {
+   "start_ms": 409840,
+   "end_ms": 412319,
+   "snippet": "डिसाइड किया कि इसका अपर एंड लेते हैं 30",
+   "start_time_text": "6:49",
+   "start_time_label": "6:49"
+  },
+  {
+   "start_ms": 412319,
+   "end_ms": 415680,
+   "snippet": "स्टॉक्स और ये हम आपको डिलीवर करते हैं",
+   "start_time_text": "6:52",
+   "start_time_label": "6:52"
+  },
+  {
+   "start_ms": 415680,
+   "end_ms": 417840,
+   "snippet": "ताकि डवर्सिफिकेशन का पूरा बेनिफिट भी",
+   "start_time_text": "6:55",
+   "start_time_label": "6:55"
+  },
+  {
+   "start_ms": 417840,
+   "end_ms": 421120,
+   "snippet": "मिले और वो डिमिनिश होना शुरू ना हो। एक",
+   "start_time_text": "6:57",
+   "start_time_label": "6:57"
+  },
+  {
+   "start_ms": 421120,
+   "end_ms": 423440,
+   "snippet": "और कारण था कि हम अपर एंड की तरफ गए।",
+   "start_time_text": "7:01",
+   "start_time_label": "7:01"
+  },
+  {
+   "start_ms": 423440,
+   "end_ms": 426319,
+   "snippet": "इनफैक्ट हमने हम इसे कहते हैं फिनोलॉजी 30",
+   "start_time_text": "7:03",
+   "start_time_label": "7:03"
+  },
+  {
+   "start_ms": 426319,
+   "end_ms": 429599,
+   "snippet": "बट स्टॉक्स आपको मिल सकते हैं बिटवीन 30",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 429599,
+   "end_ms": 433120,
+   "snippet": "टू 35। 30 तो मिनिमम है। ये हम क्यों कर",
+   "start_time_text": "7:09",
+   "start_time_label": "7:09"
+  },
+  {
+   "start_ms": 433120,
+   "end_ms": 435280,
+   "snippet": "रहे हैं? हम ये लिमिट ब्रीच क्यों कर रहे",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 435280,
+   "end_ms": 438240,
+   "snippet": "हैं? क्योंकि एट एनी गिवन टाइम जब आप साल",
+   "start_time_text": "7:15",
+   "start_time_label": "7:15"
+  },
+  {
+   "start_ms": 438240,
+   "end_ms": 440639,
+   "snippet": "भर हमारे साथ जुड़े रहोगे तो वी एक्सपेक्ट",
+   "start_time_text": "7:18",
+   "start_time_label": "7:18"
+  },
+  {
+   "start_ms": 440639,
+   "end_ms": 442800,
+   "snippet": "कि कुछ स्टॉक्स आप नहीं खरीदोगे। मल्टीपल",
+   "start_time_text": "7:20",
+   "start_time_label": "7:20"
+  },
+  {
+   "start_ms": 442800,
+   "end_ms": 444479,
+   "snippet": "रीज़न हो सकते हैं। उस समय आपके पास",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 444479,
+   "end_ms": 446479,
+   "snippet": "लिक्विडिटी ना हो। उस पर्टिकुलर स्टॉक से",
+   "start_time_text": "7:24",
+   "start_time_label": "7:24"
+  },
+  {
+   "start_ms": 446479,
+   "end_ms": 448960,
+   "snippet": "आप कंफर्टेबल ना हो। कोई और रीजन भी हो",
+   "start_time_text": "7:26",
+   "start_time_label": "7:26"
+  },
+  {
+   "start_ms": 448960,
+   "end_ms": 450880,
+   "snippet": "सकता है। तो हम चाहते हैं कि आपके",
+   "start_time_text": "7:28",
+   "start_time_label": "7:28"
+  },
+  {
+   "start_ms": 450880,
+   "end_ms": 453599,
+   "snippet": "पोर्टफोलियो में कम से कम 25 स्टॉक्स हो।",
+   "start_time_text": "7:30",
+   "start_time_label": "7:30"
+  },
+  {
+   "start_ms": 453599,
+   "end_ms": 456560,
+   "snippet": "वो तब होंगे जब इस प्रोडक्ट में हम बिटवीन",
+   "start_time_text": "7:33",
+   "start_time_label": "7:33"
+  },
+  {
+   "start_ms": 456560,
+   "end_ms": 459680,
+   "snippet": "30 टू 35 स्टॉक्स डिलीवर करेंगे। मिनिमम",
+   "start_time_text": "7:36",
+   "start_time_label": "7:36"
+  },
+  {
+   "start_ms": 459680,
+   "end_ms": 462880,
+   "snippet": "30 स्टॉक्स। तो ये कारण था कि वी एंड इट",
+   "start_time_text": "7:39",
+   "start_time_label": "7:39"
+  },
+  {
+   "start_ms": 462880,
+   "end_ms": 465280,
+   "snippet": "अप ऑन दिस क्वांटिटी। तीसरा बड़ा",
+   "start_time_text": "7:42",
+   "start_time_label": "7:42"
+  },
+  {
+   "start_ms": 465280,
+   "end_ms": 467199,
+   "snippet": "प्रॉब्लम। हम ये प्रोडक्ट ला तो रहे हैं",
+   "start_time_text": "7:45",
+   "start_time_label": "7:45"
+  },
+  {
+   "start_ms": 467199,
+   "end_ms": 469280,
+   "snippet": "लेकिन इसका प्रोडक्ट मार्केट फिट कैसे",
+   "start_time_text": "7:47",
+   "start_time_label": "7:47"
+  },
+  {
+   "start_ms": 469280,
+   "end_ms": 471919,
+   "snippet": "क्रिएट करें? कैसे? इस प्रोडक्ट में इतनी",
+   "start_time_text": "7:49",
+   "start_time_label": "7:49"
+  },
+  {
+   "start_ms": 471919,
+   "end_ms": 474720,
+   "snippet": "वैल्यू जनरेट करें कि इट बिकम्स इंडियास",
+   "start_time_text": "7:51",
+   "start_time_label": "7:51"
+  },
+  {
+   "start_ms": 474720,
+   "end_ms": 478720,
+   "snippet": "नंबर वन स्टॉक रिकमेंडेशन प्रोडक्ट। हमारे",
+   "start_time_text": "7:54",
+   "start_time_label": "7:54"
+  },
+  {
+   "start_ms": 478720,
+   "end_ms": 482319,
+   "snippet": "दो मेजर कॉम्पिटिटर्स थे। वन म्यूच्यूल",
+   "start_time_text": "7:58",
+   "start_time_label": "7:58"
+  },
+  {
+   "start_ms": 482319,
+   "end_ms": 484560,
+   "snippet": "फंड्स कि इसको म्यूच्यूल फंड के अगेंस्ट",
+   "start_time_text": "8:02",
+   "start_time_label": "8:02"
+  },
+  {
+   "start_ms": 484560,
+   "end_ms": 486400,
+   "snippet": "कैसे पोजीशन करें और सिर्फ पोजीशन ना",
+   "start_time_text": "8:04",
+   "start_time_label": "8:04"
+  },
+  {
+   "start_ms": 486400,
+   "end_ms": 488639,
+   "snippet": "करें। सिर्फ मार्केटिंग ना करें उस तरह की",
+   "start_time_text": "8:06",
+   "start_time_label": "8:06"
+  },
+  {
+   "start_ms": 488639,
+   "end_ms": 491840,
+   "snippet": "वैल्यू दें और दूसरा था स्मॉल केस। और ये",
+   "start_time_text": "8:08",
+   "start_time_label": "8:08"
+  },
+  {
+   "start_ms": 491840,
+   "end_ms": 494560,
+   "snippet": "दोनों के अगेंस्ट कैसे हमने एक अल्टरनेट",
+   "start_time_text": "8:11",
+   "start_time_label": "8:11"
+  },
+  {
+   "start_ms": 494560,
+   "end_ms": 497759,
+   "snippet": "पोजीशनिंग क्रिएट की मैं वो बताता हूं। तो",
+   "start_time_text": "8:14",
+   "start_time_label": "8:14"
+  },
+  {
+   "start_ms": 497759,
+   "end_ms": 500960,
+   "snippet": "कुछ इनहेरेंट एडवांटेजेस इसको देने थे।",
+   "start_time_text": "8:17",
+   "start_time_label": "8:17"
+  },
+  {
+   "start_ms": 500960,
+   "end_ms": 503680,
+   "snippet": "जैसा पहला कि रिसर्च रिपोर्ट जो हो वो",
+   "start_time_text": "8:20",
+   "start_time_label": "8:20"
+  },
+  {
+   "start_ms": 503680,
+   "end_ms": 506000,
+   "snippet": "बहुत ही इजीली डाइजेस्टेबल हो लेकिन एट द",
+   "start_time_text": "8:23",
+   "start_time_label": "8:23"
+  },
+  {
+   "start_ms": 506000,
+   "end_ms": 508960,
+   "snippet": "सेम टाइम डिटेल्ड हो। ताकि वो",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508960,
+   "end_ms": 511120,
+   "snippet": "सब्सक्राइबर्स जो ना सिर्फ स्टॉक्स में",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 511120,
+   "end_ms": 512959,
+   "snippet": "इन्वेस्ट करना चाहते हैं बल्कि एक",
+   "start_time_text": "8:31",
+   "start_time_label": "8:31"
+  },
+  {
+   "start_ms": 512959,
+   "end_ms": 515760,
+   "snippet": "इनफॉर्म्ड डिसीजन लेना चाहते हैं तो",
+   "start_time_text": "8:32",
+   "start_time_label": "8:32"
+  },
+  {
+   "start_ms": 515760,
+   "end_ms": 518719,
+   "snippet": "उन्हें एक इजीली कंज्यूमबल रिपोर्ट मिले",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 518719,
+   "end_ms": 521039,
+   "snippet": "जिसको वो पढ़ें और फिर एक इनफॉर्म्ड",
+   "start_time_text": "8:38",
+   "start_time_label": "8:38"
+  },
+  {
+   "start_ms": 521039,
+   "end_ms": 523519,
+   "snippet": "डिसीजन ले सकें कि इस स्टॉक में उन्हें",
+   "start_time_text": "8:41",
+   "start_time_label": "8:41"
+  },
+  {
+   "start_ms": 523519,
+   "end_ms": 525839,
+   "snippet": "इन्वेस्ट करना है कि नहीं और करना है तो",
+   "start_time_text": "8:43",
+   "start_time_label": "8:43"
+  },
+  {
+   "start_ms": 525839,
+   "end_ms": 529600,
+   "snippet": "कितना करना है। तो पीपल हु लाइक टू बी इन",
+   "start_time_text": "8:45",
+   "start_time_label": "8:45"
+  },
+  {
+   "start_ms": 529600,
+   "end_ms": 533120,
+   "snippet": "कंट्रोल जो एक्टिव रहना चाहते हैं जो खुद",
+   "start_time_text": "8:49",
+   "start_time_label": "8:49"
+  },
+  {
+   "start_ms": 533120,
+   "end_ms": 535839,
+   "snippet": "ओनरशिप लेना चाहते हैं अपने फाइनेंस की",
+   "start_time_text": "8:53",
+   "start_time_label": "8:53"
+  },
+  {
+   "start_ms": 535839,
+   "end_ms": 538800,
+   "snippet": "उनके लिए दिस प्रोडक्ट इज मोर सूटेबल और",
+   "start_time_text": "8:55",
+   "start_time_label": "8:55"
+  },
+  {
+   "start_ms": 538800,
+   "end_ms": 541600,
+   "snippet": "दूसरा बड़ा एडवांटेज म्यूच्यूल फंड्स में",
+   "start_time_text": "8:58",
+   "start_time_label": "8:58"
+  },
+  {
+   "start_ms": 541600,
+   "end_ms": 543760,
+   "snippet": "क्या होता है इट्स वेरी वेरीरी चीप जब आप",
+   "start_time_text": "9:01",
+   "start_time_label": "9:01"
+  },
+  {
+   "start_ms": 543760,
+   "end_ms": 545839,
+   "snippet": "कुछ000 महीना इन्वेस्ट कर रहे हो क्योंकि",
+   "start_time_text": "9:03",
+   "start_time_label": "9:03"
+  },
+  {
+   "start_ms": 545839,
+   "end_ms": 548800,
+   "snippet": "उसका 1% या उससे कम आपको चार्जेस देने",
+   "start_time_text": "9:05",
+   "start_time_label": "9:05"
+  },
+  {
+   "start_ms": 548800,
+   "end_ms": 551200,
+   "snippet": "हैं। लेकिन मान लो आपका कॉर्पस बढ़ गया",
+   "start_time_text": "9:08",
+   "start_time_label": "9:08"
+  },
+  {
+   "start_ms": 551200,
+   "end_ms": 554959,
+   "snippet": "है। ₹ लाख, 25 लाख, 30 लाख हर साल आपने",
+   "start_time_text": "9:11",
+   "start_time_label": "9:11"
+  },
+  {
+   "start_ms": 554959,
+   "end_ms": 559120,
+   "snippet": "5-5 लाख डाले और अब 4 साल में वो 2025 लाख",
+   "start_time_text": "9:14",
+   "start_time_label": "9:14"
+  },
+  {
+   "start_ms": 559120,
+   "end_ms": 562800,
+   "snippet": "हो गए हैं बढ़ के। तो अभी भी आप 1% पर ईयर",
+   "start_time_text": "9:19",
+   "start_time_label": "9:19"
+  },
+  {
+   "start_ms": 562800,
+   "end_ms": 565440,
+   "snippet": "दे रहे हो यानी ₹25,000 अब आप दे रहे हो",
+   "start_time_text": "9:22",
+   "start_time_label": "9:22"
+  },
+  {
+   "start_ms": 565440,
+   "end_ms": 568160,
+   "snippet": "और कुछ सालों में वो बढ़ के ₹ लाख हो गया।",
+   "start_time_text": "9:25",
+   "start_time_label": "9:25"
+  },
+  {
+   "start_ms": 568160,
+   "end_ms": 570720,
+   "snippet": "अब आप साल का ₹00 म्यूच्यूल फंड्स को दे",
+   "start_time_text": "9:28",
+   "start_time_label": "9:28"
+  },
+  {
+   "start_ms": 570720,
+   "end_ms": 573440,
+   "snippet": "रहे हो। तो एट स्केल म्यूच्यूल फंड्स",
+   "start_time_text": "9:30",
+   "start_time_label": "9:30"
+  },
+  {
+   "start_ms": 573440,
+   "end_ms": 576160,
+   "snippet": "क्विकली बिकम वेरी एक्सपेंसिव।",
+   "start_time_text": "9:33",
+   "start_time_label": "9:33"
+  },
+  {
+   "start_ms": 576160,
+   "end_ms": 579120,
+   "snippet": "उसका अल्टरनेट हमें फिनोलॉजी 30 को करना",
+   "start_time_text": "9:36",
+   "start_time_label": "9:36"
+  },
+  {
+   "start_ms": 579120,
+   "end_ms": 581839,
+   "snippet": "था कि आप स्टार्ट भले ही स्माल करो और",
+   "start_time_text": "9:39",
+   "start_time_label": "9:39"
+  },
+  {
+   "start_ms": 581839,
+   "end_ms": 584320,
+   "snippet": "पहले साल आपको फीस हो सकता है म्यूच्यूल",
+   "start_time_text": "9:41",
+   "start_time_label": "9:41"
+  },
+  {
+   "start_ms": 584320,
+   "end_ms": 586720,
+   "snippet": "फंड्स के मुकाबले बराबर या ज्यादा लगे",
+   "start_time_text": "9:44",
+   "start_time_label": "9:44"
+  },
+  {
+   "start_ms": 586720,
+   "end_ms": 590399,
+   "snippet": "लेकिन द फीस डज़ नॉट स्केल विद योर इनक्रीस",
+   "start_time_text": "9:46",
+   "start_time_label": "9:46"
+  },
+  {
+   "start_ms": 590399,
+   "end_ms": 593279,
+   "snippet": "इन इन्वेस्टमेंट ए्री ईयर इस साल मान लेते",
+   "start_time_text": "9:50",
+   "start_time_label": "9:50"
+  },
+  {
+   "start_ms": 593279,
+   "end_ms": 597200,
+   "snippet": "हैं आपने ₹ लाख डाले म्यूच्यूल फंड में आप",
+   "start_time_text": "9:53",
+   "start_time_label": "9:53"
+  },
+  {
+   "start_ms": 597200,
+   "end_ms": 601120,
+   "snippet": "फीस दोगे 5000 फिनोलॉजी 30 में आप फीस",
+   "start_time_text": "9:57",
+   "start_time_label": "9:57"
+  },
+  {
+   "start_ms": 601120,
+   "end_ms": 604800,
+   "snippet": "दोगे ₹1000 पहले साल इट फील्स कि फीस काफी",
+   "start_time_text": "10:01",
+   "start_time_label": "10:01"
+  },
+  {
+   "start_ms": 604800,
+   "end_ms": 608720,
+   "snippet": "ज्यादा अगले साल आपने ₹5 लाख और डाले। नाउ",
+   "start_time_text": "10:04",
+   "start_time_label": "10:04"
+  },
+  {
+   "start_ms": 608720,
+   "end_ms": 613440,
+   "snippet": "फिनोलॉजी 30 रिन्यूस एट ₹5,000 ऑफ यानी",
+   "start_time_text": "10:08",
+   "start_time_label": "10:08"
+  },
+  {
+   "start_ms": 613440,
+   "end_ms": 616399,
+   "snippet": "₹7,000 का रिन्यूल हुआ। म्यूच्यूल फंड्स",
+   "start_time_text": "10:13",
+   "start_time_label": "10:13"
+  },
+  {
+   "start_ms": 616399,
+   "end_ms": 618720,
+   "snippet": "में भी आपने 5 लाख और डाले। तो ईयर टू में",
+   "start_time_text": "10:16",
+   "start_time_label": "10:16"
+  },
+  {
+   "start_ms": 618720,
+   "end_ms": 620959,
+   "snippet": "आप म्यूच्यूल फंड्स में फीस दे रहे हो",
+   "start_time_text": "10:18",
+   "start_time_label": "10:18"
+  },
+  {
+   "start_ms": 620959,
+   "end_ms": 624320,
+   "snippet": "₹1,000। ईयर टू में आप फिनोलॉजी 30 में",
+   "start_time_text": "10:20",
+   "start_time_label": "10:20"
+  },
+  {
+   "start_ms": 624320,
+   "end_ms": 627519,
+   "snippet": "फीस दे रहे हो 7,000। सेकंड ईयर से एट ₹5",
+   "start_time_text": "10:24",
+   "start_time_label": "10:24"
+  },
+  {
+   "start_ms": 627519,
+   "end_ms": 631120,
+   "snippet": "लाख एनी ईयर का इन्वेस्टमेंट फिनोलॉजी 30",
+   "start_time_text": "10:27",
+   "start_time_label": "10:27"
+  },
+  {
+   "start_ms": 631120,
+   "end_ms": 633440,
+   "snippet": "स्टार्ट्स टू फील चीपर। थर्ड ईयर क्या",
+   "start_time_text": "10:31",
+   "start_time_label": "10:31"
+  },
+  {
+   "start_ms": 633440,
+   "end_ms": 635519,
+   "snippet": "होगा? आपने 5 लाख और डाले। म्यूच्यूल फंड",
+   "start_time_text": "10:33",
+   "start_time_label": "10:33"
+  },
+  {
+   "start_ms": 635519,
+   "end_ms": 638800,
+   "snippet": "में आपने फीस दे दी 15,000। फिनोलॉजी 30",
+   "start_time_text": "10:35",
+   "start_time_label": "10:35"
+  },
+  {
+   "start_ms": 638800,
+   "end_ms": 641839,
+   "snippet": "में आप अभी भी फीस दे रहे हो 7,000। अब",
+   "start_time_text": "10:38",
+   "start_time_label": "10:38"
+  },
+  {
+   "start_ms": 641839,
+   "end_ms": 645920,
+   "snippet": "फिनोलॉजी 30 इज चीपर बाय 50% और ये गैप हर",
+   "start_time_text": "10:41",
+   "start_time_label": "10:41"
+  },
+  {
+   "start_ms": 645920,
+   "end_ms": 649519,
+   "snippet": "साल बढ़ता ही चला जाएगा। तो वी वांटेड अ",
+   "start_time_text": "10:45",
+   "start_time_label": "10:45"
+  },
+  {
+   "start_ms": 649519,
+   "end_ms": 652079,
+   "snippet": "प्रोडक्ट जिसमें हम आपको म्यूच्यूल फंड से",
+   "start_time_text": "10:49",
+   "start_time_label": "10:49"
+  },
+  {
+   "start_ms": 652079,
+   "end_ms": 654640,
+   "snippet": "ज्यादा वैल्यू डिलीवर कर सकें इन द लॉन्ग",
+   "start_time_text": "10:52",
+   "start_time_label": "10:52"
+  },
+  {
+   "start_ms": 654640,
+   "end_ms": 658000,
+   "snippet": "रन। इसलिए रिन्यूल हैड टू बी चीपर। इसके",
+   "start_time_text": "10:54",
+   "start_time_label": "10:54"
+  },
+  {
+   "start_ms": 658000,
+   "end_ms": 660560,
+   "snippet": "बाद एक सवाल आता है कि लोग रिन्यू क्यों",
+   "start_time_text": "10:58",
+   "start_time_label": "10:58"
+  },
+  {
+   "start_ms": 660560,
+   "end_ms": 664240,
+   "snippet": "करेंगे? जिस कारण ज्यादातर जो इस तरह की",
+   "start_time_text": "11:00",
+   "start_time_label": "11:00"
+  },
+  {
+   "start_ms": 664240,
+   "end_ms": 666079,
+   "snippet": "कंपनीज़ प्रोडक्ट ऑफर करती हैं उसको वन",
+   "start_time_text": "11:04",
+   "start_time_label": "11:04"
+  },
+  {
+   "start_ms": 666079,
+   "end_ms": 668399,
+   "snippet": "स्टॉक अ मंथ करती है कि आप रिन्यू इसलिए",
+   "start_time_text": "11:06",
+   "start_time_label": "11:06"
+  },
+  {
+   "start_ms": 668399,
+   "end_ms": 670240,
+   "snippet": "करो कि अगले साल आपको 12 नए स्टॉक",
+   "start_time_text": "11:08",
+   "start_time_label": "11:08"
+  },
+  {
+   "start_ms": 670240,
+   "end_ms": 672560,
+   "snippet": "मिलेंगे। तो स्टॉक्स का बुफे क्रिएट कर दो",
+   "start_time_text": "11:10",
+   "start_time_label": "11:10"
+  },
+  {
+   "start_ms": 672560,
+   "end_ms": 676079,
+   "snippet": "ताकि लोग रिन्यू करते रह। वी थॉट ये",
+   "start_time_text": "11:12",
+   "start_time_label": "11:12"
+  },
+  {
+   "start_ms": 676079,
+   "end_ms": 677920,
+   "snippet": "प्रॉब्लम को फ्लिप करते हैं। लोग रिन्यू",
+   "start_time_text": "11:16",
+   "start_time_label": "11:16"
+  },
+  {
+   "start_ms": 677920,
+   "end_ms": 680880,
+   "snippet": "इसलिए नहीं करते कि अगले साल उन्हें उतना",
+   "start_time_text": "11:17",
+   "start_time_label": "11:17"
+  },
+  {
+   "start_ms": 680880,
+   "end_ms": 683839,
+   "snippet": "ही पैसा देना वैलिड नहीं लगता। तो लेट्स",
+   "start_time_text": "11:20",
+   "start_time_label": "11:20"
+  },
+  {
+   "start_ms": 683839,
+   "end_ms": 686000,
+   "snippet": "डीप डिस्काउंट द प्रोडक्ट। लेकिन अगले साल",
+   "start_time_text": "11:23",
+   "start_time_label": "11:23"
+  },
+  {
+   "start_ms": 686000,
+   "end_ms": 688399,
+   "snippet": "द प्रोडक्ट बिकम्स मोरेंट बिकॉज़ यू हैव",
+   "start_time_text": "11:26",
+   "start_time_label": "11:26"
+  },
+  {
+   "start_ms": 688399,
+   "end_ms": 690560,
+   "snippet": "इन्वेस्टेड ऑन आवर रिकमेंडेशंस। तो नाउ यू",
+   "start_time_text": "11:28",
+   "start_time_label": "11:28"
+  },
+  {
+   "start_ms": 690560,
+   "end_ms": 692560,
+   "snippet": "हैव स्किन इन द गेम। आपका पैसा फंसा हुआ",
+   "start_time_text": "11:30",
+   "start_time_label": "11:30"
+  },
+  {
+   "start_ms": 692560,
+   "end_ms": 695200,
+   "snippet": "है। तो अगर मैं प्रोडक्ट को अफोर्डेबल",
+   "start_time_text": "11:32",
+   "start_time_label": "11:32"
+  },
+  {
+   "start_ms": 695200,
+   "end_ms": 697760,
+   "snippet": "नहीं बनाऊंगा एंड पीपल डोंट कंटिन्यू तो",
+   "start_time_text": "11:35",
+   "start_time_label": "11:35"
+  },
+  {
+   "start_ms": 697760,
+   "end_ms": 700160,
+   "snippet": "उनका इन्वेस्टमेंट पे जो उनको कंटीन्यूअस",
+   "start_time_text": "11:37",
+   "start_time_label": "11:37"
+  },
+  {
+   "start_ms": 700160,
+   "end_ms": 702160,
+   "snippet": "गाइडेंस चाहिए वो नहीं मिलेगा। तो सेकंड",
+   "start_time_text": "11:40",
+   "start_time_label": "11:40"
+  },
+  {
+   "start_ms": 702160,
+   "end_ms": 704880,
+   "snippet": "ईयर द प्रोडक्ट बिकम्स मोरेंट। जिसका मुझे",
+   "start_time_text": "11:42",
+   "start_time_label": "11:42"
+  },
+  {
+   "start_ms": 704880,
+   "end_ms": 706720,
+   "snippet": "फायदा नहीं उठाना है। मुझे प्राइस बढ़ा",
+   "start_time_text": "11:44",
+   "start_time_label": "11:44"
+  },
+  {
+   "start_ms": 706720,
+   "end_ms": 709680,
+   "snippet": "नहीं देना है कि पहला साल फ्री, अगले साल",
+   "start_time_text": "11:46",
+   "start_time_label": "11:46"
+  },
+  {
+   "start_ms": 709680,
+   "end_ms": 712079,
+   "snippet": "डबल द कॉस्ट। ये नहीं करना है। उल्टा करना",
+   "start_time_text": "11:49",
+   "start_time_label": "11:49"
+  },
+  {
+   "start_ms": 712079,
+   "end_ms": 713920,
+   "snippet": "है। बिकॉज़ इट्स अ लॉन्ग टर्म प्रोडक्ट।",
+   "start_time_text": "11:52",
+   "start_time_label": "11:52"
+  },
+  {
+   "start_ms": 713920,
+   "end_ms": 716399,
+   "snippet": "लोग हमारे साथ चार पांच अच्छा रहा तो 10",
+   "start_time_text": "11:53",
+   "start_time_label": "11:53"
+  },
+  {
+   "start_ms": 716399,
+   "end_ms": 719040,
+   "snippet": "साल रहेंगे। तो मुझे लाइफटाइम वैल्यू",
+   "start_time_text": "11:56",
+   "start_time_label": "11:56"
+  },
+  {
+   "start_ms": 719040,
+   "end_ms": 721680,
+   "snippet": "क्रिएट करनी है। अप फ्रंट ज्यादा स्क्वीज़",
+   "start_time_text": "11:59",
+   "start_time_label": "11:59"
+  },
+  {
+   "start_ms": 721680,
+   "end_ms": 724720,
+   "snippet": "कर लेना है। ऐसा नहीं करना है। दूसरी बात",
+   "start_time_text": "12:01",
+   "start_time_label": "12:01"
+  },
+  {
+   "start_ms": 724720,
+   "end_ms": 726560,
+   "snippet": "हम एक्सपेक्ट करते हैं कि फिनोलॉजी में",
+   "start_time_text": "12:04",
+   "start_time_label": "12:04"
+  },
+  {
+   "start_ms": 726560,
+   "end_ms": 729519,
+   "snippet": "20% चर्न पर ईयर रहेगा। यानी अगर 30",
+   "start_time_text": "12:06",
+   "start_time_label": "12:06"
+  },
+  {
+   "start_ms": 729519,
+   "end_ms": 732320,
+   "snippet": "स्टॉक्स हैं तो पांच छह स्टॉक्स में से हम",
+   "start_time_text": "12:09",
+   "start_time_label": "12:09"
+  },
+  {
+   "start_ms": 732320,
+   "end_ms": 735839,
+   "snippet": "एग्जिट होंगे ऑन एनी गिवन ईयर ऑन एन एवरेज",
+   "start_time_text": "12:12",
+   "start_time_label": "12:12"
+  },
+  {
+   "start_ms": 735839,
+   "end_ms": 738560,
+   "snippet": "और उसके बदले पांच छह नए स्टॉक्स आएंगे।",
+   "start_time_text": "12:15",
+   "start_time_label": "12:15"
+  },
+  {
+   "start_ms": 738560,
+   "end_ms": 742160,
+   "snippet": "तो वी बिलीव दैट्स इनफ वैल्यू एडिशन कि आप",
+   "start_time_text": "12:18",
+   "start_time_label": "12:18"
+  },
+  {
+   "start_ms": 742160,
+   "end_ms": 745279,
+   "snippet": "एट अ डीप डिस्काउंटेड प्राइस कंटिन्यू कर",
+   "start_time_text": "12:22",
+   "start_time_label": "12:22"
+  },
+  {
+   "start_ms": 745279,
+   "end_ms": 747680,
+   "snippet": "सकें। तो दोनों के इंटरेस्ट मैच होते हैं।",
+   "start_time_text": "12:25",
+   "start_time_label": "12:25"
+  },
+  {
+   "start_ms": 747680,
+   "end_ms": 750240,
+   "snippet": "इट्स अ विनविन। आपके लिए द प्रोडक्ट इज मच",
+   "start_time_text": "12:27",
+   "start_time_label": "12:27"
+  },
+  {
+   "start_ms": 750240,
+   "end_ms": 752800,
+   "snippet": "चीपर इफ यू चूज़ टू कंटिन्यू इन्वेस्टिंग।",
+   "start_time_text": "12:30",
+   "start_time_label": "12:30"
+  },
+  {
+   "start_ms": 752800,
+   "end_ms": 756000,
+   "snippet": "हमारे लिए वी गेन मोर लाइफटाइम वैल्यू आउट",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 756000,
+   "end_ms": 758959,
+   "snippet": "ऑफ इट। एंड इट्स अ विनविन बिकॉज़ वी कैन",
+   "start_time_text": "12:36",
+   "start_time_label": "12:36"
+  },
+  {
+   "start_ms": 758959,
+   "end_ms": 761360,
+   "snippet": "डिलीवर यू कॉन्सेंट हैंड होल्डिंग। और जो",
+   "start_time_text": "12:38",
+   "start_time_label": "12:38"
+  },
+  {
+   "start_ms": 761360,
+   "end_ms": 763040,
+   "snippet": "भी नए स्टॉक्स आ रहे हैं और पुराने",
+   "start_time_text": "12:41",
+   "start_time_label": "12:41"
+  },
+  {
+   "start_ms": 763040,
+   "end_ms": 764880,
+   "snippet": "स्टॉक्स में से एग्जिट हो रहा है उसका",
+   "start_time_text": "12:43",
+   "start_time_label": "12:43"
+  },
+  {
+   "start_ms": 764880,
+   "end_ms": 767600,
+   "snippet": "एक्सेस आपको मिल रहा है। तो आई थिंक वी",
+   "start_time_text": "12:44",
+   "start_time_label": "12:44"
+  },
+  {
+   "start_ms": 767600,
+   "end_ms": 770000,
+   "snippet": "केम अप कि हां ये एक परफेक्ट बैलेंस",
+   "start_time_text": "12:47",
+   "start_time_label": "12:47"
+  },
+  {
+   "start_ms": 770000,
+   "end_ms": 773120,
+   "snippet": "रहेगा। अगला सवाल था कि क्या मल्टीपल",
+   "start_time_text": "12:50",
+   "start_time_label": "12:50"
+  },
+  {
+   "start_ms": 773120,
+   "end_ms": 776240,
+   "snippet": "प्रोडक्ट्स लेके आए? जैसे एक अलग बास्केट",
+   "start_time_text": "12:53",
+   "start_time_label": "12:53"
+  },
+  {
+   "start_ms": 776240,
+   "end_ms": 778800,
+   "snippet": "स्माल कैप्स का, एक अलग बास्केट मिड कैप",
+   "start_time_text": "12:56",
+   "start_time_label": "12:56"
+  },
+  {
+   "start_ms": 778800,
+   "end_ms": 780800,
+   "snippet": "का, एक लार्ज कैप का और फिर एक फ्लेक्सी",
+   "start_time_text": "12:58",
+   "start_time_label": "12:58"
+  },
+  {
+   "start_ms": 780800,
+   "end_ms": 782880,
+   "snippet": "कैप का। ऐसे तीन-चार प्रोडक्ट्स ले आए।",
+   "start_time_text": "13:00",
+   "start_time_label": "13:00"
+  },
+  {
+   "start_ms": 782880,
+   "end_ms": 785839,
+   "snippet": "एंड बी डिसाइडेड नहीं ऐसा नहीं करते।",
+   "start_time_text": "13:02",
+   "start_time_label": "13:02"
+  },
+  {
+   "start_ms": 785839,
+   "end_ms": 788639,
+   "snippet": "लेट्स जस्ट फोकस ऑन कि हमें इंडिया के",
+   "start_time_text": "13:05",
+   "start_time_label": "13:05"
+  },
+  {
+   "start_ms": 788639,
+   "end_ms": 791600,
+   "snippet": "बेस्ट 30 स्टॉक्स पिक करने हैं। खुद पे",
+   "start_time_text": "13:08",
+   "start_time_label": "13:08"
+  },
+  {
+   "start_ms": 791600,
+   "end_ms": 793200,
+   "snippet": "रिस्ट्रिक्शन नहीं लगाते। क्योंकि जब मैं",
+   "start_time_text": "13:11",
+   "start_time_label": "13:11"
+  },
+  {
+   "start_ms": 793200,
+   "end_ms": 794720,
+   "snippet": "म्यूच्यूल फंड्स की भी बात करता हूं तो",
+   "start_time_text": "13:13",
+   "start_time_label": "13:13"
+  },
+  {
+   "start_ms": 794720,
+   "end_ms": 796720,
+   "snippet": "मैं कहता हूं कि मुझे फ्लेक्सी कैप फंड्स",
+   "start_time_text": "13:14",
+   "start_time_label": "13:14"
+  },
+  {
+   "start_ms": 796720,
+   "end_ms": 798399,
+   "snippet": "सबसे ज्यादा पसंद है। क्योंकि उसमें फंड",
+   "start_time_text": "13:16",
+   "start_time_label": "13:16"
+  },
+  {
+   "start_ms": 798399,
+   "end_ms": 800720,
+   "snippet": "मैनेजर के पास वो फ्रीडम है कि वो चाहे तो",
+   "start_time_text": "13:18",
+   "start_time_label": "13:18"
+  },
+  {
+   "start_ms": 800720,
+   "end_ms": 802959,
+   "snippet": "स्माल कैप्स ले। वो चाहे तो मिड कैप वो",
+   "start_time_text": "13:20",
+   "start_time_label": "13:20"
+  },
+  {
+   "start_ms": 802959,
+   "end_ms": 805920,
+   "snippet": "चाहे तो लार्ज कैप ले। वो फ्लेक्सिबिलिटी",
+   "start_time_text": "13:22",
+   "start_time_label": "13:22"
+  },
+  {
+   "start_ms": 805920,
+   "end_ms": 808560,
+   "snippet": "मैं खुद के पास से क्यों जाने दूं? मैं",
+   "start_time_text": "13:25",
+   "start_time_label": "13:25"
+  },
+  {
+   "start_ms": 808560,
+   "end_ms": 811040,
+   "snippet": "अपनी कंपनी में इतने नैरो मैंडेट्स क्यों",
+   "start_time_text": "13:28",
+   "start_time_label": "13:28"
+  },
+  {
+   "start_ms": 811040,
+   "end_ms": 813760,
+   "snippet": "क्रिएट करूं? लेट्स जस्ट फोकस ऑन गिविंग",
+   "start_time_text": "13:31",
+   "start_time_label": "13:31"
+  },
+  {
+   "start_ms": 813760,
+   "end_ms": 816000,
+   "snippet": "आवर सब्सक्राइबर्स व्हाट वी बिलीव कि वो",
+   "start_time_text": "13:33",
+   "start_time_label": "13:33"
+  },
+  {
+   "start_ms": 816000,
+   "end_ms": 819760,
+   "snippet": "30 बेस्ट स्टॉक्स हैं। ना कि एक बार उनको",
+   "start_time_text": "13:36",
+   "start_time_label": "13:36"
+  },
+  {
+   "start_ms": 819760,
+   "end_ms": 821440,
+   "snippet": "स्माल कैप प्रोडक्ट भी बेच दो। फिर मिड",
+   "start_time_text": "13:39",
+   "start_time_label": "13:39"
+  },
+  {
+   "start_ms": 821440,
+   "end_ms": 823360,
+   "snippet": "कैप भी बेच दो, फिर लार्ज कैप भी बेच दो।",
+   "start_time_text": "13:41",
+   "start_time_label": "13:41"
+  },
+  {
+   "start_ms": 823360,
+   "end_ms": 825920,
+   "snippet": "एक ही कस्टमर से ट्रिपल कर लो। अपना वॉलेट",
+   "start_time_text": "13:43",
+   "start_time_label": "13:43"
+  },
+  {
+   "start_ms": 825920,
+   "end_ms": 828399,
+   "snippet": "शेयर, रेवेन्यू बढ़ा लो। ये सब नहीं करना",
+   "start_time_text": "13:45",
+   "start_time_label": "13:45"
+  },
+  {
+   "start_ms": 828399,
+   "end_ms": 831360,
+   "snippet": "है। वी वुड मच प्रेफर कि आप हमसे एक साल",
+   "start_time_text": "13:48",
+   "start_time_label": "13:48"
+  },
+  {
+   "start_ms": 831360,
+   "end_ms": 833519,
+   "snippet": "में तीन प्रोडक्ट ना लो। एक ही प्रोडक्ट",
+   "start_time_text": "13:51",
+   "start_time_label": "13:51"
+  },
+  {
+   "start_ms": 833519,
+   "end_ms": 835680,
+   "snippet": "में आप हमारे साथ तीन साल रहो। बिकॉज़ आपको",
+   "start_time_text": "13:53",
+   "start_time_label": "13:53"
+  },
+  {
+   "start_ms": 835680,
+   "end_ms": 837920,
+   "snippet": "वैल्यू मिल रही है। तो इस अप्रोच के कारण",
+   "start_time_text": "13:55",
+   "start_time_label": "13:55"
+  },
+  {
+   "start_ms": 837920,
+   "end_ms": 841120,
+   "snippet": "वी वेंट विद वन सिंगल प्रोडक्ट एंड नॉट",
+   "start_time_text": "13:57",
+   "start_time_label": "13:57"
+  },
+  {
+   "start_ms": 841120,
+   "end_ms": 843360,
+   "snippet": "मल्टीपल प्रोडक्ट्स। एंड वी फाउंड कि",
+   "start_time_text": "14:01",
+   "start_time_label": "14:01"
+  },
+  {
+   "start_ms": 843360,
+   "end_ms": 845360,
+   "snippet": "नेचुरली इस प्रोडक्ट में एक परफेक्ट",
+   "start_time_text": "14:03",
+   "start_time_label": "14:03"
+  },
+  {
+   "start_ms": 845360,
+   "end_ms": 847519,
+   "snippet": "फ्लेक्सी कैप अप्रोच आ रहा है। थोड़ा बहुत",
+   "start_time_text": "14:05",
+   "start_time_label": "14:05"
+  },
+  {
+   "start_ms": 847519,
+   "end_ms": 850480,
+   "snippet": "कम ज्यादा होता है। लेकिन ऑन एन एवरेज 1/3",
+   "start_time_text": "14:07",
+   "start_time_label": "14:07"
+  },
+  {
+   "start_ms": 850480,
+   "end_ms": 853440,
+   "snippet": "स्टक्स आर स्माल कैप, 1/3 आर मिड कैप एंड",
+   "start_time_text": "14:10",
+   "start_time_label": "14:10"
+  },
+  {
+   "start_ms": 853440,
+   "end_ms": 856959,
+   "snippet": "1/3 आर लार्ज कैप। बाय एंड लार्ज यह",
+   "start_time_text": "14:13",
+   "start_time_label": "14:13"
+  },
+  {
+   "start_ms": 856959,
+   "end_ms": 859279,
+   "snippet": "प्रोपोर्शन है। एंड वी एक्सपेक्ट कि ऐसा",
+   "start_time_text": "14:16",
+   "start_time_label": "14:16"
+  },
+  {
+   "start_ms": 859279,
+   "end_ms": 861360,
+   "snippet": "ही रहेगा। अब हमारा स्टॉक पिकिंग",
+   "start_time_text": "14:19",
+   "start_time_label": "14:19"
+  },
+  {
+   "start_ms": 861360,
+   "end_ms": 863519,
+   "snippet": "फ्रेमवर्क क्या है? क्या हमारी फिलॉसफी",
+   "start_time_text": "14:21",
+   "start_time_label": "14:21"
+  },
+  {
+   "start_ms": 863519,
+   "end_ms": 866240,
+   "snippet": "है? उससे एलाइनमेंट बहुत जरूरी है। लेट मी",
+   "start_time_text": "14:23",
+   "start_time_label": "14:23"
+  },
+  {
+   "start_ms": 866240,
+   "end_ms": 868880,
+   "snippet": "डिस्कस दैट। देखो जैसा मैंने कहा इट्स अ",
+   "start_time_text": "14:26",
+   "start_time_label": "14:26"
+  },
+  {
+   "start_ms": 868880,
+   "end_ms": 870959,
+   "snippet": "फ्लेक्सी कैप अप्रोच। हम ये नहीं देख रहे",
+   "start_time_text": "14:28",
+   "start_time_label": "14:28"
+  },
+  {
+   "start_ms": 870959,
+   "end_ms": 874000,
+   "snippet": "हैं कि वो कंपनी छोटी है, बड़ी है या मिड",
+   "start_time_text": "14:30",
+   "start_time_label": "14:30"
+  },
+  {
+   "start_ms": 874000,
+   "end_ms": 876399,
+   "snippet": "कैप है। हम ये देख रहे हैं कि वो अपनी",
+   "start_time_text": "14:34",
+   "start_time_label": "14:34"
+  },
+  {
+   "start_ms": 876399,
+   "end_ms": 878160,
+   "snippet": "इंडस्ट्री में इंडस्ट्री लीडर है। क्योंकि",
+   "start_time_text": "14:36",
+   "start_time_label": "14:36"
+  },
+  {
+   "start_ms": 878160,
+   "end_ms": 880000,
+   "snippet": "कई इंडस्ट्री क्या होती है? होती ही 500",
+   "start_time_text": "14:38",
+   "start_time_label": "14:38"
+  },
+  {
+   "start_ms": 880000,
+   "end_ms": 881920,
+   "snippet": "करोड़ की है। 1000 करोड़ की इंडस्ट्री",
+   "start_time_text": "14:40",
+   "start_time_label": "14:40"
+  },
+  {
+   "start_ms": 881920,
+   "end_ms": 883440,
+   "snippet": "होती है। साल भर में उतना ही माल बिकता",
+   "start_time_text": "14:41",
+   "start_time_label": "14:41"
+  },
+  {
+   "start_ms": 883440,
+   "end_ms": 885040,
+   "snippet": "है। उससे ज्यादा बिकता ही नहीं है। लेकिन",
+   "start_time_text": "14:43",
+   "start_time_label": "14:43"
+  },
+  {
+   "start_ms": 885040,
+   "end_ms": 887519,
+   "snippet": "क्या वो छोटी इंडस्ट्री में नंबर वन या",
+   "start_time_text": "14:45",
+   "start_time_label": "14:45"
+  },
+  {
+   "start_ms": 887519,
+   "end_ms": 890240,
+   "snippet": "चलो बहुत हुआ तो नंबर टू प्लेयर है। इवन",
+   "start_time_text": "14:47",
+   "start_time_label": "14:47"
+  },
+  {
+   "start_ms": 890240,
+   "end_ms": 893519,
+   "snippet": "इफ द पोंड इज स्मॉल वी वांट अ फिश जो उस",
+   "start_time_text": "14:50",
+   "start_time_label": "14:50"
+  },
+  {
+   "start_ms": 893519,
+   "end_ms": 896399,
+   "snippet": "पोंड को रूल कर सके या एटलीस्ट रूलर को",
+   "start_time_text": "14:53",
+   "start_time_label": "14:53"
+  },
+  {
+   "start_ms": 896399,
+   "end_ms": 899600,
+   "snippet": "चैलेंज तो कर सके। तो वो अपनी इंडस्ट्री",
+   "start_time_text": "14:56",
+   "start_time_label": "14:56"
+  },
+  {
+   "start_ms": 899600,
+   "end_ms": 901360,
+   "snippet": "में नंबर वन या नंबर टू प्लेयर होना",
+   "start_time_text": "14:59",
+   "start_time_label": "14:59"
+  },
+  {
+   "start_ms": 901360,
+   "end_ms": 903920,
+   "snippet": "चाहिए। और वो उस पोजीशन में बहुत ज्यादा",
+   "start_time_text": "15:01",
+   "start_time_label": "15:01"
+  },
+  {
+   "start_ms": 903920,
+   "end_ms": 906160,
+   "snippet": "बैलेंस शीट को लेवरेज करके ना पहुंचा हो।",
+   "start_time_text": "15:03",
+   "start_time_label": "15:03"
+  },
+  {
+   "start_ms": 906160,
+   "end_ms": 909600,
+   "snippet": "यानी फाइनशियली हेल्दी हो अभी। बिकॉज़ आज",
+   "start_time_text": "15:06",
+   "start_time_label": "15:06"
+  },
+  {
+   "start_ms": 909600,
+   "end_ms": 912880,
+   "snippet": "का राजा राजा नहीं बचेगा अगर वो बहुत बूढ़ा",
+   "start_time_text": "15:09",
+   "start_time_label": "15:09"
+  },
+  {
+   "start_ms": 912880,
+   "end_ms": 915519,
+   "snippet": "और कमजोर हो चुका रहेगा। तो वी वांट एन",
+   "start_time_text": "15:12",
+   "start_time_label": "15:12"
+  },
+  {
+   "start_ms": 915519,
+   "end_ms": 918560,
+   "snippet": "इंडस्ट्री लीडर दैट्स आल्सो हेल्दी जिस पे",
+   "start_time_text": "15:15",
+   "start_time_label": "15:15"
+  },
+  {
+   "start_ms": 918560,
+   "end_ms": 921120,
+   "snippet": "डेप्ट ना हो। तो वी अवॉयड डेप्ट। वी अवॉयड",
+   "start_time_text": "15:18",
+   "start_time_label": "15:18"
+  },
+  {
+   "start_ms": 921120,
+   "end_ms": 923600,
+   "snippet": "ऑल कंपनीज़ जो अभी-अभी आईपीओ लेके आई हैं।",
+   "start_time_text": "15:21",
+   "start_time_label": "15:21"
+  },
+  {
+   "start_ms": 923600,
+   "end_ms": 926160,
+   "snippet": "आई थिंक कई बार मार्केट उनका रियल प्राइस",
+   "start_time_text": "15:23",
+   "start_time_label": "15:23"
+  },
+  {
+   "start_ms": 926160,
+   "end_ms": 928000,
+   "snippet": "डिस्कवर करने में टाइम लगाता है और हमको",
+   "start_time_text": "15:26",
+   "start_time_label": "15:26"
+  },
+  {
+   "start_ms": 928000,
+   "end_ms": 929920,
+   "snippet": "हाइप हाइप में इन्वेस्ट नहीं करना है। वी",
+   "start_time_text": "15:28",
+   "start_time_label": "15:28"
+  },
+  {
+   "start_ms": 929920,
+   "end_ms": 933279,
+   "snippet": "अवॉयड पीएसयूस। हां रिसेंटली कुछ पीएसयूस",
+   "start_time_text": "15:29",
+   "start_time_label": "15:29"
+  },
+  {
+   "start_ms": 933279,
+   "end_ms": 935120,
+   "snippet": "ने अच्छा किया है। लेकिन ओवर द लॉन्ग रन",
+   "start_time_text": "15:33",
+   "start_time_label": "15:33"
+  },
+  {
+   "start_ms": 935120,
+   "end_ms": 938000,
+   "snippet": "अगर मैं दो कैटेगरीज बना दूं कि पिछले 40",
+   "start_time_text": "15:35",
+   "start_time_label": "15:35"
+  },
+  {
+   "start_ms": 938000,
+   "end_ms": 940639,
+   "snippet": "सालों में ये पब्लिक सेक्टर कंपनीज़ थी और",
+   "start_time_text": "15:38",
+   "start_time_label": "15:38"
+  },
+  {
+   "start_ms": 940639,
+   "end_ms": 942880,
+   "snippet": "ये प्राइवेट सेक्टर कंपनीज़ थी और दोनों का",
+   "start_time_text": "15:40",
+   "start_time_label": "15:40"
+  },
+  {
+   "start_ms": 942880,
+   "end_ms": 946079,
+   "snippet": "इंडेक्स अलग कर दूं। यू विल फाइंड जो",
+   "start_time_text": "15:42",
+   "start_time_label": "15:42"
+  },
+  {
+   "start_ms": 946079,
+   "end_ms": 949120,
+   "snippet": "अच्छी प्राइवेट कंपनीज़ हैं वो आउटपरफॉर्म",
+   "start_time_text": "15:46",
+   "start_time_label": "15:46"
+  },
+  {
+   "start_ms": 949120,
+   "end_ms": 951600,
+   "snippet": "करती है अच्छी सरकारी कंपनियों को। एंड वी",
+   "start_time_text": "15:49",
+   "start_time_label": "15:49"
+  },
+  {
+   "start_ms": 951600,
+   "end_ms": 954320,
+   "snippet": "आल्सो बिलीव सरकार का काम है हमें",
+   "start_time_text": "15:51",
+   "start_time_label": "15:51"
+  },
+  {
+   "start_ms": 954320,
+   "end_ms": 957839,
+   "snippet": "एक्सटर्नल और इंटरनल थ्रेट्स सेफ रखना,",
+   "start_time_text": "15:54",
+   "start_time_label": "15:54"
+  },
+  {
+   "start_ms": 957839,
+   "end_ms": 960480,
+   "snippet": "करप्शन फ्री रखना, अच्छा इंफ्रास्ट्रक्चर",
+   "start_time_text": "15:57",
+   "start_time_label": "15:57"
+  },
+  {
+   "start_ms": 960480,
+   "end_ms": 963680,
+   "snippet": "देना बाकी सिटीजंस पे छोड़ देना चाहिए। तो",
+   "start_time_text": "16:00",
+   "start_time_label": "16:00"
+  },
+  {
+   "start_ms": 963680,
+   "end_ms": 966399,
+   "snippet": "उस एप्रोच को वी स्ट्रांगली फॉलो। वी",
+   "start_time_text": "16:03",
+   "start_time_label": "16:03"
+  },
+  {
+   "start_ms": 966399,
+   "end_ms": 968399,
+   "snippet": "अवॉयड माइक्रो कैप्स। एक तो उसमें",
+   "start_time_text": "16:06",
+   "start_time_label": "16:06"
+  },
+  {
+   "start_ms": 968399,
+   "end_ms": 970880,
+   "snippet": "लिक्विडिटी का प्रॉब्लम होता है और डाटा",
+   "start_time_text": "16:08",
+   "start_time_label": "16:08"
+  },
+  {
+   "start_ms": 970880,
+   "end_ms": 973040,
+   "snippet": "अच्छा नहीं होता कि वी कैन टेक अ बेड और",
+   "start_time_text": "16:10",
+   "start_time_label": "16:10"
+  },
+  {
+   "start_ms": 973040,
+   "end_ms": 975199,
+   "snippet": "हम हजारों लोगों को कॉन्फिडेंटली बोल सके",
+   "start_time_text": "16:13",
+   "start_time_label": "16:13"
+  },
+  {
+   "start_ms": 975199,
+   "end_ms": 977120,
+   "snippet": "कि ये 50 100 करोड़ की कंपनी है। इसमें",
+   "start_time_text": "16:15",
+   "start_time_label": "16:15"
+  },
+  {
+   "start_ms": 977120,
+   "end_ms": 979600,
+   "snippet": "पैसा डाल दो। इतने एक्सट्रीमली रिस्की",
+   "start_time_text": "16:17",
+   "start_time_label": "16:17"
+  },
+  {
+   "start_ms": 979600,
+   "end_ms": 982240,
+   "snippet": "बेड्स, पेनी स्टक्स, माइक्रो कैप्स ये हम",
+   "start_time_text": "16:19",
+   "start_time_label": "16:19"
+  },
+  {
+   "start_ms": 982240,
+   "end_ms": 984880,
+   "snippet": "अवॉयड करते हैं। वी अवॉइड टर्न अराउंड",
+   "start_time_text": "16:22",
+   "start_time_label": "16:22"
+  },
+  {
+   "start_ms": 984880,
+   "end_ms": 986560,
+   "snippet": "स्टोरीज कि अभी तो लॉस में है लेकिन",
+   "start_time_text": "16:24",
+   "start_time_label": "16:24"
+  },
+  {
+   "start_ms": 986560,
+   "end_ms": 988560,
+   "snippet": "बड़ी-बड़ी स्टोरी है कि ये चेंज आ जाएगा",
+   "start_time_text": "16:26",
+   "start_time_label": "16:26"
+  },
+  {
+   "start_ms": 988560,
+   "end_ms": 990720,
+   "snippet": "इंडस्ट्री में वो चेंज आ जाएगा। कल ये",
+   "start_time_text": "16:28",
+   "start_time_label": "16:28"
+  },
+  {
+   "start_ms": 990720,
+   "end_ms": 992880,
+   "snippet": "बहुत कमाएगी। अगर वो आज पैसा नहीं कमा रही",
+   "start_time_text": "16:30",
+   "start_time_label": "16:30"
+  },
+  {
+   "start_ms": 992880,
+   "end_ms": 996000,
+   "snippet": "तो हमें नहीं चाहिए। वी ओनली इन्वेस्ट इन",
+   "start_time_text": "16:32",
+   "start_time_label": "16:32"
+  },
+  {
+   "start_ms": 996000,
+   "end_ms": 998240,
+   "snippet": "प्रॉफिटेबल कंपनीज़। लॉस मेकिंग कंपनीज़ से",
+   "start_time_text": "16:36",
+   "start_time_label": "16:36"
+  },
+  {
+   "start_ms": 998240,
+   "end_ms": 1000880,
+   "snippet": "हम मोस्टली दूर रहते हैं। एक आध एक्सेप्शन",
+   "start_time_text": "16:38",
+   "start_time_label": "16:38"
+  },
+  {
+   "start_ms": 1000880,
+   "end_ms": 1003519,
+   "snippet": "हो सकता है। बट मोस्टली एज अ प्रिंसिपल वी",
+   "start_time_text": "16:40",
+   "start_time_label": "16:40"
+  },
+  {
+   "start_ms": 1003519,
+   "end_ms": 1005440,
+   "snippet": "स्टे अवे फ्रॉम लॉस मेकिंग कंपनीज़। वी",
+   "start_time_text": "16:43",
+   "start_time_label": "16:43"
+  },
+  {
+   "start_ms": 1005440,
+   "end_ms": 1007600,
+   "snippet": "अवॉयड फास्ट चेंजिंग इंडस्ट्रीज।",
+   "start_time_text": "16:45",
+   "start_time_label": "16:45"
+  },
+  {
+   "start_ms": 1007600,
+   "end_ms": 1009600,
+   "snippet": "कास्टेंटली सोचते रहो, ट्रैक करते रहो,",
+   "start_time_text": "16:47",
+   "start_time_label": "16:47"
+  },
+  {
+   "start_ms": 1009600,
+   "end_ms": 1011759,
+   "snippet": "डरते रहो। आज एआई में यह हो रहा है, कल",
+   "start_time_text": "16:49",
+   "start_time_label": "16:49"
+  },
+  {
+   "start_ms": 1011759,
+   "end_ms": 1014000,
+   "snippet": "आईटी में वो हो रहा है। अगर वो इंडस्ट्री",
+   "start_time_text": "16:51",
+   "start_time_label": "16:51"
+  },
+  {
+   "start_ms": 1014000,
+   "end_ms": 1016079,
+   "snippet": "स्ट्रक्चरली स्टेबल नहीं है तो वो",
+   "start_time_text": "16:54",
+   "start_time_label": "16:54"
+  },
+  {
+   "start_ms": 1016079,
+   "end_ms": 1018880,
+   "snippet": "फिनोलॉजी 30 में नहीं होगी। हमें क्वालिटी",
+   "start_time_text": "16:56",
+   "start_time_label": "16:56"
+  },
+  {
+   "start_ms": 1018880,
+   "end_ms": 1020959,
+   "snippet": "चाहिए एट अ रीज़नेबल प्राइस। वो इंडस्ट्री",
+   "start_time_text": "16:58",
+   "start_time_label": "16:58"
+  },
+  {
+   "start_ms": 1020959,
+   "end_ms": 1023360,
+   "snippet": "अगर आउट ऑफ फेवर है, वी आर विलिंग टू वेट",
+   "start_time_text": "17:00",
+   "start_time_label": "17:00"
+  },
+  {
+   "start_ms": 1023360,
+   "end_ms": 1025760,
+   "snippet": "3 इयर्स, फाइव इयर्स प्राइस डिस्कवरी के",
+   "start_time_text": "17:03",
+   "start_time_label": "17:03"
+  },
+  {
+   "start_ms": 1025760,
+   "end_ms": 1027919,
+   "snippet": "लिए। 6 महीने, साल भर, 2 साल में हमें",
+   "start_time_text": "17:05",
+   "start_time_label": "17:05"
+  },
+  {
+   "start_ms": 1027919,
+   "end_ms": 1030319,
+   "snippet": "रिटर्न्स नहीं चाहिए। जब 30 स्टॉक्स का",
+   "start_time_text": "17:07",
+   "start_time_label": "17:07"
+  },
+  {
+   "start_ms": 1030319,
+   "end_ms": 1032319,
+   "snippet": "बास्केट है। हर साल कुछ कंपनियां अच्छी",
+   "start_time_text": "17:10",
+   "start_time_label": "17:10"
+  },
+  {
+   "start_ms": 1032319,
+   "end_ms": 1035039,
+   "snippet": "करती रहेंगी और एक डिसेंट रिटर्न",
+   "start_time_text": "17:12",
+   "start_time_label": "17:12"
+  },
+  {
+   "start_ms": 1035039,
+   "end_ms": 1037039,
+   "snippet": "पोर्टफोलियो पे आता रहेगा। सो वी आर नॉट",
+   "start_time_text": "17:15",
+   "start_time_label": "17:15"
+  },
+  {
+   "start_ms": 1037039,
+   "end_ms": 1039839,
+   "snippet": "चज़िंग मोमेंटम। वी आर आल्सो नॉट डीप",
+   "start_time_text": "17:17",
+   "start_time_label": "17:17"
+  },
+  {
+   "start_ms": 1039839,
+   "end_ms": 1042640,
+   "snippet": "कॉन्टेरियल इन्वेस्टर कि एकदम खराब हालत",
+   "start_time_text": "17:19",
+   "start_time_label": "17:19"
+  },
+  {
+   "start_ms": 1042640,
+   "end_ms": 1046000,
+   "snippet": "है तभी लेंगे। वी आर लुकिंग फॉर क्वालिटी",
+   "start_time_text": "17:22",
+   "start_time_label": "17:22"
+  },
+  {
+   "start_ms": 1046000,
+   "end_ms": 1049120,
+   "snippet": "एट अ रीज़नेबल प्राइस। व्हेन यू सब्सक्राइब",
+   "start_time_text": "17:26",
+   "start_time_label": "17:26"
+  },
+  {
+   "start_ms": 1049120,
+   "end_ms": 1051360,
+   "snippet": "व्हाट डू यू गेट? एग्जजेक्टली आपको क्या",
+   "start_time_text": "17:29",
+   "start_time_label": "17:29"
+  },
+  {
+   "start_ms": 1051360,
+   "end_ms": 1054240,
+   "snippet": "मिलता है उस पे आते हैं। हर महीने दो या",
+   "start_time_text": "17:31",
+   "start_time_label": "17:31"
+  },
+  {
+   "start_ms": 1054240,
+   "end_ms": 1056799,
+   "snippet": "तीन स्टॉक रिकमेंडेशंस जिससे साल भर में",
+   "start_time_text": "17:34",
+   "start_time_label": "17:34"
+  },
+  {
+   "start_ms": 1056799,
+   "end_ms": 1059679,
+   "snippet": "आपको मिनिमम 30 स्टॉक्स मिल जाए। इसके",
+   "start_time_text": "17:36",
+   "start_time_label": "17:36"
+  },
+  {
+   "start_ms": 1059679,
+   "end_ms": 1062480,
+   "snippet": "अलावा रेगुलर कोर्स में बहुत सारी कंपनीज़",
+   "start_time_text": "17:39",
+   "start_time_label": "17:39"
+  },
+  {
+   "start_ms": 1062480,
+   "end_ms": 1064640,
+   "snippet": "रिजेक्ट भी होती हैं। तो अगर आपके",
+   "start_time_text": "17:42",
+   "start_time_label": "17:42"
+  },
+  {
+   "start_ms": 1064640,
+   "end_ms": 1067440,
+   "snippet": "पोर्टफोलियो में वो कंपनीज़ हैं तो यू कैन",
+   "start_time_text": "17:44",
+   "start_time_label": "17:44"
+  },
+  {
+   "start_ms": 1067440,
+   "end_ms": 1069840,
+   "snippet": "रीड अबाउट वेरियस कंपनीज़ जो हमने रिजेक्ट",
+   "start_time_text": "17:47",
+   "start_time_label": "17:47"
+  },
+  {
+   "start_ms": 1069840,
+   "end_ms": 1072160,
+   "snippet": "की और क्यों रिजेक्ट की? क्यों उन्हें",
+   "start_time_text": "17:49",
+   "start_time_label": "17:49"
+  },
+  {
+   "start_ms": 1072160,
+   "end_ms": 1075039,
+   "snippet": "फिनोलॉजी 30 का पार्ट नहीं बनाया? और आप",
+   "start_time_text": "17:52",
+   "start_time_label": "17:52"
+  },
+  {
+   "start_ms": 1075039,
+   "end_ms": 1077280,
+   "snippet": "उससे रेफरेंस लेके अपने पोर्टफोलियो में",
+   "start_time_text": "17:55",
+   "start_time_label": "17:55"
+  },
+  {
+   "start_ms": 1077280,
+   "end_ms": 1079440,
+   "snippet": "एक इंडिपेंडेंट डिसीजन ले सकते हैं। तो",
+   "start_time_text": "17:57",
+   "start_time_label": "17:57"
+  },
+  {
+   "start_ms": 1079440,
+   "end_ms": 1082480,
+   "snippet": "रफली वंस अ वीक हम एक कंपनी के बारे में",
+   "start_time_text": "17:59",
+   "start_time_label": "17:59"
+  },
+  {
+   "start_ms": 1082480,
+   "end_ms": 1084880,
+   "snippet": "बताते हैं कि इसे हमने क्यों रिजेक्ट किया",
+   "start_time_text": "18:02",
+   "start_time_label": "18:02"
+  },
+  {
+   "start_ms": 1084880,
+   "end_ms": 1087600,
+   "snippet": "इन एन आर्टिकल फॉर्मेट और इसके अलावा एक",
+   "start_time_text": "18:04",
+   "start_time_label": "18:04"
+  },
+  {
+   "start_ms": 1087600,
+   "end_ms": 1090400,
+   "snippet": "क्वार्टरली वर्चुअल मेंबर्स मीट भी होता",
+   "start_time_text": "18:07",
+   "start_time_label": "18:07"
+  },
+  {
+   "start_ms": 1090400,
+   "end_ms": 1092480,
+   "snippet": "है। जहां आप और मैं इंटरेक्ट करते हैं कि",
+   "start_time_text": "18:10",
+   "start_time_label": "18:10"
+  },
+  {
+   "start_ms": 1092480,
+   "end_ms": 1094559,
+   "snippet": "किस डायरेक्शन में हम फिनोलॉजी 30 को लेके",
+   "start_time_text": "18:12",
+   "start_time_label": "18:12"
+  },
+  {
+   "start_ms": 1094559,
+   "end_ms": 1096960,
+   "snippet": "जा रहे हैं। मार्केट के बारे में स्टॉक्स",
+   "start_time_text": "18:14",
+   "start_time_label": "18:14"
+  },
+  {
+   "start_ms": 1096960,
+   "end_ms": 1100000,
+   "snippet": "के बारे में कुछ डिस्कशंस। सो दैट अगर कोई",
+   "start_time_text": "18:16",
+   "start_time_label": "18:16"
+  },
+  {
+   "start_ms": 1100000,
+   "end_ms": 1102640,
+   "snippet": "भी क्वेरी है, अनसर्टेनिटी है, क्वेश्चंस",
+   "start_time_text": "18:20",
+   "start_time_label": "18:20"
+  },
+  {
+   "start_ms": 1102640,
+   "end_ms": 1105840,
+   "snippet": "हैं वो फ्रैंकली ऑनलाइन एक दूसरे के साथ",
+   "start_time_text": "18:22",
+   "start_time_label": "18:22"
+  },
+  {
+   "start_ms": 1105840,
+   "end_ms": 1109120,
+   "snippet": "आंसर हो सके। फिनोलॉजी 30 किसके लिए है?",
+   "start_time_text": "18:25",
+   "start_time_label": "18:25"
+  },
+  {
+   "start_ms": 1109120,
+   "end_ms": 1112000,
+   "snippet": "जो लॉन्ग टर्म सोचता है 5 साल या उससे",
+   "start_time_text": "18:29",
+   "start_time_label": "18:29"
+  },
+  {
+   "start_ms": 1112000,
+   "end_ms": 1113760,
+   "snippet": "ज्यादा समय के लिए स्टॉक्स में इन्वेस्ट",
+   "start_time_text": "18:32",
+   "start_time_label": "18:32"
+  },
+  {
+   "start_ms": 1113760,
+   "end_ms": 1116640,
+   "snippet": "करता है उसके लिए जिसे इनफॉर्म्ड डिसीजन",
+   "start_time_text": "18:33",
+   "start_time_label": "18:33"
+  },
+  {
+   "start_ms": 1116640,
+   "end_ms": 1119120,
+   "snippet": "लेना पसंद है उसके लिए जिसे डायरेक्टली",
+   "start_time_text": "18:36",
+   "start_time_label": "18:36"
+  },
+  {
+   "start_ms": 1119120,
+   "end_ms": 1121520,
+   "snippet": "स्टॉक्स में इन्वेस्ट करना पसंद है उसके",
+   "start_time_text": "18:39",
+   "start_time_label": "18:39"
+  },
+  {
+   "start_ms": 1121520,
+   "end_ms": 1124799,
+   "snippet": "लिए जो साल में कम से कम ₹4 लाख इन्वेस्ट",
+   "start_time_text": "18:41",
+   "start_time_label": "18:41"
+  },
+  {
+   "start_ms": 1124799,
+   "end_ms": 1128160,
+   "snippet": "कर सकता है इन इक्विटीज उसके लिए जिसकी ऐज",
+   "start_time_text": "18:44",
+   "start_time_label": "18:44"
+  },
+  {
+   "start_ms": 1128160,
+   "end_ms": 1131520,
+   "snippet": "50 से कम है उसके ऊपर के लोगों के साथ वी",
+   "start_time_text": "18:48",
+   "start_time_label": "18:48"
+  },
+  {
+   "start_ms": 1131520,
+   "end_ms": 1133760,
+   "snippet": "डोंट फील फिनोलॉजी 30 इज़ द राइट प्रोडक्ट",
+   "start_time_text": "18:51",
+   "start_time_label": "18:51"
+  },
+  {
+   "start_ms": 1133760,
+   "end_ms": 1136080,
+   "snippet": "तो अगर आप अंडर 50 हैं आपकी रिस्क",
+   "start_time_text": "18:53",
+   "start_time_label": "18:53"
+  },
+  {
+   "start_ms": 1136080,
+   "end_ms": 1137760,
+   "snippet": "प्रोफाइल अलव करती है स्टॉक्स में",
+   "start_time_text": "18:56",
+   "start_time_label": "18:56"
+  },
+  {
+   "start_ms": 1137760,
+   "end_ms": 1140559,
+   "snippet": "डायरेक्टली इन्वेस्ट करना तो आपके लिए",
+   "start_time_text": "18:57",
+   "start_time_label": "18:57"
+  },
+  {
+   "start_ms": 1140559,
+   "end_ms": 1143840,
+   "snippet": "किसके लिए यह नहीं है जो मोमेंटम को चस",
+   "start_time_text": "19:00",
+   "start_time_label": "19:00"
+  },
+  {
+   "start_ms": 1143840,
+   "end_ms": 1146080,
+   "snippet": "करता है जो 6 महीने साल भर में रिटर्न्स",
+   "start_time_text": "19:03",
+   "start_time_label": "19:03"
+  },
+  {
+   "start_ms": 1146080,
+   "end_ms": 1148799,
+   "snippet": "चाहता है जो रातोंरात मल्टीबैगर स्टॉक्स",
+   "start_time_text": "19:06",
+   "start_time_label": "19:06"
+  },
+  {
+   "start_ms": 1148799,
+   "end_ms": 1150559,
+   "snippet": "ढूंढना चाहता है जिसे पेनी स्टॉक",
+   "start_time_text": "19:08",
+   "start_time_label": "19:08"
+  },
+  {
+   "start_ms": 1150559,
+   "end_ms": 1153600,
+   "snippet": "माइक्रोcैब रिकमेंडेशंस चाहिए ये प्रोडक्ट",
+   "start_time_text": "19:10",
+   "start_time_label": "19:10"
+  },
+  {
+   "start_ms": 1153600,
+   "end_ms": 1156160,
+   "snippet": "आपके लिए नहीं है। अगर और भी कोई सवाल है",
+   "start_time_text": "19:13",
+   "start_time_label": "19:13"
+  },
+  {
+   "start_ms": 1156160,
+   "end_ms": 1158720,
+   "snippet": "इस प्रोडक्ट को लेके या हमने इसे कैसे",
+   "start_time_text": "19:16",
+   "start_time_label": "19:16"
+  },
+  {
+   "start_ms": 1158720,
+   "end_ms": 1162240,
+   "snippet": "बिल्ड किया उसको लेके तो आप कमेंट करके",
+   "start_time_text": "19:18",
+   "start_time_label": "19:18"
+  },
+  {
+   "start_ms": 1162240,
+   "end_ms": 1164559,
+   "snippet": "मुझे ज़रूर बताइएगा। मी एंड माय टीम विल बी",
+   "start_time_text": "19:22",
+   "start_time_label": "19:22"
+  },
+  {
+   "start_ms": 1164559,
+   "end_ms": 1166559,
+   "snippet": "हैप्पी टू आंसर। अगर ये प्रोडक्ट के पीछे",
+   "start_time_text": "19:24",
+   "start_time_label": "19:24"
+  },
+  {
+   "start_ms": 1166559,
+   "end_ms": 1168880,
+   "snippet": "की थिंकिंग आपको अच्छी लगी हो एंड इफ यू",
+   "start_time_text": "19:26",
+   "start_time_label": "19:26"
+  },
+  {
+   "start_ms": 1168880,
+   "end_ms": 1171440,
+   "snippet": "फाउंड समथिंग यूज़फुल तो इस वीडियो को लाइक",
+   "start_time_text": "19:28",
+   "start_time_label": "19:28"
+  },
+  {
+   "start_ms": 1171440,
+   "end_ms": 1174000,
+   "snippet": "कर दीजिएगा। अगर यह वीडियो आपको पसंद नहीं",
+   "start_time_text": "19:31",
+   "start_time_label": "19:31"
+  },
+  {
+   "start_ms": 1174000,
+   "end_ms": 1176400,
+   "snippet": "आया हो तो फील फ्री टू डिसलाइक अ मुझे",
+   "start_time_text": "19:34",
+   "start_time_label": "19:34"
+  },
+  {
+   "start_ms": 1176400,
+   "end_ms": 1179039,
+   "snippet": "ऑनेस्ट फीडबैक चाहिए। जो सब कुछ मैंने",
+   "start_time_text": "19:36",
+   "start_time_label": "19:36"
+  },
+  {
+   "start_ms": 1179039,
+   "end_ms": 1182080,
+   "snippet": "डिस्कस किया उससे संतुष्ट हैं और फिनोलॉजी",
+   "start_time_text": "19:39",
+   "start_time_label": "19:39"
+  },
+  {
+   "start_ms": 1182080,
+   "end_ms": 1184480,
+   "snippet": "30 को सब्सक्राइब करना चाहते हैं तो इसका",
+   "start_time_text": "19:42",
+   "start_time_label": "19:42"
+  },
+  {
+   "start_ms": 1184480,
+   "end_ms": 1186720,
+   "snippet": "लिंक आपको ऊपर कार्ड में वीडियो के",
+   "start_time_text": "19:44",
+   "start_time_label": "19:44"
+  },
+  {
+   "start_ms": 1186720,
+   "end_ms": 1189120,
+   "snippet": "डिस्क्रिप्शन में और पिंड कमेंट में मिल",
+   "start_time_text": "19:46",
+   "start_time_label": "19:46"
+  },
+  {
+   "start_ms": 1189120,
+   "end_ms": 1191440,
+   "snippet": "जाएगा। अगर आप मुझसे जुड़े रहना चाहेंगे",
+   "start_time_text": "19:49",
+   "start_time_label": "19:49"
+  },
+  {
+   "start_ms": 1191440,
+   "end_ms": 1193919,
+   "snippet": "तो सब्सक्राइब बटन दबा के बेल आइकन दबा",
+   "start_time_text": "19:51",
+   "start_time_label": "19:51"
+  },
+  {
+   "start_ms": 1193919,
+   "end_ms": 1196240,
+   "snippet": "दीजिएगा जिससे व्हनेवर आई पब्लिश समथिंग",
+   "start_time_text": "19:53",
+   "start_time_label": "19:53"
+  },
+  {
+   "start_ms": 1196240,
+   "end_ms": 1199200,
+   "snippet": "न्यू आपको नोटिफिकेशन मिल जाए। जल्दी ही",
+   "start_time_text": "19:56",
+   "start_time_label": "19:56"
+  },
+  {
+   "start_ms": 1199200,
+   "end_ms": 1201679,
+   "snippet": "मिलता हूं आपके साथ एक और वीडियो के साथ।",
+   "start_time_text": "19:59",
+   "start_time_label": "19:59"
+  },
+  {
+   "start_ms": 1201679,
+   "end_ms": 1204240,
+   "snippet": "दिस इज प्रांजलल कामरा साइनिंग ऑफ। बाय",
+   "start_time_text": "20:01",
+   "start_time_label": "20:01"
+  },
+  {
+   "start_ms": 1204240,
+   "end_ms": 1206720,
+   "snippet": "बाय।",
+   "start_time_text": "20:04",
+   "start_time_label": "20:04"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "hi",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=BXPPUsXUl7A"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:31:03"
+}

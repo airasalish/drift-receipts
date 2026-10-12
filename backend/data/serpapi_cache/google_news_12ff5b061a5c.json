@@ -1,0 +1,1434 @@
+{
+ "search_metadata": {
+  "id": "6ac94539d5fd74f31fac50e6",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/XVGdOlargA4CDtfz8f9sC6IVLbl9utAp9OLzbu9XyBE/6ac94539d5fd74f31fac50e6.json",
+  "markdown_endpoint": "https://serpapi.com/searches/XVGdOlargA4CDtfz8f9sC6IVLbl9utAp9OLzbu9XyBE/6ac94539d5fd74f31fac50e6.md",
+  "created_at": "2026-10-09 19:49:13 UTC",
+  "processed_at": "2026-10-09 19:49:13 UTC",
+  "google_news_url": "https://news.google.com/search?q=JSW+Infrastructure+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/XVGdOlargA4CDtfz8f9sC6IVLbl9utAp9OLzbu9XyBE/6ac94539d5fd74f31fac50e6.html",
+  "total_time_taken": 2.01
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "JSW Infrastructure share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "JSW Infra shares get downgraded by HSBC, who prefers this port operator instead",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Gareema Bangad"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/jsw-infrastructure-share-price-hsbc-downgrade-target-returns-adani-ports-preferred-pick-20006462.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/artificial-intelligence-3-2026-09-9723099a58406fff9b9b8a3f8141da45.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURRVmd0TTB0VFpsVmlXVU00VFJDZkF4ampCU2dLTWdtQmNJaUZQQ1U5RmdF",
+   "date": "10/07/2026, 06:05 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:05:19Z"
+  },
+  {
+   "position": 2,
+   "title": "JSW Infra Shares Slide Over 3% After Rating Downgrade From HSBC To 'Reduce'",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/jsw-infra-share-price-today-stock-falls-over-3-percent-after-hsbc-downgrade-12149106",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/h2vpj644_d_625x300_07_October_26.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZPRzE1WTNWMVR6WlZiMU5tVFJDZkF4ampCU2dLTWdZOVlJcTBLQVU",
+   "date": "10/07/2026, 04:03 AM, +0000 UTC",
+   "iso_date": "2026-10-07T04:03:33Z"
+  },
+  {
+   "position": 3,
+   "title": "JSW Infrastructure Ran 27% And The Harder Bet Is Still Ahead",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-jswinfra/jsw-infrastructure-shares/news/jsw-infrastructure-ran-27-and-the-harder-bet-is-still-ahead",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice2-card/1789014709741?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iOkNnNXZTRFZWVDFGM1prbFZlbGxHVFJDZkF4ampCU2dLTWhFQk1JQkJKYUl0bFFpLU94NTNyaXZ4QVE",
+   "date": "10/05/2026, 03:02 PM, +0000 UTC",
+   "iso_date": "2026-10-05T15:02:19Z"
+  },
+  {
+   "position": 4,
+   "title": "JSW Infra rallies 5%, nears record high; ICICI Direct sees more upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infra-rallies-5-nears-record-high-icici-direct-sees-more-upside-126071300236_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/03/full/1714758770-8207.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhTYlhWTlZVeFljSFJsVFJEZ0F4aUFCU2dLTWdhWms0cHJ1UVE",
+   "date": "07/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-13T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "JSW Infra shares gain ahead of key fundraising decision; check key details",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/jsw-infra-shares-gain-ahead-of-key-fundraising-decision-check-key-details",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F02%2F17170936%2Fjsw-infra-fundraising-decision-stock-gain.webp&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpWRmQ0VDJWR1IwRnplVTlvVFJDNEFSaVJBaWdCTWdhQk1KTEZHUW8",
+   "date": "10/03/2026, 07:56 AM, +0000 UTC",
+   "iso_date": "2026-10-03T07:56:17Z"
+  },
+  {
+   "position": 6,
+   "title": "JSW Infrastructure Completes ₹7,503 Crore QIP; HSBC Maintains Hold at ₹290",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-approves-qip-of-23-cr-shares-ofs-of-3-32-cr-shares/43686358",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-approves-qip-of-23-cr-shares-ofs-of-3-32-cr-shares.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVXbTlGUzJGeFZFTjVSM0JCVFJDaUF4amRCU2dLTWdZQlVJaDFMQVk",
+   "date": "09/27/2026, 12:24 PM, +0000 UTC",
+   "iso_date": "2026-09-27T12:24:12Z"
+  },
+  {
+   "position": 7,
+   "title": "JSW Infrastructure Shares rally 8%. Reasons explained",
+   "source": {
+    "name": "India Infoline",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.indiainfoline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.indiainfoline.com/news/companies/jsw-infrastructure-shares-rally-8-reasons-explained",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "JSW Infrastructure Share Price News: Intraday Gain Explained",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-jsw-infrastructure-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/JSW_Infrastructure_JSWINFRA_Share_Price_Rises_2_Today_Market_Cap_at_Rs_813054_Cr_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFiM0pxY205bWRGUTFWMUZZVFJDUkF4ajlCU2dLTWdZQlFJYkRIZ2s",
+   "date": "09/30/2026, 10:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T10:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "JSW Infrastructure Q4 FY26 Results: Net Profit Falls 18%,Declares ₹17.35 Dividend",
+   "source": {
+    "name": "Groww",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://groww.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://groww.in/blog/jsw-infrastructure-q4-fy26-results",
+   "thumbnail": "https://cms-resources.groww.in/uploads/js_7c48567321.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURlVTVZVGt0dmVsZHhkWFJxVFJDZkF4amlCU2dLTWdZQllaakZMZ2s",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "JSW Infrastructure Shares Gain Nearly 4% After QIP Launch at 7% Discount to Market Price",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/jsw-infrastructure-shares-gain-after-rs-7500-crore-qip-launch",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/jsw_infrastructure_shares_gain_nearly_4_.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWtVa0p4ZHpCRE5FeEljSGxGVFJDZkF4ampCU2dLTWdtQlJvb0RIdW5JamdF",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Nomura retains 'Buy' on Adani Ports, JSW Infrastructure; sees steady Q2",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/nomura-retains-buy-on-adani-ports-jsw-infrastructure-sees-steady-q2-14045473.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/05/20240502075630_adani-ports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpiRVY1YzBwelJHOWpZM0pLVFJDZkF4ampCU2dLTWdZQmNJUXJMZ2M",
+   "date": "10/06/2026, 05:05 AM, +0000 UTC",
+   "iso_date": "2026-10-06T05:05:33Z"
+  },
+  {
+   "position": 12,
+   "title": "JSW Infrastructure Ltd is Rated Hold by MarketsMOJO",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/jsw-infrastructure-ltd-is-rated-hold-by-marketsmojo-4212352",
+   "date": "10/03/2026, 02:17 PM, +0000 UTC",
+   "iso_date": "2026-10-03T14:17:12Z"
+  },
+  {
+   "position": 13,
+   "title": "Stock to buy today: JSW Infrastructure (₹367.85) – BUY",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kirthika Gurumurthy"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/portfolio/technical-analysis/stock-to-buy-today-jsw-infrastructure-36785-buy/article71495279.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/wjetaq/article71495302.ece/alternates/LANDSCAPE_1200/IMG_FILE_PHOTO__The_logo_2_1_0CDO9L1R.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNMG90YWpWTlgwRk5SMTlCVFJDZkF4ampCU2dLTWdhVkVZVk9WUU0",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "JSW Infrastructure Shares Fall 2.01% in Today's Session",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:e8c646e8e094b:0-jsw-infrastructure-shares-fall-2-01-in-today-s-session/",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "JSW Infrastructure (NSE:JSWINFRA): What Does Its Q2 FY27 Depository Compliance Certificate Signal?",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonal Goyal"
+    ]
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/jsw-infrastructure-nsejswinfra-what-does-its-q2-fy27-depository-compliance-certificate-signal",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/default_image/3d35f32e-d7ad-4c89-8347-404f161e1868.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVMGR5WldWeGEzRm1ORkZCVFJERUF4aW5CU2dLTWdrVmdveUp3V1ZGN1FF",
+   "date": "10/06/2026, 07:06 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:06:00Z"
+  },
+  {
+   "position": 16,
+   "title": "JSW Infrastructure Limited Just Missed Earnings - But Analysts Have Updated Their Models",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-jswinfra/jsw-infrastructure-shares/news/jsw-infrastructure-limited-just-missed-earnings-but-analysts",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "07/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-24T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "JSW Infra hits new high, jumps 7%; stock up 56% in FY27",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infra-share-hits-new-high-jumps-7-stock-up-56-in-fy27-126092200302_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/17/full/1629207162-2548.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdOVVUxTkZaTVZVMWxNVTFUVFJEUUF4anNCQ2dLTWdZQmdJaUlRUVU",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "JSW Infra falls 4% on Q1 earnings; Nomura stays bullish, lifts TP to Rs 392",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-falls-4-on-q1-earnings-nomura-stays-bullish-lifts-tp-to-rs-392-13980412.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/01/20250127110200_jswrtr.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhbEZ2TkRWUkxWTmxNelpDVFJDZkF4ampCU2dLTWdhQmdvcE96UVE",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "JSW Infrastructure's (NSE:JSWINFRA) Profits May Not Reveal Underlying Issues",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-jswinfra/jsw-infrastructure-shares/news/jsw-infrastructures-nsejswinfra-profits-may-not-reveal-under",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "07/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-06T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "JSWINFRA Share Price Today - JSW Infrastructure on NSE/BSE",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/company/jswinfra-ltd",
+   "thumbnail": "https://images.dhan.co/symbol/JSWINFRA.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVXRUZ2WVVKT1VHRk1WRkEwVFJDZ0FSaWdBU2dLTWdhWmNZNHZNUVk",
+   "date": "03/23/2026, 06:07 AM, +0000 UTC",
+   "iso_date": "2026-03-23T06:07:12Z"
+  },
+  {
+   "position": 21,
+   "title": "JSW Infrastructure shares hit record high; stock up over 50% in six months",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/jsw-infrastructure-shares-hit-record-high-stock-up-over-50-in-six-months-556978-2026-09-22",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab21d14a4d2f-elara-securities-said-jsw-infrastructure-delivered-a-resilient-q1-fy27-despite-weak-performance-at-t-221547379-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTVNa2hrYUVwSlpUVjVlR2t4VFJDZkF4ampCU2dLTWdtUmNZN0t3ZVFsaHdJ",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "JSW Infra soars 5%, nears 52-week high; outperforms market; here's why",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infra-soars-5-nears-52-week-high-outperforms-market-here-s-why-126062400286_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/07/full/1751902040-833.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkVUYxWVV0TVltUnpWVXBzVFJEZkF4aUFCU2dLTWdZQmdJaUl3UVE",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "JSW Infrastructure Share Price Update and Valuation View",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-jsw-infrastructure-share-price-price-fall-2026-09-28",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/jsw-infrastructure-jswinfra-share-price-falls-2-07-today-as-stock-news-draws.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRkRmhyUTBsdVlUTlBhalkzVFJDUUF4ai1CU2dLTWdZQlFJakRtZ2s",
+   "date": "09/28/2026, 06:28 AM, +0000 UTC",
+   "iso_date": "2026-09-28T06:28:00Z"
+  },
+  {
+   "position": 24,
+   "title": "JSW Infrastructure shares gain 2.22% in today's session",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-shares-gain-2-22-in-today-s-session-alpha-article-13999454.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250320041134_sensex_nifty-marketup_sensexup-Niftyup.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVWblZ2ZUhKZlEyZzNRVTAzVFJDZkF4ampCU2dLTWdZMU1ZaTJHQWs",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "JSW Infra's QIP attracts seven-fold demand with ₹50,350 cr in bids",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/news/jsw-infra-s-qip-attracts-seven-fold-demand-with-50-350-cr-in-bids-126062500495_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/03/full/1714758770-8207.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhTYlhWTlZVeFljSFJsVFJEZ0F4aUFCU2dLTWdhWms0cHJ1UVE",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "JSW Infra stocks rally 5% on reports of Rs 6,000-crore QIP fundraise",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:f7e52d240094b:0-jsw-infra-stocks-rally-5-on-reports-of-rs-6-000-crore-qip-fundraise/",
+   "date": "06/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-12T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "JSW Infrastructure Rises 2% After Rs 7,500-Crore QIP Launches at Rs 285",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.niftytrader.in/markets/jsw-infrastructure-rises-2-after-rs-7500/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/06/JSW-Infrastructure-Rises-2-After-Rs-7500-Crore-QIP-Launches-at-Rs-285-860x452.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlWVmhGYVZjNVUzZ3hSWGQ2VFJDUkF4ajhCU2dLTWdhQmtZcnhNQWM",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Sona BLW, JSW Infra among 3 stock ideas by Bonanza; check key levels here",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-sona-blw-jsw-infra-among-3-stock-ideas-by-bonanza-check-key-levels-here-126100100096_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2018-02/02/full/1517562998-2359.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNSR1JTVjE4d1dYSkZkRVpRVFJEUkF4anNCQ2dLTWdZQndJWkd5Z00",
+   "date": "10/01/2026, 02:13 AM, +0000 UTC",
+   "iso_date": "2026-10-01T02:13:19Z"
+  },
+  {
+   "position": 29,
+   "title": "JSW Infra well placed to ride port-led growth; MOFSL says Buy for 40% gain",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-jsw-infrastructure-well-placed-to-ride-port-led-growth-mofsl-says-buy-for-40-gain-126060900350_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/03/full/1714758770-8207.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhTYlhWTlZVeFljSFJsVFJEZ0F4aUFCU2dLTWdhWms0cHJ1UVE",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "JSW Infra shares rise 7% as firm incorporates wholly-owned SPV",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/jsw-infra-shares-rise-7-as-firm-incorporates-wholly-owned-spv-13972551.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/07/20260704033430_market_up_higher.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXpVbnBOWDJoUlNWRkJUVzgyVFJDZkF4ampCU2dLTWdtWk1ZanZxR09paHdJ",
+   "date": "07/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-13T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "JSW Infrastructure Q1 results: Net profit declines 10% YoY to ₹385 crore, revenue jumps 18%; check guidance",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abha Raverkar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/jsw-infra-q1-net-profit-declines-10-yo-y-to-385-crore-revenue-expected-to-grow-to-8-000-crore-by-fy-30/article-197311/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/jswinfrastructurejuly21.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJVSGRqYm5Zd2JWUTNOVWd0VFJEZ0F4aUFCU2dLTWdhTnM0cXFQUVU",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "India Trade Risks Put Mahindra Logistics Delhivery And JSW Infrastructure Shares In Focus",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-mahlog/mahindra-logistics-shares/news/india-trade-risks-put-mahindra-logistics-delhivery-and-jsw-i",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3211000-choice1-card/1788938424505?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVVa1pSZFhKWlkwOVNVa1J2VFJDZkF4ampCU2dLTWdZQlVJcG11UVU",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "420,000,315 Equity Shares of JSW Infrastructure Limited are subject to a Lock-Up Agreement Ending on 29-SEP-2026.",
+   "source": {
+    "name": "www.marketscreener.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketscreener.com/news/420-000-315-equity-shares-of-jsw-infrastructure-limited-are-subject-to-a-lock-up-agreement-ending-on-ce785addd98cf324",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "JSW Infrastructure Files Audited Standalone and Consolidated Results for FY26",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-limited-files-audited-standalone-and-consolidated-financial-results-for-fy26/43587661",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-limited-files-audited-standalone-and-consolidated-financial-results-for-fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJkREl4TlZkamJXczBkWEZzVFJDaUF4amRCU2dLTWdhQllZb3ZKUVk",
+   "date": "06/21/2026, 11:42 AM, +0000 UTC",
+   "iso_date": "2026-06-21T11:42:43Z"
+  },
+  {
+   "position": 35,
+   "title": "JSW Infrastructure raises ₹7,503 crore QIP, stock rises 2.7%",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/companies/jsw-infrastructure-raises-7503-crore-in-landmark-qip-stock-rises-27/article71169871.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/7kjxw8/article71005995.ece/alternates/LANDSCAPE_1200/2025-05-02T084052Z_1544305033_RC2J9EAF3TWS_RTRMADP_3_BHUSHAN-STEEL-LIQUIDATION-JSW-STEEL.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZPVVY0ZFVRM2RURkZMVXA1VFJDZkF4ampCU2dLTWdZWkFZZHUwUU0",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "JSW Infrastructure shares fall 2.03% in today's trade",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:61a63b9c1094b:0-jsw-infrastructure-shares-fall-2-03-in-today-s-trade/",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "JSW Infrastructure Share Price Jumps 8%; Here's Why",
+   "source": {
+    "name": "Dalal Street Investment Journal",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://insights.dsij.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://insights.dsij.in/dsijarticledetail/jsw-infrastructure-share-price-jumps-8-heres-why-id021-57946",
+   "thumbnail": "https://insights.dsij.in/_next/image?url=https%3A%2F%2Fsite.dsij.in%2FPortals%2F0%2FEasyDNNNews%2F57946%2FJSW4.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtjRTlHZFVWUVNuQm1kRVZIVFJDUUF4al9CU2dLTWdZWlU1YU1xUWM",
+   "date": "06/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-24T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "JSW Infrastructure shares gain nearly 4% as firm to raise funds via QIP; everything investors need to know",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/jsw-infrastructure-shares-in-focus-as-firm-to-raise-funds-via-qip-everything-investors-need-to-know/article-195779/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/jsw-steelq3222.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSQzFDWldkME1ubHlZblJvVFJDZkF4ampCU2dLTWdhWnc0WnN6UU0",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Buy JSW Infrastructure for the Target Rs 400 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-jsw-infrastructure-for-the-target-rs-400-by-motilal-oswal-financial-services-ltd453606",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/JSW%20Infrastructure.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5YMHRIWmpNMlpWQmZWa1kxVFJDOEFSaU1BaWdCTWdrSmtZaXJTQ005MEFF",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "JSW Infrastructure Shares Fall 2.05% on Thursday Amid Dip in Quarterly Profits",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-shares-fall-2-05-on-thursday-amid-dip-in-quarterly-profits-alpha-article-14004162.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241027112256_market13.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWxWZWs5T1dIWmpha1Z3VFJDZkF4ampCU2dLTWdZRlVZeG1NZ1U",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "JSW Infrastructure Raises ₹7,503 Crore via QIP to Accelerate Port Capacity Expansion",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/jsw-infrastructure-raises-7-503-crore-via-qip-to-accelerate-port-capacity-expansion-4091-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/4091_PE_1_CORPORATE_01_07_2026_16x9_634d027b01.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJRbmQwTTJNNU5XaGplbUZrVFJDb0FSaXRBaWdCTWdZSlFvb3dLUVU",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "JSW Infra's Q1 profit slips 10%, revenue rises 18% on higher cargo volumes",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prachi Pisal"
+    ]
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/jsw-infra-s-q1-profit-slips-10-revenue-rises-18-on-higher-cargo-volumes-126072101349_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/03/full/1714758770-8207.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhTYlhWTlZVeFljSFJsVFJEZ0F4aUFCU2dLTWdhWms0cHJ1UVE",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "JSW Infra shares rise over 5% on emerging successful bidder for container berths at Kolkata Port",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/jsw-infra-shares-rise-over-5-on-emerging-successful-bidder-for-container-berths-at-kolkata-port/article-195041/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/jsw-infra-share-price-kolkata-dock.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpSRWhSVTNGRWQzY3pORU01VFJDZkF4ampCU2dLTWdZQlZvQUFvd2s",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "JSW Infrastructure shares gain 2.27% on Monday",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-shares-gain-2-27-on-monday-alpha-article-13991743.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241027112256_market13.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWxWZWs5T1dIWmpha1Z3VFJDZkF4ampCU2dLTWdZRlVZeG1NZ1U",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "JSW Infrastructure Ltd Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/324935/jsw-infrastructure-ltd/key-ratios/",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "JSW Infra’s QIP Attracts Seven-Fold Demand With Rs 50,350-Cr in Bids",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/jsw-infras-qip-attracts-seven-fold-demand-with-rs-50350-cr-in-bids-2",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/jsw_infra_s_qip_attracts_seven_fold_demand_with_rs_50_350_cr_in_bids.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNRakJGVjJGUGNIaHZjR3RhVFJDZkF4ampCU2dLTWdZQk9JcUVIZ2M",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "JSW Infrastructure stock gains 2% as Rs 7,500-crore QIP kicks off; issue priced at 7% discount",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/jsw-infrastructure-stock-gains-2-as-rs-7-500-crore-qip-kicks-off-issue-priced-at-7-discount-13956429.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2020/01/Cargo.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJRVzFtVTJWSWRXeHJUalUzVFJDZkF4ampCU2dLTWdrRklJTEd2R0lsTEFJ",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "JSW Infrastructure closes ₹7,503 crore QIP at ₹285 per share to fuel capacity expansion",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/jsw-infrastructure-closes-7-503-crore-qip-at-285-per-share-to-fuel-capacity-expansion-3441-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3441_PE_1_CORPORATE_29_06_2026_16x9_3abb751c45.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlXVXhVUlhGVGFFOUVRbFJCVFJDZUF4amxCU2dLTWdZQk1venNyQVE",
+   "date": "06/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-29T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "JSW Infrastructure Approves 23 Crore Share QIP Issue and 3.33 Crore Promoter Share Sale",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/jsw-infrastructure-approves-23-crore-share-qip-issue-and-3-33-crore-promoter-share-sale-4091-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/4091_PE_1_CORPORATE_22_06_2026_16x9_a963117503.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXlWVGcwU0VGM1VYSnNNREpJVFJDZUF4amxCU2dLTWdrVmM0cEtQV1dhVEFJ",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "JSW Infrastructure consolidated net profit declines 9.89% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/jsw-infrastructure-consolidated-net-profit-declines-9-89-in-the-june-2026-quarter-126072101044_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "JSW Infrastructure Ltd Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/324935/jsw-infrastructure-ltd/shareholding/",
+   "date": "08/30/2026, 01:09 PM, +0000 UTC",
+   "iso_date": "2026-08-30T13:09:04Z"
+  },
+  {
+   "position": 52,
+   "title": "JSW Infrastructure launches ₹7,503 crore QIP; issue priced at ₹285 per share",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/jsw-infrastructure-share-price-opens-qip-fixes-floor-price-at-rs-290-35-includes-ofs-plan-19930057.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2024/07/jsw-infrastructure-2024-07-483d271ed1b872275bfa13091565e084.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZPSFJyTkc1WU1YZ3hNMFZuVFJDZkF4ampCU2dLTWdZRmtJS3h0QVE",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "JSW Infrastructure has launched a INR 7,500 crore institutional share sale to fund future growth",
+   "source": {
+    "name": "Prop News Time",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://propnewstime.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://propnewstime.com/latestnewsstories/MzIwOTk=/jsw-infrastructure-has-launched-a-inr-7-500-crore-institutional-share-sale-to-fund-future-growth",
+   "thumbnail": "https://propscience.s3.ap-south-1.amazonaws.com/backoffice_blogs/20250612013823_7_Fund__3_.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFOMlJsUVZoelgzSkVWWHAyVFJDUUF4allCQ2dLTWdhdEFveFRBUWM",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Pros and Cons of Investing in JSW Infrastructure",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=07/14/2026&story=1&title=Pros-and-Cons-of-Investing-in-JSW-Infrastructure",
+   "thumbnail": "https://www.eqimg.com/images/2026/07132026-image2-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZSemR4Y2t4d1FqaDBhSFpYVFJEYkFSamVBaWdLTWdrRnNKS0ZPbWNjc0FF",
+   "date": "07/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-14T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "JSW Infra Shares Gain 4% After Rs 7,503-Crore Worth QIP Launch",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Riya Alex"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/jsw-infra-shares-gain-4-percent-after-rs-7-503-crore-worth-qip-launch-11674248",
+   "thumbnail": "https://c.ndtvimg.com/2026-06/3lm7mufc_jsw-infra_625x300_09_June_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZOVnBKTVdOUlVucHpSVkZyVFJDZkF4ampCU2dLTWdZbGM1S3RMUWM",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "JSW Infrastructure shares rise as firm to consider fundraising on THIS date; check details",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/jsw-infrastructure-shares-in-focus-as-firm-to-consider-fundraising-on-this-date-check-details/article-189510/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/shutterstock2398167765-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJVSGRqYm5Zd2JWUTNOVWd0VFJEZ0F4aUFCU2dLTWdhTnM0cXFQUVU",
+   "date": "02/16/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-16T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "We Ran A Stock Scan For Earnings Growth And JSW Infrastructure (NSE:JSWINFRA) Passed With Ease",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-jswinfra/jsw-infrastructure-shares/news/we-ran-a-stock-scan-for-earnings-growth-and-jsw-infrastructu",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "02/12/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-12T08:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "JSW Infra Said to Start Marketing $800 Million India Share Sale",
+   "source": {
+    "name": "Bloomberg.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rajesh Mascarenhas",
+     "Baiju Kalesh"
+    ]
+   },
+   "link": "https://www.bloomberg.com/news/articles/2026-05-20/jsw-infra-said-to-start-marketing-800-million-india-share-sale",
+   "thumbnail": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC_g0rivev7o/v1/1200x748.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1hMlZpUXpKbVlXUnhaV3hOVFJDMUF4aS1CU2dLTWdhVjBZYnR5QU0",
+   "date": "05/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-20T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Nifty reclaims 20-DEMA; JSW Infra, GMR Airports top stock picks: Angel One",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/stocks-to-buy-today-nifty-reclaims-20-dema-jsw-infra-gmr-airports-top-stock-picks-angel-one-126061500074_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2017-08/02/full/1501658367-0858.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlSemMzVVc1NlFUZGhVRWhVVFJEUUF4anNCQ2dLTWdPQk14QQ",
+   "date": "06/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-15T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "JSW Infrastructure Ltd. Stock News: 4.56% Price Increase",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/jsw-infrastructure-ltd-share-price-rise-2026-08-03",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/JSW_Infrastructure_Ltd_JSWINFRA_Share_Price_Rises_456_Today_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxOVWRTT1ZCQmFYTkVObkpsVFJDUUF4ai1CU2dLTWdZQlFJcmluZ2s",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "JSW Infrastructure shares gain 2.22% in today's session",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:8abb3ecfe094b:0-jsw-infrastructure-shares-gain-2-22-in-today-s-session/",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "JSW INFRASTRUCTURE TO RAISE ₹6300 CRORE THROUGH EQUITY SHARE ISSUE",
+   "source": {
+    "name": "ICICI Direct",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.icicidirect.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.icicidirect.com/research/equity/trending-news/jsw-infrastructure-to-raise-6300-crore-through-equity-share-issue",
+   "thumbnail": "https://www.icicidirect.com/images//JSW%20Infra%20IPO-202309251117517209559.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iKkNnNUVObmR4WlRNeVR5MXVVMnBNVFJCekdNQUJLQW95QmhHU2xvYzFCdw",
+   "date": "02/24/2026, 04:11 PM, +0000 UTC",
+   "iso_date": "2026-02-24T16:11:30Z"
+  },
+  {
+   "position": 63,
+   "title": "JSW Infrastructure gets LOI to set up Inland Container Depot in Karnataka's Ballari",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/jsw-infrastructure-share-price-gets-loi-to-set-up-inland-container-depot-in-karnatakas-ballari-19989615.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/jsw-infrastructure-2026-07-c9795a3da8ae13e09125b974757a7399.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFabFZ6UkVNMWRWWlFaM2xpVFJDZkF4ampCU2dLTWdZTklJTFFSQU0",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "JSW Infra slips 3% after drone debris damages storage tank at Fujairah",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infrastructure-slips-3-percent-after-drone-debris-damages-storage-tank-at-fujairah-126030400267_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-02/03/full/1770142892-7876.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFRWFZ0T0VwRmJrVnFka0UxVFJERUF4aW5CU2dLTWdZSm9JaHBSUVE",
+   "date": "03/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-04T08:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Pinning Down JSW Infrastructure Limited's (NSE:JSWINFRA) P/E Is Difficult Right Now",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-jswinfra/jsw-infrastructure-shares/news/pinning-down-jsw-infrastructure-limiteds-nsejswinfra-pe-is-d",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "01/07/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-07T08:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Buy JSW Infrastructure; target of Rs 400: Motilal Oswal",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/buy-jsw-infrastructure-target-of-rs-400-motilal-oswal-13980591.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251117070502_Buy1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXllRFpUTWxsV1VtaGZZeTFaVFJDZkF4ampCU2dLTWdPVlV4QQ",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "JSW Infrastructure Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/324935/jsw-infrastructure-ltd/peer-comparison/",
+   "date": "08/31/2026, 05:24 AM, +0000 UTC",
+   "iso_date": "2026-08-31T05:24:17Z"
+  },
+  {
+   "position": 68,
+   "title": "JSW Infrastructure opens Rs 7,503-crore QIP, fixes floor price",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/companies/jsw-infrastructure-opens-rs-7-503-crore-share-sale-at-rs-285-per-share-13956008.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/01/20250127110200_jswrtr.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhbEZ2TkRWUkxWTmxNelpDVFJDZkF4ampCU2dLTWdhQmdvcE96UVE",
+   "date": "06/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-22T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "JSW Infrastructure closes Rs 7,503-crore QIP, fixes issue price at Rs 285 per share",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/jsw-infrastructure-closes-rs-7-503-crore-qip-fixes-issue-price-at-rs-285-per-share-13959273.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2020/01/Cargo.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJRVzFtVTJWSWRXeHJUalUzVFJDZkF4ampCU2dLTWdrRklJTEd2R0lsTEFJ",
+   "date": "06/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "JSW Infrastructure completes ₹7,503 crore QIP at ₹285 per share to accelerate expansion",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/jsw-infrastructure-completes-7-503-crore-qip-at-285-per-share-to-accelerate-expansion-4091-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/4091_PE_1_CORPORATE_26_06_2026_16x9_f42eadf030.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUliMmh1VHpJeGMzbG1XR05MVFJDZUF4amxCU2dLTWdZWlk0aXFLUVU",
+   "date": "06/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-26T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "JSW Infrastructure signs deal to acquire 100% stake in JSW Overseas",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-signs-deal-acquire-100-stake-jsw-overseas/48957770",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-signs-deal-acquire-100-stake-jsw-overseas.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVdRVzlSU1VOd1RVNUxlR0o1VFJDZkF4ampCU2dLTWdNZE1BQQ",
+   "date": "08/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-22T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Middle East tensions: JSW Infrastructure reports tank damage after intercepted drone incident; stock in focus",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/middle-east-tensions-jsw-infrastructure-reports-tank-damage-after-intercepted-drone-incident-stock-in-focus/",
+   "thumbnail": "https://alicebluewebsite.s3.ap-south-1.amazonaws.com/wp-content/uploads/2026/03/04171503/jsw-infra-drone-incident-tank-damage.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVSVEYzVW5oRGFGRmFYMVZPVFJDNEFSaVJBaWdCTWdB",
+   "date": "10/02/2026, 09:53 AM, +0000 UTC",
+   "iso_date": "2026-10-02T09:53:16Z"
+  },
+  {
+   "position": 73,
+   "title": "JSW Infrastructure Shares Rise 2.03% to Rs 335.95",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-shares-rise-2-03-to-rs-335-95-alpha-article-13995007.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250218095653_volatile_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTM1JyV2sxVmR6TldlVGx2VFJDZkF4ampCU2dLTWdhTmNaUUlzUWM",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "JSW Infrastrcuture Rises 3% as Rs 7,503 Cr QIP Opens for Bids",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/jsw-infrastructure-rises-3-as-rs-7503-cr-qip-opens-for-bids/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/05/JSW-Infrastructure-Files-Draft-IPO-Documents-with-Sebi-to-Raise-Rs-2800-Crore-EP.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhNR3hpVUc1b00yOXNjV0pYVFJDZkF4ampCU2dLTWdZWjRvaHVUUVE",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "JSW Infrastructure Share Price Target 2026: Expert Forecast, Growth Catalysts and Key Risks",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/jsw-infrastructure-share-price-target-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/05/07135331/JSW-Infrastructure-Share-Price-Target-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW5jelJGTURkcmVrNWhNRXhuVFJDZUF4amxCU2dLTWdB",
+   "date": "05/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-07T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "JSW Infrastructure revenue rises 18% in Q1FY27, profit dips",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-to-discuss-q1fy27-results-on-july-21/46100400",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-to-discuss-q1fy27-results-on-july-21.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTZNRGRIVjNFNFRGaHJWRFZYVFJDaUF4amRCU2dLTWdNQlVBZw",
+   "date": "07/20/2026, 01:44 PM, +0000 UTC",
+   "iso_date": "2026-07-20T13:44:23Z"
+  },
+  {
+   "position": 77,
+   "title": "JSW Infra announces record date for ₹0.90 per share dividend; check details",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kamal Joshi"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/jsw-infra-announces-record-date-for-0-90-per-share-dividend-check-details/article-195296/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/jsw-infra-dividend-record-date-share-price.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNabXhIU1dzeU5Fa3lWRzlDVFJEZ0F4aUFCU2dLTWdZWmhKU0tzUWM",
+   "date": "06/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-14T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "JSW Infra well placed to ride port-led growth, says MOFSL; sees 39% upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infra-well-placed-to-ride-port-led-growth-says-mofsl-retains-buy-126031300157_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-08/01/full/1753990935-9514.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1SWGRLUW5wbFQyaGZTMVZPVFJDb0F4alRCU2dLTWdZWk40d3FvZ2M",
+   "date": "03/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-13T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "JSW Infra shares gain after bagging container berths project at Kolkata Port",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sheersh Kapoor"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/jsw-infra-shares-gain-after-bagging-container-berths-project-at-kolkata-port-ws-l-19922208.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2024/07/jsw-infrastructure-2024-07-483d271ed1b872275bfa13091565e084.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZPSFJyTkc1WU1YZ3hNMFZuVFJDZkF4ampCU2dLTWdZRmtJS3h0QVE",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "JSW Infra, Syrma SGS, Vedanta, Info Edge, among buzzing stocks as SENSEX, NIFTY50 tank 1%",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/jsw-infra-syrma-sgs-vedanta-info-edge-among-buzzing-stocks-as-sensex-nifty-tank-1/article-195822/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/buzzing-stocks-june-22-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpZV0YwUkRaTlRYTkZTRTgxVFJEZ0F4aUFCU2dLTWdZUmNJNnpSQVU",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Buy JSW Infrastructure; target of Rs 360: Motilal Oswal",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/buy-jsw-infrastructure-target-of-rs-360-motilal-oswal-4-13944906.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251118070809_Buy_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlkRWcyYm5NMGIxZEVjM3BZVFJDZkF4ampCU2dLTWdZTmdJZ29PUVk",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "JSW Infra FY26: Consolidated Revenue Rises; Q4 Earnings Call Transcript Released",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-q4-results-ebitda-climbs-to-7-7b-rupees-as-revenue-grows-net-profit-declines-yoy/39816390",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-q4-results-ebitda-climbs-to-7-7b-rupees-as-revenue-grows-net-profit-declines-yoy.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUJWV0ZXUkhKUFNFbFBVVWRMVFJDdEF4akxCU2dLTWdzQlVKSjBwQ2ZnQy1yWWtn",
+   "date": "05/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-12T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "JSW Infra weighs ₹6,000 crore fund raise for various purposes: Exclusive",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/jsw-infrastructure-share-price-weighs-6000-crore-fund-raise-for-various-purposes-exclusive-ws-el-19924408.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-ea55e3cbdac9ff9311f9fec1080bc76e.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNVpTV2RmTVZGSWRsVjRjMDF4VFJDZkF4ampCU2dLTWc0QlVJQW53S0tCREFyUEhvNE1GUQ",
+   "date": "06/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-12T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "JSW Infra QIP Attracts Rs 50,350 Cr Bids, 7x Demand",
+   "source": {
+    "name": "Rediff MoneyWiz",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://money.rediff.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://money.rediff.com/news/market/jsw-infra-qip-attracts-rs-50-350-cr-bids-7x-demand/49446120260625",
+   "thumbnail": "https://im.rediff.com/1200-900/money/2019/may/29logistics.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNhMGM0V0VOcVVEVlFXak5LVFJEZ0F4aUFCU2dLTWdrQlVJQUFOR09nYXdJ",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "JSW Infrastructure jumps 6% as analysts see strong medium-term growth",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sirali Gupta"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/jsw-infrastructure-share-price-target-nse-bse-q3-results-profit-revenue-ebitda-126011900179_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-07/07/full/1751902040-833.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRkVUYxWVV0TVltUnpWVXBzVFJEZkF4aUFCU2dLTWdZQmdJaUl3UVE",
+   "date": "01/19/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-19T08:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "JSW Infrastructure - Lenskart, Delhivery, among 10 stocks with highest increase in DII holdings in Q1. See full list",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-delhivery-among-10-stocks-with-highest-increase-in-dii-holdings-in-q1-see-full-list/jsw-infrastructure/slideshow/133170725.cms",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "JSW Infrastructure Wins Kolkata Port Project; Shares Jump",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/jsw-infrastructure-bags-kolkata-port-container-terminal-project-shares-surge-4-81-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/image-40.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdWVVF3VW5kM1ZrZzVVVE40VFJERUF4aW1CU2dLTWdZQk40b21MZ2c",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "JSW Infra Q4 profit declines 18% to ₹418 crore amid one-offs, forex loss",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prachi Pisal"
+    ]
+   },
+   "link": "https://www.business-standard.com/companies/quarterly-results/jsw-infra-q4-profit-declines-18-to-418-crore-amid-one-offs-forex-loss-126050801413_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2024-05/03/full/1714758770-8207.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDROSGhTYlhWTlZVeFljSFJsVFJEZ0F4aUFCU2dLTWdhWms0cHJ1UVE",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Buy JSW Infrastructure Ltd for the Target Rs 360 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-jsw-infrastructure-ltd-for-the-target-rs-360-by-motilal-oswal-financial-services-ltd885381",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "JPMorgan bullish on port sector; initiates 'OW' on Adani Ports, JSW Infra",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/jpmorgan-bullish-on-port-sector-initiates-ow-on-adani-ports-jsw-infra-126030600130_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-03/05/full/1772733965-4764.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXBOMFZTYzBkNlNDMVRTVTgxVFJDaEF4amZCU2dLTWdrQk1JUUd1aVdEYUFJ",
+   "date": "03/06/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-06T08:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Accumulate JSW Infrastructure; target of Rs 361: Prabhudas Lilladher",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/accumulate-jsw-infrastructure-target-of-rs-361-prabhudas-lilladher-13980252.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2023/08/Accumulate_1280x720_3.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWRTlWYjNaUE9DMVpUVFp5VFJDZkF4ampCU2dLTWdZUlVZckhMQWc",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "JSW Infrastructure Q4 net profit falls 18% but revenue up 19%; declares dividend",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/jsw-infrastructure-share-price-q4-net-profit-falls-18-but-revenue-up-19-declares-dividend-19902024.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2024/07/jsw-infrastructure-2024-07-483d271ed1b872275bfa13091565e084.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZPSFJyTkc1WU1YZ3hNMFZuVFJDZkF4ampCU2dLTWdZRmtJS3h0QVE",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "JSW Infrastructure sets July 18 deadline for dividend TDS declarations",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/jsw-infrastructure-sets-july-18-deadline-for-dividend-tds-declarations/45154071",
+   "thumbnail": "https://news-images.dhan.co/jsw-infrastructure-sets-july-18-deadline-for-dividend-tds-declarations.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWlWRkp0Y0dkWVVYSk5UMnBuVFJDaUF4amRCU2dLTWdzQlVJTElKV1lkbFFnWFJR",
+   "date": "07/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-18T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Earnings call transcript: JSW Infrastructure posts strong Q1 2027 growth",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-jsw-infrastructure-posts-strong-q1-2027-growth-93CH-4803464",
+   "date": "07/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-21T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "JSW Infrastructure shares fall 2.03% in today's trade",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/jsw-infrastructure-shares-fall-2-03-in-today-s-trade-alpha-article-14007354.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "JSW Infrastructure gains 5% after winning key Kolkata port container terminal project",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/jsw-infrastructure-gains-5-after-winning-key-kolkata-port-container-terminal-project-13945090.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2020/01/Cargo.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJRVzFtVTJWSWRXeHJUalUzVFJDZkF4ampCU2dLTWdrRklJTEd2R0lsTEFJ",
+   "date": "06/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-09T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "JSW Infra share price jumps 4% as QIP kicks off; stock up 29% in three months",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/jsw-infra-share-price-jumps-4-as-qip-kicks-off-stock-up-29-in-three-months-538584-2026-06-23",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3a0a4649011-jsw-infra-is-well-placed-to-benefit-from-indias-push-for-multimodal-integration-and-port-led-indust-232328859-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNSMkpRYUU4MWFtRnNlRTh6VFJDZkF4ampCU2dLTWdhbFk0Yk1MUVk",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "JSW Infrastructure arm signs agreement to develop captive jetty in Odisha",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/jsw-infrastructure-share-price-arm-signs-agreement-to-develop-captive-jetty-in-odisha-19940481.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/jsw-infrastructure-2026-07-c9795a3da8ae13e09125b974757a7399.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFabFZ6UkVNMWRWWlFaM2xpVFJDZkF4ampCU2dLTWdZTklJTFFSQU0",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "JSW Infra share price target cut by JM Financial but FY26 guidance could still be met",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/jsw-infra-share-price-target-cut-by-jm-financial-but-fy26-guidance-could-still-be-met-ws-l-19881934.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2024/07/jsw-infrastructure-2024-07-483d271ed1b872275bfa13091565e084.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZPSFJyTkc1WU1YZ3hNMFZuVFJDZkF4ampCU2dLTWdZRmtJS3h0QVE",
+   "date": "04/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-07T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Why Is JSW Infrastructure Share Price Falling Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-is-jsw-infrastructure-share-price-falling",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Why-Is-JSW-Infrastructure-Share-Price-Falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdSRmxZTjNaalVVd3RTV1ZMVFJDZUF4amxCU2dLTWdZUlFvSUlYUUk",
+   "date": "06/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-12T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:13"
+}

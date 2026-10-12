@@ -1,0 +1,82 @@
+{
+ "search_metadata": {
+  "id": "6ac7bfa05fda0be073313d0a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/i75sNxuhC4m-c43eMrnLjrWUgZY_1TQQih8w_0y4Xl8/6ac7bfa05fda0be073313d0a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/i75sNxuhC4m-c43eMrnLjrWUgZY_1TQQih8w_0y4Xl8/6ac7bfa05fda0be073313d0a.md",
+  "created_at": "2026-10-08 16:06:56 UTC",
+  "processed_at": "2026-10-08 16:06:56 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=nwig2DHzBUs",
+  "raw_html_file": "https://serpapi.com/searches/i75sNxuhC4m-c43eMrnLjrWUgZY_1TQQih8w_0y4Xl8/6ac7bfa05fda0be073313d0a.html",
+  "prettify_html_file": "https://serpapi.com/searches/i75sNxuhC4m-c43eMrnLjrWUgZY_1TQQih8w_0y4Xl8/6ac7bfa05fda0be073313d0a.prettify",
+  "total_time_taken": 7.74
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "nwig2DHzBUs",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "अह अगला सवाल जो आपसे ले लेते हैं।",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 2000,
+   "snippet": "आईओएलसीपी इस पर हिमांशु जी की राय कई बार ली गई है। अह आईओएलसीपी में अब देखिए क्या गतिविधि हो सकती है। आज ऑलमोस्ट फ्लैट है।",
+   "start_time_text": "0:02",
+   "start_time_label": "2 seconds"
+  },
+  {
+   "start_ms": 10000,
+   "snippet": "लेकिन क्या यहां पर एक नई तेजी की तैयारी अभी भी हो रही है। जरा देखिए एक बार क्योंकि वॉल्यूम्स लगातार बढ़ते हुए और अच्छी तेजी रही है। जी",
+   "start_time_text": "0:10",
+   "start_time_label": "10 seconds"
+  },
+  {
+   "start_ms": 18000,
+   "snippet": "यस। इसमें पार्टिसिपेट करने की फिर से सलाह होगी। पहले भी सलाह दी है। तो अभी वैसे यह भी वही छोटे शेयर ऊंची छलांग में",
+   "start_time_text": "0:18",
+   "start_time_label": "18 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "डिस्कस डिस्कस्ड स्टॉक है। तो अभी यहां से तुरंत जो 211 का भाव है अब नहीं फिलहाल एंट्री करना चाहिए। आज",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 33000,
+   "snippet": "नहीं तो इस हफ्ते आपको 200 के आसपास यानी करीब पांच छ 5 से 6% डिस्काउंटेड प्राइस पर मिलेगा। वहां आप",
+   "start_time_text": "0:33",
+   "start_time_label": "33 seconds"
+  },
+  {
+   "start_ms": 41000,
+   "snippet": "एंट्री कर सकते हैं और जो कन्विक्शन आपको 211 पर आ रहा है मतलब जो दर्शक देख रहे हैं तो जो कन्विक्शन आपको 211 पर आ रहा है",
+   "start_time_text": "0:41",
+   "start_time_label": "41 seconds"
+  },
+  {
+   "start_ms": 48000,
+   "snippet": "वो 200 पर तो और ज्यादा आना चाहिए क्योंकि बिनेस आपको समझ में आए तो राइट अब यहां से स्टॉप लॉस जब आपकी एंट्री होगी 200 के पास",
+   "start_time_text": "0:48",
+   "start_time_label": "48 seconds"
+  },
+  {
+   "start_ms": 55000,
+   "snippet": "में तब ₹180 का स्टॉप लॉस रखना और ₹235 का पहला टारगेट टारगेट आते समय या तो बुक कर लीजिए अदरवाइज ₹250 का सेकंड टारगेट का",
+   "start_time_text": "0:55",
+   "start_time_label": "55 seconds"
+  },
+  {
+   "start_ms": 63000,
+   "snippet": "वेट कर सकते हैं तो 200 पर आ जाए तो भी 200 पर हम चलिए ठीक है अभी नहीं खरीदने की सलाह है। यह बात यहां पर निकल के आई है।",
+   "start_time_text": "1:03",
+   "start_time_label": "1 minute, 3 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:07:02"
+}

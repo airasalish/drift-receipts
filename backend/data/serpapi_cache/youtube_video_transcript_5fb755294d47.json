@@ -1,0 +1,94 @@
+{
+ "search_metadata": {
+  "id": "6ac7bf94f7e99623c8eb0241",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/mnuANs6jOcjOyzlPK62Nn58HLkNMLdru-pB9kY3bMPY/6ac7bf94f7e99623c8eb0241.json",
+  "markdown_endpoint": "https://serpapi.com/searches/mnuANs6jOcjOyzlPK62Nn58HLkNMLdru-pB9kY3bMPY/6ac7bf94f7e99623c8eb0241.md",
+  "created_at": "2026-10-08 16:06:44 UTC",
+  "processed_at": "2026-10-08 16:06:44 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=kBOT52QlioE",
+  "raw_html_file": "https://serpapi.com/searches/mnuANs6jOcjOyzlPK62Nn58HLkNMLdru-pB9kY3bMPY/6ac7bf94f7e99623c8eb0241.html",
+  "prettify_html_file": "https://serpapi.com/searches/mnuANs6jOcjOyzlPK62Nn58HLkNMLdru-pB9kY3bMPY/6ac7bf94f7e99623c8eb0241.prettify",
+  "total_time_taken": 7.43
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "kBOT52QlioE",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "अ मैम एक काउंटर जरा देखिए। इस पर भी हम लोगों ने छोटे शेयर में भी बात की थी।",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 4000,
+   "snippet": "आईओएलसीपी आईओएल केमिकल को लेकर के और अब यह 200 के ऊपर निकलता हुआ दिखाई दे रहा है। तो पहला काउंटर ये ले लीजिए। कोशिश",
+   "start_time_text": "0:04",
+   "start_time_label": "4 seconds"
+  },
+  {
+   "start_ms": 12000,
+   "snippet": "करेंगे अब थोड़ा सा दो-दो काउंटर पे बातचीत करने की। तो इसमें अभी क्या कितना अपसाइड आप देख रही हैं। दूसरा जो है एक",
+   "start_time_text": "0:12",
+   "start_time_label": "12 seconds"
+  },
+  {
+   "start_ms": 21000,
+   "snippet": "कॉल दी गई थी। अ हिमांशु जी की तरफ से भी थी। आपकी तरफ से भी थी एसएसडब्ल्यूएल।",
+   "start_time_text": "0:21",
+   "start_time_label": "21 seconds"
+  },
+  {
+   "start_ms": 27000,
+   "snippet": "और यह आज भी 2.5% ऊपर है। 358 पे अप ट्रेड करता हुआ। अभी क्या करना चाहिए स्टील स्टफ बिल्स पे? क्या अब भी अपसाइड की गुंजाइश",
+   "start_time_text": "0:27",
+   "start_time_label": "27 seconds"
+  },
+  {
+   "start_ms": 36000,
+   "snippet": "है? आप भी खरीद सकते हैं या जिस तरीके से एक हफ्ते में 23% चला है। छोड़ देना चाहिए अब आपका व्यू दोनों पे।",
+   "start_time_text": "0:36",
+   "start_time_label": "36 seconds"
+  },
+  {
+   "start_ms": 43000,
+   "snippet": "फाइन। तो पहले आई आईओएलसीपी पर बात करते हैं जो कि 202 पर है। पोजीशन होल्ड एंड एक बार अटेम्प्ट बाय का भी। अह अभी मोस्ट",
+   "start_time_text": "0:43",
+   "start_time_label": "43 seconds"
+  },
+  {
+   "start_ms": 52000,
+   "snippet": "रिसेंट वाली एंट्री 162 की थी। उसके बाद 200 देख रहे हैं हम लोग। तो अभी फिलहाल आप होल्ड करके बिल्कुल जा सकते हैं। छोटे",
+   "start_time_text": "0:52",
+   "start_time_label": "52 seconds"
+  },
+  {
+   "start_ms": 60000,
+   "snippet": "शेयरों की चालान में डिस्कस हुआ था। तो अभी वो टारगेट नहीं आया है। दैट इज 220।",
+   "start_time_text": "1:00",
+   "start_time_label": "1 minute"
+  },
+  {
+   "start_ms": 64000,
+   "snippet": "राउंड फिगर आई थिंक 220 है। 220 के टारगेट के लिए अभी आराम से इसमें होल्ड एंड आज के इस प्राइस पर बाय भी कर सकते हैं। स्टॉप",
+   "start_time_text": "1:04",
+   "start_time_label": "1 minute, 4 seconds"
+  },
+  {
+   "start_ms": 72000,
+   "snippet": "लॉस अब सब लोग रिवाइज़ कर लेना। जिन्होंने यू नो लास्ट वीक खरीदा वगैरह जो भी है तो स्टॉप लॉस रिवाइज़ कर लीजिए 178 का। उसके",
+   "start_time_text": "1:12",
+   "start_time_label": "1 minute, 12 seconds"
+  },
+  {
+   "start_ms": 80000,
+   "snippet": "साथ अब इसमें कोई भी पोजीशन फदर होल्ड की जाए तो बेहतर है।",
+   "start_time_text": "1:20",
+   "start_time_label": "1 minute, 20 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:06:50"
+}

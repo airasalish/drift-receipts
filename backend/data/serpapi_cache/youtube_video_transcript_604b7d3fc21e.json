@@ -1,0 +1,166 @@
+{
+ "search_metadata": {
+  "id": "6ac7beffeb46effca4753adb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/zrv4rJe9oEDPK0gDag8sAig5016mKlDtZuE5jzOtwhI/6ac7beffeb46effca4753adb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/zrv4rJe9oEDPK0gDag8sAig5016mKlDtZuE5jzOtwhI/6ac7beffeb46effca4753adb.md",
+  "created_at": "2026-10-08 16:04:15 UTC",
+  "processed_at": "2026-10-08 16:04:15 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=iB0r2MG5OQI",
+  "raw_html_file": "https://serpapi.com/searches/zrv4rJe9oEDPK0gDag8sAig5016mKlDtZuE5jzOtwhI/6ac7beffeb46effca4753adb.html",
+  "prettify_html_file": "https://serpapi.com/searches/zrv4rJe9oEDPK0gDag8sAig5016mKlDtZuE5jzOtwhI/6ac7beffeb46effca4753adb.prettify",
+  "total_time_taken": 6.23
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "iB0r2MG5OQI",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "snippet": "टैब्स और आज सुबह-सुबह श्रेया ने मेंशन करा था आज का इक्का 197 कम्युनिकेशन Paytm",
+   "start_time_text": "0:00",
+   "start_time_label": "0 seconds"
+  },
+  {
+   "start_ms": 7000,
+   "snippet": "ये आजकल आज का इक्का जैसी बताती है फट जाता है वो स्टॉक खैर रिपोर्ट भी अच्छी थी बट पहले मैं Pine लैब्स पे आ रहा हूं",
+   "start_time_text": "0:07",
+   "start_time_label": "7 seconds"
+  },
+  {
+   "start_ms": 15000,
+   "snippet": "P लैब्स तो ऐसी कोई रिपोर्ट-वोट थी नहीं 15% क्यों ऊपर है? क्या रीज़न है?",
+   "start_time_text": "0:15",
+   "start_time_label": "15 seconds"
+  },
+  {
+   "start_ms": 20000,
+   "snippet": "तो मैं जब Fintech फेस्ट कवर करने गई थी तो बहुत सारे आइडियाज सामने निकल कर आए।",
+   "start_time_text": "0:20",
+   "start_time_label": "20 seconds"
+  },
+  {
+   "start_ms": 25000,
+   "snippet": "अब Pine लैब्स ने काफी इंटरेस्टिंग एक पार्टनरशिप की है LNT Finance के साथ मिलकर और इन्होंने एजेंटिक एआई पर काम",
+   "start_time_text": "0:25",
+   "start_time_label": "25 seconds"
+  },
+  {
+   "start_ms": 32000,
+   "snippet": "किया है। तो जो मैं बोलने वाली हूं वो काफी इंटरेस्टिंग है क्योंकि L&T Finance के साथ इन्होंने एजेंटिक कॉमर्स के लिए एक",
+   "start_time_text": "0:32",
+   "start_time_label": "32 seconds"
+  },
+  {
+   "start_ms": 38000,
+   "snippet": "पार्टनरशिप की है और ये अब एआई से आप सब कुछ कर पाएंगे। ट्रांजैक्शन भी कर पाएंगे।",
+   "start_time_text": "0:38",
+   "start_time_label": "38 seconds"
+  },
+  {
+   "start_ms": 44000,
+   "snippet": "बस आप एआई को बोलेंगे कि या यूपीआई से इन इन आगे वाले व्यक्ति को पैसे भेजने हैं या कुछ भी करने हैं तो उस पर काम हो रहा है",
+   "start_time_text": "0:44",
+   "start_time_label": "44 seconds"
+  },
+  {
+   "start_ms": 53000,
+   "snippet": "लेकिन अभी ये बहुत ही इनिशियल फज़ में है तो फ्लाइट बुकिंग्स पर अभी फिलहाल काम हो रहा है तो अभी फिलहाल नहीं अभी ये pाइन लैब्स नहीं L&T Finance",
+   "start_time_text": "0:53",
+   "start_time_label": "53 seconds"
+  },
+  {
+   "start_ms": 61000,
+   "snippet": "के साथ Pाइन लैब्स क्या है वो मर्चेंट मशीन वगैरह वो जो है ना और टाई अप्स करता है LNT Finance रिटेल लेंडिंग वेंडिंग का",
+   "start_time_text": "1:01",
+   "start_time_label": "1 minute, 1 second"
+  },
+  {
+   "start_ms": 69000,
+   "snippet": "काम करता है तो Pin LBS इनको टेक्नोलॉजी देने वाला LNT Finance को कैसे होगा तो Plaps और LNT Finance मिलकर एक एक",
+   "start_time_text": "1:09",
+   "start_time_label": "1 minute, 9 seconds"
+  },
+  {
+   "start_ms": 77000,
+   "snippet": "प्रोडक्ट ऐसा प्रोडक्ट डेवलप कर रहे हैं जिसके थ्रू आप एआई को कुछ भी बोलेंगे वो करेगा ट्रांजैक्शन करेगा आपकी फ्लाइट बुकिंग कर देगा आपका खाना भी ऑर्डर कर",
+   "start_time_text": "1:17",
+   "start_time_label": "1 minute, 17 seconds"
+  },
+  {
+   "start_ms": 86000,
+   "snippet": "देगा वो आपने Zomato से कुछ ऑर्डर किया उसको बोला आपने पेमेंट भी कर दो वो कर देगा लेकिन यूज़र्स एक लिमिट सेट करेंगे कि इतने इतना ही ट्रांजैक्शन कर पाएंगे 20000",
+   "start_time_text": "1:26",
+   "start_time_label": "1 minute, 26 seconds"
+  },
+  {
+   "start_ms": 95000,
+   "snippet": "तक का ही आप ट्रांजैक्शन कर पाएंगे जो भी अमाउंट तो उस पे कामकाज हो रहा है काफी इनिशियल फेज में है ये तो ये काफी इंटरेस्टिंग है तो इसके थोड़े और डिटेल्स",
+   "start_time_text": "1:35",
+   "start_time_label": "1 minute, 35 seconds"
+  },
+  {
+   "start_ms": 102000,
+   "snippet": "में बता दूं तो इसकी उसकी शुरुआत फ्लाइट बुकिंग से हो रही है। तो LNT Finance के प्लेनेट ऐप पर यूजर अपनी रिक्वायरमेंट बताएगा। LNT Finance का एक प्लनेट ऐप है।",
+   "start_time_text": "1:42",
+   "start_time_label": "1 minute, 42 seconds"
+  },
+  {
+   "start_ms": 112000,
+   "snippet": "उस पर यूजर अपनी रिक्वायरमेंट बताएगा और एi एजेंट उसके बिहाफ पर बुकिंग करेंगे।",
+   "start_time_text": "1:52",
+   "start_time_label": "1 minute, 52 seconds"
+  },
+  {
+   "start_ms": 117000,
+   "snippet": "फ्लाइट बुकिंग यह कंट्रोल पूरी तरह से यूज़र्स के हाथ में ही होगा। एipp से कोई खुद डिसीजन ऑब्वियसली नहीं लेगा। तो यूजर एक लिमिट सेट करेंगे। इसी अमाउंट तक वह",
+   "start_time_text": "1:57",
+   "start_time_label": "1 minute, 57 seconds"
+  },
+  {
+   "start_ms": 126000,
+   "snippet": "ट्रांजैक्शन कर सकते हैं। तो कुछ कंडीशंस भी है और इस पर कामकाज हो रहा है। आगे आने वाले समय में और भी कुछ डेवलपमेंट देखने को मिल सकती है। उसके बाद पाइल लैप्स के",
+   "start_time_text": "2:06",
+   "start_time_label": "2 minutes, 6 seconds"
+  },
+  {
+   "start_ms": 135000,
+   "snippet": "मैनेजमेंट ने जो बातें कही वो भी काफी इंटरेस्टिंग थी। उन्होंने कहा कि क्वार्टर टू काफी इंपॉर्टेंट होता है उनके लिए फेस्टिव सीजन के लिहाज से। अगस्त का महीना",
+   "start_time_text": "2:15",
+   "start_time_label": "2 minutes, 15 seconds"
+  },
+  {
+   "start_ms": 143000,
+   "snippet": "काफी अच्छा रहा है उनके इनफैक्ट और क्वार्टर थ्री पेमेंट और कंज्यूमर कंपनीज़ के लिए काफी बड़ा होने वाला है यह क्वार्टर और अभी तक के जो आंकड़े सामने निकल कर आए",
+   "start_time_text": "2:23",
+   "start_time_label": "2 minutes, 23 seconds"
+  },
+  {
+   "start_ms": 152000,
+   "snippet": "हैं वो भी काफी इंटरेस्टिंग है। तो Pine LPS ने कहा कि कंपनी के मुताबिक ट्रांजैक्शन वैल्यू पिछले साल के मुकाबले",
+   "start_time_text": "2:32",
+   "start_time_label": "2 minutes, 32 seconds"
+  },
+  {
+   "start_ms": 161000,
+   "snippet": "25 से 30% बढ़ी है। यानी कि ग्रोथ सिर्फ ट्रांजैक्शन की गिनती में नहीं है बल्कि वॉल्यूम पर हो रहा है। ट्रांजैक्शन पर",
+   "start_time_text": "2:41",
+   "start_time_label": "2 minutes, 41 seconds"
+  },
+  {
+   "start_ms": 168000,
+   "snippet": "ज्यादा स्पेंडिंग में आ रही है। तो जो मैनेजमेंट की बातें हैं वो भी काफी इंटरेस्टिंग है और जो यह एआई को लेकर अग्रेसर होकर कामकाज कर रहे हैं वो भी",
+   "start_time_text": "2:48",
+   "start_time_label": "2 minutes, 48 seconds"
+  },
+  {
+   "start_ms": 175000,
+   "snippet": "काफी इंटरेस्टिंग है। इसलिए 15% ये स्टॉक अप है।",
+   "start_time_text": "2:55",
+   "start_time_label": "2 minutes, 55 seconds"
+  }
+ ],
+ "_fetched_at": "2026-10-08T16:04:20"
+}

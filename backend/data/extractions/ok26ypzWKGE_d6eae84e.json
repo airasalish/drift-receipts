@@ -1,0 +1,458 @@
+{
+ "calls": [
+  {
+   "company": "Oil and Natural Gas Corporation Ltd",
+   "symbol_guess": "ONGC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओएgसी ऑयल एंड नेचुरल गैस कॉरपोरेशन जो है और nco जो है यह डिविडेंड देते हैं।",
+   "start_s": 144,
+   "line": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as a list of top dividend stocks and the speaker lists ONGC as a dividend‑paying company."
+  },
+  {
+   "company": "NOC Ltd",
+   "symbol_guess": "NOC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओएgसी ऑयल एंड नेचुरल गैस कॉरपोरेशन जो है और nco जो है यह डिविडेंड देते हैं।",
+   "start_s": 144,
+   "line": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "Mentioned together with ONGC as a dividend‑paying stock in the list of best dividend stocks."
+  },
+  {
+   "company": "National Aluminium Company Ltd",
+   "symbol_guess": "NALCO",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "नेशनल एलुमिनियम कॉरपोरेशन लिमिटेड पर।",
+   "start_s": 180,
+   "line": "एलुमिनियम",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 162
+    }
+   ],
+   "reason": "Presented as one of the dividend‑stock picks in the video."
+  },
+  {
+   "company": "Hindustan Petroleum Corporation Ltd",
+   "symbol_guess": "HPCL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "हिंदुस्तान पेट्रोलियम कॉरपोरेशन का भी हम 5 साल का",
+   "start_s": 213,
+   "line": "कॉरपोरेशन लिमिटेड। तो हिंदुस्तान",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 193
+    }
+   ],
+   "reason": "Listed as a dividend‑paying company in the series of picks."
+  },
+  {
+   "company": "India Dynamics Ltd",
+   "symbol_guess": "INDIA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "अब अगर हम भारत डायनामिक्स को देखें",
+   "start_s": 229,
+   "line": "डायनामिक्स। अब अगर हम भारत डायनामिक्स को",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 222
+    }
+   ],
+   "reason": "Included in the video as a dividend‑stock recommendation."
+  },
+  {
+   "company": "Bharat Petroleum Corporation Ltd",
+   "symbol_guess": "BPCL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "अब हम आ जाते हैं मार्च में बीपीसीएल।",
+   "start_s": 270,
+   "line": "हम फरवरी तक पहुंचे। अब हम आ जाते हैं",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 241
+    }
+   ],
+   "reason": "Mentioned as part of the 12 best dividend stocks."
+  },
+  {
+   "company": "Power Grid Corporation of India Ltd",
+   "symbol_guess": "POWERGRID",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पावर ग्रिड कॉरपोरेशन सो अगर मैं पावर ग्रिड पर आपको लेकर जाऊं",
+   "start_s": 285,
+   "line": "मार्च के अंदर एक और स्टॉक है पावर ग्रिड",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 258
+    }
+   ],
+   "reason": "Listed among the dividend‑stock picks."
+  },
+  {
+   "company": "Coal India Ltd",
+   "symbol_guess": "COALINDIA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोल इंडिया अगर आप देखोगे इस साल 10% के आसपास के रिटर्न है।",
+   "start_s": 299,
+   "line": "इंडिया अगर आप देखोगे इस साल 10% के आसपास",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 274
+    }
+   ],
+   "reason": "Presented as one of the best dividend stocks in the video."
+  },
+  {
+   "company": "Indian Oil Corporation Ltd",
+   "symbol_guess": "IOC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इंडियन ऑयल कॉरपोरेशन।",
+   "start_s": 340,
+   "line": "हम देखते हैं मई के अंदर इंडियन ऑयल",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as top dividend picks and the speaker lists Indian Oil Corporation as one of them."
+  },
+  {
+   "company": "Containers Corporation of India Ltd",
+   "symbol_guess": "CONCOR",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कंटेनर्स कॉरपोरेशन ऑफ़ इंडिया",
+   "start_s": 371,
+   "line": "ध्यान रखिएगा। इसके बाद कंटेनर्स",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The speaker includes Containers Corporation of India among the 12 best dividend stocks, matching the video’s buy‑oriented premise."
+  },
+  {
+   "company": "Power Finance Corporation Ltd",
+   "symbol_guess": "PFC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पावर फाइनेंस कॉरपोरेशन",
+   "start_s": 373,
+   "line": "कॉरपोरेशन ऑफ़ इंडिया है। फिर जून में पावर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "पावर फाइनेंस कॉरपोरेशन",
+     "where": "transcript",
+     "start_s": 376
+    }
+   ],
+   "reason": "Listed as a dividend pick in a video titled for best dividend stocks, indicating a buy recommendation."
+  },
+  {
+   "company": "Rural Electrification Corporation Ltd",
+   "symbol_guess": "REC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आरईसी",
+   "start_s": 410,
+   "line": "उसके बाद हम बात करते हैं जून के अंदर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "आरईसी",
+     "where": "transcript",
+     "start_s": 412
+    }
+   ],
+   "reason": "REC is presented as one of the dividend stocks, and the title suggests a buying stance."
+  },
+  {
+   "company": "NMDC Ltd",
+   "symbol_guess": "NMDC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एनएमडीसी",
+   "start_s": 420,
+   "line": "हैं हम जून तक आ गए हैं। ठीक है? फिर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "एनएमडीसी",
+     "where": "transcript",
+     "start_s": 422
+    }
+   ],
+   "reason": "The speaker lists NMDC as a dividend pick, aligning with the video’s buy‑focused theme."
+  },
+  {
+   "company": "IRCTC Ltd",
+   "symbol_guess": "IRCTC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आईआरसीटीc",
+   "start_s": 428,
+   "line": "100% से ऊपर की ग्रोथ है। ठीक है? अगस्त",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "आईआरसीटीc",
+     "where": "transcript",
+     "start_s": 431
+    }
+   ],
+   "reason": "IRCTC is mentioned among the 12 best dividend stocks, implying a buy recommendation."
+  },
+  {
+   "company": "Steel Authority of India Ltd",
+   "symbol_guess": "SAIL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्टील अथॉरिटी ऑफ़ इंडिया",
+   "start_s": 466,
+   "line": "सितंबर में आ जाता है स्टील अथॉरिटी ऑफ़",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "SAIL is included in the dividend stock list, and the video’s title frames it as a buy pick."
+  },
+  {
+   "company": "NTPC Ltd",
+   "symbol_guess": "NTPC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एनटीपीसी",
+   "start_s": 477,
+   "line": "अच्छी ग्रोथ आए। अक्टूबर में आ जाता है",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "एनटीपीसी",
+     "where": "transcript",
+     "start_s": 479
+    }
+   ],
+   "reason": "NTPC appears as a dividend stock recommendation, matching the buy‑oriented video premise."
+  },
+  {
+   "company": "Bharat Electronics Ltd",
+   "symbol_guess": "BEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बेल। भारत इलेक्ट्रॉनिक्स लिमिटेड।",
+   "start_s": 488,
+   "line": "वेरी गुड। उसके बाद आपका आता है नवंबर में",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "बेल। भारत इलेक्ट्रॉनिक्स लिमिटेड",
+     "where": "transcript",
+     "start_s": 492
+    }
+   ],
+   "reason": "BEL is presented as a dividend pick, and the title suggests a buying stance."
+  },
+  {
+   "company": "BHEL Ltd",
+   "symbol_guess": "BHEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बीएचएल",
+   "start_s": 513,
+   "line": "ग्रोथ मिली है। अच्छा हमने अभी तक कवर कर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "बीएचएल",
+     "where": "transcript",
+     "start_s": 515
+    }
+   ],
+   "reason": "BHEL is listed among the 12 best dividend stocks, implying a buy recommendation."
+  },
+  {
+   "company": "Vedanta Ltd",
+   "symbol_guess": "VEDL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Vedanta",
+   "start_s": 537,
+   "line": "अगर आपको पूरे साल डिविडेंड चाहिए तो",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "Vedanta",
+     "where": "transcript",
+     "start_s": 539
+    }
+   ],
+   "reason": "Vedanta is suggested as a dividend stock to hold, fitting the video’s buy‑focused theme."
+  },
+  {
+   "company": "Reliance Capital Ltd",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आरसी की बात कर रहा था",
+   "start_s": 720,
+   "line": "मैंने बात करी जैसे कोल इंडिया की बात कर",
+   "evidence": [
+    {
+     "text": "आरसी",
+     "where": "transcript",
+     "start_s": 722
+    }
+   ],
+   "reason": "The speaker mentions RC as part of the dividend stock list."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 3,
+ "llm_failed_chunks": 0
+}

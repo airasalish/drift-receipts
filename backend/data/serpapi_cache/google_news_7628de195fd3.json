@@ -1,0 +1,222 @@
+{
+ "search_metadata": {
+  "id": "6ac9f83dde20ee27bc550274",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/tHV7hC3Wr49yeY5U7PhxtwH7HbijlMrlpXFx2ROqIac/6ac9f83dde20ee27bc550274.json",
+  "markdown_endpoint": "https://serpapi.com/searches/tHV7hC3Wr49yeY5U7PhxtwH7HbijlMrlpXFx2ROqIac/6ac9f83dde20ee27bc550274.md",
+  "created_at": "2026-10-10 08:33:01 UTC",
+  "processed_at": "2026-10-10 08:33:01 UTC",
+  "google_news_url": "https://news.google.com/search?q=%22Pranjal+Kamra%22+SEBI&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/tHV7hC3Wr49yeY5U7PhxtwH7HbijlMrlpXFx2ROqIac/6ac9f83dde20ee27bc550274.html",
+  "total_time_taken": 0.63
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Pranjal Kamra\" SEBI"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Fake finfluencers misleading common man: What is SEBI doing to rein in the menace and is it enough?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sanket Dhanorkar"
+    ]
+   },
+   "link": "https://m.economictimes.com/wealth/invest/fake-finfluencers-misleading-common-man-what-is-sebi-doing-to-rein-in-the-menace-and-is-it-enough/articleshow/121373079.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-121373079,width-1200,height-900,resizemode-4,imgsize-69480/fake-finfluencers-misleading-common-man-what-is-sebi-doing-to-rein-in-the-menace-and-is-it-enough.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXhSblpxYTNFNWFEQkpNREZLVFJEZ0F4aUFCU2dLTWdPaEFRZw",
+   "date": "05/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-26T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Follow Influencers For Entertainment Not Education: Pranjal Kamra, Founder, Finology Ventures, Sebi RIA",
+   "source": {
+    "name": "Outlook Money",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.outlookmoney.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Tarun Bhardwaj"
+    ]
+   },
+   "link": "https://www.outlookmoney.com/news/follow-influencers-for-entertainment-not-education-pranjal-kamra-founder-finology-ventures-sebi-ria",
+   "thumbnail": "https://media.assettype.com/outlookmoney/2024-10-05/agjz013q/Pranjal-Kamra?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVa2RXU1hBdGVWbEZhalo1VFJDekF4akFCU2dLTWdZQklhU3VHUW8",
+   "date": "10/05/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-05T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Sebi loopholes, bull run gave financial influencers wings…",
+   "source": {
+    "name": "The Ken",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://the-ken.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jaspreet Kalra",
+     "Anand Kalyanaraman"
+    ]
+   },
+   "link": "https://the-ken.com/story/sebi-loopholes-bull-run-gave-financial-influencers-wings/",
+   "thumbnail": "https://the-ken.com/wp-content/uploads/2022/07/Finfluencers-lede-2-1024x423.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRhM1l3Tm5FMlRYVlhTalJVVFJDUUFSamVBaWdCTWdhZFU0N0xLUWM",
+   "date": "07/29/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-07-29T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "7 stock market red flags every Indian investor must avoid",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/7-stock-market-red-flags-every-indian-investor-must-avoid-11753855347182.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/07/30/1600x900/Financial-freedom-1_1753855678940_1753855684501.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVVGh0ZEVaUlJrVkxjelpHVFJDZkF4ampCU2dLTWdhSmNwUVRKUWc",
+   "date": "07/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-30T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "pranjal kamra",
+   "source": {
+    "name": "ED Times",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://edtimes.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://edtimes.in/rise-of-the-finfluencers-why-are-they-under-sebis-lens/pranjal-kamra/",
+   "thumbnail": "https://edtimes.in/wp-content/uploads/2022/12/pranjal-kamra.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNWWGhRZWpGb1puTmlTMmxpVFJDZkF4ampCU2dLTWdhaEJZUUxqZ28",
+   "date": "07/09/2025, 04:56 AM, +0000 UTC",
+   "iso_date": "2025-07-09T04:56:31Z"
+  },
+  {
+   "position": 6,
+   "title": "The finfluencer winter: How Sebi is tightening the leash on new-age financial influencers",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ashish Rukhaiyar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/magazine/the-buzz/story/the-finfluencer-winter-how-sebi-is-tightening-the-leash-on-new-age-financial-influencers-384733-2023-06-08",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202306/16-1-1-sixteen_nine.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDVXbkI2UmtwbGVWSjJUbGQ2VFJDZkF4ampCU2dLTWdB",
+   "date": "06/08/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-06-08T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Lost money to finfluencers’ advice? All that glitters is not gold, here's how to steer clear of non-credib",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Yasmin Hussain"
+    ]
+   },
+   "link": "https://m.economictimes.com/wealth/invest/lost-money-to-finfluencers-advice-all-that-glitters-is-not-gold-heres-how-to-steer-clear-of-non-credible-financial-advice/articleshow/121372979.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-121380232,width-1200,height-900,resizemode-4,imgsize-18036/finfluencers.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXNTbU56WjJkVGQxOVhRa0Y0VFJEZ0F4aUFCU2dLTWdrVllveG9MU2RNa2dF",
+   "date": "05/26/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-26T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Rise Of The Finfluencers: Why Are They Under SEBI’s Lens?",
+   "source": {
+    "name": "ED Times",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://edtimes.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://edtimes.in/rise-of-the-finfluencers-why-are-they-under-sebis-lens/",
+   "thumbnail": "https://edtimes.in/wp-content/uploads/2022/12/jpg_20221219_202526_0000-min.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1NMFpYVkdsWk5ITnFOamhQVFJDLUF4aXZCU2dLTWdrVlFaYVhHQ3FpN0FF",
+   "date": "12/20/2022, 08:00 AM, +0000 UTC",
+   "iso_date": "2022-12-20T08:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Finfluencers rejoice at ASCI go-ahead for general advice and promotion on social media after Sebi scrutiny",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Neha Joshi",
+     "Pratishtha Bagai"
+    ]
+   },
+   "link": "https://www.livemint.com/news/india/finfluencers-asci-social-media-sebi-11745849597977.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/04/28/1600x900/INDIA-SEBI-CUSTODIANS-0_1734329003526_1745863285406.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVpiblo1YzNscE56VndPV1kzVFJDZkF4ampCU2dLTWdtQkZZeUJtaWQ3eEFJ",
+   "date": "04/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-04-29T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "15 Best Youtube Channels to Learn Indian Stock Market",
+   "source": {
+    "name": "Trade Brains",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tradebrains.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kritesh Abhishek"
+    ]
+   },
+   "link": "https://tradebrains.in/youtube-channels-indian-stock-market/",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/853x480/filters:format(webp)/trade-brains/media/media_files/wp-content/uploads/2022/01/15-Best-Youtube-Channels-to-Learn-Indian-Stock-Market-2023-Cover-Image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRXRkpIU1hCV1V6SkJlVlJEVFJERUF4aW1CU2dLTWdhZFlvWVRwUWc",
+   "date": "09/06/2019, 01:00 PM, +0000 UTC",
+   "iso_date": "2019-09-06T13:00:39Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:32:59"
+}

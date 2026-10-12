@@ -1,0 +1,234 @@
+{
+ "company": "Sadhna Broadcast",
+ "ticker": null,
+ "videos": [
+  {
+   "video_id": "SnAXxUZkMRc",
+   "title": "🚨BIG UPDATE 🚨 Sadhna Broadcast latest news | Sadhna Broadcast Share analysis |Sadhna Broadcast share",
+   "url": "https://www.youtube.com/watch?v=SnAXxUZkMRc",
+   "channel": "Stock Fin Investo",
+   "channel_url": "https://www.youtube.com/@stockfininvesto",
+   "views": 2580,
+   "length": "4:07",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/SnAXxUZkMRc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKuD31f1mgzqhuaL3ZQt4EnkdAfg",
+   "mentions": [
+    {
+     "direction": "buy",
+     "explicit": true,
+     "target_price": null,
+     "quote": "अप्रैल में ऊपर से देख सकते हैं पुणे से चार से पांच महीने में",
+     "start_s": 230,
+     "line": "के आगे बढ़ने के लेकिन ज्यादा आंच और रूपए का जो है सपोर्ट जहर तोड़ देता है तो चांस बन सकते हैं इसके गिरावट के अदर वाइज",
+     "evidence": [
+      {
+       "text": "अप्रैल में ऊपर से देख सकते हैं",
+       "where": "transcript",
+       "start_s": 238
+      },
+      {
+       "text": "पुणे से चार से पांच महीने",
+       "where": "transcript",
+       "start_s": 238
+      }
+     ],
+     "reason": "Speaker suggests investing in Sadhna Broadcast, indicating a buy recommendation.",
+     "timestamp_url": "https://www.youtube.com/watch?v=SnAXxUZkMRc&t=230s",
+     "context": [
+      {
+       "start_s": 214,
+       "text": "अपडेट में मूंग करता देख फिर आपको 14 चेतक की शेयर में गिरावट आई और फिर एक रिएक्शन लेकर फिर अपडेट में मुकरता देखें तो"
+      },
+      {
+       "start_s": 222,
+       "text": "दोस्तों आपको दो सपोर्ट दिखे रहे हैं 18 उसे और rs.14 के दो सपूर्ण है इन्हें अगर रिएक्शन खाता तो काफी ज्यादा चांसेस शेयर"
+      },
+      {
+       "start_s": 230,
+       "text": "के आगे बढ़ने के लेकिन ज्यादा आंच और रूपए का जो है सपोर्ट जहर तोड़ देता है तो चांस बन सकते हैं इसके गिरावट के अदर वाइज"
+      },
+      {
+       "start_s": 238,
+       "text": "अप्रैल में ऊपर से देख सकते हैं पुणे से चार से पांच महीने में दोस्तों आशा करता हूं वीडियो आपको अच्छी लगे हुए हैं कमेंट"
+      },
+      {
+       "start_s": 244,
+       "text": "करके जरूर बताइएगा"
+      }
+     ],
+     "quote_en": "In April, you can"
+    }
+   ]
+  },
+  {
+   "video_id": "m-GzaQiwwkw",
+   "title": "Sadhna Broadcast Ltd Share News | Sadhna Broadcast Adani News | Stock Market News",
+   "url": "https://www.youtube.com/watch?v=m-GzaQiwwkw",
+   "channel": "Digital Service",
+   "channel_url": "https://www.youtube.com/@DigitalServiceMukesh",
+   "views": 8156,
+   "length": "8:20",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/m-GzaQiwwkw/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaslU052dR8q4G85tG9_nUhFTeHA",
+   "mentions": [
+    {
+     "direction": "avoid",
+     "explicit": true,
+     "target_price": 1000.0,
+     "quote": "टारगेट 1000 तक के दिए जा रहे हैं",
+     "start_s": 13,
+     "line": "है कि अदानी ग्रुप इस कंपनी को इक्वल कर रही है इसके कारण इस स्टॉक में हमें लगातार अपर सर्किट",
+     "evidence": [
+      {
+       "text": "टारगेट 1000",
+       "where": "transcript",
+       "start_s": 19
+      },
+      {
+       "text": "अदानी ग्रुप इस कंपनी को इक्वल कर रही है",
+       "where": "transcript",
+       "start_s": 13
+      }
+     ],
+     "reason": "The speaker mentions a target price of 1000 for Sadhna Broadcast but warns against the hype, implying it should be avoided.",
+     "timestamp_url": "https://www.youtube.com/watch?v=m-GzaQiwwkw&t=13s",
+     "context": [
+      {
+       "start_s": 1,
+       "text": "हेलो हेलो मिस्टर वेलकम बैक टू माय YouTube चैनल डिजिटल सर्विस दोस्तों आदि जिलों में हम बात करने"
+      },
+      {
+       "start_s": 7,
+       "text": "वाले हैं साधना ब्रॉडकास्ट लिमिटेड के शेयरों के बारे में जिसमें इस तरह की न्यूज़ निकलकर आ रही"
+      },
+      {
+       "start_s": 13,
+       "text": "है कि अदानी ग्रुप इस कंपनी को इक्वल कर रही है इसके कारण इस स्टॉक में हमें लगातार अपर सर्किट"
+      },
+      {
+       "start_s": 19,
+       "text": "देखने को मिल रहा है कि इस तरह YouTube चैनल के ऊपर तो इसके टारगेट 1000 तक के दिए जा रहे हैं"
+      },
+      {
+       "start_s": 25,
+       "text": "कंपनी करती चाहे कंपनी के फंडामेंटल कैसे हैं और क्या वाकई में अदानी ग्रुप की कंपनी इस कंपनी को"
+      }
+     ],
+     "quote_en": "Targets up to 1000 are being given."
+    }
+   ]
+  },
+  {
+   "video_id": "jDyRz1UL8Ig",
+   "title": "SADHNA BROADCAST SHARE ANALYSIS | SADHNA BROADCAST SHARE ANALYSIS | SADHNA BROADCAST SHARE PRICE |",
+   "url": "https://www.youtube.com/watch?v=jDyRz1UL8Ig",
+   "channel": "Bharat Stock Research * 20K views",
+   "channel_url": "https://www.youtube.com/@bharatstockresearch8655",
+   "views": 144,
+   "length": "10:18",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/jDyRz1UL8Ig/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBKKIeujgDYVE5fnZBhKh4Gk0AmWw"
+  },
+  {
+   "video_id": "Y-bdUxKKXFk",
+   "title": "Sadhna Broadcast share latest news | Sadhna Broadcast share latest update | Sadhna Broadcast share",
+   "url": "https://www.youtube.com/watch?v=Y-bdUxKKXFk",
+   "channel": "Trading Topper.....11",
+   "channel_url": "https://www.youtube.com/@TradingTopper",
+   "views": 116,
+   "length": "4:11",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/Y-bdUxKKXFk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCncJQIUVQpYrsFPJnHGuvvJRT4xw"
+  },
+  {
+   "video_id": "iqIZvs89ip4",
+   "title": "Sadhna broadcast share latest news I Sadhna broadcast share news I Sadhna broadcast share price I",
+   "url": "https://www.youtube.com/watch?v=iqIZvs89ip4",
+   "channel": "STOCKMANIAC",
+   "channel_url": "https://www.youtube.com/@stockmaniaclive",
+   "views": 87,
+   "length": "10:51",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/iqIZvs89ip4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcd0biI8dlwa-IGKjNvc3-wq923g"
+  },
+  {
+   "video_id": "_Dth6ofJM9o",
+   "title": "sadhna broadcast || sadhna broadcast share price || sadhna broadcast share | penny stocks to buy now",
+   "url": "https://www.youtube.com/watch?v=_Dth6ofJM9o",
+   "channel": "Sagar Singh",
+   "channel_url": "https://www.youtube.com/@SagarSingh123",
+   "views": 1789,
+   "length": "2:30",
+   "published_text": "4y ago",
+   "published_date": "2022-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/_Dth6ofJM9o/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDODpat7cRcqCLUjwp28i1lmFZBrg"
+  },
+  {
+   "video_id": "FP0IWRxUiFQ",
+   "title": "SADHNA BROADCAST SHAREE LATEST NEWS TODAY 🔴 SADHNA BROADCAST SHARE PRICE TARGET, ANALYSIS",
+   "url": "https://www.youtube.com/watch?v=FP0IWRxUiFQ",
+   "channel": "KAMAI INVESTOR की",
+   "channel_url": "https://www.youtube.com/@kamaiinvestor5853",
+   "views": 5036,
+   "length": "3:30",
+   "published_text": "3y ago",
+   "published_date": "2023-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/FP0IWRxUiFQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAEG-nBfA-5pq43o1LGCr0zrTdFtA",
+   "mentions": []
+  },
+  {
+   "video_id": "whYo0ZxlIPc",
+   "title": "Sadhna Broadcast Ltd. Share Analysis | Sadhna Broadcast Fundamental Analysis @Stockmarketbarta",
+   "url": "https://www.youtube.com/watch?v=whYo0ZxlIPc",
+   "channel": "Stock Market Barta",
+   "channel_url": "https://www.youtube.com/@Stockmarketbarta",
+   "views": 895,
+   "length": "5:56",
+   "published_text": "3y ago",
+   "published_date": "2023-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/whYo0ZxlIPc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLApt8tL0GK4wsuGE1kpYyu5vuMeVQ"
+  },
+  {
+   "video_id": "5ApcD8ZbdAA",
+   "title": "Sadhna Broadcast Share Analysis • Sadhna Broadcast Breaking News • Dailystock",
+   "url": "https://www.youtube.com/watch?v=5ApcD8ZbdAA",
+   "channel": "Daily Stock",
+   "channel_url": "https://www.youtube.com/@DailyStock",
+   "views": 191,
+   "length": "6:14",
+   "published_text": "3y ago",
+   "published_date": "2023-10-09",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/5ApcD8ZbdAA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC_d_iojhOyovl7yB4ELy8GZJCl3Q"
+  },
+  {
+   "video_id": "cFhgXYAIVSE",
+   "title": "SADHNA BROADCAST SHARE LATEST NEWS TODAY, Sadhna BROADCAST share analysis, Target, buy or not",
+   "url": "https://www.youtube.com/watch?v=cFhgXYAIVSE",
+   "channel": "KAMAI INVESTOR की",
+   "channel_url": "https://www.youtube.com/@kamaiinvestor5853",
+   "views": 1154,
+   "length": "3:34",
+   "published_text": "1y ago",
+   "published_date": "2025-10-08",
+   "date_uncertainty_days": 182,
+   "thumbnail": "https://i.ytimg.com/vi/cFhgXYAIVSE/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-oymv4au_SQeNoyHStcv6J0xgxA"
+  }
+ ],
+ "pump_check": null,
+ "series": null,
+ "generated_at": "2026-10-08T16:04:09"
+}

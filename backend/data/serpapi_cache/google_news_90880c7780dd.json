@@ -1,0 +1,202 @@
+{
+ "search_metadata": {
+  "id": "6acb1d0332f11d0935d21c94",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Jy3yCHAUg3zvdAUTr04Ow21vGGMzWfJ5LaBSZB-Kg3o/6acb1d0332f11d0935d21c94.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Jy3yCHAUg3zvdAUTr04Ow21vGGMzWfJ5LaBSZB-Kg3o/6acb1d0332f11d0935d21c94.md",
+  "created_at": "2026-10-11 05:22:11 UTC",
+  "processed_at": "2026-10-11 05:22:11 UTC",
+  "google_news_url": "https://news.google.com/search?q=%22Yadnya+Investment+Academy%22+SEBI&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/Jy3yCHAUg3zvdAUTr04Ow21vGGMzWfJ5LaBSZB-Kg3o/6acb1d0332f11d0935d21c94.html",
+  "total_time_taken": 0.49
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "\"Yadnya Investment Academy\" SEBI"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Impact of New SEBI Rule on Parag Parikh Long Term Equity Fund",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2020/09/14/impact-of-new-sebi-rule-on-parag-parikh-long-term-equity-fund/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/f236b-parag-parikh-long-term-equity-fund.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWljV2hGUTNoWmVtMXpaVzVXVFJDUEF4aUFCaWdLTWdB",
+   "date": "09/14/2020, 07:00 AM, +0000 UTC",
+   "iso_date": "2020-09-14T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Which International Mutual Fund One Can Invest Now?",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2022/07/11/which-international-mutual-fund-one-can-invest-now/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/27b19-mutual-fund-.jpg?w=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUpOWFpvUm5wcmNHc3dPWEEyVFJDZEF4am5CU2dLTWdB",
+   "date": "07/11/2022, 07:00 AM, +0000 UTC",
+   "iso_date": "2022-07-11T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "SEBI New Rule on Multicap Funds Asset Allocation (Sept 11, 2020)",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2020/09/12/sebi-new-rule-on-multicap-funds-asset-allocation-sept-11-2020/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/34040-sebi-new-rule-multicap-funds-asset-allocation.png?w=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDNaM1E0TXpKcmEwUTFYekZpVFJEWkF4aUlCU2dLTWdB",
+   "date": "09/12/2020, 07:00 AM, +0000 UTC",
+   "iso_date": "2020-09-12T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "New Market Cap Classification",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2018/06/18/new-market-cap-classification/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2018/06/market-cap-classification.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHliVVJ0T1dkbWJVeFBkMWR1VFJDZkF4ampCU2dLTWdheEVaQndvUVk",
+   "date": "06/18/2018, 07:00 AM, +0000 UTC",
+   "iso_date": "2018-06-18T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "UTI AMC IPO Coming Soon| Should You Invest?",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2020/06/26/uti-amc-ipo-coming-soon-should-you-invest/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/85c4c-uti-amc-ipo-details.png?w=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVhkM1JuTkhWSVVsSnpWMlJmVFJES0F4aWVCU2dLTWdB",
+   "date": "06/26/2020, 07:00 AM, +0000 UTC",
+   "iso_date": "2020-06-26T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Avenue Supermarts – Promoters Stake Sale",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2019/11/13/avenue-supermarts-promoters-stake-sale/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/eca7f-avenue-supermarts-stake-cut-by-promoter.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpiVUYzZFhwRlpqRmZaR3hOVFJESEF4aWlCU2dLTWdZUkk0NUxvUVk",
+   "date": "11/13/2019, 08:00 AM, +0000 UTC",
+   "iso_date": "2019-11-13T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Side Pocketing or Segregated Portfolios in Debt Funds",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2018/12/21/side-pocketing-or-segregated-portfolios-in-debt-funds/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2018/12/Segregated-Portfolios-10.jpg?w=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjVWxFVDIwNGJrSjFabWhYVFJDN0F4aTBCU2dLTWdZTlFvcW5zUWM",
+   "date": "12/21/2018, 08:00 AM, +0000 UTC",
+   "iso_date": "2018-12-21T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "6 Large Cap Stocks Demoted to Mid Cap List",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2019/07/23/6-large-cap-stocks-demoted-to-mid-cap-list/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/d3350-6-large-cap-stocks-downgraded-to-mid-cap-list.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU5iVEowWkU5S2Rua3phVE5FVFJDb0F4alRCU2dLTWdrTkFZeW1tR1pUUWdN",
+   "date": "07/23/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-07-23T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Budget Impact on 25 Large Cap Companies Promoter Holding",
+   "source": {
+    "name": "Invest Yadnya",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://blog.investyadnya.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://blog.investyadnya.in/2019/07/10/budget-impact-on-25-large-cap-companies-promoter-holding/",
+   "thumbnail": "https://blog.investyadnya.in/wp-content/uploads/2025/02/d134d-budget-impact-on-25-large-cap-companies-with-higher-promoter-holding.png?w=1080",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxiRmxIU1dvME9XYzBWRUY2VFJESUF4aWdCU2dLTWdB",
+   "date": "07/10/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-07-10T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "15 Best Youtube Channels to Learn Indian Stock Market",
+   "source": {
+    "name": "Trade Brains",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://tradebrains.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kritesh Abhishek"
+    ]
+   },
+   "link": "https://tradebrains.in/youtube-channels-indian-stock-market/",
+   "thumbnail": "https://img-cdn.publive.online/fit-in/853x480/filters:format(webp)/trade-brains/media/media_files/wp-content/uploads/2022/01/15-Best-Youtube-Channels-to-Learn-Indian-Stock-Market-2023-Cover-Image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRXRkpIU1hCV1V6SkJlVlJEVFJERUF4aW1CU2dLTWdhZFlvWVRwUWc",
+   "date": "09/06/2019, 01:00 PM, +0000 UTC",
+   "iso_date": "2019-09-06T13:00:39Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-11T05:22:09"
+}

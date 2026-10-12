@@ -1,0 +1,678 @@
+{
+ "search_metadata": {
+  "id": "6ac7bfbbd1816923be2dd0fd",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/37ykK74L3rrrXdb4urEmiMr7pGu55qr-oDMOcU8T1aY/6ac7bfbbd1816923be2dd0fd.json",
+  "markdown_endpoint": "https://serpapi.com/searches/37ykK74L3rrrXdb4urEmiMr7pGu55qr-oDMOcU8T1aY/6ac7bfbbd1816923be2dd0fd.md",
+  "created_at": "2026-10-08 16:07:23 UTC",
+  "processed_at": "2026-10-08 16:07:23 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Suzlon+Energy+Limited+share+target&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/37ykK74L3rrrXdb4urEmiMr7pGu55qr-oDMOcU8T1aY/6ac7bfbbd1816923be2dd0fd.html",
+  "total_time_taken": 6.51
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Suzlon Energy Limited share target",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 175146,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "Why Did Suzlon Energy Crash Today?🔥 Suzlon Energy Share Latest News | Suzlon Energy Latest News",
+   "link": "https://www.youtube.com/watch?v=f5TXnJq0gts",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=f5TXnJq0gts",
+   "video_id": "f5TXnJq0gts",
+   "channel": {
+    "name": "Mr. Dkay",
+    "link": "https://www.youtube.com/@MrDkay4",
+    "thumbnail": "https://yt3.ggpht.com/BF7P_OxxbSyQHhJAQaFFvSfv0hp-LJb2jMR8TXITZgeXWKpSis7LJK8R_IZGt9zq-pq7MPngbA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4h ago",
+   "views": 541,
+   "length": "7:54",
+   "description": "Suzlon Energy 09 Oct. 🔥 Suzlon energy share latest news | Suzlon energy latest news\n\n\nsuzlon energy latest news 🔥 suzlon ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/f5TXnJq0gts/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsjG5ZfnFAFo6csZnCwCoaBXEiQg"
+   }
+  },
+  {
+   "position_on_page": 2,
+   "title": "SUZLON: MULTIBAGGER IN THE MAKING… OR JUST ANOTHER TRAP? #suzlonstock #renewableenergy #nifty ",
+   "link": "https://www.youtube.com/watch?v=xhdq3yAq_uo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xhdq3yAq_uo",
+   "video_id": "xhdq3yAq_uo",
+   "channel": {
+    "name": "CA Nikhil Nainani",
+    "link": "https://www.youtube.com/@CANikhilNainani",
+    "thumbnail": "https://yt3.ggpht.com/SQ4sPmzdHkUMEiYL5DiX7EyBQjLSyfOtqLtTEKm5x2x9-Os8CUvgTwgDcg0tMLBLM8Phr3i5FMg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3d ago",
+   "views": 33101,
+   "length": "8:15",
+   "description": "Suzlon Energy: Multibagger Opportunity or Trap? | Fundamental + Technical Analysis Suzlon has been one of the most-watched ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xhdq3yAq_uo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMYrywsizf0uaZC6xIUcfCasvoJw",
+    "rich": "https://i.ytimg.com/an_webp/xhdq3yAq_uo/mqdefault_6s.webp?du=3000&sqp=CNbSntYG&rs=AOn4CLA2BLSKcuWlRqq8g39s5N6ybuoVeg"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "Suzlon Energy stock Future,Buy or sell ?Analysis,suzlon energy latest news,q1 Result/target tomarrow",
+   "link": "https://www.youtube.com/watch?v=4T8kGNferdw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4T8kGNferdw",
+   "video_id": "4T8kGNferdw",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 4945,
+   "length": "1:09",
+   "description": "रिजल्ट से पहले खरीदे या बेचकर निकल जाए ? Suzlon Energy stock Future,Buy or sell ?Analysis ...",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4T8kGNferdw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzUOObls77dbQK3Vv4LrgSNjlTXw",
+    "rich": "https://i.ytimg.com/an_webp/4T8kGNferdw/mqdefault_6s.webp?du=3000&sqp=CIjhntYG&rs=AOn4CLAD3qjnhF3DCP4SkH5Qb6IdMuTdhw"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Suzlon Energy stock Future,Analysis Prakas GAba,Buy or not?suzlon energy share longterm target 2030",
+   "link": "https://www.youtube.com/watch?v=e5k9GUCCeSw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=e5k9GUCCeSw",
+   "video_id": "e5k9GUCCeSw",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 6822,
+   "length": "1:50",
+   "description": "Suzlon Energy stock Future,Analysis Prakas GAba,Buy or not?suzlon energy share longterm target 2030 Analysts forecast a ...",
+   "extensions": [
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/e5k9GUCCeSw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmzDS-EU_ETcY4upTVl5AahmjuxQ",
+    "rich": "https://i.ytimg.com/an_webp/e5k9GUCCeSw/mqdefault_6s.webp?du=3000&sqp=CKzkntYG&rs=AOn4CLDse3ntN47Yo-anNHglMFAgOZnKpQ"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Suzlon Energy latest news/Future kya hai,BUY ? Suzlon Energy Stock analysis,Q4 results,Target 2030",
+   "link": "https://www.youtube.com/watch?v=_pHlTxDOlOk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_pHlTxDOlOk",
+   "video_id": "_pHlTxDOlOk",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5mo ago",
+   "views": 12304,
+   "length": "2:52",
+   "description": "Suzlon Energy latest news/ खरीदे या नहीं ? Suzlon Energy Stock analysis,Future kya hai ?Q4 result 2026,Target 2030 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_pHlTxDOlOk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzdelFiC_unzyoBHuy4bbPxJH3nQ"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "suzlon energy OI, PCR डेटा अपडेट? suzlon energy latest news?  suzlon share latest news",
+   "link": "https://www.youtube.com/watch?v=kje3FygZGNo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kje3FygZGNo",
+   "video_id": "kje3FygZGNo",
+   "channel": {
+    "name": "SSA stock market",
+    "link": "https://www.youtube.com/@SSAstockmarket",
+    "thumbnail": "https://yt3.ggpht.com/p2ivQ1jbW5sWFpoVwWARIrApH4u9AKjAyT4fun64w5OdalKSoYWT40Z39GGD2d1DC-SxM0w-tg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4h ago",
+   "views": 2223,
+   "length": "7:38",
+   "description": "suzlon energy Result अनुमान? suzlon energy news? suzlon share latest news suzlon energy. निगेटिव ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kje3FygZGNo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6jhFx4fHKQYUQh95tCa8IE4Tc2g",
+    "rich": "https://i.ytimg.com/an_webp/kje3FygZGNo/mqdefault_6s.webp?du=3000&sqp=CJzRntYG&rs=AOn4CLDtXd8cQoQdrimZFr3LuTZq3K4yPQ"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Suzlon Energy Share Latest News Today 🚨 | Suzlon Share Price Target 2026 | BUY or SELL?",
+   "link": "https://www.youtube.com/watch?v=AIRzU3wZT7o",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=AIRzU3wZT7o",
+   "video_id": "AIRzU3wZT7o",
+   "channel": {
+    "name": "News Market 24",
+    "link": "https://www.youtube.com/@Newsmarket24",
+    "thumbnail": "https://yt3.ggpht.com/24bVBV9mZk_zgV9hb5vYm4e9f7eyohu-e5BgGdls5RxeiieawgzUynDAbdIFQau0Um1R4u8Y=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 224,
+   "length": "2:00",
+   "description": "Suzlon Energy Share Latest News Today 🚨 | Suzlon Share Price Target 2026 | BUY or SELL?\n\n📌 Alternative High-CTR Titles\nSuzlon ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/AIRzU3wZT7o/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCC5WID4N07gaQ-20dm-DtWgBmyAA"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "Suzlon Energy latest news/Future kya h,Buy? Suzlon Enegy Stock analysis,results date?,Target 2030",
+   "link": "https://www.youtube.com/watch?v=WT-uwdEepsA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WT-uwdEepsA",
+   "video_id": "WT-uwdEepsA",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 3196,
+   "length": "1:27",
+   "description": "Suzlon Energy latest news/Future kya h,Buy? Suzlon Enegy Stock analysis,Q4 results date?,Target 2030 होल्ड किया ...",
+   "extensions": [
+    "2 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/WT-uwdEepsA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiw0axsw2HwjPcqVUDoAnWoPE4Qg"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Suzlon Energy share, Suzlon Future, Buy or sell? Expert Analysis, Suzlon Energy latest news",
+   "link": "https://www.youtube.com/watch?v=Wc2z_tXmxjg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Wc2z_tXmxjg",
+   "video_id": "Wc2z_tXmxjg",
+   "channel": {
+    "name": "QUICK BULL",
+    "link": "https://www.youtube.com/@QUICKBULL",
+    "thumbnail": "https://yt3.ggpht.com/1etVJB4hpIfey2rk3XBEvEapp0lc_G_WFX07vQQkn5pWyV-T0Mp4s1l21NrQTRcGgjoOyNPcnA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 1422,
+   "length": "1:08",
+   "description": "Suzlon Energy share, Suzlon Future, Buy or sell ? Expert Analysis, suzlon energy latest news ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Wc2z_tXmxjg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxWa-v2OEHQwvkfcPP30YQLFAxUQ"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "SUZLON Share Target August 31 ⚠️ BIG Reversal or Crash? | Suzlon Energy Deep Analysis 🔥",
+   "link": "https://www.youtube.com/watch?v=C4AXXW9Iqko",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=C4AXXW9Iqko",
+   "video_id": "C4AXXW9Iqko",
+   "channel": {
+    "name": "Gajakesari Trading with Harsh",
+    "link": "https://www.youtube.com/@GajakesariTradingwithHarsh",
+    "thumbnail": "https://yt3.ggpht.com/uwOQc3kMl4JnEUfIoMXi2Ywz3a07xJyn6jGe_FYrxE4xa_Gx9KOgYhJFBRFv8TFwow1qCNsnpw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 645,
+   "length": "4:49",
+   "description": "Suzlon Energy Share Deep Analysis for 31 August Trading Session!\n\nIs video me humne Suzlon Share (CMP ₹46.79) ka deep ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/C4AXXW9Iqko/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDqUdhTOkPHFB3o_6EVGd4yDpGphw"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Adani Power, Suzlon Energy, JP Power, NHPC, SJVN, IREDA Share Latest News, Analysis, Target",
+   "link": "https://www.youtube.com/watch?v=_OEgru-mmVg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_OEgru-mmVg",
+   "video_id": "_OEgru-mmVg",
+   "channel": {
+    "name": "Market Expert",
+    "link": "https://www.youtube.com/@MarketExpert-g3m",
+    "thumbnail": "https://yt3.ggpht.com/vU-OoyS1Xg6heN4UHaKEtEVq1o1PsZgYfZtAUsMzsVC9vtVEnErrm7WUkRGoDbEGsXYacYBM=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "23h ago",
+   "views": 5025,
+   "length": "13:49",
+   "description": "Adani Power, suzlon energy, jp power, nhpc, sjvn, ireda share latest news, anelysis, target \n\ntopic covered \nnhpc share letest ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_OEgru-mmVg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkTHdCIJD0PIhZjhJTeFJcCZ8kew",
+    "rich": "https://i.ytimg.com/an_webp/_OEgru-mmVg/mqdefault_6s.webp?du=3000&sqp=CMDlntYG&rs=AOn4CLA9HtKcB8p_CuhBrKWugSVfdUeilg"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "RPower,Suzlon Energy,JP Power Share news,buy or sell?reliance power latest news,stock advice,Target",
+   "link": "https://www.youtube.com/watch?v=Fyaqdjljg48",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Fyaqdjljg48",
+   "video_id": "Fyaqdjljg48",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 15903,
+   "length": "1:17",
+   "description": "RPower,Suzlon Energy,JP Power Share news,buy or sell?reliance power latest news,stock advice,Target क्या करे ?",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Fyaqdjljg48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9fxXr3idskvphzLSecol2sSkcWw",
+    "rich": "https://i.ytimg.com/an_webp/Fyaqdjljg48/mqdefault_6s.webp?du=3000&sqp=CNy3ntYG&rs=AOn4CLDdlXreOxW_LPkM7MhDX77Nh84Fnw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "Suzlon Energy stock Future,Buy or not ? Analysis,suzlon energy latest news,target 2030 Anil Singhvi",
+   "link": "https://www.youtube.com/watch?v=t_vQoLfoJaU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t_vQoLfoJaU",
+   "video_id": "t_vQoLfoJaU",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3mo ago",
+   "views": 7091,
+   "length": "2:18",
+   "description": "Suzlon Energy stock Future,Buy or not ? Analysis,suzlon energy latest news,target 2030 Anil Singhvi क्या करे ?",
+   "extensions": [
+    "3 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/t_vQoLfoJaU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCGZGiOdMeLSK3PycDMiejd05NeIQ"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Suzlon Energy stock Analysis Prakas GAba,Buy ? Future kya h,suzlon energy share longterm target 2030",
+   "link": "https://www.youtube.com/watch?v=phMbZkaqGlA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=phMbZkaqGlA",
+   "video_id": "phMbZkaqGlA",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4mo ago",
+   "views": 6495,
+   "length": "1:30",
+   "description": "Join WhatsApp Channel For Latest news     -- https://whatsapp.com/channel/0029VanrzYm0bIdqt4akwZ2u stock market live ...",
+   "extensions": [
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/phMbZkaqGlA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0o1LLcE3tPUdFTm7Wru1eJA6QfQ",
+    "rich": "https://i.ytimg.com/an_webp/phMbZkaqGlA/mqdefault_6s.webp?du=3000&sqp=CPDCntYG&rs=AOn4CLAYP9A3XU9WQ_cN8AuATf4LmGIsGw"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "SUZLON ENERGY LATEST NEWS | SUZLON ENERGY | MARKET SUPPORT",
+   "link": "https://www.youtube.com/watch?v=a8CCshIBBjo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=a8CCshIBBjo",
+   "video_id": "a8CCshIBBjo",
+   "channel": {
+    "name": "Market Support",
+    "link": "https://www.youtube.com/@MarketSupport",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mCfYSOm5QWTEoYrjHzRmiW44UZUdv0n5hLcj6LgoanIbs=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4h ago",
+   "views": 1222,
+   "length": "9:00",
+   "description": "SUZLON ENERGY LATEST NEWS | SUZLON ENERGY | MARKET SUPPORT\n\n#suzlonnews",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/a8CCshIBBjo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXKu3d81N8jfOs-PjHmg3qygL_2w"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Suzlon Energy stock Future,Buy or sell ?Analysis,JP POWER,suzlon energy latest news,target 2026",
+   "link": "https://www.youtube.com/watch?v=1Amtr8N9vkY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1Amtr8N9vkY",
+   "video_id": "1Amtr8N9vkY",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 3081,
+   "length": "2:41",
+   "description": "Suzlon Energy stock Future,Buy or sell ?Analysis,JP POWEROla electric,suzlon energy latest news,target 2026 Why Suzlon ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1Amtr8N9vkY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAl14ZK9UgYdOkzSCILrGUo1Vsk_w"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "Suzlon Energy latest news,Kab badega,buy or sell ?,suzlon Energy Future Analysis/target 2030",
+   "link": "https://www.youtube.com/watch?v=1FQADR3gqbk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1FQADR3gqbk",
+   "video_id": "1FQADR3gqbk",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 7793,
+   "length": "2:00",
+   "description": "Suzlon Energy latest news,Kitna Girega,hold or sell ?,suzlon Energy Future Analysis/target अगर २ साल नहीं रुक ...",
+   "extensions": [
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1FQADR3gqbk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjZuK77HPBFpqAj4bdV-KkW0I4CQ"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "SUZLON Energy latest news,Hold or Sell ? Analysis/suzlon energy share target,results/Fall Reason ?",
+   "link": "https://www.youtube.com/watch?v=szSdtwGHg7A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=szSdtwGHg7A",
+   "video_id": "szSdtwGHg7A",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 1392,
+   "length": "1:51",
+   "description": "SUZLON Energy latest news, Hold or Sell ? Analysis/suzlon energy share target,Fall Reason ? suzlon energy kya kaam karta hai ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/szSdtwGHg7A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrbS55vKRAU3ADg1VF5AlNLIy61w"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "Suzlon Energy stock Future,hold or sell ?Analysis,JP POWER,suzlon energy latest news,target 2026",
+   "link": "https://www.youtube.com/watch?v=1oifhqDep_Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=1oifhqDep_Q",
+   "video_id": "1oifhqDep_Q",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 3596,
+   "length": "1:13",
+   "description": "Suzlon Energy stock Future,Buy or sell ?Analysis,JP POWEROla electric,suzlon energy latest news,target 2026 क्यों गिर ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/1oifhqDep_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBakjRJkjTj7YX3fdj88TtiZxkwqA"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Suzlon Energy,Vodafone Idea Share latest news,Buy?,suzlon Energy Analysis,VI Future/vi share target",
+   "link": "https://www.youtube.com/watch?v=OHh7n51aUKQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OHh7n51aUKQ",
+   "video_id": "OHh7n51aUKQ",
+   "channel": {
+    "name": "Stock Market Live",
+    "link": "https://www.youtube.com/@StockMarketLiveNews",
+    "thumbnail": "https://yt3.ggpht.com/OEQZBluSpSDi3zmqqCwAsYg1quFjiHuGJRQrP_fuH68ps_9cUcR59Fe1GxDrdbA-EM-Twow70Q=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 9080,
+   "length": "1:19",
+   "description": "Top 5 Stock Market Books -(Affilate Links) 1. The Intelligent Investor (English): https://link.amazon/B04wnSF83 2. One Up On Wall ...",
+   "extensions": [
+    "2 products",
+    "Earns commission"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OHh7n51aUKQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2X46jmlOse6DihM5eW7lIKp-uZQ"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 9,
+   "shorts": [
+    {
+     "title": "Stock review - Suzlon Energy #stockmarket #investing #stocks #trend",
+     "link": "https://www.youtube.com/shorts/JEgArmd62ug",
+     "thumbnail": "https://i.ytimg.com/vi/JEgArmd62ug/frame0.jpg",
+     "views_original": "168 views",
+     "views": 168,
+     "video_id": "JEgArmd62ug"
+    },
+    {
+     "title": "Suzlon Energy Hits Upper Circuit: Should You Buy The Stock? Check Target Price Here | Suzlon Q3FY25",
+     "link": "https://www.youtube.com/shorts/PJCD8quqtU4",
+     "thumbnail": "https://i.ytimg.com/vi/PJCD8quqtU4/frame0.jpg",
+     "views_original": "30K views",
+     "views": 30000,
+     "video_id": "PJCD8quqtU4"
+    },
+    {
+     "title": "The Truth About Suzlon’s 10-Year Turnaround #finance #investing",
+     "link": "https://www.youtube.com/shorts/p8WS-jqL5e0",
+     "thumbnail": "https://i.ytimg.com/vi/p8WS-jqL5e0/frame0.jpg",
+     "views_original": "25 views",
+     "views": 25,
+     "video_id": "p8WS-jqL5e0"
+    },
+    {
+     "title": "Suzlon energy limited share | Suzlon energy share price target",
+     "link": "https://www.youtube.com/shorts/pYuZAcAli6A",
+     "thumbnail": "https://i.ytimg.com/vi/pYuZAcAli6A/frame0.jpg",
+     "views_original": "561 views",
+     "views": 561,
+     "video_id": "pYuZAcAli6A"
+    },
+    {
+     "title": "Suzlon Energy Share Price | Suzlon Energy Latest News | Suzlon BUY Average या SELL क्या करें?",
+     "link": "https://www.youtube.com/shorts/VoZe7leOAUA",
+     "thumbnail": "https://i.ytimg.com/vi/VoZe7leOAUA/frame0.jpg",
+     "views_original": "230 views",
+     "views": 230,
+     "video_id": "VoZe7leOAUA"
+    }
+   ]
+  },
+  {
+   "position_on_page": 13,
+   "shorts": [
+    {
+     "title": "Suzlon Energy Latest News today | Suzlon Share Target | Suzlon Energy News Today | Suzlon analysis",
+     "link": "https://www.youtube.com/shorts/aN8AiBMnlFQ",
+     "thumbnail": "https://i.ytimg.com/vi/aN8AiBMnlFQ/frame0.jpg",
+     "views_original": "1.7K views",
+     "views": 1700,
+     "video_id": "aN8AiBMnlFQ"
+    },
+    {
+     "title": "Suzlon Energy Latest News | Suzlon Energy Share Latest News | Suzlon Energy News Today | #suzlon",
+     "link": "https://www.youtube.com/shorts/z6xZZqG5PZQ",
+     "thumbnail": "https://i.ytimg.com/vi/z6xZZqG5PZQ/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "z6xZZqG5PZQ"
+    },
+    {
+     "title": "Anil Singhvi Recommends Suzlon! Buy, Target, and Stoploss Insights Inside!",
+     "link": "https://www.youtube.com/shorts/gHSMO5xymik",
+     "thumbnail": "https://i.ytimg.com/vi/gHSMO5xymik/frame0.jpg",
+     "views_original": "65K views",
+     "views": 65000,
+     "video_id": "gHSMO5xymik"
+    },
+    {
+     "title": "Suzlon Energy - Breakout Setup | Suzlon Share Latest News | SEBI Registered Research Analyst",
+     "link": "https://www.youtube.com/shorts/m1pCtp06KrU",
+     "thumbnail": "https://i.ytimg.com/vi/m1pCtp06KrU/frame0.jpg",
+     "views_original": "28K views",
+     "views": 28000,
+     "video_id": "m1pCtp06KrU"
+    },
+    {
+     "title": "Suzlon energy latest news |  Suzlon energy stock | Suzlon energy Long Term Target |  Suzlon energy",
+     "link": "https://www.youtube.com/shorts/XOG7Lx_3Dyk",
+     "thumbnail": "https://i.ytimg.com/vi/XOG7Lx_3Dyk/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "XOG7Lx_3Dyk"
+    },
+    {
+     "title": "suzlon energy latest news | suzlon latest news today | suzlon share target price | suzlon analysis",
+     "link": "https://www.youtube.com/shorts/tvFvjbJzdvc",
+     "thumbnail": "https://i.ytimg.com/vi/tvFvjbJzdvc/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "tvFvjbJzdvc"
+    },
+    {
+     "title": "🚨 GREEN ENERGY STOCKS CRASH! 25 Stocks Down 30–80% 📉 WHY? | BUY or AVOID? | #energystocks #shorts",
+     "link": "https://www.youtube.com/shorts/jE6wmKsVI8w",
+     "thumbnail": "https://i.ytimg.com/vi/jE6wmKsVI8w/frame0.jpg",
+     "views_original": "11K views",
+     "views": 11000,
+     "video_id": "jE6wmKsVI8w"
+    },
+    {
+     "title": "Suzlon Q1: Record Execution, But Profitability Takes Centre Stage",
+     "link": "https://www.youtube.com/shorts/spe5YhA2ii4",
+     "thumbnail": "https://i.ytimg.com/vi/spe5YhA2ii4/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "spe5YhA2ii4"
+    },
+    {
+     "title": "Best 3 Stocks For Wednesday (7 Oct 2026) 🚀 Wednesday Breakout Stocks #shorts",
+     "link": "https://www.youtube.com/shorts/Nd0WPnStr1M",
+     "thumbnail": "https://i.ytimg.com/vi/Nd0WPnStr1M/frame0.jpg",
+     "views_original": "130 views",
+     "views": 130,
+     "video_id": "Nd0WPnStr1M"
+    },
+    {
+     "title": "Suzlon Energy Ltd | Equity Investment Idea | The Trading Mitra | Stock Market #equity #investment",
+     "link": "https://www.youtube.com/shorts/64TYJ44UGmo",
+     "thumbnail": "https://i.ytimg.com/vi/64TYJ44UGmo/frame0.jpg",
+     "views_original": "5.9K views",
+     "views": 5900,
+     "video_id": "64TYJ44UGmo"
+    },
+    {
+     "title": "Suzlon Energy Ltd.'s Fortune Changed! 🔥| ₹48 or ₹400?",
+     "link": "https://www.youtube.com/shorts/1ev6PBj4Oaw",
+     "thumbnail": "https://i.ytimg.com/vi/1ev6PBj4Oaw/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "1ev6PBj4Oaw"
+    },
+    {
+     "title": "SUZLON ENERGY buy SELL or hold !",
+     "link": "https://www.youtube.com/shorts/aXJHOseRdO8",
+     "thumbnail": "https://i.ytimg.com/vi/aXJHOseRdO8/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "aXJHOseRdO8"
+    },
+    {
+     "title": "Suzlon Energy: ₹350 vs ₹50... What Investors Missed!",
+     "link": "https://www.youtube.com/shorts/xsAmD48PZ-o",
+     "thumbnail": "https://i.ytimg.com/vi/xsAmD48PZ-o/frame0.jpg",
+     "views_original": "8.4K views",
+     "views": 8400,
+     "video_id": "xsAmD48PZ-o"
+    },
+    {
+     "title": "Suzlon Energy Stock Alert Low Debt High Growth Analysts Eye ₹75 Target #shorts",
+     "link": "https://www.youtube.com/shorts/sO3NRxcKwBo",
+     "thumbnail": "https://i.ytimg.com/vi/sO3NRxcKwBo/frame0.jpg",
+     "views_original": "4.6K views",
+     "views": 4600,
+     "video_id": "sO3NRxcKwBo"
+    },
+    {
+     "title": "Suzlon Share Today: Breakdown or Rally? | #suzlon #suzlonenergy #swingtrade",
+     "link": "https://www.youtube.com/shorts/fyl2gLPKPBw",
+     "thumbnail": "https://i.ytimg.com/vi/fyl2gLPKPBw/frame0.jpg",
+     "views_original": "448 views",
+     "views": 448,
+     "video_id": "fyl2gLPKPBw"
+    },
+    {
+     "title": "Suzlon's Profit Fell 6% Still Stock Surged 3% : Here's Why",
+     "link": "https://www.youtube.com/shorts/mrRPh_XZ964",
+     "thumbnail": "https://i.ytimg.com/vi/mrRPh_XZ964/frame0.jpg",
+     "views_original": "38K views",
+     "views": 38000,
+     "video_id": "mrRPh_XZ964"
+    },
+    {
+     "title": "Suzlon Turns Negative For 2026 After Q1 Profit Declines! Check Details",
+     "link": "https://www.youtube.com/shorts/_kD-3SJHhKA",
+     "thumbnail": "https://i.ytimg.com/vi/_kD-3SJHhKA/frame0.jpg",
+     "views_original": "5.8K views",
+     "views": 5800,
+     "video_id": "_kD-3SJHhKA"
+    },
+    {
+     "title": "Suzlon Energy Shares May Be Heading for Better Days! After the AGM, the Stock Could Reach ₹54/#sh...",
+     "link": "https://www.youtube.com/shorts/EtjfIGoWEHk",
+     "thumbnail": "https://i.ytimg.com/vi/EtjfIGoWEHk/frame0.jpg",
+     "views_original": "1.7K views",
+     "views": 1700,
+     "video_id": "EtjfIGoWEHk"
+    },
+    {
+     "title": "Should I buy Suzlon or not? #suzlon #stockmarket #nifty",
+     "link": "https://www.youtube.com/shorts/1cLzX2XJ4G8",
+     "thumbnail": "https://i.ytimg.com/vi/1cLzX2XJ4G8/frame0.jpg",
+     "views_original": "69K views",
+     "views": 69000,
+     "video_id": "1cLzX2XJ4G8"
+    },
+    {
+     "title": "Suzlon Stock Analysis : Real Rally or a TRAP ? #trading #investing #stockmarket #investment",
+     "link": "https://www.youtube.com/shorts/-VoTq9xUZBE",
+     "thumbnail": "https://i.ytimg.com/vi/-VoTq9xUZBE/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "-VoTq9xUZBE"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Suzlon+Energy+Limited+share+target&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Suzlon%20Energy%20Limited%20share%20target&sp=SBSCAQtmNVRYbkpxMGd0c4IBC3hoZHEzeUFxX3VvggELNFQ4a0dOZmVyZHeCAQtlNWs5R1VDQ2VTd4IBC19wSGxUeERPbE9rggELa2plM0Z5Z1pHTm-CAQtBSVJ6VTN3WlQ3b4IBC1dULXV3ZEVlcHNBggELV2Myel90WG14ameCAQtDNEFYWFc5SXFrb4IBC19PRWdydS1tbVZnggELRnlhcWRqbGpnNDiCAQt0X3ZRb0xmb0phVYIBC3BoTWJaa2FxR2xBggELYThDQ3NoSUJCam-CAQsxQW10cjhOOXZrWYIBCzFGUUFEUjNncWJrggELc3pTZHR3R0hnN0GCAQsxb2lmaHFEZXBfUYIBC09IaDduNTFhVUtRsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtmNVRYbkpxMGd0c4IBC3hoZHEzeUFxX3VvggELNFQ4a0dOZmVyZHeCAQtlNWs5R1VDQ2VTd4IBC19wSGxUeERPbE9rggELa2plM0Z5Z1pHTm-CAQtBSVJ6VTN3WlQ3b4IBC1dULXV3ZEVlcHNBggELV2Myel90WG14ameCAQtDNEFYWFc5SXFrb4IBC19PRWdydS1tbVZnggELRnlhcWRqbGpnNDiCAQt0X3ZRb0xmb0phVYIBC3BoTWJaa2FxR2xBggELYThDQ3NoSUJCam-CAQsxQW10cjhOOXZrWYIBCzFGUUFEUjNncWJrggELc3pTZHR3R0hnN0GCAQsxb2lmaHFEZXBfUYIBC09IaDduNTFhVUtRsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Suzlon+Energy+Limited+share+target",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Suzlon+Energy+Limited+share+target&sp=SBSCAQtmNVRYbkpxMGd0c4IBC3hoZHEzeUFxX3VvggELNFQ4a0dOZmVyZHeCAQtlNWs5R1VDQ2VTd4IBC19wSGxUeERPbE9rggELa2plM0Z5Z1pHTm-CAQtBSVJ6VTN3WlQ3b4IBC1dULXV3ZEVlcHNBggELV2Myel90WG14ameCAQtDNEFYWFc5SXFrb4IBC19PRWdydS1tbVZnggELRnlhcWRqbGpnNDiCAQt0X3ZRb0xmb0phVYIBC3BoTWJaa2FxR2xBggELYThDQ3NoSUJCam-CAQsxQW10cjhOOXZrWYIBCzFGUUFEUjNncWJrggELc3pTZHR3R0hnN0GCAQsxb2lmaHFEZXBfUYIBC09IaDduNTFhVUtRsgEGCgQIFhAC6gEECAIQGQ%253D%253D",
+  "next_page_token": "SBSCAQtmNVRYbkpxMGd0c4IBC3hoZHEzeUFxX3VvggELNFQ4a0dOZmVyZHeCAQtlNWs5R1VDQ2VTd4IBC19wSGxUeERPbE9rggELa2plM0Z5Z1pHTm-CAQtBSVJ6VTN3WlQ3b4IBC1dULXV3ZEVlcHNBggELV2Myel90WG14ameCAQtDNEFYWFc5SXFrb4IBC19PRWdydS1tbVZnggELRnlhcWRqbGpnNDiCAQt0X3ZRb0xmb0phVYIBC3BoTWJaa2FxR2xBggELYThDQ3NoSUJCam-CAQsxQW10cjhOOXZrWYIBCzFGUUFEUjNncWJrggELc3pTZHR3R0hnN0GCAQsxb2lmaHFEZXBfUYIBC09IaDduNTFhVUtRsgEGCgQIFhAC6gEECAIQGQ%3D%3D"
+ },
+ "_fetched_at": "2026-10-08T16:07:27"
+}

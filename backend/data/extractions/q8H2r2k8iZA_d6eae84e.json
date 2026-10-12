@@ -1,0 +1,297 @@
+{
+ "calls": [
+  {
+   "company": "TVS Motor Company",
+   "symbol_guess": "TVSMOTOR",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "TVS मोटर अगर टू व्हीलर की बात करें तो TVS मोटर क्लियरली नंबर वन है।",
+   "start_s": 476,
+   "line": "राइट तो TVS मोटर अगर टू व्हीलर की बात",
+   "evidence": [
+    {
+     "text": "TVS मोटर",
+     "where": "transcript",
+     "start_s": 476
+    },
+    {
+     "text": "नंबर वन",
+     "where": "transcript",
+     "start_s": 479
+    }
+   ],
+   "reason": "The speaker cites TVS Motor's sales figures and market position but does not give a buy/sell directive, so it is classified as watch."
+  },
+  {
+   "company": "Bajaj Auto",
+   "symbol_guess": "BAJAJ-AUTO",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "फिर Bajaj Auto ने 43,000 बेची हैं।",
+   "start_s": 483,
+   "line": "एंड 76% ईयर ऑन ईयर ग्रोथ है। ठीक है? ठीक",
+   "evidence": [
+    {
+     "text": "Bajaj Auto",
+     "where": "transcript",
+     "start_s": 486
+    },
+    {
+     "text": "43,000 बेची",
+     "where": "transcript",
+     "start_s": 486
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Auto's sales numbers without recommending any action, so it is marked as watch."
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": "TATAMOTORS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "और इवन हमने देखे Tata Motors वगैरह के भी रिजल्ट्स देखे।",
+   "start_s": 498,
+   "line": "में आ रहा है। और इवन हमने देखे Tata",
+   "evidence": [
+    {
+     "text": "रिजल्ट्स देखे",
+     "where": "transcript",
+     "start_s": 500
+    }
+   ],
+   "reason": "Tata Motors is referenced in passing regarding results, with no explicit recommendation, thus classified as watch."
+  },
+  {
+   "company": "New India Assurance",
+   "symbol_guess": "NIACL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर जून में",
+   "start_s": 650,
+   "line": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर",
+   "evidence": [
+    {
+     "text": "10% ईयर ऑन ईयर",
+     "where": "transcript",
+     "start_s": 650
+    }
+   ],
+   "reason": "The speaker mentions the premium growth of New India Assurance but does not give a buying or selling instruction."
+  },
+  {
+   "company": "ICICI Lombard",
+   "symbol_guess": "ICICIGI",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ICICI लॉब 13.7% बिलो एवरेज",
+   "start_s": 650,
+   "line": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर",
+   "evidence": [
+    {
+     "text": "13.7% बिलो एवरेज",
+     "where": "transcript",
+     "start_s": 652
+    }
+   ],
+   "reason": "The speaker reports a growth figure for ICICI Lombard without any explicit recommendation."
+  },
+  {
+   "company": "Oriental Insurance",
+   "symbol_guess": "OICL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में",
+   "start_s": 652,
+   "line": "जून में ICICI लॉब 13.7% बिलो एवरेज",
+   "evidence": [
+    {
+     "text": "30%",
+     "where": "transcript",
+     "start_s": 643
+    }
+   ],
+   "reason": "A performance number is given for Oriental Insurance, but no advice to buy or sell is provided."
+  },
+  {
+   "company": "United India Insurance",
+   "symbol_guess": "UIIC",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "है यूनाइटेड ऑलमोस्ट 2.7%",
+   "start_s": 657,
+   "line": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक",
+   "evidence": [
+    {
+     "text": "ऑलमोस्ट 2.7%",
+     "where": "transcript",
+     "start_s": 660
+    }
+   ],
+   "reason": "The speaker notes a modest growth figure for United India Insurance without a recommendation."
+  },
+  {
+   "company": "Star Health Insurance",
+   "symbol_guess": "STARHEALTH",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्टार हेल्थ 19% का प्रीमियम ग्रोथ हुआ।",
+   "start_s": 660,
+   "line": "है यूनाइटेड ऑलमोस्ट 2.7%",
+   "evidence": [
+    {
+     "text": "19% का प्रीमियम ग्रोथ",
+     "where": "transcript",
+     "start_s": 664
+    }
+   ],
+   "reason": "Growth is reported for Star Health but no buying or selling cue is given."
+  },
+  {
+   "company": "Tata Power",
+   "symbol_guess": "TATAPOWER",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Tata पावर का कल मैं एक आर्टिकल पढ़ रहा था।",
+   "start_s": 735,
+   "line": "जापान एंड जर्मनी से। ठीक है? Tata पावर",
+   "evidence": [
+    {
+     "text": "आर्टिकल पढ़ रहा था",
+     "where": "transcript",
+     "start_s": 738
+    }
+   ],
+   "reason": "The speaker discusses Tata Power's capacity plans but does not explicitly advise a trade."
+  },
+  {
+   "company": "State Bank of India",
+   "symbol_guess": "SBIN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बाकी SBI का आईपीओ आ रहा है।",
+   "start_s": 833,
+   "line": "ज्यादा चाहिए होगी।",
+   "evidence": [
+    {
+     "text": "आईपीओ आ रहा है",
+     "where": "transcript",
+     "start_s": 835
+    }
+   ],
+   "reason": "Mention of an upcoming SBI IPO is informational only, with no trade direction."
+  },
+  {
+   "company": "Idea Cellular",
+   "symbol_guess": "IDEA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट का काफी इंटरेस्ट दिखाया है।",
+   "start_s": 839,
+   "line": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट",
+   "evidence": [
+    {
+     "text": "इंटरेस्ट दिखाया है",
+     "where": "transcript",
+     "start_s": 844
+    }
+   ],
+   "reason": "The speaker notes foreign interest in Idea but does not give a buy/sell cue."
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "symbol_guess": "TCS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "TCS का रिजल्ट भी अच्छा है",
+   "start_s": 893,
+   "line": "मतलब मेरे को थोड़ा सा पॉजिटिव लगा कि आई",
+   "evidence": [
+    {
+     "text": "रिजल्ट भी अच्छा है",
+     "where": "transcript",
+     "start_s": 894
+    }
+   ],
+   "reason": "Positive earnings are noted for TCS but no explicit trade advice is given."
+  },
+  {
+   "company": "Titan Company Ltd",
+   "symbol_guess": "TITAN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ठीक है। बाकी Titan काफी अच्छा ग्रो किया।",
+   "start_s": 962,
+   "line": "उन्होंने सेटअप किया है",
+   "evidence": [
+    {
+     "text": "ग्रो किया",
+     "where": "transcript",
+     "start_s": 964
+    }
+   ],
+   "reason": "The speaker mentions Titan's growth but does not give a buy/sell recommendation."
+  },
+  {
+   "company": "Tata Consultancy Services Ltd",
+   "symbol_guess": "TCS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "जैसे-जैसे मतलब TCS अच्छा नहीं कर रहा है।",
+   "start_s": 970,
+   "line": "खासा बढ़ा है। और जैसे-जैसे मतलब TCS",
+   "evidence": [
+    {
+     "text": "अच्छा नहीं कर रहा है",
+     "where": "transcript",
+     "start_s": 972
+    }
+   ],
+   "reason": "The speaker comments on TCS's performance without advising to buy or sell."
+  }
+ ],
+ "rejected_unverified": 2,
+ "chunks": 4,
+ "llm_failed_chunks": 0
+}

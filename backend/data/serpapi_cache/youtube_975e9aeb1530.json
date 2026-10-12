@@ -1,0 +1,466 @@
+{
+ "search_metadata": {
+  "id": "6ac7bda560cbef46998d85c2",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/TCZLsBMAoubUDrsOs8Duffdzq0uCosBtC6-Tfyn7Wek/6ac7bda560cbef46998d85c2.json",
+  "markdown_endpoint": "https://serpapi.com/searches/TCZLsBMAoubUDrsOs8Duffdzq0uCosBtC6-Tfyn7Wek/6ac7bda560cbef46998d85c2.md",
+  "created_at": "2026-10-08 15:58:29 UTC",
+  "processed_at": "2026-10-08 15:58:29 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Baap+of+Chart+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/TCZLsBMAoubUDrsOs8Duffdzq0uCosBtC6-Tfyn7Wek/6ac7bda560cbef46998d85c2.html",
+  "total_time_taken": 2.69
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Baap of Chart stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 2693841,
+  "video_results_state": "Results for exact spelling"
+ },
+ "playlist_results": [
+  {
+   "position_on_page": 1,
+   "title": "Baap of Chart Strategies",
+   "link": "https://www.youtube.com/playlist?list=PLbkdmNgTRJehYPB22fTrvQNzMFrveC9Ka",
+   "channel": {
+    "name": "Market Mania",
+    "link": "https://www.youtube.com/@marketmania7459"
+   },
+   "videos": [
+    {
+     "title": "Scalping Strategy  - Baap of Chart",
+     "length": "8:38",
+     "link": "https://www.youtube.com/watch?v=DdMig5x8rkk&list=PLbkdmNgTRJehYPB22fTrvQNzMFrveC9Ka&pp=0gcJCQIF0aJEHMZM"
+    },
+    {
+     "title": "Lunch Strategy  - Baap of Chart",
+     "length": "9:15",
+     "link": "https://www.youtube.com/watch?v=Et8gMAjdQNE&list=PLbkdmNgTRJehYPB22fTrvQNzMFrveC9Ka"
+    }
+   ],
+   "video_count": 21,
+   "thumbnail": "https://i.ytimg.com/vi/DdMig5x8rkk/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC2Q70_gdVK-KSVBbfaIuTOQec6Yg"
+  },
+  {
+   "position_on_page": 12,
+   "title": "Trap Trading & Chart Reading Psychology",
+   "link": "https://www.youtube.com/playlist?list=PLPebeP-1oYTjrBnl_muEkR8l9ld8pZOLc",
+   "channel": {
+    "name": "Baap Of Option",
+    "link": "https://www.youtube.com/@baapofoption"
+   },
+   "videos": [
+    {
+     "title": "TRAP TRADING & CHART READING PSYCHOLOGY MASTERCLASS EP 1 #shorts pocket option",
+     "length": "14:39",
+     "link": "https://www.youtube.com/watch?v=-Ij6EobNz6s&list=PLPebeP-1oYTjrBnl_muEkR8l9ld8pZOLc"
+    },
+    {
+     "title": "TRAP TRADING & CHART READING PSYCHOLOGY MASTERCLASS EP 2 #shorts pocket option",
+     "length": "9:07",
+     "link": "https://www.youtube.com/watch?v=M2n2CuCoqS0&list=PLPebeP-1oYTjrBnl_muEkR8l9ld8pZOLc"
+    }
+   ],
+   "video_count": 101,
+   "thumbnail": "https://i.ytimg.com/vi/-Ij6EobNz6s/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCP9FpCVdUYUdce6kj3sYHNEJFmKQ"
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Baap of Chart ",
+   "link": "https://www.youtube.com/@Tradewithboc",
+   "handle": "@Tradewithboc",
+   "subscribers": 325000,
+   "description": "Welcome to *Baap of Chart * – the channel dedicated to simplifying trading like never before! Here, we strip away the complexities ...",
+   "thumbnail": "https://yt3.ggpht.com/HmgL2UydtvCUVzs27Z5gGSIj31XxXMJJ2Q1ulas0FkG3FBZqLcVfXgoDDk0J7Nzmz7bFwKJ6sQ=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 3,
+   "shorts": [
+    {
+     "title": "Baap of Chart Trading Scam| 17 Cr. Penalty by SEBI #shorts #stocktrading #trading #tradingcourse",
+     "link": "https://www.youtube.com/shorts/qa6snjwKjmU",
+     "thumbnail": "https://i.ytimg.com/vi/qa6snjwKjmU/frame0.jpg",
+     "views_original": "884 views",
+     "views": 884,
+     "video_id": "qa6snjwKjmU"
+    },
+    {
+     "title": "Baap of Chart banned from trading and directed to deposit ₹17.2 crores by SEBI.",
+     "link": "https://www.youtube.com/shorts/eSKKdDaeAMA",
+     "thumbnail": "https://i.ytimg.com/vi/eSKKdDaeAMA/frame0.jpg",
+     "views_original": "50K views",
+     "views": 50000,
+     "video_id": "eSKKdDaeAMA"
+    },
+    {
+     "title": "Baap Of Chart Podcast | Mohmad Nasir | Stock market Podcast",
+     "link": "https://www.youtube.com/shorts/TwgERAKbDAo",
+     "thumbnail": "https://i.ytimg.com/vi/TwgERAKbDAo/frame0.jpg",
+     "views_original": "67 views",
+     "views": 67,
+     "video_id": "TwgERAKbDAo"
+    },
+    {
+     "title": "baap of chart  exposed  #bse #charts #india #news #nse #stockmarket #stocks #fake #call  #put",
+     "link": "https://www.youtube.com/shorts/oBkTlWxf-Q0",
+     "thumbnail": "https://i.ytimg.com/vi/oBkTlWxf-Q0/frame0.jpg",
+     "views_original": "90 views",
+     "views": 90,
+     "video_id": "oBkTlWxf-Q0"
+    },
+    {
+     "title": "Day 11/75: Baap of Chart has been banned from securities market by SEBI | #casestudy @decodingdandha",
+     "link": "https://www.youtube.com/shorts/3RpgjVhEuCE",
+     "thumbnail": "https://i.ytimg.com/vi/3RpgjVhEuCE/frame0.jpg",
+     "views_original": "190 views",
+     "views": 190,
+     "video_id": "3RpgjVhEuCE"
+    }
+   ]
+  },
+  {
+   "position_on_page": 7,
+   "shorts": [
+    {
+     "title": "Baap of Chart Workshop Entry | Md Nasir",
+     "link": "https://www.youtube.com/shorts/nfnCScRN1xQ",
+     "thumbnail": "https://i.ytimg.com/vi/nfnCScRN1xQ/frame0.jpg",
+     "views_original": "24K views",
+     "views": 24000,
+     "video_id": "nfnCScRN1xQ"
+    },
+    {
+     "title": "SEBI fines Baap of Chart for 17.2 Crore for stock market frauds against complaint of Digital Blogger",
+     "link": "https://www.youtube.com/shorts/gZ0olocSU8Q",
+     "thumbnail": "https://i.ytimg.com/vi/gZ0olocSU8Q/frame0.jpg",
+     "views_original": "2.7K views",
+     "views": 2700,
+     "video_id": "gZ0olocSU8Q"
+    },
+    {
+     "title": "Baap of Chart Journey | From a home tutor to Trader",
+     "link": "https://www.youtube.com/shorts/1KzJy1Cqrao",
+     "thumbnail": "https://i.ytimg.com/vi/1KzJy1Cqrao/frame0.jpg",
+     "views_original": "32K views",
+     "views": 32000,
+     "video_id": "1KzJy1Cqrao"
+    },
+    {
+     "title": "SEBI Banned 'Baap Of Chart' Owner From Trading | Stock Market Frauds #upsc #ias  #shorts #sebi",
+     "link": "https://www.youtube.com/shorts/Hs-qf2Yj2tQ",
+     "thumbnail": "https://i.ytimg.com/vi/Hs-qf2Yj2tQ/frame0.jpg",
+     "views_original": "176 views",
+     "views": 176,
+     "video_id": "Hs-qf2Yj2tQ"
+    },
+    {
+     "title": "Baap of Chart Fraud ✅📊 Sebi Banned baap of chart #trading #baapofchart #intradaytrading",
+     "link": "https://www.youtube.com/shorts/r8IMvJPbbtM",
+     "thumbnail": "https://i.ytimg.com/vi/r8IMvJPbbtM/frame0.jpg",
+     "views_original": "15K views",
+     "views": 15000,
+     "video_id": "r8IMvJPbbtM"
+    },
+    {
+     "title": "#shorts Baap Of Chart Exposed, SEBI imposed Fine of 17 crore #sharemarket #baapofchart",
+     "link": "https://www.youtube.com/shorts/h3f1GG-HHV4",
+     "thumbnail": "https://i.ytimg.com/vi/h3f1GG-HHV4/frame0.jpg",
+     "views_original": "42 views",
+     "views": 42,
+     "video_id": "h3f1GG-HHV4"
+    },
+    {
+     "title": "Pro Tips for 145 Strategies | Baap of Chart",
+     "link": "https://www.youtube.com/shorts/yyHH8R4T7p4",
+     "thumbnail": "https://i.ytimg.com/vi/yyHH8R4T7p4/frame0.jpg",
+     "views_original": "304K views",
+     "views": 304000,
+     "video_id": "yyHH8R4T7p4"
+    },
+    {
+     "title": "BAAP OF CHART  ~MD Nasir @trading_worldd #trading #stockmarket  #shorts #shortvideo",
+     "link": "https://www.youtube.com/shorts/byfY9blaI6g",
+     "thumbnail": "https://i.ytimg.com/vi/byfY9blaI6g/frame0.jpg",
+     "views_original": "12K views",
+     "views": 12000,
+     "video_id": "byfY9blaI6g"
+    },
+    {
+     "title": "baap of chart nasir sir great",
+     "link": "https://www.youtube.com/shorts/4YXFtEd40rk",
+     "thumbnail": "https://i.ytimg.com/vi/4YXFtEd40rk/frame0.jpg",
+     "views_original": "1.5K views",
+     "views": 1500,
+     "video_id": "4YXFtEd40rk"
+    },
+    {
+     "title": "Baap Of Charts Banned From Stock Market #shorts #trending",
+     "link": "https://www.youtube.com/shorts/0rgpy0x9LpU",
+     "thumbnail": "https://i.ytimg.com/vi/0rgpy0x9LpU/frame0.jpg",
+     "views_original": "64 views",
+     "views": 64,
+     "video_id": "0rgpy0x9LpU"
+    },
+    {
+     "title": "BAAP OF CHART BAN HOGYE?? #sebi fined 17.20 crores #trading  #breakingnews  #baapofchart",
+     "link": "https://www.youtube.com/shorts/AWd8p_HKNVA",
+     "thumbnail": "https://i.ytimg.com/vi/AWd8p_HKNVA/frame0.jpg",
+     "views_original": "1.5K views",
+     "views": 1500,
+     "video_id": "AWd8p_HKNVA"
+    },
+    {
+     "title": "NIFTY 50 strategy by Baap of Chart",
+     "link": "https://www.youtube.com/shorts/q74ftmLiFXs",
+     "thumbnail": "https://i.ytimg.com/vi/q74ftmLiFXs/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "q74ftmLiFXs"
+    },
+    {
+     "title": "Baap Of Chart | Baap Of Chart Application Launch",
+     "link": "https://www.youtube.com/shorts/XNFiTE4ManY",
+     "thumbnail": "https://i.ytimg.com/vi/XNFiTE4ManY/frame0.jpg",
+     "views_original": "677 views",
+     "views": 677,
+     "video_id": "XNFiTE4ManY"
+    },
+    {
+     "title": "\"SEBI Imposes Penalty on 'Baap of Chart':   | BAAP OF CHART Banned |#shorts #sharemarketnews  #sebi",
+     "link": "https://www.youtube.com/shorts/dvuofQUAatw",
+     "thumbnail": "https://i.ytimg.com/vi/dvuofQUAatw/frame0.jpg",
+     "views_original": "390 views",
+     "views": 390,
+     "video_id": "dvuofQUAatw"
+    },
+    {
+     "title": "Baap of Chart Exposed! ₹17CR Stock Market Fraud❌️ #stockmarket #news #fraud #fakefinfluencer",
+     "link": "https://www.youtube.com/shorts/ZJExaKLned8",
+     "thumbnail": "https://i.ytimg.com/vi/ZJExaKLned8/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "ZJExaKLned8"
+    },
+    {
+     "title": "Baap of chart || swing trading strategy || #shorts #trading",
+     "link": "https://www.youtube.com/shorts/iSGa3-ML_sw",
+     "thumbnail": "https://i.ytimg.com/vi/iSGa3-ML_sw/frame0.jpg",
+     "views_original": "23K views",
+     "views": 23000,
+     "video_id": "iSGa3-ML_sw"
+    },
+    {
+     "title": "baap of chart | Ammad Nasir | SEBI BANNED 🔥🔥 why #sebi #baapofchart #banned #exposed",
+     "link": "https://www.youtube.com/shorts/nLAVYZV2bgo",
+     "thumbnail": "https://i.ytimg.com/vi/nLAVYZV2bgo/frame0.jpg",
+     "views_original": "104 views",
+     "views": 104,
+     "video_id": "nLAVYZV2bgo"
+    },
+    {
+     "title": "BAAP OF CHART save 17 crore  | Sebi Earn 17 crore form this stock market influencer #sharemarket",
+     "link": "https://www.youtube.com/shorts/kLbBEWOBggU",
+     "thumbnail": "https://i.ytimg.com/vi/kLbBEWOBggU/frame0.jpg",
+     "views_original": "21K views",
+     "views": 21000,
+     "video_id": "kLbBEWOBggU"
+    },
+    {
+     "title": "Baap of Chart | Hyderabad Workshop #baapofchart",
+     "link": "https://www.youtube.com/shorts/KoohOPYsvNQ",
+     "thumbnail": "https://i.ytimg.com/vi/KoohOPYsvNQ/frame0.jpg",
+     "views_original": "8.6K views",
+     "views": 8600,
+     "video_id": "KoohOPYsvNQ"
+    },
+    {
+     "title": "Traders Daily Routine | Baap of Chart",
+     "link": "https://www.youtube.com/shorts/qdbCaeO2E94",
+     "thumbnail": "https://i.ytimg.com/vi/qdbCaeO2E94/frame0.jpg",
+     "views_original": "156K views",
+     "views": 156000,
+     "video_id": "qdbCaeO2E94"
+    }
+   ]
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 4,
+   "title": "145 Strategy Baap Of Chart 🔥|| Best Strategy For Option Trading||",
+   "link": "https://www.youtube.com/watch?v=zmAtSdgEGzM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zmAtSdgEGzM",
+   "video_id": "zmAtSdgEGzM",
+   "channel": {
+    "name": "Yodha Trader",
+    "link": "https://www.youtube.com/@yodhatrader",
+    "thumbnail": "https://yt3.ggpht.com/WHFYx_njgR-YIBhwA25M3ugyjgBcnCf442bPkip7QC7SS01WvEkpAEziPxilkqsINohBrZUmNPQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 1664,
+   "length": "10:45",
+   "description": "145 Strategy Baap Of Chart || Best Strategy For Option Trading|| #145strategybaapofchart #baapofchart #Strategies.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zmAtSdgEGzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPEh9q4u8MtZ0hYg1pGY8ED3B0DQ",
+    "rich": "https://i.ytimg.com/an_webp/zmAtSdgEGzM/mqdefault_6s.webp?du=3000&sqp=COLmntYG&rs=AOn4CLDWpva2HJgTQS6NOvcxw-I1vT2RNg"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Baap of Chart 325 Strategy 145 Strategy Pro Tips Option Trader Rocky",
+   "link": "https://www.youtube.com/watch?v=uS3z1ZQthe8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=uS3z1ZQthe8",
+   "video_id": "uS3z1ZQthe8",
+   "channel": {
+    "name": "OPTIONS TRADER ROCKY",
+    "link": "https://www.youtube.com/@optionstraderrocky4331",
+    "thumbnail": "https://yt3.ggpht.com/8_GUxftAM6R8aBYNPQD-az3ukjfOKEGKXYqxhaFafsIheud1h0NVHSEGV3x9rcYe7Pjy2ANfvw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 5690,
+   "length": "1:32",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/uS3z1ZQthe8/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBjAeAAoAPigIMCAAQARhlIGUoZTAP&rs=AOn4CLDJ4kWExl1APTqpFKthc9tztQVbaQ",
+    "rich": "https://i.ytimg.com/an_webp/uS3z1ZQthe8/mqdefault_6s.webp?du=3000&sqp=CJz3ntYG&rs=AOn4CLARAofIJmez3fjUxKZV6q9ynnYhIg"
+   }
+  },
+  {
+   "position_on_page": 6,
+   "title": "Baap Of Chart Exposed || He Is A Fraud Trader",
+   "link": "https://www.youtube.com/watch?v=d702kyL2cVI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d702kyL2cVI",
+   "video_id": "d702kyL2cVI",
+   "channel": {
+    "name": "Two Faces",
+    "link": "https://www.youtube.com/@twofaces2344",
+    "thumbnail": "https://yt3.ggpht.com/pPBANjj6mmR2zIDRo3brusFCMY0oLGgUgbZ3Ahbi2RPiUA-MBLnkOzMrlEKhlDrKvN8nABzzzw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 84929,
+   "length": "7:20",
+   "description": "🔥 GFT New Link: [https://app.goatfundedtrader.com/checkout?referral_id=Ahmedmasood2344] In this video we will discuss Baap of ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/d702kyL2cVI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBdnrbyvhyoppXg6bdFk6NcB9CUrQ",
+    "rich": "https://i.ytimg.com/an_webp/d702kyL2cVI/mqdefault_6s.webp?du=3000&sqp=CIy8ntYG&rs=AOn4CLBaECaAT-7A71C7PUylDZtIOpNEIQ"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "What's Behind SEBI’s ₹18.14 Cr Slap on ‘Baap of Chart’",
+   "link": "https://www.youtube.com/watch?v=zol7oxpiUn0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zol7oxpiUn0",
+   "video_id": "zol7oxpiUn0",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 4018,
+   "length": "2:01",
+   "description": "SEBI has initiated recovery proceedings worth ₹18.14 crore against Mohd Nasiruddin Ansari, known as 'Baap of Chart', Rahul ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zol7oxpiUn0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvQSopmlk2X4nN_RjaP0eWxioPVQ",
+    "rich": "https://i.ytimg.com/an_webp/zol7oxpiUn0/mqdefault_6s.webp?du=3000&sqp=CLXFntYG&rs=AOn4CLBfXZVoY7BxQ278FZRKQ4nfgMSv2A"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Binod strategy by baap of chart | Workshop strategy | Stock setup",
+   "link": "https://www.youtube.com/watch?v=l0MHAVh5STk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=l0MHAVh5STk",
+   "video_id": "l0MHAVh5STk",
+   "channel": {
+    "name": "Stock Setup",
+    "link": "https://www.youtube.com/@StockSetup",
+    "thumbnail": "https://yt3.ggpht.com/C-7IEu9S7FBrx2p08YsmCIE4vlYTBNdgoOoFyTg4wNLIDLq-A2A9Le_uWueT8CFQ_NzhjdHnGg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 1131,
+   "length": "3:51",
+   "description": "Binod strategy by baap of chart | Workshop strategy | Stock setup WhatsApp number - 79841 56620 ( For advance learning about ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/l0MHAVh5STk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOjZDngmxbeAu9jNDgOh4KmlihNw",
+    "rich": "https://i.ytimg.com/an_webp/l0MHAVh5STk/mqdefault_6s.webp?du=3000&sqp=CO3rntYG&rs=AOn4CLD8LOAlzhiAZYbC05YjQu0iJsEHfQ"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "🔴 Top 5 Golden Rules for Option Buyer || Baap of Chart || Profit Bell 🔔",
+   "link": "https://www.youtube.com/watch?v=muFhOzn_qsE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=muFhOzn_qsE",
+   "video_id": "muFhOzn_qsE",
+   "channel": {
+    "name": "Profit Bell🔔",
+    "link": "https://www.youtube.com/@profitbell",
+    "thumbnail": "https://yt3.ggpht.com/sb_jnl_40Ps7tao1vuhycYBIWZos5aNgi2Am4UpA-VJMfLgxfwJWqj_HxCyw0hjHJaeZs87JRFU=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 1911,
+   "length": "7:01",
+   "description": "Learn :- Top 5 Golden Rules for Option Buyer || Baap of Chart || Profit Bell TELEGRAM CHANNEL:- https://t.me/profitbell123 ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/muFhOzn_qsE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrBXZHW_wo7oV8nNw2Nt5c7LFeAw",
+    "rich": "https://i.ytimg.com/an_webp/muFhOzn_qsE/mqdefault_6s.webp?du=3000&sqp=COXmntYG&rs=AOn4CLC0wZf5y4ly4ViXH-ii6juGUm0tRQ"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "145 strategy Best option trading strategy l| BAAP OF CHART #145strategy #325strategy #baapofchart",
+   "link": "https://www.youtube.com/watch?v=9TX6CX_ttCw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TX6CX_ttCw",
+   "video_id": "9TX6CX_ttCw",
+   "channel": {
+    "name": "DN Traders",
+    "link": "https://www.youtube.com/@dntraders789",
+    "thumbnail": "https://yt3.ggpht.com/uxVWeLmGey6enhOAl_5b0h4alNyW3q8so6iF3_hAj_MW-7XjJ0u_QtZkQ1yphz64qhCtNupj0AY=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 2213,
+   "length": "9:13",
+   "description": "EXPIRY DAY STRATEGY:https://youtu.be/XI0ZE4jMEkU Subscribe us for daily updates on trading nifty banknifty and crypto we ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TX6CX_ttCw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoH6YEmNHnFUBiBiWQrjgupCXd8Q",
+    "rich": "https://i.ytimg.com/an_webp/9TX6CX_ttCw/mqdefault_6s.webp?du=3000&sqp=COjvntYG&rs=AOn4CLDFOvNUFuZ_gqM0mHrSYF7LrNWkqg"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "145 Trading Strategy | Option Trading Strategy | Baap of Chart | Stock Setup",
+   "link": "https://www.youtube.com/watch?v=FFZDRV55Nn0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=FFZDRV55Nn0",
+   "video_id": "FFZDRV55Nn0",
+   "channel": {
+    "name": "Stock Setup",
+    "link": "https://www.youtube.com/@StockSetup",
+    "thumbnail": "https://yt3.ggpht.com/C-7IEu9S7FBrx2p08YsmCIE4vlYTBNdgoOoFyTg4wNLIDLq-A2A9Le_uWueT8CFQ_NzhjdHnGg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 1343,
+   "length": "3:59",
+   "description": "145 Trading strategy | Option trading strategy | baap of chart | Stock setup\n\nTelegram link - https://t.me/joinchat ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/FFZDRV55Nn0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVTXZ7CHNuUBqNy_185H9Tobg4Xg"
+   }
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Baap+of+Chart+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Baap%20of%20Chart%20stocks&sp=SBSCASJQTGJrZG1OZ1RSSmVoWVBCMjJmVHJ2UU56TUZydmVDOUthggEYVUNSZTdHTGNfYkRzNEZvRk9OZ3MtWUJnggELem1BdFNkZ0VHek2CAQt1UzN6MVpRdGhlOIIBC2Q3MDJreUwyY1ZJggELem9sN294cGlVbjCCAQtsME1IQVZoNVNUa4IBC211RmhPem5fcXNFggELOVRYNkNYX3R0Q3eCASJQTFBlYmVQLTFvWVRqckJubF9tdUVrUjhsOWxkOHBaT0xjggELRkZaRFJWNTVObjCyAQYKBAgNEALqAQQIAhAZ",
+  "next_page_token": "SBSCASJQTGJrZG1OZ1RSSmVoWVBCMjJmVHJ2UU56TUZydmVDOUthggEYVUNSZTdHTGNfYkRzNEZvRk9OZ3MtWUJnggELem1BdFNkZ0VHek2CAQt1UzN6MVpRdGhlOIIBC2Q3MDJreUwyY1ZJggELem9sN294cGlVbjCCAQtsME1IQVZoNVNUa4IBC211RmhPem5fcXNFggELOVRYNkNYX3R0Q3eCASJQTFBlYmVQLTFvWVRqckJubF9tdUVrUjhsOWxkOHBaT0xjggELRkZaRFJWNTVObjCyAQYKBAgNEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Baap+of+Chart+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Baap+of+Chart+stocks&sp=SBSCASJQTGJrZG1OZ1RSSmVoWVBCMjJmVHJ2UU56TUZydmVDOUthggEYVUNSZTdHTGNfYkRzNEZvRk9OZ3MtWUJnggELem1BdFNkZ0VHek2CAQt1UzN6MVpRdGhlOIIBC2Q3MDJreUwyY1ZJggELem9sN294cGlVbjCCAQtsME1IQVZoNVNUa4IBC211RmhPem5fcXNFggELOVRYNkNYX3R0Q3eCASJQTFBlYmVQLTFvWVRqckJubF9tdUVrUjhsOWxkOHBaT0xjggELRkZaRFJWNTVObjCyAQYKBAgNEALqAQQIAhAZ",
+  "next_page_token": "SBSCASJQTGJrZG1OZ1RSSmVoWVBCMjJmVHJ2UU56TUZydmVDOUthggEYVUNSZTdHTGNfYkRzNEZvRk9OZ3MtWUJnggELem1BdFNkZ0VHek2CAQt1UzN6MVpRdGhlOIIBC2Q3MDJreUwyY1ZJggELem9sN294cGlVbjCCAQtsME1IQVZoNVNUa4IBC211RmhPem5fcXNFggELOVRYNkNYX3R0Q3eCASJQTFBlYmVQLTFvWVRqckJubF9tdUVrUjhsOWxkOHBaT0xjggELRkZaRFJWNTVObjCyAQYKBAgNEALqAQQIAhAZ"
+ },
+ "_fetched_at": "2026-10-08T15:58:30"
+}

@@ -1,0 +1,572 @@
+{
+ "search_metadata": {
+  "id": "6acaab8cde1f33af5decab44",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/8ODyyCk6VTXASslXa34gSRazAoRlJAc_3XFbadyYVI0/6acaab8cde1f33af5decab44.json",
+  "markdown_endpoint": "https://serpapi.com/searches/8ODyyCk6VTXASslXa34gSRazAoRlJAc_3XFbadyYVI0/6acaab8cde1f33af5decab44.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/8ODyyCk6VTXASslXa34gSRazAoRlJAc_3XFbadyYVI0/6acaab8cde1f33af5decab44.json_with_pixel_position",
+  "created_at": "2026-10-10 21:18:04 UTC",
+  "processed_at": "2026-10-10 21:18:04 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&oq=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/8ODyyCk6VTXASslXa34gSRazAoRlJAc_3XFbadyYVI0/6acaab8cde1f33af5decab44.html",
+  "total_time_taken": 1.92
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Pushkar Raj Thakur\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Pushkar Raj Thakur\"",
+  "total_results": 50,
+  "time_taken_displayed": 0.25,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "inline_videos": [
+  {
+   "position": 1,
+   "title": "How to Start Investing in Share Market? How to Make Money ...",
+   "link": "https://www.youtube.com/shorts/jyUEjJvcTnY",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/ke_nUGUb5gBLi3S8zElkCiyh5gx47HZpENPpSxQhxNA.jpeg",
+   "channel": "The Rich",
+   "duration": "0:33",
+   "platform": "YouTube",
+   "date": "2 May 2026",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSwsZh44DDo93HzZl4OgNUBJHEZVeLagMRntQ"
+  },
+  {
+   "position": 2,
+   "title": "How to Make Money from Stock Market | ft. Pushkar Raj Thakur",
+   "link": "https://www.youtube.com/shorts/h3aFv7JvbfA",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/ADJH6PGF0NHCbGMCEqUTDxWJA1eN2ZsKvaIaAGsvS-g.jpeg",
+   "channel": "The Rich",
+   "duration": "1:01",
+   "platform": "YouTube",
+   "date": "4 May 2026",
+   "short_clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSq_Fii8zDT841WOUYbMeFJD6tMsJYa20wODg"
+  },
+  {
+   "position": 3,
+   "title": "Post from Pushkar Raj Thakur: Stock Market Educator",
+   "link": "https://www.youtube.com/post/UgkxWevUujBPDWypuQeGfytbFhMKzUhxo8sw",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/pim36djKngInwjJlkb-9pxAic5GH2QyGOWfvu6b_WCI.jpeg",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "platform": "YouTube",
+   "date": "22 Jul 2025"
+  },
+  {
+   "position": 4,
+   "title": "Pushkar Raj Thakur's Brutal Truths About Wealth, Cars & Stock ...",
+   "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/QGGg97Q5rcy926NYnhBN_54Q00qirSeRdji8XGxRMRg.jpeg",
+   "channel": "Radio Ka Rohan",
+   "duration": "1:32:13",
+   "platform": "YouTube",
+   "date": "17 Oct 2024",
+   "key_moments": [
+    {
+     "time": "01:17",
+     "title": "Gold Investment",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=77"
+    },
+    {
+     "time": "05:06",
+     "title": "Financial rich and rich life",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=306"
+    },
+    {
+     "time": "06:02",
+     "title": "Struggle to achieve a dream life",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=362"
+    },
+    {
+     "time": "07:20",
+     "title": "4 energy of a person",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=440"
+    },
+    {
+     "time": "09:32",
+     "title": "Pushkar Raj's cars collection",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=572"
+    },
+    {
+     "time": "17:32",
+     "title": "When is the right time to enjoy life",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=1052"
+    },
+    {
+     "time": "23:20",
+     "title": "Rich people won't give time",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=1400"
+    },
+    {
+     "time": "28:32",
+     "title": "Startup story",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=1712"
+    },
+    {
+     "time": "32:54",
+     "title": "Most profitable part and failure in stock market journey",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=1974"
+    },
+    {
+     "time": "36:14",
+     "title": "Charlie munger's quote",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=2174"
+    },
+    {
+     "time": "41:02",
+     "title": "Acceptance of failure",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=2462"
+    },
+    {
+     "time": "43:32",
+     "title": "Buying luxury items in India",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=2612"
+    },
+    {
+     "time": "50:17",
+     "title": "Future market trends of stock market",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=3017"
+    },
+    {
+     "time": "01:00:00",
+     "title": "What is ETF",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=3600"
+    },
+    {
+     "time": "01:09:04",
+     "title": "About Elon Musk",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=4144"
+    },
+    {
+     "time": "01:13:43",
+     "title": "What is Dabba Trading?",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=4423"
+    },
+    {
+     "time": "01:18:42",
+     "title": "Pushkar Raj's designer clothes",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=4722"
+    },
+    {
+     "time": "01:21:33",
+     "title": "Advice to young investors",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=4893"
+    },
+    {
+     "time": "01:23:27",
+     "title": "This or that",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=5007"
+    },
+    {
+     "time": "01:24:50",
+     "title": "Where do you see yourself after 5 years",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=5090"
+    },
+    {
+     "time": "01:31:38",
+     "title": "End",
+     "link": "https://www.youtube.com/watch?v=m-kqJG5ygGY&t=5498"
+    }
+   ]
+  }
+ ],
+ "short_videos": [
+  {
+   "position": 1,
+   "title": "How to Start Investing in Share Market? How to Make Money ...",
+   "source": "YouTube",
+   "profile_name": "The Rich",
+   "extensions": [
+    "The Rich"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:33",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTrflQkHx5yP78Dqvx2Hc_IqCWslouSrmzY_g",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/ERkX6_sGGMLP7qn8GUDgtxj97uDcXFIS8RjnJp-sNkg.jpeg",
+   "link": "https://www.youtube.com/shorts/jyUEjJvcTnY"
+  },
+  {
+   "position": 2,
+   "title": "How to Make Money from Stock Market | ft. Pushkar Raj Thakur",
+   "source": "YouTube",
+   "profile_name": "The Rich",
+   "extensions": [
+    "The Rich"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:01",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS7IPztw-3x029OfYAlhH9BOhlK0neYn9m8Mw",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/vSqI9KsYSHezNPTY1kH34xot3DAptw2VTY_ybuO0XHE.jpeg",
+   "link": "https://www.youtube.com/shorts/h3aFv7JvbfA"
+  },
+  {
+   "position": 3,
+   "title": "This Mindset Can Make You Rich | Pushkar Raj Thakur",
+   "source": "YouTube",
+   "profile_name": "The Prateek World",
+   "extensions": [
+    "The Prateek World"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:55",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRDhhbzZ_TpsLNCeRvPikR5bPHZv5R1Bl971w",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/3JpvHl73QxaU1GvC-fUYCyFOLZ3W1oRI5i0o8OsHU-Y.jpeg",
+   "link": "https://www.youtube.com/shorts/B6s3WvfIanQ"
+  },
+  {
+   "position": 4,
+   "title": "जानिए Pushkar Raj Thakur कहाँ Invest करते है | Sagar Sinha Show",
+   "source": "YouTube",
+   "profile_name": "Sagar Sinha Podcast",
+   "extensions": [
+    "Sagar Sinha Podcast"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:00",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQGJ1yEZQzXktFjIZUpO5_IWI1gtwqFaaYaWQ",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/4Zk1u6Kw9dsEH1mbUWi_1mGOO8QviUP1Ly7yaWJBIZ4.jpeg",
+   "link": "https://www.youtube.com/shorts/8WamXqCbZYE"
+  },
+  {
+   "position": 5,
+   "title": "Grateful and Honored to receive this award from the visionary ...",
+   "source": "YouTube",
+   "profile_name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "extensions": [
+    "Pushkar Raj Thakur: Stock Market Educator 📈"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:20",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcR6FNtJ8iIcKTKFB8urf86ZDRNcrqKlif5u1Q",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-0WAkZFH0wm4DPflkjKRJ77PwTYVmqaDhRvfB42zKn8JPsQtJw3OcSyc&s=10",
+   "link": "https://www.youtube.com/shorts/mqf67qHTMgk"
+  },
+  {
+   "position": 6,
+   "title": "Pushkar Raj Thakur stock market education",
+   "source": "YouTube",
+   "profile_name": "Zarahatke",
+   "extensions": [
+    "Zarahatke"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:01",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS8st_0fqLpJF4hZHDTEMTApE7OQbhBb3U5Xg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQniiad4gJTQrvi1zmKqOh3f-Trc7ClcKyD77U9v1mUrTbwbXXwoQz-VJw&s=10",
+   "link": "https://www.youtube.com/shorts/5hsL8k1hkeI"
+  },
+  {
+   "position": 7,
+   "title": "Extra Money on Pledging",
+   "source": "YouTube",
+   "profile_name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "extensions": [
+    "Pushkar Raj Thakur: Stock Market Educator 📈"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:56",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTYX_jnfar0KaZT8BVA0_hwdlLxylrKXSbmyA",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaUxLFjueRVyy1rig4avsvxXvZO_8VI9ht6Bu7voB3RMKfhdkc85-QgXE&s=10",
+   "link": "https://www.youtube.com/shorts/ORUlwMJ8LEM"
+  },
+  {
+   "position": 8,
+   "title": "Interaction with Pushkar Raj Thakur | Financial Education",
+   "source": "YouTube",
+   "profile_name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "extensions": [
+    "Pushkar Raj Thakur: Stock Market Educator 📈"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:54",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcSK73ZoTxmmAWMO992VAbZVbehw6SmRMLty_Q",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuf_C6G4iraS_ygf7S3Rf9xjCj-Pzy62-qEvYRMtdsADlOyS-MMkVj-3Y&s=10",
+   "link": "https://www.youtube.com/shorts/9zhSLk4AwPI"
+  },
+  {
+   "position": 9,
+   "title": "Pushkar Raj Thakur Trading Mastery Course ...",
+   "source": "YouTube",
+   "profile_name": "Trade Vanta Quotex",
+   "extensions": [
+    "Trade Vanta Quotex"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "1:00",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0JhrY8yFM3HLyBmLSbiA7WY5hK9gOfugMpqKkxpwcyZ0stcvK2MluoCs&s",
+   "link": "https://www.youtube.com/shorts/yOoU_91Nhws"
+  },
+  {
+   "position": 10,
+   "title": "Strategy for beginners #stockmarket #trading #shorts",
+   "source": "YouTube",
+   "profile_name": "Abhishek Rawat Shivam",
+   "extensions": [
+    "Abhishek Rawat Shivam"
+   ],
+   "source_logo": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "duration": "0:31",
+   "clip": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQAKvTm3uyxN6UObD0OzJyr4-qp0kilK8OcCg",
+   "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRts7UQEZktr0WR5EHTt71pXK6yBVT_UIYsVDNcl_imkVFQdhGxlfxYn2Q&s=10",
+   "link": "https://www.youtube.com/shorts/sCwRsqc5wQY"
+  }
+ ],
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.youtube.com/post/UgkxRcqP_W7izyB9WWsXgZPLUWXTLYoeFkjM",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVwMuL_8xH_72xNo9s7dg1O16QYR11zifH_4_yRNIM48VEOyzvMV9i_R1nNLh4_xYwD5YkhuSNTV4QPLH5e-BU9UYK9loFG2oNxTeLkTGVK_sGH3JtMiLdLndLo5lro_KajMOFmriwzvwcObsFJcyu9NXPePiLS3U&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECCQQAQ&uoh=1",
+   "displayed_link": "3 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube ... Pushkar Raj Thakur: Stock Market Educator. 112K views. 2 months ago. 130.",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur",
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube ... Pushkar Raj Thakur: Stock Market Educator. 112K views. 2 months ago. 130.",
+     "source_info_link": "https://www.youtube.com/post/UgkxRcqP_W7izyB9WWsXgZPLUWXTLYoeFkjM",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndNdUxfOHhIXzcyeE5vOXM3ZGcxTzE2UVlSMTF6aWZIXzRfeVJOSU00OFZFT3l6dk1WOWlfUjFuTkxoNF94WXdENVlraHVTTlRWNFFQTEg1ZS1CVTlVWUs5bG9GRzJvTnhUZUxrVEdWS19zR0gzSnRNaUxkTG5kTG81bHJvX0thak1PRm1yaXd6dndjT2JzRkpjeXU5TlhQZVBpTFMzVRIEGgIIABrxAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDNAwgAEAAYACAAKg4KB3B1c2hrYXIVCtOIQCoKCgNyYWoVCtOIQCoNCgZ0aGFrdXIVCtOIQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ3TXVMXzh4SF83MnhObzlzN2RnMU8xNlFZUjExemlmSF80X3lSTklNNDhWRU95enZNVjlpX1Ixbk5MaDRfeFl3RDVZa2h1U05UVjRRUExINWUtQlU5VVlLOWxvRkcyb054VGVMa1RHVktfc0dIM0p0TWlMZExuZExvNWxyb19LYWpNT0Ztcml3enZ3Y09ic0ZKY3l1OU5YUGVQaUxTM1U6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQpkBUG9zdCBmcm9tIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvciAtIFlvdVR1YmUgLi4uIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvci4gMTEySyB2aWV3cy4gMiBtb250aHMgYWdvLiAxMzAuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVndNdUxfOHhIXzcyeE5vOXM3ZGcxTzE2UVlSMTF6aWZIXzRfeVJOSU00OFZFT3l6dk1WOWlfUjFuTkxoNF94WXdENVlraHVTTlRWNFFQTEg1ZS1CVTlVWUs5bG9GRzJvTnhUZUxrVEdWS19zR0gzSnRNaUxkTG5kTG81bHJvX0thak1PRm1yaXd6dndjT2JzRkpjeXU5TlhQZVBpTFMzVRIEGgIIABrxAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDNAwgAEAAYACAAKg4KB3B1c2hrYXIVCtOIQCoKCgNyYWoVCtOIQCoNCgZ0aGFrdXIVCtOIQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ3TXVMXzh4SF83MnhObzlzN2RnMU8xNlFZUjExemlmSF80X3lSTklNNDhWRU95enZNVjlpX1Ixbk5MaDRfeFl3RDVZa2h1U05UVjRRUExINWUtQlU5VVlLOWxvRkcyb054VGVMa1RHVktfc0dIM0p0TWlMZExuZExvNWxyb19LYWpNT0Ztcml3enZ3Y09ic0ZKY3l1OU5YUGVQaUxTM1U6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQpkBUG9zdCBmcm9tIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvciAtIFlvdVR1YmUgLi4uIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvci4gMTEySyB2aWV3cy4gMiBtb250aHMgYWdvLiAxMzAuIgIQAUgAWABoAA",
+   "source": "YouTube · Pushkar Raj Thakur: Stock Market Educator 📈",
+   "read_more_link": "https://www.youtube.com/post/UgkxRcqP_W7izyB9WWsXgZPLUWXTLYoeFkjM#:~:text=Post%20from%20Pushkar%20Raj%20Thakur%3A,Market%20Educator%20%F0%9F%93%88%20%2D%20YouTube&text=Pushkar%20Raj%20Thakur%3A%20Stock%20Market,130"
+  },
+  {
+   "position": 2,
+   "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.youtube.com/post/UgkxWzNm4sNTNux-BLC-XSIsznbNJhqBbLNO",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVgeuFigwOL7kqizTjjLROy7HSxHZ_SgunqsuCo7FKqVCneqeuQ8b0h8dNx1ENks_ANWcgfMV_2-qiOD4_MdvTP-Lk45R1QB5C_WkS1qkez1hCZkuTuMXxCqDrYHz3HA7lDYSDuLsvWYXyFEnEFBh0-Qhx0VV978w&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECCMQAQ&uoh=1",
+   "displayed_link": "3 months ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube. Home. Shorts. Library. Pushkar Raj Thakur: Stock Market Educator.",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur",
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube. Home. Shorts. Library. Pushkar Raj Thakur: Stock Market Educator.",
+     "source_info_link": "https://www.youtube.com/post/UgkxWzNm4sNTNux-BLC-XSIsznbNJhqBbLNO",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmdldUZpZ3dPTDdrcWl6VGpqTFJPeTdIU3hIWl9TZ3VucXN1Q283RktxVkNuZXFldVE4YjBoOGROeDFFTmtzX0FOV2NnZk1WXzItcWlPRDRfTWR2VFAtTGs0NVIxUUI1Q19Xa1MxcWtlejFoQ1prdVR1TVh4Q3FEcllIejNIQTdsRFlTRHVMc3ZXWVh5RkVuRUZCaDAtUWh4MFZWOTc4dxIEGgIIABrmAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDCAwgAEAAYACAAKg4KB3B1c2hrYXIVihyDQCoKCgNyYWoVihyDQCoNCgZ0aGFrdXIVihyDQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZnZXVGaWd3T0w3a3FpelRqakxST3k3SFN4SFpfU2d1bnFzdUNvN0ZLcVZDbmVxZXVROGIwaDhkTngxRU5rc19BTldjZ2ZNVl8yLXFpT0Q0X01kdlRQLUxrNDVSMVFCNUNfV2tTMXFrZXoxaENaa3VUdU1YeENxRHJZSHozSEE3bERZU0R1THN2V1lYeUZFbkVGQmgwLVFoeDBWVjk3OHc6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQo4BUG9zdCBmcm9tIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvciAtIFlvdVR1YmUuIEhvbWUuIFNob3J0cy4gTGlicmFyeS4gPGI-UHVzaGthciBSYWogVGhha3VyPC9iPjogU3RvY2sgTWFya2V0IEVkdWNhdG9yLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVmdldUZpZ3dPTDdrcWl6VGpqTFJPeTdIU3hIWl9TZ3VucXN1Q283RktxVkNuZXFldVE4YjBoOGROeDFFTmtzX0FOV2NnZk1WXzItcWlPRDRfTWR2VFAtTGs0NVIxUUI1Q19Xa1MxcWtlejFoQ1prdVR1TVh4Q3FEcllIejNIQTdsRFlTRHVMc3ZXWVh5RkVuRUZCaDAtUWh4MFZWOTc4dxIEGgIIABrmAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDCAwgAEAAYACAAKg4KB3B1c2hrYXIVihyDQCoKCgNyYWoVihyDQCoNCgZ0aGFrdXIVihyDQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZnZXVGaWd3T0w3a3FpelRqakxST3k3SFN4SFpfU2d1bnFzdUNvN0ZLcVZDbmVxZXVROGIwaDhkTngxRU5rc19BTldjZ2ZNVl8yLXFpT0Q0X01kdlRQLUxrNDVSMVFCNUNfV2tTMXFrZXoxaENaa3VUdU1YeENxRHJZSHozSEE3bERZU0R1THN2V1lYeUZFbkVGQmgwLVFoeDBWVjk3OHc6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQo4BUG9zdCBmcm9tIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvciAtIFlvdVR1YmUuIEhvbWUuIFNob3J0cy4gTGlicmFyeS4gPGI-UHVzaGthciBSYWogVGhha3VyPC9iPjogU3RvY2sgTWFya2V0IEVkdWNhdG9yLiICEAFIAFgAaAA",
+   "source": "YouTube · Pushkar Raj Thakur: Stock Market Educator 📈",
+   "read_more_link": "https://www.youtube.com/post/UgkxWzNm4sNTNux-BLC-XSIsznbNJhqBbLNO#:~:text=Post%20from%20Pushkar%20Raj%20Thakur%3A,Thakur%3A%20Stock%20Market%20Educator%20%F0%9F%93%88"
+  },
+  {
+   "position": 3,
+   "title": "Market का सबसे बड़ा TRAP! Ft Pushkar Raj Thakur in ...",
+   "link": "https://www.youtube.com/watch?v=yBlpNTC0rN8",
+   "displayed_link": "28K+ views · 3 months ago",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/mN-7h_gbLfAFibTfi-5j9F1fzvedp456oooctve985w.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Market Nobody Tells You. In this powerful and eye-opening session, Pushkar Raj Thakur exposes the brutal truth about stock market trading ...",
+   "duration": "32:42",
+   "about_this_result": {
+    "source": {
+     "description": "Market Nobody Tells You. In this powerful and eye-opening session, Pushkar Raj Thakur exposes the brutal truth about stock market trading ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjJuX0ZVbWtSdHVOQndFRHJKaU9IRG96UTA1Wk5NS1F2eW1MOG9obWt4TldiU2ZzRHZkQ1ZWZ3cyNzBDM21SVmx6V2FyazVKN2F3ODBoZTB4ZW83YVNOMnEza2VJQ2RkVDY3Sm9IUXBNZ2lWQTdUdFZDWVY5blY2ajU0VlMwdG1ITHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjJuX0ZVbWtSdHVOQndFRHJKaU9IRG96UTA1Wk5NS1F2eW1MOG9obWt4TldiU2ZzRHZkQ1ZWZ3cyNzBDM21SVmx6V2FyazVKN2F3ODBoZTB4ZW83YVNOMnEza2VJQ2RkVDY3Sm9IUXBNZ2lWQTdUdFZDWVY5blY2ajU0VlMwdG1ITHcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcS-Y-iZGpw0MsK-f5p4FCTgoMhbGCWZAWzYxg",
+   "source": "YouTube · House Of Pehchaan"
+  },
+  {
+   "position": 4,
+   "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/x-pCv1nIMj4",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFcL6OYu-Tz7EnDMwvcLqhcN4F75_UYOIQ6Muqye1fham2v2As_1ZrxVzw5WWOvuq2_--pfw5u0rhRcHur_K0qzXwdqiiHjJZKgff7CxkiTOQnrtOOblMQrUnLaMzG5xQU4mUSaUCX6AQ_uNRSJf_F91KQTVtzRbJPR_GoYM&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECDMQAQ&uoh=1",
+   "displayed_link": "https://www.viewstats.com › videos",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png",
+   "snippet": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+     "source_info_link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/x-pCv1nIMj4",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjTDZPWXUtVHo3RW5ETXd2Y0xxaGNONEY3NV9VWU9JUTZNdXF5ZTFmaGFtMnYyQXNfMVpyeFZ6dzVXV092dXEyXy0tcGZ3NXUwcmhSY0h1cl9LMHF6WHdkcWlpSGpKWktnZmY3Q3hraVRPUW5ydE9PYmxNUXJVbkxhTXpHNXhRVTRtVVNhVUNYNkFRX3VOUlNKZl9GOTFLUVRWdHpSYkpQUl9Hb1lNEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjTDZPWXUtVHo3RW5ETXd2Y0xxaGNONEY3NV9VWU9JUTZNdXF5ZTFmaGFtMnYyQXNfMVpyeFZ6dzVXV092dXEyXy0tcGZ3NXUwcmhSY0h1cl9LMHF6WHdkcWlpSGpKWktnZmY3Q3hraVRPUW5ydE9PYmxNUXJVbkxhTXpHNXhRVTRtVVNhVUNYNkFRX3VOUlNKZl9GOTFLUVRWdHpSYkpQUl9Hb1lNOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MCB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjTDZPWXUtVHo3RW5ETXd2Y0xxaGNONEY3NV9VWU9JUTZNdXF5ZTFmaGFtMnYyQXNfMVpyeFZ6dzVXV092dXEyXy0tcGZ3NXUwcmhSY0h1cl9LMHF6WHdkcWlpSGpKWktnZmY3Q3hraVRPUW5ydE9PYmxNUXJVbkxhTXpHNXhRVTRtVVNhVUNYNkFRX3VOUlNKZl9GOTFLUVRWdHpSYkpQUl9Hb1lNEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjTDZPWXUtVHo3RW5ETXd2Y0xxaGNONEY3NV9VWU9JUTZNdXF5ZTFmaGFtMnYyQXNfMVpyeFZ6dzVXV092dXEyXy0tcGZ3NXUwcmhSY0h1cl9LMHF6WHdkcWlpSGpKWktnZmY3Q3hraVRPUW5ydE9PYmxNUXJVbkxhTXpHNXhRVTRtVVNhVUNYNkFRX3VOUlNKZl9GOTFLUVRWdHpSYkpQUl9Hb1lNOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MCB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "source": "Viewstats",
+   "read_more_link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/x-pCv1nIMj4#:~:text=Pushkar%20Raj%20Thakur%3A%20Stock%20Market,2%2C880%20videos"
+  },
+  {
+   "position": 5,
+   "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.youtube.com/post/UgkxNZH8vH3yuls-msJZww0LykM0qnF7vYa0",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfAHrOzAVyAyNNie-tE4QbUw9vhdOj2CEVj231IUJbJ2sR5nRTI65th7iOPYIyTxYu6aV5CXSJ38KnFIrtiwklkWSuebnI1XPVxXh5zIxjN8SYluwZC-ursnt2BvrTw4O0-Eias0DQJ2k--jaj3pWXjazOZ_JTG4_EM0_4Eg&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECDYQAQ&uoh=1",
+   "displayed_link": "1 month ago",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "Pushkar Raj Thakur: Stock Market Educator · 1 month ago. Kya ek hi ... Pushkar Raj Thakur: Stock Market Educator. 56K views. 1 month ...",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur",
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pushkar Raj Thakur: Stock Market Educator · 1 month ago. Kya ek hi ... Pushkar Raj Thakur: Stock Market Educator. 56K views. 1 month ...",
+     "source_info_link": "https://www.youtube.com/post/UgkxNZH8vH3yuls-msJZww0LykM0qnF7vYa0",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnlBeU5OaWUtdEU0UWJVdzl2aGRPajJDRVZqMjMxSVVKYkoyc1I1blJUSTY1dGg3aU9QWUl5VHhZdTZhVjVDWFNKMzhLbkZJcnRpd2tsa1dTdWVibkkxWFBWeFhoNXpJeGpOOFNZbHV3WkMtdXJzbnQyQnZyVHc0TzAtRWlhczBEUUoyay0tamFqM3BXWGphek9aX0pURzRfRU0wXzRFZxIEGgIIABr6AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDWAwgAEAAYACAAKg4KB3B1c2hrYXIV_GyHQCoKCgNyYWoV_GyHQCoNCgZ0aGFrdXIV_GyHQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ5QXlOTmllLXRFNFFiVXc5dmhkT2oyQ0VWajIzMUlVSmJKMnNSNW5SVEk2NXRoN2lPUFlJeVR4WXU2YVY1Q1hTSjM4S25GSXJ0aXdrbGtXU3VlYm5JMVhQVnhYaDV6SXhqTjhTWWx1d1pDLXVyc250MkJ2clR3NE8wLUVpYXMwRFFKMmstLWphajNwV1hqYXpPWl9KVEc0X0VNMF80RWc6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQqIBPGI-UHVzaGthciBSYWogVGhha3VyPC9iPjogU3RvY2sgTWFya2V0IEVkdWNhdG9yICZtaWRkb3Q7IDEgbW9udGggYWdvLiBLeWEgZWsgaGkgLi4uIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvci4gNTZLIHZpZXdzLiAxIG1vbnRoJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrUBL2dvdG8_dXJsPUNBRVNmQUhyT3pBVnlBeU5OaWUtdEU0UWJVdzl2aGRPajJDRVZqMjMxSVVKYkoyc1I1blJUSTY1dGg3aU9QWUl5VHhZdTZhVjVDWFNKMzhLbkZJcnRpd2tsa1dTdWVibkkxWFBWeFhoNXpJeGpOOFNZbHV3WkMtdXJzbnQyQnZyVHc0TzAtRWlhczBEUUoyay0tamFqM3BXWGphek9aX0pURzRfRU0wXzRFZxIEGgIIABr6AxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkDWAwgAEAAYACAAKg4KB3B1c2hrYXIV_GyHQCoKCgNyYWoV_GyHQCoNCgZ0aGFrdXIV_GyHQDK1AS9nb3RvP3VybD1DQUVTZkFIck96QVZ5QXlOTmllLXRFNFFiVXc5dmhkT2oyQ0VWajIzMUlVSmJKMnNSNW5SVEk2NXRoN2lPUFlJeVR4WXU2YVY1Q1hTSjM4S25GSXJ0aXdrbGtXU3VlYm5JMVhQVnhYaDV6SXhqTjhTWWx1d1pDLXVyc250MkJ2clR3NE8wLUVpYXMwRFFKMmstLWphajNwV1hqYXpPWl9KVEc0X0VNMF80RWc6RFBvc3QgZnJvbSA8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBZb3VUdWJlQqIBPGI-UHVzaGthciBSYWogVGhha3VyPC9iPjogU3RvY2sgTWFya2V0IEVkdWNhdG9yICZtaWRkb3Q7IDEgbW9udGggYWdvLiBLeWEgZWsgaGkgLi4uIDxiPlB1c2hrYXIgUmFqIFRoYWt1cjwvYj46IFN0b2NrIE1hcmtldCBFZHVjYXRvci4gNTZLIHZpZXdzLiAxIG1vbnRoJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "YouTube · Pushkar Raj Thakur: Stock Market Educator 📈",
+   "read_more_link": "https://www.youtube.com/post/UgkxNZH8vH3yuls-msJZww0LykM0qnF7vYa0#:~:text=Pushkar%20Raj%20Thakur%3A%20Stock%20Market,profitable%20trading%20strategies%20samajhni%20hain%3F&text=Pushkar%20Raj%20Thakur%3A%20Stock%20Market,1%20month%20ago"
+  },
+  {
+   "position": 6,
+   "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/ZR9d8sA9lyM",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFRoY-b7uuEU9riUA8Hurdk4SoRUYIhNGIWIO3w0yAIp4XjKCUAgtdGx_LJgvsZ3YfNHtgL1Nqjqpy7mm7a50FBl9Kjmp7pw7VzMtk_7ESbvt9Qaq5r1_IurSIXJXADLilHQ6qa0AC1xPGliAgpBiKIhcuadtCNF80nYjsd0&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECDQQAQ&uoh=1",
+   "displayed_link": "https://www.viewstats.com › videos",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png",
+   "snippet": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+     "source_info_link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/ZR9d8sA9lyM",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSb1ktYjd1dUVVOXJpVUE4SHVyZGs0U29SVVlJaE5HSVdJTzN3MHlBSXA0WGpLQ1VBZ3RkR3hfTEpndnNaM1lmTkh0Z0wxTnFqcXB5N21tN2E1MEZCbDlLam1wN3B3N1Z6TXRrXzdFU2J2dDlRYXE1cjFfSXVyU0lYSlhBRExpbEhRNnFhMEFDMXhQR2xpQWdwQmlLSWhjdWFkdENORjgwbllqc2QwEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSb1ktYjd1dUVVOXJpVUE4SHVyZGs0U29SVVlJaE5HSVdJTzN3MHlBSXA0WGpLQ1VBZ3RkR3hfTEpndnNaM1lmTkh0Z0wxTnFqcXB5N21tN2E1MEZCbDlLam1wN3B3N1Z6TXRrXzdFU2J2dDlRYXE1cjFfSXVyU0lYSlhBRExpbEhRNnFhMEFDMXhQR2xpQWdwQmlLSWhjdWFkdENORjgwbllqc2QwOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MCB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSb1ktYjd1dUVVOXJpVUE4SHVyZGs0U29SVVlJaE5HSVdJTzN3MHlBSXA0WGpLQ1VBZ3RkR3hfTEpndnNaM1lmTkh0Z0wxTnFqcXB5N21tN2E1MEZCbDlLam1wN3B3N1Z6TXRrXzdFU2J2dDlRYXE1cjFfSXVyU0lYSlhBRExpbEhRNnFhMEFDMXhQR2xpQWdwQmlLSWhjdWFkdENORjgwbllqc2QwEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZSb1ktYjd1dUVVOXJpVUE4SHVyZGs0U29SVVlJaE5HSVdJTzN3MHlBSXA0WGpLQ1VBZ3RkR3hfTEpndnNaM1lmTkh0Z0wxTnFqcXB5N21tN2E1MEZCbDlLam1wN3B3N1Z6TXRrXzdFU2J2dDlRYXE1cjFfSXVyU0lYSlhBRExpbEhRNnFhMEFDMXhQR2xpQWdwQmlLSWhjdWFkdENORjgwbllqc2QwOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MCB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "source": "Viewstats"
+  },
+  {
+   "position": 7,
+   "title": "Stock, Real Estate & Entrepreneurship! Ft. Pushkar Raj Thakur",
+   "link": "https://www.youtube.com/watch?v=MKfRLXtM2BA",
+   "displayed_link": "1.6L+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6acaab8cde1f33af5decab44/images/mN-7h_gbLfAFibTfi-5j9NPdflzffHRv_3PhEGcZ5WQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
+   "snippet": "stock market educator, investor, and real-estate savvy Mr. Pushkar Raj Thakur. Mr. Pushkar Raj Thakur uses social media to educate and ...",
+   "duration": "2:02:21",
+   "about_this_result": {
+    "source": {
+     "description": "stock market educator, investor, and real-estate savvy Mr. Pushkar Raj Thakur. Mr. Pushkar Raj Thakur uses social media to educate and ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjlTQkw4RS13d2ZOdzRadVB5ay1GcGVyQ05xN0hWUDF3V3ZGUk1rYy1JR25ScFdlVm5wRHc4X2dPRDF1cFUtajJtd3g0WkVTLXdjdER4VGE5dnhHSlVxbnk0RHVvdUNfS2hXTm9HNGJzZWIwaE1DczdBamU4bkVXODQwMi15bXVQWGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVjlTQkw4RS13d2ZOdzRadVB5ay1GcGVyQ05xN0hWUDF3V3ZGUk1rYy1JR25ScFdlVm5wRHc4X2dPRDF1cFUtajJtd3g0WkVTLXdjdER4VGE5dnhHSlVxbnk0RHVvdUNfS2hXTm9HNGJzZWIwaE1DczdBamU4bkVXODQwMi15bXVQWGcSFgoQCgQIMEgCCgQISEgCCgIIPxoCCAAaFhIAGgAiACoAMgA6AEIASgBaAHIAegAiAhABSABYAGgA",
+   "source": "YouTube · Rahul Malodia Podcast"
+  },
+  {
+   "position": 8,
+   "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/D1jbGa9-RzQ",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFctOWWUyL5xxoH0R23gvCPVnR3ag9s9YTnO1mVG9Z-2j9DeI_jVoWCplBqIrU5DQHA2bT0OrLNCgbzmKXok8CquR00AYkDkNCGI3tD2wnZWr8dCFODElTH-myKm3qxmYllIi8-P8VcrTVaEgr0IRYTta_Fi0fnn_sghzCNg&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQFnoECDUQAQ&uoh=1",
+   "displayed_link": "https://www.viewstats.com › videos",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png",
+   "snippet": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,881 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+   "snippet_highlighted_words": [
+    "Pushkar Raj Thakur"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,881 videos. Subscribers. 15.4M15,400,000. #361. Total Views.",
+     "source_info_link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/D1jbGa9-RzQ",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAOVBMVEVHcEz_AAD_AAD_AAD_AAD_AAD_AAD_AAD_AAD_T0__8_P_o6P_____Cgr_5ub_DQ3_jY3_xMT_Ly9nK99_AAAACHRSTlMATpPK7P4TpuYtLwcAAADcSURBVHgBhZONCsUgCEY3a_VV-2vv_7DXENC6Gx1gSDqOlC6GlZzfNu9oXV4IEYYYxjxhgPrfPf7wweTxSpjktcLjA2_6e4eM4FsSJUw55yJh4TBJGLkAQtqZZCKB71eCA5mPC5jCQYaAVVts5yeYs1Vqmw7WcQCXNcCZS2iOG7itAX7ZYB0VqNaAzRQ8OwO076MFqpDuUpJeVeHQOUqRTrRJQuc4c2cAyUUZR28AjyeUWwqMAfpYjUsKDjO8w3PXlq_jTBGUUmuBQvORmw_tfOznizNfvdnyTtb_B0qXG203_HDhAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjdE9XV1V5TDV4eG9IMFIyM2d2Q1BWblIzYWc5czlZVG5PMW1WRzlaLTJqOURlSV9qVm9XQ3BsQnFJclU1RFFIQTJiVDBPckxOQ2diem1LWG9rOENxdVIwMEFZa0RrTkNHSTN0RDJ3blpXcjhkQ0ZPREVsVEgtbXlLbTNxeG1ZbGxJaTgtUDhWY3JUVmFFZ3IwSVJZVHRhX0ZpMGZubl9zZ2h6Q05nEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjdE9XV1V5TDV4eG9IMFIyM2d2Q1BWblIzYWc5czlZVG5PMW1WRzlaLTJqOURlSV9qVm9XQ3BsQnFJclU1RFFIQTJiVDBPckxOQ2diem1LWG9rOENxdVIwMEFZa0RrTkNHSTN0RDJ3blpXcjhkQ0ZPREVsVEgtbXlLbTNxeG1ZbGxJaTgtUDhWY3JUVmFFZ3IwSVJZVHRhX0ZpMGZubl9zZ2h6Q05nOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MSB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjdE9XV1V5TDV4eG9IMFIyM2d2Q1BWblIzYWc5czlZVG5PMW1WRzlaLTJqOURlSV9qVm9XQ3BsQnFJclU1RFFIQTJiVDBPckxOQ2diem1LWG9rOENxdVIwMEFZa0RrTkNHSTN0RDJ3blpXcjhkQ0ZPREVsVEgtbXlLbTNxeG1ZbGxJaTgtUDhWY3JUVmFFZ3IwSVJZVHRhX0ZpMGZubl9zZ2h6Q05nEgQaAggAGvkDEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQNUDCAAQABgAIAAqDgoHcHVzaGthchVk0XVAKgoKA3JhahVk0XVAKg0KBnRoYWt1chVk0XVAMr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZjdE9XV1V5TDV4eG9IMFIyM2d2Q1BWblIzYWc5czlZVG5PMW1WRzlaLTJqOURlSV9qVm9XQ3BsQnFJclU1RFFIQTJiVDBPckxOQ2diem1LWG9rOENxdVIwMEFZa0RrTkNHSTN0RDJ3blpXcjhkQ0ZPREVsVEgtbXlLbTNxeG1ZbGxJaTgtUDhWY3JUVmFFZ3IwSVJZVHRhX0ZpMGZubl9zZ2h6Q05nOjw8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IgLSBWaWV3c3RhdHNCoQE8Yj5QdXNoa2FyIFJhaiBUaGFrdXI8L2I-OiBTdG9jayBNYXJrZXQgRWR1Y2F0b3IuIENoYW5uZWwgQ291bnRyeSBMb2dvLiBAcHVzaGthcnJhanRoYWt1cm9mZmljaWFsLiAyLDg4MSB2aWRlb3MuIFN1YnNjcmliZXJzLiAxNS40TTE1LDQwMCwwMDAuICMzNjEuIFRvdGFsIFZpZXdzLiICEAFIAFgAaAA",
+   "source": "Viewstats",
+   "read_more_link": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/D1jbGa9-RzQ#:~:text=Pushkar%20Raj%20Thakur%3A%20Stock%20Market,2%2C881%20videos"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "Some results may have been removed under data protection law in Europe. Learn more",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/policies/faq",
+      "text": "Learn more"
+     }
+    ]
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:sebi.gov.in+%22Pushkar+Raj+Thakur%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntgrTLIkhyRGBo0c4jRqtA6WNcZpQ:1791667085413&ei=javKaujYF668seMPw6-x2As&start=10&sa=N&sstk=AS6-VmLbxDBkpcSh0ro9hT3D5m_dbZRg6LwjCSOgD02r_ev2qGARC0p8bGHTgosEI1J4JlkFGpYHy0P94BpJECXln2Btn21G14iDQw&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQ8NMDegQILBAO",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:sebi.gov.in+%22Pushkar+Raj+Thakur%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntgrTLIkhyRGBo0c4jRqtA6WNcZpQ:1791667085413&ei=javKaujYF668seMPw6-x2As&start=10&sa=N&sstk=AS6-VmLbxDBkpcSh0ro9hT3D5m_dbZRg6LwjCSOgD02r_ev2qGARC0p8bGHTgosEI1J4JlkFGpYHy0P94BpJECXln2Btn21G14iDQw&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQ8tMDegQILBAG",
+   "3": "https://www.google.com/search?q=site:sebi.gov.in+%22Pushkar+Raj+Thakur%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntgrTLIkhyRGBo0c4jRqtA6WNcZpQ:1791667085413&ei=javKaujYF668seMPw6-x2As&start=20&sa=N&sstk=AS6-VmLbxDBkpcSh0ro9hT3D5m_dbZRg6LwjCSOgD02r_ev2qGARC0p8bGHTgosEI1J4JlkFGpYHy0P94BpJECXln2Btn21G14iDQw&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQ8tMDegQILBAI",
+   "4": "https://www.google.com/search?q=site:sebi.gov.in+%22Pushkar+Raj+Thakur%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntgrTLIkhyRGBo0c4jRqtA6WNcZpQ:1791667085413&ei=javKaujYF668seMPw6-x2As&start=30&sa=N&sstk=AS6-VmLbxDBkpcSh0ro9hT3D5m_dbZRg6LwjCSOgD02r_ev2qGARC0p8bGHTgosEI1J4JlkFGpYHy0P94BpJECXln2Btn21G14iDQw&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQ8tMDegQILBAK",
+   "5": "https://www.google.com/search?q=site:sebi.gov.in+%22Pushkar+Raj+Thakur%22&sca_esv=70f3d889379863e7&hl=en&gl=in&sxsrf=APpeQntgrTLIkhyRGBo0c4jRqtA6WNcZpQ:1791667085413&ei=javKaujYF668seMPw6-x2As&start=40&sa=N&sstk=AS6-VmLbxDBkpcSh0ro9hT3D5m_dbZRg6LwjCSOgD02r_ev2qGARC0p8bGHTgosEI1J4JlkFGpYHy0P94BpJECXln2Btn21G14iDQw&ved=2ahUKEwio07iBsLCXAxUuXmwGHcNXDLsQ8tMDegQILBAM"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Pushkar+Raj+Thakur%22&start=40"
+  }
+ },
+ "_fetched_at": "2026-10-10T21:18:03"
+}

@@ -1,0 +1,679 @@
+{
+ "search_metadata": {
+  "id": "6acc4fc7421b089fc0993080",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/hU-r21myK8tXFq-jPAfDij6KU-UShYwM92r--jLuhJI/6acc4fc7421b089fc0993080.json",
+  "markdown_endpoint": "https://serpapi.com/searches/hU-r21myK8tXFq-jPAfDij6KU-UShYwM92r--jLuhJI/6acc4fc7421b089fc0993080.md",
+  "created_at": "2026-10-12 03:11:03 UTC",
+  "processed_at": "2026-10-12 03:11:03 UTC",
+  "google_news_url": "https://news.google.com/search?q=finfluencer+arrested&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/hU-r21myK8tXFq-jPAfDij6KU-UShYwM92r--jLuhJI/6acc4fc7421b089fc0993080.html",
+  "total_time_taken": 13.26
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "finfluencer arrested"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "NEWS: FCA leads crackdown on illegal finfluencers with arrests and takedowns",
+   "source": {
+    "name": "AML Intelligence",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.amlintelligence.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.amlintelligence.com/2026/07/news-fca-leads-crackdown-on-illegal-finfluencers-with-arrests-and-takedowns/",
+   "thumbnail": "https://www.amlintelligence.com/wp-content/uploads/2024/02/Financial-Conduct-Authority-FCA-960x480.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNSbHBxYzBGWFRESTBkRGcxVFJDSEF4aVBCaWdLTWdhQjhJS20wQUk",
+   "date": "07/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-09T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Sebi to seize Rs 546cr in biggest order against a ‘finfluencer’",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/sebi-to-seize-rs-546cr-in-biggest-order-against-a-finfluencer/articleshow/125777854.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-125777873,width-1280,height-720,resizemode-4/125777873.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFlakJWTVZkQldrcHlRekJSVFJDZkF4ampCU2dLTWdhcGRZanRNUVU",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "TN Businessman P.R. Sundar booked for alleged sexual harassment following TV anchor’s complaint",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.newindianexpress.com/states/tamil-nadu/2026/Aug/04/tn-businessman-pr-sundar-booked-for-alleged-sexual-harassment-following-tv-anchors-complaint",
+   "thumbnail": "https://cf-images.assettype.com/newindianexpress/2026-08-04/enl1yrqb/ANI_20240131085559.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxWRzlKVkhKSGVrd3phUzEyVFJDZ0F4amlCU2dLTWdhcFZaVE5KUWc",
+   "date": "08/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-04T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Finfluencer Row: SEBI Bans 7 Entities In Social Media Stock Manipulation Scandal",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shrikant Shankar"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/finfluencer-row-sebi-bans-7-entities-in-social-media-stock-manipulation-scandal-11534738",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/6lge5p4k_sebi_625x300_22_May_26.jpeg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlaMGxEVlcxSmFITlNaVTlhVFJDZkF4ampCU2dLTWdZQm81SnZPUVk",
+   "date": "05/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-22T07:00:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Finfluencer PR Sundar terms alleged sexual harassment case against him as 'witch hunt'",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/finfluencer-pr-sundar-terms-alleged-sexual-harassment-case-against-him-as-witch-hunt-13995186.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2022/12/Collage-Maker-04-Dec-2022-01.48-PM.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVlVUk1U21ZNVUxcHVNM0ZMVFJDZkF4ampCU2dLTWdhdE5Zck9tUWs",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "Sebi impounds Rs 546 crore from Avadhut Sathe; bars the finfluencer from securities market amid crackdown",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "George Mathew"
+    ]
+   },
+   "link": "https://indianexpress.com/article/business/sebi-avadhut-sathe-finfluencer-securities-market-10404669/",
+   "thumbnail": "https://images.indianexpress.com/2025/12/Avadhut-Sathe-website.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjbGswVjJFNFRrdEdRMVZ6VFJDZkF4ampCU2dLTWdhaE5vcnNuUWs",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "FCA finfluencer enforcement action increases 174% in 2025",
+   "source": {
+    "name": "Professional Adviser",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.professionaladviser.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Isabel Baxter"
+    ]
+   },
+   "link": "https://www.professionaladviser.com/news/4525398/fca-finfluencer-enforcement-action-increases-174-2025",
+   "thumbnail": "https://image.chitra.live/api/v1/wps/9351789/ca582f82-9fcf-4483-adc2-d384253ce20c/6/2020-FCA-new-office-1-679x419.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNNVko2U2pCYU5GbDBXRUl6VFJDakF4aW5CU2dLTWdhVjRJcFF5UVE",
+   "date": "02/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-09T08:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Finfluencers: Arrests made in crackdown by regulators",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kevin Peachey"
+    ]
+   },
+   "link": "https://www.bbc.com/news/articles/crljw8n78l1o",
+   "thumbnail": "https://ichef.bbci.co.uk/news/480/cpsprodpb/ef83/live/bfcfda00-42b1-11f0-88e1-3f1b11853089.jpg.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFla1pqUnkwMlNFTnJlVWMwVFJDb0FSaXNBaWdCTWdhQmc0U3ROUVU",
+   "date": "06/06/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-06T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "SAT permits finfluencer Avadhut Sathe to operate trading academy; sets January 9 as next date of hearing",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/avadhut-sathe-gets-sat-breather/article70415561.ece",
+   "thumbnail": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxjMll5TjBOVFpUQjRNSEZ4VFJDcUJCaXFCQ2dLTWdhTmtwQUlOUVk",
+   "date": "12/19/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-19T08:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "The rogue 'finfluencers' pushing risky investments to young followers",
+   "source": {
+    "name": "Investigate Europe",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investigate-europe.eu&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Marta Portocarrero"
+    ]
+   },
+   "link": "https://www.investigate-europe.eu/posts/the-rogue-finfluencers-pushing-risky-investments-to-young-followers",
+   "thumbnail": "https://www.investigate-europe.eu/_next/image?url=https%3A%2F%2Fminio.cloud-storage--dbw6s88mlxz6.addon.code.run%3A443%2Fuploads%2FIE-Scam%20Europe-Story%2004_Cover-1920x1080-blue.jpg&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVFTWEp0VVZOS2VYVmlaRUZFVFJDZkF4ampCU2dLTWdrQk00d3hwV1Y3N1FF",
+   "date": "11/14/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-14T08:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Markets Ban On Finfluencer, Watchdog Flags Rs 546 Crore \"Unlawful Gain\"",
+   "source": {
+    "name": "NDTV",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.ndtv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtv.com/india-news/finfluencer-avadhut-sathe-sebi-markets-ban-over-unregistered-stock-tips-charges-9757209",
+   "thumbnail": "https://c.ndtvimg.com/2025-12/racrhsbc_avadhut-sathe_625x300_05_December_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXVTVaZWs1TlRUQXpSbU5OVFJDeUF4akNCU2dLTWdiQmNwUVVxUWM",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Influencer gets 6 years for $23M Ponzi scheme that duped online investors",
+   "source": {
+    "name": "Cybernews",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://cybernews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Stefanie Schappert"
+    ]
+   },
+   "link": "https://cybernews.com/cybercrime/influencer-ponzi-real-estate-investment-scheme-sentenced/",
+   "thumbnail": "https://media.cybernews.com/images/featured-big/2026/04/ponziifluencer.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXpZbnBoUjJReGEwSTVaWGRHVFJDYkF4anJCU2dLTWdB",
+   "date": "04/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-21T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "UK targets rogue 'finfluencers' in joint action with foreign regulators",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Elizabeth Howcroft"
+    ]
+   },
+   "link": "https://www.reuters.com/sustainability/boards-policy-regulation/uk-targets-rogue-finfluencers-joint-action-with-foreign-regulators-2025-06-05/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/33MQITWUDRLONKUE3FHWDNW47Y.jpg?auth=8ba62e4e6578359fc2483c3437a17ae293edb02df6ce4ab0f1f21c8f6e1b52a8&width=1920&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNRVkZqU1ZVdFRrdzRWMUppVFJERUF4aW5CU2dLTWdrRlFaSzBOT2FoaUFJ",
+   "date": "06/05/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-06-05T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "A £153m TikTok tax scam plot sees two men arrested in London",
+   "source": {
+    "name": "This is Money",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thisismoney.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thisismoney.co.uk/money/beatthescammers/article-15873495/A-153m-TikTok-tax-scam-plot-sees-two-men-arrested-London.html",
+   "thumbnail": "https://i.dailymail.com/1s/2026/06/04/12/109117683-0-image-m-91_1780570850586.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZMUJHWW1ob1NXUnRRbkpvVFJDZkF4ampCU2dLTWdZcFZZcnRMUVk",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "The ‘finfluencers’ paid to spread dangerous myths on TikTok",
+   "source": {
+    "name": "The Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thetimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Megan Harwood-Baynes"
+    ]
+   },
+   "link": "https://www.thetimes.com/money/saving-investing/article/social-media-finfluencers-finance-money-myths-online-cvxq5323b",
+   "thumbnail": "https://www.thetimes.com/imageserver/image/255bf751-2ebe-4059-b03b-02c5f43100c1.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1328",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdiRTlpVFd3d1EzUlBSMmhuVFJDZkF4ampCU2dLTWdZdEZJU1FEUW8",
+   "date": "02/20/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-20T08:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "The rise of tech-driven financial crime",
+   "source": {
+    "name": "Kennedys Law LLP",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kennedyslaw.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kennedyslaw.com/en/thought-leadership/article/2026/the-rise-of-tech-driven-financial-crime/",
+   "thumbnail": "https://www.kennedyslaw.com/media/s5anp5lt/reflection-of-data-on-glasses.jpg?width=1200&height=630&mode=crop&center=0.5,0.5",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDNlbEZWY2t0WmJXcEtSRkZNVFJDUkF4ajhCU2dLTWdZaFFKS3NwUWM",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Global regulators crack down on finfluencers in week of action",
+   "source": {
+    "name": "FStech",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.fstech.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.fstech.co.uk/fst/Global_regulators_crack_down_on_finfluencers_in_week_of_action.php",
+   "date": "04/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-27T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Penny stocks scam: Sebi raids Pune finfluencer Avadhut Sathe with 9 lakh YouTube subscribers",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Riya Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/penny-stocks-scam-sebi-raids-pune-finfluencer-avadhut-sathe-with-9-lakh-youtube-subscribers/articleshow/123450364.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-123450362,width-1200,height-900,resizemode-4,imgsize-18406/penny-stocks-scam-sebi-raids-pune-finfluencer-avadhut-sathe-with-9-lakh-youtube-subscribers.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZTRGgxZWtSaFlrWkRVbVJFVFJEZ0F4aUFCU2dLTWdhaE5vanNuUWs",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Who is Avadhut Sathe, ‘finfluencer’ banned and fined ₹546 crore by SEBI? 5 facts | India News",
+   "source": {
+    "name": "Hindustan Times",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.hindustantimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.hindustantimes.com/india-news/who-is-avadhut-sathe-finfluencer-banned-and-fined-rs-546-crore-by-sebi-5-facts-101764907663574.html",
+   "thumbnail": "https://www.hindustantimes.com/ht-img/img/2025/12/05/1600x900/logo/1517657171763_1764909998120_1764910004993.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiR1ZFY0ZvdGEwOWhhRzFmVFJDZUF4amxCU2dLTWdhaE5ZTHNwUU0",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Who is Avadhut Sathe, and why did Sebi conduct search operation on his academy",
+   "source": {
+    "name": "The Indian Express",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://indianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Hitesh Vyas"
+    ]
+   },
+   "link": "https://indianexpress.com/article/business/who-is-avadhut-sathe-and-why-did-sebi-conduct-search-operation-on-his-academy-10210843/",
+   "thumbnail": "https://images.indianexpress.com/2025/08/avadhut-sathe.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpWQzE1ZG05elgxVjRPVXR2VFJDZkF4ampCU2dLTWdZdEZvYk5rUW8",
+   "date": "08/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-25T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "6 red flags that say a ‘finfluencer’ is more flash than cash",
+   "source": {
+    "name": "Startup Daily",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.startupdaily.net&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dimitrios Salampasis"
+    ]
+   },
+   "link": "https://www.startupdaily.net/advice/opinion/6-red-flags-that-say-a-finfluencer-is-more-flash-than-cash/",
+   "thumbnail": "https://assets.startupdaily.net/wp-content/uploads/sites/7/2022/08/AdobeStock_104456667.jpeg?quality=70&w=770",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhZM1ZTY0RRdFVGTlpaVVJhVFJDNUFSaVJBaWdCTWdB",
+   "date": "07/04/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-04T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Who Is Avadhut Sathe? Sebi Raids Finfluencer's Trading Academy Over 'Illegal Gains' Of Rs 500 Crore",
+   "source": {
+    "name": "News18",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.news18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mohammad Haris"
+    ]
+   },
+   "link": "https://www.news18.com/business/markets/who-is-avadhut-sathe-sebi-raids-finfluencers-trading-academy-over-illegal-gains-of-rs-500-crore-ws-l-9521845.html",
+   "thumbnail": "https://images.news18.com/ibnlive/uploads/2025/08/Avadhut-Sathe-2025-08-58649760fd2c69d6e922ccca4f94727e.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFTR1J6U0RsbVVVaFhUMkl5VFJDZkF4ampCU2dLTWdZQkFJYk1tUWs",
+   "date": "08/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-22T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Goregaon finfluencer case: Darwin Group's chairman seeks bail from Mumbai Sessions Court",
+   "source": {
+    "name": "Mid-Day",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.mid-day.com/mumbai/mumbai-crime-news/article/goregaon-finfluencer-case-darwin-group-s-chairman-seeks-bail-from-mumbai-sessions-court-23413669",
+   "thumbnail": "https://images.mid-day.com/images/images/2024/oct/bliss_d.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhhekptTmpaQmFFaE1OVWxQVFJDZkF4ampCU2dLTWdtQmdZenpQR1dwcXdF",
+   "date": "10/19/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-19T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Following Sebi raid, Sathe says he conducts classes Gurukul style: We don’t give stock tips, investment adv...",
+   "source": {
+    "name": "Bhaskar English",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bhaskarenglish.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.bhaskarenglish.in/business/news/asta-sebi-case-finfluencer-sathe-says-he-conducts-classes-gurukul-style-135773878.html",
+   "thumbnail": "https://images.bhaskarassets.com/thumb/1200x900/web2images/1884/2025/08/27/new-project-2025-08-27t153049255_1756288792.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpUbVJNUkZaWVFuUmxZa3RmVFJEZ0F4aUFCU2dLTWdZQkFKek1HUW8",
+   "date": "08/27/2025, 10:40 AM, +0000 UTC",
+   "iso_date": "2025-08-27T10:40:18Z"
+  },
+  {
+   "position": 25,
+   "title": "Goregaon finfluencer case: ED enters fray",
+   "source": {
+    "name": "Mid-Day",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.mid-day.com/mumbai/mumbai-crime-news/article/goregaon-finfluencer-case-ed-enters-fray-23341179",
+   "thumbnail": "https://images.mid-day.com/images/images/2024/mar/Goregaon-finfluencer-a_d.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBhRkV4T1dGRWJsaFJTWEpDVFJDZkF4ampCU2dLTWdrQkNJTEYxcUtncGdJ",
+   "date": "03/23/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-03-23T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "TheWealthNet - Reality stars sentenced following finfluencer scheme case",
+   "source": {
+    "name": "Pam Insight",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.paminsight.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.paminsight.com/twn/article/reality-stars-sentenced-following-finfluencer-scheme-case",
+   "thumbnail": "https://www.paminsight.com/twn/storage/app/media/uploaded-files/gavel-24920111280-1.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxhMWxTUldNNFVrcGhZVUUwVFJDM0FSaVRBaWdCTWdhTllvNW1KZ2M",
+   "date": "02/23/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-23T08:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Love Island ‘finfluencers’ deny part in unauthorised Instagram trading scheme",
+   "source": {
+    "name": "The Guardian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.theguardian.com/uk-news/article/2024/jul/03/love-island-finfluencers-deny-part-in-unauthorised-instagram-trading-scheme",
+   "thumbnail": "https://i.guim.co.uk/img/media/8040bd5676b50a08ef72f03decb1642b34ac665f/0_0_5000_3000/master/5000.jpg?width=465&dpr=1&s=none&crop=none",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZNM0V5VTFGSmNXbElkSFZaVFJDWEFoalJBeWdLTWdhRk1KeUVvQWs",
+   "date": "07/03/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-07-03T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Towie & Love Island stars admit plugging dodgy investments in finfluencer plot",
+   "source": {
+    "name": "The Sun",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thesun.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Holly Christodoulou"
+    ]
+   },
+   "link": "https://www.thesun.co.uk/tvandshowbiz/38282184/yazmin-oukhellou-lauren-goodger-celebs-finfluencer-plot/",
+   "thumbnail": "https://www.thesun.co.uk/wp-content/uploads/2026/02/newspress-collage-jve4wgz0m-1771582660176.jpg?quality=80&strip=all&1771582699&w=1434&h=807&crop=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWWFpsUW05V1JXMUtiMjVyVFJDb0FSaXJBaWdCTWdZdEJvN05sUW8",
+   "date": "02/20/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-20T08:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Finfluencer Shivangi Mehta receives bail",
+   "source": {
+    "name": "Mid-Day",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mid-day.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.mid-day.com/mumbai/mumbai-news/article/finfluencer-shivangi-mehta-receives-bail-23372185",
+   "thumbnail": "https://images.mid-day.com/images/images/2024/aug/Finfluencer-Shivangi_d.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdUM2xOTUc5eFZVaE9la3hrVFJDZkF4ampCU2dLTWdZWmhJcHF1UVU",
+   "date": "08/06/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-08-06T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Love Island, Only Way is Essex 'finfluencer' trial set for 2027",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jacqueline Howard"
+    ]
+   },
+   "link": "https://www.bbc.co.uk/news/articles/crg4wknzk9do",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/999/cpsprodpb/dc14/live/cd1c3e10-3f92-11ef-9e1c-3b4a473456a6.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFXVms0T1ZVMVZYVlZZWFpaVFJDZkF4amlCU2dLTWdZdE5aaXZIUWs",
+   "date": "07/11/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-07-11T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Reality TV stars charged over investment plugs",
+   "source": {
+    "name": "BBC",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.bbc.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kevin Peachey"
+    ]
+   },
+   "link": "https://www.bbc.co.uk/news/articles/crgyg62wn7po",
+   "thumbnail": "https://ichef.bbci.co.uk/ace/standard/683/cpsprodpb/d821/live/01fc21d0-137f-11ef-ab05-311ab27f5f2f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpjRzlWV0ZCb1ZtMU1ia2hMVFJDQkF4aXJCU2dLTWdhNVk0NXhyUVk",
+   "date": "05/16/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-05-16T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Love Island and Towie stars charged with promoting trading scheme on Instagram",
+   "source": {
+    "name": "The Guardian",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.theguardian.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dan Milmo"
+    ]
+   },
+   "link": "https://www.theguardian.com/uk-news/article/2024/may/16/love-island-towie-stars-charged-promoting-trading-scheme-instagram",
+   "thumbnail": "https://i.guim.co.uk/img/media/69f1b1eaa74ce867fb63b4512277557a19151652/430_144_1983_1190/master/1983.jpg?width=465&dpr=1&s=none&crop=none",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWMlpKT0VGMlYyVk9TbVpyVFJDWEFoalJBeWdLTWdhcGRZN09MUWM",
+   "date": "05/16/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-05-16T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Real Estate ‘Finfluencer’ Gets 6 Years in Prison for $20 Million Ponzi Scam",
+   "source": {
+    "name": "Realtor.com",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.realtor.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Julie Taylor"
+    ]
+   },
+   "link": "https://www.realtor.com/news/real-estate-news/tyler-bossetti-boss-lifestyle-ponzi-sentencing/",
+   "thumbnail": "https://na.rdcpix.com/f754e9de4a9ad8f08f669b705245e5f8w-c1385391284srd_w375_q80.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9iazlmTlVselpHWlZTRTk1VFJEVEFSajNBaWdLTWdhTkdaTEZrZ28",
+   "date": "04/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-14T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Three finfluencers in court over online financial promotions",
+   "source": {
+    "name": "Money Marketing",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.moneymarketing.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Momodou Musa Touray"
+    ]
+   },
+   "link": "https://www.moneymarketing.co.uk/news/three-finfluencers-in-court-over-online-financial-promotions/",
+   "thumbnail": "https://cdn.moneymarketing.co.uk/content/uploads/2019/04/10091851/36-37-digital-tax-2-652x435.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFTVFJNVERsc0xVZHBXREV0VFJDekF4aU1CU2dLTWdhaGNaQU9NUWM",
+   "date": "09/10/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-10T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Crypto finfluencer Atis Paul",
+   "source": {
+    "name": "SMH.com.au",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.smh.com.au&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.smh.com.au/business/banking-and-finance/crypto-finfluencer-atis-paul-20211014-p5900j.html",
+   "thumbnail": "https://static.ffx.io/images/w_800%2Ch_450%2Cc_fill%2Cg_auto:faces/q_86%2Cf_auto/t_metro_no_label_social_wm/l_text:PT%20Sans_25_bold_italic:%20from%20%2Cg_north_west%2Cy_7%2Cx_30%2Cco_rgb:0a1633/l_text:AbrilTitling-Bold.ttf_55:%202021%20%2Cg_north_west%2Cy_32%2Cx_20%2Cco_rgb:0a1633/6fc621939f086ac5e6b7d446b0b1cf3be4576075",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHRUVXBvWjNJME0xZGtPVjl4VFJDUUF4ai1CU2dLTWdZdGhZYXVNUVk",
+   "date": "10/14/2021, 07:00 AM, +0000 UTC",
+   "iso_date": "2021-10-14T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Finfluencer 'fund manager' jailed for seven and a half years for scamming victims out of £1.3M",
+   "source": {
+    "name": "This is Money",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thisismoney.co.uk&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harvey Dorset"
+    ]
+   },
+   "link": "https://www.thisismoney.co.uk/money/beatthescammers/article-15169505/Finfluencer-fund-manager-jailed-seven-half-years-scamming-victims-1-3M.html",
+   "thumbnail": "https://i.dailymail.co.uk/1s/2025/10/07/11/102772945-0-image-a-27_1759834661545.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZkbTVIZEV0d1ZtOWlSblZ4VFJELUFoajhCQ2dLTWdhTlVZeW1LZ2M",
+   "date": "10/10/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-10T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Bliss Consultant Investment Case: Bail For ‘Finfluencer’ After Months Behind Bars",
+   "source": {
+    "name": "Free Press Journal",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.freepressjournal.in/mumbai/bliss-consultant-investment-case-bail-for-finfluencer-after-months-behind-bars",
+   "thumbnail": "https://media.assettype.com/freepressjournal/2024-04/34c61a36-b0cb-4472-aa3c-9fb71467cc76/Untitled_design__25_.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDFRMk40T1VZeGRVZENUMUp5VFJDZkF4ampCU2dLTWdB",
+   "date": "04/27/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-04-27T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Who Is Ravindra Balu Bharti? The FinFluencer Slapped With A Fine Of ₹9.5 Crore By SEBI",
+   "source": {
+    "name": "Free Press Journal",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.freepressjournal.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.freepressjournal.in/business/who-is-ravindra-balu-bharti-the-finfluencer-slapped-with-a-fine-of-95-crore-by-sebi",
+   "thumbnail": "https://media.assettype.com/freepressjournal/2024-12-20/hbuoi7dn/PE-Ratio-2024-12-20T111515.282.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHhkRzF5YjNrNVVrTmFTbUYxVFJDZkF4ampCU2dLTWdB",
+   "date": "12/20/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-12-20T08:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Love Island star Eva Zapico, 25, appears in court accused of 'finfluencer plot to plug risky investment scheme' to her social media followers",
+   "source": {
+    "name": "Daily Mail",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Katherine Lawton"
+    ]
+   },
+   "link": "https://www.dailymail.com/news/article-13894603/Love-Island-star-Eva-Zapico-25-appears-court-accused-finfluencer-plot-plug-risky-investment-scheme-social-media-followers.html",
+   "thumbnail": "https://i.dailymail.co.uk/1s/2024/09/26/13/90130157-0-image-m-39_1727353686037.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxVekJoUjJRNU1tNVVWbmRrVFJDZkF4ampCU2dLTWdZcFpaQ3VxUVk",
+   "date": "09/26/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-09-26T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Harlow man in court over \"finfluencer\" charge",
+   "source": {
+    "name": "Your Harlow",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.yourharlow.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.yourharlow.com/2025/09/23/harlow-man-in-court-over-finfluencer-charge/",
+   "thumbnail": "https://i0.wp.com/www.yourharlow.com/wp-content/uploads/2025/09/Screenshot-2025-09-23-at-17.27.59.png?fit=776%2C458&ssl=1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTZXVzlUVGtaZmEyOUZOR2hHVFJDcEF4alJCU2dLTWdhUlFaVDJMQWc",
+   "date": "09/23/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-23T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "We expose the controversial finfluencer HSTikkyTokky as a fraud, revealing arrest warrant and debts",
+   "source": {
+    "name": "Daily Mail",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailymail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nick Craven"
+    ]
+   },
+   "link": "https://www.dailymail.com/news/article-15089069/Awkward-moment-Louis-Theroux-confronts-toxic-20million-year-HSTikkyTokky-mum-scams-homophobia-criminal-past.html",
+   "thumbnail": "https://i.dailymail.co.uk/1s/2025/09/12/16/102086811-0-image-a-30_1757691558167.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1kMng1V21Gb2FsVk9SREF6VFJEbUFoajhCQ2dLTWdtQklJWklWYU43NHdJ",
+   "date": "09/13/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-13T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "The Humiliating Truth About HSTikkyTokky: £20m Claims, Dubai Lifestyle & UK Police Hunt",
+   "source": {
+    "name": "Finance Monthly",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.finance-monthly.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aj Palmer"
+    ]
+   },
+   "link": "https://www.finance-monthly.com/hstikkytokky-uk-police-wanted-dubai-lavish-life/",
+   "thumbnail": "https://www.finance-monthly.com/wp-content/uploads/2025/08/5f491-17535003702478-1920.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXRUM1ozVVZCaFRHSktTSHB6VFJERUF4aW1CU2dLTWdrQllaSXBwcWcxYndF",
+   "date": "08/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-30T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-12T03:11:17"
+}

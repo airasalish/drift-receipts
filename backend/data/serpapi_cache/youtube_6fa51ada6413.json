@@ -1,0 +1,724 @@
+{
+ "search_metadata": {
+  "id": "6ac9f5dc3d06ea5be578df56",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/vMCJKFG4nTfD9eWnsXRIyZFynN-GJphg6QoebkQiApc/6ac9f5dc3d06ea5be578df56.json",
+  "markdown_endpoint": "https://serpapi.com/searches/vMCJKFG4nTfD9eWnsXRIyZFynN-GJphg6QoebkQiApc/6ac9f5dc3d06ea5be578df56.md",
+  "created_at": "2026-10-10 08:22:52 UTC",
+  "processed_at": "2026-10-10 08:22:52 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Akshat+Shrivastava+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/vMCJKFG4nTfD9eWnsXRIyZFynN-GJphg6QoebkQiApc/6ac9f5dc3d06ea5be578df56.html",
+  "total_time_taken": 2.82
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Akshat Shrivastava stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 56523,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Investing your way is easier than ever.",
+   "link": "https://www.youtube.com/watch?v=9E01baqH_dg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9E01baqH_dg",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CNd693fXJapjaG_T0v8IP-biByQbxwPaRigHowI_BhRVkEAEgAGDJ1uWM5KTwE4IBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAHoyqDKAqgDBMgDCqoEzwJP0MtCVl4rvYYYOamghwVZ4nsqWE7ULmpmB4OqDphwpHWqPj_ofDgZCk9urXZ1VxXE9JXXQolwS4CwpzC3mY8-s03-ey_1uRgSfEuRuBxfKcy1kkf4ejiOwDFy0F9SkT6-QVNe2FrKrfaFa7P7qiuU9J3JiqHQR_gpFCSUMYsH48vAo3FMVlORTnpcHG9r_eYiiL8aRqK8ExIDZruFYVBb5t3Pnh_lmU05DI-tjX3ooAdWMVEpXzSPHjN7AGjlFDt4uCFCY-qK93298In5KhDfdwrZHbulwPx2QVoy81rWBBKun2LtGW2DX9VNGo5s27JJZphriy9z4ZTFql-9_Pkf8SJ71xrYryeJNmzDTe2AdTAO2iWy1PgUiERvDl0WXwO7_pgyYv5Aap3zE_YIpExV0xp6X8Q306GeELK3X-ED-tfA1mX1hMwQcu0vPWMe2ogFgsaj6laSBQgIE3jSsoK2AaAGoQGAB4C137UBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLOUUwMWJhcUhfZGeoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFj4penegq-XA2ABmgkpaHR0cHM6Ly93d3cuZmlkZWxpdHkuY29tL3RyYWRpbmcvb3ZlcnZpZXexCUV8lMDPQx9dyAkXyAmPAcgJwgHICZcCugs9CAMQBRgEIAcoATAcQAFIAFh9YABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQOAAgGIAgW6AwV2aWNiZtALEuALAaIMHWoWChRjb20uZmlkZWxpdHkuYW5kcm9pZHgAiAEA0gwCEAGaDQESqg0CVVPIDQHSDaAEaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL044MDUuMjAwOTcwMERPVUJMRUNMSUNLQklETUFOQUdFL0IzNDgyOTQzNi40MzU1Nzc0OTM7ZGNfdHJrX2FpZD02Mjk2ODAwMjA7ZGNfdHJrX2NpZD0yNDY5Mzg0MzE7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBNUNqTUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaE1JZ3NhajZsYW9BdWZqemdLd0FzYVoxT2dEUURzUTZMNF9KM1R3NkFSTmVhSEt5aVJhVlIyNTd3PT07ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MTtkY190cmFuc3BhcmVudD0xO2RjX3J1aT0xO2RjX2Vwcz1BSGFzOGNCd0VBZmoxalJ5Y01qX2JRdlYtRkhlaGlWTzBEYk5lNTNyZ19xR3BfWG1lREdvOTZBM1Fyd2c1UXg3R185SzY3N3VCNnRtd19RSXllc2x0dztkY19wdWJpZD02P2h0dHBzOi8vd3d3LmZpZGVsaXR5LmNvbS90cmFkaW5nL292ZXJ2aWV3P2dhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yMzMwODMyOTczMLAT68miJbgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAagWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBqReTgK7kj0PpsroXBigAMAA4AdAYAfAYAcIZAggB&gclid=EAIaIQobChMI2Lzp3oKvlwMVdPpPAh15XCBpEAEYASAAEgLYHvD_BwE&num=1&cid=CAASwgHkaNZ_PLlC6cKzJU5vV1MN-2crqa7pLKBqfqHR2pfgF2kprO9uJweCcHCm-JLBV2AlW51PHuU37PODtyKaEfypH1FV2SpOzBWFDcsPVI_Ji6XOworjwyWSydbchdcig5dDSK1GycjdOw4x_7XY_fmZFcnQ0Sha4y7QaVwzuef-tcblDiv6Wr_bCUj4DmS3LJEl9uyJsMqCDfRP8ZC_ogrbMKJaBg5MGhSwIX5hiE2rNGXmP21Cvb0l59TVPQ0xKtVl6g&ad_cpn=%5BCPN%5D&sig=AOD64_29FK70sCH2R4lIcVO1WolbRhXzzA&ctype=110&video_id=9E01baqH_dg&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "Fidelity Investments",
+    "thumbnail": "https://yt3.ggpht.com/proxy/rYDdfS1uRZy1k5V3Bgl5zpOFzWcMxuK6xQvIr1XTzC89vv8VBxauNipnOUMaIZNdSWtSDVbOg3eEob9uthgYQYZEGi_R78PP7UPUIEfbZAF5rEk8Ggfh0s-KJAPY9UueQlv8mKPZNvSuYfnpwt38h6NkhfwMCCwxFmmniBIc3_JiyhFD76WolcNMjAb5KNfAqVW-14ltkv2XwHMlDd_HnSGZzUkG_Fv9QL6zPaHZkwUqlwkDpiAl9D23Ff6WQIR0vjja=w68-h68-nd"
+   },
+   "description": "It’s easy to set up recurring investments in stocks & ETFs.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9E01baqH_dg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-Ob9kFAaaxbOK36ohu4BWNw7xhA"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "Go From Click to Cart",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=Cm6hg3fXJapjaG_T0v8IP-biByQbf_-aSigH_r8qA0hawkB8QAiAAYMnW5YzkpPATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAYSMmbwCqAMEyAMKqgStAk_Qy0JWXiu9hhg5qaCHBVnieypYTtQuamYHg6oOmHCkdao-P-h8OBkKT26tdnVXFcT0lddCiXBLgLCnMLeZjz6zTf57L_W5GBJ8S5G4HF8pzLWSR_h6OI7AMXLQX1KRPr5BU17YWsqt9oVrs_uqK5T0ncmKodBH-CkUJJQxiwfjy8CjcUxWU5FOelwcb2v95iKIvxpGorwTEgNmu4VhUFvm3c-eH-WZTTkMj62NfeigB1YxUSlfNI8eM3sAaOUUO3i4IUJj6or3fb3wifkqEN93Ctkdu6XA_HZBWjLzWtYEEq6fYu1NbYNf3E0a_nuJ3FN0m_c-grzgZMEDNzSTNfc9LNxpdNFNugLB8zgMAn8l5KrOh1hu0X3_9G01Ue01JY4DquGNPY9AQZxm9PKIBcLs_txZkgUICBN4l_ekxwGgBm6AB_X-88YBkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAe-2bECqAerxRuoB7ehsQKoB9WpsQKoB-fasQKoB961sQLSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFj4penegq-XA2ABmgkxaHR0cHM6Ly9nZXRzdGFydGVkLnRpa3Rvay5jb20vcGhhc2UzL2NwZy1pbmR1c3RyebEJq4fpC48vGpnICQDICYoCmAsBugs9CAMQBRgEIAgoATAcQAFIAFhOYABoAHABiAEAmAEBogEICgCoAgHYAgKoAQHYAQGAAgGIAgW6AwV2aWNiZtALEqIMIWoaChhjb20uc3MuYW5kcm9pZC51Z2MudHJpbGx4AIgBANIMAhABmg0BEqoNAlVTyA0B0g3GAWh0dHBzOi8vZ2V0c3RhcnRlZC50aWt0b2suY29tL3BoYXNlMy9jcGctaW5kdXN0cnk_cGhhc2U9MyZsYW5nPWVuJmF0dHJfc291cmNlPWdvb2dsZSZhdHRyX21lZGl1bT1kZW1hbmQtZ2VuJmF0dHJfYWRncm91cF9pZD0xOTgzNjc2NzQ3MDYmY3JlYXRpdmU9ODE4OTg5MTQ5MzIxJmdhZF9zb3VyY2U9MiZnYWRfY2FtcGFpZ25pZD0yNDA4NTc3MTg0MrgT____________AYgUAbAUA8AVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcYCAMYASABKAEwATgBQAFIAVABWAFgAmgBoBcBuhcGKAAwADgB0BgB8BgBwhkCCAE&gclid=EAIaIQobChMI2Lzp3oKvlwMVdPpPAh15XCBpEAEYAiAAEgI2J_D_BwE&num=2&cid=CAASwgHkaNZ_PLlC6cKzJU5vV1MN-2crqa7pLKBqfqHR2pfgF2kprO9uJweCcHCm-JLBV2AlW51PHuU37PODtyKaEfypH1FV2SpOzBWFDcsPVI_Ji6XOworjwyWSydbchdcig5dDSK1GycjdOw4x_7XY_fmZFcnQ0Sha4y7QaVwzuef-tcblDiv6Wr_bCUj4DmS3LJEl9uyJsMqCDfRP8ZC_ogrbMKJaBg5MGhSwIX5hiE2rNGXmP21Cvb0l59TVPQ0xKtVl6g&sig=AOD64_0g0xLNshLexIgRdJe7XLSiY2yM-A&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "TikTok For Business",
+    "thumbnail": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   },
+   "description": "There's only one TikTok, where home and living essentials are discovered daily.",
+   "thumbnail": {
+    "static": "https://lh4.googleusercontent.com/proxy/JRmrk28QnTGG_NGNYmnVMjkpcSkaPxTPHjrg0OOVFMSuSyDq46wVWu7tpQlp2uqn1psF-6CRxinnWbwa69xkeW1FY1zbW8QUksW5gnXWzwbSlna9PXRECSZRIfMY4u_F9LI"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Plan the life you want with SPY.",
+   "link": "https://www.youtube.com/watch?v=GgpvAyzFjdA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GgpvAyzFjdA",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=CaQas3fXJapjaG_T0v8IP-biByQbRx9f7iQGrwfvp1hWwkB8QAyAAYMnW5YzkpPATggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAf_Ix_s9qAMEyAMKqgTPAk_Qy0JWXiu9hhg5qaCHBVnieypYTtQuamYHg6oOmHCkdao-P-h8OBkKT26tdnVXFcT0lddCiXBLgLCnMLeZjz6zTf57L_W5GBJ8S5G4HF8pzLWSR_h6OI7AMXLQX1KRPr5BU17YWsqt9oVrs_uqK5T0ncmKodBH-CkUJJQxiwfjy8CjcUxWU5FOelwcb2v95iKIvxpGorwTEgNmu4VhUFvm3c-eH-WZTTkMj62NfeigB1YxUSlfNI8eM3sAaOUUO3i4IUJj6or3fb3wifkqEN93Ctkdu6XA_HZBWjLzWtYEEq6fYu1XaINf0U0apQGFsFBmmGuLL3PhlMWqY7r8-R_xHVvLSMGvJ4k2bMNN7fbAiA7aJbLU-BSIRG8OXSkyHLzBmBUk10BqnaAt4CWkTFXTGnpfxDea6sUTsrdf4QP66vOyS_WEzBBy7RBQfBnliAXoos2yWJIFCAgTeO2SnuQYoAahAYAH_4CY2xiQBwSoB-G2sQKoB6XPsQKoB-edsQKoB-idsQKoB_nTsQKoB8nasQKoB6ngsQKoB6jSG6gHsdwbqAewm7ECqAeusbECqAf9srECqAfIz7ECqAfJz7ECqAf81bECqAf71bECqAeM1rECqAeL1rECqAea4rECqAeb4rECqAed17ECqAed1LECqAeBxhuoB_yvsQKoB9XOG6gHvtmxAqgHq8UbqAec3BuoB7ehsQKoB9WpsQKoB-fasQKoB961sQKoB8LIsQKSCAtHZ3B2QXl6RmpkQagIAdIILgiAQRABGF4yAoICOg-AQoDAgICAgICAAqqAgBhI2aDSNVAUWPil6d6Cr5cDYAGaCVNodHRwczovL3d3dy5zc2dhLmNvbS91cy9lbi9pbmRpdmlkdWFsL2NhcGFiaWxpdGllcy9zcGRyLWNvcmUtZXF1aXR5LWV0ZnMvc3B5LXNwLTUwMLEJrQlZLVuEd3fICRfICY8ByAnCAcgJlwK6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBA4ACAYgCBboDBXZpY2Jm0AsS4AsB0gwCEAGaDQESqg0CVVPIDQHSDY0FaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL044ODA1LjI3OTM4MkJJRE1BTkFHRVJfREZBU0lURV8xL0IzMjMzMjUzOS4zOTk1NzI5NDI7ZGNfdHJrX2FpZD01OTE1MDIxODI7ZGNfdHJrX2NpZD0yMTkwMTUzMzI7ZGNfZGJtX3Rva2VuPUFPamVMTkVBQUFBOENqUUtEQWdBRlFBQUFBQWRBQUFBQUJJTUNBQVZBQUFBQUIwQUFBQUFJaFFJNktMTnNsaW9BdTJTbnVRWXNBTDM4LXZwQTBBN0VQRDJwZUFZSVpDTVZVbjczVTJ2eUpOYlI0eDd2QT09O2RjX2xhdD07ZGNfcmRpZD07dGFnX2Zvcl9jaGlsZF9kaXJlY3RlZF90cmVhdG1lbnQ9O3RmdWE9O2x0ZD07ZGNfdGR2PTE7ZGNfdHJhbnNwYXJlbnQ9MTtkY19ydWk9MTtkY19lcHM9QUhhczhjQm1EYnJoal9hX3VvUHFvTjNzVWFoZ3VhMVk5S0hEMC02RHZDT0hFN21LSWpDMEo4bVNZQUZaVXZwbXczaENxWWpMc0x0NHpRSjd4Y1NvSWc7ZGNfcHViaWQ9Nj9odHRwczovL3d3dy5zc2dhLmNvbS91cy9lbi9pbmRpdmlkdWFsL2NhcGFiaWxpdGllcy9zcGRyLWNvcmUtZXF1aXR5LWV0ZnMvc3B5LXNwLTUwMD9XVC5tY19pZD1zb2NpYWxfZXRmLXNweV9zcHktYmF1X3VzX3l0X3Zkd19uX21mMl9wb3ZyZXRjY19hcHIyNiZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM3Mjg0NDM3NTKwE6uHoyW4E____________wGIFAGwFAPAFYGAgEDQFQHYFQGYFgGoFgHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXE-4tW7F7ymS6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI2Lzp3oKvlwMVdPpPAh15XCBpEAEYAyAAEgL3EvD_BwE&num=3&cid=CAASwgHkaNZ_PLlC6cKzJU5vV1MN-2crqa7pLKBqfqHR2pfgF2kprO9uJweCcHCm-JLBV2AlW51PHuU37PODtyKaEfypH1FV2SpOzBWFDcsPVI_Ji6XOworjwyWSydbchdcig5dDSK1GycjdOw4x_7XY_fmZFcnQ0Sha4y7QaVwzuef-tcblDiv6Wr_bCUj4DmS3LJEl9uyJsMqCDfRP8ZC_ogrbMKJaBg5MGhSwIX5hiE2rNGXmP21Cvb0l59TVPQ0xKtVl6g&ad_cpn=%5BCPN%5D&sig=AOD64_192t4Ak4GYDrb7CzTIyD4op2OxHQ&ctype=110&video_id=GgpvAyzFjdA&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "State Street",
+    "thumbnail": "https://yt3.ggpht.com/proxy/ab-zy31-bjmqZ8q2xK2vP7kSDMogNj-7T3lENQmZr4s3wLZZ2OfREDkoQyTG_EemsuFf_C8_Pf4VZN6PUneG_KCh1zfz_NmxjAEoyfW5fBiYE46soJ1Xxrwbj0PsON5qYNt1jauQkBlezb8Xml6D8ro3PJEGof8Q2b0kzfixiqbat1xZbflmc3HrPWVRQHM9LepE3wna-F_qwbymqMDqDwqMeKrM6kIY4d4mFAkceZoMiEQ7bDH_zuq-kBu1-Ys5Ns1DfFM=w68-h68-nd"
+   },
+   "description": "Keep your long‑term goals on track.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GgpvAyzFjdA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBTjyHTPiPTJ8tqMX3UcTocc78lw"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Akshat Shrivastava",
+   "link": "https://www.youtube.com/@AkshatZayn",
+   "verified": true,
+   "handle": "@AkshatZayn",
+   "subscribers": 2270000,
+   "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 3,
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "video_id": "4WvqWxmPynM",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 606573,
+   "length": "20:54",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4WvqWxmPynM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC3CBrGtsfU8N7RTRxVOQbQ18i8Eg",
+    "rich": "https://i.ytimg.com/an_webp/4WvqWxmPynM/mqdefault_6s.webp?du=3000&sqp=CPPDp9YG&rs=AOn4CLCzMQQll9aJmeBeB_h6GyWCdM6yKw"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "Review (& Analyze) your own Stock Portfolio [In 10 minutes...]",
+   "link": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ts3RXqeknJ4",
+   "video_id": "ts3RXqeknJ4",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 98264,
+   "length": "29:58",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ts3RXqeknJ4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBz1tzlBuINxOAnQm2qf4Y4Qh3f0g",
+    "rich": "https://i.ytimg.com/an_webp/ts3RXqeknJ4/mqdefault_6s.webp?du=3000&sqp=CIrpp9YG&rs=AOn4CLC18gA9sjI6HO9qL7-qJ_ZW9H5_pQ"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Correction FINALLY OVER in Indian Markets? (time to buy?)",
+   "link": "https://www.youtube.com/watch?v=Bnbq1-9r3w4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Bnbq1-9r3w4",
+   "video_id": "Bnbq1-9r3w4",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8d ago",
+   "views": 659437,
+   "length": "21:09",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Bnbq1-9r3w4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDngLWi2053zMPliW40HSQDnKmmWg",
+    "rich": "https://i.ytimg.com/an_webp/Bnbq1-9r3w4/mqdefault_6s.webp?du=3000&sqp=CMq8p9YG&rs=AOn4CLCe-J_rq8MIhtyhIc1HijwBrAldlQ"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "Why I'm investing close to 15Cr on these 10 stocks | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=CtBJxdShSMw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CtBJxdShSMw",
+   "video_id": "CtBJxdShSMw",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 355887,
+   "length": "22:40",
+   "description": "Register for 2-Day LIVE Training on AI for FREE: https://link.outskill.com/AS4 100% Discount for all who register Become the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CtBJxdShSMw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDmo5cPX_WF2uEhpUwfGlZXNH1cJA",
+    "rich": "https://i.ytimg.com/an_webp/CtBJxdShSMw/mqdefault_6s.webp?du=3000&sqp=COTTp9YG&rs=AOn4CLDgBleZnSxUaxtM5rvebaiVBQhYlA"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "There is a SIMPLE way to grow your portfolio (Stop buying dead stocks!)",
+   "link": "https://www.youtube.com/watch?v=OCfG_wkese0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OCfG_wkese0",
+   "video_id": "OCfG_wkese0",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5mo ago",
+   "views": 82242,
+   "length": "16:51",
+   "description": "I write detailed notes for my community that would help them build them an actual portfolio. You can track my every buy/sell.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OCfG_wkese0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqyffXxZTPRWN0K3xxs4GU1UdTMA",
+    "rich": "https://i.ytimg.com/an_webp/OCfG_wkese0/mqdefault_6s.webp?du=3000&sqp=COfWp9YG&rs=AOn4CLBm6AYrAxrYx9E3zFyB-9ILVI6tcQ"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "Fundamentals of Stock Analysis | A step-by-step process to analyse stocks #StockMarket",
+   "link": "https://www.youtube.com/watch?v=iWBjHPFrwrM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iWBjHPFrwrM",
+   "video_id": "iWBjHPFrwrM",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "5y ago",
+   "views": 582901,
+   "length": "22:04",
+   "description": "I do the fundamental analysis of stocks on Tickertape. Check it out! https://ttape.in/tQ8PHO7jQgb. I have been using Zerodha for ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iWBjHPFrwrM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAWeaG-Qzql51nZ7owkxby5jAPK6w",
+    "rich": "https://i.ytimg.com/an_webp/iWBjHPFrwrM/mqdefault_6s.webp?du=3000&sqp=CPHCp9YG&rs=AOn4CLCcw931nINgcpjRq8kzk_VNlhiCBw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "link": "https://www.youtube.com/watch?v=nD26pvHvbo4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nD26pvHvbo4",
+   "video_id": "nD26pvHvbo4",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 2mo ago",
+   "views": 94857,
+   "length": "42:01",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nD26pvHvbo4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLARxZmmqq0V2psLxLcQruBON0aZLg",
+    "rich": "https://i.ytimg.com/an_webp/nD26pvHvbo4/mqdefault_6s.webp?du=3000&sqp=CK7kp9YG&rs=AOn4CLBZKTOtU_FLeaQgiBHhOtm3Y-2SmA"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Buying your first stock | Stock Market for Beginners",
+   "link": "https://www.youtube.com/watch?v=k6ByGE3aySA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=k6ByGE3aySA",
+   "video_id": "k6ByGE3aySA",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 217439,
+   "length": "17:36",
+   "description": "Diversification is the key to hedge your risks. Check out some of my favourite smallcases here: ▻Quality Smart Beta: ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/k6ByGE3aySA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDThiP0NNSd0Lrxux9QZxhn0MFZAw",
+    "rich": "https://i.ytimg.com/an_webp/k6ByGE3aySA/mqdefault_6s.webp?du=3000&sqp=CICip9YG&rs=AOn4CLDsjn_sf0kUqxua8P0vIOecil_WlA"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "Top 6 Stocks I am buying in 2026 for Long-Term Wealth | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=LXqi9uqw5r0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LXqi9uqw5r0",
+   "video_id": "LXqi9uqw5r0",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8mo ago",
+   "views": 301309,
+   "length": "33:32",
+   "description": "Invest in the US Stock Market and Global Equities with me (learn fundamentals and check my portfolio): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LXqi9uqw5r0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1bp9aCMuvKI89Q1pGdJXlmN_QWQ",
+    "rich": "https://i.ytimg.com/an_webp/LXqi9uqw5r0/mqdefault_6s.webp?du=3000&sqp=CI7Rp9YG&rs=AOn4CLDEX-xYkTGOPSuf-ZqMUjVlSJv5mA"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Waiting for the US Stock Market to fall? (Well, it will keep going up. Here's why)",
+   "link": "https://www.youtube.com/watch?v=EG4acdv-H-4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EG4acdv-H-4",
+   "video_id": "EG4acdv-H-4",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 113508,
+   "length": "22:58",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/EG4acdv-H-4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_-8HHEXlHXLe9dTfHF9QFPmpfOA",
+    "rich": "https://i.ytimg.com/an_webp/EG4acdv-H-4/mqdefault_6s.webp?du=3000&sqp=CNbIp9YG&rs=AOn4CLCQKWe1C_AL9nG90hS6z4S0TOVUHA"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "My SECRET to analysing stocks!",
+   "link": "https://www.youtube.com/watch?v=MpTadQpq9LY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=MpTadQpq9LY",
+   "video_id": "MpTadQpq9LY",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "4y ago",
+   "views": 364536,
+   "length": "16:32",
+   "description": "I use Vested to invest in US Stocks. Exclusive $10 bonus on 1st Deposit if you sign up using this link: https://vested.app.link/akshat",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/MpTadQpq9LY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoFJ7SZIQyKH12_uQnuXEOz_vSMA",
+    "rich": "https://i.ytimg.com/an_webp/MpTadQpq9LY/mqdefault_6s.webp?du=3000&sqp=CP7Gp9YG&rs=AOn4CLAj2OGd29Bgg0CNb29MWs6RqWxm7A"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "I make 200K USD/year renting my stocks (using simple Options strategies) | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=HJYoZl2XMS8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HJYoZl2XMS8",
+   "video_id": "HJYoZl2XMS8",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 145163,
+   "length": "25:50",
+   "description": "Invest in the US Stock Market and Global Equities with me (learn fundamentals and check my portfolio): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HJYoZl2XMS8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCnG9XzIgK8lcnFR_EcSE-ItPwDdQ",
+    "rich": "https://i.ytimg.com/an_webp/HJYoZl2XMS8/mqdefault_6s.webp?du=3000&sqp=CNOzp9YG&rs=AOn4CLACyqJZJrlTSEG7kquAvSnTbiwnCw"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "3 Next Gen, HyperGrowth Stocks (100X potential) | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=sBULOwiKyr8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=sBULOwiKyr8",
+   "video_id": "sBULOwiKyr8",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 573159,
+   "length": "25:33",
+   "description": "Register for 2-Day LIVE Training on AI for FREE: https://link.outskill.com/AJS1 100% Discount for all who register Become ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/sBULOwiKyr8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA161Nkp1JisDyIF5u2zBkZVdnhRw",
+    "rich": "https://i.ytimg.com/an_webp/sBULOwiKyr8/mqdefault_6s.webp?du=3000&sqp=CI_Hp9YG&rs=AOn4CLA6yWV9wA6tFRAHwwLkQLWA2IgfqQ"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Selling ITC was a mistake. Talking about my other mistakes and undervalued stocks",
+   "link": "https://www.youtube.com/watch?v=Cd4-d6S-ldM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Cd4-d6S-ldM",
+   "video_id": "Cd4-d6S-ldM",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 279315,
+   "length": "20:14",
+   "description": "My stock market course (comes with 1 year community access), here: https://wisdomhatch.com/stock-market/. ▻I talk about in ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Cd4-d6S-ldM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFais3bPuv-J8v7S4qQtavLLopAA",
+    "rich": "https://i.ytimg.com/an_webp/Cd4-d6S-ldM/mqdefault_6s.webp?du=3000&sqp=CMjEp9YG&rs=AOn4CLBuz9XI38_AyCB4ioxdHpce7zgiFA"
+   }
+  },
+  {
+   "position_on_page": 23,
+   "title": "How to Invest with a Full Time Job? (& save LIFE-TIME commissions)!",
+   "link": "https://www.youtube.com/watch?v=_LgghXT4sps",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_LgghXT4sps",
+   "video_id": "_LgghXT4sps",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 132499,
+   "length": "25:31",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_LgghXT4sps/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDNSQppvEEp_f9zi1jTs7yWuZ6UYA",
+    "rich": "https://i.ytimg.com/an_webp/_LgghXT4sps/mqdefault_6s.webp?du=3000&sqp=CPLIp9YG&rs=AOn4CLCY_y0YJu7N9cAwxOeLkATJ-nJFUw"
+   }
+  },
+  {
+   "position_on_page": 24,
+   "title": "How 2008 made some investors VERY Rich? (2026: same pattern!) | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=ZGfwTmUnJxE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ZGfwTmUnJxE",
+   "video_id": "ZGfwTmUnJxE",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1mo ago",
+   "views": 80457,
+   "length": "21:30",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ZGfwTmUnJxE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBa1tWNrxxzf74fiaVL0B9-EKBoTQ",
+    "rich": "https://i.ytimg.com/an_webp/ZGfwTmUnJxE/mqdefault_6s.webp?du=3000&sqp=CKWpp9YG&rs=AOn4CLDndUhGl0zEO1VAYJ-z4OXK5Y4f6w"
+   }
+  },
+  {
+   "position_on_page": 25,
+   "title": "Will the Next 5 years be GREAT for Indian Markets? | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=zWU3bTHd0t4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zWU3bTHd0t4",
+   "video_id": "zWU3bTHd0t4",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 701023,
+   "length": "20:46",
+   "description": "Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zWU3bTHd0t4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBWco-XeiCCR1OcXNT2HgB8q0E8MA",
+    "rich": "https://i.ytimg.com/an_webp/zWU3bTHd0t4/mqdefault_6s.webp?du=3000&sqp=CPCjp9YG&rs=AOn4CLD3eYPSjLmj2nYT1A_IxJRws1Hf2w"
+   }
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 5,
+   "title": "US Stock Investing",
+   "link": "https://www.youtube.com/playlist?list=PL2fxME0rbf-1-eHJlQ4Ib93GtsyRrTYd7",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   },
+   "videos": [
+    {
+     "title": "Investing in FUTURE tech monopolies!  # No-FAANG stocks",
+     "length": "19:30",
+     "link": "https://www.youtube.com/watch?v=qgFaOB-pNMU&list=PL2fxME0rbf-1-eHJlQ4Ib93GtsyRrTYd7&pp=0gcJCQEF0aJEHMZM"
+    },
+    {
+     "title": "Investing in Future Tech monopolies | How to invest in the US stocks |#fundamentalanalysis",
+     "length": "20:13",
+     "link": "https://www.youtube.com/watch?v=wBH3iRQgQp0&list=PL2fxME0rbf-1-eHJlQ4Ib93GtsyRrTYd7"
+    }
+   ],
+   "video_count": 71,
+   "thumbnail": "https://i.ytimg.com/vi/qgFaOB-pNMU/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAdQaFCmwEQ11Og4dqaqght01sT0Q"
+  },
+  {
+   "position_on_page": 8,
+   "title": "Investing for Beginners",
+   "link": "https://www.youtube.com/playlist?list=PL2fxME0rbf-2Yu9VJ6wMBX6_BLP9TnoyG",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   },
+   "videos": [
+    {
+     "title": "How am I investing Rs. 50 lakhs? Strategy Explained!",
+     "length": "19:16",
+     "link": "https://www.youtube.com/watch?v=0Ef0Iy9Vf_A&list=PL2fxME0rbf-2Yu9VJ6wMBX6_BLP9TnoyG"
+    },
+    {
+     "title": "Design a diversified portfolio by using STOCKS, DEBTS, Cryptos (#Bitcoins!)",
+     "length": "15:10",
+     "link": "https://www.youtube.com/watch?v=1ktVglH2xk4&list=PL2fxME0rbf-2Yu9VJ6wMBX6_BLP9TnoyG"
+    }
+   ],
+   "video_count": 80,
+   "thumbnail": "https://i.ytimg.com/vi/0Ef0Iy9Vf_A/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDNw1Slo3al_Op3QPiX19fxRoLprQ"
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 6,
+   "shorts": [
+    {
+     "title": "Why my $1Mn portfolio beats 99% funds | 3 techniques | Akshat Shrivastava",
+     "link": "https://www.youtube.com/shorts/F9oMe4QUnAA",
+     "thumbnail": "https://i.ytimg.com/vi/F9oMe4QUnAA/frame0.jpg",
+     "views_original": "93K views",
+     "views": 93000,
+     "video_id": "F9oMe4QUnAA"
+    },
+    {
+     "title": "Don't do SIP! #akshatshrivastava #sip #stockmarket",
+     "link": "https://www.youtube.com/shorts/CJ7wf5EPbL8",
+     "thumbnail": "https://i.ytimg.com/vi/CJ7wf5EPbL8/frame0.jpg",
+     "views_original": "333K views",
+     "views": 333000,
+     "video_id": "CJ7wf5EPbL8"
+    },
+    {
+     "title": "Stocks to Bulk Buy or SIP- Summary of Akshat Srivastava Video 18 May 2024 @AkshatZayn #stockmarket",
+     "link": "https://www.youtube.com/shorts/g3KFh3_T6YA",
+     "thumbnail": "https://i.ytimg.com/vi/g3KFh3_T6YA/frame0.jpg",
+     "views_original": "380 views",
+     "views": 380,
+     "video_id": "g3KFh3_T6YA"
+    },
+    {
+     "title": "Upcoming Recession & Stock Market CRASH!",
+     "link": "https://www.youtube.com/shorts/1xbJM5f7O0Q",
+     "thumbnail": "https://i.ytimg.com/vi/1xbJM5f7O0Q/frame0.jpg",
+     "views_original": "200K views",
+     "views": 200000,
+     "video_id": "1xbJM5f7O0Q"
+    },
+    {
+     "title": "What happens if EVERYONE does SIPs? (Will everyone get rich??) #shorts #sipinvestment",
+     "link": "https://www.youtube.com/shorts/G_W1aETiUhU",
+     "thumbnail": "https://i.ytimg.com/vi/G_W1aETiUhU/frame0.jpg",
+     "views_original": "450K views",
+     "views": 450000,
+     "video_id": "G_W1aETiUhU"
+    }
+   ]
+  },
+  {
+   "position_on_page": 11,
+   "shorts": [
+    {
+     "title": "Get Rich in 2025 RECESSION! #timingthemarket #stockmarket",
+     "link": "https://www.youtube.com/shorts/i-8DdY0ep90",
+     "thumbnail": "https://i.ytimg.com/vi/i-8DdY0ep90/frame0.jpg",
+     "views_original": "212K views",
+     "views": 212000,
+     "video_id": "i-8DdY0ep90"
+    },
+    {
+     "title": "Google: an obvious Multi bagger? #shorts",
+     "link": "https://www.youtube.com/shorts/hrBZ8ARnRjA",
+     "thumbnail": "https://i.ytimg.com/vi/hrBZ8ARnRjA/frame0.jpg",
+     "views_original": "137K views",
+     "views": 137000,
+     "video_id": "hrBZ8ARnRjA"
+    },
+    {
+     "title": "Move to Dubai and GET RICH! #dubai #nri",
+     "link": "https://www.youtube.com/shorts/g6Y0-U6eMdE",
+     "thumbnail": "https://i.ytimg.com/vi/g6Y0-U6eMdE/frame0.jpg",
+     "views_original": "381K views",
+     "views": 381000,
+     "video_id": "g6Y0-U6eMdE"
+    },
+    {
+     "title": "AI BOOM of $650 BILLION: Who will benefit? #shorts #aistocks",
+     "link": "https://www.youtube.com/shorts/Rw_ZCMqWX0E",
+     "thumbnail": "https://i.ytimg.com/vi/Rw_ZCMqWX0E/frame0.jpg",
+     "views_original": "45K views",
+     "views": 45000,
+     "video_id": "Rw_ZCMqWX0E"
+    },
+    {
+     "title": "Indian IT getting Killed by Anthropic (What is Anthoropic?) #shorts",
+     "link": "https://www.youtube.com/shorts/FJ2nZRM4r3g",
+     "thumbnail": "https://i.ytimg.com/vi/FJ2nZRM4r3g/frame0.jpg",
+     "views_original": "288K views",
+     "views": 288000,
+     "video_id": "FJ2nZRM4r3g"
+    },
+    {
+     "title": "Are we in an AI BUBBLE? #shorts #aibubble",
+     "link": "https://www.youtube.com/shorts/Z4q8tYjMXdM",
+     "thumbnail": "https://i.ytimg.com/vi/Z4q8tYjMXdM/frame0.jpg",
+     "views_original": "50K views",
+     "views": 50000,
+     "video_id": "Z4q8tYjMXdM"
+    },
+    {
+     "title": "Should you invest in US stocks | Akshat Negi",
+     "link": "https://www.youtube.com/shorts/tCuPgQS2rNA",
+     "thumbnail": "https://i.ytimg.com/vi/tCuPgQS2rNA/frame0.jpg",
+     "views_original": "263 views",
+     "views": 263,
+     "video_id": "tCuPgQS2rNA"
+    },
+    {
+     "title": "Unlocking Wealth: Why Investing in Equity is the Future || Akshat Shrivastava shorts",
+     "link": "https://www.youtube.com/shorts/0nIXSBcYY2A",
+     "thumbnail": "https://i.ytimg.com/vi/0nIXSBcYY2A/frame0.jpg",
+     "views_original": "2.4K views",
+     "views": 2400,
+     "video_id": "0nIXSBcYY2A"
+    },
+    {
+     "title": "Akshat Shrivastava on Time Assets | #investment #shorts",
+     "link": "https://www.youtube.com/shorts/LSJNwviaJbI",
+     "thumbnail": "https://i.ytimg.com/vi/LSJNwviaJbI/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "LSJNwviaJbI"
+    },
+    {
+     "title": "Watch THIS Before Investing in Stocks! ft. Akshat Shrivastava #shorts",
+     "link": "https://www.youtube.com/shorts/myZvvYMPcMw",
+     "thumbnail": "https://i.ytimg.com/vi/myZvvYMPcMw/frame0.jpg",
+     "views_original": "37K views",
+     "views": 37000,
+     "video_id": "myZvvYMPcMw"
+    },
+    {
+     "title": "Akshat Shrivastava on Businesses | #investing #shorts",
+     "link": "https://www.youtube.com/shorts/uXO1HUP4bMY",
+     "thumbnail": "https://i.ytimg.com/vi/uXO1HUP4bMY/frame0.jpg",
+     "views_original": "468 views",
+     "views": 468,
+     "video_id": "uXO1HUP4bMY"
+    },
+    {
+     "title": "You can't pick MULTIBAGGERs #shorts",
+     "link": "https://www.youtube.com/shorts/q8cokG_FuxY",
+     "thumbnail": "https://i.ytimg.com/vi/q8cokG_FuxY/frame0.jpg",
+     "views_original": "19K views",
+     "views": 19000,
+     "video_id": "q8cokG_FuxY"
+    },
+    {
+     "title": "Buy your house at 50% discount!",
+     "link": "https://www.youtube.com/shorts/WtzlkxLcPzk",
+     "thumbnail": "https://i.ytimg.com/vi/WtzlkxLcPzk/frame0.jpg",
+     "views_original": "340K views",
+     "views": 340000,
+     "video_id": "WtzlkxLcPzk"
+    },
+    {
+     "title": "Mere Portfolio mai kaunse share hain | Akshat Negi",
+     "link": "https://www.youtube.com/shorts/OLiDpuK7SBg",
+     "thumbnail": "https://i.ytimg.com/vi/OLiDpuK7SBg/frame0.jpg",
+     "views_original": "847 views",
+     "views": 847,
+     "video_id": "OLiDpuK7SBg"
+    },
+    {
+     "title": "DON'T do this in stock market #shorts",
+     "link": "https://www.youtube.com/shorts/tNxGitsk3vM",
+     "thumbnail": "https://i.ytimg.com/vi/tNxGitsk3vM/frame0.jpg",
+     "views_original": "64K views",
+     "views": 64000,
+     "video_id": "tNxGitsk3vM"
+    },
+    {
+     "title": "Tech companies going BANKRUPT #shorts",
+     "link": "https://www.youtube.com/shorts/KnTvAdLehNo",
+     "thumbnail": "https://i.ytimg.com/vi/KnTvAdLehNo/frame0.jpg",
+     "views_original": "334K views",
+     "views": 334000,
+     "video_id": "KnTvAdLehNo"
+    },
+    {
+     "title": "Worlds highest share price |Akshat Vlogs. #sharemarket",
+     "link": "https://www.youtube.com/shorts/Ai3V7hL9yAc",
+     "thumbnail": "https://i.ytimg.com/vi/Ai3V7hL9yAc/frame0.jpg",
+     "views_original": "288 views",
+     "views": 288,
+     "video_id": "Ai3V7hL9yAc"
+    },
+    {
+     "title": "Akshat Shrivastava's Simple Life, Powerful Savings | 95% Income Saved",
+     "link": "https://www.youtube.com/shorts/OrzpGn_j2Zc",
+     "thumbnail": "https://i.ytimg.com/vi/OrzpGn_j2Zc/frame0.jpg",
+     "views_original": "6.7K views",
+     "views": 6700,
+     "video_id": "OrzpGn_j2Zc"
+    },
+    {
+     "title": "2008 financial crisis, AGAIN? #CREDITSUISSE #Shorts",
+     "link": "https://www.youtube.com/shorts/7_H0ejoaFtU",
+     "thumbnail": "https://i.ytimg.com/vi/7_H0ejoaFtU/frame0.jpg",
+     "views_original": "96K views",
+     "views": 96000,
+     "video_id": "7_H0ejoaFtU"
+    },
+    {
+     "title": "3 Steps to become FINANCIALLY FREE #shorts",
+     "link": "https://www.youtube.com/shorts/2exBUpkMU_w",
+     "thumbnail": "https://i.ytimg.com/vi/2exBUpkMU_w/frame0.jpg",
+     "views_original": "11K views",
+     "views": 11000,
+     "video_id": "2exBUpkMU_w"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Akshat+Shrivastava+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Akshat%20Shrivastava%20stocks&sp=SBSCARhVQ3FXOGp4aDR0SDFaMXNXUGJrR1dMNGeCAQs0V3ZxV3htUHluTYIBIlBMMmZ4TUUwcmJmLTEtZUhKbFE0SWI5M0d0c3lSclRZZDeCASJQTDJmeE1FMHJiZi0yWXU5Vko2d01CWDZfQkxQOVRub3lHggELdHMzUlhxZWtuSjSCAQtCbmJxMS05cjN3NIIBC0N0Qkp4ZFNoU013ggELT0NmR193a2VzZTCCAQtpV0JqSFBGcndyTYIBC25EMjZwdkh2Ym80ggELazZCeUdFM2F5U0GCAQtMWHFpOXVxdzVyMIIBC0VHNGFjZHYtSC00ggELTXBUYWRRcHE5TFmCAQtISllvWmwyWE1TOIIBC3NCVUxPd2lLeXI4ggELQ2Q0LWQ2Uy1sZE2CAQtfTGdnaFhUNHNwc4IBC1pHZndUbVVuSnhFggELeldVM2JUSGQwdDSyAQYKBAgaEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ3FXOGp4aDR0SDFaMXNXUGJrR1dMNGeCAQs0V3ZxV3htUHluTYIBIlBMMmZ4TUUwcmJmLTEtZUhKbFE0SWI5M0d0c3lSclRZZDeCASJQTDJmeE1FMHJiZi0yWXU5Vko2d01CWDZfQkxQOVRub3lHggELdHMzUlhxZWtuSjSCAQtCbmJxMS05cjN3NIIBC0N0Qkp4ZFNoU013ggELT0NmR193a2VzZTCCAQtpV0JqSFBGcndyTYIBC25EMjZwdkh2Ym80ggELazZCeUdFM2F5U0GCAQtMWHFpOXVxdzVyMIIBC0VHNGFjZHYtSC00ggELTXBUYWRRcHE5TFmCAQtISllvWmwyWE1TOIIBC3NCVUxPd2lLeXI4ggELQ2Q0LWQ2Uy1sZE2CAQtfTGdnaFhUNHNwc4IBC1pHZndUbVVuSnhFggELeldVM2JUSGQwdDSyAQYKBAgaEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Akshat+Shrivastava+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Akshat+Shrivastava+stocks&sp=SBSCARhVQ3FXOGp4aDR0SDFaMXNXUGJrR1dMNGeCAQs0V3ZxV3htUHluTYIBIlBMMmZ4TUUwcmJmLTEtZUhKbFE0SWI5M0d0c3lSclRZZDeCASJQTDJmeE1FMHJiZi0yWXU5Vko2d01CWDZfQkxQOVRub3lHggELdHMzUlhxZWtuSjSCAQtCbmJxMS05cjN3NIIBC0N0Qkp4ZFNoU013ggELT0NmR193a2VzZTCCAQtpV0JqSFBGcndyTYIBC25EMjZwdkh2Ym80ggELazZCeUdFM2F5U0GCAQtMWHFpOXVxdzVyMIIBC0VHNGFjZHYtSC00ggELTXBUYWRRcHE5TFmCAQtISllvWmwyWE1TOIIBC3NCVUxPd2lLeXI4ggELQ2Q0LWQ2Uy1sZE2CAQtfTGdnaFhUNHNwc4IBC1pHZndUbVVuSnhFggELeldVM2JUSGQwdDSyAQYKBAgaEALqAQQIAhAZ",
+  "next_page_token": "SBSCARhVQ3FXOGp4aDR0SDFaMXNXUGJrR1dMNGeCAQs0V3ZxV3htUHluTYIBIlBMMmZ4TUUwcmJmLTEtZUhKbFE0SWI5M0d0c3lSclRZZDeCASJQTDJmeE1FMHJiZi0yWXU5Vko2d01CWDZfQkxQOVRub3lHggELdHMzUlhxZWtuSjSCAQtCbmJxMS05cjN3NIIBC0N0Qkp4ZFNoU013ggELT0NmR193a2VzZTCCAQtpV0JqSFBGcndyTYIBC25EMjZwdkh2Ym80ggELazZCeUdFM2F5U0GCAQtMWHFpOXVxdzVyMIIBC0VHNGFjZHYtSC00ggELTXBUYWRRcHE5TFmCAQtISllvWmwyWE1TOIIBC3NCVUxPd2lLeXI4ggELQ2Q0LWQ2Uy1sZE2CAQtfTGdnaFhUNHNwc4IBC1pHZndUbVVuSnhFggELeldVM2JUSGQwdDSyAQYKBAgaEALqAQQIAhAZ"
+ },
+ "_fetched_at": "2026-10-10T08:22:53"
+}

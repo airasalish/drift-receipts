@@ -1,0 +1,1533 @@
+{
+ "search_metadata": {
+  "id": "6ac9453ff680d1b5cdfdae7f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/dojNZfa1HlkO9xhN1Lk20kmyoeEQYbELLK2FtZcx-js/6ac9453ff680d1b5cdfdae7f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/dojNZfa1HlkO9xhN1Lk20kmyoeEQYbELLK2FtZcx-js/6ac9453ff680d1b5cdfdae7f.md",
+  "created_at": "2026-10-09 19:49:19 UTC",
+  "processed_at": "2026-10-09 19:49:19 UTC",
+  "google_news_url": "https://news.google.com/search?q=Lenskart+Solutions+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/dojNZfa1HlkO9xhN1Lk20kmyoeEQYbELLK2FtZcx-js/6ac9453ff680d1b5cdfdae7f.html",
+  "total_time_taken": 0.73
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Lenskart Solutions share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "LENSKART Share Price Declines; Sector Comparison Matters",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-share-price-fall-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/LENSKART_SOLUTIONS_LENSKART_LENSKART_Share_Price_Falls_239_Today_Valuation_Stays_Rich_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlSVWhtTUZGRVJITm1iMFJ4VFJDUUF4ai1CU2dLTWdZQk1wakRtZ2s",
+   "date": "10/08/2026, 06:43 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:43:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Peyush Bansal-Led Lenskart Shares Rise on Massive Rs 5,300 Crore Block Deal Triggered by IPO Lock-In Expiry",
+   "source": {
+    "name": "Goodreturns",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodreturns.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harshika Yadav"
+    ]
+   },
+   "link": "https://www.goodreturns.in/news/peyush-bansal-led-lenskart-shares-rise-on-massive-rs-5-300-crore-block-deal-triggered-by-ipo-lock-in-1506965.html",
+   "thumbnail": "https://images.goodreturns.in/img/2026/05/lenskart2-1778216826.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFjVWxIYkRBNFRESlBhMlV4VFJDMEFoallCQ2dLTWdZTlU1UVRJUWs",
+   "date": "10/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Lenskart Solutions shares jump 7% after Q1 results; Jefferies, Goldman Sachs, 3 others raise target price",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-solutions-shares-jump-7-after-q1-results-jefferies-goldman-sachs-3-others-raise-target-price/articleshow/133197400.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133197470,width-1200,height-900,resizemode-4,imgsize-2094923/lenskart-solutions-shares-jump-7-after-q1-resultsbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWZYMGhKVmxwT1ltZFpVV3RsVFJEZ0F4aUFCU2dLTWdtQlFJaEVIdW9sOGdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Cyril Amarchand Mangaldas advises Morgan Stanley on sale of Lenskart shares by ADIA",
+   "source": {
+    "name": "Bar and Bench",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.barandbench.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.barandbench.com/law-firms/dealstreet/cyril-amarchand-mangaldas-advises-morgan-stanley-on-sale-of-lenskart-shares-by-adia",
+   "thumbnail": "https://cf-images.assettype.com/barandbench/2025-12-15/2lf1qf8k/ViewPoint-MIddle-Single-Image-copy.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1UM2xPVlcxM1dqTXdSa1ExVFJDZkF4ampCU2dLTWdZTlE1ekdJZ2s",
+   "date": "10/05/2026, 05:55 AM, +0000 UTC",
+   "iso_date": "2026-10-05T05:55:27Z"
+  },
+  {
+   "position": 5,
+   "title": "Lenskart Solutions market cap crosses ₹1 trillion; stock hits new high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/lenskart-solutions-market-cap-crosses-1-trillion-stock-hits-new-high-126081000672_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-07/19/full/1626667435-5174.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1jM0JSVTJsSU9YSlZVSHBRVFJEUUF4anNCQ2dLTWdtQkFKWUNLLWdsNkFF",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 6,
+   "title": "CAM, Linklaters act on ADIA affiliate’s INR 2,390 crore Lenskart share sale",
+   "source": {
+    "name": "ETLegalWorld.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://legal.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://legal.economictimes.indiatimes.com/news/industry/cam-linklaters-act-on-adia-affiliates-inr-2390-crore-lenskart-share-sale/134725951",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/msid-134725951,width-1600,height-900,resizemode-4/.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZVGswVkhoR2FuWnhlR0pNVFJDZkF4ampCU2dLTWdZSlFaN29vQWs",
+   "date": "10/06/2026, 06:49 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:49:04Z"
+  },
+  {
+   "position": 7,
+   "title": "Lenskart shares gain over 5% to record high after incorporating new step-down subsidiary in China",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lenskart-shares-gain-over-5-to-record-high-after-incorporating-new-step-down-subsidiary-in-china-11787043990119.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/18/1600x900/logo/LENSKART-IPO--5_1761632068943_1761632084325_1787044037872_2426f7a2-9c07-4915-b4c0-fcb6b388ee95.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBOWHBzVGpSSU5tNU5lSGx1VFJDZkF4amlCU2dLTWdZNUFad3hvUWc",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Lenskart shares jump up to 5% as Nomura initiates coverage, sees 40% upside",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lenskart-shares-jump-up-to-5-as-nomura-initiates-coverage-sees-40-upside-14018934.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251110041548_Lenskart.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ZVXRwUlZGMmRYZzFlblYzVFJDZkF4ampCU2dLTWdZcFpZQ3ZwUWc",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Lenskart Block Deal: Stock Price Dips Over 3% After 391.8 Lakh Shares Change Hands",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lenskart-block-deal-share-price-falls-after-391-8-lakh-shares-change-hands-12074783",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/86893e09_WhatsApp-Image-2025-10-30-at-9.01.51-PM.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVTMmxHZEdsQmRGSnpRaTA0VFJDZkF4ampCU2dLTWdtUllJREhKS2hFdGdB",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Lenskart shares cross ₹600 for the first time ever, hit fresh 52-week high after solid Q1",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mangalam Maloo"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-q1-results-pat-revenue-ebitda-margin-brokerages-jefferies-hsbc-citi-52-week-high-19968279.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/lenskart-2026-08-a305a9a5503192dc6bfa08131610a7d7.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRMlp1VVMxbFdIZFpZMjlrVFJDZkF4ampCU2dLTWdZQkFKWW1FQXM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Lenskart Solutions vs Nifty 50: Share Price Performance Compared",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-solutions-vs-nifty-50-share-price-performance",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/lenskart-solutions-vs-nifty-50-share-price-performance-compared.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFNMEZyYzJreE0wUllSMHQ0VFJDUUF4ai1CU2dLTWdZQlFJYkRtZ2s",
+   "date": "10/05/2026, 03:47 AM, +0000 UTC",
+   "iso_date": "2026-10-05T03:47:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Lenskart shares fall 2% after Rs 2,468-crore block deal; 2.07% equity stake sold",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lenskart-shares-fall-2-after-rs-2-468-crore-block-deal-2-07-equity-stake-sold-14034212.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251104105852_lenskart1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhaMk5RVG1SSFZGVndWMWhPVFJDZkF4ampCU2dLTWdhZEVvN3JFUWs",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Block deal alert: Lenskart Solutions slips 3% amid heavy volume on NSE",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/block-deal-alert-lenskart-solutions-slips-3-amid-heavy-volume-on-nse-126092100132_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/04/full/1762275938-4482.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJlWE16WjNod2FWcHlOVXBrVFJEb0F4ajBCQ2dLTWdtQllZd21MZWVna2dF",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 14,
+   "title": "Lenskart shares decline after 2.07% equity worth ₹2,468 crore changes hands in block deals",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-block-deal-buyer-seller-value-size-adia-new-high-ipo-returns-19994462.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/chatgpt-image-sep-21-2026-08-35-59-am-1-2026-09-ed429ae1df35635d59e2d4729c9a47a4.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFNVVZaVUZwaVVFaDVkak5wVFJDZkF4ampCU2dLTWdZQkFKQWpwZ1U",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Lenskart Share Price Update: Rs 668.85 After 2.02% Rise",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Rises_202_Today_to_Rs_66885_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFjMmh2WkMxMWRrdHNNRk5VVFJDUUF4ai1CU2dLTWdZQk1JN0RtZ2s",
+   "date": "09/29/2026, 09:30 AM, +0000 UTC",
+   "iso_date": "2026-09-29T09:30:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Volumes soar at Lenskart Solutions Ltd counter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-lenskart-solutions-ltd-counter-126081700359_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Lenskart share price could rise another 40% despite recent outperformance, Nomura says",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-nomura-says-buy-outperformance-40-percent-upside-record-high-key-triggers-19980043.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/lenskart-2026-08-a305a9a5503192dc6bfa08131610a7d7.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRMlp1VVMxbFdIZFpZMjlrVFJDZkF4ampCU2dLTWdZQkFKWW1FQXM",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Lenskart Share Price Rises 3%: Key Levels Before Q2 Results",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-share-price-rises-ahead-of-q2-results",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/lenskart-share-price-climbs-nearly-3-to-rs-695-95-as-eyewear-stock-recovers.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUZia016WkhOS1VqSk9ZUzFuVFJDUUF4ai1CU2dLTWdrQlFKTENHdW90S1FJ",
+   "date": "09/30/2026, 05:56 AM, +0000 UTC",
+   "iso_date": "2026-09-30T05:56:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Lenskart Share Price Near 52-Week High; Price, Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-near-52-week-high-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Near_52_Week_High_as_Stock_Trades_at_Rs_6903_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlMVlY2YTBKelRXcERPUzFXVFJDUUF4ai1CU2dLTWdZQk1JekRtZ2s",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "LENSKART SOLUTIONS LTD Share Price Within 2% of 52W High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-near-52-week-high-2026-08-18",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Trades_Within_2_of_52_Week_High_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUljbUpxVkVSNmNtbDZaRXhLVFJDUUF4ai1CU2dLTWdtQk1KakRubWs5aUFJ",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Lenskart Solutions shares hit 52-week high as firm incorporates step-down arm Wenzhou Framekart",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/lenskart-solutions-shares-hit-52-week-high-as-firm-incorporates-step-down-arm-wenzhou-framekart/article-198808/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lenskart-share-price-q2-results-peyush-bansal.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpXUzEyUjJ0dlNXbFBNVTVqVFJDZkF4ampCU2dLTWdhVmNwWXFNUWM",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Lenskart Large Trade: 2.6% equity traded in a $300 million block deal; Softbank Vision likely seller",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-solutions-shares-in-focus-after-300-million-block-deal-softbank-vision-fund-likely-seller/articleshow/133450319.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133450352,width-1200,height-900,resizemode-4,imgsize-177229/lenskart-solutions-shares-in-focus-after-300-million-block-deal-softbank-vision-fund-likely-sellerbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURkWGRNWmpKalpIbDZlWE56VFJEZ0F4aUFCU2dLTWdZTkFJYWxpQXM",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Lenskart Solutions zooms 98% from November low; stock hits new high",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Deepak Korgaonkar"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/lenskart-solutions-zooms-98-from-november-low-stock-hits-new-high-126091800424_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/05/full/1762359440-7769.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdXbGR4WkZGbWJuQkRjWFJNVFJEZ0F4aUFCU2dLTWdZQk1JampGZ28",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Lenskart stock jumps 5% after Q1 results; Jefferies sees more upside, Citi and HSBC flag rich valuations",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lenskart-stock-jumps-5-after-q1-results-jefferies-sees-more-upside-citi-and-hsbc-flag-rich-valuations-14003945.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVamQ0Y1hsQ1dtVTFNR2xqVFJDZkF4ampCU2dLTWdZaEZKQ3NGUWc",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Lenskart Solutions share price drops 3% due to a likely ₹2,047 crore block deal | Details here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nishant Kumar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-share-price-drops-3-due-to-a-likely-2-047-crore-block-deal-details-here-11789961644498.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/21/1600x900/logo/Lenskart_Solutions_1789962756854_3j6l_1789962760934_erEv_f0cd42f0-14a7-4455-a870-5e21b256fdeb_QGxX.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdRV04wT0cxa01HRmFkREpIVFJDZkF4ampCU2dLTWdrQklJUmpHaW90cndF",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Lenskart Solutions - FIIs, retail investors raise stakes in 10 stocks, shares rally up to 35% in 3 months",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/fiis-retail-investors-raise-stakes-in-10-stocks-stocks-rally-up-to-35-in-3-months/lenskart-solutions/slideshow/134694981.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134695032,width-480,height-360,imgsize-14674,resizemode-75/investor-interest-rises.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVVM0JRWmxGTldIZDFiRFp4VFJEb0FoamdBeWdLTWdZcGdwQVBzUVk",
+   "date": "10/05/2026, 10:35 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:35:54Z"
+  },
+  {
+   "position": 27,
+   "title": "Lenskart shares to rally 40%? Nomura initiates coverage with Buy, says its growth journey has just started",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-started/articleshow/133641032.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133641066,width-1200,height-900,resizemode-4,imgsize-2236954/lenskart-shares-to-rally-40-nomura-initiates-coverage-with-buy-says-its-growth-journey-has-just-startedbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5aVzVTYWpVM1owRmxaazlaVFJEZ0F4aUFCU2dLTWdhQkZxS0VsZ28",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Platinum Jasmine sells 2.01% stake in Lenskart Solutions",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/equity-markets/lenskart-solutions-shares-worth-2-426-31-crore-change-hands-large/51508293",
+   "thumbnail": "https://news-images.dhan.co/lenskart-solutions-shares-worth-2-426-31-crore-change-hands-large.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUhiME0zTVhOU2JsZGFjemx4VFJDaUF4amRCU2dLTWdNQnNBbw",
+   "date": "09/23/2026, 06:12 AM, +0000 UTC",
+   "iso_date": "2026-09-23T06:12:55Z"
+  },
+  {
+   "position": 29,
+   "title": "Lenskart, Delhivery, among 10 stocks with highest increase in DII holdings in Q1. See full list",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-delhivery-among-10-stocks-with-highest-increase-in-dii-holdings-in-q1-see-full-list/in-spotlight/slideshow/133170949.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133170949,width-480,height-360,imgsize-88698,resizemode-75/in-spotlight.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdNRm8zYzFGaU9WZEtaM3ByVFJEb0FoamdBeWdLTWdhQlVZeE5LUWM",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Lenskart Solutions shares fall as 2% equity change hands in block deal",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/lenskart-solutions-shares-fall-as-2-equity-change-hands-in-block-deal-556736-2026-09-21",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab0ad16da7d1-lenskart-solutions-shares-fell-311-on-monday--hitting-alow-of-rs-68460--compared-with-their-prev-210541616-16x9.jpeg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXVVa1ZPTVhGTFJqZFlWR1ZPVFJDZkF4ampCU2dLTWdNTmNCSQ",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "SoftBank sells Rs 2,888 crore worth shares in Lenskart; Societe Generale, Goldman Sachs, Motilal Oswal...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/softbank-sells-rs-2-888-crore-worth-shares-in-lenskart-societe-generale-goldman-sachs-motilal-oswal-among-25-buyers-14014304.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVamQ0Y1hsQ1dtVTFNR2xqVFJDZkF4ampCU2dLTWdZaEZKQ3NGUWc",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Lenskart shares drop 3% after 3 crore shares change hands in block deal; Platinum Jasmine likely seller",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-drop-3-after-3-crore-shares-change-hands-in-block-deal-platinum-jasmine-likely-seller/articleshow/134379757.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134379911,width-1200,height-900,resizemode-4,imgsize-1902339/lenskart-shares-drop-3-after-3-crore-shares-change-hands-in-block-deal-platinum-jasmine-likely-sellerbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlkSG8wUVhoR1RtdFNUVmhuVFJEZ0F4aUFCU2dLTWdhUklJeUh5Z1E",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Lenskart up 3% ahead of MSCI rejig; Nomura calls it a generational stock",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/lenskart-up-3-ahead-of-msci-rejig-nomura-calls-it-a-generational-stock-126083100223_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/04/full/1762275938-4482.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJlWE16WjNod2FWcHlOVXBrVFJEb0F4ajBCQ2dLTWdtQllZd21MZWVna2dF",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "Lenskart shares block deal: Alpha Wave Ventures II likely to sell 1.2% stake worth Rs 1,313 crore",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-block-deal-alpha-wave-ventures-ii-likely-to-sell-1-2-stake-worth-rs-1313-crore/articleshow/133572288.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133572323,width-1200,height-900,resizemode-4,imgsize-456316/lenskart-shares-block-deal-alpha-wave-ventures-ii-likely-to-sell-1-2-stake-worth-rs-1313-crorebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWMHhTVEVOQmJTMVJMWE5hVFJEZ0F4aUFCU2dLTWdZWkk0cE1HUW8",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Lenskart shares hit record high after Q1 profit jumps nearly four-fold; Motilal Oswal lifts target price",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lenskart-shares-hit-record-high-after-q1-profit-jumps-nearly-four-fold-motilal-oswal-lifts-target-price-11786610679031.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/13/1600x900/logo/LENSKART-IPO--4_1761806095666_1761806104825_1786610673714_2a2f2ed0-24ed-4894-90b0-1359478eb942.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFUalJGTm1vMVFtUXhRbmRLVFJDZkF4ampCU2dLTWdhZEFJN3FGUWs",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Lenskart Share Price Today: Rs 649.45, Valuation and Sector",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-price-rise-2026-08-31",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Rises_209_Today_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZhbFZIZWtkcWNVZG5TVzVGVFJDUUF4ai1CU2dLTWdZQlFJYmltZ2s",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Lenskart Shares Slip 3% After ₹2,468 Cr Block Deal",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/lenskart-shares-slip-3-after-%E2%82%B92468-cr-block-deal/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/06/GettyImages-1131044900.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXZja05SYlY5bmVtTkZNamRXVFJERUF4aW5CU2dLTWdrQkFaWURLLWd0QndJ",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Cyril Amarchand Mangaldas advises Morgan Stanley on sale of shares by ADIA in Lenskart",
+   "source": {
+    "name": "SCC Online",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.scconline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.scconline.com/blog/post/2026/09/30/cam-morgan-stanley-adia-lenskart-share-sale/",
+   "thumbnail": "https://blog-images.scconline.com/blobblogscconl28830c17bf/blog/wp-content/uploads/2026/09/CAM-Lenskart-ADIA-Share-Sale-440x293.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZUakJ0UjJSRk0wMTZWMVo0VFJDbEFoaTRBeWdLTWdhUmNvUm9VZ00",
+   "date": "09/30/2026, 10:30 AM, +0000 UTC",
+   "iso_date": "2026-09-30T10:30:34Z"
+  },
+  {
+   "position": 39,
+   "title": "Lenskart Q1 Results: Profit zooms 182% YoY to Rs 228 crore; revenue up 34%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/earnings/lenskart-q1-results-profit-zooms-182-yoy-to-rs-228-crore-revenue-up-34/articleshow/133179868.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133180014,width-1200,height-900,resizemode-4,imgsize-107404/lenskart.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU1iRmRhUm5Kek5GVjBVbVp5VFJEZ0F4aUFCU2dLTWdtQllaYkNKaWc5Q2dJ",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Lenskart shares jump 7% after Q1 results: Should you buy the stock? What brokerages say",
+   "source": {
+    "name": "India Today",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.indiatoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sonu Vivek"
+    ]
+   },
+   "link": "https://www.indiatoday.in/business/market/story/lenskart-share-price-7-percent-jump-q1-results-profit-jumps-brokerages-raise-target-prices-2969981-2026-08-13",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202608/why-are-lenskart-shares-rising-134544946-16x9_0.jpg?VersionId=ndu63_QNpa4g1Bciwsl9rw.xJuMLQA3V&size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jMVozUzBsWmVIRnBibVk1VFJDZkF4ampCU2dLTWdhUmtvaHNNUWM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Volumes soar at Lenskart Solutions Ltd counter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/volumes-soar-at-lenskart-solutions-ltd-counter-126082400312_1.html",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Alpha Wave Ventures sells Lenskart shares worth Rs 1,857 crore; GIC Group pares over 1% stake in Genus...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/alpha-wave-ventures-sells-lenskart-shares-worth-rs-1-857-crore-gic-group-pares-over-1-stake-in-genus-power-infrastructures-14017797.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/08/20260815031131_stocks2.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVekZ1VmtwWloxaEtZalY2VFJDZkF4ampCU2dLTWdZQkFvUm9nZzA",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Lenskart Shares Surge 7% After Q1 Profit Nearly Triples",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/lenskart-shares-rise-after-270-percent-rise-in-net-profit-with-strong-revenue-growth-in-q1fy27-11903073",
+   "thumbnail": "https://c.ndtvimg.com/2026-01/86893e09_WhatsApp-Image-2025-10-30-at-9.01.51-PM.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXVTMmxHZEdsQmRGSnpRaTA0VFJDZkF4ampCU2dLTWdtUllJREhKS2hFdGdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Lenskart shares in focus as 2.3% equity worth Rs 1,960 crore changes hands in block deal",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lenskart-shares-in-focus-as-2-3-equity-worth-rs-1-960-crore-changes-hands-in-block-deal-13946700.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVamQ0Y1hsQ1dtVTFNR2xqVFJDZkF4ampCU2dLTWdZaEZKQ3NGUWc",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Lenskart Solutions Shares Gain 2.26%, Trading at Rs 582.55",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lenskart-solutions-shares-gain-2-26-trading-at-rs-582-55-alpha-article-13999858.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250215043505_rupeegain_dollar.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VWG8yWlZoU1ozTTVORTU1VFJDZkF4ampCU2dLTWdZQmNKQ2pzZ1k",
+   "date": "08/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-10T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Morgan Stanley raises Lenskart target price to Rs 718; bull case implies 41% upside. Here’s why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/morgan-stanley-raises-lenskart-target-price-to-rs-718-bull-case-implies-41-upside-heres-why/articleshow/134580048.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134580382,width-1200,height-900,resizemode-4,imgsize-1984253/morgan-stanley-raises-lenskart-target-price-to-rs-718-bull-case-implies-41-upside-heres-whybr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhWVlp3YWpacGJtVkRhV2hTVFJEZ0F4aUFCU2dLTWdZSlVKSkhKZ2c",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Lenskart shares jump 7% to 52-week high on four-fold Q1 PAT growth, MSCI addition; is foreign business fuelling gains?",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/lenskart-shares-jump-7-to-52-week-high-on-four-fold-q1-pat-growth-msci-addition-is-foreign-business-fuelling-gains/article-198569/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lenskart-ipo-allotment-live-updates-status-gmp-2025.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZObTh5UWtwR1ZrWktkMUphVFJDZkF4ampCU2dLTWdhVmNwWXFNUWM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Lenskart Solutions shares gain after 2.6% equity changes hands in block deals",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer",
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-block-deal-equity-worth-changes-hands-19975271.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/lenskart-2026-08-a305a9a5503192dc6bfa08131610a7d7.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRMlp1VVMxbFdIZFpZMjlrVFJDZkF4ampCU2dLTWdZQkFKWW1FQXM",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Lenskart Solutions Ltd Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/371529/lenskart-solutions-ltd/peer-comparison/",
+   "date": "08/30/2026, 01:00 PM, +0000 UTC",
+   "iso_date": "2026-08-30T13:00:38Z"
+  },
+  {
+   "position": 50,
+   "title": "LENSKART Share Price Today Nears Rs 664 at 52-Week Peak",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-52-week-high-2026-08-24",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_LENSKART_Share_Price_Hits_Fresh_52_Week_High_on_24_August_2026_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU9iRFpWYmpKNFgwVlhTR1V6VFJDUUF4ai1CU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Lenskart Solutions Reports Large Share Transaction Through Market Deal",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/retail/lenskart-solutions-limited-nse-lenskart-sees-large-share-transaction-in-market-disclosure",
+   "thumbnail": "https://www.kalkine.co.in/uploads/articles/featured_image/74486137-87e4-4dd6-abd4-4129c3fe8cfc-25037.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXhOMU5zYzA1SFIwTlpOMWhFVFJERUF4aW5CU2dLTWdrQkVJb0dubWd0TWdF",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "LENSKART Forecast — Price Target — Prediction for 2027",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-LENSKART/forecast-price-target/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/lenskart-solutions-limited--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdPVFEzYkdoMlNVMXJaVEI0VFJDcUJCaXFCQ2dLTWdhSmdaTG9OQWM",
+   "date": "06/25/2026, 07:01 PM, +0000 UTC",
+   "iso_date": "2026-06-25T19:01:25Z"
+  },
+  {
+   "position": 53,
+   "title": "Lenskart shares fall 1.5% after Rs 1,856 crore stake change hands in block deal, Alpha Wave Ventures likel",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-in-focus-as-alpha-wave-ventures-ii-likely-to-sell-stake-worth-rs-1313-crore/articleshow/133582744.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133582775,width-1200,height-900,resizemode-4,imgsize-1977876/lenskart-shares-in-focus-as-alpha-wave-ventures-ii-likely-to-sell-stake-worth-rs-1313-crorebr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhWRVJtY0c1Zk1GUkhkVEJEVFJEZ0F4aUFCU2dLTWdZSlVJeW5yQVU",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Lenskart Block Deal: SVF II Lightbulb likely to sell up to 2.6% stake for approximately $300 million: Sources",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-block-deal-svf-ii-lightbulb-likely-to-stake-300-million-dollars-sources-19974893.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/image-2026-02-678274822fe419fdb052e8b32b892020.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWM05HV1daTE1qVXdSemhmVFJDZkF4ampCU2dLTWdhQlFKQkRvUWM",
+   "date": "08/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-22T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Lenskart Solutions Q1 net profit jumps nearly 4x, revenue surges 43% on broad-based growth",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/lenskart-solutions-share-price-q1-net-profit-jumps-nearly-4x-revenue-surges-43-on-broad-based-growth-19967661.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/lenskart-2026-08-a305a9a5503192dc6bfa08131610a7d7.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRMlp1VVMxbFdIZFpZMjlrVFJDZkF4ampCU2dLTWdZQkFKWW1FQXM",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "SoftBank cuts Lenskart stakes for second time, sells ₹2,888 cr worth shares to Goldman Sachs, Societe Generale, others",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sanchari Ghosh"
+    ]
+   },
+   "link": "https://www.livemint.com/companies/news/softbank-cuts-lenskart-stakes-for-second-time-sells-rs-2-888-cr-worth-shares-to-goldman-sachs-societe-generale-others-11787648539918.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/08/25/1600x900/logo/LENSKART-SOLUTIONS-LISTING--13_1764312778079_1764312793629_1787651039979_c5dff7a6-0739-4c6d-ad35-99a09917b0e0.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJjRlEwWkVkVlZIbHdOamhpVFJDZkF4ampCU2dLTWdZUkFJNkl3Z1E",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Lenskart shares rise up to 4.5% as company sets up new step‑down subsidiary in China",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lenskart-shares-rise-up-to-4-5-as-company-sets-up-new-step-down-subsidiary-in-china-14009049.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/02/20260212064238_lenskart2.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhNbGswU2kwelUydGZNR05pVFJDZkF4ampCU2dLTWdZQlU0UWlvd2c",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Lenskart shares rebound, recover over 5% from day's low after Rs 5,316-crore block deal; over 6% equity...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lenskart-shares-fall-1-percent-after-rs-5-316-crore-block-deal-over-6-equity-changes-hands-13912492.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVamQ0Y1hsQ1dtVTFNR2xqVFJDZkF4ampCU2dLTWdZaEZKQ3NGUWc",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "SVF II Lightbulb disposes 4.5 crore Lenskart shares in open market",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/svf-ii-lightbulb-disposes-4-5-crore-lenskart-shares-open-market/49349863",
+   "thumbnail": "https://news-images.dhan.co/svf-ii-lightbulb-disposes-4-5-crore-lenskart-shares-open-market.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDVaRFl3YTBGU1ZubDJMVTgxVFJDZkF4ampCU2dLTWdNQlVnQQ",
+   "date": "08/27/2026, 04:21 AM, +0000 UTC",
+   "iso_date": "2026-08-27T04:21:51Z"
+  },
+  {
+   "position": 60,
+   "title": "Lenskart stock jumps 5% after Q1 results; Jefferies sees more upside, Citi and HSBC flag rich valuations",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:cb163f23a094b:0-lenskart-stock-jumps-5-after-q1-results-jefferies-sees-more-upside-citi-and-hsbc-flag-rich-valuations/",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Lenskart shares zoom 7% after Q1 results & MSCI inclusion buzz",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/lenskart-shares-zoom-nearly-7-to-fresh-52-week-high-after-strong-q1-results-and-msci-inclusion-buzz/article71339607.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/nkmcbw/article71087684.ece/alternates/LANDSCAPE_1200/2025-11-10T045725Z_334722945_RC26KHAEFRTR_RTRMADP_3_LENSKART-SOLUTIONS-LISTING.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpjV3QwWTIxM01XRXpUa3B1VFJDZkF4ampCU2dLTWdZZEFvenJDUXM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Lenskart Solutions shares hit record high; check price targets, analyst view",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/lenskart-solutions-shares-hit-record-high-check-price-targets-analyst-view-548981-2026-08-13",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a7d7edd8683d-lenskart-reported-a-26924-per-cent-year-on-year-yoy-jump-in-consolidated-net-profit-attributable-132248236-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5jMVozUzBsWmVIRnBibVk1VFJDZkF4ampCU2dLTWdhUmtvaHNNUWM",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Lenskart Solutions - MFs kept buying these 9 largecap stocks for 2 quarters; shares surged up to 50%",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/mfs-kept-buying-these-9-largecap-stocks-for-2-quarters-shares-surged-up-to-50/lenskart-solutions/slideshow/133505329.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133505362,width-480,height-360,imgsize-259600,resizemode-75/mf-favourites.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlTMXBpTTJSRFJuTnNRV3R5VFJEbUFoamdBeWdLTWdhZEVvcU5IUVk",
+   "date": "08/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-25T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Lenskart Solutions Share Price Target 2027 to 2030: Analyst Outlo",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-solutions-share-price-target-2027-2028-2030",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/lenskart-solutions-share-price-target-2027-2028-2030.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5VV015TTNWVldVTkJPV0o2VFJDUUF4ai1CU2dLTWdZQlFKVENtZ2s",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Abu Dhabi Investment Authority sells over 2% stake in Lenskart Solutions",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/abu-dhabi-investment-authority-sells-over-2-stake-in-lenskart-solutions-14034821.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/09/20260905031349_stocks2.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVekZ1VmtwWloxaEtZalY2VFJDZkF4ampCU2dLTWdZQkFvUm9nZzA",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Lenskart Solutions among 4 stocks to hit 52-week highs & surge up to 20% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-20-in-a-month/fresh-highs/slideshow/133468092.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133468092,width-480,height-360,imgsize-123844,resizemode-75/fresh-highs.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxZemRsVkdwV2JEWkxiM0pVVFJEb0FoamdBeWdLTWdhRlVZeElLUVk",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Jefferies, other top brokers raise Lenskart targets after Q4 results; here's why",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-share-price-jefferies-goldman-sachs-other-brokerages-raise-target-prices-after-q4-results-heres-why/articleshow/131241080.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131241142,width-1200,height-900,resizemode-4,imgsize-456316/lenskart-share-price-jefferies-goldman-sachs-other-brokerages-raise-target-prices-after-q4-results-heres-why.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWMHhTVEVOQmJTMVJMWE5hVFJEZ0F4aUFCU2dLTWdZWkk0cE1HUW8",
+   "date": "05/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-21T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "'Powerful Compounding Story': JPMorgan bets on Lenskart but highlights one major risk",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-share-price-target-powerful-compounding-story-jpmorgan-bets-on-stock-but-highlights-one-major-risk-19942438.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/image-2026-07-c861e40b1ddeacd83b8241812794c91f.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJVamw1ZVdrMmVsZG1jVFZ1VFJDZkF4ampCU2dLTWdhTlVZeHhMUWc",
+   "date": "07/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-10T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Results: Lenskart Solutions Limited Exceeded Expectations And The Consensus Has Updated Its Estimates",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/retail/nse-lenskart/lenskart-solutions-shares/news/results-lenskart-solutions-limited-exceeded-expectations-and",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4444000-choice1-main-header/1585186667721?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRlbkZFYjFOeWJrOHhTRmxNVFJDZkF4ampCU2dLTWdhQkFJaHREUWs",
+   "date": "05/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-23T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Lenskart shares in focus as Goldman Sachs, Morgan Stanley, others purchase stake in Rs 1,960 crore block d",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-in-focus-as-goldman-sachs-morgan-stanley-others-purchase-stake-in-rs-1-960-crore-block-deal/articleshow/131672937.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131672933,width-1200,height-900,resizemode-4,imgsize-456316/lenskart-shares-in-focus-as-goldman-sachs-morgan-stanley-others-purchase-stake-in-rs-1-960-crore-block-deal.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdWMHhTVEVOQmJTMVJMWE5hVFJEZ0F4aUFCU2dLTWdZWkk0cE1HUW8",
+   "date": "06/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-12T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Lenskart Q1 profit soars nearly four-fold YoY; India business reports 18% same-store sales growth",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abha Raverkar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/earnings/lenskart-q1-profit-soars-nearly-four-fold-yo-y-india-business-reports-18-same-store-sales-growth-check-june-quarter-numbers/article-198550/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lenskart-q1-results-aug-12.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVRTWFJOU2preU5rdFlZbmhaVFJDZkF4ampCU2dLTWdZVlFwSm9OZ2M",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Lenskart stock gains over 1% as CLSA initiates with 'outperform' rating, bullish on store expansion-led growth",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:132903b13094b:0-lenskart-stock-gains-over-1-as-clsa-initiates-with-outperform-rating-bullish-on-store-expansion-led-growth/",
+   "date": "06/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-01T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Block deals today: Meesho, Lenskart shares to see action; likely selling shareholders, targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/block-deals-today-meesho-lenskart-shares-to-see-action-likely-selling-shareholders-targets-550818-2026-08-24",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8bac8b64023-in-the-case-of-lenskart--there-are-18-buy-calls--three-hold-calls-and-one-sell-call-yet-its-1-24292638-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJSV3ROYjI4M2FYbGtlakl4VFJDZkF4ampCU2dLTWdZVk1JeUpIUWM",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "₹64,000 Crore in Lock-In Shares Free Up This Week: Lenskart Leads",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikki Lodha"
+    ]
+   },
+   "link": "https://www.niftytrader.in/markets/lenskart-leads-64000cr-lockin-unlock/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/05/%E2%82%B964000-Crore-in-Lock-In-Shares-Free-Up-This-Week-Lenskart-Leads-860x451.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNHRNalpsTmpsNU9IVktjMEZ2VFJDUkF4ajlCU2dLTWc0Qk1JUjJGS284dGdoNlk2NllLQQ",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Lenskart Solutions Bull Case vs Bear Case for 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-solutions-share-bull-case-vs-bear-case-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/lenskart-solutions-share-bull-case-vs-bear-case-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdkRmd3ZDJkUlpuUkdUR3BYVFJDUUF4ai1CU2dLTWdZQlFaRGltZ2s",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "LENSKART SOLUTIONS LTD Share Price at Fresh 52-Week High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-52-week-high-2026-08-19",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Hits_Fresh_52_Week_High_bullish-7.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVNjbTV0U25SNU4wRlVlRGhIVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Lenskart Solutions sees Rs 1,862-crore block deal; ADIA likely seller",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-shares-in-focus-as-adia-set-to-sell-stake-in-rs-1944-crore-block-deal/articleshow/131648249.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131648241,width-1200,height-900,resizemode-4,imgsize-15110/lenskart-shares-in-focus-as-adia-set-to-sell-stake-in-rs-1944-crore-block-deal.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFWRzFwV0d4R2IzZDJUMHBmVFJEZ0F4aUFCU2dLTWdZZGhJS05zUUk",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Block deal today: Lenskart stock in focus as 3 crore shares to change hands; key details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/block-deal-today-lenskart-stock-in-focus-as-3-crore-shares-to-change-hands-key-details-556716-2026-09-21",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6ab095b3f092e-lenskart-has-been-seeing-block-deals-of-late--with-the-stock-up-79-per-cent-over-its-ipo-issue-price-2125551-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9PRVUwV25kVU9XaHBMVTFrVFJDZkF4ampCU2dLTWdhUmtvaHNNUWM",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Lenskart share price trades lower after multiple block deal transactions; details here",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/lenskart-share-price-in-focus-after-multiple-block-deal-transactions-details-here/article-193433/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/lenskart-share-price-ipo-issue-price-review-nse-bse.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWhhbU5tY2s1NlZtWjZkbGhrVFJDZkF4ampCU2dLTWdrTmtveHJ2ZVdSTFFJ",
+   "date": "05/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-10T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Lenskart Solutions Block Deal: Equity worth ₹1,857 crore change hands",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/lenskart-solutions-share-price-block-deal-equity-worth-changes-hands-alphawave-likely-seller-19978723.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/image-2026-02-678274822fe419fdb052e8b32b892020.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlWM05HV1daTE1qVXdSemhmVFJDZkF4ampCU2dLTWdhQlFKQkRvUWM",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Lenskart shares surge 7% on Q4 beat; Emkay maintains 'Buy' for 28% upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/lenskart-shares-surge-7-on-q4-beat-emkay-maintains-buy-for-28-upside-126052100303_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-11/04/full/1762275938-4482.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUJlWE16WjNod2FWcHlOVXBrVFJEb0F4ajBCQ2dLTWdtQllZd21MZWVna2dF",
+   "date": "05/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-21T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "LENSKART SOLUTIONS LTD Share Price at Fresh 52-Week High",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-52-week-high-2026-08-18",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_Share_Price_Hits_Fresh_52_Week_High_bullish-6.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWtlRmRKVUdkVWJUYzFUVlpZVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Lenskart Shares Jump 7% To Record High As Brokerages Raise Targets",
+   "source": {
+    "name": "Inc42",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://inc42.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shrishti Bisht"
+    ]
+   },
+   "link": "https://inc42.com/buzz/lenskart-shares-jump-7-to-record-high-as-brokerages-raise-targets/",
+   "thumbnail": "https://inc42.com/cdn-cgi/image/quality=90/https://asset.inc42.com/2025/07/lenskart-FTR-1-760x570.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1NSGRNYkRScmNHODFZMUJhVFJEZ0F4aUFCU2dLTWdZbEpaRE5yUVk",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Lenskart Solutions among 4 stocks to hit 52-week highs & surge up to 25% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/lenskart-solutions-among-4-stocks-to-hit-52-week-highs-amp-surge-up-to-25-in-a-month/fresh-highs/slideshow/133348316.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133348316,width-480,height-360,imgsize-133670,resizemode-75/fresh-highs.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSM0pvU21kelZYTjFTRloxVFJEbUFoamdBeWdLTWdrcFFJenROT1VkYUFJ",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Lenskart block deal: 3.25% equity stake sold for Rs 2,873 crore in large trades; stock falls",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lenskart-block-deal-3-25-equity-stake-sold-for-rs-2-873-crore-in-large-trades-stock-flat-13939264.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/04/20260417114259_lensk.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVamQ0Y1hsQ1dtVTFNR2xqVFJDZkF4ampCU2dLTWdZaEZKQ3NGUWc",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "LENSKART Share Price at Fresh 52-Week High Today",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-52-week-high-2026-08-21",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_LENSKART_Share_Price_Hits_Fresh_52_Week_High_at_Rs_660_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNRa3BmYjBocFZVNWljek51VFJDUUF4ai1CU2dLTWdZQlFJU2puZ2s",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Lenskart Shares Rise 3%, Near 52-Week High After JPMorgan Initiates Bullish Coverage — Check Target Price",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anirudh Saligrama",
+     "Tanmay Tiwary"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/lenskart-shares-rise-3-near-52-week-high-after-jpmorgan-initiates-bullish-coverage-check-target-price-11752174",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/buiocudk_b-by-lenskart-_625x300_20_May_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWxjMUF6VGpaMlVsSlRlR2xEVFJDZkF4ampCU2dLTWdB",
+   "date": "07/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-10T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Lenskart shares fall 3% after big block deal, IPO lock-in expiry worth Rs 51,000 crore",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/ipos/fpos/lenskart-ipo-lock-in-expiry-rs-51000-crore-worth-of-shares-to-free-up-for-trade-today-do-you-own/articleshow/130941737.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130941655,width-1200,height-900,resizemode-4,imgsize-25184/lenskart-ipo-lock-in-expiry-rs-51000-crore-worth-of-shares-to-free-up-for-trade-today-do-you-own.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHRVbVpMTmpsWFlWVXdiVEJNVFJEZ0F4aUFCU2dLTWdrWkU0aUtGYXRVVWdF",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Lenskart Solutions shares gain 2.02%, trades at Rs 619.85",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/lenskart-solutions-shares-gain-2-02-trades-at-rs-619-85-alpha-article-14008531.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241027112256_market13.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFYMWxWZWs5T1dIWmpha1Z3VFJDZkF4ampCU2dLTWdZRlVZeG1NZ1U",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Lenskart Shares Dip as ADIA Arm Offloads Stake in Rs 1,960 Cr Block Deal",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/lenskart-shares-dip-as-adia-arm-offloads-stake-in-rs-1960-cr-block-deal/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2021/07/Lenskart_EP.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFYMlZIWjFwWE9FaDJlbkpPVFJDV0F4ajBCU2dLTWdZRkFLcUZoQXc",
+   "date": "06/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-11T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Lenskart Solutions shares rise over 2% to Rs 641.70",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:b81324333094b:0-lenskart-solutions-shares-rise-over-2-to-rs-641-70/",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Lenskart Solutions Share Price Target 2026: Rs 600 Analyst Forecast",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-solutions-share-price-target-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Lenskart-Solutions-Share-Price-Target-2026-Analyst-Forecast-Bull-and-Bear-Case.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNU5PWGR6Y1RRNWVHdHVXVVJqVFJDZUF4amxCU2dLTWdB",
+   "date": "06/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-23T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Lenskart Solutions block deal: ADIA-backed investor likely to offload 1.7% stake: Report",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/lenskart-solutions-block-deal-adia-backed-investor-likely-to-offload-1-7-stake-report-11789738853707.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/18/1600x900/LENSKART-IPO--5_1761632068943_1761632084325_1789738966586_lBHb_e5b54c7b-2f46-4fc9-917a-2a916bde269a_T3hu.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWFhbEJrYTFKRVoyRjNNMEpVVFJDZkF4ampCU2dLTWdZNVE1cFJvUWc",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "LENSKART Share Price Today: Price Action and Fundamentals",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-lenskart-solutions-ltd-share-price-52-week-high-2026-08-20",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/LENSKART_SOLUTIONS_LTD_LENSKART_LENSKART_Share_Price_Hits_Fresh_52_Week_High_at_Rs_64755_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVhak0xU1VOd1UxRlJaV1JUVFJDUUF4ai1CU2dLTWdZQlFJeWpIZ2s",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Lenskart Solutions - FIIs raise stakes in 14 stocks in Q1; shares rally up to 75% in less than 3 months",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/fiis-raise-stakes-in-14-stocks-in-q1-shares-rally-up-to-75-in-less-than-3-months/lenskart-solutions/slideshow/134383088.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134383306,width-480,height-360,imgsize-139354,resizemode-75/foreign-flow.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZWMHRCVlhWb1RHWmtaMFp2VFJEb0FoamdBeWdLTWdZQm9JcG9UZ1U",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Lenskart Share Price Falls After Block Deal: 3.25% Equity Stake Sold for Rs 2,873 Crore",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/lenskart-share-price-block-deal-3-25-percent-rs-2873-crore-june-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Lenskart-Share-Price-Falls-on-Block-Deal.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUVXRwWVhaVGJUQlFWbTR0VFJDZUF4amxCU2dLTWdhTklZUEhXQUk",
+   "date": "06/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-03T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Lenskart Shares Slide 2.83% as Block Deal Triggers Lock-In Exit",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/lenskart-shares-slide-2-83-as-block-deal-triggers-lock-in-exit/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/03/Lenskart-Raises-500-Million-from-Abu-Dhabi-Investment-Authority-at-4.5-Billion-Valuation-EP.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFWRWh4VlRaNWRWODBVVUpUVFJEZ0F4aUFCU2dLTWdZSmdvb1FzUVk",
+   "date": "05/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-08T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Lenskart block deal: 2.95 crore shares sold for Rs 1,857 crore at Rs 630 apiece",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/lenskartlenskart-block-deal-2-95-crore-shares-sold-for-rs-1-857-crore-at-rs-630-apiece-14017371.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251104105852_lenskart1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhaMk5RVG1SSFZGVndWMWhPVFJDZkF4ampCU2dLTWdhZEVvN3JFUWs",
+   "date": "08/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-28T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Lenskart Solutions Share Price Snaps 3-Day Losing Streak",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/lenskart-solutions-share-price-snaps-losing-streak-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/lenskart-solutions-share-price-snaps-losing-streak-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBNRXQ1UVdGeU1rZHFXR2RuVFJDUUF4ai1CU2dLTWdtQk1KckRHbW85aUFJ",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Lenskart Solutions Block Deal: Platinum Jasmine likely to sell 1.7% stake for ₹2,047 crore",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vivek Iyer",
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/lenskart-solutions-share-price-block-deal-platinum-jasmine-likely-to-sell-1-7-stake-for-rs-2047-crore-19993829.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/lenskart-2026-08-a305a9a5503192dc6bfa08131610a7d7.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJRMlp1VVMxbFdIZFpZMjlrVFJDZkF4ampCU2dLTWdZQkFKWW1FQXM",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:18"
+}

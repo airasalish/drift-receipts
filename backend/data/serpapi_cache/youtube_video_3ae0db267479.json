@@ -1,0 +1,709 @@
+{
+ "search_metadata": {
+  "id": "6acaab570a91563fac087ff4",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/jXHnB-br-fJmDr56GTFrN08tbDSt7nvk5dUuduqtkdI/6acaab570a91563fac087ff4.json",
+  "markdown_endpoint": "https://serpapi.com/searches/jXHnB-br-fJmDr56GTFrN08tbDSt7nvk5dUuduqtkdI/6acaab570a91563fac087ff4.md",
+  "created_at": "2026-10-10 21:17:11 UTC",
+  "processed_at": "2026-10-10 21:17:11 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=BeVw7UH_i9U",
+  "raw_html_file": "https://serpapi.com/searches/jXHnB-br-fJmDr56GTFrN08tbDSt7nvk5dUuduqtkdI/6acaab570a91563fac087ff4.html",
+  "prettify_html_file": "https://serpapi.com/searches/jXHnB-br-fJmDr56GTFrN08tbDSt7nvk5dUuduqtkdI/6acaab570a91563fac087ff4.prettify",
+  "total_time_taken": 1.71
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "BeVw7UH_i9U",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "How to Start Investing in Share Market? How to Make Money from Stock Market Trading?",
+ "thumbnail": "https://i.ytimg.com/vi/BeVw7UH_i9U/maxresdefault.jpg",
+ "channel": {
+  "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+  "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+  "subscribers": "15.4M subscribers",
+  "extracted_subscribers": 15400000,
+  "verified": true
+ },
+ "views": "16,336,363 views",
+ "extracted_views": 16336363,
+ "likes": "632K",
+ "extracted_likes": 632000,
+ "published_date": "Premiered Mar 21, 2022",
+ "description": {
+  "content": "🔗Open Free Demat Account on Lemonn:\n https://lemonn.co.in/affiliate-deepli...\n\n👉 Use Referral Code: 2ydcwi\n\n*****************************************************************\n\nStart Investing in the Share Market: 👉 Open a Free Demat Account on Upstox: https://upstox.com/open-account/?f=2YPX\n\nNO AMC Charges for Lifetime. Start earning up to Rs 1200 per referral.\n\n*****************************************************************\n\n👉 Open Free Demat Account on Fyers: https://bit.ly/FyersAcc\n\nFyers charting platform is powered by Tradingview Inc. You can trade from charts, get the most popular technical indicators, drawing tools, multiple charts, and many other functions.\n\n#Investment #ShareMarket #StockMarket \n\n***************************************************************** \n\n\nAbout Pushkar Raj Thakur :\n\nPushkar Raj Thakur is India's Leading Educator & Business Coach. He is a Guinness World Record Holder for the Largest Financial Investment Lesson and largest Social Media Marketing Lesson. With Millions of  Followers on all major Social Media Platforms, he is known for his versatile knowledge of Financial Education, the Stock Market, Personal Mastery, Sales, Marketing, Human Psychology and Business Development.\n\nNISM Certified Research Analyst\n\nNISM Certified Mutual Fund Distributor\n\nIRDA Certified\n\nFollow us on:\n\n👉 Telegram: https://t.me/PushkarRajThakurOfficial\n\n👉 WhatsApp: https://whatsapp.com/channel/0029Va93...\n\n👉 Facebook:   / pushkarrajthakurofficialpage  \n\n👉 Instagram: https://www.instagram.com/pushkarrajt...\n\n👉 YouTube:    / @pushkarrajthakurofficial    \n\n👉 Twitter: https://x.com/PushkarRThakur\n\n👉 LinkedIn:   / pushkarrajthakur  \n\n👉 Website: http://www.pushkarrajthakur.com\n\nTo Join Our Courses Call @ 9873 99 89 89",
+  "links": [
+   {
+    "start_index": 38,
+    "length": 40,
+    "text": "ttps://lemonn.co.in/affiliate-deepli...\n",
+    "url": "https://lemonn.co.in/affiliate-deeplink?data=2ydcwi"
+   },
+   {
+    "start_index": 254,
+    "length": 39,
+    "text": "ps://upstox.com/open-account/?f=2YPX\n\nN",
+    "url": "https://upstox.com/open-account/?f=2YPX"
+   },
+   {
+    "start_index": 471,
+    "length": 23,
+    "text": "s://bit.ly/FyersAcc\n\nFy",
+    "url": "https://bit.ly/FyersAcc"
+   },
+   {
+    "start_index": 680,
+    "length": 11,
+    "text": "estment #Sh",
+    "url": "https://www.youtube.com/hashtag/investment",
+    "type": "browse"
+   },
+   {
+    "start_index": 692,
+    "length": 12,
+    "text": "reMarket #St",
+    "url": "https://www.youtube.com/hashtag/sharemarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 705,
+    "length": 12,
+    "text": "ckMarket \n\n*",
+    "url": "https://www.youtube.com/hashtag/stockmarket",
+    "type": "browse"
+   },
+   {
+    "start_index": 1350,
+    "length": 37,
+    "text": "://t.me/PushkarRajThakurOfficial\n\n👉 W",
+    "url": "https://t.me/PushkarRajThakurOfficial"
+   },
+   {
+    "start_index": 1402,
+    "length": 40,
+    "text": "//whatsapp.com/channel/0029Va93...\n\n👉 Fa",
+    "url": "https://whatsapp.com/channel/0029Va93QRy6rsQt2546Eu0S"
+   },
+   {
+    "start_index": 1457,
+    "length": 34,
+    "text": "hkarrajthakurofficialpage  \n\n👉 Ins",
+    "url": "https://www.facebook.com/pushkarrajthakurofficialpage/"
+   },
+   {
+    "start_index": 1507,
+    "length": 40,
+    "text": "www.instagram.com/pushkarrajt...\n\n👉 YouT",
+    "url": "https://www.instagram.com/pushkarrajthakur?igsh=aHc4ZHlnM3g5b2Nx"
+   },
+   {
+    "start_index": 1561,
+    "length": 32,
+    "text": "hkarrajthakurofficial    \n\n👉 Twi",
+    "url": "https://www.youtube.com/channel/UCEAAzv2OBqxsSczKJ2QZyGQ",
+    "type": "channel"
+   },
+   {
+    "start_index": 1609,
+    "length": 28,
+    "text": "com/PushkarRThakur\n\n👉 Linked",
+    "url": "https://x.com/PushkarRThakur"
+   },
+   {
+    "start_index": 1652,
+    "length": 22,
+    "text": "rajthakur  \n\n👉 Website",
+    "url": "https://www.linkedin.com/in/pushkarrajthakur/"
+   },
+   {
+    "start_index": 1688,
+    "length": 31,
+    "text": "ushkarrajthakur.com\n\nTo Join Ou",
+    "url": "http://www.pushkarrajthakur.com/"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "mOyfgIU-shw",
+   "link": "https://www.youtube.com/watch?v=mOyfgIU-shw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mOyfgIU-shw",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/mOyfgIU-shw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGr_wNEHcQU7t2-PLM-qqmxcW6IA",
+    "rich": "https://i.ytimg.com/an_webp/mOyfgIU-shw/mqdefault_6s.webp?du=3000&sqp=CLSsqtYG&rs=AOn4CLBUWiugOkKGVSyrR2hjOTeWEwC9ag"
+   },
+   "title": "Best Software to Identify Stock Market will Rise or Fall? Share Market Trading Secrets to Make Money",
+   "published_date": "4y ago",
+   "views": "6.1M",
+   "extracted_views": 6100000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "EVlQgmirnCg",
+   "link": "https://www.youtube.com/watch?v=EVlQgmirnCg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EVlQgmirnCg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/EVlQgmirnCg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDueeyaGrHd0BeY0gjmgCI17wpIHg",
+    "rich": "https://i.ytimg.com/an_webp/EVlQgmirnCg/mqdefault_6s.webp?du=3000&sqp=CKDLqtYG&rs=AOn4CLAx409c57K2Bc4Q1vOm3fsa4hV0Rg"
+   },
+   "title": "Free Complete Candlestick Patterns Course | Episode 1 | All Single Candlesticks | Technical Analysis",
+   "published_date": "4y ago",
+   "views": "31M",
+   "extracted_views": 31000000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+    "rich": "https://i.ytimg.com/an_webp/kDh89kb2t6w/mqdefault_6s.webp?du=3000&sqp=CLCnqtYG&rs=AOn4CLCUF3VvRtt_pHkngRyymek7fugv8w"
+   },
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4mo ago",
+   "views": "2M",
+   "extracted_views": 2000000,
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha",
+    "thumbnail": "https://yt3.ggpht.com/ytoC1VtIKnTXa9nNZTZ5ecVhAUo0um9nWTNtMemSZ3MqaCTMZLFDQNzu7sN81cMy6_0GRQB2=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wcl-QcI-UNE",
+   "link": "https://www.youtube.com/watch?v=wcl-QcI-UNE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wcl-QcI-UNE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wcl-QcI-UNE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvnWqQOFqbi7DHjesj34Q6uwbr0w",
+    "rich": "https://i.ytimg.com/an_webp/wcl-QcI-UNE/mqdefault_6s.webp?du=3000&sqp=CPK3qtYG&rs=AOn4CLAhkYVkNKs-MivSPDNx42JNRuFkRg"
+   },
+   "title": "9 Ways to Make Money 💰 (Aaj Se Start Karo!)",
+   "published_date": "3w ago",
+   "views": "92K",
+   "extracted_views": 92000,
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt",
+    "thumbnail": "https://yt3.ggpht.com/tshOpNCH4FMEbaNpsGa--1A15qZ_yqG_OUKIxvgdJ3gXrkNfkNmmV_JtA-J9Aj5dZtLbp0fKaw=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "p9eoEFtNu1A",
+   "link": "https://www.youtube.com/watch?v=p9eoEFtNu1A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=p9eoEFtNu1A",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/p9eoEFtNu1A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh3Ljt7vXpbUPDW8w7C2e1ZwqYhw",
+    "rich": "https://i.ytimg.com/an_webp/p9eoEFtNu1A/mqdefault_6s.webp?du=3000&sqp=CICcqtYG&rs=AOn4CLDEzLS6YIJMHio-avud0L8b3bPFcw"
+   },
+   "title": "Rich Dad Poor Dad Explained : 7 Rules of Money (Documentary)",
+   "published_date": "3mo ago",
+   "views": "2.3M",
+   "extracted_views": 2300000,
+   "channel": {
+    "name": "Swaroop Singh Rajput",
+    "link": "https://www.youtube.com/@SwaroopSinghRajput",
+    "thumbnail": "https://yt3.ggpht.com/9996_RRXmsig8S42jT3v7LgZ5SPoFs53obYbcg-KQQsy4gRUWvupKqS12NmfS0-vkFPHS4pyCg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Lg5rUbqfRVA",
+   "link": "https://www.youtube.com/watch?v=Lg5rUbqfRVA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lg5rUbqfRVA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Lg5rUbqfRVA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiuswjZuvR4_KoPAPxgR727wN8Fg",
+    "rich": "https://i.ytimg.com/an_webp/Lg5rUbqfRVA/mqdefault_6s.webp?du=3000&sqp=CNCkqtYG&rs=AOn4CLBxfuTIJnSgrPe15RLQMPLojj8HJA"
+   },
+   "title": "How to Choose the Right Stocks for Investment? | Fundamental Analysis | #ShareMarket Tips & Tricks🔥",
+   "published_date": "5y ago",
+   "views": "4.2M",
+   "extracted_views": 4200000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "x63HCoDfAhQ",
+   "link": "https://www.youtube.com/watch?v=x63HCoDfAhQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x63HCoDfAhQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/x63HCoDfAhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIft_RyT0li9tUn9BRtzmJAxYGHg",
+    "rich": "https://i.ytimg.com/an_webp/x63HCoDfAhQ/mqdefault_6s.webp?du=3000&sqp=CPjAqtYG&rs=AOn4CLC9_a31TNUHKJDdFhqDn8y7y6GiPA"
+   },
+   "title": "Protecting the President: Security, VIP Threats & ADC Life | Major Rishabh | FO560 Raj Shamani",
+   "published_date": "1mo ago",
+   "views": "34M",
+   "extracted_views": 34000000,
+   "channel": {
+    "name": "Raj Shamani and Rishabh Singh Sambyal ",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "3wWI0S37OaE",
+   "link": "https://www.youtube.com/watch?v=3wWI0S37OaE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3wWI0S37OaE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3wWI0S37OaE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfjFK9k_D5pIY5EvAv5tsmK01p1g",
+    "rich": "https://i.ytimg.com/an_webp/3wWI0S37OaE/mqdefault_6s.webp?du=3000&sqp=CNStqtYG&rs=AOn4CLAhMgGmj-N-UvOjuCi3t-lYTPDDmA"
+   },
+   "title": "Share Market क्या है? | Basics Of Stock Market | Sagar Sinha",
+   "published_date": "1y ago",
+   "views": "440K",
+   "extracted_views": 440000,
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily",
+    "thumbnail": "https://yt3.ggpht.com/H76uFnYJAVRJuoaziomvW96Wmjj5rta6NQ5pBCxqPgJmnQ_EJvvvaLY4G8WWLheRl-10KBOO7g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "7orpIslLZjE",
+   "link": "https://www.youtube.com/watch?v=7orpIslLZjE&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7orpIslLZjE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/7orpIslLZjE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1wq9y2y7p_9c6VO6neVQ8yzevQQ",
+    "rich": "https://i.ytimg.com/an_webp/7orpIslLZjE/mqdefault_6s.webp?du=3000&sqp=CK3AqtYG&rs=AOn4CLCyq5PLGgwTqB02GXOSNDZ3CBZwwQ"
+   },
+   "title": "Complete Financial Education जो आपका दिमाग हिला देगी | Rich Vs Poor Mindset",
+   "published_date": "5y ago",
+   "views": "8.7M",
+   "extracted_views": 8700000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "XBOGd67BJks",
+   "link": "https://www.youtube.com/watch?v=XBOGd67BJks&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XBOGd67BJks",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XBOGd67BJks/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCx413TBW4Yw2m-8MG3w8ov2O2X5A",
+    "rich": "https://i.ytimg.com/an_webp/XBOGd67BJks/mqdefault_6s.webp?du=3000&sqp=CI_WqtYG&rs=AOn4CLCW8cpmFYIWPVfHHlj6LYsxbQuHVw"
+   },
+   "title": "If You Only Have $50, Do This Every Morning (The 3R Rule)",
+   "published_date": "3w ago",
+   "views": "688K",
+   "extracted_views": 688000,
+   "channel": {
+    "name": "The Rumers",
+    "link": "https://www.youtube.com/@the.rumers",
+    "thumbnail": "https://yt3.ggpht.com/r8JHYRhKpToBruTHwjO_NSswGnBRXMaiISNfWWzGZTIpm35_o6dyhRmsgBjHjRP1Jle160_V1g=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "85jzwhOd96U",
+   "link": "https://www.youtube.com/watch?v=85jzwhOd96U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85jzwhOd96U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/85jzwhOd96U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA60DJFLfEC5cmb6xSCN88tAkZVlA",
+    "rich": "https://i.ytimg.com/an_webp/85jzwhOd96U/mqdefault_6s.webp?du=3000&sqp=COXUqtYG&rs=AOn4CLBfOnSaSnuzIlnrhR8Fcm749i26Bg"
+   },
+   "title": "SIP क्या होती है? SIP कैसे करें? | Complete Beginner's Guide | Sagar Sinha Money Bytes",
+   "published_date": "2mo ago",
+   "views": "273K",
+   "extracted_views": 273000,
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte",
+    "thumbnail": "https://yt3.ggpht.com/fu8C3Km3tEJhOCmhxJ1LziTQy1nA-TyV_QI2wec4yogEwBwwlHqEarlZSygN3dB9_a0gNH4Lpg=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "rxjkAwHb0Yo",
+   "link": "https://www.youtube.com/watch?v=rxjkAwHb0Yo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rxjkAwHb0Yo",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/rxjkAwHb0Yo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbfLo1rQAMYd_06PXoOuwvnqJipw",
+    "rich": "https://i.ytimg.com/an_webp/rxjkAwHb0Yo/mqdefault_6s.webp?du=3000&sqp=CMa7qtYG&rs=AOn4CLBZJKtLKTANZRVJPkB9FFhno2lLeQ"
+   },
+   "title": "Trading में 93% लोगों को Loss क्यों होता है? जानिए असली वजह! | @DeepakWadhwa.OFFICIAL | SKT",
+   "published_date": "1mo ago",
+   "views": "128K",
+   "extracted_views": 128000,
+   "channel": {
+    "name": "SKT PODCAST HITS",
+    "link": "https://www.youtube.com/@sktpodcasthits",
+    "thumbnail": "https://yt3.ggpht.com/ZPetwASu79G1tzxnVUQaK6eKKr5KzVlwaOLfm9_MlrxSCQUzv4niuQOJdKzWo1jLu56Rq81S=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "yOh3F_shOXo",
+   "link": "https://www.youtube.com/watch?v=yOh3F_shOXo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yOh3F_shOXo",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/yOh3F_shOXo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBKsqgS-5gFKNqOwH3YVSEEya1KBw",
+    "rich": "https://i.ytimg.com/an_webp/yOh3F_shOXo/mqdefault_6s.webp?du=3000&sqp=CI7CqtYG&rs=AOn4CLAVQ-w-hoat6OzoQ1fywzsRlN-8Ag"
+   },
+   "title": "How to Earn Money by House Flipping | My New Real Estate Business Explained",
+   "published_date": "4d ago",
+   "views": "209K",
+   "extracted_views": 209000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "oi2kEco1tFk",
+   "link": "https://www.youtube.com/watch?v=oi2kEco1tFk&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=oi2kEco1tFk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/oi2kEco1tFk/hqdefault_custom_2.jpg?sqp=CNTVqtYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBx-i4ktKKWRMuwt3tl9WU4sQznsQ",
+    "rich": "https://i.ytimg.com/an_webp/oi2kEco1tFk/mqdefault_6s.webp?du=3000&sqp=CN7UqtYG&rs=AOn4CLDhp4u_hf-Qj_yTpbqSf_VS1xRkRg"
+   },
+   "title": "JANITOR vs THE BIGGEST GUYS IN THE GYM. Nobody Expected THIS",
+   "published_date": "8h ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "ANATOLY",
+    "link": "https://www.youtube.com/@vladimirfitness",
+    "thumbnail": "https://yt3.ggpht.com/08HfDUT54rSPU2tHruPVN45roDrYEmLl9rurnd4Ta6gu7Wbtu_jed9c3JVQLGUx28UIW_cR3=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "L_iJCNzDe-s",
+   "link": "https://www.youtube.com/watch?v=L_iJCNzDe-s",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=L_iJCNzDe-s",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/L_iJCNzDe-s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDkiZF1pYj7QCu6MvzY7vY9pm_1MQ",
+    "rich": "https://i.ytimg.com/an_webp/L_iJCNzDe-s/mqdefault_6s.webp?du=3000&sqp=CMmsqtYG&rs=AOn4CLB1dg6kKthwTDJMqNT0sDIpZ1ulSA"
+   },
+   "title": "Share Market का सम्पूर्ण ज्ञान | Nifty | Share Market | Dr Vivek Bindra",
+   "published_date": "7y ago",
+   "views": "46M",
+   "extracted_views": 46000000,
+   "channel": {
+    "name": "Dr. Vivek Bindra: Motivational Speaker",
+    "link": "https://www.youtube.com/@MrVivekBindra",
+    "thumbnail": "https://yt3.ggpht.com/4NALdpwvtRH9YLmwto0rLf7BJllOb66gptdRXMldvMJy8aBbZR_0QP9SHRsxBc9h-48MZ_TCHg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "YfnWUCDQ3aM",
+   "link": "https://www.youtube.com/watch?v=YfnWUCDQ3aM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YfnWUCDQ3aM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YfnWUCDQ3aM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA3WeZCo4nWsyBNmnzRzCNzmdnIFw",
+    "rich": "https://i.ytimg.com/an_webp/YfnWUCDQ3aM/mqdefault_6s.webp?du=3000&sqp=CK_OqtYG&rs=AOn4CLCbuaCEM3EQdeV2yKpSiMZUqoenuQ"
+   },
+   "title": "Deepak Wadhwa Trading Strategy : 20 हजार रूपए से कैसे बनें करोड़पति ? | Stock Market| Ardhsatya",
+   "published_date": "2y ago",
+   "views": "335K",
+   "extracted_views": 335000,
+   "channel": {
+    "name": "India News",
+    "link": "https://www.youtube.com/@IndiaNews",
+    "thumbnail": "https://yt3.ggpht.com/3TJyhaV3F6d8bOjx4uWZVxlQZ2OjxNgOMfpRUuYNTZFRN5BxDR-i68VKpswH1Pe576tsVdqEkA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "giGznZfKFC0",
+   "link": "https://www.youtube.com/watch?v=giGznZfKFC0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=giGznZfKFC0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/giGznZfKFC0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkcxTeH_Ap3XWU8vl_8iKtS7NUFQ",
+    "rich": "https://i.ytimg.com/an_webp/giGznZfKFC0/mqdefault_6s.webp?du=3000&sqp=CJDTqtYG&rs=AOn4CLAMAZQqNMSVEA3DF_f1nO1KVvileg"
+   },
+   "title": "Learn Candlestick Patterns Completely (Free Course)",
+   "published_date": "3w ago",
+   "views": "81K",
+   "extracted_views": 81000,
+   "channel": {
+    "name": "Trading with Groww",
+    "link": "https://www.youtube.com/@TradingwithGroww",
+    "thumbnail": "https://yt3.ggpht.com/EbEXSYPSt6usN22sBWNXh4XOpxkyEivpbfSMmaTbmuDsI5uLg9BRsvHaadX67hEK8fCKhRLc=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "G_hCbKbMG5o",
+   "link": "https://www.youtube.com/watch?v=G_hCbKbMG5o",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G_hCbKbMG5o",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/G_hCbKbMG5o/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_WPxleNyU6hp1mEuzgMRkuiyCWA",
+    "rich": "https://i.ytimg.com/an_webp/G_hCbKbMG5o/mqdefault_6s.webp?du=3000&sqp=CLq-qtYG&rs=AOn4CLDbvwUp5CSgOtT9eHx4NcFWvzcbrg"
+   },
+   "title": "Stock Market Scam Story THE BULL OF DALAL STREET 2020 Hindi Full Movie HD | Iqbal Khan, Ashmit Patel",
+   "published_date": "5mo ago",
+   "views": "939K",
+   "extracted_views": 939000,
+   "channel": {
+    "name": "Ultra Movie Hub",
+    "link": "https://www.youtube.com/@ultramoviehub",
+    "thumbnail": "https://yt3.ggpht.com/C2e8IkzOrPnckOPsy8RjDuS-fGjPxuOyyVcfwsrh_P4FP8gvGWs0zk8gHEEyho-0M4S30anFIQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "GAr-2Cw4LIQ",
+   "link": "https://www.youtube.com/watch?v=GAr-2Cw4LIQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GAr-2Cw4LIQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GAr-2Cw4LIQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB_W4yUu4YRq5bUtYWL3gyEj7Pn0A",
+    "rich": "https://i.ytimg.com/an_webp/GAr-2Cw4LIQ/mqdefault_6s.webp?du=3000&sqp=COSpqtYG&rs=AOn4CLAugrmMXO035cJz7VqPKuC47IONYg"
+   },
+   "title": "The 9:15 AM Options Strategy (Stupid, Simple and Proven) | Ft. Rajesh Jain",
+   "published_date": "2mo ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "Upsurge Club",
+    "link": "https://www.youtube.com/@Upsurge_club",
+    "thumbnail": "https://yt3.ggpht.com/lCs-2XaS_unNd0HRQL6Vxi1bdl4tboIKSed47SrokUIaDveBeKSGyARay_hRKvb9SpsPZDmwdQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "CVYVcRWRKsQ",
+   "link": "https://www.youtube.com/watch?v=CVYVcRWRKsQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=CVYVcRWRKsQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/CVYVcRWRKsQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDNbP89qFzOhGTZbKFgIUecR-M1ow",
+    "rich": "https://i.ytimg.com/an_webp/CVYVcRWRKsQ/mqdefault_6s.webp?du=3000&sqp=CMzRqtYG&rs=AOn4CLB_NQ05JpTp6O12_9UD2cRjXfBiNg"
+   },
+   "title": "Option Trading Best Strategy | Option Chain Analysis for Intraday Trading in Stock Market",
+   "published_date": "4y ago",
+   "views": "1.9M",
+   "extracted_views": 1900000,
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial",
+    "thumbnail": "https://yt3.ggpht.com/mjU_SIImLu8ACXityIkq4frVwtmVKEEyiWLUSO1OoxaIP7RekmrEPNSfxwXZsE6F2xoOTfSIMqg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILQmVWdzdVSF9pOVXAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqngZNZ29JeE5YRXJKR3VoYXNKMnM2TDZ3ekRCQXJBQkFvRDhqNEFDZzdDUGdzSW5PVDZxWWp3cF9hWUFRb0Q4ajRBQ2czQ1Bnb0lxTGl1eGFhUTFLd1JDZ1B5UGdBS0RzSS1Dd2lzNzlxMzVKNmZuSkFCQ2dQeVBnQUtEc0ktQ3dqUm9mbVJuTWpmNU1FQkNnUHlQZ0FLRHNJLUN3alE5cmJhaFlMcTY2Y0JDZ1B5UGdBS0RjSS1DZ2pRaXYzVW0tcWFoeTRLQV9JLUFBb093ajRMQ0pTRV9JYW80ZkhXeHdFS0FfSS1BQW9Pd2o0TENLSHo3Ty1TbXVLQzN3RUtBX0ktQUFvT3dqNExDTEhNcmNxc3BMckY3Z0VLQV9JLUFBb053ajRLQ012TWhQYjZ6dUdKWEFvRDhqNEFDZzdDUGdzSXBlXzNuS0g0dk16ekFRb0Q4ajRBQ2c3Q1Bnc0lpcVB2anJDQXVZeXZBUW9EOGo0QUNnN0NQZ3NJLXZLRTJmX2luZlRJQVFvRDhqNEFDZzdDUGdzSTJlalcwWnlDNlphaUFRb0Q4ajRBQ2czQ1Bnb0k2X2VONW8yaG92d3ZDZ1B5UGdBS0RjSS1DZ2lqdThPR2dzcjFfR0VLQV9JLUFBb093ajRMQ0syb3FMN1o4LXlRZ2dFS0FfSS1BQW9Od2o0S0NKcTNzTGJLelpEOEd3b0Q4ajRBQ2czQ1Bnb0loTm5nNFlMYnY0VVlDZ1B5UGdBS0RjSS1DZ2pFMWNTc2thNkZxd2tTRkFBQ0JBWUlDZ3dPRUJJVUZoZ2FIQjRnSWlRbUdnUUlBQkFCR2dRSUFoQURHZ1FJQkJBRkdnUUlCaEFIR2dRSUNCQUpHZ1FJQ2hBTEdnUUlEQkFOR2dRSURoQVBHZ1FJRUJBUkdnUUlFaEFUR2dRSUZCQVZHZ1FJRmhBWEdnUUlHQkFaR2dRSUdoQWJHZ1FJSEJBZEdnUUlIaEFmR2dRSUlCQWhHZ1FJSWhBakdnUUlKQkFsR2dRSUpoQW5LaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmdqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "mOyfgIU-shw",
+   "link": "https://www.youtube.com/watch?v=mOyfgIU-shw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mOyfgIU-shw",
+   "thumbnail": "https://i.ytimg.com/vi/mOyfgIU-shw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDGr_wNEHcQU7t2-PLM-qqmxcW6IA",
+   "title": "Best Software to Identify Stock Market will Rise or Fall? Share Market Trading Secrets to Make Money",
+   "published_date": "4 years ago",
+   "views": "6.1M views",
+   "extracted_views": 6100000,
+   "length": "21:26",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "EVlQgmirnCg",
+   "link": "https://www.youtube.com/watch?v=EVlQgmirnCg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EVlQgmirnCg",
+   "thumbnail": "https://i.ytimg.com/vi/EVlQgmirnCg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDueeyaGrHd0BeY0gjmgCI17wpIHg",
+   "title": "Free Complete Candlestick Patterns Course | Episode 1 | All Single Candlesticks | Technical Analysis",
+   "published_date": "4 years ago",
+   "views": "31M views",
+   "extracted_views": 31000000,
+   "length": "43:04",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "kDh89kb2t6w",
+   "link": "https://www.youtube.com/watch?v=kDh89kb2t6w",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kDh89kb2t6w",
+   "thumbnail": "https://i.ytimg.com/vi/kDh89kb2t6w/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBrsbNXv4Zj2kTrG_WnQbv_21Ocrw",
+   "title": "FREE Trading Course | How To Start Trading | Class -1 | SAGAR SINHA",
+   "published_date": "4 months ago",
+   "views": "2M views",
+   "extracted_views": 2000000,
+   "length": "43:22",
+   "channel": {
+    "name": "Sagar Sinha ",
+    "link": "https://www.youtube.com/@coachsagarsinha"
+   }
+  },
+  {
+   "video_id": "wcl-QcI-UNE",
+   "link": "https://www.youtube.com/watch?v=wcl-QcI-UNE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wcl-QcI-UNE",
+   "thumbnail": "https://i.ytimg.com/vi/wcl-QcI-UNE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvnWqQOFqbi7DHjesj34Q6uwbr0w",
+   "title": "9 Ways to Make Money 💰 (Aaj Se Start Karo!)",
+   "published_date": "3 weeks ago",
+   "views": "92K views",
+   "extracted_views": 92000,
+   "length": "43:28",
+   "channel": {
+    "name": "Learn With PRT",
+    "link": "https://www.youtube.com/@learnwithprt"
+   }
+  },
+  {
+   "video_id": "p9eoEFtNu1A",
+   "link": "https://www.youtube.com/watch?v=p9eoEFtNu1A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=p9eoEFtNu1A",
+   "thumbnail": "https://i.ytimg.com/vi/p9eoEFtNu1A/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDh3Ljt7vXpbUPDW8w7C2e1ZwqYhw",
+   "title": "Rich Dad Poor Dad Explained : 7 Rules of Money (Documentary)",
+   "published_date": "3 months ago",
+   "views": "2.3M views",
+   "extracted_views": 2300000,
+   "length": "26:22",
+   "channel": {
+    "name": "Swaroop Singh Rajput",
+    "link": "https://www.youtube.com/@SwaroopSinghRajput"
+   }
+  },
+  {
+   "video_id": "Lg5rUbqfRVA",
+   "link": "https://www.youtube.com/watch?v=Lg5rUbqfRVA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Lg5rUbqfRVA",
+   "thumbnail": "https://i.ytimg.com/vi/Lg5rUbqfRVA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDiuswjZuvR4_KoPAPxgR727wN8Fg",
+   "title": "How to Choose the Right Stocks for Investment? | Fundamental Analysis | #ShareMarket Tips & Tricks🔥",
+   "published_date": "5 years ago",
+   "views": "4.2M views",
+   "extracted_views": 4200000,
+   "length": "20:27",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "x63HCoDfAhQ",
+   "link": "https://www.youtube.com/watch?v=x63HCoDfAhQ&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=x63HCoDfAhQ",
+   "thumbnail": "https://i.ytimg.com/vi/x63HCoDfAhQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAIft_RyT0li9tUn9BRtzmJAxYGHg",
+   "title": "Protecting the President: Security, VIP Threats & ADC Life | Major Rishabh | FO560 Raj Shamani",
+   "published_date": "1 month ago",
+   "views": "34M views",
+   "extracted_views": 34000000,
+   "length": "2:12:47",
+   "channel": {
+    "name": "Raj Shamani and Rishabh Singh Sambyal "
+   }
+  },
+  {
+   "video_id": "3wWI0S37OaE",
+   "link": "https://www.youtube.com/watch?v=3wWI0S37OaE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3wWI0S37OaE",
+   "thumbnail": "https://i.ytimg.com/vi/3wWI0S37OaE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBfjFK9k_D5pIY5EvAv5tsmK01p1g",
+   "title": "Share Market क्या है? | Basics Of Stock Market | Sagar Sinha",
+   "published_date": "1 year ago",
+   "views": "440K views",
+   "extracted_views": 440000,
+   "length": "42:06",
+   "channel": {
+    "name": "Sagar Sinha Daily",
+    "link": "https://www.youtube.com/@sagarsinhadaily"
+   }
+  },
+  {
+   "video_id": "7orpIslLZjE",
+   "link": "https://www.youtube.com/watch?v=7orpIslLZjE&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=7orpIslLZjE",
+   "thumbnail": "https://i.ytimg.com/vi/7orpIslLZjE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC1wq9y2y7p_9c6VO6neVQ8yzevQQ",
+   "title": "Complete Financial Education जो आपका दिमाग हिला देगी | Rich Vs Poor Mindset",
+   "published_date": "5 years ago",
+   "views": "8.7M views",
+   "extracted_views": 8700000,
+   "length": "49:55",
+   "channel": {
+    "name": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "link": "https://www.youtube.com/@PushkarRajThakurOfficial"
+   }
+  },
+  {
+   "video_id": "XBOGd67BJks",
+   "link": "https://www.youtube.com/watch?v=XBOGd67BJks&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XBOGd67BJks",
+   "thumbnail": "https://i.ytimg.com/vi/XBOGd67BJks/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCx413TBW4Yw2m-8MG3w8ov2O2X5A",
+   "title": "If You Only Have $50, Do This Every Morning (The 3R Rule)",
+   "published_date": "3 weeks ago",
+   "views": "688K views",
+   "extracted_views": 688000,
+   "length": "24:44",
+   "channel": {
+    "name": "The Rumers",
+    "link": "https://www.youtube.com/@the.rumers"
+   }
+  },
+  {
+   "video_id": "85jzwhOd96U",
+   "link": "https://www.youtube.com/watch?v=85jzwhOd96U",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=85jzwhOd96U",
+   "thumbnail": "https://i.ytimg.com/vi/85jzwhOd96U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA60DJFLfEC5cmb6xSCN88tAkZVlA",
+   "title": "SIP क्या होती है? SIP कैसे करें? | Complete Beginner's Guide | Sagar Sinha Money Bytes",
+   "published_date": "2 months ago",
+   "views": "273K views",
+   "extracted_views": 273000,
+   "length": "1:07:53",
+   "channel": {
+    "name": "Sagar Sinha Money Bytes",
+    "link": "https://www.youtube.com/@SagarSinhaMoneyByte"
+   }
+  },
+  {
+   "video_id": "rxjkAwHb0Yo",
+   "link": "https://www.youtube.com/watch?v=rxjkAwHb0Yo",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=rxjkAwHb0Yo",
+   "thumbnail": "https://i.ytimg.com/vi/rxjkAwHb0Yo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBbfLo1rQAMYd_06PXoOuwvnqJipw",
+   "title": "Trading में 93% लोगों को Loss क्यों होता है? जानिए असली वजह! | @DeepakWadhwa.OFFICIAL | SKT",
+   "published_date": "1 month ago",
+   "views": "128K views",
+   "extracted_views": 128000,
+   "length": "42:41",
+   "channel": {
+    "name": "SKT PODCAST HITS",
+    "link": "https://www.youtube.com/@sktpodcasthits"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC0JlVnc3VUhfaTlVGAYyJSIRIgtCZVZ3N1VIX2k5VTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC0JlVnc3VUhfaTlVGAYyWCIxIgtCZVZ3N1VIX2k5VTAAeAKqAhpVZ3hLV0Z5YUlfV2VvcFFycFc1NEFhQUJBZ_ADATABQiFlbmdhZ2VtZW50LXBhbmVsLWNvbW1lbnRzLXNlY3Rpb24%3D"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC0JlVnc3VUhfaTlVGAYyOyIUIgtCZVZ3N1VIX2k5VTABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=BeVw7UH_i9U"
+ },
+ "_fetched_at": "2026-10-10T21:17:10"
+}

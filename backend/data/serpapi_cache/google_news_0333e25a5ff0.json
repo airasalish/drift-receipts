@@ -1,0 +1,1388 @@
+{
+ "search_metadata": {
+  "id": "6ac9452df89c970559ff8731",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/qdeaOiJKmaYasGAnVdxmuDhHppWBhkOf1f9oMEr0cmg/6ac9452df89c970559ff8731.json",
+  "markdown_endpoint": "https://serpapi.com/searches/qdeaOiJKmaYasGAnVdxmuDhHppWBhkOf1f9oMEr0cmg/6ac9452df89c970559ff8731.md",
+  "created_at": "2026-10-09 19:49:01 UTC",
+  "processed_at": "2026-10-09 19:49:01 UTC",
+  "google_news_url": "https://news.google.com/search?q=Gujarat+Pipavav+Port+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/qdeaOiJKmaYasGAnVdxmuDhHppWBhkOf1f9oMEr0cmg/6ac9452df89c970559ff8731.html",
+  "total_time_taken": 1.93
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Gujarat Pipavav Port share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Gujarat Pipavav Port (NSEI:GPPL) Stock Forecast & Analyst Predictions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/future",
+   "thumbnail": "https://images.simplywall.st/asset/chart/169224-earnings-and-revenue-growth-1-dark-2/1769040102223",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJOMWhzYVRkUVpVUlZSVnB2VFJDNkF4aTFCU2dLTWdZWkFZclVpQXM",
+   "date": "10/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-10-06T07:00:00Z"
+  },
+  {
+   "position": 2,
+   "title": "Gujarat Pipavav: A good port with a ticking clock",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stories/229400/gujarat-pipavav-a-good-port-with-a-ticking-clock/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/229400_gujarat_pipavav_a_good_port_with_a_ticking_clock__w660__h371__.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVliVmRWY25jNVZ6aEtVVEJEVFJEekFoaVVCU2dLTWdZTko1U21sZ28",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 3,
+   "title": "Adani Ports or Gujarat Pipavav: Which stock benefits more from Gujarat concession extensions?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikhil Agarwal"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/adani-ports-or-gujarat-pipavav-which-stock-benefits-more-from-gujarat-concession-extensions/articleshow/133532117.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133532160,width-1200,height-900,resizemode-4,imgsize-2496265/adani-ports-or-gujarat-pipavav-which-stock-benefits-more-from-gujarat-concession-extensionsbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZSMlp6TjBOWFZVdHpkbmt4VFJEZ0F4aUFCU2dLTWdZQkVJU21NQU0",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 4,
+   "title": "Gujarat Pipavav Port container volumes rise 17% in Q2",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/gujarat-pipavav-port-container-volumes-rise-17-in-q2-20006867.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/09/gujarat-pipavav-port2-2026-09-6783fa44ddc42042298969499169d40c.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUdVbXRRYkRSWFZWVlZVRkJYVFJDZkF4ampCU2dLTWdrSm9JWUl4dU5VemdF",
+   "date": "10/07/2026, 12:38 PM, +0000 UTC",
+   "iso_date": "2026-10-07T12:38:53Z"
+  },
+  {
+   "position": 5,
+   "title": "GPPL Forecast — Price Target — Prediction for 2027",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-GPPL/forecast-price-target/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/pipavav--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFTbGczVUd0UlZGSnhaRUZJVFJDcUJCaXFCQ2dLTWdZVmtvNHdPUVk",
+   "date": "06/25/2026, 12:59 PM, +0000 UTC",
+   "iso_date": "2026-06-25T12:59:19Z"
+  },
+  {
+   "position": 6,
+   "title": "Earnings call transcript: Gujarat Pipavav Port’s Q4 2026 shows robust growth",
+   "source": {
+    "name": "Investing.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.investing.com/news/transcripts/earnings-call-transcript-gujarat-pipavav-ports-q4-2026-shows-robust-growth-93CH-4715922",
+   "date": "05/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-29T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Gujarat Pipavav shares surge 6% after Gujarat Maritime Board update; key details",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/gujarat-pipavav-shares-surge-6-after-gujarat-maritime-board-update-key-details-551399-2026-08-26",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a8e84ea486be-gujarat-pipavavsaid-thecomfort-letter-requires-the-company-to-submit-information-and-documents--in-261708602-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNlakZVWkc5S1ZXZDNSMUZJVFJDZkF4ampCU2dLTWdhQlVZakdvZ1U",
+   "date": "08/26/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-26T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Gujarat Pipavav Port Share Price Target 2027, 2028 and 2030: Long Term Analyst Forecast",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-share-price-target-2027-2028-2030",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/gujarat-pipavav-port-share-price-target-2027-2028-2030-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNXVmh1VVd0V1lUWnRXazB0VFJDUUF4ai1CU2dLTWdZQk1aQ2ptZ2s",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Gujarat Pipavav Port FY26 net profit rises 26% to ₹5,004.77 million",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-fy26-net-profit-rises-29-8-to-5-151-65-million/41527226",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-fy26-net-profit-rises-29-8-to-5-151-65-million.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5MV2R1UVVaa1QwWlhTRzU0VFJDaUF4amRCU2dLTWdtQk1KS2dHR2l3a0FF",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 10,
+   "title": "Trade Spotlight: How should you trade Gujarat Pipavav Port, Sona BLW, Action Construction Equipment, Dr...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sunil Matkar"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-gujarat-pipavav-port-sona-blw-action-construction-equipment-dr-lal-pathlabs-and-others-on-october-1-14042412.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260613040600_Sensex_market_Nifty.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVXbmMyWmxOcllXOTFNVVpHVFJDZkF4ampCU2dLTWdiRklKSzBuQWM",
+   "date": "10/01/2026, 02:45 AM, +0000 UTC",
+   "iso_date": "2026-10-01T02:45:19Z"
+  },
+  {
+   "position": 11,
+   "title": "Is Now The Time To Put Gujarat Pipavav Port (NSE:GPPL) On Your Watchlist?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/is-now-the-time-to-put-gujarat-pipavav-port-nsegppl-on-your-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "08/19/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-19T07:00:00Z"
+  },
+  {
+   "position": 12,
+   "title": "Gujarat Pipavav Port Share Price Today: 5.01% Price Rise",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-gujarat-pipavav-port-ltd-share-price-rise-2026-08-13",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/Gujarat_Pipavav_Port_Ltd_GPPL_Gujarat_Pipavav_Port_Share_Price_Rises_501_as_Mid_Cap_Stock_Clears_Threshold_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVBTVk00ZW5GVFJ6SlRlalEwVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Gujarat Pipavav Port Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42312/gujarat-pipavav-port-ltd/peer-comparison/",
+   "date": "08/30/2026, 01:27 PM, +0000 UTC",
+   "iso_date": "2026-08-30T13:27:57Z"
+  },
+  {
+   "position": 14,
+   "title": "We Wouldn't Be Too Quick To Buy Gujarat Pipavav Port Limited (NSE:GPPL) Before It Goes Ex-Dividend",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/we-wouldnt-be-too-quick-to-buy-gujarat-pipavav-port-limited-2",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "08/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-29T07:00:00Z"
+  },
+  {
+   "position": 15,
+   "title": "Gujarat Pipavav Port Share Price Target 2026: Rs 185 Analyst Forecast",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-share-price-target-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/06/Gujarat-Pipavav-Port-Share-Price-Target.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVRlpYYW1ZeVdGRk5OV2xKVFJDZUF4amxCU2dLTWdZaElvQXJYUUk",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Gujarat Pipavav Port Limited's (NSE:GPPL) Shares Lagging The Market But So Is The Business",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/gujarat-pipavav-port-limiteds-nsegppl-shares-lagging-the-mar-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "02/09/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-09T08:00:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Why Is Gujarat Pipavav Port Share Price Falling Key Reasons 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Aggarwal"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-gppl-share-price-falling-key-reasons-2026",
+   "thumbnail": "https://univest.in/_next/image?url=https%3A%2F%2Funivest-blog.storage.googleapis.com%2Fblogs%2Fwp-content%2Fuploads%2F2026%2F05%2F05190420%2FGujarat-Pipavav-Port-Share-Price-Falling.jpg&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUNTVWh5YkhvdFMwRkxOMUpOVFJDZUF4amxCU2dLTWdZZGs0QXI1UUE",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Gujarat Pipavav Port Limited's (NSE:GPPL) market cap dropped ₹7.5b last week; individual investors who hold 44% were hit as were institutions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/gujarat-pipavav-port-limiteds-nsegppl-market-cap-dropped-75b",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "01/22/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-22T08:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Gujarat Pipavav Port: Best Stock in Its Sector? Key Metrics",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-best-stock-in-its-sector",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/gujarat-pipavav-port-best-stock-in-its-sector.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWZOV3RmUTNSQ2RGaElSazVxVFJDaUFSaTNBaWdCTWdZQktackNtZ2s",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 20,
+   "title": "Gujarat Pipavav Port Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42312/gujarat-pipavav-port-ltd/shareholding/",
+   "date": "08/30/2026, 05:55 AM, +0000 UTC",
+   "iso_date": "2026-08-30T05:55:14Z"
+  },
+  {
+   "position": 21,
+   "title": "Gujarat Pipavav Port Limited Reports Earnings Results for the Fourth Quarter and Full Year Ended March 31, 2026",
+   "source": {
+    "name": "marketscreener.com",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketscreener.com/news/gujarat-pipavav-port-limited-reports-earnings-results-for-the-fourth-quarter-and-full-year-ended-mar-ce7f5ddadc89f624",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Gujarat Pipavav Port Ltd. Share Price Today - Gujarat Pipavav Port Ltd. Stock Price Live NSE/BSE",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/gujarat-pipavav-port-ltd-share-price/GPP03/",
+   "date": "01/03/2026, 10:02 AM, +0000 UTC",
+   "iso_date": "2026-01-03T10:02:36Z"
+  },
+  {
+   "position": 23,
+   "title": "GPPL: Upcoming Board Meeting And Dividend Decision Will Support Bullish Outlook",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/community/narratives/in/transportation/nse-gppl/gujarat-pipavav-port-shares/g8lyaoxc-indias-port-upgrades-and-capacity-expansions-will-unlock-opportunities-xi8i/updates/15-analysts-have-trimmed-their-price-target-on-gujarat-pipavav",
+   "date": "05/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-24T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Gujarat Pipavav Q3 net profit up 9%; revenue, margins rise",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/earnings/gujarat-pipavav-port-share-price-q3fy26-net-profit-revenue-ebitda-margins-19846901.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/02/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Gujarat Pipavav Port Net Profit Jumps 27% to ₹140 Crore as Revenue Hits ₹320 Crore",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/gujarat-pipavav-port-net-profit-jumps-27-to-140-crore-as-revenue-hits-320-crore-2825-PE1_COR",
+   "thumbnail": "https://www.sahi.com/assets/uploads/2825_PE_1_CORPORATE_28_05_2026_16x9_0aac3efc02.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdhbTl3VkRjeGNIVmFaaTFwVFJDZUF4amxCU2dLTWdhZFlvWnFLUVU",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Gujarat Pipavav Port Reports Strong Nine-Month Performance with Analyst Meet on Feb 11",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/earnings/gujarat-pipavav-port-reports-strong-nine-month-performance-with-24-1-profit-growth-in-q3fy26/32271966",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-reports-strong-nine-month-performance-with-24-1-profit-growth-in-q3fy26.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVZTM1l4Y2pSRWRrSlRiMmgzVFJDdEF4akxCU2dLTWdzQkFJSm1FV010MDBnMFBB",
+   "date": "02/11/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-11T08:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Gujarat Pipavav Port Limited Just Beat Analyst Forecasts, And Analysts Have Been Updating Their Predictions",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/gujarat-pipavav-port-limited-just-beat-analyst-forecasts-and",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "11/09/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-09T08:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Gujarat Pipavav Port consolidated net profit rises 41.76% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/gujarat-pipavav-port-consolidated-net-profit-rises-41-76-in-the-june-2026-quarter-126081300343_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 29,
+   "title": "Gujarat Pipavav Port Share Price: Buy or Sell",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-share-price-buy-hold-or-sell",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/gujarat-pipavav-port-share-price-buy-hold-or-sell.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXJVblZyVjJwWWVraHJOR1pmVFJDUUF4ai1CU2dLTWdhQk1aQ2ptZ2s",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Gujarat Pipavav shares: JM Financial retains target, sees 27% upside",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/gujarat-pipavav-shares-jm-financial-retains-target-sees-27-upside-551796-2026-08-27",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a900d17ceefe-gujarat-pipavav-has-received-a-comfort-letter-from-gmb-for-an-extension-of-the-concession-period-271026125-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUZibXhmTjNGRk9HdDFiR1pSVFJDZkF4ampCU2dLTWdZbFU0cXRLUVk",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Gujarat Pipavav Port Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42312/gujarat-pipavav-port-ltd/company-financial/",
+   "date": "08/30/2026, 12:09 PM, +0000 UTC",
+   "iso_date": "2026-08-30T12:09:32Z"
+  },
+  {
+   "position": 32,
+   "title": "Gujarat Pipavav Port reports Q1 FY27 operational data",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-releases-q1-fy27-operational-figures-across-all-cargo-segments/45463901",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-releases-q1-fy27-operational-figures-across-all-cargo-segments.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1iVkZmVDB0S2FIcG9WWE5MVFJDaUF4amRCU2dLTWdrQlFJaTFHR1c1N0FF",
+   "date": "07/13/2026, 04:58 AM, +0000 UTC",
+   "iso_date": "2026-07-13T04:58:19Z"
+  },
+  {
+   "position": 33,
+   "title": "Gujarat Pipavav Port Ltd. Key Financial Ratios – Valuation, Profitability & More",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42312/gujarat-pipavav-port-ltd/key-ratios/",
+   "date": "08/28/2026, 01:39 PM, +0000 UTC",
+   "iso_date": "2026-08-28T13:39:49Z"
+  },
+  {
+   "position": 34,
+   "title": "Gujarat Pipavav Port Q1 profit rises 42% as revenue jumps 33%, margins expand",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/earnings/gujarat-pipavav-port-q1-profit-rises-42-as-revenue-jumps-33-margins-expand-19967796.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/untitled-design-2026-08-12t182426523-2026-08-de6fdc79ab33afd496f12d369242d3f9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhUMFZEZG1ocE5UVjNVMVUwVFJDZkF4ampCU2dLTWdZTllJYk9RUVU",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Gujarat Pipavav Port vs Shreyas Shipping and Logistics: Which Maritime Stock",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-vs-shreyas-shipping-and-logistics-comparison",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/gujarat-pipavav-port-vs-shreyas-shipping-and-logistics-comparison.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhlRzQzYTJaYU5UTnNOa3B5VFJDUUF4ai1CU2dLTWdhQk1ZNmptZ2s",
+   "date": "08/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-12T07:00:00Z"
+  },
+  {
+   "position": 36,
+   "title": "Gujarat Pipavav Port Share Price: Good Buy After Q1 FY27 Results?",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/is-gujarat-pipavav-port-a-good-buy-after-q1-fy27-results",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/is-gujarat-pipavav-port-a-good-buy-after-q1-fy27-results.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFZa2gxTkd0VGJreDNRVW81VFJDUUF4ai1CU2dLTWdZQlFJeWptZ2s",
+   "date": "09/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-04T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Gujarat Pipavav Port's (NSE:GPPL) Solid Profits Have Weak Fundamentals",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/gujarat-pipavav-ports-nsegppl-solid-profits-have-weak-fundam",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "11/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-13T08:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Gujarat Pipavav Port vs Nifty 50: Returns Compared",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-vs-nifty-50-share-price-performance",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/gujarat-pipavav-port-vs-nifty-50-share-price-performance.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZObmRrU0dKVmJrODRNMEpYVFJDUUF4ai1CU2dLTWdZQktaYWptZ2s",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Gujarat Pipavav up 3% on MoU with NYK for 5 lakh-car RoRo capacity",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/gujarat-pipavav-up-3-percent-on-mou-with-nyk-for-5-lakh-car-roro-capacity-125120300525_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/25/full/1750817917-3966.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJPVVJwYVVwaFZURk9OVXRGVFJENUF4amZCQ2dLTWdZUmNJVEl0QVk",
+   "date": "12/03/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-03T08:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Gujarat Pipavav Port shareholders approve ₹10.40 dividend, director changes at 34th AGM",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-holds-34th-agm-promoters-hold-44-stake/50512541",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-holds-34th-agm-promoters-hold-44-stake.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNTVRMVJIZVdnNFJXbERUMWw1VFJDaUF4amRCU2dLTWdNQklCSQ",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Gujarat Pipavav Port Stock Prediction 2026: Expert Analysis, Forecast Scenarios and Full Stock Review",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-stock-prediction-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/06/Gujarat-Pipavav-Port-Stock-Prediction-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5lRWRCYVUxaWJFRlBaREJ0VFJDZUF4amxCU2dLTWdZTlFvRUo0UUU",
+   "date": "06/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-17T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Gujarat Pipavav Port Overvalued or Undervalued? Valuation Check",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-overvalued-or-undervalued",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/gujarat-pipavav-port-overvalued-or-undervalued.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBMWEZxYVZaeFNXTnJPWEJ3VFJDUUF4ai1CU2dLTWdZQk1JN0RHZ28",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Gujarat Pipavav Share Price Rises as Q1 Container Volumes Grow to 1.68 Lakh TEUs; Dry Bulk Cargo Declines",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-share-price-q1-container-volumes-rise",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/07/Gujarat-Pipavav-Share-Price-Rises.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5aMnhaYmpCSldGUmxSbXRaVFJDZUF4amxCU2dLTWdZTk1ZRGw2QUE",
+   "date": "07/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-13T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "GPPL Ex-Dividend Tomorrow: Last Chance for ₹5.40/Share Payout",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shishta Dutta"
+    ]
+   },
+   "link": "https://hdfcsky.com/news/gujarat-pipavav-port-to-trade-ex-dividend-tomorrow",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2025/11/Gujarat-Pipavav-Port-to-Trade-Ex-Dividend-Tomorrow-Last-Day-to-Buy-Shares-Today%E2%80%8B.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVlaVkZUUzAxSmR6WjZTbTU2VFJDZkF4ampCU2dLTWdhZEZZWEwyUUk",
+   "date": "11/11/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-11T08:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Gujarat Pipavav Port Q1 FY27 Results: Revenue Rs 331 Cr, PAT Rs 146 Cr and Key Highlights",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/gujarat-pipavav-port-q1-results-fy27-pat-146-crore",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/gujarat-pipavav-port-q1-results-fy27-pat-146-crore.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtia1JDU0RKU1VHdHlNRkZ1VFJDUUF4ai1CU2dLTWdZQk1JNmptZ2s",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Gujarat Pipavav Port (NSE:GPPL) Might Have The Makings Of A Multi-Bagger",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/news/gujarat-pipavav-port-nsegppl-might-have-the-makings-of-a-mul-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNVVVbWx5T0VGSFRsbzFkVUpmVFJDZkF4ampCU2dLTWdzQkVJSWhuU1FXWm1yY1JR",
+   "date": "12/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-05T08:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Gujarat Pipavav Port appoints Zeeshan Mukhi as Chief Commercial Officer",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-names-zeeshan-mukhi-as-new-chief-commercial-officer/45812527",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-names-zeeshan-mukhi-as-new-chief-commercial-officer.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDBielpuVTBSQ2FFZFpaSEZKVFJDaUF4amRCU2dLTWdrQllJU2tzS1FjMXdB",
+   "date": "07/17/2026, 07:21 PM, +0000 UTC",
+   "iso_date": "2026-07-17T19:21:18Z"
+  },
+  {
+   "position": 48,
+   "title": "GPPL: Revenue and profit grew strongly, with major legal settlements and a final dividend proposed",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:3409997:0-gppl-revenue-and-profit-grew-strongly-with-major-legal-settlements-and-a-final-dividend-proposed/",
+   "date": "05/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-28T07:00:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Gujarat Pipavav Port Schedules Board Meeting on May 28 to Consider FY26 Results and Final Dividend",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-schedules-board-meeting-on-may-28-to-consider-fy26-results-and-final-dividend/39590167",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-schedules-board-meeting-on-may-28-to-consider-fy26-results-and-final-dividend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRPRXBGVjFWek1uSmphelJhVFJDdEF4akxCU2dLTWdZQlVJYmdNQWM",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Causeway Capital acquires over half a percent stake in Gujarat Pipavav Port",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/causeway-capital-acquires-over-half-a-percent-stake-in-gujarat-pipavav-port-13688590.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251101050054_sensex_nifty_stock-stocks_stock.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFWSEJDVlRFM05GUk9NMlpVVFJDZkF4ampCU2dLTWdhQlVJNlNKQWc",
+   "date": "11/20/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-20T08:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Gujarat Pipavav Port (NSE:GPPL) 34th AGM Voting Results",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/gujarat-pipavav-port-nsegppl-did-all-six-agm-resolutions-pass",
+   "date": "09/11/2026, 10:23 AM, +0000 UTC",
+   "iso_date": "2026-09-11T10:23:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Aegis Vopak, Gujarat Pipavav shares fall up to 7% as shipping, logistics stocks slide on global supply...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/aegis-vopak-gujarat-pipavav-shares-fall-up-to-7-as-shipping-logistics-stocks-slide-on-global-supply-disruptions-13850482.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/06/20240613162128_Shipping-Corporation-of-India.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhiUzFxVDE5b1MzaFBWVEF0VFJDZkF4ampCU2dLTWdZTlVaSklwZ2M",
+   "date": "03/04/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-03-04T08:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Gujarat Pipavav, ESAB India among top stocks to buy today; check key levels",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/gujarat-pipavav-esab-india-among-top-stocks-to-buy-today-check-key-levels-125121000106_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-10/27/full/1761529012-7791.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5jVjlmTlhwUU9FVkRablpyVFJEZ0F4aUFCU2dLTWdZZGs0eHJPUVk",
+   "date": "12/10/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-10T08:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "2 Undervalued Ports Stocks Trading Below Fair Value",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/ports-stocks-below-fair-value",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/ports-stocks-below-fair-value.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZlVjlCY0RkNVZFOUNTVmREVFJDUUF4ai1CU2dLTWdZQlFJekRHZ28",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Gujarat Pipavav Port GPPL FY26 Annual Report Key Highlights",
+   "source": {
+    "name": "Kalkine India",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kalkine.co.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.kalkine.co.in/article/announcements/gujarat-pipavav-port-nsegppl-what-does-the-fy26-annual-report-reveal",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Gujarat Pipavav Port Reports Strong Q2 Results, Declares Rs 5.40 Per Share Interim Dividend",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/earnings/gujarat-pipavav-port-reports-strong-q2-results-declares-rs-5-40-per-share-interim-dividend/23874607",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-reports-strong-q2-results-declares-rs-5-40-per-share-interim-dividend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhVbFYyTkhCcUxWcFRORWRLVFJDdEF4akxCU2dLTWdrQk1JeXFMQ2RycUFJ",
+   "date": "11/04/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-04T08:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Gujarat Pipavav Port CCO Amit Bhardwaj Submits Formal Resignation Letter",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-announces-cco-amit-bhardwaj-s-resignation-effective-june-2026/37186875",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-announces-cco-amit-bhardwaj-s-resignation-effective-june-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNUZjRWhXYzNKdVFVWjJXbkJHVFJDdEF4akxCU2dLTWdzQkFJU0dFYWd0YXBraVhB",
+   "date": "04/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-08T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Gujarat Pipavav Port Limited schedules board meeting for Q3FY26 results on February 10, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/earnings/gujarat-pipavav-port-limited-schedules-board-meeting-for-q3fy26-results-on-february-10-2026/31558202",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-limited-schedules-board-meeting-for-q3fy26-results-on-february-10-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdOR2hCYlRaNlVIRTRPVkpGVFJDdEF4akxCU2dLTWdZQkFJVEpGUWs",
+   "date": "02/10/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-02-10T08:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Gujarat Pipavav Port Q3: Container volumes slip 1.7% YoY, dry bulk rises 20.8%",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/gujarat-pipavav-port-share-price-q3-update-container-volumes-slip-yoy-dry-bulk-rises-ws-l-19816793.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/10/india-port-customs-cargo-2025-10-aa85472d8cb32d00833e6b0fc28f4bf5.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNDJRMU5aYzJ0TFJ6Sm1XSEUxVFJDZkF4ampCU2dLTWdNQmtBbw",
+   "date": "01/08/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-08T08:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Vedanta, TCS among 5 stocks with the highest dividend yield. Check details",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Surbhi Khanna"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/vedanta-tcs-among-5-stocks-with-the-highest-dividend-yield-check-details/dividend-history/slideshow/132191143.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132191143,width-480,height-360,imgsize-17272,resizemode-75/dividend-history.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdUV1pyV2xSSGVVRXlaSHBrVFJEb0FoamVBeWdLTWdhUkZJZ00wZ1E",
+   "date": "07/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-05T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "3 Marine Port and Services Stocks with Strong Growth Plans in India (2026)",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/3-marine-port-stocks-strong-growth-plans",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/3-marine-port-stocks-strong-growth-plans.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpWRFJHUWxKSFRsbFdkMFkyVFJDUUF4ai1CU2dLTWdZQk1ZekNtZ2s",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Gujarat Pipavav Port Sees Container Traffic Drop To 668K TEUs As Train Volumes Fall",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/gujarat-pipavav-port-reports-mixed-q4fy26-operational-performance-with-container-volume-decline/37064239",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-reports-mixed-q4fy26-operational-performance-with-container-volume-decline.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdSams1ZUhVdFRqQnFWbFpKVFJDdEF4akxCU2dLTWdZQkFJU0tsUVk",
+   "date": "04/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-07T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Gujarat Pipavav Port Q3 FY26: Container volumes decline 1.7% while dry bulk cargo surges 20.8%",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/gujarat-pipavav-port-q3-fy26-container-volumes-decline-1-7-while-dry-bulk-cargo-surges-20-8/29404618",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-q3-fy26-container-volumes-decline-1-7-while-dry-bulk-cargo-surges-20-8.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNDBaakpuVGt0Zk0xVmhSeTF1VFJDdEF4akxCU2dLTWdzQkFJUW5qZWdsQ1VvMGln",
+   "date": "01/07/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-07T08:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "NTPC, GAIL, Gujarat Pipavav, TBZ, Triveni Turbine among 13 stocks to turn ex-dividend tomorrow",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/ntpc-gail-gujarat-pipavav-tbz-triveni-turbine-among-13-stocks-to-turn-ex-dividend-tomorrow-552622-2026-09-01",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6a96ba58e00b0-gujarat-pipavav-port-ltd-will-turn-ex-dividend-tomorrow-the-company-had-earlier-announced-a-final-014315519-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhVazlCV1RJdGMydFhUbTEyVFJDZkF4ampCU2dLTWdZVkpJWUxIZ1U",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Gujarat Pipavav Port signs ₹17,000 crore MoU with Gujarat Maritime Board, shares rise 5%",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/gujarat-pipavav-port-shares-up-5-pc-on-rs-17000-crore-mou-gujarat-maritime-board-19731212.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/02/gujarat-pipavav-port-2025-02-17eef8ac8ae344ab519efd321386d8b4.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hQzFVZEc1NGJsTnRVMWR4VFJDZkF4ampCU2dLTWdZQmdJYXBSUVE",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Gujarat Pipavav Port Shares End 4% Up on Rs 17,000 Cr MoU",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/gujarat-pipavav-port-shares-end-4-up-on-rs-17000-cr-mou/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2025/09/Port-Pipavav.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXViMUZ4VWtSRGRYcHdkRXc1VFJDR0F4aVJCaWdLTWdNTk5RZw",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Stocks to Watch Today: Apollo Hospitals, UltraTech, Vascon Engineers, Dr Agarwals Health, LAPL Automotive,...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-apollo-hospitals-ultratech-vascon-engineers-dr-agarwals-health-lapl-automotive-astral-sun-tv-lenskart-gujarat-pipavav-in-focus-on-13-august-14003697.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/12/20241212004919_stock-market-new-pixabay.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFlbVEyVEVWaGIyVTNkRFZEVFJDZkF4ampCU2dLTWdZVk5JYnFvUVE",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "Stocks to buy: Nagaraj Shetti recommends MRPL, Gujarat Pipavav Port shares to buy",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-buy-nagaraj-shetti-recommends-mrpl-gujarat-pipavav-port-shares-to-buy-11761806450820.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2025/10/30/1600x900/Nagaraj_Shetti_1761807381164_1761807388598.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNWhVMU5JZUd0VFpEQlZOVFpOVFJDZkF4amlCU2dLTWdB",
+   "date": "10/30/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-30T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Gujarat Pipavav Port Q2 results: Profit surges 113% YoY, firm declares ₹5.40 interim dividend",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/earnings/gujarat-pipavav-port-q2-results-profit-surges-113-yoy-firm-declares-rs-5-40-interim-dividend-19743226.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/02/gujarat-pipavav-port-2025-02-17eef8ac8ae344ab519efd321386d8b4.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hQzFVZEc1NGJsTnRVMWR4VFJDZkF4ampCU2dLTWdZQmdJYXBSUVE",
+   "date": "11/05/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-05T08:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Top stocks to buy today, Jan 21: Hindustan Zinc, Dalmia Bharat, and more",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/news/top-stocks-to-buy-today-jan-21-hindustan-zinc-dalmia-bharat-gujarat-pipavav-126012100090_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/04/full/1767547038-0663.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1SWGRLUW5wbFQyaGZTMVZPVFJDb0F4alRCU2dLTWdZWk40d3FvZ2M",
+   "date": "01/21/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-21T08:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Adani Ports Share Price Today: Market Cap and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-adani-ports-and-special-economic-zone-share-price-price-fall-2026-08-31",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/Adani_Ports_and_Special_Economic_Zone_ADANIPORTS_Adani_Ports_Share_Price_Falls_246_as_Stock_Slides_to_Rs_16631_bearish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlSSEpaZEdwR1JIQm5TR2w2VFJDUUF4ai1CU2dLTWdZQk1JaWpHZ28",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Gujarat Pipavav Port Ltd. Share Price Today | Gujarat Pipavav Live NSE/BSE",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/42312/gujarat-pipavav-port-ltd/",
+   "date": "03/24/2022, 06:43 PM, +0000 UTC",
+   "iso_date": "2022-03-24T18:43:23Z"
+  },
+  {
+   "position": 73,
+   "title": "Vedanta and Infosys among 5 stocks with highest dividend yield. Check details",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Surbhi Khanna"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/vedanta-and-infosys-among-5-stocks-with-highest-dividend-yield-check-details/infosys/slideshow/133048320.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-133048351,width-480,height-360,imgsize-24476,resizemode-75/dividend-history.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdZMlpoV25aMU5FYzBlbkZzVFJEb0FoamdBeWdLTWdZUmM0eVFPUVk",
+   "date": "08/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-08T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Shipping sector: Will it be the next one to get re-rated? 8 stocks from the shipping ecosystem. Some known",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/shipping-sector-will-it-be-the-next-one-to-get-re-rated-8-stocks-from-the-shipping-ecosystem-some-known-some-not-so-much/articleshow/125946371.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-125946371,width-1200,height-900,imgsize-210353,resizemode-8,quality-100/markets/stocks/news/shipping-sector-will-it-be-the-next-one-to-get-re-rated-8-stocks-from-the-shipping-ecosystem-some-known-some-not-so-much.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNWVEJrUkVock1sVlphbHBmVFJEZ0F4aUFCU2dLTWdrQm9Jb2J2T2Foa1FF",
+   "date": "12/13/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-12-13T08:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Gujarat Pipavav Port Inks ₹17,000 Crore Investment MOU with Gujarat Maritime Board",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/corporate-actions/gujarat-pipavav-port-inks-17-000-crore-investment-mou-with-gujarat-maritime-board/23264143",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-inks-17-000-crore-investment-mou-with-gujarat-maritime-board.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXJNRFpKYmxvd2FHNTNXVms1VFJDdEF4akxCU2dLTWdrQkFKQnpIQ2pZRGdF",
+   "date": "10/28/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-28T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Gujarat Pipavav Port Posts Strong Q2 FY26 Performance",
+   "source": {
+    "name": "Maritime Gateway",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.maritimegateway.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.maritimegateway.com/gujarat-pipavav-port-posts-strong-q2-performance/",
+   "thumbnail": "https://www.maritimegateway.com/wp-content/uploads/2025/05/Gujarat-pipavav-port.jpeg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlWbGw1WVZKdWFYZFBOSHBOVFJDUUF4ai1CU2dLTWdhSk5JaG9wZ2M",
+   "date": "11/07/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-11-07T08:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "IRFC sanctions Rs 1,000 crore term loan to MAHAGENCO",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/irfc-sanctions-rs-1-000-crore-term-loan-to-mahagenco-126040700361_1.html",
+   "date": "04/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-07T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Top stocks to buy today: Stock recommendations for July 25, 2025 - check list",
+   "source": {
+    "name": "The Times of India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://timesofindia.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://timesofindia.indiatimes.com/business/india-business/top-stock-recommendations-for-july-25-2025-gujarat-pipavav-port-limited-gppl-national-aluminium-stocks-to-buy-today/articleshow/122892596.cms",
+   "thumbnail": "https://static.toiimg.com/thumb/msid-122892640,width-1280,height-720,resizemode-4/122892640.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUWEZoWm5kcU5teE1OMjQ0VFJDZkF4ampCU2dLTWdhVlVaQkpvZ2c",
+   "date": "07/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-25T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Gujarat Pipavav stock drops 5% after Q2 business update disappoints",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/gujarat-pipavav-stock-drops-5-after-q2-business-update-disappoints-12837093.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/09/logistic1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVMVTl0VkY5YU5tczVSbVJDVFJDZkF4ampCU2dLTWdZUm9KU29QQWM",
+   "date": "10/07/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-10-07T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "GMB, APM Terminals Pipavav ink ₹17,000 crore MoU to boost Gujarat ports",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/companies/news/gmb-apm-terminals-pipavav-ink-17-000-crore-mou-to-boost-gujarat-ports-125102901531_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/12/full/1665571723-479.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNXVWxNVGxwUWRHeEJiMGxWVFJEUUF4anNCQ2dLTWdrQlVJcTJNQ2FhTUFF",
+   "date": "10/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-10-29T07:00:00Z"
+  },
+  {
+   "position": 81,
+   "title": "Gujarat Pipavav Port Gains 1.5% on 5-Year ONGC Offshore Supply Deal",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/gujarat-pipavav-port-gains-1-5-on-5-year-ongc-offshore-supply-deal/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2025/09/Port-Pipavav.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXViMUZ4VWtSRGRYcHdkRXc1VFJDR0F4aVJCaWdLTWdNTk5RZw",
+   "date": "09/25/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-25T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Gujarat Pipavav Port awarded 5-year ONGC contract for offshore supply base facilities",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jomy Pullokaran"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/stocks/gujarat-pipavav-port-share-price-awarded-5-year-ongc-contract-for-offshore-supply-base-facilities-19688013.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/02/gujarat-pipavav-port-2025-02-17eef8ac8ae344ab519efd321386d8b4.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hQzFVZEc1NGJsTnRVMWR4VFJDZkF4ampCU2dLTWdZQmdJYXBSUVE",
+   "date": "09/24/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-24T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Gujarat Pipavav Q1 profit dips 5% YoY; announces record date for final dividend",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sheersh Kapoor"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/earnings/gujarat-pipavav-shares-q1-results-profit-dips-revenue-up-record-date-dividend-ws-l-19653247.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/02/gujarat-pipavav-port-2025-02-17eef8ac8ae344ab519efd321386d8b4.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hQzFVZEc1NGJsTnRVMWR4VFJDZkF4ampCU2dLTWdZQmdJYXBSUVE",
+   "date": "08/13/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-08-13T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Buy or sell: Dharmesh Shah of ICICI Securities recommends buying Gail India and Gujarat Pipavav Port stock this week",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Dhanya Nagasundaram"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/buy-or-sell-dharmesh-shah-of-icici-securities-recommends-buying-gail-india-and-gujarat-pipavav-port-stock-this-week-11708271916206.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2024/02/18/1600x900/Bull_vs_bear_iStock_1658452654594_1708276359354.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpXWGsxUmpOV1pIQXhPRXh0VFJDZkF4amlCU2dLTWdZQm9JaG1RZ1E",
+   "date": "02/19/2024, 08:00 AM, +0000 UTC",
+   "iso_date": "2024-02-19T08:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Gujarat Pipavav Port: Why Investors Can Continue To Hold This Stock",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/gujarat-pipavav-port-why-investors-can-continue-to-hold-this-stock/article67390106.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/gfpj82/article67392896.ece/alternates/LANDSCAPE_1200/PO08_Gujarat_pipavav_port_2.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNVZXa2hZV21oclRuaFdWbUp5VFJDZkF4ampCU2dLTWdNQm9BQQ",
+   "date": "10/07/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-10-07T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Gujarat Pipavav Q4 Results: Net profit surges 70.7% YoY despite flat revenue",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Poonam Behura"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/gujarat-pipavav-share-price-q4-fy25-results-net-profit-surges-revenue-flat-ebitda-margin-dividend-19612733.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2025/02/gujarat-pipavav-port-2025-02-17eef8ac8ae344ab519efd321386d8b4.jpeg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5hQzFVZEc1NGJsTnRVMWR4VFJDZkF4ampCU2dLTWdZQmdJYXBSUVE",
+   "date": "05/29/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-05-29T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Gujarat Pipavav Port Shares Jump 89% on Q3 Profit",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/gujarat-pipavav-port-shares-jump-89-on-q3-profit/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/02/Gujarat-Pipavav-Port-Stock-Rose-89-jumps-in-Q3-Profit-EP.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRbWxmZVVGck1tMVdVRTkwVFJDZkF4ampCU2dLTWdhTk5JaHBvZ2M",
+   "date": "02/09/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-02-09T08:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Gujarat Pipavav Port Share Zooms Amid Higher Container Volumes",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/gujarat-pipavav-port-share-zooms-amid-higher-container-volumes/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/07/Gujarat-Pipavav-Port-Stock-Rose-89-jumps-in-Q3-Profit-EP.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBRbWxmZVVGck1tMVdVRTkwVFJDZkF4ampCU2dLTWdhTk5JaHBvZ2M",
+   "date": "07/11/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-07-11T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Gujarat Pipavav Port (NSEI:GPPL) - Stock Analysis",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=1200,h=627,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTRVa1prY3pKc1ZGTllkVFZwVFJDUUF4ai1CU2dLTWdzQkVJU0NJU1VsUjFxb1JR",
+   "date": "12/01/2017, 11:21 PM, +0000 UTC",
+   "iso_date": "2017-12-01T23:21:37Z"
+  },
+  {
+   "position": 90,
+   "title": "Gujarat Pipavav Port Hits 52-week High, Shares Up 18% in 1 Month",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/gujarat-pipavav-port-hits-52-week-high-shares-up-18-in-1-month/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2023/03/pipavav-ot.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNPWHBrTXpOMWJXTjRiVlIyVFJDOEF4aXlCU2dLTWdZQm9JQ3pVQU0",
+   "date": "03/01/2023, 08:00 AM, +0000 UTC",
+   "iso_date": "2023-03-01T08:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "The Gujarat Pipavav Port (NSE:GPPL) Share Price Is Down 45% So Some Shareholders Are Getting Worried",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finance.yahoo.com/news/gujarat-pipavav-port-nse-gppl-050148141.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/8a2f9e2e410f09d8c2eefcafbd8837751127b32ea96834515d36bdd074961e90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F458b20951fdeca31729412a3892a83f1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXlSblZrWTJkTVQzWXpUMDVzVFJETkFoaVpCeWdLTWc0QkFJQmltV0p5WXd0OE8xWkVEUQ",
+   "date": "03/17/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-03-17T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Gujarat Pipavav Port shares rise over 7% as Q1 net profit jumps 62%; check details",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/earnings/gujarat-pipavav-port-shares-rise-over-7-as-q1-net-profit-jumps-62-check-details/article-108713/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/gujarat-pipavav-port-ltd-1.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBWelJNUkhWRFNtSkdTWHAxVFJEZ0F4aUFCU2dLTWdZRkFJcVVEQXc",
+   "date": "08/08/2024, 07:00 AM, +0000 UTC",
+   "iso_date": "2024-08-08T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Gujarat Pipavav Port gains on the back of higher container volumes in Q1",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/gujarat-pipavav-port-gains-on-the-back-of-higher-container-volumes-in-q1-10936571.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/09/logistic1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVMVTl0VkY5YU5tczVSbVJDVFJDZkF4ampCU2dLTWdZUm9KU29QQWM",
+   "date": "07/11/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-07-11T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Gujarat Pipavav Port Secures 5-Year ONGC Contract for Port and Storage Facilities",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/orders-deals/gujarat-pipavav-port-secures-5-year-ongc-contract-for-port-and-storage-facilities/20266138",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-secures-5-year-ongc-contract-for-port-and-storage-facilities.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpRVmxoT0hOZlpXRjRYMUJPVFJDdEF4akxCU2dLTWdZQklKUlJvQWM",
+   "date": "09/24/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-09-24T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Gujarat Pipavav Port Announces New Auditor Appointment and Director Re-appointment",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/stocks/gujarat-pipavav-port-announces-new-auditor-appointment-and-director-re-appointment/14715287",
+   "thumbnail": "https://news-images.dhan.co/gujarat-pipavav-port-announces-new-auditor-appointment-and-director-re-appointment.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNWFaM2xPUlU0eWMweFRiMkZ0VFJDdEF4akxCU2dLTWdrQkFJZ29sT2NWVVFF",
+   "date": "07/22/2025, 07:00 AM, +0000 UTC",
+   "iso_date": "2025-07-22T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Gujarat Pipavav Port Limited (GPPL) Company Information",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/information",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=1200,h=627,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTRVa1prY3pKc1ZGTllkVFZwVFJDUUF4ai1CU2dLTWdzQkVJU0NJU1VsUjFxb1JR",
+   "date": "08/08/2022, 06:35 PM, +0000 UTC",
+   "iso_date": "2022-08-08T18:35:50Z"
+  },
+  {
+   "position": 97,
+   "title": "Gujarat Pipavav Port Q4: Net profit up 30% at ₹97.3 cr, revenue up 7%",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/companies/news/gujarat-pipavav-port-q4-net-profit-up-30-at-rs-97-3-cr-revenue-up-7-11684932445429.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2023/05/24/1600x900/gujaratpipavav--621x414_1684935201453.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW9kREZQYlVSalVYQlpjR0l6VFJDZkF4ampCU2dLTWdZTm9JaUhRZ00",
+   "date": "05/24/2023, 07:00 AM, +0000 UTC",
+   "iso_date": "2023-05-24T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Gujarat Pipavav Port (NSEI:GPPL) - Earnings & Revenue Performance",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/transportation/nse-gppl/gujarat-pipavav-port-shares/past",
+   "thumbnail": "https://simplywall.st/cdn-cgi/image/format=auto,fit=cover,w=1200,h=627,q=80,blur=0,metadata=none/https://images.simplywall.st/asset/industry/3253000-choice1-main-header/1585186971036",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNTRVa1prY3pKc1ZGTllkVFZwVFJDUUF4ai1CU2dLTWdzQkVJU0NJU1VsUjFxb1JR",
+   "date": "08/08/2022, 06:37 PM, +0000 UTC",
+   "iso_date": "2022-08-08T18:37:18Z"
+  },
+  {
+   "position": 99,
+   "title": "Did Changing Sentiment Drive Gujarat Pipavav Port's (NSE:GPPL) Share Price Down A Worrying 55%?",
+   "source": {
+    "name": "Yahoo Finance",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://finance.yahoo.com/news/did-changing-sentiment-drive-gujarat-012200509.html",
+   "thumbnail": "https://s.yimg.com/lo/mysterio/api/8a2f9e2e410f09d8c2eefcafbd8837751127b32ea96834515d36bdd074961e90/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fsimply_wall_st__316%2F458b20951fdeca31729412a3892a83f1",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNXlSblZrWTJkTVQzWXpUMDVzVFJETkFoaVpCeWdLTWc0QkFJQmltV0p5WXd0OE8xWkVEUQ",
+   "date": "10/13/2019, 07:00 AM, +0000 UTC",
+   "iso_date": "2019-10-13T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Gujarat Pipavav Port Q3 business update: Liquid handling volume jumps 22% on-year",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbctv18.com/market/gujarat-pipavav-port-q3-business-update-liquid-handling-volume-jumps-22-pc-on-year-19534063.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2021/02/exports.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5OMjl2YnpaUVNGSTRNVTlGVFJDZkF4ampCU2dLTWdhTk1ZRkwzUUU",
+   "date": "01/03/2025, 08:00 AM, +0000 UTC",
+   "iso_date": "2025-01-03T08:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:01"
+}

@@ -1,0 +1,431 @@
+{
+ "channel": "Pranjal Kamra",
+ "channel_url": "https://www.youtube.com/@pranjalkamra",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "YaPZ4E3-j3Q",
+   "title": "How to Generate Stock Ideas in 2026",
+   "url": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q",
+   "channel": "Pranjal Kamra",
+   "channel_url": "https://www.youtube.com/@pranjalkamra",
+   "views": 58127,
+   "length": "17:40",
+   "published_text": "3mo ago",
+   "published_date": "2026-06-13",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/YaPZ4E3-j3Q/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBPO6sT08I8SglRJvKnB3dPjylsYQ",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "ortGqJN5VdI",
+   "title": "IT Sector Fall | What Should Investors Do?",
+   "url": "https://www.youtube.com/watch?v=ortGqJN5VdI",
+   "channel": "Pranjal Kamra",
+   "channel_url": "https://www.youtube.com/@pranjalkamra",
+   "views": 108148,
+   "length": "12:42",
+   "published_text": "3mo ago",
+   "published_date": "2026-06-20",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ortGqJN5VdI/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCkmnGccPDAlPoBllB1Nq5dmfrYvg",
+   "transcript_status": "none"
+  },
+  {
+   "video_id": "BXPPUsXUl7A",
+   "title": "My Complete Stock Selection Process Explained",
+   "url": "https://www.youtube.com/watch?v=BXPPUsXUl7A",
+   "channel": "Pranjal Kamra",
+   "channel_url": "https://www.youtube.com/@pranjalkamra",
+   "views": 41006,
+   "length": "20:05",
+   "published_text": "4mo ago",
+   "published_date": "2026-05-24",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/BXPPUsXUl7A/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCwjo8z1uz0Y5MjjunvQe7bUt7XZQ",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "sMFP8VaqrBY",
+   "title": "10 Types of Stocks that I Like",
+   "url": "https://www.youtube.com/watch?v=sMFP8VaqrBY",
+   "channel": "Pranjal Kamra",
+   "channel_url": "https://www.youtube.com/@pranjalkamra",
+   "views": 73137,
+   "length": "11:26",
+   "published_text": "6mo ago",
+   "published_date": "2026-04-08",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/sMFP8VaqrBY/hq720.jpg?sqp=-oaymwEnCOgCEMoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBc01EmQQYq8wETzQFs4ppIhS8Vbg",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 3,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [
+  {
+   "company": "Dixon Technologies",
+   "symbol_guess": "DIXON",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "डजीन कभी ना कभी हर घर में यूज़ होती है।",
+   "start_s": 775,
+   "line": "पता नहीं होता ना कि इसको कौन बना रहा है।",
+   "evidence": [
+    {
+     "text": "डजीन",
+     "where": "transcript",
+     "start_s": 777
+    },
+    {
+     "text": "लिस्टेड हैं",
+     "where": "transcript",
+     "start_s": 784
+    }
+   ],
+   "reason": "The company is mentioned only as an example of a listed product maker, not as a specific investment pick.",
+   "ticker": {
+    "yahoo_symbol": "DIXON.NS",
+    "google_finance": "DIXON:NSE",
+    "name": "Dixon Technologies (India) Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 770,
+     "text": "यूज़ कर रहे हो कोई दवाई हो। जैसे हम सब ने"
+    },
+    {
+     "start_s": 773,
+     "text": "कभी ना कभी क्रोसिन खाई है। लेकिन हमें"
+    },
+    {
+     "start_s": 775,
+     "text": "पता नहीं होता ना कि इसको कौन बना रहा है।"
+    },
+    {
+     "start_s": 777,
+     "text": "डजीन कभी ना कभी हर घर में यूज़ होती है।"
+    },
+    {
+     "start_s": 779,
+     "text": "हमें पता नहीं होता। सैराडॉन हो,"
+    }
+   ],
+   "video_id": "YaPZ4E3-j3Q",
+   "video_title": "How to Generate Stock Ideas in 2026",
+   "video_url": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q&t=775s",
+   "call_date": "2026-06-13",
+   "date_uncertainty_days": 0,
+   "quote_en": "Design is used in every house at some point."
+  },
+  {
+   "company": "Rajesh Exports",
+   "symbol_guess": "RAJESHEXPO",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप राजेश एक्सपोर्ट्स को ले लो।",
+   "start_s": 700,
+   "line": "प्रोडक्ट्स के बारे में हम कुछ जानते ही",
+   "evidence": [
+    {
+     "text": "ले लो",
+     "where": "transcript",
+     "start_s": 702
+    },
+    {
+     "text": "राजेश एक्सपोर्ट्स",
+     "where": "transcript",
+     "start_s": 702
+    }
+   ],
+   "reason": "The speaker directly tells viewers to take Rajesh Exports, indicating a buy recommendation.",
+   "ticker": {
+    "yahoo_symbol": "RAJESHEXPO.NS",
+    "google_finance": "RAJESHEXPO:NSE",
+    "name": "Rajesh Exports Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 696,
+     "text": "देखता था कि हम ये नहीं करते हैं। हम वो"
+    },
+    {
+     "start_s": 699,
+     "text": "स्टॉक्स में इन्वेस्ट करते हैं जिनके"
+    },
+    {
+     "start_s": 700,
+     "text": "प्रोडक्ट्स के बारे में हम कुछ जानते ही"
+    },
+    {
+     "start_s": 702,
+     "text": "नहीं। आप राजेश एक्सपोर्ट्स को ले लो।"
+    },
+    {
+     "start_s": 705,
+     "text": "राजेश एक्सपोर्ट के बारे में आप और मैं एक"
+    }
+   ],
+   "video_id": "YaPZ4E3-j3Q",
+   "video_title": "How to Generate Stock Ideas in 2026",
+   "video_url": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=YaPZ4E3-j3Q&t=700s",
+   "call_date": "2026-06-13",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-06-15",
+     "price": 80.23,
+     "volume": 1310895
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-06-22",
+       "price": 102.38,
+       "volume": 307736
+      },
+      "stock_return_pct": 27.61,
+      "nifty_return_pct": 1.04,
+      "excess_vs_nifty_pct": 26.57,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-07-13",
+       "price": 91.66,
+       "volume": 114445
+      },
+      "stock_return_pct": 14.25,
+      "nifty_return_pct": 1.5,
+      "excess_vs_nifty_pct": 12.75,
+      "right": true
+     },
+     "90": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-11",
+       "price": 78.3,
+       "volume": 81802
+      },
+      "stock_return_pct": -2.41,
+      "nifty_return_pct": -1.91,
+      "excess_vs_nifty_pct": -0.5,
+      "right": false
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 112.63,
+     "baseline_daily_turnover_inr": 22749430,
+     "price_at_promotion": 80.23,
+     "peak_price": 107.49,
+     "peak_date": "2026-06-23",
+     "runup_x": 1.34,
+     "volume_spike_x": 9.0,
+     "trough_after_peak": 57.61,
+     "trough_date": "2026-10-09",
+     "drawdown_from_peak_pct": 46.4,
+     "data_spacing_days": 1.0
+    }
+   },
+   "quote_en": "Take Rajesh Exports."
+  },
+  {
+   "company": "MRF Ltd",
+   "symbol_guess": "MRF",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "जैसे एमआरएफ, टायर्स, रबर यह कमोडिटी है।",
+   "start_s": 188,
+   "line": "नहीं किया है। यह सिर्फ एक एग्जांपल है।",
+   "evidence": [
+    {
+     "text": "जैसे एमआरएफ",
+     "where": "transcript",
+     "start_s": 191
+    }
+   ],
+   "reason": "The speaker mentions MRF only as an example of a commodity business, not as a recommendation.",
+   "ticker": {
+    "yahoo_symbol": "MRF.NS",
+    "google_finance": "MRF:NSE",
+    "name": "MRF Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 183,
+     "text": "बिजनेस बनाएं। डिस्क्लोज़र मैं इन्वेस्टेड"
+    },
+    {
+     "start_s": 187,
+     "text": "नहीं हूं। हमने क्लाइंट्स को इन्वेस्ट"
+    },
+    {
+     "start_s": 188,
+     "text": "नहीं किया है। यह सिर्फ एक एग्जांपल है।"
+    },
+    {
+     "start_s": 191,
+     "text": "जैसे एमआरएफ, टायर्स, रबर यह कमोडिटी है।"
+    },
+    {
+     "start_s": 196,
+     "text": "लेकिन जब आप रिप्लेसमेंट मार्केट में टायर"
+    }
+   ],
+   "video_id": "sMFP8VaqrBY",
+   "video_title": "10 Types of Stocks that I Like",
+   "video_url": "https://www.youtube.com/watch?v=sMFP8VaqrBY",
+   "timestamp_url": "https://www.youtube.com/watch?v=sMFP8VaqrBY&t=188s",
+   "call_date": "2026-04-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Things like MRF, tires, and rubber are commodities."
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 1,
+   "scored_30d": 1,
+   "pending": 0,
+   "beat_nifty_30d": 1,
+   "hit_rate_30d_pct": 100.0,
+   "avg_excess_vs_nifty_30d_pct": 12.75,
+   "median_excess_vs_nifty_30d_pct": 12.75
+  },
+  "featured_picks": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "all_scoreable": {
+   "calls": 1,
+   "scored_30d": 1,
+   "pending": 0,
+   "beat_nifty_30d": 1,
+   "hit_rate_30d_pct": 100.0,
+   "avg_excess_vs_nifty_30d_pct": 12.75,
+   "median_excess_vs_nifty_30d_pct": 12.75
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [],
+  "watch_mentions": 2
+ },
+ "regulatory": {
+  "name": "Pranjal Kamra",
+  "sebi_pages": [
+   {
+    "title": "These aren't fancy hacks or get-rich-quick tricks, just solid, time- ...",
+    "url": "https://www.instagram.com/reel/DL-F_MjSVM9/",
+    "snippet": "Read all the related documents carefully before investing. Stock market India, stock review, mutual funds, pranjal kamra, stok market news, ..."
+   },
+   {
+    "title": "Disclaimer: This video is solely meant for educational purpose ...",
+    "url": "https://www.instagram.com/reel/DLNYrjnN-bU/",
+    "snippet": "PK Bola Stock Review Series EP 7: Real Estate Stocks Disclaimer: Pranjal Kamra is the Director of Finology Ventures Pvt. Ltd., a SEBI Registered ..."
+   },
+   {
+    "title": "Pranjal Kamra (author of Investonomy)",
+    "url": "https://sobrief.com/authors/pranjal-kamra",
+    "snippet": "Pranjal Kamra is an Indian financial expert and author known for his expertise in stock market investing. · He gained popularity as a YouTuber, sharing ..."
+   },
+   {
+    "title": "Best Mutual Funds for 2024 by Pranjal Kamra Reviewed",
+    "url": "https://www.youtube.com/watch?v=xq1GSxAn9LA",
+    "snippet": "Best Mutual Funds for 2024 by Pranjal Kamra Reviewed | Best Mutual Funds Review. @cashitijgupta1K likes25K views2 years ago"
+   },
+   {
+    "title": "Pranjal Kamra",
+    "url": "https://www.viewstats.com/@pranjalkamra/videos/Nmz1lC7Dv6A",
+    "snippet": "Find more daily YouTube data insights of Pranjal Kamra using Viewstats with features like detailed charts for video and channel data, projections, ..."
+   },
+   {
+    "title": "Pranjal Kamra",
+    "url": "https://www.viewstats.com/@pranjalkamra/videos/yUfuFjz5T4k",
+    "snippet": "Find more daily YouTube data insights of Pranjal Kamra using Viewstats with features like detailed charts for video and channel data, projections, ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "Fake finfluencers misleading common man: What is SEBI doing to rein in the menace and is it enough?",
+    "url": "https://m.economictimes.com/wealth/invest/fake-finfluencers-misleading-common-man-what-is-sebi-doing-to-rein-in-the-menace-and-is-it-enough/articleshow/121373079.cms",
+    "source": "The Economic Times",
+    "date": "05/26/2025, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Follow Influencers For Entertainment Not Education: Pranjal Kamra, Founder, Finology Ventures, Sebi RIA",
+    "url": "https://www.outlookmoney.com/news/follow-influencers-for-entertainment-not-education-pranjal-kamra-founder-finology-ventures-sebi-ria",
+    "source": "Outlook Money",
+    "date": "10/05/2024, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Sebi loopholes, bull run gave financial influencers wings…",
+    "url": "https://the-ken.com/story/sebi-loopholes-bull-run-gave-financial-influencers-wings/",
+    "source": "The Ken",
+    "date": "07/29/2022, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "7 stock market red flags every Indian investor must avoid",
+    "url": "https://www.livemint.com/market/stock-market-news/7-stock-market-red-flags-every-indian-investor-must-avoid-11753855347182.html",
+    "source": "Livemint",
+    "date": "07/30/2025, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "pranjal kamra",
+    "url": "https://edtimes.in/rise-of-the-finfluencers-why-are-they-under-sebis-lens/pranjal-kamra/",
+    "source": "ED Times",
+    "date": "07/09/2025, 04:56 AM, +0000 UTC"
+   },
+   {
+    "title": "The finfluencer winter: How Sebi is tightening the leash on new-age financial influencers",
+    "url": "https://www.businesstoday.in/magazine/the-buzz/story/the-finfluencer-winter-how-sebi-is-tightening-the-leash-on-new-age-financial-influencers-384733-2023-06-08",
+    "source": "Business Today",
+    "date": "06/08/2023, 07:00 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 13,
+ "generated_at": "2026-10-10T08:32:59"
+}

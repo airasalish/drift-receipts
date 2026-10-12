@@ -1,0 +1,1525 @@
+{
+ "channel": "Yadnya Investment Academy",
+ "channel_url": "https://www.youtube.com/@InvestYadnya",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "UXW4lAFTR_8",
+   "title": "Daily Stock Market News (Sept 9, 2026): US–Iran War Pushes Oil Up, ₹35,000 Cr Projects, GE Vernova",
+   "url": "https://www.youtube.com/watch?v=UXW4lAFTR_8",
+   "channel": "Yadnya Investment Academy",
+   "channel_url": "https://www.youtube.com/@InvestYadnya",
+   "views": 20412,
+   "length": "21:50",
+   "published_text": "1mo ago",
+   "published_date": "2026-09-09",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/UXW4lAFTR_8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASbxrXI_lVEMh113_57VUiMLNP-A",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "TcLUY8kbo7Q",
+   "title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "channel": "Yadnya Investment Academy",
+   "channel_url": "https://www.youtube.com/@InvestYadnya",
+   "views": 3830,
+   "length": "13:18",
+   "published_text": "2mo ago",
+   "published_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/TcLUY8kbo7Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiSlRtqozDtMi3raB64AgN0hV3-A",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 3,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "8vcQULv3gB8",
+   "title": "Daily Stock Market News(01-July-2026): ₹1.25L Cr ISM 2.0, Kotak's Mega Deal & KPIT",
+   "url": "https://www.youtube.com/watch?v=8vcQULv3gB8",
+   "channel": "Yadnya Investment Academy",
+   "channel_url": "https://www.youtube.com/@InvestYadnya",
+   "views": 11696,
+   "length": "22:44",
+   "published_text": "3mo ago",
+   "published_date": "2026-07-01",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/8vcQULv3gB8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDroPfqQ5evZDOQXwP5wNh5dnYbCQ",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "q8H2r2k8iZA",
+   "title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "channel": "Yadnya Investment Academy",
+   "channel_url": "https://www.youtube.com/@InvestYadnya",
+   "views": 14054,
+   "length": "19:47",
+   "published_text": "3mo ago",
+   "published_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/q8H2r2k8iZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB_DBm2jU-DzKyFtfinB97CsYr2w",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 2,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  }
+ ],
+ "calls": [
+  {
+   "company": "Bajaj Finance",
+   "symbol_guess": "BAJAJFINSV",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एक्विजिशन वो डेफिनेटली Bajaj Finance के लिए यहां पे कैसे हेल्प करेगा",
+   "start_s": 1214,
+   "line": "सिक्योरिटी क्वांटम टेक्नोलॉजी फinटेक एंड कंज्यूमर टेक्नोलॉजी ये सबके लिए तो जो ट्रू फैन का इन्होंने जो किया है",
+   "evidence": [
+    {
+     "text": "Bajaj Finance",
+     "where": "transcript",
+     "start_s": 1222
+    },
+    {
+     "text": "हेल्प करेगा",
+     "where": "transcript",
+     "start_s": 1222
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Finance in the context of an acquisition helping the company, but does not explicitly advise buying or selling, so it is treated as a watch.",
+   "ticker": {
+    "yahoo_symbol": "BAJFINANCE.NS",
+    "google_finance": "BAJFINANCE:NSE",
+    "name": "Bajaj Finance Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 1200,
+     "text": "अर्ली स्टेज कंपनीज पे फ्रॉम सी टू सीरीज बी कैपिटल यहां पर कंपनी प्रोवाइड करती है"
+    },
+    {
+     "start_s": 1206,
+     "text": "एंड जो कौन सी कंपनीज के लिए करते हैं तो जो मेनली स्ट्रांग इनोवेशन स्केलेबिलिटी पोटेंशियल रहेगा जिनका अक्रॉस एआई साइबर"
+    },
+    {
+     "start_s": 1214,
+     "text": "सिक्योरिटी क्वांटम टेक्नोलॉजी फinटेक एंड कंज्यूमर टेक्नोलॉजी ये सबके लिए तो जो ट्रू फैन का इन्होंने जो किया है"
+    },
+    {
+     "start_s": 1222,
+     "text": "एक्विजिशन वो डेफिनेटली Bajaj Finance के लिए यहां पे कैसे हेल्प करेगा तो कंपनी वो यूज़ यूज़ करेगी टू जनरेट मिलियन ऑफ़ पर्सनलाइज वीडियोस फॉर कस्टमर इंगेजमेंट"
+    },
+    {
+     "start_s": 1230,
+     "text": "एंड डीलर इनेबल इनेबलमेंट इनिशिएटिव्स के लिए एंड वो एआई लेट जो ऑटोमेशन एंड"
+    }
+   ],
+   "video_id": "UXW4lAFTR_8",
+   "video_title": "Daily Stock Market News (Sept 9, 2026): US–Iran War Pushes Oil Up, ₹35,000 Cr Projects, GE Vernova",
+   "video_url": "https://www.youtube.com/watch?v=UXW4lAFTR_8",
+   "timestamp_url": "https://www.youtube.com/watch?v=UXW4lAFTR_8&t=1214s",
+   "call_date": "2026-09-09",
+   "date_uncertainty_days": 0,
+   "quote_en": "How will that acquisition definitely help Bajaj Finance here?"
+  },
+  {
+   "company": "HCL Technologies",
+   "symbol_guess": "HCLTECH",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "हैच का थोड़े से लॉसेस कंपनी के बड़े हैं",
+   "start_s": 529,
+   "line": "रेवेन्यू में है। हालांकि हैच का थोड़े से",
+   "evidence": [
+    {
+     "text": "लॉसेस",
+     "where": "transcript",
+     "start_s": 531
+    }
+   ],
+   "reason": "The speaker mentions HCL's losses without recommending it, so it is noted for monitoring.",
+   "ticker": {
+    "yahoo_symbol": "HCLTECH.NS",
+    "google_finance": "HCLTECH:NSE",
+    "name": "HCL Technologies Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 524,
+     "text": "ये नंबर काफी स्ट्रांग है। अगर डॉलर"
+    },
+    {
+     "start_s": 526,
+     "text": "टर्म्स में बात करूं 33% वाईवाई ग्रोथ"
+    },
+    {
+     "start_s": 529,
+     "text": "रेवेन्यू में है। हालांकि हैच का थोड़े से"
+    },
+    {
+     "start_s": 531,
+     "text": "लॉसेस कंपनी के बड़े हैं। बट डेफिनेटली अगर"
+    },
+    {
+     "start_s": 533,
+     "text": "ऑर्डर इंटेक की हम बात करें तो वो भी 27%"
+    }
+   ],
+   "video_id": "TcLUY8kbo7Q",
+   "video_title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "video_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q&t=529s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "quote_en": "Hatch’s small losses are big for the company."
+  },
+  {
+   "company": "Wipro",
+   "symbol_guess": "WIPRO",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "वायओवाई भी ये नंबर काफी स्ट्रांग है",
+   "start_s": 521,
+   "line": "कंपनी ने रिपोर्ट की है। एंड वाईओवाई भी",
+   "evidence": [
+    {
+     "text": "स्ट्रांग",
+     "where": "transcript",
+     "start_s": 519
+    }
+   ],
+   "reason": "Wipro is highlighted with strong numbers, implying a positive recommendation.",
+   "ticker": {
+    "yahoo_symbol": "WIPRO.NS",
+    "google_finance": "WIPRO:NSE",
+    "name": "Wipro Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 517,
+     "text": "उसके लेड भी काफी नंबर्स हैं। बट"
+    },
+    {
+     "start_s": 519,
+     "text": "डेफिनेटली एक स्ट्रांग यहां पे ग्रोथ"
+    },
+    {
+     "start_s": 521,
+     "text": "कंपनी ने रिपोर्ट की है। एंड वाईओवाई भी"
+    },
+    {
+     "start_s": 524,
+     "text": "ये नंबर काफी स्ट्रांग है। अगर डॉलर"
+    },
+    {
+     "start_s": 526,
+     "text": "टर्म्स में बात करूं 33% वाईवाई ग्रोथ"
+    }
+   ],
+   "video_id": "TcLUY8kbo7Q",
+   "video_title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "video_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q&t=521s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-07-28",
+     "price": 181.12,
+     "volume": 26873060
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-04",
+       "price": 186.3,
+       "volume": 11903457
+      },
+      "stock_return_pct": 2.86,
+      "nifty_return_pct": 2.62,
+      "excess_vs_nifty_pct": 0.24,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-27",
+       "price": 176.4,
+       "volume": 4695019
+      },
+      "stock_return_pct": -2.61,
+      "nifty_return_pct": 0.44,
+      "excess_vs_nifty_pct": -3.05,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 186.33,
+     "baseline_daily_turnover_inr": 4537938267,
+     "price_at_promotion": 181.12,
+     "peak_price": 188.66,
+     "peak_date": "2026-08-03",
+     "runup_x": 1.04,
+     "volume_spike_x": 6.8,
+     "trough_after_peak": 156.79,
+     "trough_date": "2026-09-29",
+     "drawdown_from_peak_pct": 16.9,
+     "data_spacing_days": 1
+    }
+   }
+  },
+  {
+   "company": "Coforge",
+   "symbol_guess": "COFORGE",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोफोर जैसी कंपनी में इन्होंने वेट बढ़ाया है",
+   "start_s": 401,
+   "line": "इन देयर मॉडल पोर्टफोलियो एंड कोफोर जैसी",
+   "evidence": [
+    {
+     "text": "वेट बढ़ाया",
+     "where": "transcript",
+     "start_s": 403
+    }
+   ],
+   "reason": "The speaker notes increased weight in Coforge, suggesting a bullish view.",
+   "ticker": {
+    "yahoo_symbol": "COFORGE.NS",
+    "google_finance": "COFORGE:NSE",
+    "name": "Coforge Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 394,
+     "text": "में भी उन्होंने अभी करेंटली अ जो अंडरवेट"
+    },
+    {
+     "start_s": 397,
+     "text": "पोजीशन थी वो बढ़ाई है बाय एडिंग Infosys"
+    },
+    {
+     "start_s": 401,
+     "text": "इन देयर मॉडल पोर्टफोलियो एंड कोफोर जैसी"
+    },
+    {
+     "start_s": 403,
+     "text": "कंपनी में इन्होंने वेट बढ़ाया है। तो"
+    },
+    {
+     "start_s": 405,
+     "text": "इन्होंने यही कहा है कि ओवरऑल अगर हम"
+    }
+   ],
+   "video_id": "TcLUY8kbo7Q",
+   "video_title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "video_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q&t=401s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-07-28",
+     "price": 1686.0,
+     "volume": 15625771
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-04",
+       "price": 1749.9,
+       "volume": 1189895
+      },
+      "stock_return_pct": 3.79,
+      "nifty_return_pct": 2.62,
+      "excess_vs_nifty_pct": 1.17,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-27",
+       "price": 1901.8,
+       "volume": 1759661
+      },
+      "stock_return_pct": 12.8,
+      "nifty_return_pct": 0.44,
+      "excess_vs_nifty_pct": 12.36,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 1417.87,
+     "baseline_daily_turnover_inr": 5444726677,
+     "price_at_promotion": 1686.0,
+     "peak_price": 2014.6,
+     "peak_date": "2026-08-28",
+     "runup_x": 1.19,
+     "volume_spike_x": 4.1,
+     "trough_after_peak": 1722.0,
+     "trough_date": "2026-09-29",
+     "drawdown_from_peak_pct": 14.5,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "In a company like Kofor, they have increased the weight."
+  },
+  {
+   "company": "Infosys",
+   "symbol_guess": "INFY",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बाय एडिंग Infosys",
+   "start_s": 394,
+   "line": "में भी उन्होंने अभी करेंटली अ जो अंडरवेट",
+   "evidence": [
+    {
+     "text": "बाय एडिंग",
+     "where": "transcript",
+     "start_s": 397
+    }
+   ],
+   "reason": "The speaker mentions adding Infosys to the portfolio, indicating a positive stance.",
+   "ticker": {
+    "yahoo_symbol": "INFY.NS",
+    "google_finance": "INFY:NSE",
+    "name": "Infosys Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 388,
+     "text": "है। तो मेनली एक टैक्टिकल यहां पे अपग्रेड"
+    },
+    {
+     "start_s": 392,
+     "text": "जेफरीज़ ने किया है। इवन उनके पोर्टफोलियो"
+    },
+    {
+     "start_s": 394,
+     "text": "में भी उन्होंने अभी करेंटली अ जो अंडरवेट"
+    },
+    {
+     "start_s": 397,
+     "text": "पोजीशन थी वो बढ़ाई है बाय एडिंग Infosys"
+    },
+    {
+     "start_s": 401,
+     "text": "इन देयर मॉडल पोर्टफोलियो एंड कोफोर जैसी"
+    }
+   ],
+   "video_id": "TcLUY8kbo7Q",
+   "video_title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "video_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q&t=394s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-07-28",
+     "price": 1105.7,
+     "volume": 28100895
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-04",
+       "price": 1167.5,
+       "volume": 9243589
+      },
+      "stock_return_pct": 5.59,
+      "nifty_return_pct": 2.62,
+      "excess_vs_nifty_pct": 2.97,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-27",
+       "price": 1110.8,
+       "volume": 6933998
+      },
+      "stock_return_pct": 0.46,
+      "nifty_return_pct": 0.44,
+      "excess_vs_nifty_pct": 0.02,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 1119.59,
+     "baseline_daily_turnover_inr": 15986711285,
+     "price_at_promotion": 1105.7,
+     "peak_price": 1190.7,
+     "peak_date": "2026-08-11",
+     "runup_x": 1.08,
+     "volume_spike_x": 2.4,
+     "trough_after_peak": 992.0,
+     "trough_date": "2026-10-07",
+     "drawdown_from_peak_pct": 16.7,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Buy, adding Infosys"
+  },
+  {
+   "company": "Coforge",
+   "symbol_guess": "COFORGE",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोफorर्ज जो जिसने एक्सीलेंट यहां पे रिजल्ट दिया है",
+   "start_s": 34,
+   "line": "यहां पे कवर करेंगे व्हिच इज़ कोफorर्ज जो",
+   "evidence": [
+    {
+     "text": "कवर करेंगे",
+     "where": "transcript",
+     "start_s": 34
+    },
+    {
+     "text": "एक्सीलेंट",
+     "where": "transcript",
+     "start_s": 36
+    }
+   ],
+   "reason": "The speaker discusses Coforge's Q1 FY27 results but does not give any buy/sell advice, so it is listed as a watch.",
+   "ticker": {
+    "yahoo_symbol": "COFORGE.NS",
+    "google_finance": "COFORGE:NSE",
+    "name": "Coforge Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 30,
+     "text": "वीडियो अराउंड एन अपडेट रिगार्डिंग इंडियन"
+    },
+    {
+     "start_s": 32,
+     "text": "आईटी कंपनीज़ और एक स्पेसिफिक कंपनी हम"
+    },
+    {
+     "start_s": 34,
+     "text": "यहां पे कवर करेंगे व्हिच इज़ कोफorर्ज जो"
+    },
+    {
+     "start_s": 36,
+     "text": "जिसने एक्सीलेंट यहां पे रिजल्ट दिया है"
+    },
+    {
+     "start_s": 38,
+     "text": "फॉर Q1 FY27 तो हेलो एवरीवन मेरा नाम है"
+    }
+   ],
+   "video_id": "TcLUY8kbo7Q",
+   "video_title": "Chinese Chipmaker's Listing — Why Indian IT Stocks are Suddenly Rising?",
+   "video_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q",
+   "timestamp_url": "https://www.youtube.com/watch?v=TcLUY8kbo7Q&t=34s",
+   "call_date": "2026-07-28",
+   "date_uncertainty_days": 0,
+   "quote_en": "Coforge, which has delivered excellent results here."
+  },
+  {
+   "company": "Titan Company Ltd",
+   "symbol_guess": "TITAN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ठीक है। बाकी Titan काफी अच्छा ग्रो किया।",
+   "start_s": 962,
+   "line": "उन्होंने सेटअप किया है",
+   "evidence": [
+    {
+     "text": "ग्रो किया",
+     "where": "transcript",
+     "start_s": 964
+    }
+   ],
+   "reason": "The speaker mentions Titan's growth but does not give a buy/sell recommendation.",
+   "ticker": {
+    "yahoo_symbol": "TITAN.NS",
+    "google_finance": "TITAN:NSE",
+    "name": "Titan Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 957,
+     "text": "इज़ व्हाट देयर थॉट प्रोसेस इज़ तो एक्सलरेट"
+    },
+    {
+     "start_s": 959,
+     "text": "230 उन्होंने 2030 का स्ट्रेटेजिक रोड मैप"
+    },
+    {
+     "start_s": 962,
+     "text": "उन्होंने सेटअप किया है"
+    },
+    {
+     "start_s": 964,
+     "text": "ठीक है। बाकी Titan काफी अच्छा ग्रो किया।"
+    },
+    {
+     "start_s": 966,
+     "text": "Titan का भी बहुत अच्छा अपडेट आया एंड"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=962s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Okay. The rest, Titan grew quite well."
+  },
+  {
+   "company": "Tata Consultancy Services",
+   "symbol_guess": "TCS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "TCS का रिजल्ट भी अच्छा है",
+   "start_s": 893,
+   "line": "मतलब मेरे को थोड़ा सा पॉजिटिव लगा कि आई",
+   "evidence": [
+    {
+     "text": "रिजल्ट भी अच्छा है",
+     "where": "transcript",
+     "start_s": 894
+    }
+   ],
+   "reason": "Positive earnings are noted for TCS but no explicit trade advice is given.",
+   "ticker": {
+    "yahoo_symbol": "TCS.NS",
+    "google_finance": "TCS:NSE",
+    "name": "Tata Consultancy Services Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 887,
+     "text": "info एज कल काफी बढ़ा आई थिंक वी वी सॉ दैट"
+    },
+    {
+     "start_s": 890,
+     "text": "राइट काफी अच्छा Q1 अपडेट आया उनका और"
+    },
+    {
+     "start_s": 893,
+     "text": "मतलब मेरे को थोड़ा सा पॉजिटिव लगा कि आई"
+    },
+    {
+     "start_s": 894,
+     "text": "थिंक होपफुली TCS का रिजल्ट भी अच्छा है"
+    },
+    {
+     "start_s": 896,
+     "text": "बिकॉज़ काफी ज्यादा जो उनके बिकॉज़री.com ही"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=893s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "TCS's results are also good"
+  },
+  {
+   "company": "Idea Cellular",
+   "symbol_guess": "IDEA",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट का काफी इंटरेस्ट दिखाया है।",
+   "start_s": 839,
+   "line": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट",
+   "evidence": [
+    {
+     "text": "इंटरेस्ट दिखाया है",
+     "where": "transcript",
+     "start_s": 844
+    }
+   ],
+   "reason": "The speaker notes foreign interest in Idea but does not give a buy/sell cue.",
+   "ticker": {
+    "yahoo_symbol": "IDEA.NS",
+    "google_finance": "IDEA:NSE",
+    "name": "Vodafone Idea Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 835,
+     "text": "ठीक है? बाकी SBI का आईपीओ आ रहा है। ठीक"
+    },
+    {
+     "start_s": 837,
+     "text": "है? तो काफी सारे सोन वेल्थ फंड्स वगैरह"
+    },
+    {
+     "start_s": 839,
+     "text": "Idea अबू धाबी सिंगापुर ने इन्वेस्टमेंट"
+    },
+    {
+     "start_s": 844,
+     "text": "का काफी इंटरेस्ट दिखाया है। राइट एस पर"
+    },
+    {
+     "start_s": 847,
+     "text": "वेरियस मतलब कुछ सोर्सेस ऑफ़ डाटा। राइट?"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=839s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Idea Abu Dhabi Singapore has shown a lot of interest in investment."
+  },
+  {
+   "company": "State Bank of India",
+   "symbol_guess": "SBIN",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बाकी SBI का आईपीओ आ रहा है।",
+   "start_s": 833,
+   "line": "ज्यादा चाहिए होगी।",
+   "evidence": [
+    {
+     "text": "आईपीओ आ रहा है",
+     "where": "transcript",
+     "start_s": 835
+    }
+   ],
+   "reason": "Mention of an upcoming SBI IPO is informational only, with no trade direction.",
+   "ticker": {
+    "yahoo_symbol": "SBIN.NS",
+    "google_finance": "SBIN:NSE",
+    "name": "State Bank of India",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 828,
+     "text": "बट मतलब डिसेंटली अगर पावर रिक्वायरमेंट"
+    },
+    {
+     "start_s": 831,
+     "text": "वहां से भी आती रही तो पावर तो बहुत"
+    },
+    {
+     "start_s": 833,
+     "text": "ज्यादा चाहिए होगी।"
+    },
+    {
+     "start_s": 835,
+     "text": "ठीक है? बाकी SBI का आईपीओ आ रहा है। ठीक"
+    },
+    {
+     "start_s": 837,
+     "text": "है? तो काफी सारे सोन वेल्थ फंड्स वगैरह"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=833s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "The rest of SBI's IPO is coming."
+  },
+  {
+   "company": "Tata Power",
+   "symbol_guess": "TATAPOWER",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Tata पावर का कल मैं एक आर्टिकल पढ़ रहा था।",
+   "start_s": 735,
+   "line": "जापान एंड जर्मनी से। ठीक है? Tata पावर",
+   "evidence": [
+    {
+     "text": "आर्टिकल पढ़ रहा था",
+     "where": "transcript",
+     "start_s": 738
+    }
+   ],
+   "reason": "The speaker discusses Tata Power's capacity plans but does not explicitly advise a trade.",
+   "ticker": {
+    "yahoo_symbol": "TATAPOWER.NS",
+    "google_finance": "TATAPOWER:NSE",
+    "name": "The Tata Power Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 732,
+     "text": "अच्छा बढ़ा है। एंड इंपोर्ट भी बढ़ा है।"
+    },
+    {
+     "start_s": 734,
+     "text": "13% का इंपोर्ट बढ़ा है मेजरली चाइना,"
+    },
+    {
+     "start_s": 735,
+     "text": "जापान एंड जर्मनी से। ठीक है? Tata पावर"
+    },
+    {
+     "start_s": 738,
+     "text": "का कल मैं एक आर्टिकल पढ़ रहा था। तो"
+    },
+    {
+     "start_s": 740,
+     "text": "उन्होंने थोड़ा सा स्ट्रांग ऐसा ₹1 लाख"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=735s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "I was reading an article about Tata Power yesterday."
+  },
+  {
+   "company": "Star Health Insurance",
+   "symbol_guess": "STARHEALTH",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्टार हेल्थ 19% का प्रीमियम ग्रोथ हुआ।",
+   "start_s": 660,
+   "line": "है यूनाइटेड ऑलमोस्ट 2.7%",
+   "evidence": [
+    {
+     "text": "19% का प्रीमियम ग्रोथ",
+     "where": "transcript",
+     "start_s": 664
+    }
+   ],
+   "reason": "Growth is reported for Star Health but no buying or selling cue is given.",
+   "ticker": {
+    "yahoo_symbol": "STARHEALTH.NS",
+    "google_finance": "STARHEALTH:NSE",
+    "name": "Star Health and Allied Insurance Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 652,
+     "text": "जून में ICICI लॉब 13.7% बिलो एवरेज"
+    },
+    {
+     "start_s": 657,
+     "text": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक"
+    },
+    {
+     "start_s": 660,
+     "text": "है यूनाइटेड ऑलमोस्ट 2.7%"
+    },
+    {
+     "start_s": 664,
+     "text": "स्टार हेल्थ 19% का प्रीमियम ग्रोथ हुआ।"
+    },
+    {
+     "start_s": 667,
+     "text": "निवापा जो है ऑलमोस्ट 34 एंड केयर हेल्थ"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=660s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Star Health's premium grew by 19%."
+  },
+  {
+   "company": "United India Insurance",
+   "symbol_guess": "UIIC",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "है यूनाइटेड ऑलमोस्ट 2.7%",
+   "start_s": 657,
+   "line": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक",
+   "evidence": [
+    {
+     "text": "ऑलमोस्ट 2.7%",
+     "where": "transcript",
+     "start_s": 660
+    }
+   ],
+   "reason": "The speaker notes a modest growth figure for United India Insurance without a recommendation.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 650,
+     "text": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर"
+    },
+    {
+     "start_s": 652,
+     "text": "जून में ICICI लॉब 13.7% बिलो एवरेज"
+    },
+    {
+     "start_s": 657,
+     "text": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक"
+    },
+    {
+     "start_s": 660,
+     "text": "है यूनाइटेड ऑलमोस्ट 2.7%"
+    },
+    {
+     "start_s": 664,
+     "text": "स्टार हेल्थ 19% का प्रीमियम ग्रोथ हुआ।"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=657s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "United is almost 2.7%"
+  },
+  {
+   "company": "Oriental Insurance",
+   "symbol_guess": "OICL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में",
+   "start_s": 652,
+   "line": "जून में ICICI लॉब 13.7% बिलो एवरेज",
+   "evidence": [
+    {
+     "text": "30%",
+     "where": "transcript",
+     "start_s": 643
+    }
+   ],
+   "reason": "A performance number is given for Oriental Insurance, but no advice to buy or sell is provided.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 648,
+     "text": "तो कंपनी स्पेसिफिक अगर हम बात करें तो"
+    },
+    {
+     "start_s": 650,
+     "text": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर"
+    },
+    {
+     "start_s": 652,
+     "text": "जून में ICICI लॉब 13.7% बिलो एवरेज"
+    },
+    {
+     "start_s": 657,
+     "text": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक"
+    },
+    {
+     "start_s": 660,
+     "text": "है यूनाइटेड ऑलमोस्ट 2.7%"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=652s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Oriental 30% is fine in the public sector"
+  },
+  {
+   "company": "New India Assurance",
+   "symbol_guess": "NIACL",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर जून में",
+   "start_s": 650,
+   "line": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर",
+   "evidence": [
+    {
+     "text": "10% ईयर ऑन ईयर",
+     "where": "transcript",
+     "start_s": 650
+    }
+   ],
+   "reason": "The speaker mentions the premium growth of New India Assurance but does not give a buying or selling instruction.",
+   "ticker": {
+    "yahoo_symbol": "NIACL.NS",
+    "google_finance": "NIACL:NSE",
+    "name": "The New India Assurance Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 645,
+     "text": "का नॉर्मल जनरल इंश्योरेंस वालों का था।"
+    },
+    {
+     "start_s": 648,
+     "text": "तो कंपनी स्पेसिफिक अगर हम बात करें तो"
+    },
+    {
+     "start_s": 650,
+     "text": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर"
+    },
+    {
+     "start_s": 652,
+     "text": "जून में ICICI लॉब 13.7% बिलो एवरेज"
+    },
+    {
+     "start_s": 657,
+     "text": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=650s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "New India Insurance grew 10% year over year in June."
+  },
+  {
+   "company": "ICICI Lombard",
+   "symbol_guess": "ICICIGI",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ICICI लॉब 13.7% बिलो एवरेज",
+   "start_s": 650,
+   "line": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर",
+   "evidence": [
+    {
+     "text": "13.7% बिलो एवरेज",
+     "where": "transcript",
+     "start_s": 652
+    }
+   ],
+   "reason": "The speaker reports a growth figure for ICICI Lombard without any explicit recommendation.",
+   "ticker": {
+    "yahoo_symbol": "ICICIGI.NS",
+    "google_finance": "ICICIGI:NSE",
+    "name": "ICICI Lombard General Insurance Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 645,
+     "text": "का नॉर्मल जनरल इंश्योरेंस वालों का था।"
+    },
+    {
+     "start_s": 648,
+     "text": "तो कंपनी स्पेसिफिक अगर हम बात करें तो"
+    },
+    {
+     "start_s": 650,
+     "text": "न्यू इंडिया इंश्योरेंस 10% ईयर ऑन ईयर"
+    },
+    {
+     "start_s": 652,
+     "text": "जून में ICICI लॉब 13.7% बिलो एवरेज"
+    },
+    {
+     "start_s": 657,
+     "text": "ओरिएंटल 30% ठीक है पब्लिक सेक्टर में ठीक"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=650s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0
+  },
+  {
+   "company": "Tata Motors",
+   "symbol_guess": "TATAMOTORS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "और इवन हमने देखे Tata Motors वगैरह के भी रिजल्ट्स देखे।",
+   "start_s": 498,
+   "line": "में आ रहा है। और इवन हमने देखे Tata",
+   "evidence": [
+    {
+     "text": "रिजल्ट्स देखे",
+     "where": "transcript",
+     "start_s": 500
+    }
+   ],
+   "reason": "Tata Motors is referenced in passing regarding results, with no explicit recommendation, thus classified as watch.",
+   "ticker": {
+    "yahoo_symbol": "TMCV.NS",
+    "google_finance": "TMCV:NSE",
+    "name": "Tata Motors Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 493,
+     "text": "ग्रोथ है। राइट? तो काफी जबरदस्त वहां पर"
+    },
+    {
+     "start_s": 496,
+     "text": "ग्रोथ जो है टू व्हीलर में स्पेशली ईवी"
+    },
+    {
+     "start_s": 498,
+     "text": "में आ रहा है। और इवन हमने देखे Tata"
+    },
+    {
+     "start_s": 500,
+     "text": "Motors वगैरह के भी रिजल्ट्स देखे तो इवन"
+    },
+    {
+     "start_s": 502,
+     "text": "फोर व्हीलर्स में भी और क्यों है? क्रूड"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=498s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "And we also looked at the results of Tata Motors and other companies."
+  },
+  {
+   "company": "Bajaj Auto",
+   "symbol_guess": "BAJAJ-AUTO",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "फिर Bajaj Auto ने 43,000 बेची हैं।",
+   "start_s": 483,
+   "line": "एंड 76% ईयर ऑन ईयर ग्रोथ है। ठीक है? ठीक",
+   "evidence": [
+    {
+     "text": "Bajaj Auto",
+     "where": "transcript",
+     "start_s": 486
+    },
+    {
+     "text": "43,000 बेची",
+     "where": "transcript",
+     "start_s": 486
+    }
+   ],
+   "reason": "The speaker mentions Bajaj Auto's sales numbers without recommending any action, so it is marked as watch.",
+   "ticker": {
+    "yahoo_symbol": "BAJAJ-AUTO.NS",
+    "google_finance": "BAJAJ-AUTO:NSE",
+    "name": "Bajaj Auto Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 479,
+     "text": "करें तो TVS मोटर क्लियरली नंबर वन है।"
+    },
+    {
+     "start_s": 480,
+     "text": "47,000 व्हीकल्स बेची हैं उन्होंने। राइट?"
+    },
+    {
+     "start_s": 483,
+     "text": "एंड 76% ईयर ऑन ईयर ग्रोथ है। ठीक है? ठीक"
+    },
+    {
+     "start_s": 486,
+     "text": "है? फिर Bajaj Auto ने 43,000 बेची हैं।"
+    },
+    {
+     "start_s": 488,
+     "text": "80% ईयर ऑन ईयर ग्रोथ है। अथर एनर्जी ने"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=483s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "Then Bajaj Auto has sold 43,000."
+  },
+  {
+   "company": "TVS Motor Company",
+   "symbol_guess": "TVSMOTOR",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "TVS मोटर अगर टू व्हीलर की बात करें तो TVS मोटर क्लियरली नंबर वन है।",
+   "start_s": 476,
+   "line": "राइट तो TVS मोटर अगर टू व्हीलर की बात",
+   "evidence": [
+    {
+     "text": "TVS मोटर",
+     "where": "transcript",
+     "start_s": 476
+    },
+    {
+     "text": "नंबर वन",
+     "where": "transcript",
+     "start_s": 479
+    }
+   ],
+   "reason": "The speaker cites TVS Motor's sales figures and market position but does not give a buy/sell directive, so it is classified as watch.",
+   "ticker": {
+    "yahoo_symbol": "TVSMOTOR.NS",
+    "google_finance": "TVSMOTOR:NSE",
+    "name": "TVS Motor Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 470,
+     "text": "ईयर बढ़ा है जून में। 63% व्हिच इज़"
+    },
+    {
+     "start_s": 472,
+     "text": "अमेजिंग। राइट? तो उसमें से अगर हम देखें"
+    },
+    {
+     "start_s": 476,
+     "text": "राइट तो TVS मोटर अगर टू व्हीलर की बात"
+    },
+    {
+     "start_s": 479,
+     "text": "करें तो TVS मोटर क्लियरली नंबर वन है।"
+    },
+    {
+     "start_s": 480,
+     "text": "47,000 व्हीकल्स बेची हैं उन्होंने। राइट?"
+    }
+   ],
+   "video_id": "q8H2r2k8iZA",
+   "video_title": "Daily Stock Market News(8 July 2026):Samsung update, Hormuz new escalation, FIIs buying, Tata Power",
+   "video_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA",
+   "timestamp_url": "https://www.youtube.com/watch?v=q8H2r2k8iZA&t=476s",
+   "call_date": "2026-07-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "If we talk about two-wheelers, TVS Motor is clearly number one."
+  },
+  {
+   "company": "Transformers & Rectifiers India Ltd",
+   "symbol_guess": "TRI",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ट्रांसफॉर्मर्स एंड रेक्टिफायर्स इंडिया",
+   "start_s": 926,
+   "line": "इज़ ट्रांसफॉर्मर्स एंड रेक्टिफायर्स",
+   "evidence": [
+    {
+     "text": "अल्ट्रा मेगा ऑर्डर",
+     "where": "transcript",
+     "start_s": 931
+    }
+   ],
+   "reason": "The company is mentioned as receiving a large order, but no explicit recommendation is given, so it is listed as a watch.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 921,
+     "text": "प्योर प्ले ईवी अह मैन्युफैक्चरिंग कंपनीज़"
+    },
+    {
+     "start_s": 924,
+     "text": "है। नेक्स्ट न्यूज़ इज़ रिगार्डिंग Parl दैट"
+    },
+    {
+     "start_s": 926,
+     "text": "इज़ ट्रांसफॉर्मर्स एंड रेक्टिफायर्स"
+    },
+    {
+     "start_s": 928,
+     "text": "इंडिया। इस कंपनी को पावर ग्रिड के द्वारा"
+    },
+    {
+     "start_s": 931,
+     "text": "एक अल्ट्रा मेगा ऑर्डर दिया गया है। सो"
+    }
+   ],
+   "video_id": "8vcQULv3gB8",
+   "video_title": "Daily Stock Market News(01-July-2026): ₹1.25L Cr ISM 2.0, Kotak's Mega Deal & KPIT",
+   "video_url": "https://www.youtube.com/watch?v=8vcQULv3gB8",
+   "timestamp_url": "https://www.youtube.com/watch?v=8vcQULv3gB8&t=926s",
+   "call_date": "2026-07-01",
+   "date_uncertainty_days": 0,
+   "quote_en": "Transformers and Rectifiers India"
+  },
+  {
+   "company": "KPIT Technologies Ltd",
+   "symbol_guess": "KPIT",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "केपीआईटी",
+   "start_s": 783,
+   "line": "दिख रहा है। व्हिच इज़ कैन अफेक्ट द",
+   "evidence": [
+    {
+     "text": "नेगेटिव सेंटीमेंट",
+     "where": "transcript",
+     "start_s": 802
+    }
+   ],
+   "reason": "The speaker notes negative sentiment for KPIT but does not advise buying or selling, so it is listed as a watch.",
+   "ticker": {
+    "yahoo_symbol": "KPITTECH.BO",
+    "google_finance": "KPITTECH:BOM",
+    "name": "KPIT Technologies Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 777,
+     "text": "मार्जिनस पे फर्क पड़ रहा है। एंड दिस इज़"
+    },
+    {
+     "start_s": 780,
+     "text": "एन इंडिकेशन कि सेल्स वॉल्यूम में प्रेशर"
+    },
+    {
+     "start_s": 783,
+     "text": "दिख रहा है। व्हिच इज़ कैन अफेक्ट द"
+    },
+    {
+     "start_s": 786,
+     "text": "रेवेन्यूज़ ऑफ़ कंपनीज़ लाइक केपीआईटी जो"
+    },
+    {
+     "start_s": 788,
+     "text": "आउटसोर्स अह जो ये ओरिजिनल इक्विपमेंट"
+    }
+   ],
+   "video_id": "8vcQULv3gB8",
+   "video_title": "Daily Stock Market News(01-July-2026): ₹1.25L Cr ISM 2.0, Kotak's Mega Deal & KPIT",
+   "video_url": "https://www.youtube.com/watch?v=8vcQULv3gB8",
+   "timestamp_url": "https://www.youtube.com/watch?v=8vcQULv3gB8&t=783s",
+   "call_date": "2026-07-01",
+   "date_uncertainty_days": 0,
+   "quote_en": "KPIIT"
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "featured_picks": {
+   "calls": 3,
+   "scored_30d": 3,
+   "pending": 0,
+   "beat_nifty_30d": 2,
+   "hit_rate_30d_pct": 66.7,
+   "avg_excess_vs_nifty_30d_pct": 3.11,
+   "median_excess_vs_nifty_30d_pct": 0.02
+  },
+  "all_scoreable": {
+   "calls": 3,
+   "scored_30d": 3,
+   "pending": 0,
+   "beat_nifty_30d": 2,
+   "hit_rate_30d_pct": 66.7,
+   "avg_excess_vs_nifty_30d_pct": 3.11,
+   "median_excess_vs_nifty_30d_pct": 0.02
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [],
+  "watch_mentions": 18
+ },
+ "regulatory": {
+  "name": "Yadnya Investment Academy",
+  "sebi_pages": [
+   {
+    "title": "Yadnya Investment Academy",
+    "url": "https://t.me/s/investyadnya?before=420",
+    "snippet": "How to Invest in International Stocks? Yadnya Investment Academy. How to Invest in International Stocks? | How to invest in Google, Amazon, Microsoft, etc? - ..."
+   },
+   {
+    "title": "Yadnya Investment Academy",
+    "url": "https://www.facebook.com/InvestYadnya/photos/1001767835304295/",
+    "snippet": "Join us on our channel to view directly Yadnya Investment Academy Save and share this with someone choosing investments before defining their ..."
+   },
+   {
+    "title": "Mutual Funds – Page 3",
+    "url": "https://blog.investyadnya.in/category/mutual-funds/page/3/",
+    "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ..."
+   },
+   {
+    "title": "Yadnya Investment Academy - Hindi",
+    "url": "https://www.youtube.com/channel/UCmWjF2A-BruGEH6FAHTpfgw",
+    "snippet": "Yadnya Investment Academy - Hindi · Mutual Fund Benchmark & Categories in Hindi | म्यूच्यूअल फंड्स के प्रकार · म्यूच्यूअल ..."
+   },
+   {
+    "title": "Tag: Investment",
+    "url": "https://blog.investyadnya.in/tag/investment/",
+    "snippet": "Yadnya Investment Academy. Menu. Products · Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest ..."
+   },
+   {
+    "title": "Tag: What Should Individuals Do?",
+    "url": "https://blog.investyadnya.in/tag/what-should-individuals-do/",
+    "snippet": "Yadnya Investment Academy. Menu. Products · Personalized Financial Planning · Stock Market Analysis Subscription · Simplest Income Tax ..."
+   }
+  ],
+  "news": [
+   {
+    "title": "Impact of New SEBI Rule on Parag Parikh Long Term Equity Fund",
+    "url": "https://blog.investyadnya.in/2020/09/14/impact-of-new-sebi-rule-on-parag-parikh-long-term-equity-fund/",
+    "source": "Invest Yadnya",
+    "date": "09/14/2020, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Which International Mutual Fund One Can Invest Now?",
+    "url": "https://blog.investyadnya.in/2022/07/11/which-international-mutual-fund-one-can-invest-now/",
+    "source": "Invest Yadnya",
+    "date": "07/11/2022, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "SEBI New Rule on Multicap Funds Asset Allocation (Sept 11, 2020)",
+    "url": "https://blog.investyadnya.in/2020/09/12/sebi-new-rule-on-multicap-funds-asset-allocation-sept-11-2020/",
+    "source": "Invest Yadnya",
+    "date": "09/12/2020, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "New Market Cap Classification",
+    "url": "https://blog.investyadnya.in/2018/06/18/new-market-cap-classification/",
+    "source": "Invest Yadnya",
+    "date": "06/18/2018, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "UTI AMC IPO Coming Soon| Should You Invest?",
+    "url": "https://blog.investyadnya.in/2020/06/26/uti-amc-ipo-coming-soon-should-you-invest/",
+    "source": "Invest Yadnya",
+    "date": "06/26/2020, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Avenue Supermarts – Promoters Stake Sale",
+    "url": "https://blog.investyadnya.in/2019/11/13/avenue-supermarts-promoters-stake-sale/",
+    "source": "Invest Yadnya",
+    "date": "11/13/2019, 08:00 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [],
+ "credits_used": 11,
+ "live": false,
+ "generated_at": "2026-10-11T05:22:09"
+}

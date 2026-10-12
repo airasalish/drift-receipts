@@ -1,0 +1,18 @@
+.env
+**/.env
+**/.env.*
+!**/.env.example
+.claude
+**/.claude
+**/node_modules
+**/__pycache__
+frontend/dist
+backend/*.db
+backend/tests
+backend/scripts
+research
+
+# only needed when running audits, not by the live site (keeps the function under 225 MB)
+backend/data/serpapi_cache/youtube_video_[0-9a-f]*
+backend/data/extractions
+backend/data/serpapi_usage.json

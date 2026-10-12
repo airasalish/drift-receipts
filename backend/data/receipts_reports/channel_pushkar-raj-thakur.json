@@ -1,0 +1,2328 @@
+{
+ "channel": "Pushkar Raj Thakur",
+ "channel_url": "https://www.youtube.com/@PushkarRajThakurOfficial",
+ "status": "ok",
+ "videos": [
+  {
+   "video_id": "h9qYJRU98K0",
+   "title": "Buy These 5 Things Once You Get Money 💰",
+   "url": "https://www.youtube.com/watch?v=h9qYJRU98K0",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "channel_url": "https://www.youtube.com/@PushkarRajThakurOfficial",
+   "views": 180465,
+   "length": "39:56",
+   "published_text": "1mo ago",
+   "published_date": "2026-08-16",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/h9qYJRU98K0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCLH7wdi6Hu3DK5sjc8-DbSBiDYDA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 8,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "ok26ypzWKGE",
+   "title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "channel_url": "https://www.youtube.com/@PushkarRajThakurOfficial",
+   "views": 396432,
+   "length": "14:53",
+   "published_text": "2mo ago",
+   "published_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/ok26ypzWKGE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBv74lEtJhcHTL4UGU7WZQTvsfbQA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 1,
+    "chunks": 3,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "-APjlRq8Usw",
+   "title": "How to Start Investing in Stock Market? What is ETF? Where to Invest Money?",
+   "url": "https://www.youtube.com/watch?v=-APjlRq8Usw",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "channel_url": "https://www.youtube.com/@PushkarRajThakurOfficial",
+   "views": 1505285,
+   "length": "22:37",
+   "published_text": "2y ago",
+   "published_date": "2024-01-11",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/-APjlRq8Usw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5ql83vnajQY2x1_UQXbBmDdTHcA",
+   "transcript_status": "ok",
+   "extraction": {
+    "rejected_unverified": 0,
+    "chunks": 4,
+    "llm_failed_chunks": 0
+   }
+  },
+  {
+   "video_id": "BeVw7UH_i9U",
+   "title": "How to Start Investing in Share Market? How to Make Money from Stock Market Trading?",
+   "url": "https://www.youtube.com/watch?v=BeVw7UH_i9U",
+   "channel": "Pushkar Raj Thakur: Stock Market Educator 📈",
+   "channel_url": "https://www.youtube.com/@PushkarRajThakurOfficial",
+   "views": 16336353,
+   "length": "19:14",
+   "published_text": "4y ago",
+   "published_date": "2022-03-21",
+   "date_uncertainty_days": 0,
+   "thumbnail": "https://i.ytimg.com/vi/BeVw7UH_i9U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCUA5u84FQNhfXbdsD232Mwc_UEw",
+   "transcript_status": "none"
+  }
+ ],
+ "calls": [
+  {
+   "company": "Reliance Capital Ltd",
+   "symbol_guess": null,
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आरसी की बात कर रहा था",
+   "start_s": 720,
+   "line": "मैंने बात करी जैसे कोल इंडिया की बात कर",
+   "evidence": [
+    {
+     "text": "आरसी",
+     "where": "transcript",
+     "start_s": 722
+    }
+   ],
+   "reason": "The speaker mentions RC as part of the dividend stock list.",
+   "ticker": null,
+   "context": [
+    {
+     "start_s": 715,
+     "text": "क्लिक करोगे तो आपको स्टॉक्स मिल जाते"
+    },
+    {
+     "start_s": 716,
+     "text": "हैं। ठीक है? अब यहां पर जो स्टॉक्स की"
+    },
+    {
+     "start_s": 720,
+     "text": "मैंने बात करी जैसे कोल इंडिया की बात कर"
+    },
+    {
+     "start_s": 722,
+     "text": "रहा था। आरसी की बात कर रहा था। इंडियन"
+    },
+    {
+     "start_s": 724,
+     "text": "ऑयल की बात कर रहा था। ये स्टॉक्स ऑलरेडी"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=720s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "quote_en": "He was talking about RC."
+  },
+  {
+   "company": "Vedanta Ltd",
+   "symbol_guess": "VEDL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Vedanta",
+   "start_s": 537,
+   "line": "अगर आपको पूरे साल डिविडेंड चाहिए तो",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "Vedanta",
+     "where": "transcript",
+     "start_s": 539
+    }
+   ],
+   "reason": "Vedanta is suggested as a dividend stock to hold, fitting the video’s buy‑focused theme.",
+   "ticker": {
+    "yahoo_symbol": "VEDL.NS",
+    "google_finance": "VEDL:NSE",
+    "name": "Vedanta Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 533,
+     "text": "स्टॉक हमारे पोर्टफोलियो में है तो"
+    },
+    {
+     "start_s": 534,
+     "text": "ऑलमोस्ट हर मंथ मुझे डिविडेंड मिलेगा। अब"
+    },
+    {
+     "start_s": 537,
+     "text": "अगर आपको पूरे साल डिविडेंड चाहिए तो"
+    },
+    {
+     "start_s": 539,
+     "text": "Vedanta और TCS को आप अपने पोर्टफोलियो"
+    },
+    {
+     "start_s": 542,
+     "text": "में रख सकते हैं। एक तो ये मल्टी मल्टीपल"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=537s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 283.65,
+     "volume": 26401833
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 269.7,
+       "volume": 6638615
+      },
+      "stock_return_pct": -4.92,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -3.72,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 268.0,
+       "volume": 4892640
+      },
+      "stock_return_pct": -5.52,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -2.25,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 294.45,
+     "baseline_daily_turnover_inr": 6758163059,
+     "price_at_promotion": 283.65,
+     "peak_price": 287.95,
+     "peak_date": "2026-08-28",
+     "runup_x": 1.02,
+     "volume_spike_x": 1.2,
+     "trough_after_peak": 252.05,
+     "trough_date": "2026-10-01",
+     "drawdown_from_peak_pct": 12.5,
+     "data_spacing_days": 1
+    }
+   }
+  },
+  {
+   "company": "BHEL Ltd",
+   "symbol_guess": "BHEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बीएचएल",
+   "start_s": 513,
+   "line": "ग्रोथ मिली है। अच्छा हमने अभी तक कवर कर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "बीएचएल",
+     "where": "transcript",
+     "start_s": 515
+    }
+   ],
+   "reason": "BHEL is listed among the 12 best dividend stocks, implying a buy recommendation.",
+   "ticker": {
+    "yahoo_symbol": "BHEL.NS",
+    "google_finance": "BHEL:NSE",
+    "name": "Bharat Heavy Electricals Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 506,
+     "text": "की वजह से 0.6% के डिविडेंड की वजह से बट"
+    },
+    {
+     "start_s": 509,
+     "text": "यहां पर आप देख रहे हो 562% का यहां पर"
+    },
+    {
+     "start_s": 513,
+     "text": "ग्रोथ मिली है। अच्छा हमने अभी तक कवर कर"
+    },
+    {
+     "start_s": 515,
+     "text": "लिया नवंबर दिसंबर में बीएचएल पर आ जाते"
+    },
+    {
+     "start_s": 518,
+     "text": "हैं भेल पर। जो भेल है 0.34% का डिविडेंड"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=513s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 409.0,
+     "volume": 4506602
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 435.95,
+       "volume": 15351093
+      },
+      "stock_return_pct": 6.59,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 7.79,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 421.45,
+       "volume": 4092933
+      },
+      "stock_return_pct": 3.04,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 6.31,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 403.24,
+     "baseline_daily_turnover_inr": 5511364801,
+     "price_at_promotion": 409.0,
+     "peak_price": 452.0,
+     "peak_date": "2026-10-06",
+     "runup_x": 1.11,
+     "volume_spike_x": 1.7,
+     "trough_after_peak": 429.6,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 5.0,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "BHL"
+  },
+  {
+   "company": "Bharat Electronics Ltd",
+   "symbol_guess": "BEL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "बेल। भारत इलेक्ट्रॉनिक्स लिमिटेड।",
+   "start_s": 488,
+   "line": "वेरी गुड। उसके बाद आपका आता है नवंबर में",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "बेल। भारत इलेक्ट्रॉनिक्स लिमिटेड",
+     "where": "transcript",
+     "start_s": 492
+    }
+   ],
+   "reason": "BEL is presented as a dividend pick, and the title suggests a buying stance.",
+   "ticker": {
+    "yahoo_symbol": "BEL.NS",
+    "google_finance": "BEL:NSE",
+    "name": "Bharat Electronics Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 482,
+     "text": "है? एनटीसी पीसी का 2.57% का डिविडेंड है।"
+    },
+    {
+     "start_s": 486,
+     "text": "5 साल के अंदर 200% के आसपास की ग्रोथ है।"
+    },
+    {
+     "start_s": 488,
+     "text": "वेरी गुड। उसके बाद आपका आता है नवंबर में"
+    },
+    {
+     "start_s": 492,
+     "text": "बेल। भारत इलेक्ट्रॉनिक्स लिमिटेड। मैं"
+    },
+    {
+     "start_s": 494,
+     "text": "बेल की बात नहीं कर रहा। बीईएल की बात कर"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=488s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 404.35,
+     "volume": 7836426
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 412.45,
+       "volume": 7410599
+      },
+      "stock_return_pct": 2.0,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 3.2,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 404.0,
+       "volume": 5965784
+      },
+      "stock_return_pct": -0.09,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 3.18,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 411.23,
+     "baseline_daily_turnover_inr": 5272098423,
+     "price_at_promotion": 404.35,
+     "peak_price": 414.45,
+     "peak_date": "2026-08-31",
+     "runup_x": 1.02,
+     "volume_spike_x": 1.8,
+     "trough_after_peak": 367.3,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 11.4,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "BEL. Bharat Electronics Limited."
+  },
+  {
+   "company": "NTPC Ltd",
+   "symbol_guess": "NTPC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एनटीपीसी",
+   "start_s": 477,
+   "line": "अच्छी ग्रोथ आए। अक्टूबर में आ जाता है",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "एनटीपीसी",
+     "where": "transcript",
+     "start_s": 479
+    }
+   ],
+   "reason": "NTPC appears as a dividend stock recommendation, matching the buy‑oriented video premise.",
+   "ticker": {
+    "yahoo_symbol": "NTPC.NS",
+    "google_finance": "NTPC:NSE",
+    "name": "NTPC Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 472,
+     "text": "और 5 साल में 22% की रिटर्न है। रिटर्न"
+    },
+    {
+     "start_s": 475,
+     "text": "कुछ खास नहीं आई है। तो मे बी फ्यूचर में"
+    },
+    {
+     "start_s": 477,
+     "text": "अच्छी ग्रोथ आए। अक्टूबर में आ जाता है"
+    },
+    {
+     "start_s": 479,
+     "text": "एनटीपीसी। एनटीपीसी पे हम चलते हैं। ठीक"
+    },
+    {
+     "start_s": 482,
+     "text": "है? एनटीसी पीसी का 2.57% का डिविडेंड है।"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=477s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 340.45,
+     "volume": 8818488
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 337.0,
+       "volume": 7839848
+      },
+      "stock_return_pct": -1.01,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 0.19,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 332.0,
+       "volume": 5245813
+      },
+      "stock_return_pct": -2.48,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 0.79,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 361.74,
+     "baseline_daily_turnover_inr": 4195963028,
+     "price_at_promotion": 340.45,
+     "peak_price": 344.25,
+     "peak_date": "2026-08-13",
+     "runup_x": 1.01,
+     "volume_spike_x": 1.6,
+     "trough_after_peak": 309.7,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 10.0,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "NTPC"
+  },
+  {
+   "company": "Steel Authority of India Ltd",
+   "symbol_guess": "SAIL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्टील अथॉरिटी ऑफ़ इंडिया",
+   "start_s": 466,
+   "line": "सितंबर में आ जाता है स्टील अथॉरिटी ऑफ़",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "SAIL is included in the dividend stock list, and the video’s title frames it as a buy pick.",
+   "ticker": {
+    "yahoo_symbol": "SAIL.BO",
+    "google_finance": "SAIL:BOM",
+    "name": "Steel Authority of India Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 460,
+     "text": "नहीं बोलूंगा कि ये स्टॉक बेकार है। ठीक"
+    },
+    {
+     "start_s": 462,
+     "text": "है? आई वुड नॉट से दैट। आगे बढ़ते हैं। अ"
+    },
+    {
+     "start_s": 466,
+     "text": "सितंबर में आ जाता है स्टील अथॉरिटी ऑफ़"
+    },
+    {
+     "start_s": 468,
+     "text": "इंडिया सेल। सेल 1.3% का डिविडेंड देता है"
+    },
+    {
+     "start_s": 472,
+     "text": "और 5 साल में 22% की रिटर्न है। रिटर्न"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=466s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": null,
+    "horizons": {},
+    "target_hit": null,
+    "outcome": "no_price_data"
+   },
+   "price_source": "yahoo",
+   "pump_check": {
+    "status": "insufficient_data",
+    "fired": [],
+    "metrics": {}
+   },
+   "quote_en": "Steel Authority of India"
+  },
+  {
+   "company": "IRCTC Ltd",
+   "symbol_guess": "IRCTC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आईआरसीटीc",
+   "start_s": 428,
+   "line": "100% से ऊपर की ग्रोथ है। ठीक है? अगस्त",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "आईआरसीटीc",
+     "where": "transcript",
+     "start_s": 431
+    }
+   ],
+   "reason": "IRCTC is mentioned among the 12 best dividend stocks, implying a buy recommendation.",
+   "ticker": {
+    "yahoo_symbol": "IRCTC.NS",
+    "google_finance": "IRCTC:NSE",
+    "name": "Indian Railway Catering & Tourism Corporation Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 422,
+     "text": "जुलाई में एनएमडीसी आ जाता है। एनएमडीसी"
+    },
+    {
+     "start_s": 425,
+     "text": "4% का डिविडेंड दे रहा है। अगेन 5 साल में"
+    },
+    {
+     "start_s": 428,
+     "text": "100% से ऊपर की ग्रोथ है। ठीक है? अगस्त"
+    },
+    {
+     "start_s": 431,
+     "text": "में एनएपीसी और आईआरसीटीc आता है।"
+    },
+    {
+     "start_s": 434,
+     "text": "आईआरसीटीc कई लोगों के पोर्टफोलियो में"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=428s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 522.25,
+     "volume": 1232260
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 499.95,
+       "volume": 629180
+      },
+      "stock_return_pct": -4.27,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -3.07,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 474.5,
+       "volume": 405838
+      },
+      "stock_return_pct": -9.14,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -5.87,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 513.96,
+     "baseline_daily_turnover_inr": 475866909,
+     "price_at_promotion": 522.25,
+     "peak_price": 522.25,
+     "peak_date": "2026-08-10",
+     "runup_x": 1.0,
+     "volume_spike_x": 1.8,
+     "trough_after_peak": 449.85,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 13.9,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "IRCTc"
+  },
+  {
+   "company": "NMDC Ltd",
+   "symbol_guess": "NMDC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "एनएमडीसी",
+   "start_s": 420,
+   "line": "हैं हम जून तक आ गए हैं। ठीक है? फिर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "एनएमडीसी",
+     "where": "transcript",
+     "start_s": 422
+    }
+   ],
+   "reason": "The speaker lists NMDC as a dividend pick, aligning with the video’s buy‑focused theme.",
+   "ticker": {
+    "yahoo_symbol": "NMDC.NS",
+    "google_finance": "NMDC:NSE",
+    "name": "NMDC Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 414,
+     "text": "डिविडेंड 5% का है और 5 साल में 214% की"
+    },
+    {
+     "start_s": 418,
+     "text": "ग्रोथ है। अब देखो यहां तक हम जो पहुंचे"
+    },
+    {
+     "start_s": 420,
+     "text": "हैं हम जून तक आ गए हैं। ठीक है? फिर"
+    },
+    {
+     "start_s": 422,
+     "text": "जुलाई में एनएमडीसी आ जाता है। एनएमडीसी"
+    },
+    {
+     "start_s": 425,
+     "text": "4% का डिविडेंड दे रहा है। अगेन 5 साल में"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=420s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 85.48,
+     "volume": 21296974
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 85.5,
+       "volume": 40748162
+      },
+      "stock_return_pct": 0.02,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 1.22,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 83.85,
+       "volume": 15859358
+      },
+      "stock_return_pct": -1.91,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 1.36,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 87.2,
+     "baseline_daily_turnover_inr": 2101982431,
+     "price_at_promotion": 85.48,
+     "peak_price": 88.21,
+     "peak_date": "2026-08-26",
+     "runup_x": 1.03,
+     "volume_spike_x": 1.7,
+     "trough_after_peak": 70.69,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 19.9,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "NMDC"
+  },
+  {
+   "company": "Rural Electrification Corporation Ltd",
+   "symbol_guess": "REC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आरईसी",
+   "start_s": 410,
+   "line": "उसके बाद हम बात करते हैं जून के अंदर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "आरईसी",
+     "where": "transcript",
+     "start_s": 412
+    }
+   ],
+   "reason": "REC is presented as one of the dividend stocks, and the title suggests a buying stance.",
+   "ticker": {
+    "yahoo_symbol": "RECLTD.NS",
+    "google_finance": "RECLTD:NSE",
+    "name": "REC Ltd",
+    "exchange": "NSE",
+    "resolved_via": "google_search",
+    "search_query": "Rural Electrification Corporation Ltd"
+   },
+   "context": [
+    {
+     "start_s": 405,
+     "text": "कि जो सरकारी कंपनियों को ये लोग गाली दे"
+    },
+    {
+     "start_s": 407,
+     "text": "ना आप उसमें दांव लगा दीजिए साहब अच्छा ही"
+    },
+    {
+     "start_s": 410,
+     "text": "होने वाला है।"
+    },
+    {
+     "start_s": 410,
+     "text": "उसके बाद हम बात करते हैं जून के अंदर"
+    },
+    {
+     "start_s": 412,
+     "text": "आरईसी आ जाता है। आरईसी का अगर आप देखेंगे"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=410s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 343.75,
+     "volume": 12493406
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 340.0,
+       "volume": 5176231
+      },
+      "stock_return_pct": -1.09,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 0.11,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 316.4,
+       "volume": 3769684
+      },
+      "stock_return_pct": -7.96,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -4.69,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 353.33,
+     "baseline_daily_turnover_inr": 1849713336,
+     "price_at_promotion": 343.75,
+     "peak_price": 346.5,
+     "peak_date": "2026-08-13",
+     "runup_x": 1.01,
+     "volume_spike_x": 7.6,
+     "trough_after_peak": 287.75,
+     "trough_date": "2026-10-01",
+     "drawdown_from_peak_pct": 17.0,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "REC"
+  },
+  {
+   "company": "Power Finance Corporation Ltd",
+   "symbol_guess": "PFC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पावर फाइनेंस कॉरपोरेशन",
+   "start_s": 373,
+   "line": "कॉरपोरेशन ऑफ़ इंडिया है। फिर जून में पावर",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "पावर फाइनेंस कॉरपोरेशन",
+     "where": "transcript",
+     "start_s": 376
+    }
+   ],
+   "reason": "Listed as a dividend pick in a video titled for best dividend stocks, indicating a buy recommendation.",
+   "ticker": {
+    "yahoo_symbol": "PFC.BO",
+    "google_finance": "PFC:BOM",
+    "name": "Power Finance Corporation Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 370,
+     "text": "ये बढ़ भी सकता है, कम भी हो सकता है।"
+    },
+    {
+     "start_s": 371,
+     "text": "ध्यान रखिएगा। इसके बाद कंटेनर्स"
+    },
+    {
+     "start_s": 373,
+     "text": "कॉरपोरेशन ऑफ़ इंडिया है। फिर जून में पावर"
+    },
+    {
+     "start_s": 375,
+     "text": "फाइनेंस कॉरपोरेशन के ऊपर बात कर लेते"
+    },
+    {
+     "start_s": 376,
+     "text": "हैं। पावर फाइनेंस कॉरपोरेशन ये रहा। ठीक"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=373s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 386.0,
+     "volume": 1760341.0
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 375.0,
+       "volume": 257098.0
+      },
+      "stock_return_pct": -2.85,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -1.65,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 353.3999938964844,
+       "volume": 318924.0
+      },
+      "stock_return_pct": -8.45,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -5.18,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "yahoo",
+   "pump_check": {
+    "status": "ok",
+    "level": "partial",
+    "fired": [
+     {
+      "rule": "volume_spike",
+      "label": "Volume exploded after the promotion",
+      "detail": "peak volume 63x the pre-promotion average"
+     }
+    ],
+    "metrics": {
+     "baseline_avg_price": 420.17,
+     "baseline_daily_turnover_inr": 103862140,
+     "price_at_promotion": 386.0,
+     "peak_price": 386.0,
+     "peak_date": "2026-08-10",
+     "runup_x": 1.0,
+     "volume_spike_x": 63.0,
+     "trough_after_peak": 318.0,
+     "trough_date": "2026-10-01",
+     "drawdown_from_peak_pct": 17.6,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Power Finance Corporation"
+  },
+  {
+   "company": "Containers Corporation of India Ltd",
+   "symbol_guess": "CONCOR",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कंटेनर्स कॉरपोरेशन ऑफ़ इंडिया",
+   "start_s": 371,
+   "line": "ध्यान रखिएगा। इसके बाद कंटेनर्स",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The speaker includes Containers Corporation of India among the 12 best dividend stocks, matching the video’s buy‑oriented premise.",
+   "ticker": {
+    "yahoo_symbol": "CONCOR.NS",
+    "google_finance": "CONCOR:NSE",
+    "name": "Container Corporation of India Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 367,
+     "text": "दिखा रहा हूं। ये करंट डाटा है। इन फ्यूचर"
+    },
+    {
+     "start_s": 370,
+     "text": "ये बढ़ भी सकता है, कम भी हो सकता है।"
+    },
+    {
+     "start_s": 371,
+     "text": "ध्यान रखिएगा। इसके बाद कंटेनर्स"
+    },
+    {
+     "start_s": 373,
+     "text": "कॉरपोरेशन ऑफ़ इंडिया है। फिर जून में पावर"
+    },
+    {
+     "start_s": 375,
+     "text": "फाइनेंस कॉरपोरेशन के ऊपर बात कर लेते"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=371s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 501.9,
+     "volume": 2519164
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 524.5,
+       "volume": 583809
+      },
+      "stock_return_pct": 4.5,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 5.7,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 503.9,
+       "volume": 705152
+      },
+      "stock_return_pct": 0.4,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 3.67,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 484.98,
+     "baseline_daily_turnover_inr": 1046310310,
+     "price_at_promotion": 501.9,
+     "peak_price": 533.65,
+     "peak_date": "2026-08-13",
+     "runup_x": 1.06,
+     "volume_spike_x": 2.2,
+     "trough_after_peak": 434.0,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 18.7,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Containers Corporation of India"
+  },
+  {
+   "company": "Indian Oil Corporation Ltd",
+   "symbol_guess": "IOC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "इंडियन ऑयल कॉरपोरेशन।",
+   "start_s": 340,
+   "line": "हम देखते हैं मई के अंदर इंडियन ऑयल",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as top dividend picks and the speaker lists Indian Oil Corporation as one of them.",
+   "ticker": {
+    "yahoo_symbol": "IOC.BO",
+    "google_finance": "IOC:BOM",
+    "name": "Indian Oil Corporation Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 335,
+     "text": "2.5% का डिविडेंड दे रहा है और 300% की"
+    },
+    {
+     "start_s": 338,
+     "text": "ग्रोथ है। वेरी गुड। 5 साल में। इसके बाद"
+    },
+    {
+     "start_s": 340,
+     "text": "हम देखते हैं मई के अंदर इंडियन ऑयल"
+    },
+    {
+     "start_s": 342,
+     "text": "कॉरपोरेशन। इंडियन ऑयल पर चलते हैं।"
+    },
+    {
+     "start_s": 344,
+     "text": "इंडियन ऑयल का डिविडेंड अभी थोड़ा सा कम"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=340s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 141.8000030517578,
+     "volume": 238043.0
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 138.5,
+       "volume": 531745.0
+      },
+      "stock_return_pct": -2.33,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -1.13,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 135.5,
+       "volume": 261306.0
+      },
+      "stock_return_pct": -4.44,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -1.17,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "yahoo",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 141.33,
+     "baseline_daily_turnover_inr": 126230656,
+     "price_at_promotion": 141.8000030517578,
+     "peak_price": 141.8000030517578,
+     "peak_date": "2026-08-10",
+     "runup_x": 1.0,
+     "volume_spike_x": 4.1,
+     "trough_after_peak": 126.05000305175781,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 11.1,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Indian Oil Corporation."
+  },
+  {
+   "company": "Coal India Ltd",
+   "symbol_guess": "COALINDIA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "कोल इंडिया अगर आप देखोगे इस साल 10% के आसपास के रिटर्न है।",
+   "start_s": 299,
+   "line": "इंडिया अगर आप देखोगे इस साल 10% के आसपास",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 274
+    }
+   ],
+   "reason": "Presented as one of the best dividend stocks in the video.",
+   "ticker": {
+    "yahoo_symbol": "COALINDIA.NS",
+    "google_finance": "COALINDIA:NSE",
+    "name": "Coal India Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 296,
+     "text": "भी है। फिर अप्रैल में हम आ जाते हैं।"
+    },
+    {
+     "start_s": 297,
+     "text": "अप्रैल में आ जाता है कोल इंडिया। कोल"
+    },
+    {
+     "start_s": 299,
+     "text": "इंडिया अगर आप देखोगे इस साल 10% के आसपास"
+    },
+    {
+     "start_s": 301,
+     "text": "के रिटर्न है। 6% से ऊपर का डिविडेंड है"
+    },
+    {
+     "start_s": 304,
+     "text": "6.44% और 5 साल में 185% की ग्रोथ है। अब"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=299s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 411.0,
+     "volume": 6284552
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 408.45,
+       "volume": 4866733
+      },
+      "stock_return_pct": -0.62,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 0.58,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 418.85,
+       "volume": 13592701
+      },
+      "stock_return_pct": 1.91,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 5.18,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 442.81,
+     "baseline_daily_turnover_inr": 5134546500,
+     "price_at_promotion": 411.0,
+     "peak_price": 432.0,
+     "peak_date": "2026-09-10",
+     "runup_x": 1.05,
+     "volume_spike_x": 3.3,
+     "trough_after_peak": 409.35,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 5.2,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Coal India, if you look, has a return of about 10% this year."
+  },
+  {
+   "company": "Power Grid Corporation of India Ltd",
+   "symbol_guess": "POWERGRID",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "पावर ग्रिड कॉरपोरेशन सो अगर मैं पावर ग्रिड पर आपको लेकर जाऊं",
+   "start_s": 285,
+   "line": "मार्च के अंदर एक और स्टॉक है पावर ग्रिड",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 258
+    }
+   ],
+   "reason": "Listed among the dividend‑stock picks.",
+   "ticker": {
+    "yahoo_symbol": "POWERGRID.NS",
+    "google_finance": "POWERGRID:NSE",
+    "name": "Power Grid Corporation of India Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 281,
+     "text": "दिखाई है बट डिविडेंड रेगुलर दे रहा है"
+    },
+    {
+     "start_s": 283,
+     "text": "इसमें कोई प्रॉब्लम नहीं है उसके बाद"
+    },
+    {
+     "start_s": 285,
+     "text": "मार्च के अंदर एक और स्टॉक है पावर ग्रिड"
+    },
+    {
+     "start_s": 287,
+     "text": "कॉरपोरेशन सो अगर मैं पावर ग्रिड पर आपको"
+    },
+    {
+     "start_s": 290,
+     "text": "लेकर जाऊं तो 3% के आसपास का इसका"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=285s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 270.1,
+     "volume": 8329347
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 266.15,
+       "volume": 6631423
+      },
+      "stock_return_pct": -1.46,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -0.26,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 266.45,
+       "volume": 7015606
+      },
+      "stock_return_pct": -1.35,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 1.92,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 288.54,
+     "baseline_daily_turnover_inr": 3193058484,
+     "price_at_promotion": 270.1,
+     "peak_price": 272.4,
+     "peak_date": "2026-08-21",
+     "runup_x": 1.01,
+     "volume_spike_x": 2.3,
+     "trough_after_peak": 244.65,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 10.2,
+     "data_spacing_days": 1
+    }
+   }
+  },
+  {
+   "company": "Bharat Petroleum Corporation Ltd",
+   "symbol_guess": "BPCL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "अब हम आ जाते हैं मार्च में बीपीसीएल।",
+   "start_s": 270,
+   "line": "हम फरवरी तक पहुंचे। अब हम आ जाते हैं",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 241
+    }
+   ],
+   "reason": "Mentioned as part of the 12 best dividend stocks.",
+   "ticker": {
+    "yahoo_symbol": "BPCL.NS",
+    "google_finance": "BPCL:NSE",
+    "name": "Bharat Petroleum Corporation Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 265,
+     "text": "बट कभी-कभी आप रिटर्न मिस कर देते हो।"
+    },
+    {
+     "start_s": 267,
+     "text": "नेक्स्ट चलते हैं। समझते हैं। अच्छा अभी"
+    },
+    {
+     "start_s": 270,
+     "text": "हम फरवरी तक पहुंचे। अब हम आ जाते हैं"
+    },
+    {
+     "start_s": 272,
+     "text": "मार्च में बीपीसीएल। सो BPCL का अगर हम"
+    },
+    {
+     "start_s": 274,
+     "text": "चार्ट देखें डिविडेंड का डाटा यहां पर"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=270s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 318.5,
+     "volume": 3056257
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 316.65,
+       "volume": 4738730
+      },
+      "stock_return_pct": -0.58,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 0.62,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 312.9,
+       "volume": 2363459
+      },
+      "stock_return_pct": -1.76,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 1.51,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 305.82,
+     "baseline_daily_turnover_inr": 2541366951,
+     "price_at_promotion": 318.5,
+     "peak_price": 324.05,
+     "peak_date": "2026-08-31",
+     "runup_x": 1.02,
+     "volume_spike_x": 1.3,
+     "trough_after_peak": 286.25,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 11.7,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Now we come to BPC L in March."
+  },
+  {
+   "company": "Bharat Dynamics Ltd",
+   "symbol_guess": "INDIA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "अब अगर हम भारत डायनामिक्स को देखें",
+   "start_s": 229,
+   "line": "डायनामिक्स। अब अगर हम भारत डायनामिक्स को",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 222
+    }
+   ],
+   "reason": "Included in the video as a dividend‑stock recommendation.",
+   "ticker": {
+    "yahoo_symbol": "BDL.NS",
+    "google_finance": "BDL:NSE",
+    "name": "Bharat Dynamics Limited",
+    "exchange": "NSE",
+    "resolved_via": "manual_correction"
+   },
+   "context": [
+    {
+     "start_s": 222,
+     "text": "है। 6% से ऊपर का डिविडेंड है। वेरी गुड।"
+    },
+    {
+     "start_s": 225,
+     "text": "उसके बाद आ जाता है फ के अंदर भारत"
+    },
+    {
+     "start_s": 229,
+     "text": "डायनामिक्स। अब अगर हम भारत डायनामिक्स को"
+    },
+    {
+     "start_s": 231,
+     "text": "देखें तो यहां पर आपको दिखेगा डिविडेंड"
+    },
+    {
+     "start_s": 233,
+     "text": "ईल्ड है 0.4% अब यहां पर आप सोचोगे यार इस"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=229s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 1310.0,
+     "volume": 886389.0
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 1380.0,
+       "volume": 3151086.0
+      },
+      "stock_return_pct": 5.34,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 6.54,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 1241.699951171875,
+       "volume": 807688.0
+      },
+      "stock_return_pct": -5.21,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -1.94,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "yahoo",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 1295.13,
+     "baseline_daily_turnover_inr": 1539014986,
+     "price_at_promotion": 1310.0,
+     "peak_price": 1398.0,
+     "peak_date": "2026-08-14",
+     "runup_x": 1.07,
+     "volume_spike_x": 7.1,
+     "trough_after_peak": 1050.5,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 24.9,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "Now, if we look at Bharat Dynamics.",
+   "company_heard": "India Dynamics Ltd"
+  },
+  {
+   "company": "Hindustan Petroleum Corporation Ltd",
+   "symbol_guess": "HPCL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "हिंदुस्तान पेट्रोलियम कॉरपोरेशन का भी हम 5 साल का",
+   "start_s": 213,
+   "line": "कॉरपोरेशन लिमिटेड। तो हिंदुस्तान",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 193
+    }
+   ],
+   "reason": "Listed as a dividend‑paying company in the series of picks.",
+   "ticker": {
+    "yahoo_symbol": "HINDPETRO.NS",
+    "google_finance": "HINDPETRO:NSE",
+    "name": "Hindustan Petroleum Corporation Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 207,
+     "text": "डबल भी हो गया। ये आपको समझ आ गया है। अब"
+    },
+    {
+     "start_s": 210,
+     "text": "चलते हैं नेक्स्ट फinstट्रोलियम"
+    },
+    {
+     "start_s": 213,
+     "text": "कॉरपोरेशन लिमिटेड। तो हिंदुस्तान"
+    },
+    {
+     "start_s": 216,
+     "text": "पेट्रोलियम कॉरपोरेशन का भी हम 5 साल का"
+    },
+    {
+     "start_s": 218,
+     "text": "यहां पे चार्ट देख लेते हैं। 5 साल में"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=213s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 393.15,
+     "volume": 6272362
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 371.0,
+       "volume": 3669991
+      },
+      "stock_return_pct": -5.63,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": -4.43,
+      "right": false
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 356.9,
+       "volume": 3859485
+      },
+      "stock_return_pct": -9.22,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -5.95,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 390.96,
+     "baseline_daily_turnover_inr": 2706472780,
+     "price_at_promotion": 393.15,
+     "peak_price": 393.15,
+     "peak_date": "2026-08-10",
+     "runup_x": 1.0,
+     "volume_spike_x": 1.7,
+     "trough_after_peak": 326.0,
+     "trough_date": "2026-10-09",
+     "drawdown_from_peak_pct": 17.1,
+     "data_spacing_days": 1
+    }
+   }
+  },
+  {
+   "company": "National Aluminium Company Ltd",
+   "symbol_guess": "NALCO",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "नेशनल एलुमिनियम कॉरपोरेशन लिमिटेड पर।",
+   "start_s": 180,
+   "line": "एलुमिनियम",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    },
+    {
+     "text": "डिविडेंड",
+     "where": "transcript",
+     "start_s": 162
+    }
+   ],
+   "reason": "Presented as one of the dividend‑stock picks in the video.",
+   "ticker": {
+    "yahoo_symbol": "NATIONALUM.NS",
+    "google_finance": "NATIONALUM:NSE",
+    "name": "National Aluminium Company Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 174,
+     "text": "अच्छा हो गया। अभी यह 5 साल का डाटा हमें"
+    },
+    {
+     "start_s": 177,
+     "text": "बता रहा है। इसके बाद हम चलते हैं नेशनल"
+    },
+    {
+     "start_s": 180,
+     "text": "एलुमिनियम"
+    },
+    {
+     "start_s": 181,
+     "text": "कॉरपोरेशन लिमिटेड पर। 5 साल का इसका"
+    },
+    {
+     "start_s": 184,
+     "text": "चार्ट देखते हैं। एलुमिनियम का क्योंकि"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=180s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 382.7,
+     "volume": 5292453
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 387.55,
+       "volume": 9724992
+      },
+      "stock_return_pct": 1.27,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 2.47,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 365.9,
+       "volume": 3280288
+      },
+      "stock_return_pct": -4.39,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": -1.12,
+      "right": false
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "lagged_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 373.58,
+     "baseline_daily_turnover_inr": 4122263592,
+     "price_at_promotion": 382.7,
+     "peak_price": 420.0,
+     "peak_date": "2026-08-12",
+     "runup_x": 1.1,
+     "volume_spike_x": 3.1,
+     "trough_after_peak": 313.1,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 25.5,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "On National Aluminium Corporation Limited."
+  },
+  {
+   "company": "Oil and Natural Gas Corporation Ltd",
+   "symbol_guess": "ONGC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओएgसी ऑयल एंड नेचुरल गैस कॉरपोरेशन जो है और nco जो है यह डिविडेंड देते हैं।",
+   "start_s": 144,
+   "line": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as a list of top dividend stocks and the speaker lists ONGC as a dividend‑paying company.",
+   "ticker": {
+    "yahoo_symbol": "ONGC.NS",
+    "google_finance": "ONGC:NSE",
+    "name": "Oil and Natural Gas Corporation Limited",
+    "exchange": "NSE"
+   },
+   "context": [
+    {
+     "start_s": 140,
+     "text": "देती हैं। तो मैंने आपको डिस्क्लेमर दे"
+    },
+    {
+     "start_s": 142,
+     "text": "दिया तो शुरू करते हैं। जनवरी की अगर मैं"
+    },
+    {
+     "start_s": 144,
+     "text": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस"
+    },
+    {
+     "start_s": 147,
+     "text": "कॉरपोरेशन जो है और nco जो है यह डिविडेंड"
+    },
+    {
+     "start_s": 150,
+     "text": "देते हैं। कितना देते हैं? आइए देखते हैं।"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=144s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": {
+     "date": "2026-08-10",
+     "price": 239.84,
+     "volume": 10611162
+    },
+    "horizons": {
+     "7": {
+      "status": "done",
+      "exit": {
+       "date": "2026-08-17",
+       "price": 238.49,
+       "volume": 25342938
+      },
+      "stock_return_pct": -0.56,
+      "nifty_return_pct": -1.2,
+      "excess_vs_nifty_pct": 0.64,
+      "right": true
+     },
+     "30": {
+      "status": "done",
+      "exit": {
+       "date": "2026-09-07",
+       "price": 233.7,
+       "volume": 5391548
+      },
+      "stock_return_pct": -2.56,
+      "nifty_return_pct": -3.27,
+      "excess_vs_nifty_pct": 0.71,
+      "right": true
+     },
+     "90": {
+      "status": "pending"
+     }
+    },
+    "target_hit": null,
+    "outcome": "beat_market"
+   },
+   "price_source": "google_finance",
+   "pump_check": {
+    "status": "ok",
+    "level": "none",
+    "fired": [],
+    "metrics": {
+     "baseline_avg_price": 256.36,
+     "baseline_daily_turnover_inr": 4044237417,
+     "price_at_promotion": 239.84,
+     "peak_price": 239.9,
+     "peak_date": "2026-08-13",
+     "runup_x": 1.0,
+     "volume_spike_x": 1.7,
+     "trough_after_peak": 219.8,
+     "trough_date": "2026-10-08",
+     "drawdown_from_peak_pct": 8.4,
+     "data_spacing_days": 1
+    }
+   },
+   "quote_en": "OGC Oil and Natural Gas Corporation and NCO pay dividends"
+  },
+  {
+   "company": "NOC Ltd",
+   "symbol_guess": "NOC",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "ओएgसी ऑयल एंड नेचुरल गैस कॉरपोरेशन जो है और nco जो है यह डिविडेंड देते हैं।",
+   "start_s": 144,
+   "line": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस",
+   "evidence": [
+    {
+     "text": "Best Dividend Stocks",
+     "where": "title"
+    }
+   ],
+   "reason": "Mentioned together with ONGC as a dividend‑paying stock in the list of best dividend stocks.",
+   "ticker": {
+    "yahoo_symbol": "NOCIL.BO",
+    "google_finance": "NOCIL:BOM",
+    "name": "NOCIL Limited",
+    "exchange": "BSE"
+   },
+   "context": [
+    {
+     "start_s": 140,
+     "text": "देती हैं। तो मैंने आपको डिस्क्लेमर दे"
+    },
+    {
+     "start_s": 142,
+     "text": "दिया तो शुरू करते हैं। जनवरी की अगर मैं"
+    },
+    {
+     "start_s": 144,
+     "text": "बात करूं तो ओएgसी ऑयल एंड नेचुरल गैस"
+    },
+    {
+     "start_s": 147,
+     "text": "कॉरपोरेशन जो है और nco जो है यह डिविडेंड"
+    },
+    {
+     "start_s": 150,
+     "text": "देते हैं। कितना देते हैं? आइए देखते हैं।"
+    }
+   ],
+   "video_id": "ok26ypzWKGE",
+   "video_title": "How I Earn Monthly Dividends 📈 | 12 Best Dividend Stocks",
+   "video_url": "https://www.youtube.com/watch?v=ok26ypzWKGE",
+   "timestamp_url": "https://www.youtube.com/watch?v=ok26ypzWKGE&t=144s",
+   "call_date": "2026-08-08",
+   "date_uncertainty_days": 0,
+   "score": {
+    "entry": null,
+    "horizons": {},
+    "target_hit": null,
+    "outcome": "no_price_data"
+   },
+   "price_source": "yahoo",
+   "pump_check": {
+    "status": "insufficient_data",
+    "fired": [],
+    "metrics": {}
+   },
+   "quote_en": "OGC Oil and Natural Gas Corporation and NCO both pay dividends."
+  }
+ ],
+ "report_card": {
+  "explicit": {
+   "calls": 0,
+   "scored_30d": 0,
+   "pending": 0,
+   "beat_nifty_30d": 0,
+   "hit_rate_30d_pct": null,
+   "avg_excess_vs_nifty_30d_pct": null,
+   "median_excess_vs_nifty_30d_pct": null
+  },
+  "featured_picks": {
+   "calls": 19,
+   "scored_30d": 17,
+   "pending": 0,
+   "beat_nifty_30d": 9,
+   "hit_rate_30d_pct": 52.9,
+   "avg_excess_vs_nifty_30d_pct": -0.21,
+   "median_excess_vs_nifty_30d_pct": 0.71
+  },
+  "all_scoreable": {
+   "calls": 19,
+   "scored_30d": 17,
+   "pending": 0,
+   "beat_nifty_30d": 9,
+   "hit_rate_30d_pct": 52.9,
+   "avg_excess_vs_nifty_30d_pct": -0.21,
+   "median_excess_vs_nifty_30d_pct": 0.71
+  },
+  "targets_set": 0,
+  "targets_hit": 0,
+  "unresolved_companies": [
+   "Reliance Capital Ltd"
+  ],
+  "watch_mentions": 0
+ },
+ "regulatory": {
+  "name": "Pushkar Raj Thakur",
+  "sebi_pages": [
+   {
+    "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+    "url": "https://www.youtube.com/post/UgkxRcqP_W7izyB9WWsXgZPLUWXTLYoeFkjM",
+    "snippet": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube ... Pushkar Raj Thakur: Stock Market Educator. 112K views. 2 months ago. 130."
+   },
+   {
+    "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+    "url": "https://www.youtube.com/post/UgkxWzNm4sNTNux-BLC-XSIsznbNJhqBbLNO",
+    "snippet": "Post from Pushkar Raj Thakur: Stock Market Educator - YouTube. Home. Shorts. Library. Pushkar Raj Thakur: Stock Market Educator."
+   },
+   {
+    "title": "Market का सबसे बड़ा TRAP! Ft Pushkar Raj Thakur in ...",
+    "url": "https://www.youtube.com/watch?v=yBlpNTC0rN8",
+    "snippet": "Market Nobody Tells You. In this powerful and eye-opening session, Pushkar Raj Thakur exposes the brutal truth about stock market trading ..."
+   },
+   {
+    "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "url": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/x-pCv1nIMj4",
+    "snippet": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views."
+   },
+   {
+    "title": "Post from Pushkar Raj Thakur: Stock Market Educator 📈",
+    "url": "https://www.youtube.com/post/UgkxNZH8vH3yuls-msJZww0LykM0qnF7vYa0",
+    "snippet": "Pushkar Raj Thakur: Stock Market Educator · 1 month ago. Kya ek hi ... Pushkar Raj Thakur: Stock Market Educator. 56K views. 1 month ..."
+   },
+   {
+    "title": "Pushkar Raj Thakur: Stock Market Educator 📈",
+    "url": "https://www.viewstats.com/@pushkarrajthakurofficial/videos/ZR9d8sA9lyM",
+    "snippet": "Pushkar Raj Thakur: Stock Market Educator. Channel Country Logo. @pushkarrajthakurofficial. 2,880 videos. Subscribers. 15.4M15,400,000. #361. Total Views."
+   }
+  ],
+  "news": [
+   {
+    "title": "IOC 5.0 Traders Mahakumbh 2024: Pushkar Raj Thakur explains how to deploy Rs 1 cr on dips for consistent r",
+    "url": "https://m.economictimes.com/markets/options/ioc-5-0-traders-mahakumbh-2024-pushkar-raj-thakur-explains-how-to-deploy-rs-1-cr-on-dips-for-consistent-returns/articleshow/108543480.cms",
+    "source": "The Economic Times",
+    "date": "03/16/2024, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "NIFTY Crash or Just a Dip? 🔥 | LIVE Trading Today | Profit X Research | SEBI RA 26 SEPTEMBER 2025",
+    "url": "https://youtu.be/KRV4FzeRDD4?si=EokqN_D55jhwNc_-",
+    "source": "YouTube",
+    "date": "09/26/2025, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "Creators move Delhi HC over alleged Facebook edit loophole behind fake copyright claims",
+    "url": "https://www.buzzincontent.com/news/creators-move-delhi-hc-over-alleged-facebook-edit-loophole-behind-fake-copyright-claims-12170727",
+    "source": "Buzzincontent",
+    "date": "07/16/2026, 07:00 AM, +0000 UTC"
+   },
+   {
+    "title": "16 Top Trading YouTube Channels Indian Market Leaders Watch in 2026",
+    "url": "https://businessviewpointmagazine.com/top-trading-youtube-channels-india/",
+    "source": "Business Viewpoint Magazine",
+    "date": "03/04/2026, 07:08 AM, +0000 UTC"
+   }
+  ],
+  "checked": true
+ },
+ "notes": [
+  "One tip was re-matched by hand: the transcript said \"India Dynamics\", the speaker said Bharat Dynamics."
+ ],
+ "credits_used": 32,
+ "generated_at": "2026-10-10T21:18:05"
+}

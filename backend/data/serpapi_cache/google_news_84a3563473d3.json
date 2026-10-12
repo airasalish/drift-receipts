@@ -1,0 +1,1529 @@
+{
+ "search_metadata": {
+  "id": "6ac94526412f431a4b4d9112",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/ZO9tyXHcrTq-5clZgm_MjPL3cJk5iAxdzpsXGw9YP70/6ac94526412f431a4b4d9112.json",
+  "markdown_endpoint": "https://serpapi.com/searches/ZO9tyXHcrTq-5clZgm_MjPL3cJk5iAxdzpsXGw9YP70/6ac94526412f431a4b4d9112.md",
+  "created_at": "2026-10-09 19:48:54 UTC",
+  "processed_at": "2026-10-09 19:48:54 UTC",
+  "google_news_url": "https://news.google.com/search?q=Bharti+Airtel+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/ZO9tyXHcrTq-5clZgm_MjPL3cJk5iAxdzpsXGw9YP70/6ac94526412f431a4b4d9112.html",
+  "total_time_taken": 4.05
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Bharti Airtel share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Bharti Airtel Share Price Prediction for Monday: 12 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-12-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/09/2026, 01:08 PM, +0000 UTC",
+   "iso_date": "2026-10-09T13:08:52Z"
+  },
+  {
+   "position": 2,
+   "title": "Bharti Airtel stock at INR 1,805.10, 17.0 percent below high ??",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bharti-airtel-stock-at-inr-1-805-10-17-0-percent-below-high/70279210",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405021_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTRVMmxOWVVsUE1tVkdObnB4VFJDZkF4ampCU2dLTWdrQk1JQXJRYUc0aVFF",
+   "date": "10/09/2026, 01:17 PM, +0000 UTC",
+   "iso_date": "2026-10-09T13:17:01Z"
+  },
+  {
+   "position": 3,
+   "title": "Airtel Money Aims For $700 Million Share Sale With London Trading To Begin October 9",
+   "source": {
+    "name": "Sahi",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.sahi.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.sahi.com/news/airtel-money-aims-for-700-million-share-sale-with-london-trading-to-begin-october-9",
+   "thumbnail": "https://www.sahi.com/assets/uploads/3074_PE_1_CORPORATE_09_10_2026_16x9_4ad9619bf7.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNTZkVWRaUW0weWN6WTFWRkl6VFJDZUF4amxCU2dLTWdtcFJJanN2V1JrS1FJ",
+   "date": "10/09/2026, 05:31 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:31:43Z"
+  },
+  {
+   "position": 4,
+   "title": "Where Could Bharti Airtel Share Price Potentially Be in the Next 5 Years?",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=10/08/2026&story=2&title=Where-Could-Bharti-Airtel-Share-Price-Potentially-Be-in-the-Next-5-Years",
+   "thumbnail": "https://www.eqimg.com/images/2026/10072026-image3-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNVbVpPUW1GVU5UWk5aRUpNVFJEYkFSamVBaWdLTWdhWndvaEp3Z00",
+   "date": "10/08/2026, 01:30 AM, +0000 UTC",
+   "iso_date": "2026-10-08T01:30:00Z"
+  },
+  {
+   "position": 5,
+   "title": "Vodafone Idea, Bharti Airtel: Q2 results preview, share price targets",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/vodafone-idea-bharti-airtel-q2-results-preview-share-price-targets-559604-2026-10-05",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac37ad3326a8-centrum-broking-has-a-buy-rating-on-bharti-airtel-with-a-target-of-rs-2-594-vil-is-rated-neutral-052418112-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBibmRWYUd0VGVsSkhTRE5MVFJDZkF4ampCU2dLTWdZQkU0UmlQUVE",
+   "date": "10/05/2026, 10:24 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:24:42Z"
+  },
+  {
+   "position": 6,
+   "title": "Airtel Money IPO: London’s biggest listing in 5 years makes debut — Check how shares performed post-listing",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/airtel-money-ipo-london-s-biggest-listing-in-5-years-makes-debut-check-how-shares-performed-postlisting-11791546228190.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/09/1600x900/logo/Airtel_Money_IPO__London_Market_Slide_179154749701_1791547514703_2VTY_1791547514953_lDKS_1b91d4b3-5769-43fb-bbe8-0a37c414012b_sxbx.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNDJTRGxpTkdwM1ZscHJNMjk0VFJDb0FSaXJBaWdCTWdB",
+   "date": "10/09/2026, 12:15 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:15:40Z"
+  },
+  {
+   "position": 7,
+   "title": "Bharti Airtel shares jump after hiking postpaid tariffs by ₹50 across the board",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Reema Tendulkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/bharti-airtel-share-price-postpaid-tariff-hike-50-rupees-new-plans-revenue-contribution-roaming-implications-20006531.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/07/bharti-airtel-2026-07-bd7d1ebdcd35118f2b526e68633644c9.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZSM0I2VlZwSk5tSjRjM1pIVFJDZkF4ampCU2dLTWdZaEpJNk1JUWM",
+   "date": "10/07/2026, 06:41 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:41:53Z"
+  },
+  {
+   "position": 8,
+   "title": "Bharti Airtel share price: Stock rises 2% after Rs 50 postpaid tariff hike; are prepaid plans next?",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shweta Birendra Shukla",
+     "Birendra Shukla"
+    ]
+   },
+   "link": "https://www.zeebiz.com/market-news/news-bharti-airtel-share-price-stock-rises-2-after-rs-50-postpaid-tariff-hike-are-prepaid-plans-next-403541",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/10/07/415335-stock-to-watch-tomorrow-2026-10-07t170452603.png?im=FitAndFill=(448,252)&format=webp&quality=medium",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNHpTbEJmV0U1eFFsbEJkVmxTVFJEOEFSakFBeWdLTWdB",
+   "date": "10/07/2026, 11:35 AM, +0000 UTC",
+   "iso_date": "2026-10-07T11:35:24Z"
+  },
+  {
+   "position": 9,
+   "title": "Bharti Airtel shares rise 2.4% after postpaid tariff hike; Motilal Oswal retains buy",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Madhu Balaji"
+    ]
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/bharti-airtel-shares-rise-over-2-after-postpaid-tariff-hike-motilal-oswal-retains-buy/article71554810.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/p140io/article71306110.ece/alternates/LANDSCAPE_1200/2026-02-05T105345Z_1730916011_RC2L7HALI69E_RTRMADP_3_BHARTI-AIRTEL-RESULTS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHdTazlUU0RacVNUWndUVUl4VFJDZkF4ampCU2dLTWdtVlFKaVdtT2xUVEFJ",
+   "date": "10/07/2026, 09:25 AM, +0000 UTC",
+   "iso_date": "2026-10-07T09:25:49Z"
+  },
+  {
+   "position": 10,
+   "title": "Bharti Airtel Shares Jump on Rs 50 Postpaid Tariff Hike",
+   "source": {
+    "name": "Equitypandit",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitypandit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitypandit.com/bharti-airtel-shares-jump-on-rs-50-postpaid-tariff-hike/",
+   "thumbnail": "https://www.equitypandit.com/wp-content/uploads/2024/08/bharti-airtel-limited.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVRzFrT1d0MFIycEZXVVJFVFJESUFSaklBU2dLTWdhSk1vRE5IUW8",
+   "date": "10/07/2026, 08:45 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:45:03Z"
+  },
+  {
+   "position": 11,
+   "title": "Bharti Airtel shares rise up to 2% after telco hikes tariff on postpaid plans",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:a0a3b5220094b:0-bharti-airtel-shares-rise-up-to-2-after-telco-hikes-tariff-on-postpaid-plans/",
+   "thumbnail": "https://s.tradingview.com/static/images/illustrations/news-story.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBjR0phV0haM2FVMUZRMlZ4VFJDUkF4ajhCU2dLTWdhbGRKU3NMUWM",
+   "date": "10/07/2026, 11:20 AM, +0000 UTC",
+   "iso_date": "2026-10-07T11:20:01Z"
+  },
+  {
+   "position": 12,
+   "title": "Airtel Money slips below IPO offer price in $7 billion London debut",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.reuters.com/business/airtel-money-makes-muted-london-trading-debut-2026-10-09/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/SSWBRLVJHVPMRGYWY25CP6VUJI.jpg?auth=e87eb9d0ecaa3269e8d418f4e112321cfaf736e367a3c6c828649f0772063acb&width=1920&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxlVzVmT1hsQ1oweFdTMGszVFJEYUF4aUhCU2dLTWdZUlpJeVByUVU",
+   "date": "10/09/2026, 12:05 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:05:26Z"
+  },
+  {
+   "position": 13,
+   "title": "ICICI Direct keeps Buy rating for Bharti Airtel stock",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/icici-direct-keeps-buy-rating-for-bharti-airtel-stock/70275447",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405025_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUtabWRDUVhsdk1GcGxaSEZMVFJDZkF4ampCU2dLTWdrTk1vSXBOV09DaXdJ",
+   "date": "10/09/2026, 09:22 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:22:53Z"
+  },
+  {
+   "position": 14,
+   "title": "Bharti Airtel shares defy weak markets, rise over 2% after launch of new plans",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/bharti-airtel-shares-defy-weak-markets-rise-over-2-after-launch-of-new-plans/articleshow/134762997.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134763030,width-1200,height-900,resizemode-4,imgsize-21216/bharti-airtel-shares-defy-weak-markets-rise-over-2-after-launch-of-new-plansbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJaVWxrVkMweVEwOXJSMHRpVFJEZ0F4aUFCU2dLTWdZUmtJZ250Z1U",
+   "date": "10/07/2026, 10:16 AM, +0000 UTC",
+   "iso_date": "2026-10-07T10:16:20Z"
+  },
+  {
+   "position": 15,
+   "title": "Bharti Airtel Share Price Down 2.11% in Large Cap Trade",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-bharti-airtel-share-price-fall-today-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/Bharti_Airtel_BHARTIARTL_Share_Price_Falls_211_as_Telecom_Valuation_Stays_in_Focus_bearish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZaWFZhUjNwc1owdEdhbGw1VFJDUUF4ai1CU2dLTWdhQlFJakNtZ2s",
+   "date": "10/08/2026, 10:09 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:09:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Airtel Money makes London debut after raising $703 million in biggest IPO of the year",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Akash Podishetti"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/us-stocks/news/airtel-money-makes-muted-london-trading-debut/articleshow/134832118.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-134832403,width-1200,height-900,resizemode-4,imgsize-180492/airtel-money-makes-london-stock-exchange-debut.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXFOVE5CWjBWU1VWWmtVbVp0VFJEZ0F4aUFCU2dLTWdB",
+   "date": "10/09/2026, 11:24 AM, +0000 UTC",
+   "iso_date": "2026-10-09T11:24:47Z"
+  },
+  {
+   "position": 17,
+   "title": "Bharti Airtel Prediction for Tomorrow: 8 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-8-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/07/2026, 10:27 AM, +0000 UTC",
+   "iso_date": "2026-10-07T10:27:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Bharti Airtel Prediction for Tomorrow: 7 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-7-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/bharti-airtel-share-price-prediction-for-tomorrow-7-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdORkprZFZBeFZFVkllbTFGVFJDUUF4ai1CU2dLTWdZQk1JZ0Rtd28",
+   "date": "10/06/2026, 10:26 AM, +0000 UTC",
+   "iso_date": "2026-10-06T10:26:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Airtel Money to debut on London Stock Exchange; biggest listing in 5 yrs",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pablo Mayo Cerqueiro"
+    ]
+   },
+   "link": "https://www.business-standard.com/world-news/airtel-money-to-debut-on-london-stock-exchange-biggest-listing-in-5-yrs-126100900490_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-10/09/full/1791530611-4898.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNTFUa1phY0ZsSE4xTkxSWEJpVFJERUF4aW1CU2dLTWdB",
+   "date": "10/09/2026, 07:29 AM, +0000 UTC",
+   "iso_date": "2026-10-09T07:29:59Z"
+  },
+  {
+   "position": 20,
+   "title": "Bharti Airtel shares jump after hiking postpaid tariffs by ₹50 across the board - CNBC TV18",
+   "source": {
+    "name": "LinkedIn",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.linkedin.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.linkedin.com/posts/cnbc-tv18_bharti-airtel-shares-jump-after-hiking-postpaid-activity-7513491579819520000-2OAB",
+   "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQHVMNVr2yqR1Q/articleshare-shrink_800/B56aEVIvQvJ4AY-/0/1791355975170?e=2147483647&v=beta&t=JuIiyOSuAvJujoTLFdXVSayJRUQB2Ou9swWyhO6ZaVU",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNhVlpFUkdsMU56bHZTRnBGVFJDZkF4ampCU2dLTWdZaEpKQ3NJUWM",
+   "date": "10/07/2026, 06:53 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:53:06Z"
+  },
+  {
+   "position": 21,
+   "title": "Jio Platforms IPO could trigger re-rating of RIL, Bharti Airtel shares: Motilal Oswal",
+   "source": {
+    "name": "Firstpost",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.firstpost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.firstpost.com/business/jio-platforms-ipo-could-trigger-re-rating-of-ril-bharti-airtel-shares-motilal-oswal-14051098.html",
+   "thumbnail": "https://images.firstpost.com/uploads/2026/08/2026-03-24T164043Z_1403653941_RC21BKAE4UXS_RTRMADP_3_RELIANCE-JIO-IPO_cropped-2026-08-967aec4b4a55f02aca3d37ebd7be4c82-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXRVVlZVU2pSRGFWcG9aSFJzVFJDZkF4ampCU2dLTWdhdFVvZ3l0UVE",
+   "date": "10/07/2026, 08:01 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:01:46Z"
+  },
+  {
+   "position": 22,
+   "title": "Bharti Airtel Prediction for Tomorrow: 6 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-6-october-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/bharti-airtel-share-price-prediction-for-tomorrow-6-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWhaM3BFWlc0NVNtdEdhRWhhVFJDUUF4ai1CU2dLTWdZQk1JWURtd28",
+   "date": "10/05/2026, 10:22 AM, +0000 UTC",
+   "iso_date": "2026-10-05T10:22:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Bharti Airtel Prediction for Tomorrow: 9 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-9-october-2026",
+   "thumbnail": "https://assets.univest.in/web_assets/m_web_blogs.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFSVUZWZUU5MVlXWmhWVkIxVFJERkFoaXdCeWdLTWdrTklvYkZHR3R6dGdB",
+   "date": "10/08/2026, 10:22 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:22:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Bharti Airtel shares rise over 2% on postpaid tariff hike, complimentary international roaming",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-rise-over-on-complimentary-international-roaming-in-postpaid-plans-560073-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5ea3b3b668-customers-have-complete-flexibility-to-activate-the-5-day-pack-at-the-exact-time-of-their-choice--ma-074410217-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdaalkxWjNkVlVHNHhkbnBMVFJDZkF4ampCU2dLTWdhUmtJQkh1Z1U",
+   "date": "10/07/2026, 06:46 AM, +0000 UTC",
+   "iso_date": "2026-10-07T06:46:31Z"
+  },
+  {
+   "position": 25,
+   "title": "Airtel Money makes London Stock Exchange debut",
+   "source": {
+    "name": "Daily Excelsior",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.dailyexcelsior.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.dailyexcelsior.com/airtel-money-makes-london-stock-exchange-debut/amp/",
+   "thumbnail": "https://www.dailyexcelsior.com/sortd-service/imaginary/v22-01/jpg/large/high?url=cHVibGlzaC1kYWlseWV4Y2Vsc2lvci1jb20tcHJvZC1zb3J0ZC9tZWRpYTJiN2RlYjUwLWMzZGMtMTFmMS05N2QyLTcxMzIwNTZiZTJjZS5qcGc=",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpNMjU2WWxGdFlXZFZRVXA2VFJDaEF4amdCU2dLTWdZSmRaS2xyZ2M",
+   "date": "10/09/2026, 12:23 PM, +0000 UTC",
+   "iso_date": "2026-10-09T12:23:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Airtel Money lists in London in exchange’s biggest IPO in five years",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sheersh Kapoor"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/airtel-money-share-price-lists-in-london-in-exchanges-biggest-ipo-in-five-years-20008491.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/airtel-2026-08-652c0584abee482e782b1b257fcce000.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1OMFZPWXpOVmFEYzRNalZNVFJDZkF4ampCU2dLTWdhWlk0S3YxUUk",
+   "date": "10/09/2026, 09:39 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:39:03Z"
+  },
+  {
+   "position": 27,
+   "title": "Bharti Airtel shares: Prepaid tariff hike next after postpaid? Buy stock, says MOFSL",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-shares-prepaid-tariff-hike-next-after-postpaid-buy-stock-says-mofsl-560280-2026-10-08",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac70b85ea7a3-bharti-airtel-shares-mofsl-said-past-precedents-suggest-prepaid-tariff-hike-could-follow-in-next-si-081828827-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1aamxUZFVnMGRIRTFWRGRmVFJDZkF4ampCU2dLTWdtVlFZd1NwU2VpWndJ",
+   "date": "10/08/2026, 03:19 AM, +0000 UTC",
+   "iso_date": "2026-10-08T03:19:39Z"
+  },
+  {
+   "position": 28,
+   "title": "Bharti Airtel Hikes Postpaid Tariffs By Rs 50; Share Price Jumps Over 2%",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aishwarya Singh"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/business/bharti-airtel-hikes-postpaid-tariffs-by-rs-50-share-price-jumps-over-2-12150056",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/pqnar85s_airtel_625x300_07_October_26.jpeg?im=FaceCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNW9URkZMUjJSMlJ6TjZjVXhWVFJDZkF4ampCU2dLTWdB",
+   "date": "10/07/2026, 07:53 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:53:12Z"
+  },
+  {
+   "position": 29,
+   "title": "Jio Platforms IPO can be a re-rating trigger for Reliance Industries, Bharti Airtel: Motilal Oswal",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/reliance-industries-bharti-airtel-shares-will-have-a-re-rating-trigger-in-jio-platforms-ipo-motilal-oswal-20006176.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/10/image-2026-10-6e012eaf5e5a9119dc81f12cfa8ea773.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWtkR0oyZFhKUlNuSkRTMEZTVFJDZkF4ampCU2dLTWdZNU00b1RIUWs",
+   "date": "10/07/2026, 01:17 AM, +0000 UTC",
+   "iso_date": "2026-10-07T01:17:41Z"
+  },
+  {
+   "position": 30,
+   "title": "Stock Picks Today: Bharti Airtel, ITC, Sun Pharma, Paytm, Shriram Finance And More On Brokerages' Radar",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/stock-picks-today-bharti-airtel-itc-sun-pharma-paytm-shriram-finance-jubilant-food-sagility-iks-and-more-on-brokerages-radar-12153891",
+   "thumbnail": "https://c.ndtvimg.com/2026-09/ug72sub4_brokerage-radar_625x300_21_September_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhiVVJzY0Y5d2QxcFVSbWhvVFJDZkF4ampCU2dLTWdhSm9aRG5PQVk",
+   "date": "10/08/2026, 01:37 AM, +0000 UTC",
+   "iso_date": "2026-10-08T01:37:39Z"
+  },
+  {
+   "position": 31,
+   "title": "Airtel Money lists on London Stock Exchange at USD 7 billion valuation",
+   "source": {
+    "name": "ANI News",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.aninews.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.aninews.in/news/business/airtel-money-lists-on-london-stock-exchange-at-usd-7-billion-valuation20261009134837",
+   "thumbnail": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20261009081036.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXBVVzl0ZG5aWmRGTXhTVlI1VFJEQ0FSaURBaWdCTWdZbFZZVE5UUU0",
+   "date": "10/09/2026, 08:18 AM, +0000 UTC",
+   "iso_date": "2026-10-09T08:18:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Airtel Money Makes London Stock Exchange Debut; Biggest Listing In 5 Years",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ndtvprofit.com/markets/airtel-money-makes-london-stock-exchange-debut-biggest-listing-in-5-years-12160848",
+   "thumbnail": "https://c.ndtvimg.com/2026-10/875o0g64_airtel_625x300_09_October_26.jpg?im=FitAndFill,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVkbkZaTVc1Q1gxOXJkVXBIVFJDZkF4ampCU2dLTWdhWkVKNU1uUWs",
+   "date": "10/09/2026, 09:05 AM, +0000 UTC",
+   "iso_date": "2026-10-09T09:05:24Z"
+  },
+  {
+   "position": 33,
+   "title": "Airtel Money targets $700 million share sale in what could be London’s biggest IPO in five years",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/ipo/airtel-money-targets-700-million-share-sale-in-what-could-be-london-s-biggest-ipo-in-five-years-14048287.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/10/20261009045814_469628916.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpOVkpDTjBrd2NXRlBWMGQwVFJDZkF4ampCU2dLTWdhVlZaVHBJUWc",
+   "date": "10/09/2026, 04:58 AM, +0000 UTC",
+   "iso_date": "2026-10-09T04:58:30Z"
+  },
+  {
+   "position": 34,
+   "title": "Bharti Airtel's New Postpaid Plan Has CLSA Bullish, While Morgan Stanley Expects Move To Arrest Churn",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Khushi Maheshwari"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/business/bharti-airtel-share-price-today-clsa-bullish-on-new-postpaid-plan-morgan-stanley-expects-move-to-arrest-churn-12154503",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/fk0v6428_airtel_625x300_14_May_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZMVWg0V25GVk1ITXpXa1o0VFJDZkF4ampCU2dLTWdZTms1QXl0UVU",
+   "date": "10/08/2026, 05:00 AM, +0000 UTC",
+   "iso_date": "2026-10-08T05:00:53Z"
+  },
+  {
+   "position": 35,
+   "title": "Airtel hikes postpaid plans by ₹50, adds free annual international roaming; telecom stock jumps over 2%",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/airtel-hikes-postpaid-plans-by-50-adds-free-annual-international-roaming-telecom-stock-jumps-over-2/163275",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-08-06/u55vppkt/Airtel.JPG?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpUbEJoVlRnNFNFNVZYemw1VFJDZkF4ampCU2dLTWdhSklvd1ZsUW8",
+   "date": "10/07/2026, 08:52 AM, +0000 UTC",
+   "iso_date": "2026-10-07T08:52:54Z"
+  },
+  {
+   "position": 36,
+   "title": "Airtel Money makes muted London trading debut",
+   "source": {
+    "name": "CNBC Africa",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbcafrica.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.cnbcafrica.com/2026/airtel-money-makes-muted-london-trading-debut",
+   "thumbnail": "https://cms.cnbcafrica.com/wp-content/uploads/2026/10/M6UYCY64RVKGVPNCBH32OCE4KE-820x485.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXZSbEIwY2paUWREWndkMFpxVFJDcUF4alFCU2dLTWdB",
+   "date": "10/09/2026, 01:56 PM, +0000 UTC",
+   "iso_date": "2026-10-09T13:56:11Z"
+  },
+  {
+   "position": 37,
+   "title": "Bharti Airtel's Sunil Bharti Mittal backs Jio's public listing, says ‘looking forward to a very successful IPO’",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jatin Grover",
+     "Eshita Gain"
+    ]
+   },
+   "link": "https://www.livemint.com/companies/people/bharti-airtels-sunil-bharti-mittal-backs-jios-public-listing-says-looking-forward-to-a-very-successful-ipo-11791439758005.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/08/1600x900/logo/Telecom_1791440934900_TNff_1791440953710_QfJ3_c3485926-3cf3-4f95-ba98-98560dd58894_sFsM.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1WRlZoTjFveExXNUxRVE5DVFJDZkF4ampCU2dLTWdZQk01eGtIUW8",
+   "date": "10/08/2026, 06:23 AM, +0000 UTC",
+   "iso_date": "2026-10-08T06:23:40Z"
+  },
+  {
+   "position": 38,
+   "title": "Jio IPO listing: Likely impact on Bharti Airtel, RIL shares; MOFSL sees re-rating ahead",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Amit Mudgill"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/jio-ipo-listing-likely-impact-on-bharti-airtel-ril-shares-mofsl-sees-re-rating-ahead-560003-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5b140a2cb1-on-reliance-industries--mofsl-said-jpls-listing-could-create-a-case-for-applying-a-holdco-discount-074103380-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXpPV2RCZVhvNWJDMUtNVEUyVFJDZkF4ampCU2dLTWdZSndZckZ2Z1U",
+   "date": "10/07/2026, 02:42 AM, +0000 UTC",
+   "iso_date": "2026-10-07T02:42:13Z"
+  },
+  {
+   "position": 39,
+   "title": "Bharti Airtel stock gains as cloud business and cash flows strengthen",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bharti-airtel-stock-gains-as-cloud-business-and-cash-flows-strengthen/70137856",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405052_1200_1200.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFTekpoVUdWdGFrTk9la00zVFJDcUJCaXFCQ2dLTWdZQnNJWWx6Z00",
+   "date": "09/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-20T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Bharti Airtel Raises Postpaid Tariffs By Rs 50, Fuels Prepaid Hike Speculation; Shares Up 2%",
+   "source": {
+    "name": "BW Businessworld",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessworld.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.businessworld.in/article/bharti-airtel-raises-postpaid-tariffs-by-rs-50-fuels-prepaid-hike-speculation-shares-up-2-627280",
+   "date": "10/08/2026, 11:08 AM, +0000 UTC",
+   "iso_date": "2026-10-08T11:08:25Z"
+  },
+  {
+   "position": 41,
+   "title": "Bharti Airtel (BHARTIARTL) Share/Stock Price Live, NSE",
+   "source": {
+    "name": "TechGraph",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://techgraph.co&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://techgraph.co/stock-market/quote/bhartiartl-ns/",
+   "date": "09/06/2026, 10:58 PM, +0000 UTC",
+   "iso_date": "2026-09-06T22:58:23Z"
+  },
+  {
+   "position": 42,
+   "title": "Bharti Airtel stock slips about 1%: Citi bullish as prepaid plan rationalisation may boost ARPU; check...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/bharti-airtel-stock-slips-nearly-1-citi-bullish-as-prepaid-plan-rationalisation-may-boost-arpu-check-target-price-14003941.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250326093858_Bharti-Airtel.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRTVEZCVjNrNFQxbFBhaTFOVFJDZkF4ampCU2dLTWdZWmNvZ3BzZ1E",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Bharti Airtel Ltd. (BHARTIARTL) Share Price Rises 3.15% Today, Emerges as Large-Cap Top Gainer",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-bharti-airtel-ltd-share-price-rise-2026-08-14",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/Bharti_Airtel_Ltd_BHARTIARTL_Share_Price_Rises_315_Today_Emerges_as_Large_Cap_Top_Gainer_bullish.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXVjMlJET0ZGa00zUmpSblpuVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 44,
+   "title": "Bharti Airtel Prediction for Tomorrow: 30 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-2",
+   "date": "09/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-29T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Bharti Airtel Share Price Prediction for Monday 24 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-24-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-monday-24-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXdSR294UjJSUWNXVlJTRFo1VFJDUUF4ai1CU2dLTWdB",
+   "date": "08/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-24T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Bharti Airtel Prediction for Monday: 5 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-5-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/bharti-airtel-share-price-prediction-for-monday-5-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJOWHBPWkc1MFEzRjRTbVoxVFJDUUF4ai1CU2dLTWdZQk1JckNHZ28",
+   "date": "10/01/2026, 10:27 AM, +0000 UTC",
+   "iso_date": "2026-10-01T10:27:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Bharti Airtel Prediction for Tomorrow: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-28-september-2026-sunday",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZaVkpOTTFjd1RtMHpRV0ZTVFJDUUF4ai1CU2dLTWdZQk1JckRHZ28",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Bharti Airtel Prediction for Tomorrow: 1 Oct 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-1-october-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-1-october-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZObkJZVlMxaE4weE1kbEF0VFJDUUF4ai1CU2dLTWdZQk1JekRtZ2s",
+   "date": "09/30/2026, 11:11 AM, +0000 UTC",
+   "iso_date": "2026-09-30T11:11:00Z"
+  },
+  {
+   "position": 49,
+   "title": "Bharti Airtel Share Price Target 2026: 'Highest ARPU' - Buy for 40% returns, says Axis Securities | Rationale explained",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pranati Deva"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/bharti-airtel-share-price-target-2026-highest-arpu-buy-for-40-returns-says-axis-securities-rationale-explained-11788341579255.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/09/02/1600x900/logo/Bharti_airtel_1788346815740_c163595e-a728-441e-85cd-0309d9410d89_1788346822366_406753d7-2969-4648-8ccd-0f1b0172e30a_50028063-a3f2-4050-9f6b-b094724fa6ae_6ef8a737-2e34-4bfe-9423-2861a41a81f2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBXRWxIUTB0TGNrbDFkM2xRVFJDZkF4ampCU2dLTWdZQklZb1RNUVk",
+   "date": "09/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-02T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Bharti Airtel Prediction for Tomorrow: 29 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-29-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBjbFZqVFdwM2NXSXpMWE13VFJDUUF4ai1CU2dLTWdhQk1JYkRHZ28",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Bharti Airtel Prediction for Monday: 28 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-28-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-monday-28-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNRWFZRVkdOblJuQXRaREZ3VFJDUUF4ai1CU2dLTWdhQk1JYmltZ2s",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Awaiting approval of Satcom services: Bharti Airtel's Sunil Bharti Mittal",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/industry/news/awaiting-approval-of-satcom-services-bharti-airtel-s-sunil-bharti-mittal-126100800538_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-05/14/full/1778780648-1591.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlRMDVUZDB4WVEyOVlVMlpXVFJEUUF4aVZCU2dLTWdZeE5KU1FvUWc",
+   "date": "10/08/2026, 07:52 AM, +0000 UTC",
+   "iso_date": "2026-10-08T07:52:55Z"
+  },
+  {
+   "position": 53,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow 21 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-21-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-tomorrow-21-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNVRSVk5QY1dOVFRIZ3hVRVZPVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Bharti Airtel Shares Gain Over 2% Today",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/bharti-airtel-shares-gain-over-2-today-alpha-article-14005390.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250131110706_market99.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNDNhMVI2UmtWcWFWODFjWEpMVFJDZkF4ampCU2dLTWdrUk1ZWXNIZVE5NmdF",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 55,
+   "title": "Bharti Airtel shares jump 4% after Q1 results. Here’s what Jefferies, CLSA, others are saying",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/bharti-airtel-shares-jump-4-after-q1-results-heres-what-jefferies-clsa-others-are-saying/articleshow/132889091.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132889184,width-1200,height-900,resizemode-4,imgsize-47304/bharti-airtels-q1-profit-jumps-37-pc-to-rs-8167-crore.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHpOR1l6T1VOQlQzcE9ia1p3VFJEZ0F4aUFCU2dLTWdZTmtZWkhzZ1U",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Bharti Airtel shares gain 3%; strong Q1 keeps growth outlook intact",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/bharti-airtel-shares-gain-3-strong-q1-keeps-growth-outlook-intact-126080500226_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-07/23/full/1784788993-0568.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURMVk50TVhaS1ppMVVNbTVWVFJERUF4aW1CU2dLTWdhVlZaUUpJZ2c",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Bharti Airtel stock price rises on ramping up 5G rollout, adds 4,300+ sites in UP East",
+   "source": {
+    "name": "Alice Blue",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://aliceblueonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://aliceblueonline.com/news/bharti-airtel-stock-price-rises-on-ramping-up-5g-rollout%2C-adds-4%2C300%2B-sites-in-up-east",
+   "thumbnail": "https://aliceblueonline.com/_next/image?url=https%3A%2F%2Falicebluewebsite.s3.ap-south-1.amazonaws.com%2Fwp-content%2Fuploads%2F2026%2F04%2F07180635%2Fbharti-airtel-5g-rollout-4300-new-sites.webp&w=1920&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5ORTF2VldwbFdETjVSSGxhVFJESEF4aWlCU2dLTWdhSlJaQ0ZKZ2c",
+   "date": "09/24/2026, 01:39 PM, +0000 UTC",
+   "iso_date": "2026-09-24T13:39:56Z"
+  },
+  {
+   "position": 58,
+   "title": "Bharti Airtel Share Price Today: Rs 1,866 after 2.11% gain",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-bharti-airtel-ltd-share-price-price-rise-2026-09-18",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Bharti Airtel Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/41366/bharti-airtel-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/bhartiartl.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5ha0Y2VEdaUU1IQkdkbTV6VFJESUFSaklBU2dCTWdhWlU0Yk9KUWc",
+   "date": "08/31/2026, 03:51 AM, +0000 UTC",
+   "iso_date": "2026-08-31T03:51:56Z"
+  },
+  {
+   "position": 60,
+   "title": "Bharti Airtel Prediction for Tomorrow: 24 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-24-september-2026-thursday",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-24-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVkRXRuVVVFd1J5MTVjRnAyVFJDUUF4ai1CU2dLTWdZQk1JWURHd3M",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Bharti Airtel Ltd. - (Partly Paid up Equity Shares (Rights Issue)) Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/287403/bharti-airtel-ltd-partly-paid-up-equity-shares-rights-issue/shareholding/",
+   "date": "08/30/2026, 09:37 AM, +0000 UTC",
+   "iso_date": "2026-08-30T09:37:43Z"
+  },
+  {
+   "position": 62,
+   "title": "Bharti Airtel Limited (NSE:BHARTIARTL) Just Reported First-Quarter Earnings: Have Analysts Changed Their Mind On The Stock?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/telecom/nse-bhartiartl/bharti-airtel-shares/news/bharti-airtel-limited-nsebhartiartl-just-reported-first-quar",
+   "thumbnail": "https://images.simplywall.st/asset/industry/9031000-choice2-main-header/1585186861487?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdOamxQWlZWeVJXRTRTVFV3VFJDZkF4ampCU2dLTWdaQkFKeFlDQXM",
+   "date": "08/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-07T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Bharti Airtel Share Price Today: down 2.18% to Rs 1,791",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-bharti-airtel-share-price-price-fall-2026-09-24",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-bhartiartl-share-price-falls-2-18-to-rs-1-791-in-today-s-decline.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhjbGcwVGtGaFF6Z3phMWRsVFJDUUF4ai1CU2dLTWdhQkdaYkRtZ2s",
+   "date": "09/24/2026, 10:06 AM, +0000 UTC",
+   "iso_date": "2026-09-24T10:06:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Bharti Airtel Prediction for Tomorrow: 25 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-25-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-25-september-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlSbTQzV0RaUlNXVXpTVFZtVFJDUUF4ai1CU2dLTWdZQk1JYmlHZ28",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Bharti Airtel stock set for a 24% upside, says Kotak Equities; pegs EBITDA CAGR at 14%",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aseem Thapliyal"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/bharti-airtel-stock-for-upside-says-kotak-equities-assigns-buy-call-ebitda-cagr-558661-2026-09-30",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202609/6abc812290e16-bharti-airtel-shares-ended-024-higher-at-rs-1776-on-tuesday-on-bsebharti-airtels-market-cap-ro-302521294-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdkREZOTVVKYVRITnZSVGQzVFJDZkF4ampCU2dLTWdZVlVJd0xKZ2c",
+   "date": "09/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-30T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Bharti Airtel Share Price prediction for Monday 24 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-19-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-monday-19-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNURhak5RTVZKUVlsVlVOa2RFVFJDUUF4ai1CU2dLTWdB",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Airtel hikes postpaid tariffs after over two years, sets the tone for peers",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Jatin Grover"
+    ]
+   },
+   "link": "https://www.livemint.com/companies/news/airtel-postpaid-tariff-hike-jio-platforms-ipo-11791363255988.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/10/07/1600x900/maxresdefault_1791391470682_bIKn_1791391479072_duwv_f53df9e7-c6ff-4cf0-b2ee-3496c3d90a8a_DC6z.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBUMDVEVVhWS1VuSXlNREp1VFJDZkF4ampCU2dLTWdhaE00NnRJUWc",
+   "date": "10/07/2026, 04:39 PM, +0000 UTC",
+   "iso_date": "2026-10-07T16:39:40Z"
+  },
+  {
+   "position": 68,
+   "title": "Jio Platorms IPO likely to seek premium over Bharti Airtel valuations; fresh GMP, what analysts say",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Pawan Nahar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/ipo-corner/story/jio-platorms-ipo-likely-to-seek-premium-over-bharti-airtel-valuations-fresh-gmp-what-analysts-say-560019-2026-10-07",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202610/6ac5c5d5b2b63-according-to-bloomberg--the-telecom-and-digital-services-arm-of-mukesh-ambani-is-likely-to-seek-a-va-070852526-16x9.jpg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTRTB4ZEZKT2NEQlNhVEowVFJDZkF4ampCU2dLTWdZWmtaQUtzZ1k",
+   "date": "10/07/2026, 04:09 AM, +0000 UTC",
+   "iso_date": "2026-10-07T04:09:13Z"
+  },
+  {
+   "position": 69,
+   "title": "Nifty Plunges 271 Points in CAS After Airtel Hits 3% Lower Band",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/nifty-plunges-271-points-in-cas-as-bharti-airtel-trade-sparks-fat-finger-error-question",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/nifty_plunges_271_points_in_cas_as_bharti_airtel_trade_sparks_fat_finger_error_question-1.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDVOR1pmV0V4R2IyUlRkazV0VFJDZkF4ampCU2dLTWdZQlVJNmtJZ2c",
+   "date": "08/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-27T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Stocks in news: Bharti Airtel, Happiest Minds Technologies, PVR INOX, Milky Mist Dairy and Mankind Pharma",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/stocks-in-news-bharti-airtel-happiest-minds-technologies-pvr-inox-milky-mist-dairy-and-mankind-pharma/articleshow/133658328.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-133658570,width-1200,height-900,resizemode-4,imgsize-131508/stocks-in-news-bharti-airtel-happiest-minds-technologies-pvr-inox-milky-mist-dairy-and-mankind-pharmabr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUxPVjl0YmxWbWFESmxkRk5UVFJEZ0F4aUFCU2dLTWdZQmtJN0F2QVk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow: 14 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-14-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-14-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1VelpxYnkxTFJuRTJSRWR4VFJDUUF4ai1CU2dLTWdZQkdwemlHZ28",
+   "date": "09/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-14T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Bharti Airtel Share Price Prediction for Monday: 21 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-21-september-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-monday-21-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVZSVkJKZHpsMlZqSkNkV0ZVVFJDUUF4ai1CU2dLTWdZQk1JWURtd28",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Bharti Airtel stock heads into the open after a 1.77 percent drop",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/bharti-airtel-stock-heads-into-the-open-after-a-1-77-percent-drop/70181026",
+   "date": "09/25/2026, 04:28 AM, +0000 UTC",
+   "iso_date": "2026-09-25T04:28:09Z"
+  },
+  {
+   "position": 74,
+   "title": "Bharti Airtel, Vodafone Idea, MTNL: How did telecom stocks perform on Sept 29 after TRAI's data release?",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Anubhav Mukherjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/bharti-airtel-vodafone-idea-mtnl-how-did-telecom-stocks-perform-on-sept-29-after-trai-s-data-release/article-201065/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/tejas-networks-q4-results-share-price.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHhVbEY0Wm5kQ1ZDMXBNR1pHVFJDZkF4ampCU2dLTWdhdE5ZTE5IUW8",
+   "date": "09/29/2026, 10:12 AM, +0000 UTC",
+   "iso_date": "2026-09-29T10:12:29Z"
+  },
+  {
+   "position": 75,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow 18 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kunal Singla"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-18-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-tomorrow-18-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWM2hQUlU5ZmFubHJRVzR6VFJDUUF4ai1CU2dLTWdZQlFJcmlHZ28",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Airtel closes in on Jio ahead of mega IPO, market-share gap narrows to 1.3 percentage points",
+   "source": {
+    "name": "The New Indian Express",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.newindianexpress.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rakesh Kumar"
+    ]
+   },
+   "link": "https://www.newindianexpress.com/business/2026/Sep/28/airtel-closes-in-on-jio-ahead-of-mega-ipo-market-share-gap-narrows-to-13-percentage-points",
+   "thumbnail": "https://cf-images.assettype.com/TNIE/import/2022/12/20/original/Jio_Airtel.jpg?w=1200&h=675&auto=format%2Ccompress&fit=max&enlarge=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFYMnhXU1dsTE9YVnZkbm8zVFJDSEF4aVBCaWdLTWdZTk1JeFJNUWM",
+   "date": "09/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-28T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Bharti Airtel Share Price Prediction for Monday 17 Aug: Rs 1,939",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-monday-17-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-monday-17-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhhV3g0WldWV1RVcG1UV0UzVFJDUUF4ai1CU2dLTWdhQktackRtZ2s",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "10 reasons why Nomura stays bullish on Bharti Airtel, sees 28% upside",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/10-reasons-why-nomura-stays-bullish-on-bharti-airtel-sees-28-upside/articleshow/132084343.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132084386,width-1200,height-900,resizemode-4,imgsize-40702/10-reasons-why-nomura-stays-bullish-on-bharti-airtel-sees-28-upside.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRM2xyZDFOd1ZIbzRNR2RqVFJEZ0F4aUFCU2dLTWdZSlpZQ3RKUVk",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow: 22 Sept 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-22092026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-22092026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlUbTl4VnpZd2VVc3djMEl0VFJDUUF4ai1CU2dLTWdhQk1JamlsZ28",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "BHARTIARTL Forecast — Price Target — Prediction for 2027",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/symbols/NSE-BHARTIARTL/forecast-price-target/",
+   "thumbnail": "https://s3-symbol-logo.tradingview.com/airtel--600.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdNR05oVVdwQk9VVjZObVpDVFJDcUJCaXFCQ2dLTWdhZGxJek51UVk",
+   "date": "06/25/2026, 11:47 AM, +0000 UTC",
+   "iso_date": "2026-06-25T11:47:45Z"
+  },
+  {
+   "position": 81,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow 19 Aug 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-19-august-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-tomorrow-19-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpjek00ZW0xU1dsbFFlV0p3VFJDUUF4ai1CU2dLTWdZQk1JTERHZ28",
+   "date": "08/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-18T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow: 18 Sep 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-18-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-18-september-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTBVa0ZhVGtoeE5rSnlSRkpNVFJDUUF4ai1CU2dLTWdhQk1JYkRHZ28",
+   "date": "09/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-17T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Bharti Airtel stock rises 0.7 percent ahead of the open",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/vorboerse/bharti-airtel-stock-rises-0-7-percent-ahead-of-the-open/70175492",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Bharti Airtel Q1 FY27 Results: Can ₹12 Lakh Crore in Market Value Survive a Margin Miss?",
+   "source": {
+    "name": "NiftyTrader",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.niftytrader.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Nikki Lodha"
+    ]
+   },
+   "link": "https://www.niftytrader.in/markets/bharti-airtel-q1-fy27-results-margin-miss/",
+   "thumbnail": "https://trending.niftytrader.in/wp-content/uploads/2026/08/Bharti-Airtel-Q1-FY27-Results-Can-%E2%82%B912-Lakh-Crore-in-Market-Value-Survive-a-Margin-Miss-860x425.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxWR1ZrTUUxbE5EWklYMHRKVFJDRkF4aVVCaWdLTWdZVnNZb3BQUVU",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Should You Buy Bharti Airtel Limited (NSE:BHARTIARTL) For Its Upcoming Dividend?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/telecom/nse-bhartiartl/bharti-airtel-shares/news/should-you-buy-bharti-airtel-limited-nsebhartiartl-for-its-u-1",
+   "thumbnail": "https://images.simplywall.st/asset/industry/9031000-choice2-main-header/1585186861487?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdOamxQWlZWeVJXRTRTVFV3VFJDZkF4ampCU2dLTWdaQkFKeFlDQXM",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow: 23 September 2026 Outlook",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-23-september-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/09/bharti-airtel-share-price-prediction-for-tomorrow-23-september-2026-outlook.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNZMkZ2T0ZWT1kxOURibGhSVFJDUUF4ai1CU2dLTWdZQk1JWURHd3M",
+   "date": "09/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-22T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Bharti Airtel tests 200-DMA; this brokerage expects 10% upside in stock",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/bharti-airtel-tests-200-dma-this-brokerage-expects-10-upside-in-stock-from-here-126070700599_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-08/30/full/1630265357-0505.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5Wa2xZVFhsMFZsUk1Wa0ZuVFJEUUF4anNCQ2dLTWdZWkVvZ3RrUXM",
+   "date": "07/07/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-07T07:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Bharti Airtel Share Price Prediction for Tomorrow, 14",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/bharti-airtel-share-price-prediction-for-tomorrow-14-august-2026",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/bharti-airtel-share-price-prediction-for-tomorrow-14-august-2026.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFiRmxoVVVGQ1NWRm5ibXBXVFJDUUF4ai1CU2dLTWdZQk1ZZ0NHd28",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 89,
+   "title": "Bharti Airtel stock among top Nifty gainers today; Nomura raises target price, eyes tariff hikes, cash...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/bharti-airtel-stock-among-top-nifty-gainers-today-nomura-raises-target-price-eyes-tariff-hikes-cash-flow-13962172.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2021/09/Bharti-Airtel_Airtel.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWpOVFJaY2tWb1lrOXVVVmxJVFJDZkF4ampCU2dLTWdhQndvSVJQUVk",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "Bharti Airtel share price can rise 25%, JM Fin says after four prepaid packs withdrawn",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/bharti-airtel-share-price-can-rise-25-pc-jm-fin-says-after-four-prepaid-packs-withdrawn-19968190.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/08/image-2026-08-7766c1cca93e36b36fc9a91f74d91644.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRiVE5xY0U0NVlWbHVNbG8zVFJDZkF4ampCU2dLTWdhbFlvcnVPUVU",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Why Bharti Airtel Share Price is Rising",
+   "source": {
+    "name": "Equitymaster",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.equitymaster.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.equitymaster.com/detail.asp?date=08/14/2026&story=5&title=Why-Bharti-Airtel-Share-Price-is-Rising",
+   "thumbnail": "https://www.eqimg.com/images/2025/09032025-image5-equitymaster.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFOVXhVT0RWaUxXVlBkMFJqVFJEYkFSamVBaWdLTWdhcFpJak9NUVU",
+   "date": "08/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-14T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Bharti Airtel - 5 Nifty stocks trading at significant discounts of up to 36% to historical averages. How many do you have?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/5-nifty-stocks-trading-at-significant-discounts-of-up-to-36-to-historical-averages-how-many-do-you-have/bharti-airtel/slideshow/132887271.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-132887298,width-480,height-360,imgsize-45568,resizemode-75/sale-season.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVRelkyWVhObldXVXlSMVZRVFJEb0FoamdBeWdLTWdZaGM0cXNNUVk",
+   "date": "08/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-05T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Bharti Airtel stock highlights expanded Apple services in family postpaid plans",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/nachboerse/bharti-airtel-stock-highlights-expanded-apple-services-in-family-postpaid-plans/70216838",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405010_1920_1080.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVMVkJDTFV4a1lsQTJPVWczVFJDZkF4ampCU2dLTWdZQkFZck11UVE",
+   "date": "10/02/2026, 04:10 PM, +0000 UTC",
+   "iso_date": "2026-10-02T16:10:40Z"
+  },
+  {
+   "position": 94,
+   "title": "Bharti Airtel shares rise 3.5% post-Q4 results; brokerages positive on telco",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:8e85ee2ff094b:0-bharti-airtel-shares-rise-3-5-post-q4-results-brokerages-positive-on-telco/",
+   "date": "05/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-14T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Airtel shares snap 3-day gains to drop over 3%; should you buy, sell or hold?",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/airtel-shares-snap-3-day-gains-to-drop-over-3-should-you-buy-sell-or-hold-14034535.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/08/20250805113957_airtel.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURiMDh5ZFMxUGRHZDVOMlIxVFJDZkF4ampCU2dLTWdrRmNZNm1MT2Q1a2dF",
+   "date": "09/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-21T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Markets Rally, But Bharti Airtel Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/bharti-airtel-ltd-falls-to-52-week-low-of-rs17351-amid-market-downturn-4210781",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/BhartiAirtelLtd_priceRelatedfactors_4210781.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVhlVVJXUm5KZk9UY3pibVp6VFJDaUFSaTJBaWdCTWdtQklvaFNrYXZRdGdB",
+   "date": "10/01/2026, 08:16 AM, +0000 UTC",
+   "iso_date": "2026-10-01T08:16:55Z"
+  },
+  {
+   "position": 97,
+   "title": "Bharti Airtel shares flat after Bombay HC quashes ₹8,414 cr demand notice",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/stock-markets/bharti-airtel-shares-flat-after-bombay-hc-quashes-8414-crore-demand-notice/article71083537.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/ag0vtf/article70993473.ece/alternates/LANDSCAPE_1200/2025-03-11T111919Z_947794398_RC2YADA1JVZI_RTRMADP_3_BHARTI-AIRTEL-STARLINK-INDIA.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhVVnBDWDNSUlJVY3pZMjFwVFJDZkF4ampCU2dLTWdZVm9ZQkpQZ1U",
+   "date": "06/10/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-10T07:00:00Z"
+  },
+  {
+   "position": 98,
+   "title": "Bharti Airtel shares gain over 2% after Q4 results. Why Morgan Stanley sees more upside",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/bharti-airtel-shares-gain-over-2-after-q4-results-why-morgan-stanley-sees-more-upside/articleshow/131082320.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-131082363,width-1200,height-900,resizemode-4,imgsize-40702/bharti-airtel-shares-gain-over-2-after-q4-results-why-morgan-stanley-sees-more-upside.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpRM2xyZDFOd1ZIbzRNR2RqVFJEZ0F4aUFCU2dLTWdZSlpZQ3RKUVk",
+   "date": "05/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-14T07:00:00Z"
+  },
+  {
+   "position": 99,
+   "title": "Bharti Airtel Ltd Spikes 1.52%",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/bharti-airtel-ltd-spikes-1-52-126090100188_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 100,
+   "title": "Shabnam Sinha to succeed Sunil Bharti Mittal as Airtel Payments Bank Chairperson; Bharti Airtel shares fall 2%",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/bharti-airtel-shares-in-focus-shabnam-sinha-to-succeed-sunil-bharti-mittal-as-airtel-payments-bank-chairperson/article-198769/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/bharti-airtel-shares-nov-27.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDFWelUzVUhSbk1VRjJUa1pzVFJDZkF4ampCU2dLTWdhTmtJWkd0Z1U",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:48:56"
+}

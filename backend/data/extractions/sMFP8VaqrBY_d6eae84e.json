@@ -1,0 +1,27 @@
+{
+ "calls": [
+  {
+   "company": "MRF Ltd",
+   "symbol_guess": "MRF",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "जैसे एमआरएफ, टायर्स, रबर यह कमोडिटी है।",
+   "start_s": 188,
+   "line": "नहीं किया है। यह सिर्फ एक एग्जांपल है।",
+   "evidence": [
+    {
+     "text": "जैसे एमआरएफ",
+     "where": "transcript",
+     "start_s": 191
+    }
+   ],
+   "reason": "The speaker mentions MRF only as an example of a commodity business, not as a recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 3,
+ "llm_failed_chunks": 0
+}

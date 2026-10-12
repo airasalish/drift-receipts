@@ -1,0 +1,711 @@
+{
+ "search_metadata": {
+  "id": "6ac9f6201b6c6ea137413bab",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/36mRe5vYT0ntytLG5Np5i--1x5_6EYd2fa3t404RZh8/6ac9f6201b6c6ea137413bab.json",
+  "markdown_endpoint": "https://serpapi.com/searches/36mRe5vYT0ntytLG5Np5i--1x5_6EYd2fa3t404RZh8/6ac9f6201b6c6ea137413bab.md",
+  "created_at": "2026-10-10 08:24:00 UTC",
+  "processed_at": "2026-10-10 08:24:00 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+  "raw_html_file": "https://serpapi.com/searches/36mRe5vYT0ntytLG5Np5i--1x5_6EYd2fa3t404RZh8/6ac9f6201b6c6ea137413bab.html",
+  "prettify_html_file": "https://serpapi.com/searches/36mRe5vYT0ntytLG5Np5i--1x5_6EYd2fa3t404RZh8/6ac9f6201b6c6ea137413bab.prettify",
+  "total_time_taken": 1.04
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "ts3RXqeknJ4",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Review (& Analyze) your own Stock Portfolio [In 10 minutes...]",
+ "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/maxresdefault.jpg",
+ "channel": {
+  "name": "Akshat Shrivastava",
+  "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AkshatZayn",
+  "subscribers": "2.27M subscribers",
+  "extracted_subscribers": 2270000,
+  "verified": true
+ },
+ "views": "98,253 views",
+ "extracted_views": 98253,
+ "likes": "2K",
+ "extracted_likes": 2000,
+ "published_date": "Jul 28, 2026",
+ "description": {
+  "content": "👉 Join Wisdom Hatch Global Investing Community. And, Invest with Akshat (track every trade): https://wisdomhatch.com/courses/globa...\n______________\n👉 I use Vested to invest in US Stocks. EXCLUSIVE $10 bonus on 1st Deposit if you sign up using this link:\nhttps://vested.app.link/akshat\n\n[DISCLAIMER: US Securities on Vested are offered through VF Securities Inc.. This post is in partnership with and sponsored by Vested. Creator may also hold shares in Vested]\n________________\n👉 Get daily stock market updates: (only at 179/month):\n   / @akshatzayn  \n______________\nI show how you can (and should) review your portfolio in this explainer video. Watch it till the end to ensure you understand all steps thoroughly.\n\nPLEASE NOTE: THIS IS NOT AN INVESTMENT ADVICE. PLEASE DO YOUR OWN DUE DILIGENCE\n****\nLinkedin►  / akshatshrivastavainsead  \nTwitter►  / akshat_world  \nInstagram►   / akshat.world  \n***********************\nAttributions:\nStock videos from Pixabay and Pexels\nLogos: Wikipedia Commons",
+  "links": [
+   {
+    "start_index": 94,
+    "length": 40,
+    "text": "ttps://wisdomhatch.com/courses/globa...\n",
+    "url": "https://wisdomhatch.com/courses/global-investing-community/"
+   },
+   {
+    "start_index": 257,
+    "length": 30,
+    "text": "tps://vested.app.link/akshat\n\n",
+    "url": "https://vested.app.link/akshat"
+   },
+   {
+    "start_index": 537,
+    "length": 18,
+    "text": "/ @akshatzayn  \n__",
+    "url": "https://www.youtube.com/channel/UCqW8jxh4tH1Z1sWPbkGWL4g/join"
+   },
+   {
+    "start_index": 814,
+    "length": 29,
+    "text": " akshatshrivastavainsead  \nTw",
+    "url": "https://www.linkedin.com/in/akshatshrivastavainsead/"
+   },
+   {
+    "start_index": 852,
+    "length": 18,
+    "text": " akshat_world  \nIn",
+    "url": "https://twitter.com/Akshat_World"
+   },
+   {
+    "start_index": 882,
+    "length": 18,
+    "text": " akshat.world  \n**",
+    "url": "https://www.instagram.com/akshat.world/"
+   }
+  ]
+ },
+ "chapters": [
+  {
+   "title": "Introduction to portfolio review",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_2200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLALW1qbH7ccx3isROQpDSk6Km3VFg",
+   "time_start": 0
+  },
+  {
+   "title": "Step 1: Tracking your holdings",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_161933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAbRr7xuGwBra3d0m-eaXwev_C4Rg",
+   "time_start": 137
+  },
+  {
+   "title": "Step 2: Defining a benchmark",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_295200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDF39VoqTiWelHEsOI764ZB_mizcw",
+   "time_start": 271
+  },
+  {
+   "title": "Step 3: Calculating portfolio beta",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_430933.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB17Zm9D38HgWeM8wqoLD0EGCuFXA",
+   "time_start": 408
+  },
+  {
+   "title": "Step 4: Monitoring commissions",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_631200.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLADyzkMEWJeM0fJWh2TnhAVoD8Deg",
+   "time_start": 612
+  },
+  {
+   "title": "Step 5: Hedging and risk mitigation",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_836766.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBJSxs-koTt3UuVms16j4cB7g2kJw",
+   "time_start": 810
+  },
+  {
+   "title": "Step 6: Asset correlation",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_1203866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBry6zAA8VP7DunFsrYNgJuS2gJmw",
+   "time_start": 1196
+  },
+  {
+   "title": "Step 7: Managing tail risk",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_1380866.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAn8mqEaL6CbUXZye6__DLuhytDsQ",
+   "time_start": 1380
+  },
+  {
+   "title": "Step 8: Core investment thesis",
+   "thumbnail": "https://i.ytimg.com/vi/ts3RXqeknJ4/hqdefault_1619166.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLD38Y5md0yfrNwY6neyynQ7rUQJTg",
+   "time_start": 1596
+  }
+ ],
+ "related_videos": [
+  {
+   "video_id": "nD26pvHvbo4",
+   "link": "https://www.youtube.com/watch?v=nD26pvHvbo4&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nD26pvHvbo4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nD26pvHvbo4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfQpLw-Z3jLaSjEFyrAhxurcSprw",
+    "rich": "https://i.ytimg.com/an_webp/nD26pvHvbo4/mqdefault_6s.webp?du=3000&sqp=CK7kp9YG&rs=AOn4CLBZKTOtU_FLeaQgiBHhOtm3Y-2SmA"
+   },
+   "title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "published_date": "Streamed 2mo ago",
+   "views": "94K",
+   "extracted_views": 94000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "_LgghXT4sps",
+   "link": "https://www.youtube.com/watch?v=_LgghXT4sps&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_LgghXT4sps",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_LgghXT4sps/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgE-Zi9tiHwoAkptvdEkW6P1riHA",
+    "rich": "https://i.ytimg.com/an_webp/_LgghXT4sps/mqdefault_6s.webp?du=3000&sqp=CPLIp9YG&rs=AOn4CLCY_y0YJu7N9cAwxOeLkATJ-nJFUw"
+   },
+   "title": "How to Invest with a Full Time Job? (& save LIFE-TIME commissions)!",
+   "published_date": "2mo ago",
+   "views": "132K",
+   "extracted_views": 132000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CL_bp9YG&rs=AOn4CLDD51Rz0dT8mXUez4Lfiizjjj-k0g"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "cG760YChwzA",
+   "link": "https://www.youtube.com/watch?v=cG760YChwzA&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cG760YChwzA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cG760YChwzA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARZh6PST4l7r7aU0LrWsLj7SYQGg",
+    "rich": "https://i.ytimg.com/an_webp/cG760YChwzA/mqdefault_6s.webp?du=3000&sqp=CMDKp9YG&rs=AOn4CLCZrsVNzmH7JKLyWAs6QWxzaLyY3g"
+   },
+   "title": "Specialised Investment Funds Turn One: How Did SIFs Perform? Radhika Gupta, Sandeep Seth On Alpha",
+   "published_date": "2d ago",
+   "views": "23K",
+   "extracted_views": 23000,
+   "channel": {
+    "name": "CNBC-TV18",
+    "link": "https://www.youtube.com/@CNBC-TV18",
+    "thumbnail": "https://yt3.ggpht.com/Lx0d55mPtYcBtRL9EkvtT2HOAZLLpk2-FrRmyajJuf4NVwWH5Qm5pw0GcPGCqGAfwOKWZBgJ9A=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDksHlfSsSQER8uo2HEM8GxW6rNA",
+    "rich": "https://i.ytimg.com/an_webp/NZ0fsllxcdE/mqdefault_6s.webp?du=3000&sqp=CO7Cp9YG&rs=AOn4CLBpv5hy0gh8E5hXXTTs5P5OMaGZEw"
+   },
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2w ago",
+   "views": "319K",
+   "extracted_views": 319000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q"
+   },
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20h ago",
+   "views": "5K",
+   "extracted_views": 5000,
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nof9eB_DxXCd_Mv-UdtbHkUX0JCR6mRpfY_P5YCf5-4Q=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "cuD0f4yr3-4",
+   "link": "https://www.youtube.com/watch?v=cuD0f4yr3-4&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cuD0f4yr3-4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cuD0f4yr3-4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJ5Saurevluh33ZyFehYpIH2KsOQ",
+    "rich": "https://i.ytimg.com/an_webp/cuD0f4yr3-4/mqdefault_6s.webp?du=3000&sqp=CNbIp9YG&rs=AOn4CLCM8ud3eMq03pRKQaDzbLScW1TRyg"
+   },
+   "title": "I ranked India's top 10 investments (Number #5 will surprise you) | Akshat Shrivastava",
+   "published_date": "2mo ago",
+   "views": "181K",
+   "extracted_views": 181000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvhPcIN78RYhG5t2I4YLIcEvsTmQ",
+    "rich": "https://i.ytimg.com/an_webp/4WvqWxmPynM/mqdefault_6s.webp?du=3000&sqp=CPPDp9YG&rs=AOn4CLCzMQQll9aJmeBeB_h6GyWCdM6yKw"
+   },
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "2d ago",
+   "views": "606K",
+   "extracted_views": 606000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "y7pwGVQEiKc",
+   "link": "https://www.youtube.com/watch?v=y7pwGVQEiKc&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y7pwGVQEiKc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/y7pwGVQEiKc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw6haqCSPKeewAQxAdxAUWScRfgg",
+    "rich": "https://i.ytimg.com/an_webp/y7pwGVQEiKc/mqdefault_6s.webp?du=3000&sqp=CLnjp9YG&rs=AOn4CLBvDBkHOJhPrc_shqgqNRHZBnTIIw"
+   },
+   "title": "Money rules I will teach my kids before they turn 15 (#3 will surprise you!)",
+   "published_date": "2w ago",
+   "views": "273K",
+   "extracted_views": 273000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "PsOdPvQX6v0",
+   "link": "https://www.youtube.com/watch?v=PsOdPvQX6v0&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PsOdPvQX6v0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PsOdPvQX6v0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAuLAoJhXp7KiVKKUAYC9g-3wTM1w",
+    "rich": "https://i.ytimg.com/an_webp/PsOdPvQX6v0/mqdefault_6s.webp?du=3000&sqp=CPPHp9YG&rs=AOn4CLBWooz5rpt6qHU4E4sjUEg5iphV7w"
+   },
+   "title": "Why Mutual Funds are not performing?",
+   "published_date": "1mo ago",
+   "views": "261K",
+   "extracted_views": 261000,
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha",
+    "thumbnail": "https://yt3.ggpht.com/m0SYHJ0N9BvOzsQ1x_rjJZ93AozarehZou4GcNU8m_D8oV90UoGO0vOXRzPLzeZ-NlTq7mntFw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "nPfSZdSRG80",
+   "link": "https://www.youtube.com/watch?v=nPfSZdSRG80&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nPfSZdSRG80",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nPfSZdSRG80/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpSJa0oKE7_xsKJ4tSRY2gXdKmqw",
+    "rich": "https://i.ytimg.com/an_webp/nPfSZdSRG80/mqdefault_6s.webp?du=3000&sqp=CL7ap9YG&rs=AOn4CLBI0nvqb3uujHxIlShj_POWjppw3w"
+   },
+   "title": "Ajay Bagga & Nilesh Shah At Republic Summit 2026 | Mount 1,00,000: India's Wealth Creation Story",
+   "published_date": "11d ago",
+   "views": "42K",
+   "extracted_views": 42000,
+   "channel": {
+    "name": "Republic World",
+    "link": "https://www.youtube.com/@RepublicWorld",
+    "thumbnail": "https://yt3.ggpht.com/FrAieGazV-tntIEPk5M9HbnKOSaWr1UKGBucScJyiHlLNBNQq4H41yWFGCKUDMptraHC0NP7UvA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "YSux7rtMo9k",
+   "link": "https://www.youtube.com/watch?v=YSux7rtMo9k",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YSux7rtMo9k",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/YSux7rtMo9k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBils1PR3dIy8OBw0mbN2bna_p3Pw",
+    "rich": "https://i.ytimg.com/an_webp/YSux7rtMo9k/mqdefault_6s.webp?du=3000&sqp=CLfBp9YG&rs=AOn4CLC3mM4isWrpJC5MvaSriSz6YGZzRQ"
+   },
+   "title": "This 1 Strategy Made Me Financially Free",
+   "published_date": "3mo ago",
+   "views": "585K",
+   "extracted_views": 585000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "BOFIBuWUZAE",
+   "link": "https://www.youtube.com/watch?v=BOFIBuWUZAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BOFIBuWUZAE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BOFIBuWUZAE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCKF0LDR3F_w9EduH_Vt9aaaijLPQ",
+    "rich": "https://i.ytimg.com/an_webp/BOFIBuWUZAE/mqdefault_6s.webp?du=3000&sqp=CPPZp9YG&rs=AOn4CLDgQUKROSs7xGVhnCMDd_bpzn132w"
+   },
+   "title": "How Mutual Funds Made Him Financially Free?",
+   "published_date": "5mo ago",
+   "views": "115K",
+   "extracted_views": 115000,
+   "channel": {
+    "name": "PowerUp Money",
+    "link": "https://www.youtube.com/@PowerUpMoney",
+    "thumbnail": "https://yt3.ggpht.com/-91y6USKNX2N_eHjpkzOzQ_wge-eu2d21iTARO2wuP5lkFU-LenypC_gBQ73Jq2R6qs2mqfKfg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "bMIwOUHvSKk",
+   "link": "https://www.youtube.com/watch?v=bMIwOUHvSKk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bMIwOUHvSKk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/bMIwOUHvSKk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAeERmbY6BeLdlaGaoPO6FeCOe4ug",
+    "rich": "https://i.ytimg.com/an_webp/bMIwOUHvSKk/mqdefault_6s.webp?du=3000&sqp=CLudp9YG&rs=AOn4CLCfCOpiXKtXwJFWm4hiPJdoTQtdsA"
+   },
+   "title": "Mean Reversion at Work | October Netra 2026 | DSP Mutual Fund",
+   "published_date": "2d ago",
+   "views": "15K",
+   "extracted_views": 15000,
+   "channel": {
+    "name": "DSP Mutual Fund",
+    "link": "https://www.youtube.com/@DSPMutualFund_in",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k0H6qEuGR9OL1q7hg8F4VhJ92sVVnGUtSY2_9HcKMlNzM=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "ODtZF8-0_vI",
+   "link": "https://www.youtube.com/watch?v=ODtZF8-0_vI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ODtZF8-0_vI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ODtZF8-0_vI/hqdefault_custom_2.jpg?sqp=CLDqp9YG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBkIts6Bw_5yNKlwbLCDlOwFPUgmw",
+    "rich": "https://i.ytimg.com/an_webp/ODtZF8-0_vI/mqdefault_6s.webp?du=3000&sqp=CNjip9YG&rs=AOn4CLAdsAd-HQ-W7ieNqDeZwt6VOZh3Zg"
+   },
+   "title": "Forget Blue Chips, Here's Where the REAL Money Is | Samit Vartak",
+   "published_date": "6d ago",
+   "views": "62K",
+   "extracted_views": 62000,
+   "channel": {
+    "name": "Wealth By Motilal Oswal and Avanne Dubash"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "mimvQ72IbNs",
+   "link": "https://www.youtube.com/watch?v=mimvQ72IbNs&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=mimvQ72IbNs",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/mimvQ72IbNs/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmVk4v4_IDviljAKI8P5Pfacq2aA",
+    "rich": "https://i.ytimg.com/an_webp/mimvQ72IbNs/mqdefault_6s.webp?du=3000&sqp=CN7cp9YG&rs=AOn4CLBNd8fY3l1aXnXGv-GG_-QDIQMGHQ"
+   },
+   "title": "Indian IT, Gold, Silver, Banks (all have corrected more than 20%)| Time to buy? | Akshat Shrivastava",
+   "published_date": "3mo ago",
+   "views": "279K",
+   "extracted_views": 279000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "HmW6T6i2Okc",
+   "link": "https://www.youtube.com/watch?v=HmW6T6i2Okc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=HmW6T6i2Okc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/HmW6T6i2Okc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCvWXlb8w3KMl_MwZHh_gQCiEVqKQ",
+    "rich": "https://i.ytimg.com/an_webp/HmW6T6i2Okc/mqdefault_6s.webp?du=3000&sqp=CLTEp9YG&rs=AOn4CLDImebZqZqZWFb6piT-dYsDfejycA"
+   },
+   "title": "He Became Financially Free at 38 With Mutual Funds. Here’s How",
+   "published_date": "2mo ago",
+   "views": "610K",
+   "extracted_views": 610000,
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney",
+    "thumbnail": "https://yt3.ggpht.com/gxWxEVB2mbNq41w996K886F1evNcFnSlKCoPFarwV9o-zF3I5ML5FH6-lzro8ZNNsm2xnCT3qw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "EG4acdv-H-4",
+   "link": "https://www.youtube.com/watch?v=EG4acdv-H-4&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=EG4acdv-H-4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/EG4acdv-H-4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBgPcwEM-yph_HsfDrpOxd58K6hxw",
+    "rich": "https://i.ytimg.com/an_webp/EG4acdv-H-4/mqdefault_6s.webp?du=3000&sqp=CNbIp9YG&rs=AOn4CLCQKWe1C_AL9nG90hS6z4S0TOVUHA"
+   },
+   "title": "Waiting for the US Stock Market to fall? (Well, it will keep going up. Here's why)",
+   "published_date": "1mo ago",
+   "views": "113K",
+   "extracted_views": 113000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "RJ0YaucSTg8",
+   "link": "https://www.youtube.com/watch?v=RJ0YaucSTg8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RJ0YaucSTg8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RJ0YaucSTg8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBulf4j2dwJ-Cka-xYfeFy7JRdycg",
+    "rich": "https://i.ytimg.com/an_webp/RJ0YaucSTg8/mqdefault_6s.webp?du=3000&sqp=CKHdp9YG&rs=AOn4CLCnoVGrrvEUQmG6G1Iom0K4wAqoAw"
+   },
+   "title": "Why the Next 10 Years Will Decide Your Financial Future & What You Should Do | Vijai Mantri | FWS109",
+   "published_date": "5mo ago",
+   "views": "369K",
+   "extracted_views": 369000,
+   "channel": {
+    "name": "Finance With Sharan and Vijai Mantri",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "_P7_fQ-ErYc",
+   "link": "https://www.youtube.com/watch?v=_P7_fQ-ErYc&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_P7_fQ-ErYc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_P7_fQ-ErYc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCILIsHDUDCpzKJW5tj5E03BIGCaQ",
+    "rich": "https://i.ytimg.com/an_webp/_P7_fQ-ErYc/mqdefault_6s.webp?du=3000&sqp=CKvbp9YG&rs=AOn4CLCOxxEU2igxPuXVhCJ10bmnTRVYMg"
+   },
+   "title": "How to Invest as an NRI? (in India & abroad) | Akshat Shrivastava",
+   "published_date": "1mo ago",
+   "views": "101K",
+   "extracted_views": 101000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILdHMzUlhxZWtuSjTAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmgZNZ3NJaDl1U19ORHZ2X184QWRyT2ktc012d1FLdkFRS0FfSS1BQW9Pd2o0TENJN2R2WV92MU82ZW5BRUtBX0ktQUFvT3dqNExDSnZsNHFmWGtJamNfQUVLQV9JLUFBb093ajRMQ08yMjVJcWE0TWlkOVFFS0FfSS1BQW9Od2o0S0NMQ0doNFdZMnI2M2NBb0Q4ajRBQ2czQ1Bnb0kwZVBGeTZYMng4NDFDZ1B5UGdBS0RjSS1DZ2owM3NIYXZaN1o1bDBLQV9JLUFBb053ajRLQ082X3ItWDRqNzN3Y2dvRDhqNEFDZzdDUGdzSTg1U196TEhMLXJYaEFRb0Q4ajRBQ2c3Q1Bnc0lwNUdTb0pXRG5OM0xBUW9EOGo0QUNnM0NQZ29JX2RYZm9PLW41LUUtQ2dQeVBnQUtEc0ktQ3dqTnQ4U2szY3owLTV3QkNnUHlQZ0FLRGNJLUNnalp4N0xhNjczc2xXRUtBX0ktQUFvTndqNEtDSUhJMGF6dWdOTHdCQW9EOGo0QUNnM0NQZ29JcVpHOWo1U0hqT0ZzQ2dQeVBnQUtEY0ktQ2dqeV9kUDlfS0xXblRnS0FfSS1BQW9Pd2o0TENOdlpvZXk3Nk91VW1nRUtBX0ktQUFvTndqNEtDTWYwMk1YNnllNnlIZ29EOGo0QUNnM0NQZ29JN3JfNDM1M09ocmNRQ2dQeVBnQUtEY0ktQ2dpUG5NbTRybzNHemtRS0FfSS1BQW9Pd2o0TENJZmJrdnpRNzdfX19BRVNGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtR2dRSUFCQUJHZ1FJQWhBREdnUUlCQkFGR2dRSUJoQUhHZ1FJQ0JBSkdnUUlDaEFMR2dRSURCQU5HZ1FJRGhBUEdnUUlFQkFSR2dRSUVoQVRHZ1FJRkJBVkdnUUlGaEFYR2dRSUdCQVpHZ1FJR2hBYkdnUUlIQkFkR2dRSUhoQWZHZ1FJSUJBaEdnUUlJaEFqR2dRSUpCQWxHZ1FJSmhBbktoUUFBZ1FHQ0FvTURoQVNGQllZR2h3ZUlDSWtKZ2oPd2F0Y2gtbmV4dC1mZWVk",
+ "end_screen_videos": [
+  {
+   "video_id": "nD26pvHvbo4",
+   "link": "https://www.youtube.com/watch?v=nD26pvHvbo4&pp=ugUHEgVlbi1VU9IHCQk3DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nD26pvHvbo4",
+   "thumbnail": "https://i.ytimg.com/vi/nD26pvHvbo4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAfQpLw-Z3jLaSjEFyrAhxurcSprw",
+   "title": "My portfolio generates 44% CAGR. Here are my top stocks...",
+   "published_date": "Streamed 2 months ago",
+   "views": "94K views",
+   "extracted_views": 94000,
+   "length": "42:01",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "_LgghXT4sps",
+   "link": "https://www.youtube.com/watch?v=_LgghXT4sps&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_LgghXT4sps",
+   "thumbnail": "https://i.ytimg.com/vi/_LgghXT4sps/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAgE-Zi9tiHwoAkptvdEkW6P1riHA",
+   "title": "How to Invest with a Full Time Job? (& save LIFE-TIME commissions)!",
+   "published_date": "2 months ago",
+   "views": "132K views",
+   "extracted_views": 132000,
+   "length": "25:31",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1.1M views",
+   "extracted_views": 1100000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "cG760YChwzA",
+   "link": "https://www.youtube.com/watch?v=cG760YChwzA&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cG760YChwzA",
+   "thumbnail": "https://i.ytimg.com/vi/cG760YChwzA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLARZh6PST4l7r7aU0LrWsLj7SYQGg",
+   "title": "Specialised Investment Funds Turn One: How Did SIFs Perform? Radhika Gupta, Sandeep Seth On Alpha",
+   "published_date": "2 days ago",
+   "views": "23K views",
+   "extracted_views": 23000,
+   "length": "23:25",
+   "channel": {
+    "name": "CNBC-TV18",
+    "link": "https://www.youtube.com/@CNBC-TV18"
+   }
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDksHlfSsSQER8uo2HEM8GxW6rNA",
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2 weeks ago",
+   "views": "319K views",
+   "extracted_views": 319000,
+   "length": "44:44",
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj"
+   }
+  },
+  {
+   "video_id": "Xc1k89tQb3Q",
+   "link": "https://www.youtube.com/watch?v=Xc1k89tQb3Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Xc1k89tQb3Q",
+   "thumbnail": "https://i.ytimg.com/vi/Xc1k89tQb3Q/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4OxkTG5I8m48e0p2Zo3TdO0dg-Q",
+   "title": "D-Kode Monthly Market Outlook for October 2026 by Mr Nilesh Shah",
+   "published_date": "20 hours ago",
+   "views": "5K views",
+   "extracted_views": 5000,
+   "length": "57:18",
+   "channel": {
+    "name": "Kotak Mutual Fund",
+    "link": "https://www.youtube.com/@KotakMahindraMutualFund"
+   }
+  },
+  {
+   "video_id": "cuD0f4yr3-4",
+   "link": "https://www.youtube.com/watch?v=cuD0f4yr3-4&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cuD0f4yr3-4",
+   "thumbnail": "https://i.ytimg.com/vi/cuD0f4yr3-4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAJ5Saurevluh33ZyFehYpIH2KsOQ",
+   "title": "I ranked India's top 10 investments (Number #5 will surprise you) | Akshat Shrivastava",
+   "published_date": "2 months ago",
+   "views": "181K views",
+   "extracted_views": 181000,
+   "length": "21:34",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvhPcIN78RYhG5t2I4YLIcEvsTmQ",
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "2 days ago",
+   "views": "606K views",
+   "extracted_views": 606000,
+   "length": "20:54",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "y7pwGVQEiKc",
+   "link": "https://www.youtube.com/watch?v=y7pwGVQEiKc&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y7pwGVQEiKc",
+   "thumbnail": "https://i.ytimg.com/vi/y7pwGVQEiKc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCw6haqCSPKeewAQxAdxAUWScRfgg",
+   "title": "Money rules I will teach my kids before they turn 15 (#3 will surprise you!)",
+   "published_date": "2 weeks ago",
+   "views": "273K views",
+   "extracted_views": 273000,
+   "length": "25:50",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "PsOdPvQX6v0",
+   "link": "https://www.youtube.com/watch?v=PsOdPvQX6v0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PsOdPvQX6v0",
+   "thumbnail": "https://i.ytimg.com/vi/PsOdPvQX6v0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAuLAoJhXp7KiVKKUAYC9g-3wTM1w",
+   "title": "Why Mutual Funds are not performing?",
+   "published_date": "1 month ago",
+   "views": "261K views",
+   "extracted_views": 261000,
+   "length": "14:19",
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha"
+   }
+  },
+  {
+   "video_id": "nPfSZdSRG80",
+   "link": "https://www.youtube.com/watch?v=nPfSZdSRG80&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nPfSZdSRG80",
+   "thumbnail": "https://i.ytimg.com/vi/nPfSZdSRG80/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpSJa0oKE7_xsKJ4tSRY2gXdKmqw",
+   "title": "Ajay Bagga & Nilesh Shah At Republic Summit 2026 | Mount 1,00,000: India's Wealth Creation Story",
+   "published_date": "11 days ago",
+   "views": "42K views",
+   "extracted_views": 42000,
+   "length": "29:45",
+   "channel": {
+    "name": "Republic World",
+    "link": "https://www.youtube.com/@RepublicWorld"
+   }
+  },
+  {
+   "video_id": "YSux7rtMo9k",
+   "link": "https://www.youtube.com/watch?v=YSux7rtMo9k&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=YSux7rtMo9k",
+   "thumbnail": "https://i.ytimg.com/vi/YSux7rtMo9k/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBils1PR3dIy8OBw0mbN2bna_p3Pw",
+   "title": "This 1 Strategy Made Me Financially Free",
+   "published_date": "3 months ago",
+   "views": "585K views",
+   "extracted_views": 585000,
+   "length": "36:04",
+   "channel": {
+    "name": "INDmoney",
+    "link": "https://www.youtube.com/@INDmoney"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC3RzM1JYcWVrbko0GAYyJSIRIgt0czNSWHFla25KNDAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC3RzM1JYcWVrbko0GAYyOyIUIgt0czNSWHFla25KNDAAeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC3RzM1JYcWVrbko0GAYyOyIUIgt0czNSWHFla25KNDABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=ts3RXqeknJ4"
+ },
+ "_fetched_at": "2026-10-10T08:23:59"
+}

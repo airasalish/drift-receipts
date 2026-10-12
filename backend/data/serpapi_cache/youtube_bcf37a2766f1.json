@@ -1,0 +1,710 @@
+{
+ "search_metadata": {
+  "id": "6ac7bda888de9204217a04a3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/-QkV40phI2JM5RDQEpOBPIzFVx30fQ5U0hBvr_f1cVo/6ac7bda888de9204217a04a3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/-QkV40phI2JM5RDQEpOBPIzFVx30fQ5U0hBvr_f1cVo/6ac7bda888de9204217a04a3.md",
+  "created_at": "2026-10-08 15:58:32 UTC",
+  "processed_at": "2026-10-08 15:58:32 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=Avadhut+Sathe+stocks&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/-QkV40phI2JM5RDQEpOBPIzFVx30fQ5U0hBvr_f1cVo/6ac7bda888de9204217a04a3.html",
+  "total_time_taken": 3.28
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "Avadhut Sathe stocks",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 16225,
+  "video_results_state": "Results for exact spelling"
+ },
+ "ads_results": [
+  {
+   "position_on_page": 1,
+   "title": "Backtest your strategy without risking a single dollar",
+   "link": "https://www.youtube.com/watch?v=91mtb4nsCBk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=91mtb4nsCBk",
+   "website": "https://www.googleadservices.com/pagead/aclk?sa=L&ai=ChQx_qb3HaraJKsbikNAP78a74QH7pOz_iQH1guvylxawkB8QASAAYMmep4zQpPQPggEXY2EtcHViLTYyMTk4MTE3NDcwNDkzNzGgAcaqtM0qqAMEyAMKqgSmAk_QdSXQoLyO67Wx6RR_fnVuhaqYuPWRymhx1odiD7P_I8lyKTN63SQjMli2tsfTdHTmKHRizKX27A7OMrvbPNUVLpSObt6t73oMn1DMeYEEoSaLJEXPP6JjKCP7tcKBaV-_9g_ZNKlXovPZrDmoVrhzOt1zMFwQsGGQBAsZXUafotnHYIhbBbX8aZ8IBm5F5s_AFLGcz_Dl0BTTX3MNbrPdEP6wKy7qtD-Xbf9CIgSz573xU7j6HHxvXTnMQj4RkXsbRzjH8c3yGv83t4T1-vfZjtE8E2ZGG-ZAZ2AwYSOGj4a25beFy2uV0G0gLLrSTJ_lYbTnRpC45wCy0t6neeXRh2wo9u0okNrIOLV0IfPPS4koSbY9uSt8fi-GNH4DaawlMBmJ9ogFmvii_1iSBQgIE3jA3vzhBaAGoQGAB8bihK0FkAcEqAfhtrECqAelz7ECqAfnnbECqAfonbECqAf507ECqAfJ2rECqAep4LECqAeo0huoB7HcG6gHsJuxAqgHrrGxAqgH_bKxAqgHyM-xAqgHyc-xAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHmuKxAqgHm-KxAqgHndexAqgHndSxAqgHgcYbqAf8r7ECqAfVzhuoB77ZsQKoB6vFG6gHnNwbqAe3obECqAfVqbECqAfn2rECqAfetbECkggLOTFtdGI0bnNDQmuoCAHSCC4IgEEQARheMgKCAjoPgEKAwICAgICAgAKqgIAYSNmg0jVQFFjY8pju5KqXA2ABmgkiaHR0cHM6Ly93d3cucHJhY3RpY2VzaW11bGF0b3IuY29tL7EJe6N5wtwMFsfICRfICY8ByAnCAcgJlwKYCwG6Cz0IAxAFGAQgBygBMBxAAUgAWH1gAGgAcAGIAQCYAQGiAQgKAKgCAdgCAqgBAdgBAYACAYgCEboDBXZpY2Jm0AsS0gwCEAGaDQESqg0CVVPIDQHSDZcDaHR0cHM6Ly93d3cucHJhY3RpY2VzaW11bGF0b3IuY29tLz91dG1fbWVkaXVtPXBhaWRfdmlkZW8mdXRtX3NvdXJjZT15b3V0dWJlJnV0bV9jYW1wYWlnbj1nbW1fdXNfdG9mX21vYmlsZWRldmljZXNfdHJpYWxfbWF4LWNvbnZfN2RjMWR2XzIwMjYwNTMwJnV0bV90ZXJtPSZ1dG1fY29udGVudD0mdXRtX2NvdW50cnk9dXMmdXRtX21hcmtldGluZ190YWN0aWM9cHJvc3BlY3RpbmcmZ2NsaWQ9e2djbGlkfSZnYnJhaWQ9e2dicmFpZH0md2JyYWlkPXt3YnJhaWR9JmNhbXBhaWduaWQ9MjM4ODkyMzA4NzQmYWRncm91cGlkPTE5NTc5MTYzNTM3MCZjcmVhdGl2ZT04MjU5NDI3NjM4MzYmbmV0d29yaz0mZGV2aWNlPWMmbWF0Y2h0eXBlPSZrZXl3b3JkPSZnYWRfc291cmNlPTImZ2FkX2NhbXBhaWduaWQ9MjM4ODkyMzA4NzS4E____________wGwFAPAFYGAgEDQFQHYFQHiFgIIAYAXAYoXGAgDGAEgASgBMAE4AUABSAFQAVgBYAJoAaAXAakXMzhoBbJqy3e6FwYoADAAOAHQGAHwGAHCGQIIAQ&gclid=EAIaIQobChMI9oGa7uSqlwMVRjEEBB1v4y4cEAEYASAAEgJLsfD_BwE&num=1&cid=CAASqgHkaLIV5q7CrzE0SDzvL4VDiM2YI3NRmjriT0AR7ksnsXF7xitIHJNC6KfkMY_g8p3-kDaNwz7kWgEeFnSNa0fRpOQ-pez4D1rcZgPbBTgq1PqlCF9PjieHoXUcs3-ojL93Vr3Z1WWhbQyU5r4MnNtX6EmJorU9bG06mb91Ee8gzYOD-muEzfsQFzR2dKL8O--o5P6-mBDYNr6RYKQG0VL65_SXyKTHEKnPrw&ad_cpn=%5BCPN%5D&sig=AOD64_1Li8IhZmjMnT_iKQ846b2gqxifsQ&ctype=110&video_id=91mtb4nsCBk&label=video_click_to_advertiser_site&ms=%5BCLICK_MS%5D&nb=2&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D",
+   "channel": {
+    "name": "FX Replay",
+    "thumbnail": "https://yt3.ggpht.com/proxy/1v_DAQWjmEr4yG0ZkwLlDsiii5iX1X-BjheiIcsKFzecj352rtI8s3JD5TKrUR6h8UtioscW_hfYsuwZ-1NV7UOX9826ppLCdsOK6kbraBIPajZA5xdlb_juxSybI-Sp7XjUYyQEXWU2-Im9qp3_spu-YkuK0MnGlXQzMHuwFA9QiLU8UL96O11hitckZQK5lNEQIGc28ipyE9TDhvGfNMBUJlcAzUAaSiCGA5qLxOYneC1O3iRtY69k1vdbYoFBq61F=w68-h68-nd"
+   },
+   "description": "Replay any market, any timeframe, and test your strategy before you go live.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/91mtb4nsCBk/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgfIDIofzAP&rs=AOn4CLDEo-RAIJgeADROAG7HNUvI7uGryA"
+   }
+  }
+ ],
+ "channel_results": [
+  {
+   "position_on_page": 2,
+   "title": "Avadhut Sathe Trading Academy",
+   "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+   "verified": true,
+   "handle": "@AvadhutSatheTradingAcademy",
+   "subscribers": 916000,
+   "description": "Training is my Passion, Trading is my Life! – Avadhut Sathe Avadhut Sathe has been trading in the stock market since 1991 and ...",
+   "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s88-c-k-c0x00ffffff-no-rj-mo"
+  }
+ ],
+ "video_results": [
+  {
+   "position_on_page": 3,
+   "title": "Here's How Avadhut Sathe’s Trading Tales Turn Into SEBI’s Big Scam Crackdown",
+   "link": "https://www.youtube.com/watch?v=4ah--NrBWr0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4ah--NrBWr0",
+   "video_id": "4ah--NrBWr0",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "10mo ago",
+   "views": 444697,
+   "length": "5:45",
+   "description": "Tamanna Inamdar, Managing Editor, NDTV Profit, explains in detail how scamster Avadhut Sathe's trading classes turned into ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4ah--NrBWr0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADBhRaui8L4PZwRfZfQMetLfo03w",
+    "rich": "https://i.ytimg.com/an_webp/4ah--NrBWr0/mqdefault_6s.webp?du=3000&sqp=CPX3ntYG&rs=AOn4CLCZANmdalJMq_iel5OEJ5UwcY2eqw"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "How I Lost 70% of my Capital in a Day!",
+   "link": "https://www.youtube.com/watch?v=_zgKsGcZlpE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_zgKsGcZlpE",
+   "video_id": "_zgKsGcZlpE",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "10y ago",
+   "views": 213636,
+   "length": "3:42",
+   "description": "Get to know how I lost 70% of my capital in a day in October 2008 while trading in the US Market. With 28 Years of Experience in ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_zgKsGcZlpE/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE8oQDAP&rs=AOn4CLBOjUtxfardVxFcFrAKunByBpS4Pg",
+    "rich": "https://i.ytimg.com/an_webp/_zgKsGcZlpE/mqdefault_6s.webp?du=3000&sqp=CMTXntYG&rs=AOn4CLAzzg3wRdHqfaiNjNRCuKAH05d4YQ"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "Legal Analysis of SAT Order in Avadhut Sathe Matter || @LegalCommentary",
+   "link": "https://www.youtube.com/watch?v=h_tgsj9lFv0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h_tgsj9lFv0",
+   "video_id": "h_tgsj9lFv0",
+   "channel": {
+    "name": "Advocate Vikas Gupta",
+    "link": "https://www.youtube.com/@LegalCommentary",
+    "thumbnail": "https://yt3.ggpht.com/-e4AfI0kVnX4shRwPWD0JQLkqkkPHb_wHd6QvGluGelY1dDCuHA7nFa2hvOq2T9MvU-EuPGQTg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "8mo ago",
+   "views": 4659,
+   "length": "8:42",
+   "description": "इस वीडियो में हम Securities Appellate Tribunal (SAT) के 22 January 2026 के order का legal analysis करते ...",
+   "extensions": [
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/h_tgsj9lFv0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnRueOx-xiks-9z-sOLxPN0YSd-A",
+    "rich": "https://i.ytimg.com/an_webp/h_tgsj9lFv0/mqdefault_6s.webp?du=3000&sqp=CM3KntYG&rs=AOn4CLB7cUNntGAMI1aZp7bF7Dwt5XKbKA"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "Avadhut Sathe Trading Academy (ASTA) आम्ही कुठल्याही प्रकारची टीप देत नाही ",
+   "link": "https://www.youtube.com/watch?v=q7l_rkZC3pQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=q7l_rkZC3pQ",
+   "video_id": "q7l_rkZC3pQ",
+   "channel": {
+    "name": "Power of Voice / POV News",
+    "link": "https://www.youtube.com/@povnews-powerofvoice",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/fFlx7I3jhspAernBN2yGrCZ6X5tT5WnHF1kKSsigoc7w14D9vhEFke3yxpmneWTD4LHhy2i_xkM=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 12228,
+   "length": "4:08",
+   "description": "pune #avdhutsathe #sebi #sharemarket #sharemarketnews Avadhut Sathe Trading Academy (ASTA) categorically denies the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/q7l_rkZC3pQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLAtP66n3OWmtOgIl_5CCOanuU-77w",
+    "rich": "https://i.ytimg.com/an_webp/q7l_rkZC3pQ/mqdefault_6s.webp?du=3000&sqp=CPyqntYG&rs=AOn4CLDA7FX0-CLm5wS7OADb2d_e61BtqA"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Avadhut Sathe - A Man on a Mission to Financially Empower People via the Stock Market!",
+   "link": "https://www.youtube.com/watch?v=WOQzvFxFPDg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=WOQzvFxFPDg",
+   "video_id": "WOQzvFxFPDg",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "11y ago",
+   "views": 104831,
+   "length": "11:15",
+   "description": "Know Avadhut Sathe in this 11-minute Video! A totally authentic & passionate person with tremendous knowledge of the stock ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/WOQzvFxFPDg/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhiIGIoYjAP&rs=AOn4CLCHsb1Ferax7PODhTTq8VORfMomcQ",
+    "rich": "https://i.ytimg.com/an_webp/WOQzvFxFPDg/mqdefault_6s.webp?du=3000&sqp=CKDRntYG&rs=AOn4CLDODf-bq71gxq7ftXQAcxzcjUO1-w"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Avadhut Sathe Exposed or Targeted? Full SEBI Story |  Biggest Stock Market Case Study",
+   "link": "https://www.youtube.com/watch?v=Rul6hH3XStA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Rul6hH3XStA",
+   "video_id": "Rul6hH3XStA",
+   "channel": {
+    "name": "Basesh U Gala",
+    "link": "https://www.youtube.com/@BaseshGala",
+    "thumbnail": "https://yt3.ggpht.com/WoBTqXDXldnLQbd4U9LCI0_RAZHSstfV3VdaNom0MYwfu0_NfEGDLC8jeUrF0HEMV7YdCfZ-VA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 6361,
+   "length": "10:44",
+   "description": "India's trading and fin-influencer ecosystem has been shaken after a major SEBI action on Avadhut Sathe and Avadhut Sathe ...",
+   "extensions": [
+    "CC"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Rul6hH3XStA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCThknMNw2Yx6Ai4UB7JpSLWcEgzQ",
+    "rich": "https://i.ytimg.com/an_webp/Rul6hH3XStA/mqdefault_6s.webp?du=3000&sqp=CKC9ntYG&rs=AOn4CLDns2T2YoKlv8V_b-wzVognV8ZbBw"
+   }
+  },
+  {
+   "position_on_page": 12,
+   "title": "The Dark Side of India’s Top Trading Guru’s | Avdhut sathe | Ruchir Gupta | TRADER EXPOSED",
+   "link": "https://www.youtube.com/watch?v=t7qH6VcZxcE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=t7qH6VcZxcE",
+   "video_id": "t7qH6VcZxcE",
+   "channel": {
+    "name": "SCALPER LIVE",
+    "link": "https://www.youtube.com/@SCALPERLIVE",
+    "thumbnail": "https://yt3.ggpht.com/P0Xs2vNjxO15mOwjMUBsEqGGSwdjE5QLcQyWuHa-olE-24AKPK5bjB3h1Ig1_68KSl4WnxE9wEI=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2y ago",
+   "views": 579070,
+   "length": "7:08",
+   "description": "In this video i am trying to show real face pf stock market fake gurus , How they luring people for selling their stock market courses ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/t7qH6VcZxcE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7idvjPUjb49ZnsFj6AJ1lqWe4Pg",
+    "rich": "https://i.ytimg.com/an_webp/t7qH6VcZxcE/mqdefault_6s.webp?du=3000&sqp=CL7entYG&rs=AOn4CLDYfLAJIqKAs6NxE4IYKkfK2PKM5Q"
+   }
+  },
+  {
+   "position_on_page": 13,
+   "title": "Avadhut Sathe ₹601 Crore Penalty by SEBI after Raid || Stock Market Fraud | SumanTV Naveena #finance",
+   "link": "https://www.youtube.com/watch?v=smYv4seq6dY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=smYv4seq6dY",
+   "video_id": "smYv4seq6dY",
+   "channel": {
+    "name": "SumanTV Finance",
+    "link": "https://www.youtube.com/@SumanTVFinance",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/qIGNKdEYGf7pwGWr2YCNmehVCgLwndMWfXHnKTFGhOaxJed95ii-QpWpMHqJLR-7E15FX_ZQYd4=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 1281,
+   "length": "9:27",
+   "description": "SumanTVFinance #Stocks #StockMarket #ShareMarket #MutualFunds Watch ▻ Avadhut Sathe ₹601 Crore Penalty by SEBI ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/smYv4seq6dY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXCu9nzcGBxIZ1igNPct2kaKaMxw",
+    "rich": "https://i.ytimg.com/an_webp/smYv4seq6dY/mqdefault_6s.webp?du=3000&sqp=CL7fntYG&rs=AOn4CLBz4cUHuxYSGVZR4uasaQQvA93K4Q"
+   }
+  },
+  {
+   "position_on_page": 14,
+   "title": "YouTube Live Event - Avadhut Sathe on Stock Market Trading and Investing in changing times",
+   "link": "https://www.youtube.com/watch?v=v6WHz72S0JI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=v6WHz72S0JI",
+   "video_id": "v6WHz72S0JI",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 6y ago",
+   "views": 304625,
+   "length": "1:26:09",
+   "description": "To register for our upcoming Wealth Creation through Equity Investing / Trading 'The Online Eye-Opener' Webinar, click on the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/v6WHz72S0JI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBowMMABMcTY03AgJjDyFP22DXE7Q",
+    "rich": "https://i.ytimg.com/an_webp/v6WHz72S0JI/mqdefault_6s.webp?du=3000&sqp=CJT4ntYG&rs=AOn4CLD1zw9oyEBKwtU8RC4772Re3n6kNw"
+   }
+  },
+  {
+   "position_on_page": 15,
+   "title": "#Episode97 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "link": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tRHkKajYgsE",
+   "video_id": "tRHkKajYgsE",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 4y ago",
+   "views": 25087,
+   "length": "1:05:11",
+   "description": "To register for our upcoming Wealth Creation through Equity Investing / Trading 'The Online Eye-Opener' Webinar, click on the ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tRHkKajYgsE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbDHycxhG9Oz7A3FSA4gvmAxAiXw",
+    "rich": "https://i.ytimg.com/an_webp/tRHkKajYgsE/mqdefault_6s.webp?du=3000&sqp=CKnpntYG&rs=AOn4CLBvLILz55y_Gp7aBoIBWDPQk0TRpw"
+   }
+  },
+  {
+   "position_on_page": 16,
+   "title": "Avadhut Sathe ₹600 Crore Penalty by SEBI After Raid | Massive Stock Market Fraud Exposed | iDream",
+   "link": "https://www.youtube.com/watch?v=y3lcSgNu1ZU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=y3lcSgNu1ZU",
+   "video_id": "y3lcSgNu1ZU",
+   "channel": {
+    "name": "iDream Money Purse",
+    "link": "https://www.youtube.com/@iDreamMoneyPurse",
+    "thumbnail": "https://yt3.ggpht.com/uHForcFrzKSQ7SWJ5KcYvg6wsw4ElWhPXHExZcnxKpv91_pKFxa_VGAbpedFablzQPYVH-uNbw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 8168,
+   "length": "15:23",
+   "description": "Avadhut Sathe ₹600 Crore Penalty by SEBI After Raid | Massive Stock Market Fraud Exposed | iDream Money Purse \n\n#AvadhutSathe ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/y3lcSgNu1ZU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDo3vEicKte9vwgMgXVlHMQUQwvQQ",
+    "rich": "https://i.ytimg.com/an_webp/y3lcSgNu1ZU/mqdefault_6s.webp?du=3000&sqp=CKbsntYG&rs=AOn4CLB1MKiy4SgELkAGH_HZL5WWH34iHQ"
+   }
+  },
+  {
+   "position_on_page": 17,
+   "title": "ASTA Gurukul Stock Market GEO+ 16 Monsoon Batch",
+   "link": "https://www.youtube.com/watch?v=2whIJghEe_c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=2whIJghEe_c",
+   "video_id": "2whIJghEe_c",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 8528,
+   "length": "1:30",
+   "description": "A short glimpse of the ASTA Gurukul Stock Market GEO+ 16 July (Monsoon) Batch. 🌧️   Join us as we showcase the learning ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/2whIJghEe_c/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJk-UfQHM1QUzY_c30palLBMjmtg",
+    "rich": "https://i.ytimg.com/an_webp/2whIJghEe_c/mqdefault_6s.webp?du=3000&sqp=COjOntYG&rs=AOn4CLDNMP7ov9mTqKQDcQAJlqQFt7xlKQ"
+   }
+  },
+  {
+   "position_on_page": 18,
+   "title": "Is your Drive your Threat in stock market !? - ASTA Gurukul Glimpses",
+   "link": "https://www.youtube.com/watch?v=__unKfZ66VA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=__unKfZ66VA",
+   "video_id": "__unKfZ66VA",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2mo ago",
+   "views": 6627,
+   "length": "2:42",
+   "description": "What really drives your decisions in the stock market—knowledge or emotions? Catch the powerful glimpses from ASTA Gurukul, ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/__unKfZ66VA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIEsoZTAP&rs=AOn4CLAbcEIN_xtPMAJ6xoCwOGUC7O5y5A",
+    "rich": "https://i.ytimg.com/an_webp/__unKfZ66VA/mqdefault_6s.webp?du=3000&sqp=CMD5ntYG&rs=AOn4CLDABPUZhihLw0IoY37PHG-AyNLB8A"
+   }
+  },
+  {
+   "position_on_page": 19,
+   "title": "SEBI Cracks Down on Avadhut Sathe’s Trading Academy Scam | Avadhut Sathe Case | Lokmat Times",
+   "link": "https://www.youtube.com/watch?v=IuOO9vOwBFU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=IuOO9vOwBFU",
+   "video_id": "IuOO9vOwBFU",
+   "channel": {
+    "name": "Lokmat Times",
+    "link": "https://www.youtube.com/@LokmatTimes",
+    "thumbnail": "https://yt3.ggpht.com/kcwjZpeq0vYrb5_Er4B-hOPX2ZjIoECuMSNE-PdNUYImRuzL-YX3dhxFqC23jYD7VLeHrxp2vQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "9mo ago",
+   "views": 6835,
+   "length": "4:14",
+   "description": "SEBI Cracks Down on Avadhut Sathe's Trading Academy Scam | Avadhut Sathe Case | Lokmat Times SEBI has launched its ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/IuOO9vOwBFU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjWR30zv_FTq5KWagkMskIc81MqA",
+    "rich": "https://i.ytimg.com/an_webp/IuOO9vOwBFU/mqdefault_6s.webp?du=3000&sqp=CJLhntYG&rs=AOn4CLA_ksiielmvARD1QMY0ay_gFxpd3A"
+   }
+  },
+  {
+   "position_on_page": 20,
+   "title": "#Episode62 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "link": "https://www.youtube.com/watch?v=9ID5Hb11P6A",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9ID5Hb11P6A",
+   "video_id": "9ID5Hb11P6A",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "Streamed 4y ago",
+   "views": 17693,
+   "length": "1:14:16",
+   "description": "Tune in to ASTA's YouTube channel this Thursday evening for a very special YouTube Live session by Financial Trader, Trainer ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9ID5Hb11P6A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjrqe60zRZr7HKKmurQ05bqeZa_A",
+    "rich": "https://i.ytimg.com/an_webp/9ID5Hb11P6A/mqdefault_6s.webp?du=3000&sqp=CIDnntYG&rs=AOn4CLDwoUpn9h3xc43Iid4OYlF4MYZKWQ"
+   }
+  },
+  {
+   "position_on_page": 21,
+   "title": "What is the right time to sell shares in stock market?",
+   "link": "https://www.youtube.com/watch?v=zTccLzL-KLY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zTccLzL-KLY",
+   "video_id": "zTccLzL-KLY",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "3y ago",
+   "views": 20893,
+   "length": "1:43",
+   "description": "Do you buy shares but find it hard to determine when to sell them? This radio clip is for you! Financial Trader, Trainer & Mentor ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zTccLzL-KLY/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgaAAuADigIMCAAQARgTIDgofzAP&rs=AOn4CLAub0XsJAaI_cFa_ObTmho2QLtEsw",
+    "rich": "https://i.ytimg.com/an_webp/zTccLzL-KLY/mqdefault_6s.webp?du=3000&sqp=COD6ntYG&rs=AOn4CLBYN81qchzmxAuhkb0UZtu1GvVhVA"
+   }
+  },
+  {
+   "position_on_page": 22,
+   "title": "Inverstor માટે Stock શોધવા ની રીત?",
+   "link": "https://www.youtube.com/watch?v=RuRhiR5pUGY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=RuRhiR5pUGY",
+   "video_id": "RuRhiR5pUGY",
+   "channel": {
+    "name": "Akshay's Academy ",
+    "link": "https://www.youtube.com/@AkshayTank007",
+    "thumbnail": "https://yt3.ggpht.com/_8KjANLLKNTMibhQqWjAnu5gss_t8xFqsP6tqe_koLgwmGOGbUPxB2TwdGqxhXV0BjZbbMopFiE=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "7d ago",
+   "views": 21,
+   "length": "1:08",
+   "description": "This Content Is For Educational And Informational Purposes Only. I Am Not A SEBI-registered Advisor. All Trades And Stock Ideas ...",
+   "extensions": [
+    "Gujarati"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/RuRhiR5pUGY/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhSIF8oZTAP&rs=AOn4CLCLUil1B_Z0zdb8Q0pPUBaZrKGQWw",
+    "rich": "https://i.ytimg.com/an_webp/RuRhiR5pUGY/mqdefault_6s.webp?du=3000&sqp=CNbPntYG&rs=AOn4CLBPrlEw2_EM6EG3WMaIT9Iu7kWU9A"
+   }
+  },
+  {
+   "position_on_page": 23,
+   "title": "Buy dividend yield stocks in times of uncertainty in the stock market | Kuberanow",
+   "link": "https://www.youtube.com/watch?v=LEDrrCSGG30",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=LEDrrCSGG30",
+   "video_id": "LEDrrCSGG30",
+   "channel": {
+    "name": "Kubera Now",
+    "link": "https://www.youtube.com/@KuberaNow",
+    "thumbnail": "https://yt3.ggpht.com/qBPIq3ZGC4Vb3TXHaa__JcE-wr2rXWvAVvTmbUS6uUlcI1buVB1gqQlq0dpu83XsvDb1IWAejw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "6d ago",
+   "views": 7,
+   "length": "1:31",
+   "description": "શેરબજારમાં અનિશ્ચિતતાના સમયમાં ખરીદો ડિવિડન્ડ યિલ્ડ્સ સ્ટોક્સ ...",
+   "extensions": [
+    "New",
+    "Gujarati"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/LEDrrCSGG30/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhWIF4oZTAP&rs=AOn4CLDk8frU_0PH21V1akiKF1wxsRK8IQ",
+    "rich": "https://i.ytimg.com/an_webp/LEDrrCSGG30/mqdefault_6s.webp?du=3000&sqp=CPnBntYG&rs=AOn4CLCoSqx9rXDdGGHxTa8IzCDQxpTfhg"
+   }
+  },
+  {
+   "position_on_page": 24,
+   "title": "એક જ Sector માં Investment કરશો નહીં! 📈 | Stock Market માં Portfolio Diversification કેમ જરૂરી?",
+   "link": "https://www.youtube.com/watch?v=th27GBSAeWw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=th27GBSAeWw",
+   "video_id": "th27GBSAeWw",
+   "channel": {
+    "name": "Anand Panchal",
+    "link": "https://www.youtube.com/@Anand_Panchal",
+    "thumbnail": "https://yt3.ggpht.com/9buQDSq95iWQiw6Cr9mcxCemSf5f28D8dqBdd1zKkOoBtDqeTIwhqZlbNOa-Ba8xObj_QvviWw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "12h ago",
+   "views": 148,
+   "length": "0:21",
+   "description": "Stock Market માં હંમેશા એક જ sector perform કરતું નથી. ક્યારેક IT, ક્યારેક Pharma, FMCG, ...",
+   "extensions": [
+    "New",
+    "Hindi"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/th27GBSAeWw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIFcoVTAP&rs=AOn4CLB1HoziDM4ZpYpJgB-4CY2OY_jINw",
+    "rich": "https://i.ytimg.com/an_webp/th27GBSAeWw/mqdefault_6s.webp?du=3000&sqp=COS6ntYG&rs=AOn4CLCInvQH_xhcPIyFlM29OGsIzXylKQ"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 5,
+   "shorts": [
+    {
+     "title": "SEBI Drops the Hammer: Finfluencer Avadhut Sathe Banned, ₹546 Crore Seized",
+     "link": "https://www.youtube.com/shorts/XNpEsVZa-v8",
+     "thumbnail": "https://i.ytimg.com/vi/XNpEsVZa-v8/frame0.jpg",
+     "views_original": "308 views",
+     "views": 308,
+     "video_id": "XNpEsVZa-v8"
+    },
+    {
+     "title": "SEBI vs Avadhut Sathe: 546 Crore Crackdown Shocks Finfluencer World! 🚨📉",
+     "link": "https://www.youtube.com/shorts/i9s3oQ5WA7Y",
+     "thumbnail": "https://i.ytimg.com/vi/i9s3oQ5WA7Y/frame0.jpg",
+     "views_original": "209 views",
+     "views": 209,
+     "video_id": "i9s3oQ5WA7Y"
+    },
+    {
+     "title": "SEBI banned advut sathe trading academy alleging multi crore stock market scam, market manipulation.",
+     "link": "https://www.youtube.com/shorts/vaUS9aseC7Y",
+     "thumbnail": "https://i.ytimg.com/vi/vaUS9aseC7Y/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "vaUS9aseC7Y"
+    },
+    {
+     "title": "SEBI Bans Influencer Avadhut Sathe, Flags Rs. 546 crore For ‘’Unlawful Gains’’",
+     "link": "https://www.youtube.com/shorts/ozi76MyBLPY",
+     "thumbnail": "https://i.ytimg.com/vi/ozi76MyBLPY/frame0.jpg",
+     "views_original": "335 views",
+     "views": 335,
+     "video_id": "ozi76MyBLPY"
+    },
+    {
+     "title": "Avadhut Sathe Scam – SEBI Finally Exposed Everything",
+     "link": "https://www.youtube.com/shorts/tgIw-sabat4",
+     "thumbnail": "https://i.ytimg.com/vi/tgIw-sabat4/frame0.jpg",
+     "views_original": "715 views",
+     "views": 715,
+     "video_id": "tgIw-sabat4"
+    }
+   ]
+  },
+  {
+   "position_on_page": 9,
+   "shorts": [
+    {
+     "title": "Sebi bans Avadhut Sathe from the securities market and slaps a fine of Rs 546 cr. #marketupdates",
+     "link": "https://www.youtube.com/shorts/WcIPqb-ZkZY",
+     "thumbnail": "https://i.ytimg.com/vi/WcIPqb-ZkZY/frame0.jpg",
+     "views_original": "119 views",
+     "views": 119,
+     "video_id": "WcIPqb-ZkZY"
+    },
+    {
+     "title": "Sebi vs Avadhut Sathe Scam 🚨#sebi #stocks #trading #ytshorts",
+     "link": "https://www.youtube.com/shorts/eqvoaTrOtkU",
+     "thumbnail": "https://i.ytimg.com/vi/eqvoaTrOtkU/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "eqvoaTrOtkU"
+    },
+    {
+     "title": "SEBI Raids Avadhut Sathe 🚨 ₹500 Crore Scam? #stockmarket #finance",
+     "link": "https://www.youtube.com/shorts/fNiVYTGGP7E",
+     "thumbnail": "https://i.ytimg.com/vi/fNiVYTGGP7E/frame0.jpg",
+     "views_original": "1.6K views",
+     "views": 1600,
+     "video_id": "fNiVYTGGP7E"
+    },
+    {
+     "title": "Sebi imposed fine on Avadhut Sathe",
+     "link": "https://www.youtube.com/shorts/7uF7G8eiBww",
+     "thumbnail": "https://i.ytimg.com/vi/7uF7G8eiBww/frame0.jpg",
+     "views_original": "2.3K views",
+     "views": 2300,
+     "video_id": "7uF7G8eiBww"
+    },
+    {
+     "title": "₹ 546.16 cr frozen — unlawful gains of Avadhut Sathe Trading Academy impounded by SEBI.",
+     "link": "https://www.youtube.com/shorts/bgRtqa6HQDw",
+     "thumbnail": "https://i.ytimg.com/vi/bgRtqa6HQDw/frame0.jpg",
+     "views_original": "122 views",
+     "views": 122,
+     "video_id": "bgRtqa6HQDw"
+    },
+    {
+     "title": "Why SEBI considers trade examples shared By Avadhut Sathe as an Investment Advise? #stockmarket",
+     "link": "https://www.youtube.com/shorts/iJ3y15fDInw",
+     "thumbnail": "https://i.ytimg.com/vi/iJ3y15fDInw/frame0.jpg",
+     "views_original": "419 views",
+     "views": 419,
+     "video_id": "iJ3y15fDInw"
+    },
+    {
+     "title": "Have you ever avoided a topic because you thought it wasn't meant for you?",
+     "link": "https://www.youtube.com/shorts/f81EvXTtEw0",
+     "thumbnail": "https://i.ytimg.com/vi/f81EvXTtEw0/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "f81EvXTtEw0"
+    },
+    {
+     "title": "Beware of Stock Market Gurus! SEBI tough action in Avadhut Sathe case!",
+     "link": "https://www.youtube.com/shorts/I35pssi5fNU",
+     "thumbnail": "https://i.ytimg.com/vi/I35pssi5fNU/frame0.jpg",
+     "views_original": "1.5K views",
+     "views": 1500,
+     "video_id": "I35pssi5fNU"
+    },
+    {
+     "title": "Avadhut Sathe Stock Market Scam #stockmarket #finance #fnotrading #trading",
+     "link": "https://www.youtube.com/shorts/_4EmAbOLPcE",
+     "thumbnail": "https://i.ytimg.com/vi/_4EmAbOLPcE/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "_4EmAbOLPcE"
+    },
+    {
+     "title": "Stock market frauds | Avadhut Sathe's 600 cr scam",
+     "link": "https://www.youtube.com/shorts/9djuG8RAB6c",
+     "thumbnail": "https://i.ytimg.com/vi/9djuG8RAB6c/frame0.jpg",
+     "views_original": "2.6K views",
+     "views": 2600,
+     "video_id": "9djuG8RAB6c"
+    },
+    {
+     "title": "Avadhut Sathe Scam Exposed! The Dark Truth No Trader Should Ignore!",
+     "link": "https://www.youtube.com/shorts/yJNMo9EQTMw",
+     "thumbnail": "https://i.ytimg.com/vi/yJNMo9EQTMw/frame0.jpg",
+     "views_original": "1.4K views",
+     "views": 1400,
+     "video_id": "yJNMo9EQTMw"
+    },
+    {
+     "title": "Avadhut Sathe’s ₹601 Crore Scam Exposed | SEBI Lifetime Ban & Refund Order Explained",
+     "link": "https://www.youtube.com/shorts/c7MBFZPp37g",
+     "thumbnail": "https://i.ytimg.com/vi/c7MBFZPp37g/frame0.jpg",
+     "views_original": "9.1K views",
+     "views": 9100,
+     "video_id": "c7MBFZPp37g"
+    },
+    {
+     "title": "SEBI Fines Avadhut Sathe Rs 601cr.",
+     "link": "https://www.youtube.com/shorts/alVx50j1Z3E",
+     "thumbnail": "https://i.ytimg.com/vi/alVx50j1Z3E/frame0.jpg",
+     "views_original": "1K views",
+     "views": 1000,
+     "video_id": "alVx50j1Z3E"
+    },
+    {
+     "title": "SEBI cracks down on finfluencer Avadhut Sathe, orders recovery of ₹546 cr",
+     "link": "https://www.youtube.com/shorts/kpOUlZTEUUs",
+     "thumbnail": "https://i.ytimg.com/vi/kpOUlZTEUUs/frame0.jpg",
+     "views_original": "26K views",
+     "views": 26000,
+     "video_id": "kpOUlZTEUUs"
+    },
+    {
+     "title": "SEBI raided Avadhut Sathe’s house ..#avadhutsathe  #sebi  #trading  #stockmarket  #investing",
+     "link": "https://www.youtube.com/shorts/HCzDdpn7Nio",
+     "thumbnail": "https://i.ytimg.com/vi/HCzDdpn7Nio/frame0.jpg",
+     "views_original": "69 views",
+     "views": 69,
+     "video_id": "HCzDdpn7Nio"
+    },
+    {
+     "title": "ASTA Mission Connect Hyderabad Sneak Peek",
+     "link": "https://www.youtube.com/shorts/SxW4lyzHdp4",
+     "thumbnail": "https://i.ytimg.com/vi/SxW4lyzHdp4/frame0.jpg",
+     "views_original": "107K views",
+     "views": 107000,
+     "video_id": "SxW4lyzHdp4"
+    },
+    {
+     "title": "Avadhut Sathe Scam #avadhutsathetradingacademy #avadhutsathe #sebi",
+     "link": "https://www.youtube.com/shorts/zfSqCstE24U",
+     "thumbnail": "https://i.ytimg.com/vi/zfSqCstE24U/frame0.jpg",
+     "views_original": "23K views",
+     "views": 23000,
+     "video_id": "zfSqCstE24U"
+    },
+    {
+     "title": "Avadhut Sathe Scam EXPOSED: How SEBI Uncovered the ₹600 Crore Lie By @VivekPrashantAcademy",
+     "link": "https://www.youtube.com/shorts/4UbNG67Z_dw",
+     "thumbnail": "https://i.ytimg.com/vi/4UbNG67Z_dw/frame0.jpg",
+     "views_original": "808 views",
+     "views": 808,
+     "video_id": "4UbNG67Z_dw"
+    },
+    {
+     "title": "Avadhut Sathe Case: सच या धोखा? #viral #scamalertindia #india #stockmarket #hindi #finance #shorts",
+     "link": "https://www.youtube.com/shorts/MW62ejbtZzY",
+     "thumbnail": "https://i.ytimg.com/vi/MW62ejbtZzY/frame0.jpg",
+     "views_original": "1.2K views",
+     "views": 1200,
+     "video_id": "MW62ejbtZzY"
+    },
+    {
+     "title": "SEBI Bans Avadhut Sathe | ₹601 Crore Refund Ordered | Big Action Explained #avadhutsathe",
+     "link": "https://www.youtube.com/shorts/jMR4OgtE6w0",
+     "thumbnail": "https://i.ytimg.com/vi/jMR4OgtE6w0/frame0.jpg",
+     "views_original": "11K views",
+     "views": 11000,
+     "video_id": "jMR4OgtE6w0"
+    }
+   ]
+  }
+ ],
+ "playlist_results": [
+  {
+   "position_on_page": 6,
+   "title": "Live: Stock Market Sawaal Jawaab",
+   "link": "https://www.youtube.com/playlist?list=PLQ_aibHecpRJnoFM_ZDbF66X3yhs2aP7X",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy"
+   },
+   "videos": [
+    {
+     "title": "#Episode2 #YouTubeLive: Stock Market Sawaal Jawaab with #AvadhutSathe",
+     "length": "1:14:58",
+     "link": "https://www.youtube.com/watch?v=fOwPXL-SyK0&list=PLQ_aibHecpRJnoFM_ZDbF66X3yhs2aP7X"
+    },
+    {
+     "title": "#Episode1 #YouTubeLive: Stock Market Sawaal Jawaab with #AvadhutSathe",
+     "length": "1:20:07",
+     "link": "https://www.youtube.com/watch?v=XvQFSp3tArY&list=PLQ_aibHecpRJnoFM_ZDbF66X3yhs2aP7X&pp=0gcJCQIF0aJEHMZM"
+    }
+   ],
+   "video_count": 277,
+   "thumbnail": "https://i.ytimg.com/vi/fOwPXL-SyK0/hq720.jpg?sqp=-oaymwEXCNAFEJQDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLC94JrHb27gRAh5Cr37FI2NtkOpIA"
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=Avadhut+Sathe+stocks&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=Avadhut%20Sathe%20stocks&sp=SBSCAQs0YWgtLU5yQldyMIIBC196Z0tzR2NabHBFggEiUExRX2FpYkhlY3BSSm5vRk1fWkRiRjY2WDN5aHMyYVA3WIIBC2hfdGdzajlsRnYwggELcTdsX3JrWkMzcFGCAQtXT1F6dkZ4RlBEZ4IBC1J1bDZoSDNYU3RBggELdDdxSDZWY1p4Y0WCAQtzbVl2NHNlcTZkWYIBC3Y2V0h6NzJTMEpJggELdFJIa0thallnc0WCAQt5M2xjU2dOdTFaVYIBCzJ3aElKZ2hFZV9jggELX191bktmWjY2VkGCAQtJdU9POXZPd0JGVYIBCzlJRDVIYjExUDZBggELelRjY0x6TC1LTFmCAQtSdVJoaVI1cFVHWYIBC0xFRHJyQ1NHRzMwggELdGgyN0dCU0FlV3eyAQYKBAgYEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs0YWgtLU5yQldyMIIBC196Z0tzR2NabHBFggEiUExRX2FpYkhlY3BSSm5vRk1fWkRiRjY2WDN5aHMyYVA3WIIBC2hfdGdzajlsRnYwggELcTdsX3JrWkMzcFGCAQtXT1F6dkZ4RlBEZ4IBC1J1bDZoSDNYU3RBggELdDdxSDZWY1p4Y0WCAQtzbVl2NHNlcTZkWYIBC3Y2V0h6NzJTMEpJggELdFJIa0thallnc0WCAQt5M2xjU2dOdTFaVYIBCzJ3aElKZ2hFZV9jggELX191bktmWjY2VkGCAQtJdU9POXZPd0JGVYIBCzlJRDVIYjExUDZBggELelRjY0x6TC1LTFmCAQtSdVJoaVI1cFVHWYIBC0xFRHJyQ1NHRzMwggELdGgyN0dCU0FlV3eyAQYKBAgYEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Avadhut+Sathe+stocks",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=Avadhut+Sathe+stocks&sp=SBSCAQs0YWgtLU5yQldyMIIBC196Z0tzR2NabHBFggEiUExRX2FpYkhlY3BSSm5vRk1fWkRiRjY2WDN5aHMyYVA3WIIBC2hfdGdzajlsRnYwggELcTdsX3JrWkMzcFGCAQtXT1F6dkZ4RlBEZ4IBC1J1bDZoSDNYU3RBggELdDdxSDZWY1p4Y0WCAQtzbVl2NHNlcTZkWYIBC3Y2V0h6NzJTMEpJggELdFJIa0thallnc0WCAQt5M2xjU2dOdTFaVYIBCzJ3aElKZ2hFZV9jggELX191bktmWjY2VkGCAQtJdU9POXZPd0JGVYIBCzlJRDVIYjExUDZBggELelRjY0x6TC1LTFmCAQtSdVJoaVI1cFVHWYIBC0xFRHJyQ1NHRzMwggELdGgyN0dCU0FlV3eyAQYKBAgYEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQs0YWgtLU5yQldyMIIBC196Z0tzR2NabHBFggEiUExRX2FpYkhlY3BSSm5vRk1fWkRiRjY2WDN5aHMyYVA3WIIBC2hfdGdzajlsRnYwggELcTdsX3JrWkMzcFGCAQtXT1F6dkZ4RlBEZ4IBC1J1bDZoSDNYU3RBggELdDdxSDZWY1p4Y0WCAQtzbVl2NHNlcTZkWYIBC3Y2V0h6NzJTMEpJggELdFJIa0thallnc0WCAQt5M2xjU2dOdTFaVYIBCzJ3aElKZ2hFZV9jggELX191bktmWjY2VkGCAQtJdU9POXZPd0JGVYIBCzlJRDVIYjExUDZBggELelRjY0x6TC1LTFmCAQtSdVJoaVI1cFVHWYIBC0xFRHJyQ1NHRzMwggELdGgyN0dCU0FlV3eyAQYKBAgYEALqAQQIAhAZ"
+ },
+ "_fetched_at": "2026-10-08T15:58:34"
+}

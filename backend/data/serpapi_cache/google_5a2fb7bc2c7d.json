@@ -1,0 +1,663 @@
+{
+ "search_metadata": {
+  "id": "6ac9f751dbb9ff61cd003deb",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/Vm_I_rSXaWdWyOWTthE9toipe5YgX_FrnFX5H0Yawg0/6ac9f751dbb9ff61cd003deb.json",
+  "markdown_endpoint": "https://serpapi.com/searches/Vm_I_rSXaWdWyOWTthE9toipe5YgX_FrnFX5H0Yawg0/6ac9f751dbb9ff61cd003deb.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/Vm_I_rSXaWdWyOWTthE9toipe5YgX_FrnFX5H0Yawg0/6ac9f751dbb9ff61cd003deb.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:05 UTC",
+  "processed_at": "2026-10-10 08:29:05 UTC",
+  "google_url": "https://www.google.com/search?q=Apple+Inc.+share+price&oq=Apple+Inc.+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/Vm_I_rSXaWdWyOWTthE9toipe5YgX_FrnFX5H0Yawg0/6ac9f751dbb9ff61cd003deb.html",
+  "total_time_taken": 0.66
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Apple Inc. share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Apple Inc. share price",
+  "total_results": 174,
+  "time_taken_displayed": 0.41,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "Apple Inc",
+  "type": "NASDAQ: AAPL",
+  "entity_type": "finance",
+  "kgmid": "/m/07zmbvf",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/07zmbvf&hl=en-IN&q=Apple+Inc",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en-IN&kgmid=%2Fm%2F07zmbvf&q=Apple+Inc",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAUVBMVEX___9mZmZeXl5iYmJXV1daWlqlpaXBwcH8_Py0tLRubm6rq6vw8PCIiIiBgYHc3Nz29vbQ0NCfn590dHTj4-OQkJDq6upSUlKWlpbHx8e6urpx1ZffAAABmElEQVRIib2W65KDIAyFIQQvULRg1db3f9AFu91tazTQmd38ZOabE5KTgBB_GX3dfECdg9bzuZyrUUkJ5YoVyhimmLM6cepayvlVT2pfyDVq5coztbByWCoo7noQSrnLekNwpZy4pUz1WMyJBUHLupwTfbD5ZTnVYXTXZfo5aHrrBjM42x9hF4egYgAae0kHfgQNqZvqMGuL3x1PxURTBaV_D2Kdup0hcVq-hFLy7UCeKG4EyYUyxHy1muViDtsSTchz4AhB934hQo8y3zTzguR0WV4QSQsYPtGO4k58aYA0jud7gRMF1nzzgeJEy4PyU5BedRmg-hREcqZyikOukZ5vhyLXXYYBdhrJW3XHcxlTJXVLgEuGAyQSds1ZAJGstiQ_VynAbJqS49ZEbl71c1au1Bq4ZtSVtHpWefSN6MiYI0lwObYjBTMKS5suxsAki-RjlZI9Hi6kE03hj6657f3zNZ9JBc9PK-xd8B4WHxAOwYYOH485w6VfUdSBuavvhWh8iN8HgJmYiw0aKv_ygPaLbcm18b_xBf8tD08u8Xy-AAAAAElFTkSuQmCC.png",
+    "source": "http://t1.gstatic.com/images?q=tbn:ANd9GcSjoU2lZ2eJX3aCMfiFDt39uRNcDu9W7pTKcyZymE2iKa7IOVaI"
+   }
+  ],
+  "description": "Apple Inc. is an American multinational technology company headquartered in Cupertino, California, in Silicon Valley, and known for consumer electronics, software and online services.",
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Apple_Inc."
+  },
+  "ceo": "John Ternus (1 Sept 2026–)",
+  "ceo_links": [
+   {
+    "text": "John Ternus",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=John+Ternus&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0SWrSCSqkd1zzyG0tj5sHLoRMO45OB955b6q8HhPZLyB2w72jDd5drIZm0bGGcIDbrxClduFk0T1wbBkOHeyXdbRMSTBv4vliykm3vbJkdNkMpcFdZG8_g9B0RHTbWdj31sbGgHofZjcADH8Glfd0rB5F22ucu_Im6oAmXqifiu70L8yZA%3D%3D&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgfEAI"
+   }
+  ],
+  "number_of_employees": "1,66,000 (2025)",
+  "founded": "1 April 1976, Los Altos, California, United States",
+  "founded_links": [
+   {
+    "text": "Los Altos, California, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Los+Altos&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpn-A0LEUv13uSlQ0U1BWwbr9UlkJg4awrPQhfuXfVSW_3KXO2j9vS8D-OoNUtg9LPBivJBR9-rvv_LWF-F_QYVUXmwxI1KKkYAkCu4kFwg2EjaoYgoqh6SQuE-TIFRC7xRUK-ECIMLHqRBeUzxUVoMK3CEt1&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgdEAI"
+   }
+  ],
+  "headquarters": "Cupertino, California, United States",
+  "headquarters_links": [
+   {
+    "text": "Cupertino, California, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Cupertino&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppg269OreNVNI6an8TGHsKdxVff4w36_9d3va9GKjf3uWJaGMDYBQL7YM4YaNMTdzsX846roqvthY4tnX7hsz9S1fUMOSKKzAwjaXNqUp1EYzx6twXTNQbt9M6PoX8K1W3reetp1Y2lVc5Cwrc-20PSrLGlK&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgcEAI"
+   }
+  ],
+  "founders": "Steve Jobs, Ronald Wayne, Steve Wozniak",
+  "founders_links": [
+   {
+    "text": "Steve Jobs",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Steve+Jobs&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMppoxeDGW8oaQl8s3FpJmwyYzlDrKc3Qh3GYnlPZwvXvkwcIy2lWr_NjZfrPgS6mO-n1g0-ST31MqIWMYri0F_ljTx-dj6_i5bUBTGONfsWHwY7AI1d_wiBSbBeUdqa4KCEG_b7ovPQzH2OyWbDXF7Oy2ynbw&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgeEAI"
+   },
+   {
+    "text": "Ronald Wayne",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Ronald+Wayne&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60yZ8jjgOKtzNfzqOIfZ8RT4NsxuR-kMHV1qLrnvJpSDMRZYBOdftqKm-uPuW2OtojuQNhvVNN_CGA2U3cJ63bg7m17y6_Hea1-uX0E8UTUDnPfw3wW2UifjbYHWKu_XuQz5cJQpkYeUjxz2fLFCOKwLyvymOl&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgeEAM"
+   },
+   {
+    "text": "Steve Wozniak",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Steve+Wozniak&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMpgnuQ4Ir0bMxSSXW6E7GXNAMDLeOzOFXpJptTA_BPK34Kg9p4pI-WIIrWes_pWlPeQfUoL-QU_NWlm-YQHXdMVkD4PmHSmMunPBuhlzsyFnKEhK-C1TXx7rp4Oa3_jMxJzBMqlsrkUg4okE5C4JNQeIFe6kg&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgeEAQ"
+   }
+  ],
+  "subsidiaries": "Beddit, Beats by Dre, Apple Store, Drive.ai",
+  "subsidiaries_links": [
+   {
+    "text": "Beddit",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Beddit&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0d7ZMwLLRLDpq6PArHX-9erAQn8LI1XVfZSqv1Uw5Zhx_0YDcEvmVacPqe-KX4xM5AKcu7-LeRKV4Z7pk3kBFZUHpRZJQCzAqqtzWRLirJpRh8OLoGR2IgyCFGd-A8Dcpz1j53zbVB6gAw2OI3CTfBxxCsrCxQz2r9hUCQwgHjsebDrk0A%3D%3D&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgiEAI"
+   },
+   {
+    "text": "Beats by Dre",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Beats+Electronics&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW672n2VmBmsnmFO0hCe589klG2fYh6cexWzbHG32TgjHLlWYleMSuzf4QtyHgFl7N5Z-fcGXE0Qn5fFeiZdR0wjl4bNw9LUB2JR52ENIMSUWB8BDx7JU0aYkl00vQZ3v3rdG4QQzbydkRfd0LE2raR_NXXL464SG6ydKnsl4ca3ier41ejzg%3D%3D&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgiEAM"
+   },
+   {
+    "text": "Apple Store",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+Store&si=APenkKlisoOXLiCMwraINHtdqOQii4CK9kOlkQc8Apn-pS60ydpuB2joke4MeEMrvJzbI-pvFefOUtw6dHPQ7AA2BlFVwYOt622TDLLOjPmtCqwGOE54tG10Zs5Hh1P3UHoz6yHSOg01i8otAc1LyZwvVjxF_DbA86tt9NG9mXz_iGEs9hbQjccUwrr3CjeQ-WREGgJPKlPk&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgiEAQ"
+   },
+   {
+    "text": "Drive.ai",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Drive.ai&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0fx1lnER_XWB9B0i2pIun7amLSfgSCYp5Zyl9s40t6nxHdsDf09VfcEQD7OSTHdSeZGLvdy77FMzjqE3iknMEpM5k2XKxeuKGHAHlbQNrljvdeHnEORTIrc4yx5Kwu8bPfFpRH0wIDyPke0f9ubGaDNCqmj_hEVN3mVzNmi3b-LuYbzsxA%3D%3D&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQmxN6BAgiEAU"
+   },
+   {
+    "text": "See more",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=nasdaq:aapl+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LSz9U3MK_KTSpL09LOTrbST8vMS8xLTtUvLslPzrZKzs8tSMyr1M3MS8tXKC5NKs5MyUwsykwtXsQqkZdYnJJYaJWYWJCDIgUAWWNqolYAAAA&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ44YBegQIIhAG"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Kinetic Wealth Investment Advisors LLC Buys 3,341 Shares of Apple Inc. $AAPL",
+    "thumbnail": "https://serpapi.com/searches/6ac9f751dbb9ff61cd003deb/images/6OmaLCLTc8v-qOnn_BgydgYU7F76N8LnOuO1Dr5QJ2-udAR-xt-YWoSc8dBUKEEA.jpeg",
+    "source": "MarketBeat",
+    "date": "53 minutes ago",
+    "link": "https://www.marketbeat.com/instant-alerts/filing-kinetic-wealth-investment-advisors-llc-buys-3341-shares-of-apple-inc-aapl-2026-10-10/"
+   },
+   {
+    "title": "Earnings"
+   },
+   {
+    "title": "Quarterly financials"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Does Apple pay dividends?",
+   "type": "ai_overview",
+   "page_token": "AEo_-XicHdBRToMwHIDxeJk9Cl2XGZcsJmwURGHhT1uwLwbLRjcKNNIN2Zt38VSexsULfPnl-_7Rx675vSuUtWZYOc44jvd139d6fy_71imHqZOOLLX-KGWzWj4s0dNBrv1h9Db96KXMGL4FNzupJM3VC-cmr8J6KgOLKtJj2vKjxEn35iajuIJNOdC4EBEQNe1yu2RbNQLh3Y5ZXrhRFxOPvrKEizlyZQO3jrnswmoLCEjV6ox19QiFCsVJx6WPcHbVZ6DPVhJ1BlIvgKaLsvOyPDBQ5TBkyAskNkq4-pLN2ZRiksV-xGQYZwTxVjRGySJqaMBjGkYIuHfOuTLCJTg4Rh6Eyc0pWIq9TeX7C0FVsG_QRJvHCIqbvBBfidvg_anCs4O8rPHs_9j6_dDalfns6z8UU3iv",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=AEo_-XicHdBRToMwHIDxeJk9Cl2XGZcsJmwURGHhT1uwLwbLRjcKNNIN2Zt38VSexsULfPnl-_7Rx675vSuUtWZYOc44jvd139d6fy_71imHqZOOLLX-KGWzWj4s0dNBrv1h9Db96KXMGL4FNzupJM3VC-cmr8J6KgOLKtJj2vKjxEn35iajuIJNOdC4EBEQNe1yu2RbNQLh3Y5ZXrhRFxOPvrKEizlyZQO3jrnswmoLCEjV6ox19QiFCsVJx6WPcHbVZ6DPVhJ1BlIvgKaLsvOyPDBQ5TBkyAskNkq4-pLN2ZRiksV-xGQYZwTxVjRGySJqaMBjGkYIuHfOuTLCJTg4Rh6Eyc0pWIq9TeX7C0FVsG_QRJvHCIqbvBBfidvg_anCs4O8rPHs_9j6_dDalfns6z8UU3iv",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IkRvZXMgQXBwbGUgcGF5IGRpdmlkZW5kcz8iLCJsayI6IkdoaGtiMlZ6SUdGd2NHeGxJSEJoZVNCa2FYWnBaR1Z1WkhNIiwiYnMiOiJjMzNPUFF2Q01CU0ZZVnp2NUdqamN0YnFvbDNFcVFpQy1BdkVNVFpYRWhxYWtsd3RfZmQtSUdnUm5aX0Q0YVVWWmR2QUNadTI5WXhXOXpEdTZndzNKcFdGVWhQelFQMk50Q1oxc0ZyZ0VzUXlsa2hXeF9zb3VvckxZcXF5N3BmU2p2SjlnaE9jV0lRakpDQ3g5d2dSTm5qemFra1NxdnJaTUVEOVJqclNiTkN3UU04NklySmNZb053SGo3TlZkNzlYWDljajBjMyIsImlkIjoiZmNfVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXdfNSJ9",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IkRvZXMgQXBwbGUgcGF5IGRpdmlkZW5kcz8iLCJsayI6IkdoaGtiMlZ6SUdGd2NHeGxJSEJoZVNCa2FYWnBaR1Z1WkhNIiwiYnMiOiJjMzNPUFF2Q01CU0ZZVnp2NUdqamN0YnFvbDNFcVFpQy1BdkVNVFpYRWhxYWtsd3RfZmQtSUdnUm5aX0Q0YVVWWmR2QUNadTI5WXhXOXpEdTZndzNKcFdGVWhQelFQMk50Q1oxc0ZyZ0VzUXlsa2hXeF9zb3VvckxZcXF5N3BmU2p2SjlnaE9jV0lRakpDQ3g5d2dSTm5qemFra1NxdnJaTUVEOVJqclNiTkN3UU04NklySmNZb053SGo3TlZkNzlYWDljajBjMyIsImlkIjoiZmNfVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXdfNSJ9"
+  },
+  {
+   "question": "What is the 1 share price?",
+   "type": "ai_overview",
+   "page_token": "fAm5FnicHdBfboIwHADg7DI-TlrQTROzBKE4DBpK_wAvCxYR5VdphorytrvsVDvNlh3h-76-4Xhufp7S-nIx3Xw87vv--dC2B9g_q1aPi-5xVmNVAOwK1cynL1P0VqmF3_Xusu3dmBsjPGolqbsutRmU1-AMYBsJmCZBnhfaHwogQPXEyay6Lrz8PbKN5oTcYw0VH4ilMMJ7mFllcDcMd5ghcITVY65bWxICGc81g5mmQ3lNZDswGZpN0zv7U-4lyC2UV68py7D078eYk9UOhKP8chMRl8cgHjsdSubPcIRqzE7lJknrQukuIUjovDG1SsOGBSJiqxBR4V6lqE1uETs4hi5dbR5bmbMEQpNYtN3J2S3j4TIewCnRnwe93pWkKeUTd1Sp28Ie_Y8tPip9mZvP9vALyNB42g",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=fAm5FnicHdBfboIwHADg7DI-TlrQTROzBKE4DBpK_wAvCxYR5VdphorytrvsVDvNlh3h-76-4Xhufp7S-nIx3Xw87vv--dC2B9g_q1aPi-5xVmNVAOwK1cynL1P0VqmF3_Xusu3dmBsjPGolqbsutRmU1-AMYBsJmCZBnhfaHwogQPXEyay6Lrz8PbKN5oTcYw0VH4ilMMJ7mFllcDcMd5ghcITVY65bWxICGc81g5mmQ3lNZDswGZpN0zv7U-4lyC2UV68py7D078eYk9UOhKP8chMRl8cgHjsdSubPcIRqzE7lJknrQukuIUjovDG1SsOGBSJiqxBR4V6lqE1uETs4hi5dbR5bmbMEQpNYtN3J2S3j4TIewCnRnwe93pWkKeUTd1Sp28Ie_Y8tPip9mZvP9vALyNB42g",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEgc2hhcmUgcHJpY2U/IiwibGsiOiJHaGwzYUdGMElHbHpJSFJvWlNBeElITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImMzM09QUXZDTUJTRllWenY1R2pqY3RicW9sM0VxUWlDLUF2RU1UWlhFaHFha2x3dF9mZC1JR2dSblpfRDRhVVZaZHZBQ1p1MjlZeFc5ekR1Nmd3M0pwV0ZVaFB6UVAyTnRDWjFzRnJnRXNReWxraFd4X3NvdW9yTFlxcXk3cGZTanZKOWdoT2NXSVFqSkNDeDl3Z1JObmp6YWtrU3F2clpNRUQ5UmpyU2JOQ3dRTTg2SXJKY1lvTndIajdOVmQ3OVhYOWNqMGMzIiwiaWQiOiJmY19VZmZKYXFyZExlTExydUVQbllYaWdBd181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEgc2hhcmUgcHJpY2U%2FIiwibGsiOiJHaGwzYUdGMElHbHpJSFJvWlNBeElITm9ZWEpsSUhCeWFXTmwiLCJicyI6ImMzM09QUXZDTUJTRllWenY1R2pqY3RicW9sM0VxUWlDLUF2RU1UWlhFaHFha2x3dF9mZC1JR2dSblpfRDRhVVZaZHZBQ1p1MjlZeFc5ekR1Nmd3M0pwV0ZVaFB6UVAyTnRDWjFzRnJnRXNReWxraFd4X3NvdW9yTFlxcXk3cGZTanZKOWdoT2NXSVFqSkNDeDl3Z1JObmp6YWtrU3F2clpNRUQ5UmpyU2JOQ3dRTTg2SXJKY1lvTndIajdOVmQ3OVhYOWNqMGMzIiwiaWQiOiJmY19VZmZKYXFyZExlTExydUVQbllYaWdBd181In0%3D"
+  },
+  {
+   "question": "Is it better to sell or hold Apple stock?",
+   "type": "ai_overview",
+   "page_token": "L-6oRnicHZDLbqMwAADVn-mxwaR0pUhRJVKcV01kg3Hsy4rYSUywwbvQAL71X_ar9ms22vtoNJrvP6Zq6r9Pd933rlvMZsMwvFzb9mrOL7K1s7KbGjmTpTGnUtaLtx9v4P0il8nXNl792saYOld8kCALFKasDUhtKuR3FQ9xjzYKc0Y2BdxGMowqxFybNarjtzqiEH7la9qfqV6jo9ufGxJJqu9ZklpC0ykHLkPr0eOCfEqapggYQ0NdyRpu5M24LBhAXutVzsCRB85nTUyR54P0GuZAFWKuO2aFIwGgzJJtDtHraRMfuMX9Z8GBSKJQzMmDcR32Vy9u9ZSB3aEMQY6PkCT64bBiz49wEslo8mScFC3wyRheMhWrsa0wJf7RYulc-QMbEQ_VOmNQFwzcU5N4ZUd8CswgaHERw_NF3pfz5_8_lz8vtl-43-31H3bOhhU",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=L-6oRnicHZDLbqMwAADVn-mxwaR0pUhRJVKcV01kg3Hsy4rYSUywwbvQAL71X_ar9ms22vtoNJrvP6Zq6r9Pd933rlvMZsMwvFzb9mrOL7K1s7KbGjmTpTGnUtaLtx9v4P0il8nXNl792saYOld8kCALFKasDUhtKuR3FQ9xjzYKc0Y2BdxGMowqxFybNarjtzqiEH7la9qfqV6jo9ufGxJJqu9ZklpC0ykHLkPr0eOCfEqapggYQ0NdyRpu5M24LBhAXutVzsCRB85nTUyR54P0GuZAFWKuO2aFIwGgzJJtDtHraRMfuMX9Z8GBSKJQzMmDcR32Vy9u9ZSB3aEMQY6PkCT64bBiz49wEslo8mScFC3wyRheMhWrsa0wJf7RYulc-QMbEQ_VOmNQFwzcU5N4ZUd8CswgaHERw_NF3pfz5_8_lz8vtl-43-31H3bOhhU",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byBzZWxsIG9yIGhvbGQgQXBwbGUgc3RvY2s/IiwibGsiOiJHaGh6Wld4c0lHOXlJR2h2YkdRZ1lYQndiR1VnYzNSdlkycyIsImJzIjoiYzMzT1BRdkNNQlNGWVZ6djVHampjdGJxb2wzRXFRaUMtQXZFTVRaWEVocWFrbHd0X2ZkLUlHZ1JuWl9ENGFVVlpkdkFDWnUyOVl4Vzl6RHU2Z3czSnBXRlVoUHpRUDJOdENaMXNGcmdFc1F5bGtoV3hfc291b3JMWXFxeTdwZlNqdko5Z2hPY1dJUWpKQ0N4OXdnUk5uanpha2tTcXZyWk1FRDlSanJTYk5Dd1FNODZJckpjWW9Od0hqN05WZDc5WFg5Y2owYzMiLCJpZCI6ImZjX1VmZkphcXJkTGVMTHJ1RVBuWVhpZ0F3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IklzIGl0IGJldHRlciB0byBzZWxsIG9yIGhvbGQgQXBwbGUgc3RvY2s%2FIiwibGsiOiJHaGh6Wld4c0lHOXlJR2h2YkdRZ1lYQndiR1VnYzNSdlkycyIsImJzIjoiYzMzT1BRdkNNQlNGWVZ6djVHampjdGJxb2wzRXFRaUMtQXZFTVRaWEVocWFrbHd0X2ZkLUlHZ1JuWl9ENGFVVlpkdkFDWnUyOVl4Vzl6RHU2Z3czSnBXRlVoUHpRUDJOdENaMXNGcmdFc1F5bGtoV3hfc291b3JMWXFxeTdwZlNqdko5Z2hPY1dJUWpKQ0N4OXdnUk5uanpha2tTcXZyWk1FRDlSanJTYk5Dd1FNODZJckpjWW9Od0hqN05WZDc5WFg5Y2owYzMiLCJpZCI6ImZjX1VmZkphcXJkTGVMTHJ1RVBuWVhpZ0F3XzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the 10 year return of Apple stock?",
+   "type": "ai_overview",
+   "page_token": "LO2eRHicHdDLcoIwFADQ6c-41KDVDs44nUGCrxIbJJeQTYcQFeEi1BfKrv_Sr-rXtNPtWZ6vbzwci5-nW3a51Odxr9c0TXdfVXvcdtOq7CXnxzHtpQmiTtJiPHoZWa-7dEKvC2f6uXC4qGtwA7LJAYzMCCuNp2Z0qOfBNXC9s4a4UREemJcxQJsrgW_SsqlPlROg3V-HotEztUoITPWfsxCILsDfSlOzYpnHsmjjcvkuqM2jYt8PI6vPwVBl2bO1SwebKBhF0pR-jjctMsYf1klQ0SgydADoM2-Zy1yjtoBqUyIJZNZysYRtwe-SgEioWq0F5GxeNRHFo2yzI2txQDMDqlSrWHoPRe8Y0vvDCOAaMU4i45h7deAiaNMcS1Ggp_MF4ZE_0OGS-yQbrkOlhAczHQZVSOsz551depsMOv-fk49deRnXp2r_C8T1g74",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=LO2eRHicHdDLcoIwFADQ6c-41KDVDs44nUGCrxIbJJeQTYcQFeEi1BfKrv_Sr-rXtNPtWZ6vbzwci5-nW3a51Odxr9c0TXdfVXvcdtOq7CXnxzHtpQmiTtJiPHoZWa-7dEKvC2f6uXC4qGtwA7LJAYzMCCuNp2Z0qOfBNXC9s4a4UREemJcxQJsrgW_SsqlPlROg3V-HotEztUoITPWfsxCILsDfSlOzYpnHsmjjcvkuqM2jYt8PI6vPwVBl2bO1SwebKBhF0pR-jjctMsYf1klQ0SgydADoM2-Zy1yjtoBqUyIJZNZysYRtwe-SgEioWq0F5GxeNRHFo2yzI2txQDMDqlSrWHoPRe8Y0vvDCOAaMU4i45h7deAiaNMcS1Ggp_MF4ZE_0OGS-yQbrkOlhAczHQZVSOsz551depsMOv-fk49deRnXp2r_C8T1g74",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwIHllYXIgcmV0dXJuIG9mIEFwcGxlIHN0b2NrPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQXhNQ0I1WldGeUlISmxkSFZ5YmlCdlppQmhjSEJzWlNCemRHOWphdyIsImJzIjoiYzMzT1BRdkNNQlNGWVZ6djVHampjdGJxb2wzRXFRaUMtQXZFTVRaWEVocWFrbHd0X2ZkLUlHZ1JuWl9ENGFVVlpkdkFDWnUyOVl4Vzl6RHU2Z3czSnBXRlVoUHpRUDJOdENaMXNGcmdFc1F5bGtoV3hfc291b3JMWXFxeTdwZlNqdko5Z2hPY1dJUWpKQ0N4OXdnUk5uanpha2tTcXZyWk1FRDlSanJTYk5Dd1FNODZJckpjWW9Od0hqN05WZDc5WFg5Y2owYzMiLCJpZCI6ImZjX1VmZkphcXJkTGVMTHJ1RVBuWVhpZ0F3XzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSS1NVNUpNVkJyVURCNFdrcHJUVVpCZFZrellYbGhWR1pQYVU0eE0yWnJUVWxNTUVadFJ6UjNSMWhvYzBwMVNHUkpTRlp0ZWsweGJGZFlSelJRZEhGelNHTlhjRlV0YWpWemVuSlZaMDB0YjFrMlNqUnNVRGxNUzNWNmR4SVhWV1ptU21GeGNtUk1aVXhNY25WRlVHNVpXR2xuUVhjYUlrRkVjM0k1WmxJNU9IZHBibGRqWjBKb05ESXdhR28xU25oMU1rVkdiakoyVG5jIiwiZmN2IjoiMyIsImVpIjoiVWZmSmFxcmRMZUxMcnVFUG5ZWGlnQXciLCJxYyI6IkNoVmhjSEJzWlNCcGJtTWdjMmhoY21VZ2NISnBZMlVRQUgzc1lCQV8iLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEwIHllYXIgcmV0dXJuIG9mIEFwcGxlIHN0b2NrPyIsImxrIjoiR2lsM2FHRjBJR2x6SUhSb1pTQXhNQ0I1WldGeUlISmxkSFZ5YmlCdlppQmhjSEJzWlNCemRHOWphdyIsImJzIjoiYzMzT1BRdkNNQlNGWVZ6djVHampjdGJxb2wzRXFRaUMtQXZFTVRaWEVocWFrbHd0X2ZkLUlHZ1JuWl9ENGFVVlpkdkFDWnUyOVl4Vzl6RHU2Z3czSnBXRlVoUHpRUDJOdENaMXNGcmdFc1F5bGtoV3hfc291b3JMWXFxeTdwZlNqdko5Z2hPY1dJUWpKQ0N4OXdnUk5uanpha2tTcXZyWk1FRDlSanJTYk5Dd1FNODZJckpjWW9Od0hqN05WZDc5WFg5Y2owYzMiLCJpZCI6ImZjX1VmZkphcXJkTGVMTHJ1RVBuWVhpZ0F3XzUifQ%3D%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Apple Inc. (NASDAQ: AAPL) closed at $336.64 USD on October 9, 2026, down $3.78 (-1.11%) for the day."
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Last Price: $336.64 USD"
+     },
+     {
+      "snippet": "Previous Close: $340.42 USD"
+     },
+     {
+      "snippet": "Day Range: $330.70 – $338.61 USD"
+     },
+     {
+      "snippet": "52-Week Range: $243.42 – $345.34 USD"
+     },
+     {
+      "snippet": "Market Capitalization: ~$4.91 trillion"
+     },
+     {
+      "snippet": "P/E Ratio: ~38.59"
+     },
+     {
+      "snippet": "Trading Volume: ~37.88 million"
+     }
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can view live charts and analysis via TradingView or track quotes on Yahoo Finance.",
+    "snippet_links": [
+     {
+      "text": "TradingView",
+      "link": "https://in.tradingview.com/symbols/NASDAQ-AAPL/"
+     },
+     {
+      "text": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/quote/AAPL/"
+     }
+    ],
+    "reference_indexes": [
+     0,
+     1
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Would you like to see Apple's financial performance metrics, upcoming earnings date (October 29, 2026), or historical price trends?",
+    "reference_indexes": [
+     0
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Apple Stock Chart — NASDAQ:AAPL Stock Price — TradingView — India",
+    "link": "https://in.tradingview.com/symbols/NASDAQ-AAPL/",
+    "snippet": "Apple Inc (NASDAQ: AAPL, Cupertino, founded 1976, CEO John Ternus): Designs, manufactures, and sells devices (iPhone, Mac, iPad, AirPods, Apple Watch, Apple TV) an...",
+    "source": "TradingView",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://in.tradingview.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS4TetopMdeLZiHBSobtRf41_W06UGH0hiSiWdng-VIzUVxUQV7NP56piGZrpseToxJbUQ1ltf33pd4ZgkHSGmG7309OXG8gis098woBBFQPT8p5w5hZv9Kw12Io5m1DYNnMD1GXtRyZg"
+   },
+   {
+    "index": 1,
+    "title": "AAPL Apple Inc. - Yahoo Finance",
+    "link": "https://finance.yahoo.com/quote/AAPL/",
+    "snippet": "0.88% * 0.88% * 1_M. 6.75% * 6_M. 29.23% * YTD. 23.83% * 1_Y. 32.51% * 5_Y. 135.58% * ALL. 262,186.94% ... * 340.42. * 331.79. * 336.73 x 100. * 339.97 x 400. * 33...",
+    "source": "Yahoo Finance",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxAaq5rOyTnycvV5AlfAVkUBgYy28Z3rWaelZ1Hvyat8Sbud-j1dkbTvPUx4CzVC9YpZSStWA6kZtDcl8tkFoFvdrlxiWuo_4xw3l6_ZAkcndaqEJyJeLf3-4HRsHI3v2-iQZDaGJ7fqtG5k47zGiWo3g"
+   }
+  ]
+ },
+ "answer_box": {
+  "type": "finance_results",
+  "title": "About",
+  "exchange": "NASDAQ",
+  "stock": "AAPL",
+  "currency": "USD",
+  "price": 336.64,
+  "price_movement": {
+   "percentage": 1.11,
+   "movement": "Down",
+   "date": "today"
+  },
+  "market": {
+   "closed": true,
+   "date": "9 Oct, 7:59 pm GMT-4",
+   "trading": "After hours",
+   "price": 336.08,
+   "price_movement": {
+    "price": 0.56,
+    "percentage": 0.17,
+    "movement": "Down"
+   }
+  },
+  "table": [
+   {
+    "name": "Open",
+    "value": 331.7
+   },
+   {
+    "name": "High",
+    "value": 338.61
+   },
+   {
+    "name": "Low",
+    "value": 330.7
+   },
+   {
+    "name": "Mkt cap",
+    "value": 4.91
+   },
+   {
+    "name": "P/E ratio",
+    "value": 38.59
+   },
+   {
+    "name": "52-wk high",
+    "value": 345.34
+   },
+   {
+    "name": "Dividend",
+    "value": 0.32
+   },
+   {
+    "name": "Qtrly div amt",
+    "value": 0.27
+   },
+   {
+    "name": "52-wk low",
+    "value": 243.42
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Apple Stock Price | AAPL Stock Quote, News, and History",
+   "link": "https://markets.businessinsider.com/stocks/aapl-stock",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVbFXSDJRgAbzKtS1wim2pnAxtMabXCCjmsAE2yWRfbRA6cZ77QDDHr09fInnC6XPgZTmN8JjBWT34GlaxzbwzOuRSUC24KBk0AgK3phL3V4wZ0WQQYElNvnDlWBpgZyrKm_gHVjwfPwWrOho&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://markets.businessinsider.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0zND43qoSITxxkK-z4AIRA2S7LSEZFdI91AAAA_uK6PZjSkWP-vWanAxyX_3QCoemVKABQmUfs8OiaXXisKO7wbi4eZedfZkIoiL_EasGK4h8I4h9zX_H2fpptDXFUUgMctGUMne_ExsMGp0vg_da_GJKiUNv_2zFyHZFj5m0q57MgnQ7UlVOK9mIrwGcBmyw7qpSi1ws6Q1_vzsNyM8oU7KZZff_AwKuYD3xyk1YQ2IEXsBuwrdHneqwA7UmreD6o2vxViYDcohEWffAA.webp",
+   "snippet": "Apple Inc. share was $336.67 on BTT. Apple Inc.'s market capitalization is $4,860.37 B by 14.59 B shares outstanding.",
+   "snippet_highlighted_words": [
+    "Apple Inc. share was $336.67 on BTT"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Apple Inc. share was $336.67 on BTT. Apple Inc.'s market capitalization is $4,860.37 B by 14.59 B shares outstanding.",
+     "source_info_link": "https://markets.businessinsider.com/stocks/aapl-stock",
+     "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAACwBQCdASocABwAPtE-tFooIigoFAEAGglkAJ0zND43qoSITxxkK-z4AIRA2S7LSEZFdI91AAAA_uK6PZjSkWP-vWanAxyX_3QCoemVKABQmUfs8OiaXXisKO7wbi4eZedfZkIoiL_EasGK4h8I4h9zX_H2fpptDXFUUgMctGUMne_ExsMGp0vg_da_GJKiUNv_2zFyHZFj5m0q57MgnQ7UlVOK9mIrwGcBmyw7qpSi1ws6Q1_vzsNyM8oU7KZZff_AwKuYD3xyk1YQ2IEXsBuwrdHneqwA7UmreD6o2vxViYDcohEWffAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmJGWFNESlJnQWJ6S3RTMXdpbTJwbkF4dE1hYlhDQ2ptc0FFMnlXUmZiUkE2Y1o3N1FEREhyMDlmSW5uQzZYUGdaVG1OOEpqQldUMzRHbGF4emJ3ek91UlNVQzI0S0JrMEFnSzNwaEwzVjR3WjBXUVFZRWxOdm5EbFdCcGdaeXJLbV9nSFZqd2ZQd1dyT2hvEgQaAggAGtcEEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAsQQIABAAGAAgACofCgVhcHBsZRUVr8pAGgdhcHBsZSdzGghhcHBsZWluYyobCgNpbmMVGgImQBoFc3RvY2saCGFwcGxlaW5jKkAKBXNoYXJlFZbIJUAaCWNvbSBzdG9jaxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlKjwKBXByaWNlFSJ4rEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWYkZYU0RKUmdBYnpLdFMxd2ltMnBuQXh0TWFiWENDam1zQUUyeVdSZmJSQTZjWjc3UURESHIwOWZJbm5DNlhQZ1pUbU44SmpCV1QzNEdsYXh6Ynd6T3VSU1VDMjRLQmswQWdLM3BoTDNWNHdaMFdRUVlFbE52bkRsV0JwZ1p5ckttX2dIVmp3ZlB3V3JPaG86PjxiPkFwcGxlIFN0b2NrIFByaWNlPC9iPiB8IEFBUEwgU3RvY2sgUXVvdGUsIE5ld3MsIGFuZCBIaXN0b3J5QoABPGI-QXBwbGUgSW5jLiBzaGFyZSB3YXMgJDMzNi42NyBvbiBCVFQ8L2I-LiBBcHBsZSBJbmMuJiMzOTtzIG1hcmtldCBjYXBpdGFsaXphdGlvbiBpcyAkNCw4NjAuMzcgQiBieSAxNC41OSBCIHNoYXJlcyBvdXRzdGFuZGluZy4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqUBL2dvdG8_dXJsPUNBRVNjQUhyT3pBVmJGWFNESlJnQWJ6S3RTMXdpbTJwbkF4dE1hYlhDQ2ptc0FFMnlXUmZiUkE2Y1o3N1FEREhyMDlmSW5uQzZYUGdaVG1OOEpqQldUMzRHbGF4emJ3ek91UlNVQzI0S0JrMEFnSzNwaEwzVjR3WjBXUVFZRWxOdm5EbFdCcGdaeXJLbV9nSFZqd2ZQd1dyT2hvEgQaAggAGtcEEgIIARoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAsQQIABAAGAAgACofCgVhcHBsZRUVr8pAGgdhcHBsZSdzGghhcHBsZWluYyobCgNpbmMVGgImQBoFc3RvY2saCGFwcGxlaW5jKkAKBXNoYXJlFZbIJUAaCWNvbSBzdG9jaxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlKjwKBXByaWNlFSJ4rEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UypQEvZ290bz91cmw9Q0FFU2NBSHJPekFWYkZYU0RKUmdBYnpLdFMxd2ltMnBuQXh0TWFiWENDam1zQUUyeVdSZmJSQTZjWjc3UURESHIwOWZJbm5DNlhQZ1pUbU44SmpCV1QzNEdsYXh6Ynd6T3VSU1VDMjRLQmswQWdLM3BoTDNWNHdaMFdRUVlFbE52bkRsV0JwZ1p5ckttX2dIVmp3ZlB3V3JPaG86PjxiPkFwcGxlIFN0b2NrIFByaWNlPC9iPiB8IEFBUEwgU3RvY2sgUXVvdGUsIE5ld3MsIGFuZCBIaXN0b3J5QoABPGI-QXBwbGUgSW5jLiBzaGFyZSB3YXMgJDMzNi42NyBvbiBCVFQ8L2I-LiBBcHBsZSBJbmMuJiMzOTtzIG1hcmtldCBjYXBpdGFsaXphdGlvbiBpcyAkNCw4NjAuMzcgQiBieSAxNC41OSBCIHNoYXJlcyBvdXRzdGFuZGluZy4iAhABSABYAGgA",
+   "source": "markets.businessinsider.com"
+  },
+  {
+   "position": 2,
+   "title": "Apple Inc. (AAPL.TO) Stock Price, News, Quote & History",
+   "link": "https://finance.yahoo.com/quote/AAPL.TO/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAVYFCI9mnruEAZr_cpTkX3VxHXZvWu7xzSAi1N2xSzTdim4Mzl5ZYHFJ60h0cQIOo7M_CafFY5M0BKriukCW3YN9EieZAYxZCnscy8eatDjIrhuTeUwN9mTjg-NP7fmg&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://finance.yahoo.com › quote › AAPL",
+   "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp",
+   "snippet": "Previous Close 47.84 Open 46.56 Bid. Day's Range 46.48 - 47.10 52 Week Range 34.76 - 48.57 ・ 6.92T Enterprise Value 6.95T ・ 2.53 Price/Sales (ttm)",
+   "snippet_highlighted_words": [
+    "Price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Previous Close 47.84 Open 46.56 Bid. Day's Range 46.48 - 47.10 52 Week Range 34.76 - 48.57 ・ 6.92T Enterprise Value 6.95T ・ 2.53 Price/Sales (ttm)",
+     "source_info_link": "https://finance.yahoo.com/quote/AAPL.TO/",
+     "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllGQ0k5bW5ydUVBWnJfY3BUa1gzVnhIWFp2V3U3eHpTQWkxTjJ4U3pUZGltNE16bDVaWUhGSjYwaDBjUUlPbzdNX0NhZkZZNU0wQktyaXVrQ1czWU45RWllWkFZeFpDbnNjeThlYXREaklyaHVUZVV3TjltVGpnLU5QN2ZtZxIEGgIIABryBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMwECAAQABgAIAAqHwoFYXBwbGUVcj2DQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFQeBhEAaBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRW51w0-Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRUgtiNAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllGQ0k5bW5ydUVBWnJfY3BUa1gzVnhIWFp2V3U3eHpTQWkxTjJ4U3pUZGltNE16bDVaWUhGSjYwaDBjUUlPbzdNX0NhZkZZNU0wQktyaXVrQ1czWU45RWllWkFZeFpDbnNjeThlYXREaklyaHVUZVV3TjltVGpnLU5QN2ZtZzpJPGI-QXBwbGUgSW5jPC9iPi4gKEFBUEwuVE8pIDxiPlN0b2NrIFByaWNlPC9iPiwgTmV3cywgUXVvdGUgJmFtcDsgSGlzdG9yeUKhAVByZXZpb3VzIENsb3NlIDQ3Ljg0IE9wZW4gNDYuNTYgQmlkLiBEYXkmIzM5O3MgUmFuZ2UgNDYuNDggLSA0Ny4xMCA1MiBXZWVrIFJhbmdlIDM0Ljc2IC0gNDguNTcg44O7IDYuOTJUIEVudGVycHJpc2UgVmFsdWUgNi45NVQg44O7IDIuNTMgPGI-UHJpY2U8L2I-L1NhbGVzICh0dG0pIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllGQ0k5bW5ydUVBWnJfY3BUa1gzVnhIWFp2V3U3eHpTQWkxTjJ4U3pUZGltNE16bDVaWUhGSjYwaDBjUUlPbzdNX0NhZkZZNU0wQktyaXVrQ1czWU45RWllWkFZeFpDbnNjeThlYXREaklyaHVUZVV3TjltVGpnLU5QN2ZtZxIEGgIIABryBBICCAAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMwECAAQABgAIAAqHwoFYXBwbGUVcj2DQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFQeBhEAaBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRW51w0-Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRUgtiNAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVllGQ0k5bW5ydUVBWnJfY3BUa1gzVnhIWFp2V3U3eHpTQWkxTjJ4U3pUZGltNE16bDVaWUhGSjYwaDBjUUlPbzdNX0NhZkZZNU0wQktyaXVrQ1czWU45RWllWkFZeFpDbnNjeThlYXREaklyaHVUZVV3TjltVGpnLU5QN2ZtZzpJPGI-QXBwbGUgSW5jPC9iPi4gKEFBUEwuVE8pIDxiPlN0b2NrIFByaWNlPC9iPiwgTmV3cywgUXVvdGUgJmFtcDsgSGlzdG9yeUKhAVByZXZpb3VzIENsb3NlIDQ3Ljg0IE9wZW4gNDYuNTYgQmlkLiBEYXkmIzM5O3MgUmFuZ2UgNDYuNDggLSA0Ny4xMCA1MiBXZWVrIFJhbmdlIDM0Ljc2IC0gNDguNTcg44O7IDYuOTJUIEVudGVycHJpc2UgVmFsdWUgNi45NVQg44O7IDIuNTMgPGI-UHJpY2U8L2I-L1NhbGVzICh0dG0pIgIQAUgAWABoAA",
+   "source": "Yahoo Finance"
+  },
+  {
+   "position": 3,
+   "title": "AAPL - Apple Stock Price",
+   "link": "https://www.barchart.com/stocks/quotes/aapl",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVcuugyCUh0-G71-ssNRgDSZYBTsxYYHvChTBOmGvkdomPfiNj4QqSYX8bjZsv4F97zAvPUP6RYMfMWr2r_u8VZrqZWHyCVStSss3quH5RBiCgWuAdGDoJzRy_bl7iCbNLJw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.barchart.com › stocks › quotes › aapl",
+   "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwAwCdASoQABAAAsBMJbACdGaAlgDeVSVAeQGHKGLWRv0UXQAA_u5vuVvzTH6i8aRBtkCdHIaYJBg0OUn5WCT6ujK0COvHkqrkWCpt0ny_n0H2N5pobBt_voPdwELhPJZzyHZrHrwVdPDeMsl54ZCxJx36pfFwV2YFH3arvymD7XZ82eKHlgq-zIW6utqR7a4ddIo4QLokvcAA.webp",
+   "snippet": "$K 4,913,422,720 39.85 Price/Book 45.28 Price/Earnings ttm. Most Recent Earnings $1.91 on 07/30/26. Range 336.08 to 344.76 Analyst Rating / Earnings",
+   "snippet_highlighted_words": [
+    "Price",
+    "Price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "$K 4,913,422,720 39.85 Price/Book 45.28 Price/Earnings ttm. Most Recent Earnings $1.91 on 07/30/26. Range 336.08 to 344.76 Analyst Rating / Earnings",
+     "source_info_link": "https://www.barchart.com/stocks/quotes/aapl",
+     "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwAwCdASoQABAAAsBMJbACdGaAlgDeVSVAeQGHKGLWRv0UXQAA_u5vuVvzTH6i8aRBtkCdHIaYJBg0OUn5WCT6ujK0COvHkqrkWCpt0ny_n0H2N5pobBt_voPdwELhPJZzyHZrHrwVdPDeMsl54ZCxJx36pfFwV2YFH3arvymD7XZ82eKHlgq-zIW6utqR7a4ddIo4QLokvcAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmN1dWd5Q1VoMC1HNzEtc3NOUmdEU1pZQlRzeFlZSHZDaFRCT21Hdmtkb21QZmlOajRRcVNZWDhialpzdjRGOTd6QXZQVVA2UllNZk1XcjJyX3U4VlpycVpXSHlDVlN0U3NzM3F1SDVSQmlDZ1d1QWRHRG9KelJ5X2JsN2lDYk5MSncSBBoCCAAa3AQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKh8KBWFwcGxlFaIyYkAaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxXmb4k_GgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUVTVZwPxoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UVxmOCQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZjdXVneUNVaDAtRzcxLXNzTlJnRFNaWUJUc3hZWUh2Q2hUQk9tR3ZrZG9tUGZpTmo0UXFTWVg4Ympac3Y0Rjk3ekF2UFVQNlJZTWZNV3Iycl91OFZacnFaV0h5Q1ZTdFNzczNxdUg1UkJpQ2dXdUFkR0RvSnpSeV9ibDdpQ2JOTEp3Oi5BQVBMIC0gPGI-QXBwbGUgU3RvY2sgUHJpY2U8L2I-IC0gQmFyY2hhcnQuY29tQqIBJEsgNCw5MTMsNDIyLDcyMCAzOS44NSA8Yj5QcmljZTwvYj4vQm9vayA0NS4yOCA8Yj5QcmljZTwvYj4vRWFybmluZ3MgdHRtLiBNb3N0IFJlY2VudCBFYXJuaW5ncyAkMS45MSBvbiAwNy8zMC8yNi4gUmFuZ2UgMzM2LjA4IHRvIDM0NC43NiBBbmFseXN0IFJhdGluZyAvIEVhcm5pbmdzIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmN1dWd5Q1VoMC1HNzEtc3NOUmdEU1pZQlRzeFlZSHZDaFRCT21Hdmtkb21QZmlOajRRcVNZWDhialpzdjRGOTd6QXZQVVA2UllNZk1XcjJyX3U4VlpycVpXSHlDVlN0U3NzM3F1SDVSQmlDZ1d1QWRHRG9KelJ5X2JsN2lDYk5MSncSBBoCCAAa3AQSAggBGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKh8KBWFwcGxlFaIyYkAaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxXmb4k_GgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUVTVZwPxoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UVxmOCQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZjdXVneUNVaDAtRzcxLXNzTlJnRFNaWUJUc3hZWUh2Q2hUQk9tR3ZrZG9tUGZpTmo0UXFTWVg4Ympac3Y0Rjk3ekF2UFVQNlJZTWZNV3Iycl91OFZacnFaV0h5Q1ZTdFNzczNxdUg1UkJpQ2dXdUFkR0RvSnpSeV9ibDdpQ2JOTEp3Oi5BQVBMIC0gPGI-QXBwbGUgU3RvY2sgUHJpY2U8L2I-IC0gQmFyY2hhcnQuY29tQqIBJEsgNCw5MTMsNDIyLDcyMCAzOS44NSA8Yj5QcmljZTwvYj4vQm9vayA0NS4yOCA8Yj5QcmljZTwvYj4vRWFybmluZ3MgdHRtLiBNb3N0IFJlY2VudCBFYXJuaW5ncyAkMS45MSBvbiAwNy8zMC8yNi4gUmFuZ2UgMzM2LjA4IHRvIDM0NC43NiBBbmFseXN0IFJhdGluZyAvIEVhcm5pbmdzIgIQAUgAWABoAA",
+   "source": "Barchart.com"
+  },
+  {
+   "position": 4,
+   "title": "Apple Inc Share Price Live Today",
+   "link": "https://www.moneycontrol.com/us-markets/stockpricequote/appleinc/AAPL",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgAEB6zswFczkux_ngt8OdMFeL2R8nrcT6hb46XlvkyMDYh3I80OrhW-CzIOzrgoZibG1SDBRFi0R7RZIanbPr92iojAv7D1aMqZOHL7NBOoEkEA-VIY9hqFfMBVoKrR4FZdDqVkxfQ74yXpvmeUUe_VxkpRzmH6uMNogsIF8F5LXog&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECG4QAQ&uoh=1",
+   "displayed_link": "https://www.moneycontrol.com › US Markets",
+   "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp",
+   "snippet": "Apple Inc · Open. 332.10 · Previous Close. 340.42 · High. 338.61 · Low. 330.94 · 52 Week High. 345.24 · 52 Week Low. 243.45 · Beta. 0.66 · TTM EPS Trend. 8.72 ( ...",
+   "snippet_highlighted_words": [
+    "Apple Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Apple Inc · Open. 332.10 · Previous Close. 340.42 · High. 338.61 · Low. 330.94 · 52 Week High. 345.24 · 52 Week Low. 243.45 · Beta. 0.66 · TTM EPS Trend. 8.72 ( ...",
+     "source_info_link": "https://www.moneycontrol.com/us-markets/stockpricequote/appleinc/AAPL",
+     "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zjemt1eF9uZ3Q4T2RNRmVMMlI4bnJjVDZoYjQ2WGx2a3lNRFloM0k4ME9yaFctQ3pJT3pyZ29aaWJHMVNEQlJGaTBSN1JaSWFuYlByOTJpb2pBdjdEMWFNcVpPSEw3TkJPb0VrRUEtVklZOWhxRmZNQlZvS3JSNEZaZERxVmt4ZlE3NHlYcHZtZVVVZV9WeGtwUnptSDZ1TU5vZ3NJRjhGNUxYb2cSBBoCCAAa0gUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCsBQgAEAAYACAAKh8KBWFwcGxlFY_or0AaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxWN4qlAGgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUV3t39PxoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UVJ4GeQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGY3prdXhfbmd0OE9kTUZlTDJSOG5yY1Q2aGI0Nlhsdmt5TURZaDNJODBPcmhXLUN6SU96cmdvWmliRzFTREJSRmkwUjdSWklhbmJQcjkyaW9qQXY3RDFhTXFaT0hMN05CT29Fa0VBLVZJWTlocUZmTUJWb0tyUjRGWmREcVZreGZRNzR5WHB2bWVVVWVfVnhrcFJ6bUg2dU1Ob2dzSUY4RjVMWG9nOjo8Yj5BcHBsZSBJbmMgU2hhcmUgUHJpY2U8L2I-IExpdmUgVG9kYXkgLSBNb25leWNvbnRyb2wuY29tQugBPGI-QXBwbGUgSW5jPC9iPiAmbWlkZG90OyBPcGVuLiAzMzIuMTAgJm1pZGRvdDsgUHJldmlvdXMgQ2xvc2UuIDM0MC40MiAmbWlkZG90OyBIaWdoLiAzMzguNjEgJm1pZGRvdDsgTG93LiAzMzAuOTQgJm1pZGRvdDsgNTIgV2VlayBIaWdoLiAzNDUuMjQgJm1pZGRvdDsgNTIgV2VlayBMb3cuIDI0My40NSAmbWlkZG90OyBCZXRhLiAwLjY2ICZtaWRkb3Q7IFRUTSBFUFMgVHJlbmQuIDguNzIgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrwBL2dvdG8_dXJsPUNBRVNnQUVCNnpzd0Zjemt1eF9uZ3Q4T2RNRmVMMlI4bnJjVDZoYjQ2WGx2a3lNRFloM0k4ME9yaFctQ3pJT3pyZ29aaWJHMVNEQlJGaTBSN1JaSWFuYlByOTJpb2pBdjdEMWFNcVpPSEw3TkJPb0VrRUEtVklZOWhxRmZNQlZvS3JSNEZaZERxVmt4ZlE3NHlYcHZtZVVVZV9WeGtwUnptSDZ1TU5vZ3NJRjhGNUxYb2cSBBoCCAAa0gUSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCsBQgAEAAYACAAKh8KBWFwcGxlFY_or0AaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxWN4qlAGgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUV3t39PxoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UVJ4GeQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTK8AS9nb3RvP3VybD1DQUVTZ0FFQjZ6c3dGY3prdXhfbmd0OE9kTUZlTDJSOG5yY1Q2aGI0Nlhsdmt5TURZaDNJODBPcmhXLUN6SU96cmdvWmliRzFTREJSRmkwUjdSWklhbmJQcjkyaW9qQXY3RDFhTXFaT0hMN05CT29Fa0VBLVZJWTlocUZmTUJWb0tyUjRGWmREcVZreGZRNzR5WHB2bWVVVWVfVnhrcFJ6bUg2dU1Ob2dzSUY4RjVMWG9nOjo8Yj5BcHBsZSBJbmMgU2hhcmUgUHJpY2U8L2I-IExpdmUgVG9kYXkgLSBNb25leWNvbnRyb2wuY29tQugBPGI-QXBwbGUgSW5jPC9iPiAmbWlkZG90OyBPcGVuLiAzMzIuMTAgJm1pZGRvdDsgUHJldmlvdXMgQ2xvc2UuIDM0MC40MiAmbWlkZG90OyBIaWdoLiAzMzguNjEgJm1pZGRvdDsgTG93LiAzMzAuOTQgJm1pZGRvdDsgNTIgV2VlayBIaWdoLiAzNDUuMjQgJm1pZGRvdDsgNTIgV2VlayBMb3cuIDI0My40NSAmbWlkZG90OyBCZXRhLiAwLjY2ICZtaWRkb3Q7IFRUTSBFUFMgVHJlbmQuIDguNzIgKCZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Moneycontrol.com",
+   "read_more_link": "https://www.moneycontrol.com/us-markets/stockpricequote/appleinc/AAPL#:~:text=Apple%20Inc&text=Open,332.10&text=Previous%20Close,340.42&text=High,338.61&text=Low,330.94&text=52%20Week%20High,345.24&text=52%20Week%20Low,243.45&text=Beta,0.66&text=TTM%20EPS%20Trend,8.72%20(%2B20.28%25%20YoY)"
+  },
+  {
+   "position": 5,
+   "title": "Apple (AAPL) Stock Price: Oct 8 Close $340.42",
+   "link": "https://www.heygotrade.com/en/us-stock/aapl/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVHjLbMeRY2AQ1ltsJOTjbQarTmtyyK9T4j75Vm_of6krEUy4RM-72DanLEydkCOOe3Cjzl6e0wod6voAETVZyzF7MhHA2Pif6XL3YyoTQGX1gDPq3gvDz2uO9TK0nlvOrRfE&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECG0QAQ&uoh=1",
+   "displayed_link": "https://www.heygotrade.com › Home › US Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlsADUATSYjQNoszv_f-HlER7D4_b-DaocZjsYJIrWMMoAA_vKF5WkHINPacLYo0PPyhSscIX7kNF2NKJVE3WwOKw47LQMjZMeUYE_b1-f__w0yLdP7ibir_9hCWyh1yzH4DKZZhUUObhmxTjxskGqTo2rFZx6t42LJWTSttSyDMG6PLVh-u7uXOv_g8hxl6vj1mFazSRkuE-vy00V0jIBxB-55z9s2EPCicnHX9xQiO8efh4LNdOfobPrI3faU9n7XOBkxgt_C5_gIvRA6-hHWNCTqGuBPzwpyH44VPvHAdNH8CWsCFmu8WeBE0p1-3LUrk-7wAAA.webp",
+   "snippet": "Apple (AAPL) on Oct 8, 2026: opened at $336.82, closed at $340.42 (+1.11%); after-hours close $340.60 (+0.05%). See analysis and how to invest with Gotrade.",
+   "snippet_highlighted_words": [
+    "opened at $336.82, closed at $340.42"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 4.8,
+      "reviews": 14700
+     },
+     "extensions": [
+      "4.8(14,700)",
+      "Free",
+      "Android",
+      "Finance"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "Apple (AAPL) on Oct 8, 2026: opened at $336.82, closed at $340.42 (+1.11%); after-hours close $340.60 (+0.05%). See analysis and how to invest with Gotrade.",
+     "source_info_link": "https://www.heygotrade.com/en/us-stock/aapl/",
+     "icon": "https://serpapi.com/images/i/UklGRhoBAABXRUJQVlA4IA4BAAAQBgCdASocABwAPrkurlcnIacnG_DgFwlsADUATSYjQNoszv_f-HlER7D4_b-DaocZjsYJIrWMMoAA_vKF5WkHINPacLYo0PPyhSscIX7kNF2NKJVE3WwOKw47LQMjZMeUYE_b1-f__w0yLdP7ibir_9hCWyh1yzH4DKZZhUUObhmxTjxskGqTo2rFZx6t42LJWTSttSyDMG6PLVh-u7uXOv_g8hxl6vj1mFazSRkuE-vy00V0jIBxB-55z9s2EPCicnHX9xQiO8efh4LNdOfobPrI3faU9n7XOBkxgt_C5_gIvRA6-hHWNCTqGuBPzwpyH44VPvHAdNH8CWsCFmu8WeBE0p1-3LUrk-7wAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVkhqTGJNZVJZMkFRMWx0c0pPVGpiUWFyVG10eXlLOVQ0ajc1Vm1fb2Y2a3JFVXk0Uk0tNzJEYW5MRXlka0NPT2UzQ2p6bDZlMHdvZDZ2b0FFVFZaeXpGN01oSEEyUGlmNlhMM1l5b1RRR1gxZ0RQcTNndkR6MnVPOVRLMG5sdk9yUmZFEgQaAggAGvUEEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAzwQIABAAGAAgACofCgVhcHBsZRXStKlAGgdhcHBsZSdzGghhcHBsZWluYyobCgNpbmMVmOoBPxoFc3RvY2saCGFwcGxlaW5jKkAKBXNoYXJlFYr6UD8aCWNvbSBzdG9jaxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlKjwKBXByaWNlFb1qrEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWSGpMYk1lUlkyQVExbHRzSk9UamJRYXJUbXR5eUs5VDRqNzVWbV9vZjZrckVVeTRSTS03MkRhbkxFeWRrQ09PZTNDanpsNmUwd29kNnZvQUVUVlp5ekY3TWhIQTJQaWY2WEwzWXlvVFFHWDFnRFBxM2d2RHoydU85VEswbmx2T3JSZkU6RTxiPkFwcGxlPC9iPiAoQUFQTCkgPGI-U3RvY2sgUHJpY2U8L2I-OiBPY3QgOCBDbG9zZSAkMzQwLjQyIHwgR290cmFkZUKjAUFwcGxlIChBQVBMKSBvbiBPY3QgOCwgMjAyNjogPGI-b3BlbmVkIGF0ICQzMzYuODIsIGNsb3NlZCBhdCAkMzQwLjQyPC9iPiAoKzEuMTElKTsgYWZ0ZXItaG91cnMgY2xvc2UgJDM0MC42MCAoKzAuMDUlKS4gU2VlIGFuYWx5c2lzIGFuZCBob3cgdG8gaW52ZXN0IHdpdGggR290cmFkZS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVkhqTGJNZVJZMkFRMWx0c0pPVGpiUWFyVG10eXlLOVQ0ajc1Vm1fb2Y2a3JFVXk0Uk0tNzJEYW5MRXlka0NPT2UzQ2p6bDZlMHdvZDZ2b0FFVFZaeXpGN01oSEEyUGlmNlhMM1l5b1RRR1gxZ0RQcTNndkR6MnVPOVRLMG5sdk9yUmZFEgQaAggAGvUEEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAzwQIABAAGAAgACofCgVhcHBsZRXStKlAGgdhcHBsZSdzGghhcHBsZWluYyobCgNpbmMVmOoBPxoFc3RvY2saCGFwcGxlaW5jKkAKBXNoYXJlFYr6UD8aCWNvbSBzdG9jaxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlKjwKBXByaWNlFb1qrEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UymQEvZ290bz91cmw9Q0FFU1p3SHJPekFWSGpMYk1lUlkyQVExbHRzSk9UamJRYXJUbXR5eUs5VDRqNzVWbV9vZjZrckVVeTRSTS03MkRhbkxFeWRrQ09PZTNDanpsNmUwd29kNnZvQUVUVlp5ekY3TWhIQTJQaWY2WEwzWXlvVFFHWDFnRFBxM2d2RHoydU85VEswbmx2T3JSZkU6RTxiPkFwcGxlPC9iPiAoQUFQTCkgPGI-U3RvY2sgUHJpY2U8L2I-OiBPY3QgOCBDbG9zZSAkMzQwLjQyIHwgR290cmFkZUKjAUFwcGxlIChBQVBMKSBvbiBPY3QgOCwgMjAyNjogPGI-b3BlbmVkIGF0ICQzMzYuODIsIGNsb3NlZCBhdCAkMzQwLjQyPC9iPiAoKzEuMTElKTsgYWZ0ZXItaG91cnMgY2xvc2UgJDM0MC42MCAoKzAuMDUlKS4gU2VlIGFuYWx5c2lzIGFuZCBob3cgdG8gaW52ZXN0IHdpdGggR290cmFkZS4iAhABSABYAGgA",
+   "source": "Gotrade"
+  },
+  {
+   "position": 6,
+   "title": "Apple Inc. AAPL (US: Nasdaq)",
+   "link": "https://www.wsj.com/market-data/quotes/AAPL/historical-prices",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESeAHrOzAVKc13sfc9Iu_gArSQW3PEaIcYEpTYE49K1ZegtEVn_KV90bhwTDSwInjbU8WPRFML2V196d_vbnqBOAsXDy84GNMUsL50gg9I6NiJDLKxng0S5dllbMF6e-g1T1E1PDQTfoF-JScwOuu7Rsa_vvU3zdoO7Q&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEkQAQ&uoh=1",
+   "displayed_link": "https://www.wsj.com › Quotes",
+   "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASocABwAPtE8tFooIigoFAEAGglpAASRn6AOcr5N9EUM6rJM44rdVufe_buY0AAA_vTJY8ol1v9N4wlC4ro9x8JI_zQ-bYb7qGrLJ3zi3x0r__eL2URUCfQvyhDMfK_REl50nlrCjhpzGQ9dL7QtU3q_16TQXFbeqyQc4_AVFjdevjYPCpNni_woq3e-1mVuvGRNfd9RAzN9LVI4m7JQp3DcobgqFf__u7Mcp53COinWWf_zOcJv-mNxEAAAAA.webp",
+   "snippet": "4:00 PM EDT 10/07/26 $336.67 USD 3.04 0.91% Volume 34,147,860 PRE MARKET 6:30 AM EDT 10/08/26 $336.92 0.25 0.07% PRE MARKET",
+   "snippet_highlighted_words": [
+    "336.67 USD"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "4:00 PM EDT 10/07/26 $336.67 USD 3.04 0.91% Volume 34,147,860 PRE MARKET 6:30 AM EDT 10/08/26 $336.92 0.25 0.07% PRE MARKET",
+     "source_info_link": "https://www.wsj.com/market-data/quotes/AAPL/historical-prices",
+     "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASocABwAPtE8tFooIigoFAEAGglpAASRn6AOcr5N9EUM6rJM44rdVufe_buY0AAA_vTJY8ol1v9N4wlC4ro9x8JI_zQ-bYb7qGrLJ3zi3x0r__eL2URUCfQvyhDMfK_REl50nlrCjhpzGQ9dL7QtU3q_16TQXFbeqyQc4_AVFjdevjYPCpNni_woq3e-1mVuvGRNfd9RAzN9LVI4m7JQp3DcobgqFf__u7Mcp53COinWWf_zOcJv-mNxEAAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVktjMTNzZmM5SXVfZ0FyU1FXM1BFYUljWUVwVFlFNDlLMVplZ3RFVm5fS1Y5MGJod1REU3dJbmpiVThXUFJGTUwyVjE5NmRfdmJucUJPQXNYRHk4NEdOTVVzTDUwZ2c5STZOaUpETEt4bmcwUzVkbGxiTUY2ZS1nMVQxRTFQRFFUZm9GLUpTY3dPdXU3UnNhX3Z2VTN6ZG9PN1ESBBoCCAAa3AQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKh8KBWFwcGxlFQHHMEAaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxWcLTNAGgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUVAAAAABoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UV7fYKQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZLYzEzc2ZjOUl1X2dBclNRVzNQRWFJY1lFcFRZRTQ5SzFaZWd0RVZuX0tWOTBiaHdURFN3SW5qYlU4V1BSRk1MMlYxOTZkX3ZibnFCT0FzWER5ODRHTk1Vc0w1MGdnOUk2TmlKRExLeG5nMFM1ZGxsYk1GNmUtZzFUMUUxUERRVGZvRi1KU2N3T3V1N1JzYV92dlUzemRvTzdROjY8Yj5BcHBsZSBJbmM8L2I-LiA8Yj5QcmljZTwvYj4gJmFtcDsgTmV3cyAtIFdTSiB8IEFBUExCggE0OjAwIFBNIEVEVCAxMC8wNy8yNiAkPGI-MzM2LjY3IFVTRDwvYj4gMy4wNCAwLjkxJSBWb2x1bWUgMzQsMTQ3LDg2MCBQUkUgTUFSS0VUIDY6MzAgQU0gRURUIDEwLzA4LzI2ICQzMzYuOTIgMC4yNSAwLjA3JSBQUkUgTUFSS0VUIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrABL2dvdG8_dXJsPUNBRVNlQUhyT3pBVktjMTNzZmM5SXVfZ0FyU1FXM1BFYUljWUVwVFlFNDlLMVplZ3RFVm5fS1Y5MGJod1REU3dJbmpiVThXUFJGTUwyVjE5NmRfdmJucUJPQXNYRHk4NEdOTVVzTDUwZ2c5STZOaUpETEt4bmcwUzVkbGxiTUY2ZS1nMVQxRTFQRFFUZm9GLUpTY3dPdXU3UnNhX3Z2VTN6ZG9PN1ESBBoCCAAa3AQSAggAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC2BAgAEAAYACAAKh8KBWFwcGxlFQHHMEAaB2FwcGxlJ3MaCGFwcGxlaW5jKhsKA2luYxWcLTNAGgVzdG9jaxoIYXBwbGVpbmMqQAoFc2hhcmUVAAAAABoJY29tIHN0b2NrGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaCnNoYXJlcHJpY2UqPAoFcHJpY2UV7fYKQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZTKwAS9nb3RvP3VybD1DQUVTZUFIck96QVZLYzEzc2ZjOUl1X2dBclNRVzNQRWFJY1lFcFRZRTQ5SzFaZWd0RVZuX0tWOTBiaHdURFN3SW5qYlU4V1BSRk1MMlYxOTZkX3ZibnFCT0FzWER5ODRHTk1Vc0w1MGdnOUk2TmlKRExLeG5nMFM1ZGxsYk1GNmUtZzFUMUUxUERRVGZvRi1KU2N3T3V1N1JzYV92dlUzemRvTzdROjY8Yj5BcHBsZSBJbmM8L2I-LiA8Yj5QcmljZTwvYj4gJmFtcDsgTmV3cyAtIFdTSiB8IEFBUExCggE0OjAwIFBNIEVEVCAxMC8wNy8yNiAkPGI-MzM2LjY3IFVTRDwvYj4gMy4wNCAwLjkxJSBWb2x1bWUgMzQsMTQ3LDg2MCBQUkUgTUFSS0VUIDY6MzAgQU0gRURUIDEwLzA4LzI2ICQzMzYuOTIgMC4yNSAwLjA3JSBQUkUgTUFSS0VUIgIQAUgAWABoAA",
+   "source": "WSJ"
+  },
+  {
+   "position": 7,
+   "title": "Apple Inc. (AAPL) Stock Price, Quote, News & Analysis",
+   "link": "https://seekingalpha.com/symbol/AAPL",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXwHrOzAVXf5krGPj6EUGwmFoiqH4yXb_CnaqZH0rpPFuG4vJuNlsX205S2Kat-gsprr0rgmdXluFpj7I7uQN13RFmHLJ6S0VTgbQHVGExVTF9ZQ_JjePMOlq0fQzjIsU&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://seekingalpha.com › symbol › AAPL",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHAi2H2o56rTdN5X8mYwHbNg5yzoSzvA7EJrx5vSgq237-UGMUlEAAD-7lupdgZGwpmDQ3USwTICMWh_7oFoVLxpwJmUdI2__ag3LkGCv_5SqfVh358FYG7eHx5a8CZVD_wa2HQ6v8ePKLof2l-F9Xs5cbSjXuLfSoUOiajL8E03OHlk16l0wR8YbALWUSyJuzppPVCJxg3uL_lWLk1Igzmcw1uOUtkTZYRsFCYUCzQpXEnWxMOpalOjKodtmbyUrSIVwk_UZcqANSdns0pI9YzEGWUO21noKpP-9E_IHAza2vbUtydGvYlrobI9FdOZIGvx2u1eHCjs_ZDfaoE2g09a1XP5Dm1hZ5GPMYfFi5H7gizudpN_3U9r_yWQmLy4cN8zSU7xYpfuiSrDr3hQAAAA.webp",
+   "snippet": "Apple Inc.'s stock symbol is AAPL and currently trades under NASDAQ. It's current price per share is approximately $336.64. What are your Apple Inc.",
+   "snippet_highlighted_words": [
+    "Apple Inc",
+    "stock",
+    "price",
+    "share",
+    "Apple Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Apple Inc.'s stock symbol is AAPL and currently trades under NASDAQ. It's current price per share is approximately $336.64. What are your Apple Inc.",
+     "source_info_link": "https://seekingalpha.com/symbol/AAPL",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHAi2H2o56rTdN5X8mYwHbNg5yzoSzvA7EJrx5vSgq237-UGMUlEAAD-7lupdgZGwpmDQ3USwTICMWh_7oFoVLxpwJmUdI2__ag3LkGCv_5SqfVh358FYG7eHx5a8CZVD_wa2HQ6v8ePKLof2l-F9Xs5cbSjXuLfSoUOiajL8E03OHlk16l0wR8YbALWUSyJuzppPVCJxg3uL_lWLk1Igzmcw1uOUtkTZYRsFCYUCzQpXEnWxMOpalOjKodtmbyUrSIVwk_UZcqANSdns0pI9YzEGWUO21noKpP-9E_IHAza2vbUtydGvYlrobI9FdOZIGvx2u1eHCjs_ZDfaoE2g09a1XP5Dm1hZ5GPMYfFi5H7gizudpN_3U9r_yWQmLy4cN8zSU7xYpfuiSrDr3hQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlhmNWtyR1BqNkVVR3dtRm9pcUg0eVhiX0NuYXFaSDBycFBGdUc0dkp1TmxzWDIwNVMyS2F0LWdzcHJyMHJnbWRYbHVGcGo3STd1UU4xM1JGbUhMSjZTMFZUZ2JRSFZHRXhWVEY5WlFfSmplUE1PbHEwZlF6aklzVRIEGgIIABqIBRICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqHwoFYXBwbGUV5vOeQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFfj4m0AaBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRW6bJA_Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRW-fpFAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlhmNWtyR1BqNkVVR3dtRm9pcUg0eVhiX0NuYXFaSDBycFBGdUc0dkp1TmxzWDIwNVMyS2F0LWdzcHJyMHJnbWRYbHVGcGo3STd1UU4xM1JGbUhMSjZTMFZUZ2JRSFZHRXhWVEY5WlFfSmplUE1PbHEwZlF6aklzVTpHPGI-QXBwbGUgSW5jPC9iPi4gKEFBUEwpIDxiPlN0b2NrIFByaWNlPC9iPiwgUXVvdGUsIE5ld3MgJmFtcDsgQW5hbHlzaXNCvwE8Yj5BcHBsZSBJbmM8L2I-LiYjMzk7cyA8Yj5zdG9jazwvYj4gc3ltYm9sIGlzIEFBUEwgYW5kIGN1cnJlbnRseSB0cmFkZXMgdW5kZXIgTkFTREFRLiBJdCYjMzk7cyBjdXJyZW50IDxiPnByaWNlPC9iPiBwZXIgPGI-c2hhcmU8L2I-IGlzIGFwcHJveGltYXRlbHkgJDMzNi42NC4gV2hhdCBhcmUgeW91ciA8Yj5BcHBsZSBJbmM8L2I-LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlhmNWtyR1BqNkVVR3dtRm9pcUg0eVhiX0NuYXFaSDBycFBGdUc0dkp1TmxzWDIwNVMyS2F0LWdzcHJyMHJnbWRYbHVGcGo3STd1UU4xM1JGbUhMSjZTMFZUZ2JRSFZHRXhWVEY5WlFfSmplUE1PbHEwZlF6aklzVRIEGgIIABqIBRICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQOIECAAQABgAIAAqHwoFYXBwbGUV5vOeQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFfj4m0AaBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRW6bJA_Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRW-fpFAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMo4BL2dvdG8_dXJsPUNBRVNYd0hyT3pBVlhmNWtyR1BqNkVVR3dtRm9pcUg0eVhiX0NuYXFaSDBycFBGdUc0dkp1TmxzWDIwNVMyS2F0LWdzcHJyMHJnbWRYbHVGcGo3STd1UU4xM1JGbUhMSjZTMFZUZ2JRSFZHRXhWVEY5WlFfSmplUE1PbHEwZlF6aklzVTpHPGI-QXBwbGUgSW5jPC9iPi4gKEFBUEwpIDxiPlN0b2NrIFByaWNlPC9iPiwgUXVvdGUsIE5ld3MgJmFtcDsgQW5hbHlzaXNCvwE8Yj5BcHBsZSBJbmM8L2I-LiYjMzk7cyA8Yj5zdG9jazwvYj4gc3ltYm9sIGlzIEFBUEwgYW5kIGN1cnJlbnRseSB0cmFkZXMgdW5kZXIgTkFTREFRLiBJdCYjMzk7cyBjdXJyZW50IDxiPnByaWNlPC9iPiBwZXIgPGI-c2hhcmU8L2I-IGlzIGFwcHJveGltYXRlbHkgJDMzNi42NC4gV2hhdCBhcmUgeW91ciA8Yj5BcHBsZSBJbmM8L2I-LiICEAFIAFgAaAA",
+   "source": "Seeking Alpha",
+   "read_more_link": "https://seekingalpha.com/symbol/AAPL#:~:text=Apple%20Inc.'s%20stock%20symbol%20is,What%20are%20your%20Apple%20Inc."
+  },
+  {
+   "position": 8,
+   "title": "Apple (AAPL) Stock price today - quote & chart",
+   "link": "https://www.kraken.com/in/stocks/aapl",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYAHrOzAVyQDWCd51huShOuUqZnoplC1bkuMAqU2eE63V18wWxI4mDJ7kyIG-RYkf4qOEyvy515dkctVNNJ070ozwdeU5ijp-Jwc7vhypyDwdAOCGcOEe4-J7jYn-DDnD3Q&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQFnoECEoQAQ&uoh=1",
+   "displayed_link": "https://www.kraken.com › In › Stocks",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png",
+   "date": "25 Sept 2026",
+   "snippet": "Apple Inc. Common Stock (AAPL) stock price today is $341.44, reflecting a +1.66% move since the market opened. ranged between $334.53 and $341. ...",
+   "snippet_highlighted_words": [
+    "Apple Inc. Common Stock (AAPL) stock price today is $341.44"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Apple Inc. Common Stock (AAPL) stock price today is $341.44, reflecting a +1.66% move since the market opened. ranged between $334.53 and $341. ...",
+     "source_info_link": "https://www.kraken.com/in/stocks/aapl",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAANlBMVEVHcExzMvhyMvZxMvZxMvVtKfVnGvWnh_jQwPzk2v2bdvj59_____-7pPqvlPljEPTv6f6CTvZg-WTRAAAABHRSTlMAQrfswrWpGAAAAJ5JREFUeAGV04EKxCAIgOGqNDNb3fu_7HUBw8YS7gdG24cAzNzMh5gexeDdKqTXgmFLfTrm1-BxNJ4xOvUCOAP1wSnKVAplxTciV1lVxidik7sLdwQWFcOGWDXWrhGybDEoRNqRUOMQ6iSSPiKtFyka-5ALs4zeqzC2A-K_iBYC03wSA2SCdVCYAH_zoA4K3zN_trkm5oJZq2kvtXkdviZBEQpXkzZIAAAAAElFTkSuQmCC.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnlRRFdDZDUxaHVTaE91VXFabm9wbEMxYmt1TUFxVTJlRTYzVjE4d1d4STRtREo3a3lJRy1SWWtmNHFPRXl2eTUxNWRrY3RWTk5KMDcwb3p3ZGVVNWlqcC1Kd2M3dmh5cHlEd2RBT0NHY09FZTQtSjdqWW4tRERuRDNREgQaAggAGuoEEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMYECAAQABgAIAAqHwoFYXBwbGUVUmuNQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFfiabj8aBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRUqCfI-Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRVOT3NAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnlRRFdDZDUxaHVTaE91VXFabm9wbEMxYmt1TUFxVTJlRTYzVjE4d1d4STRtREo3a3lJRy1SWWtmNHFPRXl2eTUxNWRrY3RWTk5KMDcwb3p3ZGVVNWlqcC1Kd2M3dmh5cHlEd2RBT0NHY09FZTQtSjdqWW4tRERuRDNROkk8Yj5BcHBsZTwvYj4gKEFBUEwpIDxiPlN0b2NrIHByaWNlPC9iPiB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0IC0gS3Jha2VuQp8BPGI-QXBwbGUgSW5jLiBDb21tb24gU3RvY2sgKEFBUEwpIHN0b2NrIHByaWNlIHRvZGF5IGlzICQzNDEuNDQ8L2I-LCByZWZsZWN0aW5nIGEgKzEuNjYlIG1vdmUgc2luY2UgdGhlIG1hcmtldCBvcGVuZWQuIHJhbmdlZCBiZXR3ZWVuICQzMzQuNTMgYW5kICQzNDEuJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnlRRFdDZDUxaHVTaE91VXFabm9wbEMxYmt1TUFxVTJlRTYzVjE4d1d4STRtREo3a3lJRy1SWWtmNHFPRXl2eTUxNWRrY3RWTk5KMDcwb3p3ZGVVNWlqcC1Kd2M3dmh5cHlEd2RBT0NHY09FZTQtSjdqWW4tRERuRDNREgQaAggAGuoEEgAaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQMYECAAQABgAIAAqHwoFYXBwbGUVUmuNQBoHYXBwbGUncxoIYXBwbGVpbmMqGwoDaW5jFfiabj8aBXN0b2NrGghhcHBsZWluYypACgVzaGFyZRUqCfI-Ggljb20gc3RvY2saBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoKc2hhcmVwcmljZSo8CgVwcmljZRVOT3NAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgpzaGFyZXByaWNlMpABL2dvdG8_dXJsPUNBRVNZQUhyT3pBVnlRRFdDZDUxaHVTaE91VXFabm9wbEMxYmt1TUFxVTJlRTYzVjE4d1d4STRtREo3a3lJRy1SWWtmNHFPRXl2eTUxNWRrY3RWTk5KMDcwb3p3ZGVVNWlqcC1Kd2M3dmh5cHlEd2RBT0NHY09FZTQtSjdqWW4tRERuRDNROkk8Yj5BcHBsZTwvYj4gKEFBUEwpIDxiPlN0b2NrIHByaWNlPC9iPiB0b2RheSAtIHF1b3RlICZhbXA7IGNoYXJ0IC0gS3Jha2VuQp8BPGI-QXBwbGUgSW5jLiBDb21tb24gU3RvY2sgKEFBUEwpIHN0b2NrIHByaWNlIHRvZGF5IGlzICQzNDEuNDQ8L2I-LCByZWZsZWN0aW5nIGEgKzEuNjYlIG1vdmUgc2luY2UgdGhlIG1hcmtldCBvcGVuZWQuIHJhbmdlZCBiZXR3ZWVuICQzMzQuNTMgYW5kICQzNDEuJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Kraken"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "Kinetic Wealth Investment Advisors LLC Buys 3,341 Shares of Apple Inc. $AAPL",
+   "link": "https://www.marketbeat.com/instant-alerts/filing-kinetic-wealth-investment-advisors-llc-buys-3341-shares-of-apple-inc-aapl-2026-10-10/",
+   "source": "MarketBeat",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEUANFpnhp3___9cfpbS3OI0XnwcS210kaUOP2NOc43r8PNBaYWrvMn6-_wURGd4lKiCnK7i6Ow7Y4Ccsb-Qp7e5x9KluMXJ1NyMpLUlUnNFVzEmAAAAVklEQVQYlaXPuRKAIAwE0HAEQTkSBI___1ErMWPnuN2-YicB-BGLorgJfAoC1AyLVgJiysWSAI410jpqbZ0MYx8QFJptzyxXMTWgwz3gtXmdxef3V-5cM3QCYbuKxsYAAAAASUVORK5CYII.png",
+   "date": "53 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f751dbb9ff61cd003deb/images/QE9Rop1MTjoJdhy4EJSB2x9Ic4vrwZwJ2NobIBtrrec.jpeg"
+  },
+  {
+   "title": "Kirkwood Financial Services Acquires 7,988 Shares of Apple Inc. $AAPL",
+   "link": "https://www.marketbeat.com/instant-alerts/filing-kirkwood-financial-services-acquires-7988-shares-of-apple-inc-aapl-2026-10-10/",
+   "source": "MarketBeat",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEUANFpnhp3___9cfpbS3OI0XnwcS210kaUOP2NOc43r8PNBaYWrvMn6-_wURGd4lKiCnK7i6Ow7Y4Ccsb-Qp7e5x9KluMXJ1NyMpLUlUnNFVzEmAAAAVklEQVQYlaXPuRKAIAwE0HAEQTkSBI___1ErMWPnuN2-YicB-BGLorgJfAoC1AyLVgJiysWSAI410jpqbZ0MYx8QFJptzyxXMTWgwz3gtXmdxef3V-5cM3QCYbuKxsYAAAAASUVORK5CYII.png",
+   "date": "53 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f751dbb9ff61cd003deb/images/kVc2L4M0U8QWTivEE_lb7QaXuZm-JWa1ayBF7ExG7dI.jpeg"
+  },
+  {
+   "title": "Apple Inc. $AAPL Stock: HighTower Advisors LLC Lowers Stake",
+   "link": "https://www.marketbeat.com/instant-alerts/filing-apple-inc-aapl-stock-hightower-advisors-llc-lowers-stake-2026-10-10/",
+   "source": "MarketBeat",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAATlBMVEUANFpnhp3___9cfpbS3OI0XnwcS210kaUOP2NOc43r8PNBaYWrvMn6-_wURGd4lKiCnK7i6Ow7Y4Ccsb-Qp7e5x9KluMXJ1NyMpLUlUnNFVzEmAAAAVklEQVQYlaXPuRKAIAwE0HAEQTkSBI___1ErMWPnuN2-YicB-BGLorgJfAoC1AyLVgJiysWSAI410jpqbZ0MYx8QFJptzyxXMTWgwz3gtXmdxef3V-5cM3QCYbuKxsYAAAAASUVORK5CYII.png",
+   "date": "53 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f751dbb9ff61cd003deb/images/mG4O_fjiNTch92yiQiNS1xJXlRdPuc7kiJ9DzWxUQ0g.jpeg"
+  },
+  {
+   "title": "Apple Shares Dip After Report Says It’s Cutting iPhone 18 Pro Component Orders",
+   "link": "https://www.forbes.com/sites/siladityaray/2026/10/09/apple-shares-dip-after-report-says-its-cutting-iphone-18-pro-component-orders/",
+   "source": "Forbes",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAUVBMVEUYFxYAAAD___8XFhUSERB-fn7JyciQkJBKSUmNjY2EhISKiYkFAwCFhYTu7e14eHjk5OSbm5pPTk7c3NzU1NQ-PTzOzs4vLi719fUdHBuurq5Tz1SxAAAAcUlEQVQYlYWP2w6DMAxDY7d0tNAyNugu__-hRAJCHybNbz5yEkfkhzwOnb6PXZeGIeVxB84nMuRYCHcQkDedMCAojAomMXBnwvywgODJJXD1dlcTGbVvQNGl68td4M0Z_vLjR3vArDYNtS7flrSP_NcGpFAC8GL61hcAAAAASUVORK5CYII.png",
+   "date": "23 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f751dbb9ff61cd003deb/images/gqw0R8OH7Ti9WlO72dhevjKpgX6t9Yuv5_c7e_TuoFE.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.com/finance/portfolio/watchlist?sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQnIcKegQILRAJ",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Apple inc share price history",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+inc+share+price+history&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+inc+share+price+history"
+  },
+  {
+   "block_position": 1,
+   "query": "How to buy Apple shares in India",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=How+to+buy+Apple+shares+in+India&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=How+to+buy+Apple+shares+in+India"
+  },
+  {
+   "block_position": 1,
+   "query": "1 Apple share price in india",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=1+Apple+share+price+in+india&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=1+Apple+share+price+in+india"
+  },
+  {
+   "block_position": 1,
+   "query": "Apple share price nse",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+share+price+nse&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhxEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+share+price+nse"
+  },
+  {
+   "block_position": 1,
+   "query": "Apple share price in 2025",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+share+price+in+2025&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+share+price+in+2025"
+  },
+  {
+   "block_position": 1,
+   "query": "Apple share price in india chart",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+share+price+in+india+chart&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+share+price+in+india+chart"
+  },
+  {
+   "block_position": 1,
+   "query": "Apple share price when first listed",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+share+price+when+first+listed&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+share+price+when+first+listed"
+  },
+  {
+   "block_position": 1,
+   "query": "Apple share price nasdaq today",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&q=Apple+share+price+nasdaq+today&sa=X&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+share+price+nasdaq+today"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=10&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8NMDegQIZxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=10&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAE",
+   "3": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=20&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAG",
+   "4": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=30&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAI",
+   "5": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=40&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAK",
+   "6": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=50&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAM",
+   "7": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=60&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAO",
+   "8": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=70&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAQ",
+   "9": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=80&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAS",
+   "10": "https://www.google.com/search?q=Apple+Inc.+share+price&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnszkTsahjeo5PosYz6xXsfKpfYE_w:1791620945756&ei=UffJaqrdLeLLruEPnYXigAw&start=90&sa=N&sstk=AS6-VmJUf6fGS6jvV9q-gF4aIqnJ8bK4ZWTpxx40QEV96xcqi_wBYC_--HhekQdNzY1zbawHrQRQYMUjruNdNDjdfEKDotUxQKJHqw&ved=2ahUKEwjqyayQhK-XAxXipSsGHZ2CGMAQ8tMDegQIZxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Apple+Inc.+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:05"
+}

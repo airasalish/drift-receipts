@@ -1,0 +1,81 @@
+{
+ "calls": [
+  {
+   "company": "Tesla",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Tesla के टोकंस लिस्टेड हैं।",
+   "start_s": 616,
+   "line": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।",
+   "evidence": [
+    {
+     "text": "Tesla के टोकंस लिस्टेड हैं",
+     "where": "transcript",
+     "start_s": 619
+    }
+   ],
+   "reason": "The speaker mentions Tesla tokens as an example, without any buy/sell advice."
+  },
+  {
+   "company": "SpaceX",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "स्पेसx के टोकंस लिस्टेड हैं।",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [],
+   "reason": "SpaceX is cited only as a tokenized stock example, not a recommendation."
+  },
+  {
+   "company": "Google",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Google के, Apple के",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [
+    {
+     "text": "Google के",
+     "where": "transcript",
+     "start_s": 621
+    }
+   ],
+   "reason": "Google is mentioned as an example of a tokenized US stock, with no explicit recommendation."
+  },
+  {
+   "company": "Apple",
+   "symbol_guess": null,
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "Google के, Apple के",
+   "start_s": 619,
+   "line": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "evidence": [
+    {
+     "text": "Apple के",
+     "where": "transcript",
+     "start_s": 621
+    }
+   ],
+   "reason": "Apple is referenced only as an example of a tokenized stock, without any buy/sell guidance."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 5,
+ "llm_failed_chunks": 0
+}

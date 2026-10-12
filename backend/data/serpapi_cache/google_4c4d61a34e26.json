@@ -1,0 +1,637 @@
+{
+ "search_metadata": {
+  "id": "6ac9f765d20e160dab5a0ff3",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_o-AQUsV3uHZvGmQz5aM6ixiJW7LrVfBALTnfMLDZ5k/6ac9f765d20e160dab5a0ff3.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_o-AQUsV3uHZvGmQz5aM6ixiJW7LrVfBALTnfMLDZ5k/6ac9f765d20e160dab5a0ff3.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/_o-AQUsV3uHZvGmQz5aM6ixiJW7LrVfBALTnfMLDZ5k/6ac9f765d20e160dab5a0ff3.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:25 UTC",
+  "processed_at": "2026-10-10 08:29:25 UTC",
+  "google_url": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&oq=ServiceNow+Inc.+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/_o-AQUsV3uHZvGmQz5aM6ixiJW7LrVfBALTnfMLDZ5k/6ac9f765d20e160dab5a0ff3.html",
+  "total_time_taken": 0.84
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "ServiceNow Inc. share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "ServiceNow Inc. share price",
+  "total_results": 124,
+  "time_taken_displayed": 0.37,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "knowledge_graph": {
+  "title": "ServiceNow Inc",
+  "type": "NYSE: NOW",
+  "entity_type": "finance",
+  "kgmid": "/g/11b_lqls3",
+  "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/g/11b_lqls3&hl=en-IN&q=ServiceNow+Inc",
+  "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en-IN&kgmid=%2Fg%2F11b_lqls3&q=ServiceNow+Inc",
+  "header_images": [
+   {
+    "image": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAADgAAAAICAMAAACbIsyBAAAAM1BMVEX____O8sm77bRJ1C7L8cW57LGJ4XtG0ynX9NKV44pV1jxb10Xy_PH9__2Q4oO37K_t-usprQULAAAAPElEQVQYlWNgGMSAkZWRLH1s7MzsbGToY2LmYOBgZiJdIycXkODmJF0jKzMLDwszP-kaefn4Bfj5eOF8AFzMAPiRQ1UJAAAAAElFTkSuQmCC.png",
+    "source": "https://www.servicenow.com/"
+   }
+  ],
+  "description": "ServiceNow, Inc. is an American software company that supplies cloud computing platforms for the creation and management of automated business workflows. The company was founded in Santa Clara, California, United States, in 2003 by Fred Luddy.",
+  "source": {
+   "name": "Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/ServiceNow"
+  },
+  "headquarters": "Santa Clara, California, United States",
+  "headquarters_links": [
+   {
+    "text": "Santa Clara, California, United States",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Santa+Clara&si=APenkKnxxBAKu8uEyVJp5QG7kNERIzt0EhsYdVrbw5Is3icMplZNCrb5KiUS1V6RQ5DqXHTrS8SJPKMfW8N_Ypto-yIV_fgr1Tm1_qop6iysgjwxzh1ue7DAhy2lrfbxv-w8f9EdeDPu_WRUKA6xjB47MshTJp20nthNe-U53pdcLPyssFr5Jg0hjvUOEy1qSuOY19L1aa0K&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAgsEAI"
+   }
+  ],
+  "founder": "Fred Luddy",
+  "founder_links": [
+   {
+    "text": "Fred Luddy",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Fred+Luddy&si=APenkKllX05q7xl66dAosm6nb1iufu-bJlxCkZH1IWMVBt1d4OD9sITFa_BAqa-mtrnCQgL5-TJiP9bB3VRyy-OSyFOyKs07dM25wvh836nvKsxYTpiEpYAHMnS756I1Rn9UKZshOjEGZYXZYmn9wZJzJExejzj6C_X4OIrgJZH_OSDHqjVwHKqNofccychnAJ090apEFy4WyMGhBx0Yo_HqkbpigePHhw%3D%3D&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAgtEAI"
+   }
+  ],
+  "ceo": "Bill McDermott (15 Nov 2019–)",
+  "ceo_links": [
+   {
+    "text": "Bill McDermott",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Bill+McDermott&si=APenkKkicnuBo3HChbgOSg9PTrSKjmOZoDYMZFfiLeKjxtW67-NJmvPX0orvnsAbOKTw_i6Io7Ed7J1wFlrvmbVFlt1UeTe-u7eVkoYqNQRVdPdU5bvtiJEreG24rKbXc0PKPwUjAtLexGXLgQ2cb5QYeQ-psD9aUhd5Zn4t8knNYKNmijAK04tx9VqYtdSHiyjnoqBq16Urv3H4-zlCW1yerryHesggXw%3D%3D&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAguEAI"
+   }
+  ],
+  "founded": "2004",
+  "number_of_employees": "29,187 (2025)",
+  "subsidiaries": "Moveworks, Element AI, data.world, Inc.",
+  "subsidiaries_links": [
+   {
+    "text": "Moveworks",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Moveworks&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0ans4qblOVZYwKbvc4MLUSN8cbaWupr1VIGUISMrgGnf14Co9teCOhKTnsmgmuL2KHsx0yP_Ag_WYtsuO9fxFWwuy1UJ4o2kHz3s7Ssgx3CKM6VsnQOGvcF_bzfqxpJBsB3ePHVt6XmQIrBcDsqBzud7szwb4L8LDpdUZ5KoHIbdS9dd5w%3D%3D&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAgzEAI"
+   },
+   {
+    "text": "Element AI",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Element+AI&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0Sc4lgcyj3lrznRA1Ixb_Jl_c-BA-0wrhx5vImYCW8doBoePku0xV5mDuo2r4LpYJ4AbeHEMp_5meBf29zhNSQgMqO1tBA5SiWpTXGMGSKr3GERQ0bylPXgxeCpdZqtOV1fuIw819C6RMyzrOZqUSJeacXpg_UUVEirJ90xeOIjAOt4Uog%3D%3D&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAgzEAM"
+   },
+   {
+    "text": "data.world, Inc.",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=data.world,+Inc.&si=APenkKmVGdgpMPDQZoEWS8RIAhsqXAKlNLP0B8DNkkiU9KPI0ba87d90fFR27fm5Dy7FpuxWfPkZNvhqjZ-ZNCFimh0DutWZwy3ReBIZnecNByJHX0z6zCqYLMAsrNY0OKpFc5VelgkJJtovpHLDZE742NhEQfRFF1cySDvZMUCRFz-Kb841QOSIHX_df-Xw3Ck2UACNlD46MiTpSB311EavDWdeX6eYEA%3D%3D&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQmxN6BAgzEAQ"
+   },
+   {
+    "text": "See more",
+    "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=nyse:now+subsidiaries&stick=H4sIAAAAAAAAAOPgE-LRT9c3NEyKzynMKTbW0s5OttJPy8xLzEtO1S8uyU_OtkrOzy1IzKvUzcxLy1coLk0qzkzJTCzKTC1exCqaV1mcapWXX44iDgAKiPtlVQAAAA&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ44YBegQIMxAF"
+   }
+  ],
+  "web_results": [
+   {
+    "title": "Quarterly financials"
+   },
+   {
+    "title": "Earnings"
+   }
+  ]
+ },
+ "related_questions": [
+  {
+   "question": "Why is ServiceNow stock going down?",
+   "type": "ai_overview",
+   "page_token": "pzSxBHicHdDbboIwAADQ7Gd8VDouiyZmWRUvKF0otAVeFmhFtC3gtejb_mVfta9ZsvMJ5_tHHRr5-3Kvr9fuMhmNjDHDfdvu1W7IWz0qLo-Gj3ihVFlwOfHePPBe8al_W8PZaQ0j0nV0jq3Ycvuk-TCxCg1_WKBc9itKTI8kkKEUfrFY2OKYryKCskwGl1z3AWKLorDFDB1DsE2hE64gLe1Ah1S5xXLtUKBulGIlNL6VzL3stDrFifDihBtGeo_p0CFP6n0m-6dg3CCJoZDjBivllkBlUQMpIWOLSDfHAFLqO49wnsuwwQyxyC5TseEEJDgJ7ilAWEjXEfMaZk1t-7UohM43WQpPqRVUWzo-E19FZZOv2RHDBLeHiOAnPypNnuic2QjvWF3FfgCpdd3y196UJL9HtJvl_uIkzKDi96k9-P-cflX6OunO7f4PdwyD9A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pzSxBHicHdDbboIwAADQ7Gd8VDouiyZmWRUvKF0otAVeFmhFtC3gtejb_mVfta9ZsvMJ5_tHHRr5-3Kvr9fuMhmNjDHDfdvu1W7IWz0qLo-Gj3ihVFlwOfHePPBe8al_W8PZaQ0j0nV0jq3Ycvuk-TCxCg1_WKBc9itKTI8kkKEUfrFY2OKYryKCskwGl1z3AWKLorDFDB1DsE2hE64gLe1Ah1S5xXLtUKBulGIlNL6VzL3stDrFifDihBtGeo_p0CFP6n0m-6dg3CCJoZDjBivllkBlUQMpIWOLSDfHAFLqO49wnsuwwQyxyC5TseEEJDgJ7ilAWEjXEfMaZk1t-7UohM43WQpPqRVUWzo-E19FZZOv2RHDBLeHiOAnPypNnuic2QjvWF3FfgCpdd3y196UJL9HtJvl_uIkzKDi96k9-P-cflX6OunO7f4PdwyD9A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgU2VydmljZU5vdyBzdG9jayBnb2luZyBkb3duPyIsImxrIjoiR2lKM2FIa2dhWE1nYzJWeWRtbGpaVzV2ZHlCemRHOWpheUJuYjJsdVp5QmtiM2R1IiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUbzlibEJQLUEzWnpxU2t4Y05HRXUwSGlOU2F2dFljT19Gd0lPUkIwdjNfZmVQVGhCWGxLSE51TEZoSmV0emRrbmpPenJPOTY4ZFRkc2ZISks3a1NXUmkyT212dWh3UUZFU1pvSGpjbmdIaVBwWVBBUi1vQ1NHN0ZPX3lnY0lTdko5T2Q4Q1JuZFBGc2R1RWVOa2tLc3B2X281alJDTVRUWW1qNzlsWW1NeFhWYXlSNnJ0bE15Rjl2MFpWbWVXY3ZGR3ciLCJpZCI6ImZjX1p2ZkphcGpfQl8tX2tQSVBudkhaNEFNXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaHkgaXMgU2VydmljZU5vdyBzdG9jayBnb2luZyBkb3duPyIsImxrIjoiR2lKM2FIa2dhWE1nYzJWeWRtbGpaVzV2ZHlCemRHOWpheUJuYjJsdVp5QmtiM2R1IiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUbzlibEJQLUEzWnpxU2t4Y05HRXUwSGlOU2F2dFljT19Gd0lPUkIwdjNfZmVQVGhCWGxLSE51TEZoSmV0emRrbmpPenJPOTY4ZFRkc2ZISks3a1NXUmkyT212dWh3UUZFU1pvSGpjbmdIaVBwWVBBUi1vQ1NHN0ZPX3lnY0lTdko5T2Q4Q1JuZFBGc2R1RWVOa2tLc3B2X281alJDTVRUWW1qNzlsWW1NeFhWYXlSNnJ0bE15Rjl2MFpWbWVXY3ZGR3ciLCJpZCI6ImZjX1p2ZkphcGpfQl8tX2tQSVBudkhaNEFNXzUifQ%3D%3D"
+  },
+  {
+   "question": "What is the 1 share price?",
+   "type": "ai_overview",
+   "page_token": "pTuQTHicHdBfboIwAIDx7DI-SsE_UxOzDKEsBGra0sL6snRVRFuECK7i2-6yU-00MzvB98v3_WOOZ_37VFR933Yrx7HWjg9NczD7sWpqR3bDWTlKGvMplV7Nn-fuS6nWYWf9TWN9zNqWBwTQk4AiJBOq32-ZRjTJ4FmeuOVnf6rADOchwXmw8_YM21wvJQpnccJiS6PKJKxPaEgGGTJP6cZK74apbqsMiBJ7zE3vfE6NuW45JNwzN5L3HYv4JoUcsHyXq8BnCi6zLceARmaK63gqAbygwNRsQgpRvE6yegn3EXKlNnUWxVVx1xS6rSceHRW1JTaLvvB6TLl_3enq4YMoOsY-eUPDNheMFxykHOEUiIR4M60ydEldMTCwACwjgXCRPyrV13oy-j-2_ijrftVemsMfAIp3Lw",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pTuQTHicHdBfboIwAIDx7DI-SsE_UxOzDKEsBGra0sL6snRVRFuECK7i2-6yU-00MzvB98v3_WOOZ_37VFR933Yrx7HWjg9NczD7sWpqR3bDWTlKGvMplV7Nn-fuS6nWYWf9TWN9zNqWBwTQk4AiJBOq32-ZRjTJ4FmeuOVnf6rADOchwXmw8_YM21wvJQpnccJiS6PKJKxPaEgGGTJP6cZK74apbqsMiBJ7zE3vfE6NuW45JNwzN5L3HYv4JoUcsHyXq8BnCi6zLceARmaK63gqAbygwNRsQgpRvE6yegn3EXKlNnUWxVVx1xS6rSceHRW1JTaLvvB6TLl_3enq4YMoOsY-eUPDNheMFxykHOEUiIR4M60ydEldMTCwACwjgXCRPyrV13oy-j-2_ijrftVemsMfAIp3Lw",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAxIHNoYXJlIHByaWNlPyIsImxrIjoiR2hsM2FHRjBJR2x6SUhSb1pTQXhJSE5vWVhKbElIQnlhV05sIiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUbzlibEJQLUEzWnpxU2t4Y05HRXUwSGlOU2F2dFljT19Gd0lPUkIwdjNfZmVQVGhCWGxLSE51TEZoSmV0emRrbmpPenJPOTY4ZFRkc2ZISks3a1NXUmkyT212dWh3UUZFU1pvSGpjbmdIaVBwWVBBUi1vQ1NHN0ZPX3lnY0lTdko5T2Q4Q1JuZFBGc2R1RWVOa2tLc3B2X281alJDTVRUWW1qNzlsWW1NeFhWYXlSNnJ0bE15Rjl2MFpWbWVXY3ZGR3ciLCJpZCI6ImZjX1p2ZkphcGpfQl8tX2tQSVBudkhaNEFNXzUifQ==",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGF0IGlzIHRoZSAxIHNoYXJlIHByaWNlPyIsImxrIjoiR2hsM2FHRjBJR2x6SUhSb1pTQXhJSE5vWVhKbElIQnlhV05sIiwiYnMiOiJjM1dPTVEtQ01CQ0Y0M3FUbzlibEJQLUEzWnpxU2t4Y05HRXUwSGlOU2F2dFljT19Gd0lPUkIwdjNfZmVQVGhCWGxLSE51TEZoSmV0emRrbmpPenJPOTY4ZFRkc2ZISks3a1NXUmkyT212dWh3UUZFU1pvSGpjbmdIaVBwWVBBUi1vQ1NHN0ZPX3lnY0lTdko5T2Q4Q1JuZFBGc2R1RWVOa2tLc3B2X281alJDTVRUWW1qNzlsWW1NeFhWYXlSNnJ0bE15Rjl2MFpWbWVXY3ZGR3ciLCJpZCI6ImZjX1p2ZkphcGpfQl8tX2tQSVBudkhaNEFNXzUifQ%3D%3D"
+  },
+  {
+   "question": "Where is ServiceNow headquartered?",
+   "type": "ai_overview",
+   "page_token": "Yv-tGnicHdDBbpswAABQ7Wd6bGy6dVqkaBLFhLDiyAbbiS8T2AEHbEMSUgi3_cu-al-zacd3fb9-27Pv_nz6MOM43Nar1TRNz03fN_b0rHq3Km8Pr1aqtLYqVbd-_foKv9dqg-678O2yCwkbBh5RkLs03Beh59vRaM4eBGhTRpbmYE55gpMqknXGYkMFPdOtCVWXCm7NHQfpjCMDNSTwhMhjL-arFKMttzBStgEsoLd_DqTHuei-WM3m-F00gWRqoj61OZr7EtFL7vkbC-JYF_JIWfxSODCxLZjpIjPlDSRugkW0WxQME4zGY9bytmr5uUysYYHFGcT7CmCDgVl4MnhkdKmd_HE8hJcDSOt3_u3KkCWVlzvR0rCg_ZkwuqjWOh7J64nTe45id3Qp0K2-ZeLzog_dKLpxLhA1hDzV6mPz8vT_c_OzduN6uPbNXwdjhUM",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=Yv-tGnicHdDBbpswAABQ7Wd6bGy6dVqkaBLFhLDiyAbbiS8T2AEHbEMSUgi3_cu-al-zacd3fb9-27Pv_nz6MOM43Nar1TRNz03fN_b0rHq3Km8Pr1aqtLYqVbd-_foKv9dqg-678O2yCwkbBh5RkLs03Beh59vRaM4eBGhTRpbmYE55gpMqknXGYkMFPdOtCVWXCm7NHQfpjCMDNSTwhMhjL-arFKMttzBStgEsoLd_DqTHuei-WM3m-F00gWRqoj61OZr7EtFL7vkbC-JYF_JIWfxSODCxLZjpIjPlDSRugkW0WxQME4zGY9bytmr5uUysYYHFGcT7CmCDgVl4MnhkdKmd_HE8hJcDSOt3_u3KkCWVlzvR0rCg_ZkwuqjWOh7J64nTe45id3Qp0K2-ZeLzog_dKLpxLhA1hDzV6mPz8vT_c_OzduN6uPbNXwdjhUM",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBTZXJ2aWNlTm93IGhlYWRxdWFydGVyZWQ/IiwibGsiOiJHaGh6WlhKMmFXTmxJRzV2ZHlCb1pXRmtjWFZoY25SbGNuTSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVG85YmxCUC1BM1p6cVNreGNOR0V1MEhpTlNhdnRZY09fRndJT1JCMHYzX2ZlUFRoQlhsS0hOdUxGaEpldHpka25qT3pyTzk2OGRUZHNmSEpLN2tTV1JpMk9tdnVod1FGRVNab0hqY25nSGlQcFlQQVItb0NTRzdGT195Z2NJU3ZKOU9kOENSbmRQRnNkdUVlTmtrS3Nwdl9vNWpSQ01UVFltajc5bFltTXhYVmF5UjZydGxNeUY5djBaVm1lV2N2Rkd3IiwiaWQiOiJmY19admZKYXBqX0JfLV9rUElQbnZIWjRBTV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGVyZSBpcyBTZXJ2aWNlTm93IGhlYWRxdWFydGVyZWQ%2FIiwibGsiOiJHaGh6WlhKMmFXTmxJRzV2ZHlCb1pXRmtjWFZoY25SbGNuTSIsImJzIjoiYzNXT01RLUNNQkNGNDNxVG85YmxCUC1BM1p6cVNreGNOR0V1MEhpTlNhdnRZY09fRndJT1JCMHYzX2ZlUFRoQlhsS0hOdUxGaEpldHpka25qT3pyTzk2OGRUZHNmSEpLN2tTV1JpMk9tdnVod1FGRVNab0hqY25nSGlQcFlQQVItb0NTRzdGT195Z2NJU3ZKOU9kOENSbmRQRnNkdUVlTmtrS3Nwdl9vNWpSQ01UVFltajc5bFltTXhYVmF5UjZydGxNeUY5djBaVm1lV2N2Rkd3IiwiaWQiOiJmY19admZKYXBqX0JfLV9rUElQbnZIWjRBTV81In0%3D"
+  },
+  {
+   "question": "Which is the best IT stock to buy?",
+   "type": "ai_overview",
+   "page_token": "_G9_KXicHdDPcqIwHADg2ZfpsSay_YMzzk6pgcpK3ETzi3DphICgJEBrKuht32Wfqk_Tzt6-8_f3nzm0zeePc-1cf5pNJsMw3FZdV5nyVnd2ok6XVk-0MiZXupndP9zjX3s9Jx_L4PltGTDR97DgaINwuFkQrCVPtE2vXKZjCY9e0sQM7HhWhmYCPWIO_jfqOGvcNZNjI2zqwa5zZUQjimsnw5BlhlPVPg3a-h-J6JXeZluYOrEmFK9J_Ie-0I0yPklFg9cSr8uwHgWQi4r8ZzbtXH6sRWHhxNrqDoyfZpaglUQ_V_JukWN4SaDvqBdivo1bCtWVIRNyrxe56Q8aArqSsUfqQhU2-53ugrcdivcr8N8FMSxvs6U88mDLuwMT_KqPxgpxuhSRP2pkpiWAKzyQeZRMyw0apDA4B98ydrPX57l38_9z_rq3bta_d9UX46KC4A",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=_G9_KXicHdDPcqIwHADg2ZfpsSay_YMzzk6pgcpK3ETzi3DphICgJEBrKuht32Wfqk_Tzt6-8_f3nzm0zeePc-1cf5pNJsMw3FZdV5nyVnd2ok6XVk-0MiZXupndP9zjX3s9Jx_L4PltGTDR97DgaINwuFkQrCVPtE2vXKZjCY9e0sQM7HhWhmYCPWIO_jfqOGvcNZNjI2zqwa5zZUQjimsnw5BlhlPVPg3a-h-J6JXeZluYOrEmFK9J_Ie-0I0yPklFg9cSr8uwHgWQi4r8ZzbtXH6sRWHhxNrqDoyfZpaglUQ_V_JukWN4SaDvqBdivo1bCtWVIRNyrxe56Q8aArqSsUfqQhU2-53ugrcdivcr8N8FMSxvs6U88mDLuwMT_KqPxgpxuhSRP2pkpiWAKzyQeZRMyw0apDA4B98ydrPX57l38_9z_rq3bta_d9UX46KC4A",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBJVCBzdG9jayB0byBidXk/IiwibGsiOiJHaUYzYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JwZENCemRHOWpheUIwYnlCaWRYayIsImJzIjoiYzNXT01RLUNNQkNGNDNxVG85YmxCUC1BM1p6cVNreGNOR0V1MEhpTlNhdnRZY09fRndJT1JCMHYzX2ZlUFRoQlhsS0hOdUxGaEpldHpka25qT3pyTzk2OGRUZHNmSEpLN2tTV1JpMk9tdnVod1FGRVNab0hqY25nSGlQcFlQQVItb0NTRzdGT195Z2NJU3ZKOU9kOENSbmRQRnNkdUVlTmtrS3Nwdl9vNWpSQ01UVFltajc5bFltTXhYVmF5UjZydGxNeUY5djBaVm1lV2N2Rkd3IiwiaWQiOiJmY19admZKYXBqX0JfLV9rUElQbnZIWjRBTV81In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJTbWxVTkhSSmVFeFdZVVI0VW1vM1NFaHpXa05DYzA1WU5HSlNYMVZzUTNKWlMyOXRNMUEyVWw5b2MyeFlha1psVjJsc05USTVTakZDTW1GZlJXZFJUVlJoVTBJMGFYbG1VREpJWVdWSFgxRXhhbVJyWTBGNFJFRTFNMHRIYkc5UVp4SVhXblptU21Gd2FsOUNYeTFmYTFCSlVHNTJTRm8wUVUwYUlrRkVjM0k1WmxOTFNHSllSMVpZWVdRdGQzWnhkbTlwVEZsR2JtUjZSV3B2WlVFIiwiZmN2IjoiMyIsImVpIjoiWnZmSmFwal9CXy1fa1BJUG52SFo0QU0iLCJxYyI6IkNocHpaWEoyYVdObGJtOTNJR2x1WXlCemFHRnlaU0J3Y21salpSQUFmUmJJRVQ4IiwicXVlc3Rpb24iOiJXaGljaCBpcyB0aGUgYmVzdCBJVCBzdG9jayB0byBidXk%2FIiwibGsiOiJHaUYzYUdsamFDQnBjeUIwYUdVZ1ltVnpkQ0JwZENCemRHOWpheUIwYnlCaWRYayIsImJzIjoiYzNXT01RLUNNQkNGNDNxVG85YmxCUC1BM1p6cVNreGNOR0V1MEhpTlNhdnRZY09fRndJT1JCMHYzX2ZlUFRoQlhsS0hOdUxGaEpldHpka25qT3pyTzk2OGRUZHNmSEpLN2tTV1JpMk9tdnVod1FGRVNab0hqY25nSGlQcFlQQVItb0NTRzdGT195Z2NJU3ZKOU9kOENSbmRQRnNkdUVlTmtrS3Nwdl9vNWpSQ01UVFltajc5bFltTXhYVmF5UjZydGxNeUY5djBaVm1lV2N2Rkd3IiwiaWQiOiJmY19admZKYXBqX0JfLV9rUElQbnZIWjRBTV81In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "ServiceNow Inc. (NYSE: NOW) closed at $140.86 USD (up 0.79% or +$1.11) at the end of the last trading session on October 9, 2026, with extended-hours trading reaching $141.30 USD."
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Ticker / Exchange: NOW on the New York Stock Exchange (NYSE)"
+     },
+     {
+      "snippet": "Previous Close: $139.75 USD"
+     },
+     {
+      "snippet": "Day Range: $139.43 – $142.47 USD"
+     },
+     {
+      "snippet": "52-Week Range: $81.24 – $192.97 USD"
+     },
+     {
+      "snippet": "Market Capitalization: ~$145.63 Billion USD"
+     },
+     {
+      "snippet": "Price-to-Earnings (P/E) Ratio: ~87.95"
+     },
+     {
+      "snippet": "Analyst Consensus: Average Brokerage Recommendation of roughly 1.35 (leaning between Strong Buy and Buy)"
+     }
+    ],
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can view live charts and historical data on Yahoo Finance or INDmoney.",
+    "snippet_links": [
+     {
+      "text": "Yahoo Finance",
+      "link": "https://finance.yahoo.com/quote/NOW/"
+     },
+     {
+      "text": "INDmoney",
+      "link": "https://www.indmoney.com/us-stocks/servicenow-inc-share-price-now"
+     }
+    ],
+    "reference_indexes": [
+     1,
+     2
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "Would you like to check analyst price targets, upcoming earnings dates, or technical support/resistance levels for ServiceNow?"
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Wall Street Bulls Look Optimistic About ServiceNow (NOW): Should You Buy?",
+    "link": "https://au.finance.yahoo.com/news/wall-street-bulls-look-optimistic-123002430.html",
+    "snippet": "Wall Street Bulls Look Optimistic About ServiceNow (NOW): Should You Buy? ... The recommendations of Wall Street analysts are often relied on by investors when dec...",
+    "source": "Yahoo Finance Australia",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://au.finance.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYlD9o6kASjFnJkxbq9Jl2-kwJ94AGLL7GPWaD-2AxuRYdadCT6Bn6OfnkLl4Xe4AJr3Nvjt1G_I70JYw3XmMrDMSlZuFQeDGXVmBGzGI_ERJ44IXsQGXJ0cZUzmugLz6KdGRMD0NP8f5AVat9oG-Vofk"
+   },
+   {
+    "index": 1,
+    "title": "ServiceNow, Inc. (NOW) Stock Price, News, Quote & History - Yahoo Finance",
+    "link": "https://finance.yahoo.com/quote/NOW/",
+    "snippet": "4.82% * 4.82% * 1_M. 7.44% * 6_M. 56.84% * YTD. -8.05% * 1_Y. -23.27% * 5_Y. 14.04% * ALL. 2,865.47% ... * 139.75. * 141.26. * 140.80 x 20000. * 140.66 x 20000. * ...",
+    "source": "Yahoo Finance",
+    "source_icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRnVFt4RaisscGGJuB_lIXZAlqu7uVo3I3L21vpH_DaEGarKrZSNB5isMbv9GndLULmy-V87BL7m_QMH8f3gRwCtqlHITVd-ygQptHexkFGBWngKsBXH_GZFAi_qGW7wWUmDLiZM_tqKAwD4PbNAUyMZeM"
+   },
+   {
+    "index": 2,
+    "title": "ServiceNow (NOW) Live Share Price, Invest From India - INDmoney",
+    "link": "https://www.indmoney.com/us-stocks/servicenow-inc-share-price-now",
+    "snippet": "What is ServiceNow share price today? ServiceNow share price today is $140.77 as on October 9, 2026 at 7:51 pm IST . ServiceNow share today touched a day high of $...",
+    "source": "INDmoney",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.indmoney.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   }
+  ]
+ },
+ "answer_box": {
+  "type": "finance_results",
+  "title": "About",
+  "exchange": "NYSE",
+  "stock": "NOW",
+  "currency": "USD",
+  "price": 140.86,
+  "price_movement": {
+   "percentage": 0.79,
+   "movement": "Up",
+   "date": "today"
+  },
+  "market": {
+   "closed": true,
+   "date": "9 Oct, 7:57 pm GMT-4",
+   "trading": "After hours",
+   "price": 141.3,
+   "price_movement": {
+    "price": 0.44,
+    "percentage": 0.31,
+    "movement": "Up"
+   }
+  },
+  "table": [
+   {
+    "name": "Open",
+    "value": 141.26
+   },
+   {
+    "name": "High",
+    "value": 142.47
+   },
+   {
+    "name": "Low",
+    "value": 139.43
+   },
+   {
+    "name": "Mkt cap",
+    "value": 14.56
+   },
+   {
+    "name": "P/E ratio",
+    "value": 87.95
+   },
+   {
+    "name": "52-wk high",
+    "value": 192.97
+   },
+   {
+    "name": "Dividend",
+    "value": "-"
+   },
+   {
+    "name": "Qtrly div amt",
+    "value": "-"
+   },
+   {
+    "name": "52-wk low",
+    "value": 81.24
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "NOW: ServiceNow Inc Stock Price Quote - New York",
+   "link": "https://www.bloomberg.com/quote/NOW:US",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVnrisetZQzCVsmBf0-fDYLFyUS5VwCFMDhcMM8yi7XQ1IhFvf1DQ9LRwQ4qvQOGYLxF4V7m3E0iLzqV0DfXvdaDOqwSZnd_7m_clrYbupzFu8TyaJ0q9Y3QGlyVI&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEUQAQ&uoh=1",
+   "displayed_link": "https://www.bloomberg.com › quote › NOW:US",
+   "favicon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAADwBgCdASogACAAPtEutFooIagoGAEAGglpABOY5EDsBrYZkXP2VH-cr0Qb9Us7-T5TxTEDIwD4hbZMCRfdNiAAAP7-w4-9t8IWn9WNKSYVyO5L6S9UJA7JGTzMZFCW4-gsn-iPMv-_L-h6cj1ZQ4Coxeq38BcKUDs__h-ejF80z_ExLv9UtuMr5-g3zf_ww00owhJjtraMpOyH6U6inHGrdMeiGm7YYeOMYZyPu7pfS7Fqke4Vbr2s23pqNMjPGmoSEnWAFeDThyNTd-qFWD_JN9jP3jtnK6UZXMTXmdZsh-G2SFfQZZOfn_LywN8NEJdNHlngIBzQTc_XIX06FL1PQvZrZ_cdxe-E2xizweDaRW9GXEm4_DPbyM9gXX4woGLvCUsSKlajb_lcFb7VG0Cndt4s2-lydY3S5OQs5yvPJ9CSCftORkzooljZsh_qgCoyclhXjGAAFcQAAAA.webp",
+   "snippet": "Stock analysis for ServiceNow Inc (NOW:New York) including stock price, stock chart, company news, key statistics, fundamentals and company profile.",
+   "snippet_highlighted_words": [
+    "stock price"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Stock analysis for ServiceNow Inc (NOW:New York) including stock price, stock chart, company news, key statistics, fundamentals and company profile.",
+     "source_info_link": "https://www.bloomberg.com/quote/NOW:US",
+     "icon": "https://serpapi.com/images/i/UklGRmgBAABXRUJQVlA4IFwBAADwBgCdASogACAAPtEutFooIagoGAEAGglpABOY5EDsBrYZkXP2VH-cr0Qb9Us7-T5TxTEDIwD4hbZMCRfdNiAAAP7-w4-9t8IWn9WNKSYVyO5L6S9UJA7JGTzMZFCW4-gsn-iPMv-_L-h6cj1ZQ4Coxeq38BcKUDs__h-ejF80z_ExLv9UtuMr5-g3zf_ww00owhJjtraMpOyH6U6inHGrdMeiGm7YYeOMYZyPu7pfS7Fqke4Vbr2s23pqNMjPGmoSEnWAFeDThyNTd-qFWD_JN9jP3jtnK6UZXMTXmdZsh-G2SFfQZZOfn_LywN8NEJdNHlngIBzQTc_XIX06FL1PQvZrZ_cdxe-E2xizweDaRW9GXEm4_DPbyM9gXX4woGLvCUsSKlajb_lcFb7VG0Cndt4s2-lydY3S5OQs5yvPJ9CSCftORkzooljZsh_qgCoyclhXjGAAFcQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm5yaXNldFpRekNWc21CZjAtZkRZTEZ5VVM1VndDRk1EaGNNTTh5aTdYUTFJaEZ2ZjFEUTlMUndRNHF2UU9HWUx4RjRWN20zRTBpTHpxVjBEZlh2ZGFET3F3U1puZF83bV9jbHJZYnVwekZ1OFR5YUowcTlZM1FHbHlWSRIEGgIIABqQBRICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqIgoKc2VydmljZW5vdxXK0IhAGg9pdjtwO3NlcnZpY2Vub3cqMgoDaW5jFcrQiEAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFRE0qT8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRUUI2pAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm5yaXNldFpRekNWc21CZjAtZkRZTEZ5VVM1VndDRk1EaGNNTTh5aTdYUTFJaEZ2ZjFEUTlMUndRNHF2UU9HWUx4RjRWN20zRTBpTHpxVjBEZlh2ZGFET3F3U1puZF83bV9jbHJZYnVwekZ1OFR5YUowcTlZM1FHbHlWSTo3Tk9XOiA8Yj5TZXJ2aWNlTm93IEluYyBTdG9jayBQcmljZTwvYj4gUXVvdGUgLSBOZXcgWW9ya0KbAVN0b2NrIGFuYWx5c2lzIGZvciBTZXJ2aWNlTm93IEluYyAoTk9XOk5ldyBZb3JrKSBpbmNsdWRpbmcgPGI-c3RvY2sgcHJpY2U8L2I-LCBzdG9jayBjaGFydCwgY29tcGFueSBuZXdzLCBrZXkgc3RhdGlzdGljcywgZnVuZGFtZW50YWxzIGFuZCBjb21wYW55IHByb2ZpbGUuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm5yaXNldFpRekNWc21CZjAtZkRZTEZ5VVM1VndDRk1EaGNNTTh5aTdYUTFJaEZ2ZjFEUTlMUndRNHF2UU9HWUx4RjRWN20zRTBpTHpxVjBEZlh2ZGFET3F3U1puZF83bV9jbHJZYnVwekZ1OFR5YUowcTlZM1FHbHlWSRIEGgIIABqQBRICCAEaACIAKgAyBggCEgJpbjoAQgQIARAASgBaAHIAegCCQOoECAAQABgAIAAqIgoKc2VydmljZW5vdxXK0IhAGg9pdjtwO3NlcnZpY2Vub3cqMgoDaW5jFcrQiEAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFRE0qT8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRUUI2pAGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVm5yaXNldFpRekNWc21CZjAtZkRZTEZ5VVM1VndDRk1EaGNNTTh5aTdYUTFJaEZ2ZjFEUTlMUndRNHF2UU9HWUx4RjRWN20zRTBpTHpxVjBEZlh2ZGFET3F3U1puZF83bV9jbHJZYnVwekZ1OFR5YUowcTlZM1FHbHlWSTo3Tk9XOiA8Yj5TZXJ2aWNlTm93IEluYyBTdG9jayBQcmljZTwvYj4gUXVvdGUgLSBOZXcgWW9ya0KbAVN0b2NrIGFuYWx5c2lzIGZvciBTZXJ2aWNlTm93IEluYyAoTk9XOk5ldyBZb3JrKSBpbmNsdWRpbmcgPGI-c3RvY2sgcHJpY2U8L2I-LCBzdG9jayBjaGFydCwgY29tcGFueSBuZXdzLCBrZXkgc3RhdGlzdGljcywgZnVuZGFtZW50YWxzIGFuZCBjb21wYW55IHByb2ZpbGUuIgIQAUgAWABoAA",
+   "source": "Bloomberg.com"
+  },
+  {
+   "position": 2,
+   "title": "ServiceNow, Inc. (NOW) Stock Price, Quote, News & Analysis",
+   "link": "https://seekingalpha.com/symbol/NOW",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAV1C1akbRSqML2J0-HT6eNoKdi_325NEaHZ20d_6FZCVkxixu3hIyMA3iZKl8c66TqWTNBzX7tDv8aRDaNn1l_2qd4GL3jSxh0DzB-TkYWDUueH7leN8QbAJo&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEEQAQ&uoh=1",
+   "displayed_link": "https://seekingalpha.com › symbol › NOW",
+   "favicon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHAi2H2o56rTdN5X8mYwHbNg5yzoSzvA7EJrx5vSgq237-UGMUlEAAD-7lupdgZGwpmDQ3USwTICMWh_7oFoVLxpwJmUdI2__ag3LkGCv_5SqfVh358FYG7eHx5a8CZVD_wa2HQ6v8ePKLof2l-F9Xs5cbSjXuLfSoUOiajL8E03OHlk16l0wR8YbALWUSyJuzppPVCJxg3uL_lWLk1Igzmcw1uOUtkTZYRsFCYUCzQpXEnWxMOpalOjKodtmbyUrSIVwk_UZcqANSdns0pI9YzEGWUO21noKpP-9E_IHAza2vbUtydGvYlrobI9FdOZIGvx2u1eHCjs_ZDfaoE2g09a1XP5Dm1hZ5GPMYfFi5H7gizudpN_3U9r_yWQmLy4cN8zSU7xYpfuiSrDr3hQAAAA.webp",
+   "snippet": "What is ServiceNow, Inc.'s stock price today? ServiceNow, Inc. is currently ... share of NOW stock can currently be purchased for approximately $140.86.",
+   "snippet_highlighted_words": [
+    "share of NOW stock can currently be purchased for approximately $140.86"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "What is ServiceNow, Inc.'s stock price today? ServiceNow, Inc. is currently ... share of NOW stock can currently be purchased for approximately $140.86.",
+     "source_info_link": "https://seekingalpha.com/symbol/NOW",
+     "icon": "https://serpapi.com/images/i/UklGRloBAABXRUJQVlA4IE4BAABwBwCdASocABwAPrkurlcnIacnG_DgFwlsAJ0yhHAi2H2o56rTdN5X8mYwHbNg5yzoSzvA7EJrx5vSgq237-UGMUlEAAD-7lupdgZGwpmDQ3USwTICMWh_7oFoVLxpwJmUdI2__ag3LkGCv_5SqfVh358FYG7eHx5a8CZVD_wa2HQ6v8ePKLof2l-F9Xs5cbSjXuLfSoUOiajL8E03OHlk16l0wR8YbALWUSyJuzppPVCJxg3uL_lWLk1Igzmcw1uOUtkTZYRsFCYUCzQpXEnWxMOpalOjKodtmbyUrSIVwk_UZcqANSdns0pI9YzEGWUO21noKpP-9E_IHAza2vbUtydGvYlrobI9FdOZIGvx2u1eHCjs_ZDfaoE2g09a1XP5Dm1hZ5GPMYfFi5H7gizudpN_3U9r_yWQmLy4cN8zSU7xYpfuiSrDr3hQAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjFDMWFrYlJTcU1MMkowLUhUNmVOb0tkaV8zMjVORWFIWjIwZF82RlpDVmt4aXh1M2hJeU1BM2laS2w4YzY2VHFXVE5Celg3dER2OGFSRGFObjFsXzJxZDRHTDNqU3hoMER6Qi1Ua1lXRFV1ZUg3bGVOOFFiQUpvEgQaAggAGrAFEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAigUIABAAGAAgACoiCgpzZXJ2aWNlbm93FTq6ukAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVqh2kQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUV8YO9PxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFWFIlUAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWMUMxYWtiUlNxTUwySjAtSFQ2ZU5vS2RpXzMyNU5FYUhaMjBkXzZGWkNWa3hpeHUzaEl5TUEzaVpLbDhjNjZUcVdUTkJ6WDd0RHY4YVJEYU5uMWxfMnFkNEdMM2pTeGgwRHpCLVRrWVdEVXVlSDdsZU44UWJBSm86UzxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiAoTk9XKSA8Yj5TdG9jayBQcmljZTwvYj4sIFF1b3RlLCBOZXdzICZhbXA7IEFuYWx5c2lzQqMBV2hhdCBpcyBTZXJ2aWNlTm93LCBJbmMuJiMzOTtzIHN0b2NrIHByaWNlIHRvZGF5PyBTZXJ2aWNlTm93LCBJbmMuIGlzIGN1cnJlbnRseSAuLi4gPGI-c2hhcmUgb2YgTk9XIHN0b2NrIGNhbiBjdXJyZW50bHkgYmUgcHVyY2hhc2VkIGZvciBhcHByb3hpbWF0ZWx5ICQxNDAuODY8L2I-LiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Co0BL2dvdG8_dXJsPUNBRVNYZ0hyT3pBVjFDMWFrYlJTcU1MMkowLUhUNmVOb0tkaV8zMjVORWFIWjIwZF82RlpDVmt4aXh1M2hJeU1BM2laS2w4YzY2VHFXVE5Celg3dER2OGFSRGFObjFsXzJxZDRHTDNqU3hoMER6Qi1Ua1lXRFV1ZUg3bGVOOFFiQUpvEgQaAggAGrAFEgIIARoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAigUIABAAGAAgACoiCgpzZXJ2aWNlbm93FTq6ukAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVqh2kQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUV8YO9PxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFWFIlUAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyjQEvZ290bz91cmw9Q0FFU1hnSHJPekFWMUMxYWtiUlNxTUwySjAtSFQ2ZU5vS2RpXzMyNU5FYUhaMjBkXzZGWkNWa3hpeHUzaEl5TUEzaVpLbDhjNjZUcVdUTkJ6WDd0RHY4YVJEYU5uMWxfMnFkNEdMM2pTeGgwRHpCLVRrWVdEVXVlSDdsZU44UWJBSm86UzxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiAoTk9XKSA8Yj5TdG9jayBQcmljZTwvYj4sIFF1b3RlLCBOZXdzICZhbXA7IEFuYWx5c2lzQqMBV2hhdCBpcyBTZXJ2aWNlTm93LCBJbmMuJiMzOTtzIHN0b2NrIHByaWNlIHRvZGF5PyBTZXJ2aWNlTm93LCBJbmMuIGlzIGN1cnJlbnRseSAuLi4gPGI-c2hhcmUgb2YgTk9XIHN0b2NrIGNhbiBjdXJyZW50bHkgYmUgcHVyY2hhc2VkIGZvciBhcHByb3hpbWF0ZWx5ICQxNDAuODY8L2I-LiICEAFIAFgAaAA",
+   "source": "Seeking Alpha",
+   "read_more_link": "https://seekingalpha.com/symbol/NOW#:~:text=What%20is%20ServiceNow%2C%20Inc.'s%20stock,be%20purchased%20for%20approximately%20%24140.86.&text=ServiceNow%2C%20Inc.%20is%20currently%20listed,be%20purchased%20for%20approximately%20%24140.86."
+  },
+  {
+   "position": 3,
+   "title": "NOW Stock Price and Chart — NYSE:NOW",
+   "link": "https://in.tradingview.com/symbols/NYSE-NOW/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZwHrOzAVxZNfN1zEZDkH3bP_UgpGjG7iIwoiub1pyyhYLRMbTmv14UK0wutTIwVxUspR_vEZgnlQXTrVazo1lratJ4vAQROKKj_O-EI-95g_I6JYGpOwW6PRuJNZo9J8SjZam2F4_kA&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEYQAQ&uoh=1",
+   "displayed_link": "https://in.tradingview.com › ... › Packaged Software",
+   "favicon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACQBgCdASocABwAPrUurVanIacnG_DgFolnAMq44aXMvnXIM_XASkNPbYsCMp2DaFFn6FeO-LOb1MfrI8wAAP3AxGFk_Cesl4ds79eTksffdPNz7MoQBES-823QB7T8qLHFs_nOjzYFvJdBsI5s1eZ_pv6THZYGCUqi9r4owJi2oaADKJB25ejEPgpUyJvH_2b7-M5KGMbh0CwWQfhfVKptb3pcFH0a0kxSGVnheAEtE02KN4iHGIDfXa3FIVg14tfW_GXkOFsxhZHyvyRS42WWzzk_MOuEzhiKyWWx0Lphm8o5BDH_jybi3M_lpN5UA6tT2vIAAAA.webp",
+   "date": "23 Feb 2025",
+   "snippet": "The current price of NOW is 140.86 USD — it has increased by 0.79% in the past 24 hours. Watch ServiceNow, Inc. stock price performance more ...",
+   "snippet_highlighted_words": [
+    "140.86 USD"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The current price of NOW is 140.86 USD — it has increased by 0.79% in the past 24 hours. Watch ServiceNow, Inc. stock price performance more ...",
+     "source_info_link": "https://in.tradingview.com/symbols/NYSE-NOW/",
+     "icon": "https://serpapi.com/images/i/UklGRgIBAABXRUJQVlA4IPYAAACQBgCdASocABwAPrUurVanIacnG_DgFolnAMq44aXMvnXIM_XASkNPbYsCMp2DaFFn6FeO-LOb1MfrI8wAAP3AxGFk_Cesl4ds79eTksffdPNz7MoQBES-823QB7T8qLHFs_nOjzYFvJdBsI5s1eZ_pv6THZYGCUqi9r4owJi2oaADKJB25ejEPgpUyJvH_2b7-M5KGMbh0CwWQfhfVKptb3pcFH0a0kxSGVnheAEtE02KN4iHGIDfXa3FIVg14tfW_GXkOFsxhZHyvyRS42WWzzk_MOuEzhiKyWWx0Lphm8o5BDH_jybi3M_lpN5UA6tT2vIAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnhaTmZOMXpFWkRrSDNiUF9VZ3BHakc3aUl3b2l1YjFweXloWUxSTWJUbXYxNFVLMHd1dFRJd1Z4VXNwUl92RVpnbmxRWFRyVmF6bzFscmF0SjR2QVFST0tLal9PLUVJLTk1Z19JNkpZR3BPd1c2UFJ1Sk5abzlKOFNqWmFtMkY0X2tBEgQaAggAGp0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPkECAAQABgAIAAqIgoKc2VydmljZW5vdxWCcnhAGg9pdjtwO3NlcnZpY2Vub3cqMgoDaW5jFYPfmEAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFZaQDz8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRWSC45AGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnhaTmZOMXpFWkRrSDNiUF9VZ3BHakc3aUl3b2l1YjFweXloWUxSTWJUbXYxNFVLMHd1dFRJd1Z4VXNwUl92RVpnbmxRWFRyVmF6bzFscmF0SjR2QVFST0tLal9PLUVJLTk1Z19JNkpZR3BPd1c2UFJ1Sk5abzlKOFNqWmFtMkY0X2tBOjtOT1cgPGI-U3RvY2sgUHJpY2U8L2I-IGFuZCBDaGFydCDigJQgTllTRTpOT1cgLSBUcmFkaW5nVmlld0KeAVRoZSBjdXJyZW50IHByaWNlIG9mIE5PVyBpcyA8Yj4xNDAuODYgVVNEPC9iPiDigJQgaXQgaGFzIGluY3JlYXNlZCBieSAwLjc5JSBpbiB0aGUgcGFzdCAyNCBob3Vycy4gV2F0Y2ggU2VydmljZU5vdywgSW5jLiBzdG9jayBwcmljZSBwZXJmb3JtYW5jZSBtb3JlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnhaTmZOMXpFWkRrSDNiUF9VZ3BHakc3aUl3b2l1YjFweXloWUxSTWJUbXYxNFVLMHd1dFRJd1Z4VXNwUl92RVpnbmxRWFRyVmF6bzFscmF0SjR2QVFST0tLal9PLUVJLTk1Z19JNkpZR3BPd1c2UFJ1Sk5abzlKOFNqWmFtMkY0X2tBEgQaAggAGp0FEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPkECAAQABgAIAAqIgoKc2VydmljZW5vdxWCcnhAGg9pdjtwO3NlcnZpY2Vub3cqMgoDaW5jFYPfmEAaBGNvcnAaC2NvcnBvcmF0aW9uGgxpbmNvcnBvcmF0ZWQaBXN0b2NrKkoKBXNoYXJlFZaQDz8aBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZSpRCgVwcmljZRWSC45AGgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlMpkBL2dvdG8_dXJsPUNBRVNad0hyT3pBVnhaTmZOMXpFWkRrSDNiUF9VZ3BHakc3aUl3b2l1YjFweXloWUxSTWJUbXYxNFVLMHd1dFRJd1Z4VXNwUl92RVpnbmxRWFRyVmF6bzFscmF0SjR2QVFST0tLal9PLUVJLTk1Z19JNkpZR3BPd1c2UFJ1Sk5abzlKOFNqWmFtMkY0X2tBOjtOT1cgPGI-U3RvY2sgUHJpY2U8L2I-IGFuZCBDaGFydCDigJQgTllTRTpOT1cgLSBUcmFkaW5nVmlld0KeAVRoZSBjdXJyZW50IHByaWNlIG9mIE5PVyBpcyA8Yj4xNDAuODYgVVNEPC9iPiDigJQgaXQgaGFzIGluY3JlYXNlZCBieSAwLjc5JSBpbiB0aGUgcGFzdCAyNCBob3Vycy4gV2F0Y2ggU2VydmljZU5vdywgSW5jLiBzdG9jayBwcmljZSBwZXJmb3JtYW5jZSBtb3JlJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "TradingView",
+   "read_more_link": "https://in.tradingview.com/symbols/NYSE-NOW/#:~:text=What%20is%20ServiceNow%2C%20Inc.%20stock"
+  },
+  {
+   "position": 4,
+   "title": "ServiceNow, Inc. Stock Price",
+   "link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,RPD,IBM,S,NET,TENB",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgQEB6zswFW6F_bW6fHZ3eGLxfXOEvmePNrt2l6XWeUneuD28HEYw4byDOjXNURfXJG4_SocmdUZiiJf7M0XsB7KOjPaSZR7LQY2f1nW-zjfpwJPyGvacniZ6pXZcFmBqTiAeRMBorSXwcxs-Ly9JsVQBRmnx571dVGWx-7RLDA3U4dQ&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEgQAQ&uoh=1",
+   "displayed_link": "https://www.perplexity.ai › finance › NOW",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAACQBwCdASocABwAPtEutFooIagoGAEAGglpABOOecEuAWgBv4X5zWHv-r5ofl_znRk8VBpnMDMgbtJd02dVffGl8Sw9PTAA_vS8T2tpj3b1-_WAsiphgITJAb4ViS6YHhZEYWDRcpbXndDaJaaPvIWLQSXrct97mJsiXzCIdcJM1q-q2a5EZgbTPjZBygT1rlRG6mFJxOUAbnGAtnFFmYF-hYwJLmFcLv-m2d3yP_awuBLb070L_O7Rz_O-faS0Aij3Z4N4WTKrF2sS3R1Vd2-0Xf7B8_5mx6hU-RoU_NUKEVBmC_j0Z_5qP3pENCX2kZD8M_NbzrWd38JFH-m_pIetmm6CtR2WZTewfECR5t0APfeGTIOydno7rKHWCtDetZe1StusrW_sI__mfMWw2f1v6f-Py6pqbj69rbyNcw5lmHtUWk0oEO795FcapqGC3JOEAAAA.webp",
+   "date": "3 days ago",
+   "snippet": "ServiceNow shares slipped further after a sharp 3.47% decline the prior session, weighed down by a broader technology selloff tied to surging ...",
+   "snippet_highlighted_words": [
+    "ServiceNow shares"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "ServiceNow shares slipped further after a sharp 3.47% decline the prior session, weighed down by a broader technology selloff tied to surging ...",
+     "source_info_link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,RPD,IBM,S,NET,TENB",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAACQBwCdASocABwAPtEutFooIagoGAEAGglpABOOecEuAWgBv4X5zWHv-r5ofl_znRk8VBpnMDMgbtJd02dVffGl8Sw9PTAA_vS8T2tpj3b1-_WAsiphgITJAb4ViS6YHhZEYWDRcpbXndDaJaaPvIWLQSXrct97mJsiXzCIdcJM1q-q2a5EZgbTPjZBygT1rlRG6mFJxOUAbnGAtnFFmYF-hYwJLmFcLv-m2d3yP_awuBLb070L_O7Rz_O-faS0Aij3Z4N4WTKrF2sS3R1Vd2-0Xf7B8_5mx6hU-RoU_NUKEVBmC_j0Z_5qP3pENCX2kZD8M_NbzrWd38JFH-m_pIetmm6CtR2WZTewfECR5t0APfeGTIOydno7rKHWCtDetZe1StusrW_sI__mfMWw2f1v6f-Py6pqbj69rbyNcw5lmHtUWk0oEO795FcapqGC3JOEAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZXNkZfYlc2ZkhaM2VHTHhmWE9Fdm1lUE5ydDJsNlhXZVVuZXVEMjhIRVl3NGJ5RE9qWE5VUmZYSkc0X1NvY21kVVppaUpmN00wWHNCN0tPalBhU1pSN0xRWTJmMW5XLXpqZnB3SlB5R3ZhY25pWjZwWFpjRm1CcVRpQWVSTUJvclNYd2N4cy1MeTlKc1ZRQlJtbng1NzFkVkdXeC03UkxEQTNVNGRREgQaAggAGuAFEgAaACICCAEqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACoiCgpzZXJ2aWNlbm93FQqirUAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMV9oOhQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVgwKCPhoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFRnWjEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3Rlc2Rl9iVzZmSFozZUdMeGZYT0V2bWVQTnJ0Mmw2WFdlVW5ldUQyOEhFWXc0YnlET2pYTlVSZlhKRzRfU29jbWRVWmlpSmY3TTBYc0I3S09qUGFTWlI3TFFZMmYxblctempmcHdKUHlHdmFjbmlaNnBYWmNGbUJxVGlBZVJNQm9yU1h3Y3hzLUx5OUpzVlFCUm1ueDU3MWRWR1d4LTdSTERBM1U0ZFE6WTxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiA8Yj5TdG9jayBQcmljZTwvYj46IFF1b3RlLCBGb3JlY2FzdCwgU3BsaXRzICZhbXA7IE5ld3MgLi4uQp0BPGI-U2VydmljZU5vdyBzaGFyZXM8L2I-IHNsaXBwZWQgZnVydGhlciBhZnRlciBhIHNoYXJwIDMuNDclIGRlY2xpbmUgdGhlIHByaW9yIHNlc3Npb24sIHdlaWdoZWQgZG93biBieSBhIGJyb2FkZXIgdGVjaG5vbG9neSBzZWxsb2ZmIHRpZWQgdG8gc3VyZ2luZyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Cr0BL2dvdG8_dXJsPUNBRVNnUUVCNnpzd0ZXNkZfYlc2ZkhaM2VHTHhmWE9Fdm1lUE5ydDJsNlhXZVVuZXVEMjhIRVl3NGJ5RE9qWE5VUmZYSkc0X1NvY21kVVppaUpmN00wWHNCN0tPalBhU1pSN0xRWTJmMW5XLXpqZnB3SlB5R3ZhY25pWjZwWFpjRm1CcVRpQWVSTUJvclNYd2N4cy1MeTlKc1ZRQlJtbng1NzFkVkdXeC03UkxEQTNVNGRREgQaAggAGuAFEgAaACICCAEqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACoiCgpzZXJ2aWNlbm93FQqirUAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMV9oOhQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVgwKCPhoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFRnWjEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyvQEvZ290bz91cmw9Q0FFU2dRRUI2enN3Rlc2Rl9iVzZmSFozZUdMeGZYT0V2bWVQTnJ0Mmw2WFdlVW5ldUQyOEhFWXc0YnlET2pYTlVSZlhKRzRfU29jbWRVWmlpSmY3TTBYc0I3S09qUGFTWlI3TFFZMmYxblctempmcHdKUHlHdmFjbmlaNnBYWmNGbUJxVGlBZVJNQm9yU1h3Y3hzLUx5OUpzVlFCUm1ueDU3MWRWR1d4LTdSTERBM1U0ZFE6WTxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiA8Yj5TdG9jayBQcmljZTwvYj46IFF1b3RlLCBGb3JlY2FzdCwgU3BsaXRzICZhbXA7IE5ld3MgLi4uQp0BPGI-U2VydmljZU5vdyBzaGFyZXM8L2I-IHNsaXBwZWQgZnVydGhlciBhZnRlciBhIHNoYXJwIDMuNDclIGRlY2xpbmUgdGhlIHByaW9yIHNlc3Npb24sIHdlaWdoZWQgZG93biBieSBhIGJyb2FkZXIgdGVjaG5vbG9neSBzZWxsb2ZmIHRpZWQgdG8gc3VyZ2luZyZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Perplexity",
+   "read_more_link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,RPD,IBM,S,NET,TENB#:~:text=ServiceNow%20shares%20slipped%20further%20after,volatility%20rather%20than%20company%2Dspecific%20news."
+  },
+  {
+   "position": 5,
+   "title": "ServiceNow, Inc. Share Price (NOW) - Stock NYSE",
+   "link": "https://in.marketscreener.com/quote/stock/SERVICENOW-INC-10912979/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAVKIj-Lxr0tRlxiqrd336wp_vt4aLX4ELW6aoQt5JV4pU7TZwr-3pau4jTCof_bYI5zq8vJzNYdAlGw42xeHNXZ3ZRblELZQkudR4nu_vQjbIHdHGayiCoKqDIXdrBsFL9KEZrxXNFxW77wgztnmHc3o8fbDe501Vu&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEQQAQ&uoh=1",
+   "displayed_link": "https://in.marketscreener.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAQBwCdASogACAAPtEutFooIagoGAEAGglsAKc0EcgEsAby5XN9BVu9FY65rb85h-zSCedLOOF5cD7cwFmEbdFEAAD-_sJ-t3h8G5WFjiau1c0o__ZRakP7vVfwfp5gTEwZtNTnZKONyVyxqjdVbx4bV1Wcq257XzodlvHdLXQjhZkPrbaVkuNxQsZx2_Dz1zq_-VbGOR5tnSV7FpF1KgSf_FXgs824AfcoR4Jfex4KA154szAGq7MiX4RxNOrYd93wDhanMroQ6lo8pNv2oGW7Ff0fiftVUgGRLwp7-pGPdob4YJ50-09UdqYEDxk0TebYqbFlANHRCQbWBxNJ5gdhOc-vwRhHqt7OYggpPPDGUGsW4SdQypZ7Nu7QCeKMAAA.webp",
+   "snippet": "ServiceNow, Inc. (NOW:NYSE): Stock quote, stock chart, quotes, analysis, advice, financials and news for Stock ServiceNow, Inc. | NYSE: NOW | NYSE.",
+   "snippet_highlighted_words": [
+    "ServiceNow",
+    "Inc",
+    "Stock quote",
+    "stock",
+    "Stock ServiceNow",
+    "Inc"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "ServiceNow, Inc. (NOW:NYSE): Stock quote, stock chart, quotes, analysis, advice, financials and news for Stock ServiceNow, Inc. | NYSE: NOW | NYSE.",
+     "source_info_link": "https://in.marketscreener.com/quote/stock/SERVICENOW-INC-10912979/",
+     "icon": "https://serpapi.com/images/i/UklGRiwBAABXRUJQVlA4ICABAAAQBwCdASogACAAPtEutFooIagoGAEAGglsAKc0EcgEsAby5XN9BVu9FY65rb85h-zSCedLOOF5cD7cwFmEbdFEAAD-_sJ-t3h8G5WFjiau1c0o__ZRakP7vVfwfp5gTEwZtNTnZKONyVyxqjdVbx4bV1Wcq257XzodlvHdLXQjhZkPrbaVkuNxQsZx2_Dz1zq_-VbGOR5tnSV7FpF1KgSf_FXgs824AfcoR4Jfex4KA154szAGq7MiX4RxNOrYd93wDhanMroQ6lo8pNv2oGW7Ff0fiftVUgGRLwp7-pGPdob4YJ50-09UdqYEDxk0TebYqbFlANHRCQbWBxNJ5gdhOc-vwRhHqt7OYggpPPDGUGsW4SdQypZ7Nu7QCeKMAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVktJai1MeHIwdFJseGlxcmQzMzZ3cF92dDRhTFg0RUxXNmFvUXQ1SlY0cFU3VFp3ci0zcGF1NGpUQ29mX2JZSTV6cTh2SnpOWWRBbEd3NDJ4ZUhOWFozWlJibEVMWlFrdWRSNG51X3ZRamJJSGRIR2F5aUNvS3FESVhkckJzRkw5S0VacnhYTkZ4Vzc3d2d6dG5tSGMzbzhmYkRlNTAxVnUSBBoCCAAa4gUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAvgUIABAAGAAgACoiCgpzZXJ2aWNlbm93FcBQnkAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVU5KiQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVyfBUQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFThYiEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWS0lqLUx4cjB0Umx4aXFyZDMzNndwX3Z0NGFMWDRFTFc2YW9RdDVKVjRwVTdUWndyLTNwYXU0alRDb2ZfYllJNXpxOHZKek5ZZEFsR3c0MnhlSE5YWjNaUmJsRUxaUWt1ZFI0bnVfdlFqYklIZEhHYXlpQ29LcURJWGRyQnNGTDlLRVpyeFhORnhXNzd3Z3p0bm1IYzNvOGZiRGU1MDFWdTpEPGI-U2VydmljZU5vdzwvYj4sIDxiPkluYzwvYj4uIDxiPlNoYXJlIFByaWNlPC9iPiAoTk9XKSAtIFN0b2NrIE5ZU0VCvQE8Yj5TZXJ2aWNlTm93PC9iPiwgPGI-SW5jPC9iPi4gKE5PVzpOWVNFKTogPGI-U3RvY2sgcXVvdGU8L2I-LCA8Yj5zdG9jazwvYj4gY2hhcnQsIHF1b3RlcywgYW5hbHlzaXMsIGFkdmljZSwgZmluYW5jaWFscyBhbmQgbmV3cyBmb3IgPGI-U3RvY2sgU2VydmljZU5vdzwvYj4sIDxiPkluYzwvYj4uIHwgTllTRTogTk9XIHwgTllTRS4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CrYBL2dvdG8_dXJsPUNBRVNmUUhyT3pBVktJai1MeHIwdFJseGlxcmQzMzZ3cF92dDRhTFg0RUxXNmFvUXQ1SlY0cFU3VFp3ci0zcGF1NGpUQ29mX2JZSTV6cTh2SnpOWWRBbEd3NDJ4ZUhOWFozWlJibEVMWlFrdWRSNG51X3ZRamJJSGRIR2F5aUNvS3FESVhkckJzRkw5S0VacnhYTkZ4Vzc3d2d6dG5tSGMzbzhmYkRlNTAxVnUSBBoCCAAa4gUSABoAIgAqADIGCAMSAmluOgBCBAgBEABKAFoAcgB6AIJAvgUIABAAGAAgACoiCgpzZXJ2aWNlbm93FcBQnkAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVU5KiQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVyfBUQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFThYiEAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UytgEvZ290bz91cmw9Q0FFU2ZRSHJPekFWS0lqLUx4cjB0Umx4aXFyZDMzNndwX3Z0NGFMWDRFTFc2YW9RdDVKVjRwVTdUWndyLTNwYXU0alRDb2ZfYllJNXpxOHZKek5ZZEFsR3c0MnhlSE5YWjNaUmJsRUxaUWt1ZFI0bnVfdlFqYklIZEhHYXlpQ29LcURJWGRyQnNGTDlLRVpyeFhORnhXNzd3Z3p0bm1IYzNvOGZiRGU1MDFWdTpEPGI-U2VydmljZU5vdzwvYj4sIDxiPkluYzwvYj4uIDxiPlNoYXJlIFByaWNlPC9iPiAoTk9XKSAtIFN0b2NrIE5ZU0VCvQE8Yj5TZXJ2aWNlTm93PC9iPiwgPGI-SW5jPC9iPi4gKE5PVzpOWVNFKTogPGI-U3RvY2sgcXVvdGU8L2I-LCA8Yj5zdG9jazwvYj4gY2hhcnQsIHF1b3RlcywgYW5hbHlzaXMsIGFkdmljZSwgZmluYW5jaWFscyBhbmQgbmV3cyBmb3IgPGI-U3RvY2sgU2VydmljZU5vdzwvYj4sIDxiPkluYzwvYj4uIHwgTllTRTogTk9XIHwgTllTRS4iAhABSABYAGgA",
+   "source": "MarketScreener India"
+  },
+  {
+   "position": 6,
+   "title": "ServiceNow, Inc. Stock Price",
+   "link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,HUBS,WDAY,INTU,SHOP,CRM",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShgEB6zswFU23hBt9UMEq9iG6LO4FMEEQ9S-q971Di3YgawcqzRPaXEEO5trmuTBzemdPQ-VRGj9Yxtm_ih6POnQwzL7KN-HO4KtDxBCm2-nb7Pft8mHl6lovPIzKSNdDp_IGWYTy8zjingMsygGvIU9couFCTUXaHxURi-yS0jvEZ5EREBDo7A&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEcQAQ&uoh=1",
+   "displayed_link": "https://www.perplexity.ai › finance › NOW",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAACQBwCdASocABwAPtEutFooIagoGAEAGglpABOOecEuAWgBv4X5zWHv-r5ofl_znRk8VBpnMDMgbtJd02dVffGl8Sw9PTAA_vS8T2tpj3b1-_WAsiphgITJAb4ViS6YHhZEYWDRcpbXndDaJaaPvIWLQSXrct97mJsiXzCIdcJM1q-q2a5EZgbTPjZBygT1rlRG6mFJxOUAbnGAtnFFmYF-hYwJLmFcLv-m2d3yP_awuBLb070L_O7Rz_O-faS0Aij3Z4N4WTKrF2sS3R1Vd2-0Xf7B8_5mx6hU-RoU_NUKEVBmC_j0Z_5qP3pENCX2kZD8M_NbzrWd38JFH-m_pIetmm6CtR2WZTewfECR5t0APfeGTIOydno7rKHWCtDetZe1StusrW_sI__mfMWw2f1v6f-Py6pqbj69rbyNcw5lmHtUWk0oEO795FcapqGC3JOEAAAA.webp",
+   "snippet": "ServiceNow shares closed up 1.52% at $119.49, rebounding modestly alongside a broader software-sector bounce even as the Nasdaq and S&P 500 slid amid surging ...",
+   "snippet_highlighted_words": [
+    "ServiceNow shares closed up 1.52% at $119.49"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "ServiceNow shares closed up 1.52% at $119.49, rebounding modestly alongside a broader software-sector bounce even as the Nasdaq and S&P 500 slid amid surging ...",
+     "source_info_link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,HUBS,WDAY,INTU,SHOP,CRM",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAACQBwCdASocABwAPtEutFooIagoGAEAGglpABOOecEuAWgBv4X5zWHv-r5ofl_znRk8VBpnMDMgbtJd02dVffGl8Sw9PTAA_vS8T2tpj3b1-_WAsiphgITJAb4ViS6YHhZEYWDRcpbXndDaJaaPvIWLQSXrct97mJsiXzCIdcJM1q-q2a5EZgbTPjZBygT1rlRG6mFJxOUAbnGAtnFFmYF-hYwJLmFcLv-m2d3yP_awuBLb070L_O7Rz_O-faS0Aij3Z4N4WTKrF2sS3R1Vd2-0Xf7B8_5mx6hU-RoU_NUKEVBmC_j0Z_5qP3pENCX2kZD8M_NbzrWd38JFH-m_pIetmm6CtR2WZTewfECR5t0APfeGTIOydno7rKHWCtDetZe1StusrW_sI__mfMWw2f1v6f-Py6pqbj69rbyNcw5lmHtUWk0oEO795FcapqGC3JOEAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVMjNoQnQ5VU1FcTlpRzZMTzRGTUVFUTlTLXE5NzFEaTNZZ2F3Y3F6UlBhWEVFTzV0cm11VEJ6ZW1kUFEtVlJHajlZeHRtX2loNlBPblF3ekw3S04tSE80S3REeEJDbTItbmI3UGZ0OG1IbDZsb3ZQSXpLU05kRHBfSUdXWVR5OHpqaW5nTXN5Z0d2SVU5Y291RkNUVVhhSHhVUmkteVMwanZFWjVFUkVCRG83QRIEGgIIABreBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC6BQgAEAAYACAAKiIKCnNlcnZpY2Vub3cVjwWmQBoPaXY7cDtzZXJ2aWNlbm93KjIKA2luYxXKYKRAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRU1C_U-GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVjk6JQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVTIzaEJ0OVVNRXE5aUc2TE80Rk1FRVE5Uy1xOTcxRGkzWWdhd2NxelJQYVhFRU81dHJtdVRCemVtZFBRLVZSR2o5WXh0bV9paDZQT25Rd3pMN0tOLUhPNEt0RHhCQ20yLW5iN1BmdDhtSGw2bG92UEl6S1NOZERwX0lHV1lUeTh6amluZ01zeWdHdklVOWNvdUZDVFVYYUh4VVJpLXlTMGp2RVo1RVJFQkRvN0E6PjxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiA8Yj5TdG9jayBQcmljZTwvYj4gLSBQZXJwbGV4aXR5QrEBPGI-U2VydmljZU5vdyBzaGFyZXMgY2xvc2VkIHVwIDEuNTIlIGF0ICQxMTkuNDk8L2I-LCByZWJvdW5kaW5nIG1vZGVzdGx5IGFsb25nc2lkZSBhIGJyb2FkZXIgc29mdHdhcmUtc2VjdG9yIGJvdW5jZSBldmVuIGFzIHRoZSBOYXNkYXEgYW5kIFMmYW1wO1AgNTAwIHNsaWQgYW1pZCBzdXJnaW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsQBL2dvdG8_dXJsPUNBRVNoZ0VCNnpzd0ZVMjNoQnQ5VU1FcTlpRzZMTzRGTUVFUTlTLXE5NzFEaTNZZ2F3Y3F6UlBhWEVFTzV0cm11VEJ6ZW1kUFEtVlJHajlZeHRtX2loNlBPblF3ekw3S04tSE80S3REeEJDbTItbmI3UGZ0OG1IbDZsb3ZQSXpLU05kRHBfSUdXWVR5OHpqaW5nTXN5Z0d2SVU5Y291RkNUVVhhSHhVUmkteVMwanZFWjVFUkVCRG83QRIEGgIIABreBRIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkC6BQgAEAAYACAAKiIKCnNlcnZpY2Vub3cVjwWmQBoPaXY7cDtzZXJ2aWNlbm93KjIKA2luYxXKYKRAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRU1C_U-GgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVjk6JQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTLEAS9nb3RvP3VybD1DQUVTaGdFQjZ6c3dGVTIzaEJ0OVVNRXE5aUc2TE80Rk1FRVE5Uy1xOTcxRGkzWWdhd2NxelJQYVhFRU81dHJtdVRCemVtZFBRLVZSR2o5WXh0bV9paDZQT25Rd3pMN0tOLUhPNEt0RHhCQ20yLW5iN1BmdDhtSGw2bG92UEl6S1NOZERwX0lHV1lUeTh6amluZ01zeWdHdklVOWNvdUZDVFVYYUh4VVJpLXlTMGp2RVo1RVJFQkRvN0E6PjxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiA8Yj5TdG9jayBQcmljZTwvYj4gLSBQZXJwbGV4aXR5QrEBPGI-U2VydmljZU5vdyBzaGFyZXMgY2xvc2VkIHVwIDEuNTIlIGF0ICQxMTkuNDk8L2I-LCByZWJvdW5kaW5nIG1vZGVzdGx5IGFsb25nc2lkZSBhIGJyb2FkZXIgc29mdHdhcmUtc2VjdG9yIGJvdW5jZSBldmVuIGFzIHRoZSBOYXNkYXEgYW5kIFMmYW1wO1AgNTAwIHNsaWQgYW1pZCBzdXJnaW5nJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Perplexity",
+   "read_more_link": "https://www.perplexity.ai/finance/NOW?comparing=NOW,HUBS,WDAY,INTU,SHOP,CRM#:~:text=ServiceNow%20shares%20closed%20up%201.52%25,prices%20and%20Middle%20East%20tensions."
+  },
+  {
+   "position": 7,
+   "title": "NOW: ServiceNow Inc Latest Stock Price, Analysis, News ...",
+   "link": "https://stocktwits.com/symbol/NOW",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVnRs4sg_g8SNK8B1q91YjLYh32rMiLfBnYHnjCvwy2xIStaqZ6xvaqCfi_polhO_jxvKFaQPf7vEQRV8cEIT_FlBrnb1t3KD8x5JA_aNnWfnjfF70L7xd&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEIQAQ&uoh=1",
+   "displayed_link": "https://stocktwits.com › Symbol",
+   "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png",
+   "snippet": "$NOW ServiceNow price target raised to $160 from $120 at Stifel Stifel analyst Brad Reback raised the firm's price target on ServiceNow to $160 from $120 and ...",
+   "snippet_highlighted_words": [
+    "ServiceNow price target raised to $160"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "$NOW ServiceNow price target raised to $160 from $120 at Stifel Stifel analyst Brad Reback raised the firm's price target on ServiceNow to $160 from $120 and ...",
+     "source_info_link": "https://stocktwits.com/symbol/NOW",
+     "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEwAj_8Aj_8Ajf8Aj_8Aj_8Aif8ml_94t_9lr_____8Ahf_e7f_O5P-42P9KpP-SxP9b8HZ-AAAABnRSTlMATNP-_9RqhBHLAAAAyElEQVR4AX2TgRZAIAxF06aqFf7_Z-HlNJAL2K1XwJjBEn9A47A77jKYsS-tob4kwz-opBs36Xy44VUyxfTAqZScToILOIpKRiGHGB3FWFKatGdtXcQdyDHETCpLQsEtBzUVUlOjcxAJqZAtNeVZnEy1HTUpRyq0o_mca5OEOhMhpKVCouB2KU68pkJirrkE8aXkdKaqRGFZYM5UlbWqeFbJDjt0PwYTVgkwq-Jr3luWFIW5Iyfn-Cmp2Y8PzHIX-_tR938HO5gNwSkSFMFHocMAAAAASUVORK5CYII.png"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVm5SczRzZ19nOFNOSzhCMXE5MVlqTFloMzJyTWlMZkJuWUhuakN2d3kyeElTdGFxWjZ4dmFxQ2ZpX3BvbGhPX2p4dktGYVFQZjd2RVFSVjhjRUlUX0ZsQnJuYjF0M0tEOHg1SkFfYU5uV2ZuamZGNzBMN3hkEgQaAggAGrcFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQUIABAAGAAgACoiCgpzZXJ2aWNlbm93FSNMdEAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVuK5jQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVo0aWPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFTEpOkAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWblJzNHNnX2c4U05LOEIxcTkxWWpMWWgzMnJNaUxmQm5ZSG5qQ3Z3eTJ4SVN0YXFaNnh2YXFDZmlfcG9saE9fanh2S0ZhUVBmN3ZFUVJWOGNFSVRfRmxCcm5iMXQzS0Q4eDVKQV9hTm5XZm5qZkY3MEw3eGQ6T05PVzogPGI-U2VydmljZU5vdyBJbmM8L2I-IExhdGVzdCA8Yj5TdG9jayBQcmljZTwvYj4sIEFuYWx5c2lzIC4uLiAtIFN0b2NrdHdpdHNCsQEkTk9XIDxiPlNlcnZpY2VOb3cgcHJpY2UgdGFyZ2V0IHJhaXNlZCB0byAkMTYwPC9iPiBmcm9tICQxMjAgYXQgU3RpZmVsIFN0aWZlbCBhbmFseXN0IEJyYWQgUmViYWNrIHJhaXNlZCB0aGUgZmlybSYjMzk7cyBwcmljZSB0YXJnZXQgb24gU2VydmljZU5vdyB0byAkMTYwIGZyb20gJDEyMCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CooBL2dvdG8_dXJsPUNBRVNYQUhyT3pBVm5SczRzZ19nOFNOSzhCMXE5MVlqTFloMzJyTWlMZkJuWUhuakN2d3kyeElTdGFxWjZ4dmFxQ2ZpX3BvbGhPX2p4dktGYVFQZjd2RVFSVjhjRUlUX0ZsQnJuYjF0M0tEOHg1SkFfYU5uV2ZuamZGNzBMN3hkEgQaAggAGrcFEgIIABoAIgAqADIGCAISAmluOgBCBAgBEABKAFoAcgB6AIJAkQUIABAAGAAgACoiCgpzZXJ2aWNlbm93FSNMdEAaD2l2O3A7c2VydmljZW5vdyoyCgNpbmMVuK5jQBoEY29ycBoLY29ycG9yYXRpb24aDGluY29ycG9yYXRlZBoFc3RvY2sqSgoFc2hhcmUVo0aWPRoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgtzdG9jayBxdW90ZRoGdGlja2VyGgpzaGFyZXByaWNlKlEKBXByaWNlFTEpOkAaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UyigEvZ290bz91cmw9Q0FFU1hBSHJPekFWblJzNHNnX2c4U05LOEIxcTkxWWpMWWgzMnJNaUxmQm5ZSG5qQ3Z3eTJ4SVN0YXFaNnh2YXFDZmlfcG9saE9fanh2S0ZhUVBmN3ZFUVJWOGNFSVRfRmxCcm5iMXQzS0Q4eDVKQV9hTm5XZm5qZkY3MEw3eGQ6T05PVzogPGI-U2VydmljZU5vdyBJbmM8L2I-IExhdGVzdCA8Yj5TdG9jayBQcmljZTwvYj4sIEFuYWx5c2lzIC4uLiAtIFN0b2NrdHdpdHNCsQEkTk9XIDxiPlNlcnZpY2VOb3cgcHJpY2UgdGFyZ2V0IHJhaXNlZCB0byAkMTYwPC9iPiBmcm9tICQxMjAgYXQgU3RpZmVsIFN0aWZlbCBhbmFseXN0IEJyYWQgUmViYWNrIHJhaXNlZCB0aGUgZmlybSYjMzk7cyBwcmljZSB0YXJnZXQgb24gU2VydmljZU5vdyB0byAkMTYwIGZyb20gJDEyMCBhbmQmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Stocktwits",
+   "read_more_link": "https://stocktwits.com/symbol/NOW#:~:text=%24NOW%20ServiceNow%20price%20target%20raised,Buy%20rating%20on%20the%20shares."
+  },
+  {
+   "position": 8,
+   "title": "ServiceNow, Inc. Common Stock (NOW)",
+   "link": "https://www.sofi.com/invest/stock/NOW/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVBcBCz0mFXWI51_0MvkZIgvTuzfAwBLQFxNA1Jjl5jiHkjGbFu3_quCUxhJ7ezy4v_EdbqowIcppJX7lVs_W3jE9D1olajmTBzDwG9awENs8Setmn_CcwnbepF30&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQFnoECEMQAQ&uoh=1",
+   "displayed_link": "https://www.sofi.com › invest › stock › NOW",
+   "favicon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3qvCDUAc8VZI3_Kl7TPAWAL8l1YvOQ84AlEPZIkcbZE_NXYTYJ8SIoAD51ohp_q5eAfyeixmPqkhhzCVyInEy98js0RS1QVW9aBn4ff2LS5AC4RJy3ER8iNU-YmqYE6-jfk1jBqojoOhhJ_8NAhePbDcLD5Hr5Sd6hvVNwPKCN7ezXzNyDTd5l4crZIKR8ZOIixdDpR_vJ533Rf1IWwsQHWa84Pc0TyX57eyx46Yc9pQ2hdwfkSkuC3q41C_Pq3xWRt6pbm1Te0xABxQod_mO8fVvdC-Lr0Tw0Lx3nSPm34Xu13j69RFRnn-2qzubhAL2CBFCd8l2B3pBzaoddD_lcRQNQjXGRKTSADD3b1uXi82xhlplknEXv2xHuJjtQv6jcwoUvh0B1vKf_rAfn5yzzx4KAAAA.webp",
+   "snippet": "Daily high. $140.80 ; Daily low. $137.49 ; Price at open. $139.50 ; 52 Week High. $192.97 ; 52 Week Low. $81.24.",
+   "snippet_highlighted_words": [
+    "Daily high. $140.80"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Daily high. $140.80 ; Daily low. $137.49 ; Price at open. $139.50 ; 52 Week High. $192.97 ; 52 Week Low. $81.24.",
+     "source_info_link": "https://www.sofi.com/invest/stock/NOW/",
+     "icon": "https://serpapi.com/images/i/UklGRmABAABXRUJQVlA4IFQBAADQBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHA3qvCDUAc8VZI3_Kl7TPAWAL8l1YvOQ84AlEPZIkcbZE_NXYTYJ8SIoAD51ohp_q5eAfyeixmPqkhhzCVyInEy98js0RS1QVW9aBn4ff2LS5AC4RJy3ER8iNU-YmqYE6-jfk1jBqojoOhhJ_8NAhePbDcLD5Hr5Sd6hvVNwPKCN7ezXzNyDTd5l4crZIKR8ZOIixdDpR_vJ533Rf1IWwsQHWa84Pc0TyX57eyx46Yc9pQ2hdwfkSkuC3q41C_Pq3xWRt6pbm1Te0xABxQod_mO8fVvdC-Lr0Tw0Lx3nSPm34Xu13j69RFRnn-2qzubhAL2CBFCd8l2B3pBzaoddD_lcRQNQjXGRKTSADD3b1uXi82xhlplknEXv2xHuJjtQv6jcwoUvh0B1vKf_rAfn5yzzx4KAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkJjQkN6MG1GWFdJNTFfME12a1pJZ3ZUdXpmQXdCTFFGeE5BMUpqbDVqaUhrakdiRnUzX3F1Q1V4aEo3ZXp5NHZfRWRicW93SWNwcEpYN2xWc19XM2pFOUQxb2xham1UQnpEd0c5YXdFTnM4U2V0bW5fQ2N3bmJlcEYzMBIEGgIIABrxBBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDNBAgAEAAYACAAKiIKCnNlcnZpY2Vub3cV3VW7QBoPaXY7cDtzZXJ2aWNlbm93KjIKA2luYxU3vKZAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUAAAAAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVko-EQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZCY0JDejBtRlhXSTUxXzBNdmtaSWd2VHV6ZkF3QkxRRnhOQTFKamw1amlIa2pHYkZ1M19xdUNVeGhKN2V6eTR2X0VkYnFvd0ljcHBKWDdsVnNfVzNqRTlEMW9sYWptVEJ6RHdHOWF3RU5zOFNldG1uX0Njd25iZXBGMzA6PzxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiBDb21tb24gPGI-U3RvY2s8L2I-IChOT1cpIC0gU29GaUJ3PGI-RGFpbHkgaGlnaC4gJDE0MC44MDwvYj4gOyBEYWlseSBsb3cuICQxMzcuNDkgOyBQcmljZSBhdCBvcGVuLiAkMTM5LjUwIDsgNTIgV2VlayBIaWdoLiAkMTkyLjk3IDsgNTIgV2VlayBMb3cuICQ4MS4yNC4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpEBL2dvdG8_dXJsPUNBRVNZUUhyT3pBVkJjQkN6MG1GWFdJNTFfME12a1pJZ3ZUdXpmQXdCTFFGeE5BMUpqbDVqaUhrakdiRnUzX3F1Q1V4aEo3ZXp5NHZfRWRicW93SWNwcEpYN2xWc19XM2pFOUQxb2xham1UQnpEd0c5YXdFTnM4U2V0bW5fQ2N3bmJlcEYzMBIEGgIIABrxBBIAGgAiACoAMgYIAhICaW46AEIECAEQAEoAWgByAHoAgkDNBAgAEAAYACAAKiIKCnNlcnZpY2Vub3cV3VW7QBoPaXY7cDtzZXJ2aWNlbm93KjIKA2luYxU3vKZAGgRjb3JwGgtjb3Jwb3JhdGlvbhoMaW5jb3Jwb3JhdGVkGgVzdG9jaypKCgVzaGFyZRUAAAAAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaC3N0b2NrIHF1b3RlGgZ0aWNrZXIaCnNoYXJlcHJpY2UqUQoFcHJpY2UVko-EQBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoLc3RvY2sgcXVvdGUaBnRpY2tlchoKc2hhcmVwcmljZTKRAS9nb3RvP3VybD1DQUVTWVFIck96QVZCY0JDejBtRlhXSTUxXzBNdmtaSWd2VHV6ZkF3QkxRRnhOQTFKamw1amlIa2pHYkZ1M19xdUNVeGhKN2V6eTR2X0VkYnFvd0ljcHBKWDdsVnNfVzNqRTlEMW9sYWptVEJ6RHdHOWF3RU5zOFNldG1uX0Njd25iZXBGMzA6PzxiPlNlcnZpY2VOb3c8L2I-LCA8Yj5JbmM8L2I-LiBDb21tb24gPGI-U3RvY2s8L2I-IChOT1cpIC0gU29GaUJ3PGI-RGFpbHkgaGlnaC4gJDE0MC44MDwvYj4gOyBEYWlseSBsb3cuICQxMzcuNDkgOyBQcmljZSBhdCBvcGVuLiAkMTM5LjUwIDsgNTIgV2VlayBIaWdoLiAkMTkyLjk3IDsgNTIgV2VlayBMb3cuICQ4MS4yNC4iAhABSABYAGgA",
+   "source": "SoFi",
+   "read_more_link": "https://www.sofi.com/invest/stock/NOW/#:~:text=Daily%20high,%24140.80&text=Daily%20low,%24137.49&text=Price%20at%20open,%24139.50&text=52%20Week%20High,%24192.97&text=52%20Week%20Low,%2481.24"
+  }
+ ],
+ "top_stories": [
+  {
+   "title": "ServiceNow stock trades 0.20 percent above its Xetra close: weekly high reaches EUR 126.00",
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/servicenow-stock-trades-0-20-percent-above-its-xetra-close-weekly-high/70286702",
+   "source": "AD HOC NEWS",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAlUlEQVQ4jZ3Ruw7CMAxG4eMMhVdjq2QEA09YpCJej4tklhIpxHVS_jHq-YYagh2Ngxpj9E2KYoMbMEWINOL98vQEzrNwbwJO_J2LFEAQryIZ6IhdRDbGFSJ_xAWSDHYE5wyWgEEAljtPwNAZv4HLLFzzT9yA5Bh-ztiBFHEFNJAqdoEVxI3DqTGq8VDjpcapO3SQMP4AOehQwAGAml8AAAAASUVORK5CYII.png",
+   "date": "17 minutes ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f765d20e160dab5a0ff3/images/GH8g3jx8I08IjqUPqBZhDxT67zlJRQaXs9YpQBtQam8.jpeg"
+  },
+  {
+   "title": "Does AI Service Desk Rollout Change The Bull Case For ServiceNow Stock?",
+   "link": "https://simplywall.st/stocks/us/software/nyse-now/servicenow/news/does-ai-service-desk-rollout-change-the-bull-case-for-servic",
+   "source": "Simply Wall Street",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAllBMVEVHcEzCk0e6jUK2ij_gsVj7ymj4x2fAk0Xzw2O5jUHjtFrywWPuvmHjs1vTpVDNn02qZ0W2ij-mfDKyhj3_zmzcrVb9y2rjtFrqu1_xwWPltVzru1_BlEXVp1Oyhj6pfze_k0WsgDmqfzmqfzjWilbOoE7Vp1K2ij_drlbktVrru1_drVbHmUrHmkrywmOrfzjrvF_VplJdgF-gAAAAJHRSTlMAJz6KW_xQ_mJ5pLmNPc9UA5gJ2kNtlO3cg4PMwebSGuPoZKuKrewLAAAAkklEQVQYlWWPiQ7CIAyGy5gMdsk272se0YHs0Pd_OTmGMfMjDf3_NpQC_ENWE2PmE7oYDTIpJX1CabrNgPRWc9g_Da9NSn1rKKXcxVKu49DquRBKKaFRYql1lh8flrcO24LuX3Kjg641p-0Ydy9E5-IQGdwE1GgYINwE2Dkca6cCqBg7-X8ExWUob8O1_l2xHO8PNrsNeoZv7WkAAAAASUVORK5CYII.png",
+   "date": "8 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f765d20e160dab5a0ff3/images/WOQCTZYK7-BLINcIynXSV1AaZ_HXmtzSXRfho6std9s.jpeg"
+  },
+  {
+   "title": "Palantir Rises 4% as Barclays Starts Coverage at Overweight With $265 Target; ServiceNow Holds Steady, Salesforce Sits Tight",
+   "link": "https://247wallst.com/investing/2026/10/09/palantir-rises-4-as-barclays-starts-coverage-at-overweight-with-265-target-servicenow-holds-steady-salesforce-sits-tight/",
+   "source": "24/7 Wall St.",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAVFBMVEVlhTknLx1BVyQNDwyNjY1rjTwtPRhoiTplhTkAAABQaS1WcjA6Th5KYSxhgDdEQkWpqaltbW1FWyYXGxJceTNbW102SB8-UyLT09NSUlOjoqO5ubkhUqu4AAAAAXRSTlP9g-pWxwAAAK5JREFUGJVNkFluAzEMQ-VNNG3PjO3ZkvT-96yCtEX5JTwQpCSRfwLKlPynujjy-gEoFc1fNYhkAEa4JHek4iAo5IGbMxHQRWRl3T2oEwHgKlKvtJc5VatiZYLkVJho-c2ng22xFosIt5v-UnK7Barep9UsPBm3ZqHcBhlGiJE7myz98RqunzF2I_Ty7MOGr_4aJ7VkyHPnI_IModX3ziIbaQ79HJDfwLlgDfr7gm-VUgjpScbVkgAAAABJRU5ErkJggg.png",
+   "date": "16 hours ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f765d20e160dab5a0ff3/images/R_-Jmi-WOgqQipC0sGNVGQGGqq7vEt7zevQQcsP2KCY.jpeg"
+  },
+  {
+   "title": "ServiceNow Stock And Other Cloud Software Names With Real AI Revenue Exposure",
+   "link": "https://finance.yahoo.com/technology/ai/articles/servicenow-stock-other-cloud-software-081405392.html",
+   "source": "Yahoo Finance",
+   "source_logo": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAAOVBMVEX___8De2ZBm4vU6eUmjXvx-PY5l4ekz8hTpZa73NZmr6KQxbwMgGyJwbev1c_B39oYhnPf7uyLwrnJfIbXAAAAVklEQVQYlXWOSQ6AMAwD427QNtDC_x-Lxckg1bcZOVbMVtkA7CoKRRWO5KSFRtGFswOeRXQWml4kiihcyUULRwjhVDG6DrIAzEuF_5543_5MxDJvW-UBqkQBax0fh44AAAAASUVORK5CYII.png",
+   "date": "1 day ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f765d20e160dab5a0ff3/images/_7q0hmoo74Xavrw_g1kNMoHjQP2fGwJeC1kOrMss1zY.jpeg"
+  }
+ ],
+ "top_stories_link": "https://www.google.com/finance/portfolio/watchlist?sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQnIcKegQIPhAJ",
+ "top_stories_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price",
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Servicenow inc share price target",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Servicenow+inc+share+price+target&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhqEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Servicenow+inc+share+price+target"
+  },
+  {
+   "block_position": 1,
+   "query": "Why is ServiceNow stock falling",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Why+is+ServiceNow+stock+falling&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhuEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Why+is+ServiceNow+stock+falling"
+  },
+  {
+   "block_position": 1,
+   "query": "Servicenow inc share price prediction",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Servicenow+inc+share+price+prediction&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhtEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Servicenow+inc+share+price+prediction"
+  },
+  {
+   "block_position": 1,
+   "query": "ServiceNow share price india",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=ServiceNow+share+price+india&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhoEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+share+price+india"
+  },
+  {
+   "block_position": 1,
+   "query": "ServiceNow share price TradingView",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=ServiceNow+share+price+TradingView&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+share+price+TradingView"
+  },
+  {
+   "block_position": 1,
+   "query": "ServiceNow stock price target",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=ServiceNow+stock+price+target&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhrEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+stock+price+target"
+  },
+  {
+   "block_position": 1,
+   "query": "Servicenow inc share price future",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Servicenow+inc+share+price+future&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhsEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Servicenow+inc+share+price+future"
+  },
+  {
+   "block_position": 1,
+   "query": "Salesforce share price",
+   "link": "https://www.google.com/search?sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&q=Salesforce+share+price&sa=X&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ1QJ6BAhpEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Salesforce+share+price"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=10&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8NMDegQIWxAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=10&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAE",
+   "3": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=20&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAG",
+   "4": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=30&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAI",
+   "5": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=40&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAK",
+   "6": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=50&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAM",
+   "7": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=60&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAO",
+   "8": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=70&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAQ",
+   "9": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=80&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAS",
+   "10": "https://www.google.com/search?q=ServiceNow+Inc.+share+price&sca_esv=2507eaa3ff772ac2&hl=en&gl=in&sxsrf=APpeQntJDV5004UXO7YRGBSF-GoqGL5W6w:1791620966137&ei=ZvfJapj_B_-_kPIPnvHZ4AM&start=90&sa=N&sstk=AS6-VmLO98Q9a3b4mUscBY5DTvYmKdWZjempaPhBaxp4f2EhfPcMjd-QQtHaK2tITUe4LsdqDANaqSpw-lElR8NoSTm9hQSEmcFZDw&ved=2ahUKEwiYyoiahK-XAxX_H0QIHZ54FjwQ8tMDegQIWxAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=ServiceNow+Inc.+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:24"
+}

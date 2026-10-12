@@ -1,0 +1,55 @@
+{
+ "calls": [
+  {
+   "company": "JSW Infrastructure",
+   "symbol_guess": "JSWINFRA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "second company is JSW infrastructure",
+   "start_s": 186,
+   "line": "are 25 30% operating profit margin. The"
+  },
+  {
+   "company": "Gujarat Pipavav Port Ltd",
+   "symbol_guess": "GPPL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "there's another company called as Gujarat Pipav",
+   "start_s": 398,
+   "line": "view there's another company called as"
+  },
+  {
+   "company": "JSW Infrastructure Ltd",
+   "symbol_guess": "JSWINFRA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "my bet is on JSW infrastructure.",
+   "start_s": 485,
+   "line": "would find port operators you would find"
+  },
+  {
+   "company": "Blue Dart Express Ltd",
+   "symbol_guess": "BLUEDART",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "So the last company is blue dart.",
+   "start_s": 491,
+   "line": "is no buy or sell recommendation right."
+  }
+ ],
+ "rejected_unverified": 1,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,95 @@
+{
+ "calls": [
+  {
+   "company": "JSW Infrastructure Ltd",
+   "symbol_guess": "JSWINFRA",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "second company is JSW infrastructure",
+   "start_s": 186,
+   "line": "are 25 30% operating profit margin. The",
+   "evidence": [
+    {
+     "text": "invest",
+     "where": "transcript",
+     "start_s": 203
+    }
+   ],
+   "reason": "The speaker presents JSW Infrastructure as the second pick and says you could invest in it, indicating a buy recommendation."
+  },
+  {
+   "company": "Adani Ports and SEZ Ltd",
+   "symbol_guess": "ADANIPORTS",
+   "direction": "watch",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "initially thought that Adani ports is one company which you know is very strong",
+   "start_s": 195,
+   "line": "initially thought that Adani ports is",
+   "evidence": [
+    {
+     "text": "Adani ports",
+     "where": "transcript",
+     "start_s": 195
+    },
+    {
+     "text": "strong",
+     "where": "transcript",
+     "start_s": 199
+    }
+   ],
+   "reason": "Adani Ports is mentioned only for comparison with JSW Infrastructure and is not presented as a pick, so it is marked as watch."
+  },
+  {
+   "company": "Gujarat Pipavav Port Ltd",
+   "symbol_guess": "GPPL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "there's another company called as Gujarat Pipav",
+   "start_s": 398,
+   "line": "view there's another company called as",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The title suggests buy recommendations and the speaker introduces Gujarat Pipavav as a candidate stock."
+  },
+  {
+   "company": "Blue Dart Express Ltd",
+   "symbol_guess": "BLUEDART",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the last company is blue dart. I think blue dart is going to turn around",
+   "start_s": 492,
+   "line": "So the last company is blue dart. I",
+   "evidence": [
+    {
+     "text": "the last company is blue dart",
+     "where": "transcript",
+     "start_s": 492
+    },
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video is presented as a list of buy picks and the speaker presents Blue Dart as the final stock to consider."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

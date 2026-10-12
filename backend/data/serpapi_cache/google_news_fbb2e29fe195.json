@@ -1,0 +1,1508 @@
+{
+ "search_metadata": {
+  "id": "6ac9454403b136a05acc6799",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/BiaScvucR6tKbbvTZAGWv6gCW4aIy5CSCSyvW2eMY40/6ac9454403b136a05acc6799.json",
+  "markdown_endpoint": "https://serpapi.com/searches/BiaScvucR6tKbbvTZAGWv6gCW4aIy5CSCSyvW2eMY40/6ac9454403b136a05acc6799.md",
+  "created_at": "2026-10-09 19:49:24 UTC",
+  "processed_at": "2026-10-09 19:49:24 UTC",
+  "google_news_url": "https://news.google.com/search?q=Maruti+Suzuki+India+share&hl=en&gl=IN",
+  "raw_html_file": "https://serpapi.com/searches/BiaScvucR6tKbbvTZAGWv6gCW4aIy5CSCSyvW2eMY40/6ac9454403b136a05acc6799.html",
+  "total_time_taken": 2.71
+ },
+ "search_parameters": {
+  "engine": "google_news",
+  "gl": "in",
+  "hl": "en",
+  "q": "Maruti Suzuki India share"
+ },
+ "news_results": [
+  {
+   "position": 1,
+   "title": "Maruti Suzuki, Tata Motors PV, M&M shares fall up to 32% in 2026 despite record sales and GST cut; Here’s why",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Sreenivas Ajankar"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-tata-motors-pv-m-and-m-shares-fall-up-to-32-in-2026-despite-record-sales-and-gst-cut-here-s-why/article-201562/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/mandmtatamotorssharetoday.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdTRTlJZDA0MWFtaHdlVXRVVFJDZkF4ampCU2dLTWdrQm9JcG55S1NoMEFF",
+   "date": "10/09/2026, 03:19 AM, +0000 UTC",
+   "iso_date": "2026-10-09T03:19:43Z"
+  },
+  {
+   "position": 2,
+   "title": "Maruti Suzuki India Share Price update on Rs 11,455 rise",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-ltd-share-price-rise-today-2026",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/10/Maruti_Suzuki_India_MARUTI_Share_Price_rises_207_as_market_cap_stays_above_Rs_361_lakh_crore_bullish.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW1jbDgyVHpNM01XSm9SMVpaVFJDUUF4ai1CU2dLTWdZQk1JakRtZ2s",
+   "date": "10/09/2026, 05:58 AM, +0000 UTC",
+   "iso_date": "2026-10-09T05:58:00Z"
+  },
+  {
+   "position": 3,
+   "title": "India Car Sales September 2026: Dispatches Rise 21% to 4.58 Lakh Units; Maruti Suzuki Leads, Tata and Mahindra Follow",
+   "source": {
+    "name": "Autopunditz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autopunditz.com/post/india-car-sales-september-2026-oem-wise-dispatches",
+   "thumbnail": "https://static.wixstatic.com/media/1da610_f5abe70aa851484cbabade6a799f360f~mv2.png/v1/fill/w_980,h_1470,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_f5abe70aa851484cbabade6a799f360f~mv2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNTalZCUjFoUlUzYzBSM2xHVFJDbUJSakVBeWdLTWdZQkFJakdBUXM",
+   "date": "10/08/2026, 10:00 AM, +0000 UTC",
+   "iso_date": "2026-10-08T10:00:06Z"
+  },
+  {
+   "position": 4,
+   "title": "Maruti Suzuki Q2 Results: Date, Time, Dividend News, Earnings Call Schedule And More",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prajwal Jayaraj"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/maruti-suzuki-q2-results-date-time-dividend-news-earnings-call-schedule-and-more-12157690",
+   "thumbnail": "https://c.ndtvimg.com/proen/2025-03-26/yhfjmn2p/Auto-Expo-2025-Maruti-Suzuki-Vitara?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhVazFqU0dabE1YTkhjMFF3VFJEZ0F4aUFCU2dLTWdZRk1JNU5MUVU",
+   "date": "10/08/2026, 02:36 PM, +0000 UTC",
+   "iso_date": "2026-10-08T14:36:21Z"
+  },
+  {
+   "position": 5,
+   "title": "Citi gives Maruti Suzuki stock an INR 16,500 target",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/citi-gives-maruti-suzuki-stock-an-inr-16-500-target/70264550",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405010_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1RVkkxTlVOeE9EaDJaVTF4VFJDZkF4ampCU2dLTWdhQkFJck11UVE",
+   "date": "10/08/2026, 09:07 AM, +0000 UTC",
+   "iso_date": "2026-10-08T09:07:50Z"
+  },
+  {
+   "position": 6,
+   "title": "Maruti Suzuki India Shares Decline 2.09% Amidst Bearish Sentiment",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/maruti-suzuki-india-shares-decline-2-09-amidst-bearish-sentiment-alpha-article-13978386.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250218095653_volatile_market.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTNTM1JyV2sxVmR6TldlVGx2VFJDZkF4ampCU2dLTWdhTmNaUUlzUWM",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 7,
+   "title": "Maruti Suzuki India stock jumps 4%, top Nifty gainer today as Jefferies upgrades to 'Buy'; check target price",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:e3bf56ae9094b:0-maruti-suzuki-india-stock-jumps-4-top-nifty-gainer-today-as-jefferies-upgrades-to-buy-check-target-price/",
+   "date": "06/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-29T07:00:00Z"
+  },
+  {
+   "position": 8,
+   "title": "Maruti Suzuki Share Slips 2.45% as Sell-Side Pressure Weighs; Automaker Onboards Five Start-ups",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/maruti-suzuki-share-slips-2-45percent-as-sell-side-pressure-weighs-automaker-onboards-five-start-ups",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/maruti_suzuki_slips_2_45_as_sell_side_pressure_weigh.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVBWbWQwTTNod1QzazNNMFZrVFJDZkF4ampCU2dLTWdZQlFJeURvZ1U",
+   "date": "06/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-29T07:00:00Z"
+  },
+  {
+   "position": 9,
+   "title": "Maruti Suzuki India Ltd Sees High-Value Trading Amid Bearish Momentum",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stocks-in-action/maruti-suzuki-india-ltd-sees-high-value-trading-amid-bearish-momentum-4214785",
+   "thumbnail": "https://i.marketsmojo.com/newsimg/2026/10/MarutiSuzukiInd_most_active_equities_by_value_4214785.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxhblZwZGkwMWFIWkxRMHhTVFJDUkF4ajlCU2dLTWdhQk1wUXpuUWM",
+   "date": "10/05/2026, 03:02 PM, +0000 UTC",
+   "iso_date": "2026-10-05T15:02:35Z"
+  },
+  {
+   "position": 10,
+   "title": "Should You Buy Maruti Suzuki India Limited (NSE:MARUTI) For Its Upcoming Dividend?",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/automobiles/nse-maruti/maruti-suzuki-india-shares/news/should-you-buy-maruti-suzuki-india-limited-nsemaruti-for-its",
+   "thumbnail": "https://images.simplywall.st/asset/industry/4021000-choice1-main-header/1585186682108?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVFPRmwzY21SeFZEZzNiMjVSVFJDZkF4ampCU2dLTWdZQklJZ3JuUVk",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 11,
+   "title": "Maruti Suzuki, Reliance Industries, Bharti Airtel and others: 17 NIFTY50 stocks that are near their 52-week lows; check full list",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-reliance-industries-bharti-airtel-and-others-17-nifty-50-stocks-that-are-near-their-52-week-lows-check-full-list/article-201604/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/52-week-low-oct-9.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUthMWRRVm1neVFqRmtlR2RVVFJDZkF4ampCU2dLTWdPQmNnZw",
+   "date": "10/09/2026, 10:13 AM, +0000 UTC",
+   "iso_date": "2026-10-09T10:13:18Z"
+  },
+  {
+   "position": 12,
+   "title": "Car and Commercial Vehicle Stocks: Maruti Suzuki, Hyundai Motor I",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/car-and-commercial-vehicle-stocks-strong-roadmap",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/10/3-car-and-commercial-vehicle-stocks-with-a-strong-future-roadmap-maruti-suzuki.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthMmRZTkVwdFNsSnpUSFkwVFJDUUF4ai1CU2dLTWdZQklJcWpHZ28",
+   "date": "10/06/2026, 06:15 AM, +0000 UTC",
+   "iso_date": "2026-10-06T06:15:00Z"
+  },
+  {
+   "position": 13,
+   "title": "Maruti Suzuki stock falls 1.69 percent as sales rise 24.4 percent",
+   "source": {
+    "name": "AD HOC NEWS",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.ad-hoc-news.de/boerse/news/corporate-news/maruti-suzuki-stock-falls-1-69-percent-as-sales-rise-24-4-percent/70253146",
+   "thumbnail": "https://mdb.ad-hoc-news.de/bild/bild-2405005_1200_0.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iNkNnNUlMVE5SUTFWVVEzUXlVVGxSVFJDZkF4ampCU2dLTWc2RkFvaUdIU1ZWYm1tb1JhWlhNZw",
+   "date": "10/07/2026, 07:24 AM, +0000 UTC",
+   "iso_date": "2026-10-07T07:24:28Z"
+  },
+  {
+   "position": 14,
+   "title": "M&M, Maruti Suzuki among 6 Sensex stocks that hit 52-week lows and slipped up to 12% in a month",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/mampm-maruti-suzuki-among-6-sensex-stocks-that-hit-52-week-lows-and-slipped-up-to-12-in-a-month/fresh-lows/slideshow/134790253.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134790253,width-480,height-360,imgsize-7800,resizemode-75/fresh-lows.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUlTVlExYzBOcGQwOUVXREJ6VFJEbUFoamdBeWdLTWdZZDA0ckxTUVE",
+   "date": "10/08/2026, 12:19 PM, +0000 UTC",
+   "iso_date": "2026-10-08T12:19:37Z"
+  },
+  {
+   "position": 15,
+   "title": "Maruti Suzuki stock falls 2% on Q1 margin miss but brokerages bullish on recovery ahead; check target...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/maruti-suzuki-stock-falls-2-on-q1-margin-miss-but-brokerages-bullish-on-recovery-ahead-check-target-prices-13991654.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/12/20251222172601_Maruti-Suzuki-e-Vitara-Review-14.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHpWVlJTUVdwTU5XeHNWM0EyVFJDZkF4ampCU2dLTWdrQlVZNEZLZWVoeUFJ",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 16,
+   "title": "Maruti Suzuki India Share Price update on 52-week low move",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-ltd-share-price-52-week-low-2026-09-29",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/maruti-suzuki-india-share-price-slips-to-fresh-52-week-low-at-rs-11-880-here-s.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHdNelJpTW1Zd1dFVkhWV3N4VFJDUUF4ai1CU2dLTWdhQktaakRIZ2s",
+   "date": "09/29/2026, 04:54 AM, +0000 UTC",
+   "iso_date": "2026-09-29T04:54:00Z"
+  },
+  {
+   "position": 17,
+   "title": "Maruti Suzuki's FII trims stake to 12.8% in last two years; shares slip 19% YTD. Check what the CEO said on Monday",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ahana Chatterjee"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-s-fii-trims-stake-to-12-8-in-last-two-years-shares-slip-19-ytd-check-what-the-ceo-said-on-monday/article-199536/",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 18,
+   "title": "Maruti Suzuki India Share Price Today: Price and Sector",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-ltd-share-price-52-week-low-2026-09-25",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/maruti-suzuki-india-stock-sinks-to-new-52-week-low-at-rs-11-931-key-reasons.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVhla00zV0hGSlNGSnVORVpHVFJDUUF4ai1CU2dLTWdZQlFaYmltZ2s",
+   "date": "09/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-25T07:00:00Z"
+  },
+  {
+   "position": 19,
+   "title": "Maruti Suzuki India Ltd is Rated Sell",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/maruti-suzuki-india-ltd-is-rated-sell-4214525",
+   "date": "10/05/2026, 05:11 AM, +0000 UTC",
+   "iso_date": "2026-10-05T05:11:09Z"
+  },
+  {
+   "position": 20,
+   "title": "Maruti Suzuki Share Price: Nomura Flags Further Price Hikes Needed",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/maruti-suzuki-share-price-nomura-price-hike-margins",
+   "thumbnail": "https://i0.wp.com/univest.in/blogs-2/wp-content/uploads/2026/08/maruti-suzuki-share-price-nomura-price-hike-margins.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdaR2cyZVZKT01YbHRSRE5DVFJDUUF4ai1CU2dLTWdZQk1JN0RIZ2s",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 21,
+   "title": "Maruti Suzuki shares fall 2% despite robust July sales; here's what weighed on the stock",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "SWATI VERMA"
+    ]
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-shares-fall-2-despite-healthy-july-dispatches-what-investors-are-worried-about/article-197976/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/maruti-shares-aug-3.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVUbFZoUmpaRWNFNXhXVkpxVFJDZkF4ampCU2dLTWdZQm9KS3hPQVk",
+   "date": "08/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-02T07:00:00Z"
+  },
+  {
+   "position": 22,
+   "title": "Maruti Suzuki shares down 2% after Q1 show; analysts mixed amid margin woes",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Saloni Goel"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/maruti-suzuki-share-price-down-2-after-q1-show-analysts-mixed-amid-margin-woes-126080300205_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/28/full/1769624966-1047.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpTbkZMY1hKR2VqQTNlVXBmVFJDZEJSaktBeWdLTWdZVm9Jb0p5Z1E",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 23,
+   "title": "Maruti Suzuki India Share Price: fresh 52-week low analysis",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-ltd-share-price-52-week-low-2026-09-18",
+   "thumbnail": "https://univest.in/_next/image?url=https%3A%2F%2Funivest.in%2Fblogs-2%2Fwp-content%2Fuploads%2F2026%2F09%2FMaruti_Suzuki_India_Share_Price_Slips_to_Fresh_52_Week_Low_at_Rs_12145_Heres_Why_bearish.png&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJTek5DTm5GdGVuSk9UMFpLVFJDUUF4ai1CU2dLTWdZQktvYmltZ2s",
+   "date": "09/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-18T07:00:00Z"
+  },
+  {
+   "position": 24,
+   "title": "Why Maruti Suzuki India shares jumped 5% in afternoon trade",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/why-maruti-suzuki-india-shares-jumped-5-in-afternoon-trade-539183-2026-06-25",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a3ced5561047-maruti-has-launched-indias-first-flex-fuel-passenger-vehicle-in-the-wagon-r-variant--a-move-that-ha-255647420-16x9.png?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNU9jMjlJUTNreExWOTJZbXBUVFJDZkF4ampCU2dLTWdrSk1JYXpIS1daRUFF",
+   "date": "06/25/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-25T07:00:00Z"
+  },
+  {
+   "position": 25,
+   "title": "Will Maruti reclaim ₹15,000-mark in next 3 months? Analyst flags key hurdle",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/will-maruti-share-price-reclaim-15-000-mark-in-next-3-months-tech-analyst-flags-key-hurdle-for-the-stock-126043000176_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-06/10/full/1749576845-5903.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhNM3B4VVdkT2NtbFNWekpSVFJEeEF4anBCQ2dLTWdrQmM0em9OZWRqVWdF",
+   "date": "04/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-30T07:00:00Z"
+  },
+  {
+   "position": 26,
+   "title": "Maruti Suzuki India vs Hyundai Motor India: Share Price, PE and ROE Compared",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/maruti-suzuki-india-vs-hyundai-motor-india",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/08/maruti-suzuki-india-vs-hyundai-motor-india.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUhlbmMzTTJOalgwZ3daalZ0VFJDUUF4ai1CU2dLTWdZQlFJN0RHZ28",
+   "date": "08/13/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-13T07:00:00Z"
+  },
+  {
+   "position": 27,
+   "title": "Why Is Maruti Suzuki Share Price Falling Over 4% After August Sales Data?",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ankit Gohel"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/why-is-maruti-suzuki-share-price-falling-over-4-after-august-sales-data-11986071",
+   "thumbnail": "https://c.ndtvimg.com/2026-05/00eae6pg_s_625x300_21_May_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNWFUVVZNWVVOWk5GOWFMVEZFVFJDZkF4ampCU2dLTWdNQlVRUQ",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 28,
+   "title": "Maruti Suzuki India Ltd. Shareholding Pattern – Promoters, FIIs & DIIs",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43238/maruti-suzuki-india-ltd/shareholding/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/maruti.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSMlEwTkMxM1dGUmpkV2RYVFJESUFSaklBU2dCTWdZSm9aVEd0QVk",
+   "date": "08/28/2026, 03:35 PM, +0000 UTC",
+   "iso_date": "2026-08-28T15:35:03Z"
+  },
+  {
+   "position": 29,
+   "title": "Maruti Suzuki India Ltd. (MARUTI) Share Price Hits Fresh 52-Week Low",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-ltd-share-price-52-week-low-today-2026",
+   "thumbnail": "https://univest.in/_next/image?url=https%3A%2F%2Funivest.in%2Fblogs-2%2Fwp-content%2Fuploads%2F2026%2F09%2FMaruti_Suzuki_India_Ltd_MARUTI_Share_Price_Hits_Fresh_52_Week_Low_bearish.png&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZNWEZzYVdaV05GUlZVMTgzVFJDUUF4ai1CU2dLTWdhQktaYkNtZ2s",
+   "date": "09/16/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-16T07:00:00Z"
+  },
+  {
+   "position": 30,
+   "title": "Maruti Suzuki India shares jump 5% today; here's why",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Prashun Talukdar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/markets/stocks/story/maruti-suzuki-india-shares-jump-5-today-heres-why-539931-2026-06-30",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202606/6a43620576fe6-maruti-has-launched-indias-first-flex-fuel-passenger-vehicle-in-the-wagon-r-variant-302816199-16x9.jpeg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU1hMm8xTVhnMmQycHNUa2RtVFJDZkF4ampCU2dLTWdZWlZJeXJLUVU",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 31,
+   "title": "Maruti Suzuki shares decline over 2% after Q1. Morgan Stanley, Motilal Oswal decode the road ahead",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/maruti-suzuki-shares-decline-over-2-after-q1-morgan-stanley-motilal-oswal-decode-the-road-ahead/articleshow/132818801.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132818936,width-1200,height-900,resizemode-4,imgsize-2105268/maruti-suzuki-shares-decline-over-2-after-q1-morgan-stanley-motilal-oswal-decode-the-road-ahead.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUVURlJYU204d1NVUlNWbUpxVFJEZ0F4aUFCU2dLTWdZQk1ZeVRtQWs",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 32,
+   "title": "Maruti Suzuki stock jumps over 5% after Q4 results, pulls Nifty Auto index up; brokerages see mixed...",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shaleen Agrawal"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/maruti-suzuki-stock-jumps-over-4-today-after-q4-results-brokerages-see-mixed-outlook-13902853.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/03/20250326142043_maruti-suzuki.png?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNWZPVXBtT1hOeFExSXRNSE5UVFJDZkF4ampCU2dLTWdzQkVLTGtGR3NkaWpycTJB",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 33,
+   "title": "Maruti Suzuki shares deliver Rs 1.28 lakh crore shock from January peak. Is the worst behind?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/maruti-suzuki-shares-deliver-rs-1-28-lakh-crore-shock-from-january-peak-is-the-worst-behind/articleshow/130816552.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130816543,width-1200,height-900,resizemode-4,imgsize-42722/maruti-suzuki-shares-deliver-rs-1-28-lakh-crore-shock-from-january-peak-is-the-worst-behind.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVXRkZTVnkxUmFXWlNkRUZHVFJEZ0F4aUFCU2dLTWdZQmdKYUNNQWc",
+   "date": "05/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-05T07:00:00Z"
+  },
+  {
+   "position": 34,
+   "title": "India's Maruti Suzuki adds $1.24 billion in market value as small cars get popular",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kashish Tandon"
+    ]
+   },
+   "link": "https://www.reuters.com/world/india/maruti-suzuki-shares-jump-demand-outlook-lifts-investor-sentiment-2026-04-29/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/EPTBBNIXN5PEJNLXXZU33ALZ74.jpg?auth=04b53cb4dee3eadf1445d2b2803cf28a708ff62da26828c1a79c92e74fb28090&width=960&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW5lWFpDTUU5WmJFUkdNbkJuVFJDMUFSaVhBaWdCTWdrRk1vcmt0Q1JiYVFJ",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 35,
+   "title": "Maruti Suzuki September Sales: UV volumes jump 62%, But stock falls 5%",
+   "source": {
+    "name": "Zee Business",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.zeebiz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.zeebiz.com/automobile/news-maruti-suzuki-september-sales-uv-volumes-jump-62-but-stock-falls-5-403210",
+   "thumbnail": "https://cdn.zeebiz.com/sites/default/files/2026/10/01/414974-maruti-suzuki-1.jpg?im=FitAndFill=(448,252)&format=webp&quality=medium",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBlVTgyVVhsdFRuSldhbU4wVFJEOEFSakFBeWdLTWdZQk1JYUtIUWs",
+   "date": "10/01/2026, 10:21 AM, +0000 UTC",
+   "iso_date": "2026-10-01T10:21:25Z"
+  },
+  {
+   "position": 36,
+   "title": "Maruti Suzuki Stock Faces A Hard Test As India Earnings Momentum Shifts",
+   "source": {
+    "name": "Simply Wall Street",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://simplywall.st/stocks/in/diversified-financials/nse-aadharhfc/aadhar-housing-finance-shares/news/maruti-suzuki-stock-faces-a-hard-test-as-india-earnings-mome",
+   "thumbnail": "https://images.simplywall.st/asset/industry/7021000-choice1-main-header/1585186662944?w=1600&h=900&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUJkemN5VnkxbFVYWTFSM05XVFJDZkF4ampCU2dLTWdZQkVKaUVqZ28",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 37,
+   "title": "Maruti Suzuki shares jump 5% after Jefferies upgrades rating to Buy. Here's the latest target price",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/maruti-suzuki-shares-jump-5-after-jefferies-upgrades-rating-to-buy-heres-the-latest-target-price/articleshow/132086615.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132086591,width-1200,height-900,resizemode-4,imgsize-100705/maruti-suzuki-shares-jump-5-after-jefferies-upgrades-rating-to-buy-heres-the-latest-target-price.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNHhZMkoxZWxBM1dUWTVWWFpDVFJEZ0F4aUFCU2dLTWdrRkFJTEtEQ3hydGdB",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 38,
+   "title": "Why Is Maruti Suzuki Share Price Falling? 2026",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-is-maruti-suzuki-share-price-falling",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/09112821/MARUTI_falling.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFUbFJhWVVWSlJVaHhkMGxHVFJDUUF4ai1CU2dLTWdZQlFKN2huZ2s",
+   "date": "04/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-09T07:00:00Z"
+  },
+  {
+   "position": 39,
+   "title": "Maruti Suzuki shares get an upgrade, price target raise from Jefferies on two key factors",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/maruti-suzuki-shares-get-an-upgrade-price-target-raise-from-jefferies-on-two-key-factors-19934579.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/04/maruti-ertiga-2-2026-04-9389019c3223804f3fc2479c8a4bb975.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNVdaRzlvYlZBMVFVNDJZVGh3VFJDZkF4ampCU2dLTWdrQjBJb21UcVUxVWdF",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 40,
+   "title": "Maruti Suzuki India Share Price Fall: Price and Valuation",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/why-maruti-suzuki-india-share-price-fall-today-2026",
+   "thumbnail": "https://univest.in/_next/image?url=https%3A%2F%2Funivest.in%2Fblogs-2%2Fwp-content%2Fuploads%2F2026%2F09%2FMaruti_Suzuki_India_MARUTI_Share_Price_Falls_348_Today_Amid_Large_Cap_Auto_Weakness_bearish.png&w=3840&q=75",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUthMmxQUmtFek0zVnRiMlYzVFJDUUF4ai1CU2dLTWdhQktaYkRtZ2s",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 41,
+   "title": "Insight: Suzuki's no-frills cars once ruled India. Then buyers demanded frills.",
+   "source": {
+    "name": "Reuters",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Aditi Shah"
+    ]
+   },
+   "link": "https://www.reuters.com/business/autos-transportation/suzukis-no-frills-cars-once-ruled-india-then-buyers-demanded-frills-2026-07-20/",
+   "thumbnail": "https://www.reuters.com/resizer/v2/FVWSO5ZKIRMJBHLEHNAXS34RZE.jpg?auth=769c3288d4fce936f56d106415cfdb3ea4821c72441dc777e56d30d04bc3b5d0&width=1080&quality=80",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVlbkY0U1ZkNmExTlNVVXMyVFJERUF4aW1CU2dLTWdZQllvN0l0UVU",
+   "date": "07/22/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-22T07:00:00Z"
+  },
+  {
+   "position": 42,
+   "title": "Maruti Shares Fall as Q1 Margins Slide Despite Strong Sales",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/maruti-shares-fall-q1-margins-slide",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/08/maruti_suzuki_shares_fall_over_2_as_margins_show_sequential_decline_on_input_costs_.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXlZbWhrV0dnMFkybFZVbTEyVFJDZkF4ampCU2dLTWdZQmNJN0RLZ2M",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 43,
+   "title": "Maruti Suzuki India CCI hearing adjourned to November 2, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/maruti-suzuki-india-cci-hearing-adjourned-november-2-2026/52144121",
+   "thumbnail": "https://news-images.dhan.co/maruti-suzuki-india-cci-hearing-adjourned-november-2-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUROVlZrTFVzeFRrVkJObkZNVFJDaUF4amRCU2dLTWdNQlVBZw",
+   "date": "09/28/2026, 12:30 PM, +0000 UTC",
+   "iso_date": "2026-09-28T12:30:54Z"
+  },
+  {
+   "position": 44,
+   "title": "Maruti Suzuki India Share Price Target 2026: Analyst Forecast, Bull and Bear Case",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://univest.in/blogs/maruti-suzuki-india-share-price-target-2026",
+   "thumbnail": "https://univest-blog.storage.googleapis.com/blogs/wp-content/uploads/2026/04/08162206/Maruti-Suzuki.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNiMlpQUVZsaVUwVmtOMDlwVFJDUUF4ai1CU2dLTWdZQkU1aWtrZ3M",
+   "date": "04/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-08T07:00:00Z"
+  },
+  {
+   "position": 45,
+   "title": "Maruti Suzuki India sells 2.19 lakh units in August; FY27 cumulative sales up nearly 29% YoY",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/maruti-suzuki-india-sells-2-19-lakh-units-in-august-fy27-cumulative-sales-up-nearly-29-yoy-126090100495_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 46,
+   "title": "Dividend alert! Last day to buy Maruti Suzuki, Grasim and 36 other stocks for payouts. Do you own any?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Debaroti Adhikary"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-maruti-suzuki-grasim-among-38-stocks-for-dividend-payouts-how-many-do-you-own/articleshow/132979612.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-132979660,width-1200,height-900,resizemode-4,imgsize-93794/dividend-alert-last-day-to-buy-maruti-suzuki-grasim-among-38-stocks-for-dividend-payouts-how-many-do-you-ownbr.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVdVM05rWm1sWlMyWnVjMUpLVFJEZ0F4aUFCU2dLTWdZTlE0cHdRUVU",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 47,
+   "title": "Maruti Suzuki schedules investor meet on September 24, 2026",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/maruti-suzuki-schedules-investor-meet-september-24-2026/51527971",
+   "thumbnail": "https://news-images.dhan.co/maruti-suzuki-schedules-investor-meet-september-24-2026.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVXa1ZsZGtnM1JYaHZjSFZaVFJDaUF4amRCU2dLTWdhQk1JaHNvUU0",
+   "date": "09/24/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-24T07:00:00Z"
+  },
+  {
+   "position": 48,
+   "title": "Maruti Suzuki India Ltd. Stock News",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43238/maruti-suzuki-india-ltd/news/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/maruti.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSMlEwTkMxM1dGUmpkV2RYVFJESUFSaklBU2dCTWdZSm9aVEd0QVk",
+   "date": "08/30/2026, 06:26 PM, +0000 UTC",
+   "iso_date": "2026-08-30T18:26:01Z"
+  },
+  {
+   "position": 49,
+   "title": "Maruti Suzuki eyes 50% market share with all-segment strategy",
+   "source": {
+    "name": "Deccan Herald",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.deccanherald.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kiran Bagade"
+    ]
+   },
+   "link": "https://www.deccanherald.com/business/companies/maruti-suzuki-eyes-50-market-share-with-all-segment-strategy-4098057",
+   "thumbnail": "https://media.assettype.com/deccanherald%2F2026-08-03%2Fuew330ql%2Ffile87012lwo5pf134jjpyl9.jpeg?w=undefined&auto=format%2Ccompress&fit=max",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXNNamxPYlY5NWMzWk9ZV0pxVFJDZkF4ampCU2dLTWdheFZZQ3VKUWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 50,
+   "title": "Maruti Suzuki shares trade lower ahead of Q4 earnings; key things investors should know",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-shares-trade-lower-ahead-of-q4-earnings-key-things-investors-should-know/article-192836/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/maruti-suzuki-service-centre.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNW5UVWRZUWpBdFJ6bE9OblJ1VFJEZ0F4aUFCU2dLTWdhbFZJak5wUVU",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 51,
+   "title": "Maruti Suzuki India slides Tuesday, underperforms competitors",
+   "source": {
+    "name": "MarketWatch",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketwatch.com/story/maruti-suzuki-india-slides-tuesday-underperforms-competitors-7cb84cb1-b16279322579",
+   "date": "08/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-11T07:00:00Z"
+  },
+  {
+   "position": 52,
+   "title": "Maruti Suzuki best placed to gain from alternative-fuel shift: Analysts",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhinav Ranjan"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/maruti-suzuki-best-placed-to-gain-from-alternative-fuel-shift-analysts-126081700060_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/full/1782663267-2144.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdWVlZPYUhGNWJGOWthRWwyVFJERUF4aW5CU2dLTWdNUmdRdw",
+   "date": "08/17/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-17T07:00:00Z"
+  },
+  {
+   "position": 53,
+   "title": "Maruti emerges top EV exporter in Q1, claims 97% share in total EV shipments from India",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Lalatendu Mishra"
+    ]
+   },
+   "link": "https://www.thehindu.com/business/Industry/maruti-emerges-top-ev-exporter-in-q1-claims-97-share-in-total-ev-shipments-from-india/article71281053.ece",
+   "thumbnail": "https://th-i.thgim.com/public/sport/cricket/exs5t/article71281264.ece/alternates/LANDSCAPE_1200/vbk-Maruti-exports-EV-shipments%20from%20India-SA.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVJiMlpRV21Vd2N6UXRaVU5MVFJDZkF4ampCU2dLTWdZSlFZWlBRUVE",
+   "date": "07/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-29T07:00:00Z"
+  },
+  {
+   "position": 54,
+   "title": "Maruti Suzuki India Total Sales Rise 24% to 2.36 Lakh Units in September",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/maruti-suzuki-india-total-sales-rise-24-pc-to-2-36-lakh-units-in-september",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/10/maruti_suzuki_india_total_sales_rise_24_pc_to_2_36_lakh_units_in_september.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUpSVkJhY2xReVdVbE5YMngxVFJDZkF4ampCU2dLTWdZQlVJcURJZ1k",
+   "date": "10/01/2026, 09:06 AM, +0000 UTC",
+   "iso_date": "2026-10-01T09:06:59Z"
+  },
+  {
+   "position": 55,
+   "title": "Maruti Suzuki Shares Rise 4% as Jefferies Shows Automaker a Big Thumbs-Up",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/maruti-suzuki-share-price-jumps-4percent-after-jefferies-upgrade",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/06/frame_1196.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDRTQzFzUTJseVVXZE9SQzFrVFJDZkF4ampCU2dLTWdZQmNZWURLd2M",
+   "date": "06/30/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-30T07:00:00Z"
+  },
+  {
+   "position": 56,
+   "title": "Maruti Suzuki shares jump 4% after Q4 results. What Jefferies, Goldman Sachs and HSBC recommend now",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/maruti-suzuki-shares-jump-4-after-q4-results-what-jefferies-goldman-sachs-and-hsbc-recommend-now/articleshow/130595485.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-130595476,width-1200,height-900,resizemode-4,imgsize-73392/maruti-suzuki.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUpUMEZNVlZWSmFrTmpNV2hZVFJEZ0F4aUFCU2dLTWdNWmtnbw",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 57,
+   "title": "Maruti Suzuki shares fall 4% after Aug sales decline 10% sequentially",
+   "source": {
+    "name": "Fortune India",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fortuneindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Chitranjan Kumar"
+    ]
+   },
+   "link": "https://www.fortuneindia.com/markets/maruti-suzuki-shares-decline-4-after-aug-sales-decline-10-sequentially/156827",
+   "thumbnail": "https://media.fortuneindia.com/fortune-india/2026-07-30/o0o62ajg/LUdEQoZJ-Maruti-Suzuki-Kharkhoda-plant-1200x900.jpg?auto=format,compress&format=webp&w=1200&h=675&dpr=1.0&q=90&fit=cover",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXBXRVF4YjA1NlpWTldlbTlWVFJDZkF4ampCU2dLTWdB",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 58,
+   "title": "Maruti Suzuki Final Dividend Ex-Date Tomorrow; Investors to Get Rs 140 per Share Payout",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/maruti-suzuki-final-dividend-ex-date-tomorrow-investors-to-get-rs-140-per-share-payout-alpha-article-13996036.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20241109033650_sensex_nifty_stock_markets.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUhYMjgxYUdkaWJFRlJNR3RzVFJDZkF4ampCU2dLTWdrcEJJeXRyV1ZrZ0FN",
+   "date": "08/06/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-06T07:00:00Z"
+  },
+  {
+   "position": 59,
+   "title": "Maruti Suzuki India shares gain 2.09 percent, trading at Rs 13,723",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/maruti-suzuki-india-shares-gain-2-09-percent-trading-at-rs-13-723-alpha-article-13984728.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250215043505_rupeegain_dollar.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU5VWG8yWlZoU1ozTTVORTU1VFJDZkF4ampCU2dLTWdZQmNKQ2pzZ1k",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  },
+  {
+   "position": 60,
+   "title": "Maruti Suzuki Expects 2% Market Share Gain in India in Q1",
+   "source": {
+    "name": "Autocar Professional",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autocarpro.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Mukul Yudhveer Singh"
+    ]
+   },
+   "link": "https://www.autocarpro.in/news/maruti-suzuki-expects-2-percent-market-share-gain-in-india-in-q1-133340",
+   "thumbnail": "https://img.autocarpro.in/autocarpro/8f63e443-bb08-43b2-982c-c0fec4ce232f_image.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdkVzVwU3pkTmRITk5TREpNVFJEQUF4aXRCU2dLTWdhTk1aSkhvZ2c",
+   "date": "07/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-01T07:00:00Z"
+  },
+  {
+   "position": 61,
+   "title": "Maruti Suzuki slumps 25% amid market share, margin concerns",
+   "source": {
+    "name": "ET Auto",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://auto.economictimes.indiatimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://auto.economictimes.indiatimes.com/news/industry/maruti-suzuki-slumps-25-amid-market-share-margin-concerns/129694419",
+   "thumbnail": "https://etimg.etb2bimg.com/thumb/img-size-22792/129694419.cms?width=400&height=300",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJOVkZSU2tWSGIwUTBNMmRzVFJEQ0FSaURBaWdCTWdhRk1ZekdsQW8",
+   "date": "03/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-20T07:00:00Z"
+  },
+  {
+   "position": 62,
+   "title": "Stocks to watch: Maruti Suzuki, IOC, Tata Steel among shares in focus today; check list here",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vaamanaa Sethi"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/stocks-to-watch-maruti-suzuki-ioc-tata-steel-among-shares-in-focus-today-check-list-here-11785428340537.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/30/1600x900/logo/stock_1785429166377_1785429166479_b9ebaab5-33e1-4748-9295-95f4c128dc37.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDJSbm81ZUVkWFpqQnNSMnBXVFJDZkF4ampCU2dLTWdZQkFJaDVCQTA",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 63,
+   "title": "Maruti Suzuki Q1 Results: Net profit drops 9% as margin pressure offsets revenue growth; post-record sales",
+   "source": {
+    "name": "Livemint",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.livemint.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Abhishek Ksheerasagar"
+    ]
+   },
+   "link": "https://www.livemint.com/market/stock-market-news/maruti-suzuki-q1-results-net-profit-drops-9-as-margin-pressure-offsets-revenue-growth-11785496535693.html",
+   "thumbnail": "https://www.livemint.com/lm-img/img/2026/07/31/1600x900/MARUTI-SUZUKI-IN-PRICE--0_1780322459992_1780322469_1785496528397_1785496528554_a253ded3-1cca-4ad5-9ac3-633a4de09c8d.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNURhV1ZUZWtGbVV6bDFTbTh5VFJDZkF4amlCU2dLTWdhUk1wS3RHUWc",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 64,
+   "title": "Maruti Suzuki faces vehicle shortage ahead of festive season, supplies to improve from January 2027",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Varun Singh"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/automobile/maruti-suzuki-faces-vehicle-shortage-ahead-of-festive-season-supplies-to-improve-from-january-2027-article-14027838.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/09/20250926133628_Partho-Banerjee.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUtPRVl5UW5oV1dVUnJkRXd4VFJDZkF4ampCU2dLTWdhdFZZTE9wUWM",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 65,
+   "title": "Maruti Suzuki India - 10 Nifty stocks that fell up to 40% from their yearly peaks",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Ritesh Presswala"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/10-nifty-stocks-that-fell-up-to-40-from-their-yearly-peaks/maruti-suzuki-india/slideshow/134060340.cms",
+   "thumbnail": "https://img.etimg.com/thumb/msid-134060761,width-480,height-360,imgsize-109054,resizemode-75/fallen-giants.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNXFjVms0WVRCRlJsOVNSVkF5VFJEb0FoamdBeWdLTWdrMVFvanhzS05qaHdJ",
+   "date": "09/11/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-11T07:00:00Z"
+  },
+  {
+   "position": 66,
+   "title": "Maruti Suzuki shares fall 1.65% after ₹9.5 cr customs duty demand",
+   "source": {
+    "name": "BusinessLine",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thehindubusinessline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindubusinessline.com/markets/maruti-suzuki-faces-95-crore-customs-duty-demand-stock-slides-165/article71196614.ece",
+   "thumbnail": "https://bl-i.thgim.com/public/incoming/rdsc3y/article71131988.ece/alternates/LANDSCAPE_1200/2024-07-31T095947Z_2134132252_RC2869A0F3HY_RTRMADP_3_MARUTI-SUZUKI-IN-RESULTS.JPG",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTVPVGx2VUdWWmMzVlhiamx3VFJDZkF4ampCU2dLTWdZbGdvU3d3UU0",
+   "date": "07/08/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-08T07:00:00Z"
+  },
+  {
+   "position": 67,
+   "title": "Maruti shares climb nearly 5% after record sales in April",
+   "source": {
+    "name": "The Hindu",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thehindu.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.thehindu.com/business/Industry/maruti-shares-climb-nearly-5-after-record-sales-in-april/article70937496.ece",
+   "thumbnail": "https://th-i.thgim.com/public/incoming/s3q8po/article70937531.ece/alternates/LANDSCAPE_1200/Sensex-Nifty-5GIVF6UJCN.4.jpg.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTRRVzlzWkVKZlUzTlZkRTgxVFJDZkF4ampCU2dLTWdZQlpZcWtMZ2M",
+   "date": "05/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-04T07:00:00Z"
+  },
+  {
+   "position": 68,
+   "title": "90% EVs exported out of India are from Maruti Suzuki: MD & CEO Hisashi Takeuchi",
+   "source": {
+    "name": "Business Today",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businesstoday.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Karan Dhar"
+    ]
+   },
+   "link": "https://www.businesstoday.in/india-at-100/story/90-evs-exported-out-of-india-are-from-maruti-suzuki-md-ceo-hisashi-takeuchi-550707-2026-08-21",
+   "thumbnail": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202608/6a88639681844-maruti-suzukis-share-in-total-passenger-vehicle-exports-out-of-india-rose-to-55-in-the-financial-y-214120693-16x9.jpeg?size=1280:720",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXZWV2hMVFUxTGJtcHRaVzExVFJDZkF4ampCU2dLTWdhdEpKaVBGUW8",
+   "date": "08/21/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-21T07:00:00Z"
+  },
+  {
+   "position": 69,
+   "title": "Maruti Suzuki needs more price hikes to protect margins after 0.5% increase: Nomura",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/stocks/maruti-suzuki-needs-more-price-hikes-to-protect-margins-after-0-5-increase-nomura-14011076.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251120072320_Maruti-Suzuki-genuine-parts.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlia2syVGtSeE9GTkJNMjQ1VFJDZkF4ampCU2dLTWdPQndBQQ",
+   "date": "08/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-20T07:00:00Z"
+  },
+  {
+   "position": 70,
+   "title": "Maruti Suzuki India Ltd continues to decline",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/maruti-suzuki-india-ltd-continues-to-decline-126091500586_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "09/15/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-15T07:00:00Z"
+  },
+  {
+   "position": 71,
+   "title": "Maruti Suzuki shares in focus on robust July sales; Q1 profit falls",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rakesh Patil"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/maruti-suzuki-shares-in-focus-on-robust-july-sales-q1-profit-falls-13990893.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260610090658_Maruti-Suzuki-Celerio.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXFlbVF6TjJwUmFHNUxjRkpWVFJDZkF4ampCU2dLTWdhWmM0ektNUWM",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 72,
+   "title": "Maruti Suzuki India shares trade higher ahead of Q4 results today; focus on commodity costs",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/maruti-suzuki-india-shares-trade-higher-ahead-of-q4-results-today-focus-on-commodity-costs-13901539.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2024/10/20241030064639_maruti-suzuki1.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNDBUa0UwVkdOaWRHa3pTMVZCVFJDZkF4ampCU2dLTWdZQmNZck9OUVE",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 73,
+   "title": "Rs 1.32 lakh crore shock! Maruti Suzuki shares tumble 25% YTD, worst among peers! Overdone or more pain?",
+   "source": {
+    "name": "The Economic Times",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://m.economictimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Veer Sharma"
+    ]
+   },
+   "link": "https://m.economictimes.com/markets/stocks/news/rs-1-32-lakh-crore-shock-maruti-suzuki-shares-tumble-25-worst-among-peers-overdone-or-more-pain/articleshow/129691596.cms",
+   "thumbnail": "https://m.economictimes.com/thumb/msid-129691570,width-1200,height-900,resizemode-4,imgsize-59312/rs-1-32-lakh-crore-shock-maruti-suzuki-shares-tumble-25-worst-among-peers-overdone-or-more-pain.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTJUREZ1VjFvdGVWaExTVm81VFJEZ0F4aUFCU2dLTWdZSkVLUUlGUXM",
+   "date": "03/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-20T07:00:00Z"
+  },
+  {
+   "position": 74,
+   "title": "Maruti Suzuki shares surge 4% after 'bulls' see stock testing ₹19,000 despite market share worries",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Meghna Sen"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/maruti-suzuki-share-price-bulls-still-see-stock-testing-19000-levels-despite-market-share-concerns-q4-results-ws-l-19895375.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/01/2025-06-17t104157z-883227198-rc2a4fadow43-rtrmadp-3-india-business-2026-01-af23715e4e4c4ae326558328e7480830-scaled.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iMkNnNHRYM0ZRTFZCRVV6WnVRblp2VFJDZkF4ampCU2dLTWdzQkFJSWtqQ00wMlJpNFBB",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 75,
+   "title": "Buy Maruti Suzuki for the Target Rs 17,059 by Motilal Oswal Financial Services Ltd",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/buy-maruti-suzuki-for-the-target-rs-17-059-by-motilal-oswal-financial-services-ltd719375",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/Maruti%20Suzuki%20Ltd.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVlSGRKTWxwbGFGVkxVbEozVFJEZUFoajBBeWdLTWdhWms1UkpOUWM",
+   "date": "07/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-18T07:00:00Z"
+  },
+  {
+   "position": 76,
+   "title": "Maruti Suzuki India Q1 Results Today: Time, Earnings Call, Dividend, What To Watch, Share Price",
+   "source": {
+    "name": "NDTV Profit",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Vishal Marathe"
+    ]
+   },
+   "link": "https://www.ndtvprofit.com/markets/maruti-suzuki-india-q1-results-today-time-earnings-call-dividend-what-to-watch-share-price-11842099",
+   "thumbnail": "https://c.ndtvimg.com/2026-07/2fj4hv2s_maruti_625x300_30_July_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVVWSE42WkVwcWFEbGZVVkZYVFJDZkF4ampCU2dLTWdZRllJTGt0Z1k",
+   "date": "07/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-31T07:00:00Z"
+  },
+  {
+   "position": 77,
+   "title": "Suzuki loses India market share as buyers demand more features",
+   "source": {
+    "name": "Automotive News",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.autonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autonews.com/suzuki/ane-maruti-suzuki-india-changing-tastes-0720/",
+   "thumbnail": "https://www.autonews.com/resizer/v2/UWQLAE2FYRG2BPSE6XAIWCOUWQ.jpg?auth=5a4bd6e60b5cace4f949fc0a09764b8067c1581bbca8e494843d73da7da47791&width=1200&height=630&smart=true",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNURhQzA0TVRkZlIxWnhOV1Z2VFJDUkF4ajhCU2dLTWdrSkFJcW1UbU0wNkFF",
+   "date": "07/20/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-20T07:00:00Z"
+  },
+  {
+   "position": 78,
+   "title": "Maruti Suzuki shares gain 5% on Q4 show; analysts project up to 22% upside",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/maruti-suzuki-shares-gain-5-on-q4-show-analysts-project-up-to-22-upside-126042900366_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/28/full/1769624966-1047.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVpTbkZMY1hKR2VqQTNlVXBmVFJDZEJSaktBeWdLTWdZVm9Jb0p5Z1E",
+   "date": "04/29/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-29T07:00:00Z"
+  },
+  {
+   "position": 79,
+   "title": "Maruti Suzuki India Q2 Results: Margin Compression, Trend and Valuation Watch",
+   "source": {
+    "name": "Univest",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://univest.in&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Harsh Piplani"
+    ]
+   },
+   "link": "https://univest.in/blogs/maruti-suzuki-india-q2-results",
+   "thumbnail": "https://univest.in/blogs-2/wp-content/uploads/2026/09/maruti-suzuki-india-q2-results-margin-compression-trend-and-valuation-watch.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNTFNMjg1YlZwRGJYSmZMVFIxVFJDUUF4ai1CU2dLTWdZQlFJckRHZ28",
+   "date": "09/23/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-23T07:00:00Z"
+  },
+  {
+   "position": 80,
+   "title": "Maruti Suzuki sets AGM date, record date for final dividend",
+   "source": {
+    "name": "scanx.trade",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://scanx.trade&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://scanx.trade/stock-market-news/companies/maruti-suzuki-outlines-tds-norms-for-rs-140-final-dividend/45231693",
+   "thumbnail": "https://news-images.dhan.co/maruti-suzuki-outlines-tds-norms-for-rs-140-final-dividend.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNW1VME14VGtwbVpGSlNaMkl3VFJDaUF4amRCU2dLTWdrQklZUUduYVZyMVFB",
+   "date": "07/10/2026, 12:24 PM, +0000 UTC",
+   "iso_date": "2026-07-10T12:24:24Z"
+  },
+  {
+   "position": 81,
+   "title": "Maruti shares jump 5% post Q4, FY26 results: From record annual profit to ₹14K cr FY27 capex, check concall highlights",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-q4-and-fy-26-earnings-from-record-annual-profit-to-14-000-crore-fy-27-capex-key-concall-highlights-shares-in-focus/article-192885/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/maruti-suzuki-shares-april-29-2026.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUxObWh1YzNRNU9VVk5kVU55VFJEZ0F4aUFCU2dLTWdrQmNwQnNzU2F4N3dF",
+   "date": "04/28/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-04-28T07:00:00Z"
+  },
+  {
+   "position": 82,
+   "title": "Maruti Suzuki share price falls over 5% post tepid August export data",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Heena Ojha"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/maruti-suzuki-share-price-falls-over-5-post-tepid-august-export-data-126090100640_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-06/28/full/1782663267-2144.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNUdWVlZPYUhGNWJGOWthRWwyVFJERUF4aW5CU2dLTWdNUmdRdw",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 83,
+   "title": "Maruti Suzuki India shares fall 4 pc as August sales decline 10 pc sequentially",
+   "source": {
+    "name": "Investment Guru India",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://investmentguruindia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://investmentguruindia.com/newsdetail/maruti-suzuki-india-shares-fall-4-pc-as-august-sales-decline-10-pc-sequentially850379",
+   "thumbnail": "https://portfolio.investmentguruindia.com/uploads/news/MarutiSuzuki_092025.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXhUbnBwYkd0dE9GbEpXbWxqVFJDM0FSaVRBaWdCTWdZQk1JWkxvUVU",
+   "date": "09/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-09-01T07:00:00Z"
+  },
+  {
+   "position": 84,
+   "title": "Eternal, Maruti can rally up to 30%, says Mirae Asset Sharekhan",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Rex Cano"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/eternal-maruti-suzuki-these-2-largecap-stocks-can-rally-up-to-30-says-mirae-asset-sharekhan-126051400206_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2025-05/01/full/1746108504-7771.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWlZV05NYzJzd1lUUjNja3BDVFJDRkF4aVVCaWdLTWdhQmtaWWx0UWM",
+   "date": "05/14/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-05-14T07:00:00Z"
+  },
+  {
+   "position": 85,
+   "title": "Maruti Suzuki stock gains 1.5% as it launches flex-fuel powered Wagon R",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/maruti-suzuki-stock-gains-1-5-as-it-launches-flex-fuel-powered-wagon-r-13940908.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260604064044_Maruti-Suzuki-India-first-flex-fuel-car.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNXNRVFZzYkRsbWVXeHRhWGhCVFJDZkF4ampCU2dLTWdB",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 86,
+   "title": "Maruti Suzuki raises FY27 capex by 40% to Rs 14,000 crore, plans Rs 77,500 crore investment through FY31",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Varun Singh"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/automobile/maruti-suzuki-raises-fy27-capex-by-40-to-rs-14-000-crore-plans-rs-77-500-crore-investment-through-fy31-article-14018917.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2026/06/20260604073851_Maruti-Suzuki.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iL0NnNUNRMk5DUldkd1YyWnVOWGRJVFJDZkF4ampCU2dLTWdtdFJJQ3ZIYWxyUEFB",
+   "date": "08/31/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-31T07:00:00Z"
+  },
+  {
+   "position": 87,
+   "title": "Maruti Suzuki shares decline up to 3% on missing Q3 profit estimates, drag auto index up to 2%",
+   "source": {
+    "name": "Moneycontrol.com",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "PARAS BISHT"
+    ]
+   },
+   "link": "https://www.moneycontrol.com/news/business/markets/maruti-suzuki-shares-decline-up-to-3-on-missing-q3-profit-estimates-drag-auto-index-up-to-2-13796311.html",
+   "thumbnail": "https://images.moneycontrol.com/static-mcnews/2025/11/20251120072320_Maruti-Suzuki-genuine-parts.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iJ0NnNXlia2syVGtSeE9GTkJNMjQ1VFJDZkF4ampCU2dLTWdPQndBQQ",
+   "date": "01/29/2026, 08:00 AM, +0000 UTC",
+   "iso_date": "2026-01-29T08:00:00Z"
+  },
+  {
+   "position": 88,
+   "title": "Maruti Suzuki India Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43238/maruti-suzuki-india-ltd/company-financial/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/maruti.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSMlEwTkMxM1dGUmpkV2RYVFJESUFSaklBU2dCTWdZSm9aVEd0QVk",
+   "date": "09/03/2026, 06:27 PM, +0000 UTC",
+   "iso_date": "2026-09-03T18:27:56Z"
+  },
+  {
+   "position": 89,
+   "title": "Stock Alert: NMDC, Maruti Suzuki India, PNC Infratech, UltraTech Cement, Coal India, Tata Elxsi",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-nmdc-maruti-suzuki-india-pnc-infratech-ultratech-cement-coal-india-tata-elxsi-126060200162_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "06/02/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-02T07:00:00Z"
+  },
+  {
+   "position": 90,
+   "title": "India Is Suzuki’s Biggest Revenue Market, Contributes 42.6% of Global Revenue",
+   "source": {
+    "name": "Autopunditz",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.autopunditz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.autopunditz.com/post/suzuki-india-revenue-share-fy25-region-wise-revenue",
+   "thumbnail": "https://static.wixstatic.com/media/1da610_e7f95bdb5b4f4e398fabdcdd7f536ed5~mv2.png/v1/fill/w_980,h_1225,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/1da610_e7f95bdb5b4f4e398fabdcdd7f536ed5~mv2.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNUdRbkkxYm1GNGQzVkdWRFJ2VFJEN0FSakpBU2dCTWdZSkU0Uk1LUVk",
+   "date": "08/09/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-09T07:00:00Z"
+  },
+  {
+   "position": 91,
+   "title": "Maruti Suzuki share price may rise 26% after JPMorgan projects margin improvement",
+   "source": {
+    "name": "CNBC TV18",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Shloka Badkar"
+    ]
+   },
+   "link": "https://www.cnbctv18.com/market/maruti-suzuki-share-price-jpmorgan-expects-margin-improvement-buy-sell-target-upside-triggers-ws-el-19919914.htm",
+   "thumbnail": "https://images.cnbctv18.com/uploads/2026/06/image-2026-06-7e7608fc4b9700a3a2cec30a7fd61703.jpg?impolicy=website&width=1600&height=900",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXdSRmhWWlU1MFRIVjRiMUpJVFJDZkF4ampCU2dLTWdZSlFJNkVLZ2c",
+   "date": "06/05/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-05T07:00:00Z"
+  },
+  {
+   "position": 92,
+   "title": "Motilal Oswal expects Maruti Suzuki to outpace sector growth; retains 'Buy'",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "authors": [
+     "Kumar Gaurav"
+    ]
+   },
+   "link": "https://www.business-standard.com/markets/news/motilal-oswal-expects-maruti-suzuki-to-outpace-sector-growth-retains-buy-126031200139_1.html",
+   "thumbnail": "https://bsmedia.business-standard.com/_media/bs/img/article/2026-01/12/full/1768241373-2109.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNXVaMEYzUmxaM1p6VTFSVlZ3VFJERUF4aW1CU2dLTWdZQmdKUmhNd2c",
+   "date": "03/12/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-12T07:00:00Z"
+  },
+  {
+   "position": 93,
+   "title": "Maruti Suzuki India consolidated net profit declines 9.11% in the June 2026 quarter",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/maruti-suzuki-india-consolidated-net-profit-declines-9-11-in-the-june-2026-quarter-126080100119_1.html",
+   "thumbnail": "https://www.business-standard.com/assets/web-assets/images/Business_Standard_1_685x385.jpg",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNHlZVkptZGtoc1VsbHhObU0xVFJDQkF4aXRCU2dLTWdhbGxKS3N0UVk",
+   "date": "08/01/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-01T07:00:00Z"
+  },
+  {
+   "position": 94,
+   "title": "Maruti Suzuki India launches India’s first flex-fuel car; shares close flat",
+   "source": {
+    "name": "Upstox",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://upstox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://upstox.com/news/market-news/stocks/maruti-suzuki-india-launches-india-s-first-flex-fuel-car-shares-close-flat/article-194819/",
+   "thumbnail": "https://assets.upstox.com/content/assets/images/news/marutisuzukiq424341.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNU9ORzk2WVU1M1EwWkhOMDVxVFJDZkF4ampCU2dLTWdhVmM0aHF5UU0",
+   "date": "06/04/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-06-04T07:00:00Z"
+  },
+  {
+   "position": 95,
+   "title": "Stock Alert: ITC, Tata Motors CV, Maruti Suzuki India, SML Mahindra, Divi's Lab",
+   "source": {
+    "name": "Business Standard",
+    "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.business-standard.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.business-standard.com/markets/capital-market-news/stock-alert-itc-tata-motors-cv-maruti-suzuki-india-sml-mahindra-divi-s-lab-126080300111_1.html",
+   "date": "08/03/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-08-03T07:00:00Z"
+  },
+  {
+   "position": 96,
+   "title": "Maruti Suzuki Shares Edge Up on Draft Tax Order",
+   "source": {
+    "name": "HDFC Sky",
+    "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://hdfcsky.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://hdfcsky.com/news/maruti-suzuki-india-share-price-gain-1-02-percent",
+   "thumbnail": "https://static.hdfcsky.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-18-2026-12_50_52-PM.webp",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iI0NnNUVZbVZ6VDIxc2IwTmFWRUZqVFJERUF4aW1CU2dLTWdB",
+   "date": "03/18/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-03-18T07:00:00Z"
+  },
+  {
+   "position": 97,
+   "title": "Maruti Suzuki India Number of Employees 2026 | Employee Count & Headcount Data",
+   "source": {
+    "name": "Revelio Labs",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.reveliolabs.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.reveliolabs.com/companies/maruti-suzuki-india/employees",
+   "thumbnail": "https://www.reveliolabs.com/companies/maruti-suzuki-india/employees/opengraph-image-l01jpo?966eda30c2d7e3df",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNVNPVXRsV1dwdmJWVlVWM3B2VFJDakFSaTJBaWdCTWdhQmVJcWtzZ1E",
+   "date": "07/25/2026, 02:54 PM, +0000 UTC",
+   "iso_date": "2026-07-25T14:54:55Z"
+  },
+  {
+   "position": 98,
+   "title": "Maruti Suzuki India Ltd is Rated Hold",
+   "source": {
+    "name": "MarketsMojo",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marketsmojo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.marketsmojo.com/news/stock-recommendation/maruti-suzuki-india-ltd-is-rated-hold-4063148",
+   "date": "06/19/2026, 05:01 AM, +0000 UTC",
+   "iso_date": "2026-06-19T05:01:01Z"
+  },
+  {
+   "position": 99,
+   "title": "Maruti Suzuki India Ltd. Peer Comparison – Compare with Others",
+   "source": {
+    "name": "Value Research",
+    "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.valueresearchonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.valueresearchonline.com/stocks/43238/maruti-suzuki-india-ltd/peer-comparison/",
+   "thumbnail": "https://www.valueresearchonline.com/content-assets/images/company-logos/maruti.png",
+   "thumbnail_small": "https://news.google.com/api/attachments/CC8iK0NnNWxSMlEwTkMxM1dGUmpkV2RYVFJESUFSaklBU2dCTWdZSm9aVEd0QVk",
+   "date": "09/02/2026, 12:15 PM, +0000 UTC",
+   "iso_date": "2026-09-02T12:15:47Z"
+  },
+  {
+   "position": 100,
+   "title": "Maruti Suzuki India shares gain 2.09 percent, trading at Rs 13,723",
+   "source": {
+    "name": "TradingView",
+    "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   },
+   "link": "https://www.tradingview.com/news/moneycontrol:17f0e52d5094b:0-maruti-suzuki-india-shares-gain-2-09-percent-trading-at-rs-13-723/",
+   "date": "07/27/2026, 07:00 AM, +0000 UTC",
+   "iso_date": "2026-07-27T07:00:00Z"
+  }
+ ],
+ "menu_links": [
+  {
+   "title": "India",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNRE55YXpBU0JXVnVMVWRDS0FBUAE"
+  },
+  {
+   "title": "World",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx1YlY4U0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Your local news",
+   "topic_token": "CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqHAgKIhZDQklTQ2pvSWJHOWpZV3hmZGpJb0FBUAE"
+  },
+  {
+   "title": "Business",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGx6TVdZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Technology",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRGRqTVhZU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Entertainment",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNREpxYW5RU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Sports",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp1ZEdvU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Science",
+   "topic_token": "CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqKggKIiRDQkFTRlFvSUwyMHZNRFp0Y1RjU0JXVnVMVWRDR2dKSlRpZ0FQAQ"
+  },
+  {
+   "title": "Health",
+   "topic_token": "CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=google_news&gl=in&topic_token=CAAqJQgKIh9DQkFTRVFvSUwyMHZNR3QwTlRFU0JXVnVMVWRDS0FBUAE"
+  }
+ ],
+ "_fetched_at": "2026-10-09T19:49:25"
+}

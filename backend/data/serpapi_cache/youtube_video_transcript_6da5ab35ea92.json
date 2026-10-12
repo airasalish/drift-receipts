@@ -1,0 +1,4279 @@
+{
+ "search_metadata": {
+  "id": "6acb1d098ffd7b81927ed484",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/p2a18HE36ucLD4jyEjD8xyEBQy3BZGB9r9N8dYW6P0k/6acb1d098ffd7b81927ed484.json",
+  "markdown_endpoint": "https://serpapi.com/searches/p2a18HE36ucLD4jyEjD8xyEBQy3BZGB9r9N8dYW6P0k/6acb1d098ffd7b81927ed484.md",
+  "created_at": "2026-10-11 05:22:17 UTC",
+  "processed_at": "2026-10-11 05:22:17 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=gRNJ-fXE_00",
+  "raw_html_file": "https://serpapi.com/searches/p2a18HE36ucLD4jyEjD8xyEBQy3BZGB9r9N8dYW6P0k/6acb1d098ffd7b81927ed484.html",
+  "prettify_html_file": "https://serpapi.com/searches/p2a18HE36ucLD4jyEjD8xyEBQy3BZGB9r9N8dYW6P0k/6acb1d098ffd7b81927ed484.prettify",
+  "total_time_taken": 8.92
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "gRNJ-fXE_00",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 0,
+   "end_ms": 2720,
+   "snippet": "सिर्फ 8 महीने में यूएस की यह कंपनियों का",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 2720,
+   "end_ms": 8559,
+   "snippet": "जरा ग्रोथ देखो आप। 700% 650% 300% 400%",
+   "start_time_text": "0:02",
+   "start_time_label": "0:02"
+  },
+  {
+   "start_ms": 8559,
+   "end_ms": 11280,
+   "snippet": "सिर्फ 8 महीने में ये यूएस की कंपनियां",
+   "start_time_text": "0:08",
+   "start_time_label": "0:08"
+  },
+  {
+   "start_ms": 11280,
+   "end_ms": 13280,
+   "snippet": "हैं। और इन कंपनियों के ग्रोथ देख के तो",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 13280,
+   "end_ms": 15360,
+   "snippet": "एक ही लाइन समझ में आता है भैया क्यों",
+   "start_time_text": "0:13",
+   "start_time_label": "0:13"
+  },
+  {
+   "start_ms": 15360,
+   "end_ms": 18160,
+   "snippet": "पड़े हो चक्कर में कोई नहीं है टक्कर में।",
+   "start_time_text": "0:15",
+   "start_time_label": "0:15"
+  },
+  {
+   "start_ms": 18160,
+   "end_ms": 20320,
+   "snippet": "मतलब यूएस की कंपनियों को देख के यह समझ",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 20320,
+   "end_ms": 22320,
+   "snippet": "में लग रहा आ रहा है। लेकिन एक चीज",
+   "start_time_text": "0:20",
+   "start_time_label": "0:20"
+  },
+  {
+   "start_ms": 22320,
+   "end_ms": 25600,
+   "snippet": "समझिएगा आज जो हमारा सेशन है हम इस बात पर",
+   "start_time_text": "0:22",
+   "start_time_label": "0:22"
+  },
+  {
+   "start_ms": 25600,
+   "end_ms": 27599,
+   "snippet": "बात मतलब इस चीज की चर्चा नहीं करने वाले",
+   "start_time_text": "0:25",
+   "start_time_label": "0:25"
+  },
+  {
+   "start_ms": 27599,
+   "end_ms": 29279,
+   "snippet": "हैं कौन सा स्टॉक खराब है कौन सा स्टॉक",
+   "start_time_text": "0:27",
+   "start_time_label": "0:27"
+  },
+  {
+   "start_ms": 29279,
+   "end_ms": 31679,
+   "snippet": "बुरा है। हम बात इस चीज की करने वाले हैं",
+   "start_time_text": "0:29",
+   "start_time_label": "0:29"
+  },
+  {
+   "start_ms": 31679,
+   "end_ms": 35200,
+   "snippet": "कि यूएस स्टॉक आज दुनिया भर का मार्केट",
+   "start_time_text": "0:31",
+   "start_time_label": "0:31"
+  },
+  {
+   "start_ms": 35200,
+   "end_ms": 38480,
+   "snippet": "में से लोग सबसे ज्यादा यूएस यूएस मार्केट",
+   "start_time_text": "0:35",
+   "start_time_label": "0:35"
+  },
+  {
+   "start_ms": 38480,
+   "end_ms": 40399,
+   "snippet": "में शिफ्ट हो रहे हैं। आज क्रिप्टो",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 40399,
+   "end_ms": 41840,
+   "snippet": "ट्रेडर्स यूएस मार्केट में शिफ्ट हो रहे",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 41840,
+   "end_ms": 43920,
+   "snippet": "हैं ट्रेड करने के लिए। इंडियन ट्रेडर्स",
+   "start_time_text": "0:41",
+   "start_time_label": "0:41"
+  },
+  {
+   "start_ms": 43920,
+   "end_ms": 45600,
+   "snippet": "शिफ्ट हो रहे हैं यूएस मार्केट में ट्रेड",
+   "start_time_text": "0:43",
+   "start_time_label": "0:43"
+  },
+  {
+   "start_ms": 45600,
+   "end_ms": 47520,
+   "snippet": "करने के लिए। अब आपका सवाल होगा भैया कि",
+   "start_time_text": "0:45",
+   "start_time_label": "0:45"
+  },
+  {
+   "start_ms": 47520,
+   "end_ms": 49440,
+   "snippet": "कैसे यूएस मार्केट में शिफ्ट हो जाएंगे?",
+   "start_time_text": "0:47",
+   "start_time_label": "0:47"
+  },
+  {
+   "start_ms": 49440,
+   "end_ms": 52320,
+   "snippet": "तो इसका जवाब है टोकनाइज्ड फॉर्म के जरिए,",
+   "start_time_text": "0:49",
+   "start_time_label": "0:49"
+  },
+  {
+   "start_ms": 52320,
+   "end_ms": 55039,
+   "snippet": "क्रिप्टो एक्सचेंजेस के जरिए। इसके बारे",
+   "start_time_text": "0:52",
+   "start_time_label": "0:52"
+  },
+  {
+   "start_ms": 55039,
+   "end_ms": 57199,
+   "snippet": "में डिटेल आज बताऊंगा आपको। चिंता नहीं।",
+   "start_time_text": "0:55",
+   "start_time_label": "0:55"
+  },
+  {
+   "start_ms": 57199,
+   "end_ms": 59359,
+   "snippet": "पहले आपको यूएस मार्केट की ताकत बताता",
+   "start_time_text": "0:57",
+   "start_time_label": "0:57"
+  },
+  {
+   "start_ms": 59359,
+   "end_ms": 62000,
+   "snippet": "हूं। यूएस मार्केट क्यों ट्रेडर्स की पहली",
+   "start_time_text": "0:59",
+   "start_time_label": "0:59"
+  },
+  {
+   "start_ms": 62000,
+   "end_ms": 64960,
+   "snippet": "पसंद बन चुकी है इन दिनों? यह बताता हूं।",
+   "start_time_text": "1:02",
+   "start_time_label": "1:02"
+  },
+  {
+   "start_ms": 64960,
+   "end_ms": 67360,
+   "snippet": "और दुनिया भर के ट्रेडर्स अलग-अलग मार्केट",
+   "start_time_text": "1:04",
+   "start_time_label": "1:04"
+  },
+  {
+   "start_ms": 67360,
+   "end_ms": 69040,
+   "snippet": "को छोड़ के चाहे क्रिप्टो मार्केट हो,",
+   "start_time_text": "1:07",
+   "start_time_label": "1:07"
+  },
+  {
+   "start_ms": 69040,
+   "end_ms": 71040,
+   "snippet": "फॉरेक्स मार्केट हो, इंडियन मार्केट हो,",
+   "start_time_text": "1:09",
+   "start_time_label": "1:09"
+  },
+  {
+   "start_ms": 71040,
+   "end_ms": 74000,
+   "snippet": "यूएस मार्केट की तरफ क्यों अपना रुझान कर",
+   "start_time_text": "1:11",
+   "start_time_label": "1:11"
+  },
+  {
+   "start_ms": 74000,
+   "end_ms": 77040,
+   "snippet": "रहे हैं, यह बताऊंगा। और आज के सेशन में",
+   "start_time_text": "1:14",
+   "start_time_label": "1:14"
+  },
+  {
+   "start_ms": 77040,
+   "end_ms": 79600,
+   "snippet": "सबसे इंपॉर्टेंट ये बताने वाला हूं कि",
+   "start_time_text": "1:17",
+   "start_time_label": "1:17"
+  },
+  {
+   "start_ms": 79600,
+   "end_ms": 82640,
+   "snippet": "यूएस मार्केट में ना दिन पहले से आपको पता",
+   "start_time_text": "1:19",
+   "start_time_label": "1:19"
+  },
+  {
+   "start_ms": 82640,
+   "end_ms": 85040,
+   "snippet": "होता है। ट्रेडर्स को क्या चाहिए? मूवमेंट",
+   "start_time_text": "1:22",
+   "start_time_label": "1:22"
+  },
+  {
+   "start_ms": 85040,
+   "end_ms": 88000,
+   "snippet": "ना वोलेटिलिटी चाहिए ना। स्पाइक चाहिए",
+   "start_time_text": "1:25",
+   "start_time_label": "1:25"
+  },
+  {
+   "start_ms": 88000,
+   "end_ms": 90080,
+   "snippet": "होता है ना। तो यूएस मार्केट एक ऐसा",
+   "start_time_text": "1:28",
+   "start_time_label": "1:28"
+  },
+  {
+   "start_ms": 90080,
+   "end_ms": 92400,
+   "snippet": "मार्केट है जहां पर आपको दिन पहले से पता",
+   "start_time_text": "1:30",
+   "start_time_label": "1:30"
+  },
+  {
+   "start_ms": 92400,
+   "end_ms": 96720,
+   "snippet": "होता है किस दिन कितने बजे मूवमेंट आने",
+   "start_time_text": "1:32",
+   "start_time_label": "1:32"
+  },
+  {
+   "start_ms": 96720,
+   "end_ms": 100159,
+   "snippet": "वाला है। तो आज वो सारे दिन वो सारे",
+   "start_time_text": "1:36",
+   "start_time_label": "1:36"
+  },
+  {
+   "start_ms": 100159,
+   "end_ms": 102960,
+   "snippet": "पैटर्न्स आपको बताने वाला हूं कि पूरे साल",
+   "start_time_text": "1:40",
+   "start_time_label": "1:40"
+  },
+  {
+   "start_ms": 102960,
+   "end_ms": 105759,
+   "snippet": "कैलेंडर में आप रिमाइंडर लगा सको कि इस",
+   "start_time_text": "1:42",
+   "start_time_label": "1:42"
+  },
+  {
+   "start_ms": 105759,
+   "end_ms": 108240,
+   "snippet": "दिन इस महीने भैया बड़ा मूवमेंट आने वाला",
+   "start_time_text": "1:45",
+   "start_time_label": "1:45"
+  },
+  {
+   "start_ms": 108240,
+   "end_ms": 110960,
+   "snippet": "है। अब आप देखो कि लॉन्ग करना है कि शॉर्ट",
+   "start_time_text": "1:48",
+   "start_time_label": "1:48"
+  },
+  {
+   "start_ms": 110960,
+   "end_ms": 114320,
+   "snippet": "करना है। लेकिन उस दिन मूवमेंट तो आएगा।",
+   "start_time_text": "1:50",
+   "start_time_label": "1:50"
+  },
+  {
+   "start_ms": 114320,
+   "end_ms": 116479,
+   "snippet": "तो आज वो सारे पैटर्न्स भी बताने वाला",
+   "start_time_text": "1:54",
+   "start_time_label": "1:54"
+  },
+  {
+   "start_ms": 116479,
+   "end_ms": 118320,
+   "snippet": "हूं। कुल मिलाकर के आज के सेशन में बहुत",
+   "start_time_text": "1:56",
+   "start_time_label": "1:56"
+  },
+  {
+   "start_ms": 118320,
+   "end_ms": 120320,
+   "snippet": "कुछ है भैया। बहुत ज्यादा नॉलेजेबल सेशन",
+   "start_time_text": "1:58",
+   "start_time_label": "1:58"
+  },
+  {
+   "start_ms": 120320,
+   "end_ms": 123680,
+   "snippet": "आज का होने वाला है। तो कुछ यूएस की कंपनी",
+   "start_time_text": "2:00",
+   "start_time_label": "2:00"
+  },
+  {
+   "start_ms": 123680,
+   "end_ms": 125119,
+   "snippet": "है। इनका पास्ट डाटा है लेकिन एक",
+   "start_time_text": "2:03",
+   "start_time_label": "2:03"
+  },
+  {
+   "start_ms": 125119,
+   "end_ms": 127040,
+   "snippet": "डिस्क्लेमर दे दूं भैया। इसका मतलब यह कतई",
+   "start_time_text": "2:05",
+   "start_time_label": "2:05"
+  },
+  {
+   "start_ms": 127040,
+   "end_ms": 128959,
+   "snippet": "नहीं है कि ये पास्ट डाटा देख के आप इसमें",
+   "start_time_text": "2:07",
+   "start_time_label": "2:07"
+  },
+  {
+   "start_ms": 128959,
+   "end_ms": 131039,
+   "snippet": "इन्वेस्ट कर दें क्योंकि पास्ट रिजर्व्स",
+   "start_time_text": "2:08",
+   "start_time_label": "2:08"
+  },
+  {
+   "start_ms": 131039,
+   "end_ms": 134160,
+   "snippet": "फ्यूचर की गारंटी कतई नहीं होती है। और आज",
+   "start_time_text": "2:11",
+   "start_time_label": "2:11"
+  },
+  {
+   "start_ms": 134160,
+   "end_ms": 137840,
+   "snippet": "हम ग्रोथ मतलब पॉजिटिव ऊपर जाना या नीचे",
+   "start_time_text": "2:14",
+   "start_time_label": "2:14"
+  },
+  {
+   "start_ms": 137840,
+   "end_ms": 139599,
+   "snippet": "जाना उसकी बात नहीं करने वाले हैं। हम बात",
+   "start_time_text": "2:17",
+   "start_time_label": "2:17"
+  },
+  {
+   "start_ms": 139599,
+   "end_ms": 141440,
+   "snippet": "करने वाले हैं मूवमेंट की। चाहे ऊपर का हो",
+   "start_time_text": "2:19",
+   "start_time_label": "2:19"
+  },
+  {
+   "start_ms": 141440,
+   "end_ms": 144640,
+   "snippet": "या नीचे का हो। ठीक है? तो अच्छा यह तो",
+   "start_time_text": "2:21",
+   "start_time_label": "2:21"
+  },
+  {
+   "start_ms": 144640,
+   "end_ms": 146400,
+   "snippet": "हुए कुछ यूएस के स्टॉक्स और यह सारे",
+   "start_time_text": "2:24",
+   "start_time_label": "2:24"
+  },
+  {
+   "start_ms": 146400,
+   "end_ms": 148640,
+   "snippet": "स्टॉक्स अगर आप देखो ना यह सारे के सारे",
+   "start_time_text": "2:26",
+   "start_time_label": "2:26"
+  },
+  {
+   "start_ms": 148640,
+   "end_ms": 151760,
+   "snippet": "स्टॉक्स एi से रिलेटेड हैं। इनमें से कोई",
+   "start_time_text": "2:28",
+   "start_time_label": "2:28"
+  },
+  {
+   "start_ms": 151760,
+   "end_ms": 153680,
+   "snippet": "मेमोरी वाली कंपनी है, कोई स्टोरेज वाली",
+   "start_time_text": "2:31",
+   "start_time_label": "2:31"
+  },
+  {
+   "start_ms": 153680,
+   "end_ms": 155200,
+   "snippet": "कंपनी है, कोई चिप्स वाली कंपनी है, कोई",
+   "start_time_text": "2:33",
+   "start_time_label": "2:33"
+  },
+  {
+   "start_ms": 155200,
+   "end_ms": 157760,
+   "snippet": "सर्वर वाली कंपनी है, कोई कुछ कर रहा है,",
+   "start_time_text": "2:35",
+   "start_time_label": "2:35"
+  },
+  {
+   "start_ms": 157760,
+   "end_ms": 161599,
+   "snippet": "लेकिन कर सब कुछ एई के इर्द-गिर्द ही है।",
+   "start_time_text": "2:37",
+   "start_time_label": "2:37"
+  },
+  {
+   "start_ms": 161599,
+   "end_ms": 162480,
+   "snippet": "तो, [नाक से की जाने वाली आवाज़] ये सारे",
+   "start_time_text": "2:41",
+   "start_time_label": "2:41"
+  },
+  {
+   "start_ms": 162480,
+   "end_ms": 164720,
+   "snippet": "स्टॉक्स जो पागलों की तरह भागते हुए आप",
+   "start_time_text": "2:42",
+   "start_time_label": "2:42"
+  },
+  {
+   "start_ms": 164720,
+   "end_ms": 170280,
+   "snippet": "देख रहे हो, ये सारे एआई के स्टॉक्स हैं।",
+   "start_time_text": "2:44",
+   "start_time_label": "2:44"
+  },
+  {
+   "start_ms": 170879,
+   "end_ms": 172720,
+   "snippet": "तो इसके बाद मैंने कुछ आईपीओ का डाटा",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 172720,
+   "end_ms": 175920,
+   "snippet": "निकाला है जो आईपीओ इस साल रिलीज हुए हैं",
+   "start_time_text": "2:52",
+   "start_time_label": "2:52"
+  },
+  {
+   "start_ms": 175920,
+   "end_ms": 178959,
+   "snippet": "ल्च हुए हैं। ये कुछ आईपीओ के नेम है।",
+   "start_time_text": "2:55",
+   "start_time_label": "2:55"
+  },
+  {
+   "start_ms": 178959,
+   "end_ms": 181040,
+   "snippet": "देखो ये 17 मार्च को ये आईपीओ लिस्ट होता",
+   "start_time_text": "2:58",
+   "start_time_label": "2:58"
+  },
+  {
+   "start_ms": 181040,
+   "end_ms": 183760,
+   "snippet": "है और चारप महीनों में 700% का रिटर्न",
+   "start_time_text": "3:01",
+   "start_time_label": "3:01"
+  },
+  {
+   "start_ms": 183760,
+   "end_ms": 186080,
+   "snippet": "देता है। 4 फरवरी को होता है ये पांच छों",
+   "start_time_text": "3:03",
+   "start_time_label": "3:03"
+  },
+  {
+   "start_ms": 186080,
+   "end_ms": 190640,
+   "snippet": "महीने में 500% ये 200% 200 100% 70 80%",
+   "start_time_text": "3:06",
+   "start_time_label": "3:06"
+  },
+  {
+   "start_ms": 190640,
+   "end_ms": 193519,
+   "snippet": "ये कुछ महीनों में यह सब आईपीओ इसी साल के",
+   "start_time_text": "3:10",
+   "start_time_label": "3:10"
+  },
+  {
+   "start_ms": 193519,
+   "end_ms": 196400,
+   "snippet": "हैं। 1 मई को आता है 20 मई अप्रैल अप्रैल",
+   "start_time_text": "3:13",
+   "start_time_label": "3:13"
+  },
+  {
+   "start_ms": 196400,
+   "end_ms": 199120,
+   "snippet": "अप्रैल मतलब तीन चार पांच महीनों में यह",
+   "start_time_text": "3:16",
+   "start_time_label": "3:16"
+  },
+  {
+   "start_ms": 199120,
+   "end_ms": 203120,
+   "snippet": "भैया ऐसे रिटर्न्स आईपीओ ने दिए हैं। फिर",
+   "start_time_text": "3:19",
+   "start_time_label": "3:19"
+  },
+  {
+   "start_ms": 203120,
+   "end_ms": 205200,
+   "snippet": "से एक बात आपको कह देता हूं जो अभी पहले",
+   "start_time_text": "3:23",
+   "start_time_label": "3:23"
+  },
+  {
+   "start_ms": 205200,
+   "end_ms": 207599,
+   "snippet": "कहा कि देखो भैया यह रिटर्न्स ऑलरेडी यह",
+   "start_time_text": "3:25",
+   "start_time_label": "3:25"
+  },
+  {
+   "start_ms": 207599,
+   "end_ms": 210239,
+   "snippet": "दे चुके हैं। अब पीछे जो हम एआई कंपनीज़ की",
+   "start_time_text": "3:27",
+   "start_time_label": "3:27"
+  },
+  {
+   "start_ms": 210239,
+   "end_ms": 214080,
+   "snippet": "बात कर रहे थे ये 500 600% ये ऑलरेडी दे",
+   "start_time_text": "3:30",
+   "start_time_label": "3:30"
+  },
+  {
+   "start_ms": 214080,
+   "end_ms": 217040,
+   "snippet": "चुके हैं। अब जो घोड़ा ऑलरेडी भाग चुका है",
+   "start_time_text": "3:34",
+   "start_time_label": "3:34"
+  },
+  {
+   "start_ms": 217040,
+   "end_ms": 219440,
+   "snippet": "उस पर सवार होने का फायदा है नहीं। अब आप",
+   "start_time_text": "3:37",
+   "start_time_label": "3:37"
+  },
+  {
+   "start_ms": 219440,
+   "end_ms": 221840,
+   "snippet": "सोचोगे ये 600% दे चुका है। इसको हम होल्ड",
+   "start_time_text": "3:39",
+   "start_time_label": "3:39"
+  },
+  {
+   "start_ms": 221840,
+   "end_ms": 224400,
+   "snippet": "करके रखें तो हो सकता है फायदा ना मिले।",
+   "start_time_text": "3:41",
+   "start_time_label": "3:41"
+  },
+  {
+   "start_ms": 224400,
+   "end_ms": 226720,
+   "snippet": "और वैसे भी हम यहां होल्ड करने की बात ही",
+   "start_time_text": "3:44",
+   "start_time_label": "3:44"
+  },
+  {
+   "start_ms": 226720,
+   "end_ms": 228720,
+   "snippet": "नहीं कर रहे। हम ट्रेडिंग की बात कर रहे",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 228720,
+   "end_ms": 231280,
+   "snippet": "हैं कि जो स्टॉक्स इतने उछल कूद कर रहे",
+   "start_time_text": "3:48",
+   "start_time_label": "3:48"
+  },
+  {
+   "start_ms": 231280,
+   "end_ms": 233599,
+   "snippet": "हैं उस स्टॉक्स में हमारे को ट्रेडिंग की",
+   "start_time_text": "3:51",
+   "start_time_label": "3:51"
+  },
+  {
+   "start_ms": 233599,
+   "end_ms": 235440,
+   "snippet": "अपॉर्चुनिटी कितनी है। हम उसकी बात कर रहे",
+   "start_time_text": "3:53",
+   "start_time_label": "3:53"
+  },
+  {
+   "start_ms": 235440,
+   "end_ms": 237280,
+   "snippet": "हैं। इन्वेस्टमेंट की हम बात ही नहीं कर",
+   "start_time_text": "3:55",
+   "start_time_label": "3:55"
+  },
+  {
+   "start_ms": 237280,
+   "end_ms": 238080,
+   "snippet": "रहे हैं। [नाक से की जाने वाली आवाज़] तो",
+   "start_time_text": "3:57",
+   "start_time_label": "3:57"
+  },
+  {
+   "start_ms": 238080,
+   "end_ms": 240000,
+   "snippet": "हमारा क्या आज हम बात करने वाले हैं?",
+   "start_time_text": "3:58",
+   "start_time_label": "3:58"
+  },
+  {
+   "start_ms": 240000,
+   "end_ms": 243200,
+   "snippet": "व्हेन डस द मार्केट एक्चुअली मूव्स? वो",
+   "start_time_text": "4:00",
+   "start_time_label": "4:00"
+  },
+  {
+   "start_ms": 243200,
+   "end_ms": 246640,
+   "snippet": "डेट, वो महीना, वो समय हमको पहले से पता",
+   "start_time_text": "4:03",
+   "start_time_label": "4:03"
+  },
+  {
+   "start_ms": 246640,
+   "end_ms": 249519,
+   "snippet": "हो जब यूएस मार्केट में एक्चुअली मूवमेंट",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 249519,
+   "end_ms": 252640,
+   "snippet": "आता है। तो ऐसे सात पैटर्न आज हम बात करने",
+   "start_time_text": "4:09",
+   "start_time_label": "4:09"
+  },
+  {
+   "start_ms": 252640,
+   "end_ms": 255439,
+   "snippet": "वाले हैं। उछल कूद मैंने आपको दिखा दिया",
+   "start_time_text": "4:12",
+   "start_time_label": "4:12"
+  },
+  {
+   "start_ms": 255439,
+   "end_ms": 257759,
+   "snippet": "कि यूएस मार्केट में क्यों दुनिया के चाहे",
+   "start_time_text": "4:15",
+   "start_time_label": "4:15"
+  },
+  {
+   "start_ms": 257759,
+   "end_ms": 259199,
+   "snippet": "क्रिप्टो ट्रेडर्स हो, फॉरेक्स ट्रेडर्स,",
+   "start_time_text": "4:17",
+   "start_time_label": "4:17"
+  },
+  {
+   "start_ms": 259199,
+   "end_ms": 260639,
+   "snippet": "हो, इंडियन मार्केट ट्रेडर्स हो, क्यों जा",
+   "start_time_text": "4:19",
+   "start_time_label": "4:19"
+  },
+  {
+   "start_ms": 260639,
+   "end_ms": 263120,
+   "snippet": "रहे हैं टोकनाइज्ड फॉर्म में? क्या होता",
+   "start_time_text": "4:20",
+   "start_time_label": "4:20"
+  },
+  {
+   "start_ms": 263120,
+   "end_ms": 266240,
+   "snippet": "है यह बताऊंगा। आज मोबाइल पे डेमो करके भी",
+   "start_time_text": "4:23",
+   "start_time_label": "4:23"
+  },
+  {
+   "start_ms": 266240,
+   "end_ms": 269199,
+   "snippet": "आपको दिखाऊंगा। ₹100 से कैसे? सिर्फ ₹100",
+   "start_time_text": "4:26",
+   "start_time_label": "4:26"
+  },
+  {
+   "start_ms": 269199,
+   "end_ms": 271120,
+   "snippet": "से कैसे आप यूएस मार्केट में ट्रेड कर",
+   "start_time_text": "4:29",
+   "start_time_label": "4:29"
+  },
+  {
+   "start_ms": 271120,
+   "end_ms": 273680,
+   "snippet": "सकते हो वो सब करके दिखाऊंगा। लेकिन उससे",
+   "start_time_text": "4:31",
+   "start_time_label": "4:31"
+  },
+  {
+   "start_ms": 273680,
+   "end_ms": 275520,
+   "snippet": "पहले पैटर्न बता दूं कौन-कौन से दिन",
+   "start_time_text": "4:33",
+   "start_time_label": "4:33"
+  },
+  {
+   "start_ms": 275520,
+   "end_ms": 280560,
+   "snippet": "मूवमेंट रहता है। ठीक है? सबसे पहला वन",
+   "start_time_text": "4:35",
+   "start_time_label": "4:35"
+  },
+  {
+   "start_ms": 280560,
+   "end_ms": 283280,
+   "snippet": "रूल बिहाइंड एव्री पैटर्न। देखो स्टॉक",
+   "start_time_text": "4:40",
+   "start_time_label": "4:40"
+  },
+  {
+   "start_ms": 283280,
+   "end_ms": 287360,
+   "snippet": "प्राइस मूव्स व्हेन न्यू इनेशन अराइव्स।",
+   "start_time_text": "4:43",
+   "start_time_label": "4:43"
+  },
+  {
+   "start_ms": 287360,
+   "end_ms": 289759,
+   "snippet": "मार्केट में अगर कोई न्यूज़ नहीं है तो",
+   "start_time_text": "4:47",
+   "start_time_label": "4:47"
+  },
+  {
+   "start_ms": 289759,
+   "end_ms": 293520,
+   "snippet": "फ्लैट प्राइस सपाट ना ऊपर ना नीचे। कोई",
+   "start_time_text": "4:49",
+   "start_time_label": "4:49"
+  },
+  {
+   "start_ms": 293520,
+   "end_ms": 295840,
+   "snippet": "बड़ी न्यूज़ आई तभी बड़ा मूवमेंट हमको",
+   "start_time_text": "4:53",
+   "start_time_label": "4:53"
+  },
+  {
+   "start_ms": 295840,
+   "end_ms": 298000,
+   "snippet": "देखने को मिलता है। एंड मोस्ट ऑफ द बिग",
+   "start_time_text": "4:55",
+   "start_time_label": "4:55"
+  },
+  {
+   "start_ms": 298000,
+   "end_ms": 299919,
+   "snippet": "न्यूज़ इज शेड्यूल्ड इन एडवांस। यूएस",
+   "start_time_text": "4:58",
+   "start_time_label": "4:58"
+  },
+  {
+   "start_ms": 299919,
+   "end_ms": 301360,
+   "snippet": "मार्केट देखो दुनिया का सबसे पुराना",
+   "start_time_text": "4:59",
+   "start_time_label": "4:59"
+  },
+  {
+   "start_ms": 301360,
+   "end_ms": 303759,
+   "snippet": "मार्केट है। सबसे बड़ा मार्केट है। सबसे",
+   "start_time_text": "5:01",
+   "start_time_label": "5:01"
+  },
+  {
+   "start_ms": 303759,
+   "end_ms": 306240,
+   "snippet": "मैच्योर मार्केट है। हालांकि इंडिया में",
+   "start_time_text": "5:03",
+   "start_time_label": "5:03"
+  },
+  {
+   "start_ms": 306240,
+   "end_ms": 308240,
+   "snippet": "भी होता है कि डज़ आप पहले से प्रेडिक्ट कर",
+   "start_time_text": "5:06",
+   "start_time_label": "5:06"
+  },
+  {
+   "start_ms": 308240,
+   "end_ms": 310960,
+   "snippet": "सकते हो। लेकिन यहां पर मूवमेंट कम होता",
+   "start_time_text": "5:08",
+   "start_time_label": "5:08"
+  },
+  {
+   "start_ms": 310960,
+   "end_ms": 313840,
+   "snippet": "है। डेज कम है। यूएस मार्केट में इवेंट्स",
+   "start_time_text": "5:10",
+   "start_time_label": "5:10"
+  },
+  {
+   "start_ms": 313840,
+   "end_ms": 316240,
+   "snippet": "ज्यादा हैं। मूवमेंट ज्यादा बड़ा आपको",
+   "start_time_text": "5:13",
+   "start_time_label": "5:13"
+  },
+  {
+   "start_ms": 316240,
+   "end_ms": 317840,
+   "snippet": "देखने को मिल सकता है। मैच्योर मार्केट",
+   "start_time_text": "5:16",
+   "start_time_label": "5:16"
+  },
+  {
+   "start_ms": 317840,
+   "end_ms": 319680,
+   "snippet": "ज्यादा है। लोग ज्यादा है। लिक्विडिटी",
+   "start_time_text": "5:17",
+   "start_time_label": "5:17"
+  },
+  {
+   "start_ms": 319680,
+   "end_ms": 322240,
+   "snippet": "ज्यादा है। सब कुछ ज्यादा है वहां पर। ठीक",
+   "start_time_text": "5:19",
+   "start_time_label": "5:19"
+  },
+  {
+   "start_ms": 322240,
+   "end_ms": 324240,
+   "snippet": "है? अब शेड्यूल न्यूज़ कुछ बताऊंगा।",
+   "start_time_text": "5:22",
+   "start_time_label": "5:22"
+  },
+  {
+   "start_ms": 324240,
+   "end_ms": 325520,
+   "snippet": "कौन-कौन से शेड्यूल न्यूज़ है? इसके बारे",
+   "start_time_text": "5:24",
+   "start_time_label": "5:24"
+  },
+  {
+   "start_ms": 325520,
+   "end_ms": 327520,
+   "snippet": "में डिटेल में आऊंगा। ये सब क्या होता है?",
+   "start_time_text": "5:25",
+   "start_time_label": "5:25"
+  },
+  {
+   "start_ms": 327520,
+   "end_ms": 329360,
+   "snippet": "स्ट्रक्चरल न्यूज़ क्या होता है? अन",
+   "start_time_text": "5:27",
+   "start_time_label": "5:27"
+  },
+  {
+   "start_ms": 329360,
+   "end_ms": 331440,
+   "snippet": "शेड्यूल न्यूज़ कौन सा है? ये सब इसके बारे",
+   "start_time_text": "5:29",
+   "start_time_label": "5:29"
+  },
+  {
+   "start_ms": 331440,
+   "end_ms": 334240,
+   "snippet": "में आज डिटेल में बताने वाला हूं। तो सात",
+   "start_time_text": "5:31",
+   "start_time_label": "5:31"
+  },
+  {
+   "start_ms": 334240,
+   "end_ms": 335840,
+   "snippet": "पैटर्न की अब पैटर्न की हम बात करने वाले",
+   "start_time_text": "5:34",
+   "start_time_label": "5:34"
+  },
+  {
+   "start_ms": 335840,
+   "end_ms": 337680,
+   "snippet": "हैं। सबसे पहला पैटर्न है इंट्राडे",
+   "start_time_text": "5:35",
+   "start_time_label": "5:35"
+  },
+  {
+   "start_ms": 337680,
+   "end_ms": 340479,
+   "snippet": "वॉल्यूम स्माइल। वॉल्यूम स्माइल का मतलब",
+   "start_time_text": "5:37",
+   "start_time_label": "5:37"
+  },
+  {
+   "start_ms": 340479,
+   "end_ms": 342160,
+   "snippet": "स्माइल कैसे होता है हमारा? ऐसे करके होता",
+   "start_time_text": "5:40",
+   "start_time_label": "5:40"
+  },
+  {
+   "start_ms": 342160,
+   "end_ms": 344160,
+   "snippet": "है ना। तो यह पैटर्न देखो आपको कुछ ऐसा ही",
+   "start_time_text": "5:42",
+   "start_time_label": "5:42"
+  },
+  {
+   "start_ms": 344160,
+   "end_ms": 346720,
+   "snippet": "देखने को मिलेगा। यह पैटर्न बेसिकली यह",
+   "start_time_text": "5:44",
+   "start_time_label": "5:44"
+  },
+  {
+   "start_ms": 346720,
+   "end_ms": 349120,
+   "snippet": "बता रहा है कि दिन की शुरुआत में जब",
+   "start_time_text": "5:46",
+   "start_time_label": "5:46"
+  },
+  {
+   "start_ms": 349120,
+   "end_ms": 351840,
+   "snippet": "मार्केट खुलता है तो मूवमेंट बहुत तेज",
+   "start_time_text": "5:49",
+   "start_time_label": "5:49"
+  },
+  {
+   "start_ms": 351840,
+   "end_ms": 354720,
+   "snippet": "रहता है। उसके बाद धीरे धीरे धीरे मूवमेंट",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 354720,
+   "end_ms": 356800,
+   "snippet": "सुस्त होता चला जाता है। दोपहर तक मूवमेंट",
+   "start_time_text": "5:54",
+   "start_time_label": "5:54"
+  },
+  {
+   "start_ms": 356800,
+   "end_ms": 359120,
+   "snippet": "सुस्त हो जाता है और उसके बाद जब मार्केट",
+   "start_time_text": "5:56",
+   "start_time_label": "5:56"
+  },
+  {
+   "start_ms": 359120,
+   "end_ms": 361440,
+   "snippet": "बंद होने वाला होता है तब मूवमेंट बहुत",
+   "start_time_text": "5:59",
+   "start_time_label": "5:59"
+  },
+  {
+   "start_ms": 361440,
+   "end_ms": 364400,
+   "snippet": "फास्ट दिखता है। अब यूएस मार्केट में ये",
+   "start_time_text": "6:01",
+   "start_time_label": "6:01"
+  },
+  {
+   "start_ms": 364400,
+   "end_ms": 366240,
+   "snippet": "हो रहा है। अब हमारे इंडिया का मार्केट और",
+   "start_time_text": "6:04",
+   "start_time_label": "6:04"
+  },
+  {
+   "start_ms": 366240,
+   "end_ms": 368479,
+   "snippet": "यूएस मार्केट के टाइमिंग अलग-अलग है। तो",
+   "start_time_text": "6:06",
+   "start_time_label": "6:06"
+  },
+  {
+   "start_ms": 368479,
+   "end_ms": 370560,
+   "snippet": "टाइमिंग के हिसाब से आपको बताने की कोशिश",
+   "start_time_text": "6:08",
+   "start_time_label": "6:08"
+  },
+  {
+   "start_ms": 370560,
+   "end_ms": 372000,
+   "snippet": "करता हूं।",
+   "start_time_text": "6:10",
+   "start_time_label": "6:10"
+  },
+  {
+   "start_ms": 372000,
+   "end_ms": 374400,
+   "snippet": "वहां भी 9:30 बजे मार्केट खुलता है। 9:30",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 374400,
+   "end_ms": 376720,
+   "snippet": "बजे से लेकर के 10:00 बजे तक यूएस की",
+   "start_time_text": "6:14",
+   "start_time_label": "6:14"
+  },
+  {
+   "start_ms": 376720,
+   "end_ms": 378639,
+   "snippet": "टाइमिंग के अकॉर्डिंग। उस वक्त इंडिया में",
+   "start_time_text": "6:16",
+   "start_time_label": "6:16"
+  },
+  {
+   "start_ms": 378639,
+   "end_ms": 381520,
+   "snippet": "हो रहा होता है शाम के 7 से 7:30। यानी कि",
+   "start_time_text": "6:18",
+   "start_time_label": "6:18"
+  },
+  {
+   "start_ms": 381520,
+   "end_ms": 383120,
+   "snippet": "आप इंडिया में बैठ के अगर ट्रेडिंग कर रहे",
+   "start_time_text": "6:21",
+   "start_time_label": "6:21"
+  },
+  {
+   "start_ms": 383120,
+   "end_ms": 386000,
+   "snippet": "हो तो 7:00 से 7:30 बजे एक्टिव हो जाओ। उस",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386000,
+   "end_ms": 389520,
+   "snippet": "वक्त आपको ओपनिंग ड्राइव बिगेस्ट मूव ऑफ द",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 389520,
+   "end_ms": 392400,
+   "snippet": "डे मिलेगा। और यह हर रोज की बात है।",
+   "start_time_text": "6:29",
+   "start_time_label": "6:29"
+  },
+  {
+   "start_ms": 392400,
+   "end_ms": 395360,
+   "snippet": "एवरीडे की बात कर रहा हूं। हर रोज सबसे",
+   "start_time_text": "6:32",
+   "start_time_label": "6:32"
+  },
+  {
+   "start_ms": 395360,
+   "end_ms": 398720,
+   "snippet": "बड़ा मूव 7:00 बजे से 7:30। अच्छा ये वो",
+   "start_time_text": "6:35",
+   "start_time_label": "6:35"
+  },
+  {
+   "start_ms": 398720,
+   "end_ms": 400400,
+   "snippet": "टाइम है जब आप ऑफिस में भी हो तो कर सकते",
+   "start_time_text": "6:38",
+   "start_time_label": "6:38"
+  },
+  {
+   "start_ms": 400400,
+   "end_ms": 402000,
+   "snippet": "हो या फिर रास्ते में हो तो कर सकते हो।",
+   "start_time_text": "6:40",
+   "start_time_label": "6:40"
+  },
+  {
+   "start_ms": 402000,
+   "end_ms": 404319,
+   "snippet": "घर जल्दी पहुंच जाओ तो कर सकते हो। 7 से",
+   "start_time_text": "6:42",
+   "start_time_label": "6:42"
+  },
+  {
+   "start_ms": 404319,
+   "end_ms": 407039,
+   "snippet": "7:30 मतलब समय निकाला जा सकता है हर किसी",
+   "start_time_text": "6:44",
+   "start_time_label": "6:44"
+  },
+  {
+   "start_ms": 407039,
+   "end_ms": 410160,
+   "snippet": "के लिए। उसके बाद मार्केट थोड़ा सुस्त",
+   "start_time_text": "6:47",
+   "start_time_label": "6:47"
+  },
+  {
+   "start_ms": 410160,
+   "end_ms": 412240,
+   "snippet": "होता चला जाता है। लेकिन उसके बाद लास्ट",
+   "start_time_text": "6:50",
+   "start_time_label": "6:50"
+  },
+  {
+   "start_ms": 412240,
+   "end_ms": 415039,
+   "snippet": "में पावर आवर बोलते हैं 3:00 बजे से लेके",
+   "start_time_text": "6:52",
+   "start_time_label": "6:52"
+  },
+  {
+   "start_ms": 415039,
+   "end_ms": 416800,
+   "snippet": "4:00 बजे तक यानी कि इंडियन टाइम के",
+   "start_time_text": "6:55",
+   "start_time_label": "6:55"
+  },
+  {
+   "start_ms": 416800,
+   "end_ms": 420240,
+   "snippet": "अकॉर्डिंग रात के 12:30 से 1:30 बजे तक",
+   "start_time_text": "6:56",
+   "start_time_label": "6:56"
+  },
+  {
+   "start_ms": 420240,
+   "end_ms": 422560,
+   "snippet": "रात के 12:30 से 1:30 बजे तक अगर आप",
+   "start_time_text": "7:00",
+   "start_time_label": "7:00"
+  },
+  {
+   "start_ms": 422560,
+   "end_ms": 424639,
+   "snippet": "एक्टिव रह सकते हो, ट्रेड कर सकते हो, तो",
+   "start_time_text": "7:02",
+   "start_time_label": "7:02"
+  },
+  {
+   "start_ms": 424639,
+   "end_ms": 426800,
+   "snippet": "यह पावर आर है। सबसे ज्यादा मूवमेंट आपको",
+   "start_time_text": "7:04",
+   "start_time_label": "7:04"
+  },
+  {
+   "start_ms": 426800,
+   "end_ms": 428960,
+   "snippet": "देखने को मिलेगा। तो, यह पैटर्न वन मैंने",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 428960,
+   "end_ms": 431919,
+   "snippet": "बताया कि रोज का रोज को रोज का आपको",
+   "start_time_text": "7:08",
+   "start_time_label": "7:08"
+  },
+  {
+   "start_ms": 431919,
+   "end_ms": 433680,
+   "snippet": "मूवमेंट इस टाइम पे मिलेगा। उसके बाद",
+   "start_time_text": "7:11",
+   "start_time_label": "7:11"
+  },
+  {
+   "start_ms": 433680,
+   "end_ms": 436800,
+   "snippet": "अर्निंग सेशंस। साल के चार महीने ऐसे हैं",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 436800,
+   "end_ms": 439280,
+   "snippet": "जब कंपनियों का अर्निंग का डाटा आता है।",
+   "start_time_text": "7:16",
+   "start_time_label": "7:16"
+  },
+  {
+   "start_ms": 439280,
+   "end_ms": 442400,
+   "snippet": "अर्निंग का डाटा मतलब कमाया कितना? हमारे",
+   "start_time_text": "7:19",
+   "start_time_label": "7:19"
+  },
+  {
+   "start_ms": 442400,
+   "end_ms": 444960,
+   "snippet": "घरों में कैसा होता है जब अह बच्चे का",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 444960,
+   "end_ms": 447199,
+   "snippet": "स्कूल का रिजल्ट आता है। अच्छा रिजल्ट",
+   "start_time_text": "7:24",
+   "start_time_label": "7:24"
+  },
+  {
+   "start_ms": 447199,
+   "end_ms": 449280,
+   "snippet": "आया। अरे वाह! मिठाई-विठाई बैठेगी। बहुत",
+   "start_time_text": "7:27",
+   "start_time_label": "7:27"
+  },
+  {
+   "start_ms": 449280,
+   "end_ms": 451440,
+   "snippet": "बढ़िया। क्या रिजल्ट लेके आया? अच्छा खराब",
+   "start_time_text": "7:29",
+   "start_time_label": "7:29"
+  },
+  {
+   "start_ms": 451440,
+   "end_ms": 453280,
+   "snippet": "रिजल्ट आया तो अरे क्या रिजल्ट लेके आया?",
+   "start_time_text": "7:31",
+   "start_time_label": "7:31"
+  },
+  {
+   "start_ms": 453280,
+   "end_ms": 455919,
+   "snippet": "सबका मूड ऑफ हो गया। तो अच्छा रिजल्ट आया",
+   "start_time_text": "7:33",
+   "start_time_label": "7:33"
+  },
+  {
+   "start_ms": 455919,
+   "end_ms": 458479,
+   "snippet": "तो खुशियां मनेंगी। खराब रिजल्ट आया तो",
+   "start_time_text": "7:35",
+   "start_time_label": "7:35"
+  },
+  {
+   "start_ms": 458479,
+   "end_ms": 460880,
+   "snippet": "सबका मूड ऑफ होगा। इसी तरीके से मार्केट",
+   "start_time_text": "7:38",
+   "start_time_label": "7:38"
+  },
+  {
+   "start_ms": 460880,
+   "end_ms": 463199,
+   "snippet": "में जब कंपनियों के अच्छे रिजल्ट आते हैं",
+   "start_time_text": "7:40",
+   "start_time_label": "7:40"
+  },
+  {
+   "start_ms": 463199,
+   "end_ms": 465919,
+   "snippet": "सब चढ़ेगा भागेगा खराब रिजल्ट आया है तो",
+   "start_time_text": "7:43",
+   "start_time_label": "7:43"
+  },
+  {
+   "start_ms": 465919,
+   "end_ms": 468720,
+   "snippet": "सब गिरेगा तो ये 4 महीना साल का ऐसा होता",
+   "start_time_text": "7:45",
+   "start_time_label": "7:45"
+  },
+  {
+   "start_ms": 468720,
+   "end_ms": 470800,
+   "snippet": "है जब कंपनियों के रिजल्ट आते हैं अर्निंग",
+   "start_time_text": "7:48",
+   "start_time_label": "7:48"
+  },
+  {
+   "start_ms": 470800,
+   "end_ms": 472960,
+   "snippet": "आता है अर्निंग रिपोर्ट आती है कमाया",
+   "start_time_text": "7:50",
+   "start_time_label": "7:50"
+  },
+  {
+   "start_ms": 472960,
+   "end_ms": 475680,
+   "snippet": "कितना अच्छा कमाया खराब कमाया तो इस वक्त",
+   "start_time_text": "7:52",
+   "start_time_label": "7:52"
+  },
+  {
+   "start_ms": 475680,
+   "end_ms": 477759,
+   "snippet": "आपको मूवमेंट देखने को मिलेगा भैया कमाई",
+   "start_time_text": "7:55",
+   "start_time_label": "7:55"
+  },
+  {
+   "start_ms": 477759,
+   "end_ms": 480960,
+   "snippet": "हुई भागेगा अपर का अप्पर मूवमेंट देखने को",
+   "start_time_text": "7:57",
+   "start_time_label": "7:57"
+  },
+  {
+   "start_ms": 480960,
+   "end_ms": 484240,
+   "snippet": "मिलेगा खराब हुई तो नीचे का मूवमेंट आपको",
+   "start_time_text": "8:00",
+   "start_time_label": "8:00"
+  },
+  {
+   "start_ms": 484240,
+   "end_ms": 487280,
+   "snippet": "देखने को मिलेगा रिजल्ट ड्रॉप्स अच्छा यह",
+   "start_time_text": "8:04",
+   "start_time_label": "8:04"
+  },
+  {
+   "start_ms": 487280,
+   "end_ms": 490800,
+   "snippet": "कब होता है जनवरी में सेकंड वीक से ही",
+   "start_time_text": "8:07",
+   "start_time_label": "8:07"
+  },
+  {
+   "start_ms": 490800,
+   "end_ms": 493280,
+   "snippet": "शुरू होता है और अगले छह हफ्ते तक यह चलता",
+   "start_time_text": "8:10",
+   "start_time_label": "8:10"
+  },
+  {
+   "start_ms": 493280,
+   "end_ms": 496479,
+   "snippet": "है। तो पूरे जनवरी में सेकंड वीक से शुरू",
+   "start_time_text": "8:13",
+   "start_time_label": "8:13"
+  },
+  {
+   "start_ms": 496479,
+   "end_ms": 498800,
+   "snippet": "हो के छ हफ्ते तक समझ लो ट्रेडर्स की",
+   "start_time_text": "8:16",
+   "start_time_label": "8:16"
+  },
+  {
+   "start_ms": 498800,
+   "end_ms": 501759,
+   "snippet": "दिवाली। मार्केट ऊपर जाए तो भी दिवाली,",
+   "start_time_text": "8:18",
+   "start_time_label": "8:18"
+  },
+  {
+   "start_ms": 501759,
+   "end_ms": 503680,
+   "snippet": "नीचे जाए तो भी दिवाली। क्योंकि हमको क्या",
+   "start_time_text": "8:21",
+   "start_time_label": "8:21"
+  },
+  {
+   "start_ms": 503680,
+   "end_ms": 506080,
+   "snippet": "करना है भैया? ऊपर जाएगा तो लॉन्ग करेंगे,",
+   "start_time_text": "8:23",
+   "start_time_label": "8:23"
+  },
+  {
+   "start_ms": 506080,
+   "end_ms": 508560,
+   "snippet": "नीचे जाएगा तो शॉर्ट करेंगे। ऊपर हो या",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508560,
+   "end_ms": 510639,
+   "snippet": "नीचे ट्रेडर्स की तो दिवाली है भैया। तो",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 510639,
+   "end_ms": 513120,
+   "snippet": "ये छह हफ्ते तक जनवरी में दिवाली चलती है।",
+   "start_time_text": "8:30",
+   "start_time_label": "8:30"
+  },
+  {
+   "start_ms": 513120,
+   "end_ms": 515120,
+   "snippet": "अप्रैल में भी इसी तरीके से सेकंड वीक से",
+   "start_time_text": "8:33",
+   "start_time_label": "8:33"
+  },
+  {
+   "start_ms": 515120,
+   "end_ms": 516959,
+   "snippet": "शुरू होगा। छह वीक तक अप्रैल में भी",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 516959,
+   "end_ms": 519279,
+   "snippet": "दिवाली चलेगी। जून में भी सेकंड वीक से",
+   "start_time_text": "8:36",
+   "start_time_label": "8:36"
+  },
+  {
+   "start_ms": 519279,
+   "end_ms": 521039,
+   "snippet": "शुरू होगा। छह हफ्ते तक यहां भी दिवाली",
+   "start_time_text": "8:39",
+   "start_time_label": "8:39"
+  },
+  {
+   "start_ms": 521039,
+   "end_ms": 523279,
+   "snippet": "चलेगी। जून नहीं सॉरी जुलाई। अक्टूबर में",
+   "start_time_text": "8:41",
+   "start_time_label": "8:41"
+  },
+  {
+   "start_ms": 523279,
+   "end_ms": 524959,
+   "snippet": "भी ऐसे ही सेकंड वीक से शुरू होगा। छह",
+   "start_time_text": "8:43",
+   "start_time_label": "8:43"
+  },
+  {
+   "start_ms": 524959,
+   "end_ms": 529360,
+   "snippet": "हफ्ते तक दिवाली। तो आपको 6 * 4के 24 छ",
+   "start_time_text": "8:44",
+   "start_time_label": "8:44"
+  },
+  {
+   "start_ms": 529360,
+   "end_ms": 533519,
+   "snippet": "कितना हुआ? 24 24 हफ्ते साल के भरपूर",
+   "start_time_text": "8:49",
+   "start_time_label": "8:49"
+  },
+  {
+   "start_ms": 533519,
+   "end_ms": 536720,
+   "snippet": "दिवाली। रिजल्ट ड्रॉप आफ्टर द क्लोज। एक",
+   "start_time_text": "8:53",
+   "start_time_label": "8:53"
+  },
+  {
+   "start_ms": 536720,
+   "end_ms": 539440,
+   "snippet": "चीज यहां पे ध्यान दीजिएगा। जब कंपनियों",
+   "start_time_text": "8:56",
+   "start_time_label": "8:56"
+  },
+  {
+   "start_ms": 539440,
+   "end_ms": 542000,
+   "snippet": "का अर्निंग का रिपोर्ट आता है ना तो मार्क",
+   "start_time_text": "8:59",
+   "start_time_label": "8:59"
+  },
+  {
+   "start_ms": 542000,
+   "end_ms": 544560,
+   "snippet": "जिस दिन रिपोर्ट आया उस दिन हो सकता है",
+   "start_time_text": "9:02",
+   "start_time_label": "9:02"
+  },
+  {
+   "start_ms": 544560,
+   "end_ms": 546959,
+   "snippet": "मार्केट में आपको बड़ी हलचल नहीं दिखे।",
+   "start_time_text": "9:04",
+   "start_time_label": "9:04"
+  },
+  {
+   "start_ms": 546959,
+   "end_ms": 549600,
+   "snippet": "क्योंकि जब रिपोर्ट आ जाता है उसके बाद",
+   "start_time_text": "9:06",
+   "start_time_label": "9:06"
+  },
+  {
+   "start_ms": 549600,
+   "end_ms": 552320,
+   "snippet": "मीडिया में इवेंट्स में क्या डिस्कशन हो",
+   "start_time_text": "9:09",
+   "start_time_label": "9:09"
+  },
+  {
+   "start_ms": 552320,
+   "end_ms": 555440,
+   "snippet": "रहा है उसके बेस पे ज्यादा मूवमेंट देखने",
+   "start_time_text": "9:12",
+   "start_time_label": "9:12"
+  },
+  {
+   "start_ms": 555440,
+   "end_ms": 558959,
+   "snippet": "को मिलता है और वो हलचल आपको ड्यूरिंग",
+   "start_time_text": "9:15",
+   "start_time_label": "9:15"
+  },
+  {
+   "start_ms": 558959,
+   "end_ms": 560720,
+   "snippet": "मार्केट आवर उस दिन नहीं मिलेगा जब",
+   "start_time_text": "9:18",
+   "start_time_label": "9:18"
+  },
+  {
+   "start_ms": 560720,
+   "end_ms": 563440,
+   "snippet": "मार्केट खत्म हो जाए तब बड़ी न्यूज़ आती",
+   "start_time_text": "9:20",
+   "start_time_label": "9:20"
+  },
+  {
+   "start_ms": 563440,
+   "end_ms": 564800,
+   "snippet": "है लेकिन तब तक तो मार्केट बंद हो चुका",
+   "start_time_text": "9:23",
+   "start_time_label": "9:23"
+  },
+  {
+   "start_ms": 564800,
+   "end_ms": 566720,
+   "snippet": "होता है ना तो हलचल आपको अगले दिन देखने",
+   "start_time_text": "9:24",
+   "start_time_label": "9:24"
+  },
+  {
+   "start_ms": 566720,
+   "end_ms": 570080,
+   "snippet": "को मिलेगा लेकिन आप दुनिया भर के लोग जब",
+   "start_time_text": "9:26",
+   "start_time_label": "9:26"
+  },
+  {
+   "start_ms": 570080,
+   "end_ms": 571920,
+   "snippet": "उस हलचल का फायदा उठाएंगे आप उससे पहले",
+   "start_time_text": "9:30",
+   "start_time_label": "9:30"
+  },
+  {
+   "start_ms": 571920,
+   "end_ms": 575440,
+   "snippet": "उठा सकते हो कैसे क्योंकि हम जिस ऐप के",
+   "start_time_text": "9:31",
+   "start_time_label": "9:31"
+  },
+  {
+   "start_ms": 575440,
+   "end_ms": 577839,
+   "snippet": "जरिए हम टोकनाइज्ड मार्केट की बात कर रहे",
+   "start_time_text": "9:35",
+   "start_time_label": "9:35"
+  },
+  {
+   "start_ms": 577839,
+   "end_ms": 579360,
+   "snippet": "हैं। चलो आगे बताने वाला तो पहले ही बता",
+   "start_time_text": "9:37",
+   "start_time_label": "9:37"
+  },
+  {
+   "start_ms": 579360,
+   "end_ms": 581920,
+   "snippet": "देता हूं। बाकी पैटर्न बताने के पहले।",
+   "start_time_text": "9:39",
+   "start_time_label": "9:39"
+  },
+  {
+   "start_ms": 581920,
+   "end_ms": 583611,
+   "snippet": "टोकनाइज्ड मार्केट क्या होता है?",
+   "start_time_text": "9:41",
+   "start_time_label": "9:41"
+  },
+  {
+   "start_ms": 583611,
+   "end_ms": 584480,
+   "snippet": "[नाक से की जाने वाली आवाज़] अब जैसे यूएस",
+   "start_time_text": "9:43",
+   "start_time_label": "9:43"
+  },
+  {
+   "start_ms": 584480,
+   "end_ms": 587680,
+   "snippet": "स्टॉक्स हैं। यूएस स्टॉक्स के टोकंस बने",
+   "start_time_text": "9:44",
+   "start_time_label": "9:44"
+  },
+  {
+   "start_ms": 587680,
+   "end_ms": 590240,
+   "snippet": "हुए हैं। और वो सारे टोकंस क्रिप्टो",
+   "start_time_text": "9:47",
+   "start_time_label": "9:47"
+  },
+  {
+   "start_ms": 590240,
+   "end_ms": 592240,
+   "snippet": "एक्सचेंजेस पर अवेलेबल होते हैं। और आपको",
+   "start_time_text": "9:50",
+   "start_time_label": "9:50"
+  },
+  {
+   "start_ms": 592240,
+   "end_ms": 594399,
+   "snippet": "पता है कि भारत का सबसे बड़ा एक्सचेंज",
+   "start_time_text": "9:52",
+   "start_time_label": "9:52"
+  },
+  {
+   "start_ms": 594399,
+   "end_ms": 597200,
+   "snippet": "कॉincx है। भारत का इकलौता यूनिकॉर्न",
+   "start_time_text": "9:54",
+   "start_time_label": "9:54"
+  },
+  {
+   "start_ms": 597200,
+   "end_ms": 599200,
+   "snippet": "एक्सचेंज कॉinडीx है। इसलिए मैं कॉinडीx",
+   "start_time_text": "9:57",
+   "start_time_label": "9:57"
+  },
+  {
+   "start_ms": 599200,
+   "end_ms": 601200,
+   "snippet": "की हमेशा बात करता हूं। उसका कस्टमाइज",
+   "start_time_text": "9:59",
+   "start_time_label": "9:59"
+  },
+  {
+   "start_ms": 601200,
+   "end_ms": 602640,
+   "snippet": "लिंक हम डिस्क्रिप्शन में देके रखते हैं।",
+   "start_time_text": "10:01",
+   "start_time_label": "10:01"
+  },
+  {
+   "start_ms": 602640,
+   "end_ms": 604720,
+   "snippet": "कस्टमाइज़ क्यों कहता हूं? क्योंकि 20%",
+   "start_time_text": "10:02",
+   "start_time_label": "10:02"
+  },
+  {
+   "start_ms": 604720,
+   "end_ms": 606399,
+   "snippet": "ब्रोकरेज पर आपको उसमें डिस्काउंट मिलता",
+   "start_time_text": "10:04",
+   "start_time_label": "10:04"
+  },
+  {
+   "start_ms": 606399,
+   "end_ms": 608399,
+   "snippet": "है और अगर आप पहली बार साइन अप करते हो तो",
+   "start_time_text": "10:06",
+   "start_time_label": "10:06"
+  },
+  {
+   "start_ms": 608399,
+   "end_ms": 610160,
+   "snippet": "आपको ₹100 का बिटकॉइन भी फ्री मिलता है",
+   "start_time_text": "10:08",
+   "start_time_label": "10:08"
+  },
+  {
+   "start_ms": 610160,
+   "end_ms": 613120,
+   "snippet": "कूपन कोड इस्तेमाल करके। ठीक है? तो उस",
+   "start_time_text": "10:10",
+   "start_time_label": "10:10"
+  },
+  {
+   "start_ms": 613120,
+   "end_ms": 616160,
+   "snippet": "एक्सचेंज पर यूएस स्टॉक [हंसी] के टोकन",
+   "start_time_text": "10:13",
+   "start_time_label": "10:13"
+  },
+  {
+   "start_ms": 616160,
+   "end_ms": 618640,
+   "snippet": "फॉर्म में टोकंस वहां पर लिस्टेड हैं।",
+   "start_time_text": "10:16",
+   "start_time_label": "10:16"
+  },
+  {
+   "start_ms": 618640,
+   "end_ms": 620640,
+   "snippet": "Tesla के टोकंस लिस्टेड हैं। स्पेसx के",
+   "start_time_text": "10:18",
+   "start_time_label": "10:18"
+  },
+  {
+   "start_ms": 620640,
+   "end_ms": 622480,
+   "snippet": "टोकंस लिस्टेड हैं। Google के, Apple के",
+   "start_time_text": "10:20",
+   "start_time_label": "10:20"
+  },
+  {
+   "start_ms": 622480,
+   "end_ms": 625120,
+   "snippet": "इन सब के टोकंस लिस्टेड हैं। अब चकि वो",
+   "start_time_text": "10:22",
+   "start_time_label": "10:22"
+  },
+  {
+   "start_ms": 625120,
+   "end_ms": 628240,
+   "snippet": "क्रिप्टो टोकंस हैं। 24 घंटे खुले रहते",
+   "start_time_text": "10:25",
+   "start_time_label": "10:25"
+  },
+  {
+   "start_ms": 628240,
+   "end_ms": 630560,
+   "snippet": "हैं वो। ये यूएस मार्केट बंद होने के बाद",
+   "start_time_text": "10:28",
+   "start_time_label": "10:28"
+  },
+  {
+   "start_ms": 630560,
+   "end_ms": 634480,
+   "snippet": "भी वो टोकंस ओपन रहते हैं। अच्छा टोकंस",
+   "start_time_text": "10:30",
+   "start_time_label": "10:30"
+  },
+  {
+   "start_ms": 634480,
+   "end_ms": 636320,
+   "snippet": "अगर Google का है, Apple का है तो",
+   "start_time_text": "10:34",
+   "start_time_label": "10:34"
+  },
+  {
+   "start_ms": 636320,
+   "end_ms": 638640,
+   "snippet": "एग्जजेक्टली वही मूवमेंट ये फॉलो करते",
+   "start_time_text": "10:36",
+   "start_time_label": "10:36"
+  },
+  {
+   "start_ms": 638640,
+   "end_ms": 640880,
+   "snippet": "हैं। अगर Apple में मूवमेंट आपको यहां US",
+   "start_time_text": "10:38",
+   "start_time_label": "10:38"
+  },
+  {
+   "start_ms": 640880,
+   "end_ms": 642399,
+   "snippet": "स्टॉक में दिख रहा है तो यहां भी दिखेगा",
+   "start_time_text": "10:40",
+   "start_time_label": "10:40"
+  },
+  {
+   "start_ms": 642399,
+   "end_ms": 645040,
+   "snippet": "क्योंकि उसका उसी का टोकन फॉर्म है ये।",
+   "start_time_text": "10:42",
+   "start_time_label": "10:42"
+  },
+  {
+   "start_ms": 645040,
+   "end_ms": 647040,
+   "snippet": "कुछ अलग नहीं है। सेम मूवमेंट आपको यहां",
+   "start_time_text": "10:45",
+   "start_time_label": "10:45"
+  },
+  {
+   "start_ms": 647040,
+   "end_ms": 649279,
+   "snippet": "देखने को मिलेगा। तो मार्केट जब बंद हो",
+   "start_time_text": "10:47",
+   "start_time_label": "10:47"
+  },
+  {
+   "start_ms": 649279,
+   "end_ms": 653279,
+   "snippet": "जाए और अगर आपको हलचल चाहिए तो इधर कॉin",
+   "start_time_text": "10:49",
+   "start_time_label": "10:49"
+  },
+  {
+   "start_ms": 653279,
+   "end_ms": 657120,
+   "snippet": "D6 पर जाकर के उन टोकंस में हलचल देखो।",
+   "start_time_text": "10:53",
+   "start_time_label": "10:53"
+  },
+  {
+   "start_ms": 657120,
+   "end_ms": 659360,
+   "snippet": "spcex का आईपीओ आया भैया। इधर मार्केट बंद",
+   "start_time_text": "10:57",
+   "start_time_label": "10:57"
+  },
+  {
+   "start_ms": 659360,
+   "end_ms": 662000,
+   "snippet": "हो गया। Spcex आपको मिलेगा कॉincx पर।",
+   "start_time_text": "10:59",
+   "start_time_label": "10:59"
+  },
+  {
+   "start_ms": 662000,
+   "end_ms": 665600,
+   "snippet": "यहां हलचल देखो। ठीक है? वन रिपोर्ट मूव्स",
+   "start_time_text": "11:02",
+   "start_time_label": "11:02"
+  },
+  {
+   "start_ms": 665600,
+   "end_ms": 667920,
+   "snippet": "द होल सेक्टर। हां, ये भी ध्यान रखिए भैया",
+   "start_time_text": "11:05",
+   "start_time_label": "11:05"
+  },
+  {
+   "start_ms": 667920,
+   "end_ms": 670800,
+   "snippet": "कि एक सेक्टर की एक बड़ी कंपनी का तब जब",
+   "start_time_text": "11:07",
+   "start_time_label": "11:07"
+  },
+  {
+   "start_ms": 670800,
+   "end_ms": 672800,
+   "snippet": "रिजल्ट आता है चाहे पॉजिटिव हो या",
+   "start_time_text": "11:10",
+   "start_time_label": "11:10"
+  },
+  {
+   "start_ms": 672800,
+   "end_ms": 675200,
+   "snippet": "नेगेटिव। तो उस पूरे सेक्टर को वो हिला",
+   "start_time_text": "11:12",
+   "start_time_label": "11:12"
+  },
+  {
+   "start_ms": 675200,
+   "end_ms": 678320,
+   "snippet": "करके रख देता है। अब जैसे माइक्रोन का",
+   "start_time_text": "11:15",
+   "start_time_label": "11:15"
+  },
+  {
+   "start_ms": 678320,
+   "end_ms": 680079,
+   "snippet": "रिपोर्ट आया तो माइक्रोन का रिपोर्ट आने",
+   "start_time_text": "11:18",
+   "start_time_label": "11:18"
+  },
+  {
+   "start_ms": 680079,
+   "end_ms": 682160,
+   "snippet": "के बाद सडि भी हिला, वेस्टर्न डिजिटल भी",
+   "start_time_text": "11:20",
+   "start_time_label": "11:20"
+  },
+  {
+   "start_ms": 682160,
+   "end_ms": 683920,
+   "snippet": "हिला, सीक्रेट भी हिला। उस सेक्टर की सारी",
+   "start_time_text": "11:22",
+   "start_time_label": "11:22"
+  },
+  {
+   "start_ms": 683920,
+   "end_ms": 686160,
+   "snippet": "कंपनियां हिल जाती है। ठीक उसी तरीके से",
+   "start_time_text": "11:23",
+   "start_time_label": "11:23"
+  },
+  {
+   "start_ms": 686160,
+   "end_ms": 688079,
+   "snippet": "जैसे इंडिया में अगर TCS का रिजल्ट आया तो",
+   "start_time_text": "11:26",
+   "start_time_label": "11:26"
+  },
+  {
+   "start_ms": 688079,
+   "end_ms": 690399,
+   "snippet": "आईटी सेक्टर की सारी कंपनियों का हिला",
+   "start_time_text": "11:28",
+   "start_time_label": "11:28"
+  },
+  {
+   "start_ms": 690399,
+   "end_ms": 694079,
+   "snippet": "मूवमेंट हिल जाता है। ठीक है? उसके बाद",
+   "start_time_text": "11:30",
+   "start_time_label": "11:30"
+  },
+  {
+   "start_ms": 694079,
+   "end_ms": 696560,
+   "snippet": "गुड नंबर्स बैड रिएक्शन। हां, यह भी ध्यान",
+   "start_time_text": "11:34",
+   "start_time_label": "11:34"
+  },
+  {
+   "start_ms": 696560,
+   "end_ms": 699519,
+   "snippet": "रखिए भैया कि यूएस मार्केट में जरूरी नहीं",
+   "start_time_text": "11:36",
+   "start_time_label": "11:36"
+  },
+  {
+   "start_ms": 699519,
+   "end_ms": 701920,
+   "snippet": "है कि अगर नंबर्स अच्छे आए हैं तो आपको",
+   "start_time_text": "11:39",
+   "start_time_label": "11:39"
+  },
+  {
+   "start_ms": 701920,
+   "end_ms": 703920,
+   "snippet": "मूवमेंट पॉजिटिव दिखेगा। कई बार कंपनियों",
+   "start_time_text": "11:41",
+   "start_time_label": "11:41"
+  },
+  {
+   "start_ms": 703920,
+   "end_ms": 706959,
+   "snippet": "के नंबर अच्छे आते हैं नेगेटिव मूवमेंट हो",
+   "start_time_text": "11:43",
+   "start_time_label": "11:43"
+  },
+  {
+   "start_ms": 706959,
+   "end_ms": 708640,
+   "snippet": "जाता है। क्यों? अब जैसे Spcex का आप देख",
+   "start_time_text": "11:46",
+   "start_time_label": "11:46"
+  },
+  {
+   "start_ms": 708640,
+   "end_ms": 711200,
+   "snippet": "लो Q2 का रिजल्ट आया।",
+   "start_time_text": "11:48",
+   "start_time_label": "11:48"
+  },
+  {
+   "start_ms": 711200,
+   "end_ms": 715680,
+   "snippet": "92% रेवेन्यू ग्रोथ लेकिन फिर भी 13%",
+   "start_time_text": "11:51",
+   "start_time_label": "11:51"
+  },
+  {
+   "start_ms": 715680,
+   "end_ms": 718480,
+   "snippet": "माइनस। क्यों? क्योंकि भैया रेवेन्यू बढ़ा",
+   "start_time_text": "11:55",
+   "start_time_label": "11:55"
+  },
+  {
+   "start_ms": 718480,
+   "end_ms": 720959,
+   "snippet": "था, प्रॉफिट नहीं बढ़ा था। अब मार्केट ने",
+   "start_time_text": "11:58",
+   "start_time_label": "11:58"
+  },
+  {
+   "start_ms": 720959,
+   "end_ms": 722480,
+   "snippet": "रेवेन्यू को नहीं पकड़ा। मार्केट ने",
+   "start_time_text": "12:00",
+   "start_time_label": "12:00"
+  },
+  {
+   "start_ms": 722480,
+   "end_ms": 725360,
+   "snippet": "प्रॉफिटेबिलिटी को पकड़ा। ठीक है? लेकिन",
+   "start_time_text": "12:02",
+   "start_time_label": "12:02"
+  },
+  {
+   "start_ms": 725360,
+   "end_ms": 728720,
+   "snippet": "13% ग्रोथ। अब हमें यहां खुशी मनाने की",
+   "start_time_text": "12:05",
+   "start_time_label": "12:05"
+  },
+  {
+   "start_ms": 728720,
+   "end_ms": 730560,
+   "snippet": "जरूरत है। दुखी नहीं होना। क्यों? क्योंकि",
+   "start_time_text": "12:08",
+   "start_time_label": "12:08"
+  },
+  {
+   "start_ms": 730560,
+   "end_ms": 733360,
+   "snippet": "हम ट्रेडर हैं भैया। मार्केट नीचे जाए,",
+   "start_time_text": "12:10",
+   "start_time_label": "12:10"
+  },
+  {
+   "start_ms": 733360,
+   "end_ms": 736240,
+   "snippet": "ऊपर जाए, 13% अगर हमको पहले पता होता तो",
+   "start_time_text": "12:13",
+   "start_time_label": "12:13"
+  },
+  {
+   "start_ms": 736240,
+   "end_ms": 738800,
+   "snippet": "हम शॉर्ट करके बैठते। प्लस होता तो हम",
+   "start_time_text": "12:16",
+   "start_time_label": "12:16"
+  },
+  {
+   "start_ms": 738800,
+   "end_ms": 742800,
+   "snippet": "लॉन्ग करके बैठते। ठीक है? तो यहां तक",
+   "start_time_text": "12:18",
+   "start_time_label": "12:18"
+  },
+  {
+   "start_ms": 742800,
+   "end_ms": 744720,
+   "snippet": "समझा पा रहा हूं? क्लियर जा रहा है? ठीक",
+   "start_time_text": "12:22",
+   "start_time_label": "12:22"
+  },
+  {
+   "start_ms": 744720,
+   "end_ms": 747440,
+   "snippet": "है? अब तीसरा पैटर्न है मैक डेटा कैलेंडर।",
+   "start_time_text": "12:24",
+   "start_time_label": "12:24"
+  },
+  {
+   "start_ms": 747440,
+   "end_ms": 749680,
+   "snippet": "ये बहुत ध्यान से समझिएगा भैया। कैलेंडर",
+   "start_time_text": "12:27",
+   "start_time_label": "12:27"
+  },
+  {
+   "start_ms": 749680,
+   "end_ms": 752240,
+   "snippet": "में डाल लो फोन के अपने। अब ये कुछ",
+   "start_time_text": "12:29",
+   "start_time_label": "12:29"
+  },
+  {
+   "start_ms": 752240,
+   "end_ms": 754240,
+   "snippet": "इवेंट्स है जो साल में कई बार होते हैं।",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 754240,
+   "end_ms": 757040,
+   "snippet": "अब जैसे सीपीआई का डाटा आता है। मतलब",
+   "start_time_text": "12:34",
+   "start_time_label": "12:34"
+  },
+  {
+   "start_ms": 757040,
+   "end_ms": 759120,
+   "snippet": "महंगाई का डाटा वहां पर आता है। कब आता",
+   "start_time_text": "12:37",
+   "start_time_label": "12:37"
+  },
+  {
+   "start_ms": 759120,
+   "end_ms": 762800,
+   "snippet": "है? लगभग 10 से 15 मतलब 10 तारीख से 15",
+   "start_time_text": "12:39",
+   "start_time_label": "12:39"
+  },
+  {
+   "start_ms": 762800,
+   "end_ms": 765760,
+   "snippet": "तारीख के बीच हर महीने आता है। और मूव",
+   "start_time_text": "12:42",
+   "start_time_label": "12:42"
+  },
+  {
+   "start_ms": 765760,
+   "end_ms": 768959,
+   "snippet": "साइज हाईएस्ट। सबसे ज्यादा मूवमेंट मतलब",
+   "start_time_text": "12:45",
+   "start_time_label": "12:45"
+  },
+  {
+   "start_ms": 768959,
+   "end_ms": 772079,
+   "snippet": "हर महीने यह 5 दिन तो फिर से दिवाली मतलब",
+   "start_time_text": "12:48",
+   "start_time_label": "12:48"
+  },
+  {
+   "start_ms": 772079,
+   "end_ms": 773680,
+   "snippet": "दिवाली बता रहा हूं आपको साल में कितनी",
+   "start_time_text": "12:52",
+   "start_time_label": "12:52"
+  },
+  {
+   "start_ms": 773680,
+   "end_ms": 775279,
+   "snippet": "दिवाली आप यूएस मार्केट में अगर ट्रेडिंग",
+   "start_time_text": "12:53",
+   "start_time_label": "12:53"
+  },
+  {
+   "start_ms": 775279,
+   "end_ms": 778639,
+   "snippet": "करते हो तो मना सकते हो तो यहां हर महीने",
+   "start_time_text": "12:55",
+   "start_time_label": "12:55"
+  },
+  {
+   "start_ms": 778639,
+   "end_ms": 781920,
+   "snippet": "पांच दिन तो फिर से दिवाली एनएफपी का डाटा",
+   "start_time_text": "12:58",
+   "start_time_label": "12:58"
+  },
+  {
+   "start_ms": 781920,
+   "end_ms": 784240,
+   "snippet": "आता है मतलब जॉब्स हाउ मेनी पीपल वर हायड",
+   "start_time_text": "13:01",
+   "start_time_label": "13:01"
+  },
+  {
+   "start_ms": 784240,
+   "end_ms": 786240,
+   "snippet": "मतलब पॉजिटिव जॉब का डाटा कितना टाइम आया",
+   "start_time_text": "13:04",
+   "start_time_label": "13:04"
+  },
+  {
+   "start_ms": 786240,
+   "end_ms": 789519,
+   "snippet": "है ये आता है फर्स्ट फ्राइडे ऑफ़ एव्री मंथ",
+   "start_time_text": "13:06",
+   "start_time_label": "13:06"
+  },
+  {
+   "start_ms": 789519,
+   "end_ms": 791120,
+   "snippet": "इसमें भी हाई रहता है भैया वॉल्यूम",
+   "start_time_text": "13:09",
+   "start_time_label": "13:09"
+  },
+  {
+   "start_ms": 791120,
+   "end_ms": 793839,
+   "snippet": "मूवमेंट आपको देखने को मिलेगा पीसीई का",
+   "start_time_text": "13:11",
+   "start_time_label": "13:11"
+  },
+  {
+   "start_ms": 793839,
+   "end_ms": 796720,
+   "snippet": "डाटा आता है फेट्स प्रेफर्ड इनफ्लेशन मतलब",
+   "start_time_text": "13:13",
+   "start_time_label": "13:13"
+  },
+  {
+   "start_ms": 796720,
+   "end_ms": 798639,
+   "snippet": "ये भी एक तरह का महंगाई का डाटा है। ये",
+   "start_time_text": "13:16",
+   "start_time_label": "13:16"
+  },
+  {
+   "start_ms": 798639,
+   "end_ms": 801360,
+   "snippet": "एंड ऑफ हर महीने आता है। ये पीपीटी मैं",
+   "start_time_text": "13:18",
+   "start_time_label": "13:18"
+  },
+  {
+   "start_ms": 801360,
+   "end_ms": 804079,
+   "snippet": "आपको दे दूंगा। अपना जो टेलीग्राम चैनल है",
+   "start_time_text": "13:21",
+   "start_time_label": "13:21"
+  },
+  {
+   "start_ms": 804079,
+   "end_ms": 806639,
+   "snippet": "जो ट्रेडिंग वाला टेलीग्राम है। हमारे दो",
+   "start_time_text": "13:24",
+   "start_time_label": "13:24"
+  },
+  {
+   "start_ms": 806639,
+   "end_ms": 808480,
+   "snippet": "telegram है। एक तो हम इंफॉर्मेशनेशन",
+   "start_time_text": "13:26",
+   "start_time_label": "13:26"
+  },
+  {
+   "start_ms": 808480,
+   "end_ms": 810079,
+   "snippet": "प्रोवाइड करते हैं। एक में दूसरा प्योर",
+   "start_time_text": "13:28",
+   "start_time_label": "13:28"
+  },
+  {
+   "start_ms": 810079,
+   "end_ms": 812079,
+   "snippet": "ट्रेडिंग का टेलीग्राम है जिसमें हमारी",
+   "start_time_text": "13:30",
+   "start_time_label": "13:30"
+  },
+  {
+   "start_ms": 812079,
+   "end_ms": 814880,
+   "snippet": "टीम आपको ट्रेडिंग सिखाती है। उसमें",
+   "start_time_text": "13:32",
+   "start_time_label": "13:32"
+  },
+  {
+   "start_ms": 814880,
+   "end_ms": 816880,
+   "snippet": "ट्रेडिंग समझाती है। हैंड होल्डिंग सपोर्ट",
+   "start_time_text": "13:34",
+   "start_time_label": "13:34"
+  },
+  {
+   "start_ms": 816880,
+   "end_ms": 818720,
+   "snippet": "करती है और सब कुछ फ्री। हम किसी चीज का",
+   "start_time_text": "13:36",
+   "start_time_label": "13:36"
+  },
+  {
+   "start_ms": 818720,
+   "end_ms": 820880,
+   "snippet": "कोई चार्ज नहीं करते। उस Telegram का लिंक",
+   "start_time_text": "13:38",
+   "start_time_label": "13:38"
+  },
+  {
+   "start_ms": 820880,
+   "end_ms": 823279,
+   "snippet": "हमने डिस्क्रिप्शन में दे रखा है। 60 70",
+   "start_time_text": "13:40",
+   "start_time_label": "13:40"
+  },
+  {
+   "start_ms": 823279,
+   "end_ms": 825040,
+   "snippet": "हजार से ज्यादा लोग हो चुके हैं उस",
+   "start_time_text": "13:43",
+   "start_time_label": "13:43"
+  },
+  {
+   "start_ms": 825040,
+   "end_ms": 827040,
+   "snippet": "ट्रेडिंग वाली कम्युनिटी में। तो उसका भी",
+   "start_time_text": "13:45",
+   "start_time_label": "13:45"
+  },
+  {
+   "start_ms": 827040,
+   "end_ms": 828560,
+   "snippet": "लिंक हमने डिस्क्रिप्शन में दे रखा है।",
+   "start_time_text": "13:47",
+   "start_time_label": "13:47"
+  },
+  {
+   "start_ms": 828560,
+   "end_ms": 831519,
+   "snippet": "उसमें आपको ये पीपीटी आज ही मिल जाएगी।",
+   "start_time_text": "13:48",
+   "start_time_label": "13:48"
+  },
+  {
+   "start_ms": 831519,
+   "end_ms": 834560,
+   "snippet": "ठीक है? पीपीआई का डाटा, प्रोड्यूसर लेवल,",
+   "start_time_text": "13:51",
+   "start_time_label": "13:51"
+  },
+  {
+   "start_ms": 834560,
+   "end_ms": 837120,
+   "snippet": "जॉबलेस मतलब कितने लोगों की नौकरी गई? ये",
+   "start_time_text": "13:54",
+   "start_time_label": "13:54"
+  },
+  {
+   "start_ms": 837120,
+   "end_ms": 839040,
+   "snippet": "सब [नाक से की जाने वाली आवाज़] इस टाइम",
+   "start_time_text": "13:57",
+   "start_time_label": "13:57"
+  },
+  {
+   "start_ms": 839040,
+   "end_ms": 841440,
+   "snippet": "पे आता है और कितना मूवमेंट रहता है वो",
+   "start_time_text": "13:59",
+   "start_time_label": "13:59"
+  },
+  {
+   "start_ms": 841440,
+   "end_ms": 844560,
+   "snippet": "यहां पर मैंने लिख रखा है। ठीक है? उसके",
+   "start_time_text": "14:01",
+   "start_time_label": "14:01"
+  },
+  {
+   "start_ms": 844560,
+   "end_ms": 848079,
+   "snippet": "बाद एफओएमसी का डाटा मतलब फेड का भैया फेड",
+   "start_time_text": "14:04",
+   "start_time_label": "14:04"
+  },
+  {
+   "start_ms": 848079,
+   "end_ms": 850399,
+   "snippet": "का डाटा रेट कट अगर हुआ है तो पैसा सस्ता",
+   "start_time_text": "14:08",
+   "start_time_label": "14:08"
+  },
+  {
+   "start_ms": 850399,
+   "end_ms": 853440,
+   "snippet": "हो रहा है। स्टॉक्स यूजुअली बढ़ते हैं।",
+   "start_time_text": "14:10",
+   "start_time_label": "14:10"
+  },
+  {
+   "start_ms": 853440,
+   "end_ms": 855760,
+   "snippet": "रेट ह अगर हुआ है तो पैसा महंगा हो गया",
+   "start_time_text": "14:13",
+   "start_time_label": "14:13"
+  },
+  {
+   "start_ms": 855760,
+   "end_ms": 858480,
+   "snippet": "है। स्टॉक्स उस वक्त गिरते हैं। और वो डेट",
+   "start_time_text": "14:15",
+   "start_time_label": "14:15"
+  },
+  {
+   "start_ms": 858480,
+   "end_ms": 862160,
+   "snippet": "क्या होता है? 15 से 16 सितंबर, 27 से 28",
+   "start_time_text": "14:18",
+   "start_time_label": "14:18"
+  },
+  {
+   "start_ms": 862160,
+   "end_ms": 865360,
+   "snippet": "अक्टूबर, 8 से 9 दिसंबर और टाइम भी मैंने",
+   "start_time_text": "14:22",
+   "start_time_label": "14:22"
+  },
+  {
+   "start_ms": 865360,
+   "end_ms": 867760,
+   "snippet": "यहां पर लिख रखा है। तो, यह टाइम फिर से",
+   "start_time_text": "14:25",
+   "start_time_label": "14:25"
+  },
+  {
+   "start_ms": 867760,
+   "end_ms": 870399,
+   "snippet": "ट्रेडर्स के लिए दिवाली का टाइम है। कितने",
+   "start_time_text": "14:27",
+   "start_time_label": "14:27"
+  },
+  {
+   "start_ms": 870399,
+   "end_ms": 872240,
+   "snippet": "टाइम बता दिए भैया ट्रेडर्स के लिए दिवाली",
+   "start_time_text": "14:30",
+   "start_time_label": "14:30"
+  },
+  {
+   "start_ms": 872240,
+   "end_ms": 873839,
+   "snippet": "का टाइम?",
+   "start_time_text": "14:32",
+   "start_time_label": "14:32"
+  },
+  {
+   "start_ms": 873839,
+   "end_ms": 875839,
+   "snippet": "ठीक है? एक्सपायरी डे एंड ट्रिपल विचिंग।",
+   "start_time_text": "14:33",
+   "start_time_label": "14:33"
+  },
+  {
+   "start_ms": 875839,
+   "end_ms": 878480,
+   "snippet": "हां, एक्सपायरी डे तो खैर आपको इंडिया में",
+   "start_time_text": "14:35",
+   "start_time_label": "14:35"
+  },
+  {
+   "start_ms": 878480,
+   "end_ms": 879839,
+   "snippet": "भी मिलता है। लेकिन यहां पे एक ट्रिपल",
+   "start_time_text": "14:38",
+   "start_time_label": "14:38"
+  },
+  {
+   "start_ms": 879839,
+   "end_ms": 881440,
+   "snippet": "विचिंग का मौका मिलता है। ट्रिपल विचिंग",
+   "start_time_text": "14:39",
+   "start_time_label": "14:39"
+  },
+  {
+   "start_ms": 881440,
+   "end_ms": 882950,
+   "snippet": "क्या होता है?",
+   "start_time_text": "14:41",
+   "start_time_label": "14:41"
+  },
+  {
+   "start_ms": 882950,
+   "end_ms": 883279,
+   "snippet": "[गहरी सांस लेने की आवाज़]",
+   "start_time_text": "14:42",
+   "start_time_label": "14:42"
+  },
+  {
+   "start_ms": 883279,
+   "end_ms": 886480,
+   "snippet": "विचिंग का मतलब होता है एक ऐसा टाइम जहां",
+   "start_time_text": "14:43",
+   "start_time_label": "14:43"
+  },
+  {
+   "start_ms": 886480,
+   "end_ms": 888480,
+   "snippet": "थोड़ा भूत प्रेत वाला टाइम जो नहीं होता",
+   "start_time_text": "14:46",
+   "start_time_label": "14:46"
+  },
+  {
+   "start_ms": 888480,
+   "end_ms": 891600,
+   "snippet": "है। अब जैसे भूत आ गया कहीं किसी जगह पर",
+   "start_time_text": "14:48",
+   "start_time_label": "14:48"
+  },
+  {
+   "start_ms": 891600,
+   "end_ms": 893680,
+   "snippet": "तो वहां कुछ भी होता है। हवाएं उल्टी चल",
+   "start_time_text": "14:51",
+   "start_time_label": "14:51"
+  },
+  {
+   "start_ms": 893680,
+   "end_ms": 895360,
+   "snippet": "सकती है भैया। कपड़ा लगता है ऊपर नीचे हो",
+   "start_time_text": "14:53",
+   "start_time_label": "14:53"
+  },
+  {
+   "start_ms": 895360,
+   "end_ms": 897199,
+   "snippet": "सकता है। दिमाग खराब हो सकता है। कुछ भी",
+   "start_time_text": "14:55",
+   "start_time_label": "14:55"
+  },
+  {
+   "start_ms": 897199,
+   "end_ms": 900000,
+   "snippet": "हो सकता है। पैर उल्टे चल सकते हैं। तो",
+   "start_time_text": "14:57",
+   "start_time_label": "14:57"
+  },
+  {
+   "start_ms": 900000,
+   "end_ms": 902240,
+   "snippet": "उसी तरीके से ट्रिपल विचिंग का मतलब एक",
+   "start_time_text": "15:00",
+   "start_time_label": "15:00"
+  },
+  {
+   "start_ms": 902240,
+   "end_ms": 905120,
+   "snippet": "समय होता है यूएस मार्केट में। उस वक्त",
+   "start_time_text": "15:02",
+   "start_time_label": "15:02"
+  },
+  {
+   "start_ms": 905120,
+   "end_ms": 907440,
+   "snippet": "मूवमेंट ऊटपटांग आपको देखने को मिलेगा।",
+   "start_time_text": "15:05",
+   "start_time_label": "15:05"
+  },
+  {
+   "start_ms": 907440,
+   "end_ms": 909920,
+   "snippet": "भयंकर मूवमेंट देखने को मिलेगा। और ट्रिपल",
+   "start_time_text": "15:07",
+   "start_time_label": "15:07"
+  },
+  {
+   "start_ms": 909920,
+   "end_ms": 912160,
+   "snippet": "विचिंग क्यों कह रहे हैं कि तीन तरह के",
+   "start_time_text": "15:09",
+   "start_time_label": "15:09"
+  },
+  {
+   "start_ms": 912160,
+   "end_ms": 915440,
+   "snippet": "इवेंट एक साथ होते हैं। तीन तरह के इवेंट",
+   "start_time_text": "15:12",
+   "start_time_label": "15:12"
+  },
+  {
+   "start_ms": 915440,
+   "end_ms": 917519,
+   "snippet": "और वो साल के चार महीने आपको देखने को",
+   "start_time_text": "15:15",
+   "start_time_label": "15:15"
+  },
+  {
+   "start_ms": 917519,
+   "end_ms": 919279,
+   "snippet": "मिलेगा। मार्च में, जून में, सितंबर में,",
+   "start_time_text": "15:17",
+   "start_time_label": "15:17"
+  },
+  {
+   "start_ms": 919279,
+   "end_ms": 921519,
+   "snippet": "दिसंबर में। होता क्या है? तीन तरह के",
+   "start_time_text": "15:19",
+   "start_time_label": "15:19"
+  },
+  {
+   "start_ms": 921519,
+   "end_ms": 924079,
+   "snippet": "कॉन्ट्रैक्ट्स एक साथ एक्सपायर होते हैं।",
+   "start_time_text": "15:21",
+   "start_time_label": "15:21"
+  },
+  {
+   "start_ms": 924079,
+   "end_ms": 927199,
+   "snippet": "एक साथ ये टाइम फिक्स है। एक साथ एक्सपायर",
+   "start_time_text": "15:24",
+   "start_time_label": "15:24"
+  },
+  {
+   "start_ms": 927199,
+   "end_ms": 928959,
+   "snippet": "होते हैं। स्टॉक ऑप्शंस, इंडेक्स ऑप्शंस",
+   "start_time_text": "15:27",
+   "start_time_label": "15:27"
+  },
+  {
+   "start_ms": 928959,
+   "end_ms": 930320,
+   "snippet": "और इंडेक्स फ्यूचर्स ये तीनों",
+   "start_time_text": "15:28",
+   "start_time_label": "15:28"
+  },
+  {
+   "start_ms": 930320,
+   "end_ms": 932079,
+   "snippet": "कॉन्ट्रैक्ट्स एक साथ जब एक्सपायर होते,",
+   "start_time_text": "15:30",
+   "start_time_label": "15:30"
+  },
+  {
+   "start_ms": 932079,
+   "end_ms": 934720,
+   "snippet": "एक्सपायर होते हैं तो मूवमेंट आपको भयंकर",
+   "start_time_text": "15:32",
+   "start_time_label": "15:32"
+  },
+  {
+   "start_ms": 934720,
+   "end_ms": 938000,
+   "snippet": "देखने को मिलता है। कब होता है यह?",
+   "start_time_text": "15:34",
+   "start_time_label": "15:34"
+  },
+  {
+   "start_ms": 938000,
+   "end_ms": 941440,
+   "snippet": "थर्ड फ्राइडे यह चार महीने नोट कर लो भैया",
+   "start_time_text": "15:38",
+   "start_time_label": "15:38"
+  },
+  {
+   "start_ms": 941440,
+   "end_ms": 943519,
+   "snippet": "और इन चारों महीने का डेट पहले से कैलेंडर",
+   "start_time_text": "15:41",
+   "start_time_label": "15:41"
+  },
+  {
+   "start_ms": 943519,
+   "end_ms": 946399,
+   "snippet": "में डाल लो। थर्ड फ्राइडे जो भी डेट हो उस",
+   "start_time_text": "15:43",
+   "start_time_label": "15:43"
+  },
+  {
+   "start_ms": 946399,
+   "end_ms": 949279,
+   "snippet": "दिन इन तीनों का एक्सपायरी होगी। उसके बाद",
+   "start_time_text": "15:46",
+   "start_time_label": "15:46"
+  },
+  {
+   "start_ms": 949279,
+   "end_ms": 951360,
+   "snippet": "16 सितंबर को एफएमसी का डिसीजन आने वाला",
+   "start_time_text": "15:49",
+   "start_time_label": "15:49"
+  },
+  {
+   "start_ms": 951360,
+   "end_ms": 953199,
+   "snippet": "है। 18 सितंबर को ट्रेवल विच विचिंग",
+   "start_time_text": "15:51",
+   "start_time_label": "15:51"
+  },
+  {
+   "start_ms": 953199,
+   "end_ms": 954880,
+   "snippet": "एक्सपायरी इस महीने की बात कर रहा हूं।",
+   "start_time_text": "15:53",
+   "start_time_label": "15:53"
+  },
+  {
+   "start_ms": 954880,
+   "end_ms": 956959,
+   "snippet": "नहीं सॉरी अगले महीने की बात कर रहा हूं।",
+   "start_time_text": "15:54",
+   "start_time_label": "15:54"
+  },
+  {
+   "start_ms": 956959,
+   "end_ms": 959759,
+   "snippet": "तो ध्यान में रखिएगा ये डेट्स। ये सब डेट",
+   "start_time_text": "15:56",
+   "start_time_label": "15:56"
+  },
+  {
+   "start_ms": 959759,
+   "end_ms": 961440,
+   "snippet": "वो है जो कैलेंडर में आपको डालने लायक",
+   "start_time_text": "15:59",
+   "start_time_label": "15:59"
+  },
+  {
+   "start_ms": 961440,
+   "end_ms": 964240,
+   "snippet": "हैं। द हिडन स्ट्रक्चर। अच्छा ये तो हमने",
+   "start_time_text": "16:01",
+   "start_time_label": "16:01"
+  },
+  {
+   "start_ms": 964240,
+   "end_ms": 966240,
+   "snippet": "बता ही दिया। इसको कवर कर लिया। इंडेक्स",
+   "start_time_text": "16:04",
+   "start_time_label": "16:04"
+  },
+  {
+   "start_ms": 966240,
+   "end_ms": 968800,
+   "snippet": "ऑप्शंस एक्सपायरी की बात है। मार्केट हैज़",
+   "start_time_text": "16:06",
+   "start_time_label": "16:06"
+  },
+  {
+   "start_ms": 968800,
+   "end_ms": 971199,
+   "snippet": "इट्स ओन वेदर।",
+   "start_time_text": "16:08",
+   "start_time_label": "16:08"
+  },
+  {
+   "start_ms": 971199,
+   "end_ms": 974160,
+   "snippet": "सितंबर के महीना जो हिस्टोरिकली वीकेस्ट",
+   "start_time_text": "16:11",
+   "start_time_label": "16:11"
+  },
+  {
+   "start_ms": 974160,
+   "end_ms": 976959,
+   "snippet": "मंथ ऑफ द ईयर होता है। ये खैर उतना मजेदार",
+   "start_time_text": "16:14",
+   "start_time_label": "16:14"
+  },
+  {
+   "start_ms": 976959,
+   "end_ms": 978720,
+   "snippet": "नहीं है। लेकिन जानकारी के लिए आप इसकी",
+   "start_time_text": "16:16",
+   "start_time_label": "16:16"
+  },
+  {
+   "start_ms": 978720,
+   "end_ms": 981759,
+   "snippet": "फोटो खींच करके रख सकते हो। उसके बाद",
+   "start_time_text": "16:18",
+   "start_time_label": "16:18"
+  },
+  {
+   "start_ms": 981759,
+   "end_ms": 986000,
+   "snippet": "व्हाट इज ड्राइविंग 2026? हां, 26 में",
+   "start_time_text": "16:21",
+   "start_time_label": "16:21"
+  },
+  {
+   "start_ms": 986000,
+   "end_ms": 989279,
+   "snippet": "स्पेशली क्या ऐसा खास हुआ है जो यूए यूएस",
+   "start_time_text": "16:26",
+   "start_time_label": "16:26"
+  },
+  {
+   "start_ms": 989279,
+   "end_ms": 991279,
+   "snippet": "मार्केट को सबसे ज्यादा ड्राइव किया है?",
+   "start_time_text": "16:29",
+   "start_time_label": "16:29"
+  },
+  {
+   "start_ms": 991279,
+   "end_ms": 995120,
+   "snippet": "पहली चीज तो एआई कैपेक्स वर्सेस प्रॉफिट",
+   "start_time_text": "16:31",
+   "start_time_label": "16:31"
+  },
+  {
+   "start_ms": 995120,
+   "end_ms": 998000,
+   "snippet": "एआई कैपेक्स एक्सपेंशन भयंकर रूप से हुआ",
+   "start_time_text": "16:35",
+   "start_time_label": "16:35"
+  },
+  {
+   "start_ms": 998000,
+   "end_ms": 1000480,
+   "snippet": "है। एआई के स्टॉक्स भयंकर रूप से भागे",
+   "start_time_text": "16:38",
+   "start_time_label": "16:38"
+  },
+  {
+   "start_ms": 1000480,
+   "end_ms": 1003040,
+   "snippet": "हैं। उसके बाद क्या है? ऑयल",
+   "start_time_text": "16:40",
+   "start_time_label": "16:40"
+  },
+  {
+   "start_ms": 1003040,
+   "end_ms": 1005360,
+   "snippet": "एनजीओपॉलिटिक्स। पूरे साल आपको पता है कि",
+   "start_time_text": "16:43",
+   "start_time_label": "16:43"
+  },
+  {
+   "start_ms": 1005360,
+   "end_ms": 1008639,
+   "snippet": "भैया ईरान यूएस का चलता रहा है तो क्रूड",
+   "start_time_text": "16:45",
+   "start_time_label": "16:45"
+  },
+  {
+   "start_ms": 1008639,
+   "end_ms": 1010880,
+   "snippet": "ऑयल ऑयल मार्केट में भयंकर मूवमेंट देखने",
+   "start_time_text": "16:48",
+   "start_time_label": "16:48"
+  },
+  {
+   "start_ms": 1010880,
+   "end_ms": 1014240,
+   "snippet": "को मिला है। इस साल मेगा आईपीओ भी आए हैं",
+   "start_time_text": "16:50",
+   "start_time_label": "16:50"
+  },
+  {
+   "start_ms": 1014240,
+   "end_ms": 1016160,
+   "snippet": "और अभी तो अक्टूबर में एंथ्रोपिक का भी",
+   "start_time_text": "16:54",
+   "start_time_label": "16:54"
+  },
+  {
+   "start_ms": 1016160,
+   "end_ms": 1018639,
+   "snippet": "आईपीओ आने वाला है। एंथ्रोपिक के आईपीओ",
+   "start_time_text": "16:56",
+   "start_time_label": "16:56"
+  },
+  {
+   "start_ms": 1018639,
+   "end_ms": 1020399,
+   "snippet": "अक्टूबर में आने वाला है भैया। नजर रखिएगा",
+   "start_time_text": "16:58",
+   "start_time_label": "16:58"
+  },
+  {
+   "start_ms": 1020399,
+   "end_ms": 1022639,
+   "snippet": "उस पर। यूएस मार्केट में नहीं कॉइन",
+   "start_time_text": "17:00",
+   "start_time_label": "17:00"
+  },
+  {
+   "start_ms": 1022639,
+   "end_ms": 1025199,
+   "snippet": "डीसीएक्स पर जाकर के आईपीओ आने से पहले",
+   "start_time_text": "17:02",
+   "start_time_label": "17:02"
+  },
+  {
+   "start_ms": 1025199,
+   "end_ms": 1027439,
+   "snippet": "आपको एंथ्रोपिक वहां दिखेगा। उस पे नजर",
+   "start_time_text": "17:05",
+   "start_time_label": "17:05"
+  },
+  {
+   "start_ms": 1027439,
+   "end_ms": 1029760,
+   "snippet": "रखिएगा। ठीक?",
+   "start_time_text": "17:07",
+   "start_time_label": "17:07"
+  },
+  {
+   "start_ms": 1029760,
+   "end_ms": 1033199,
+   "snippet": "द मास्टर वोलेटिलिटी मैप हर रोज आपको क्या",
+   "start_time_text": "17:09",
+   "start_time_label": "17:09"
+  },
+  {
+   "start_ms": 1033199,
+   "end_ms": 1035360,
+   "snippet": "देखने को मिलेगा? ओपनिंग का 30 मिनट भैया",
+   "start_time_text": "17:13",
+   "start_time_label": "17:13"
+  },
+  {
+   "start_ms": 1035360,
+   "end_ms": 1037280,
+   "snippet": "शाम के 7:00 बजे अगर इंडिया में हो तो",
+   "start_time_text": "17:15",
+   "start_time_label": "17:15"
+  },
+  {
+   "start_ms": 1037280,
+   "end_ms": 1040720,
+   "snippet": "पावर आर रात के 12:30 ठीक हर वीक आपको",
+   "start_time_text": "17:17",
+   "start_time_label": "17:17"
+  },
+  {
+   "start_ms": 1040720,
+   "end_ms": 1043439,
+   "snippet": "क्या देखने को मिलेगा? हर थर्सडे जॉबलेस",
+   "start_time_text": "17:20",
+   "start_time_label": "17:20"
+  },
+  {
+   "start_ms": 1043439,
+   "end_ms": 1046079,
+   "snippet": "क्लेम का डाटा आता है। हर थर्ड फ्राइडे",
+   "start_time_text": "17:23",
+   "start_time_label": "17:23"
+  },
+  {
+   "start_ms": 1046079,
+   "end_ms": 1048720,
+   "snippet": "मंथली एक्सपायरी होती है। हर वीकेंड नो",
+   "start_time_text": "17:26",
+   "start_time_label": "17:26"
+  },
+  {
+   "start_ms": 1048720,
+   "end_ms": 1050880,
+   "snippet": "यूएस कैश मार्केट होता है। हर महीने आपको",
+   "start_time_text": "17:28",
+   "start_time_label": "17:28"
+  },
+  {
+   "start_ms": 1050880,
+   "end_ms": 1053200,
+   "snippet": "फर्स्ट फ्राइडे जॉब रिपोर्ट आएगी। 10 से",
+   "start_time_text": "17:30",
+   "start_time_label": "17:30"
+  },
+  {
+   "start_ms": 1053200,
+   "end_ms": 1055520,
+   "snippet": "15 तारीख को इनफ्लेशन का डाटा आता है। मंथ",
+   "start_time_text": "17:33",
+   "start_time_label": "17:33"
+  },
+  {
+   "start_ms": 1055520,
+   "end_ms": 1058080,
+   "snippet": "एंड में पीसी का डाटा आता है। हर क्वार्टर",
+   "start_time_text": "17:35",
+   "start_time_label": "17:35"
+  },
+  {
+   "start_ms": 1058080,
+   "end_ms": 1060559,
+   "snippet": "में अर्निंग सेशन आता है। ट्रिपल विचिंग",
+   "start_time_text": "17:38",
+   "start_time_label": "17:38"
+  },
+  {
+   "start_ms": 1060559,
+   "end_ms": 1063440,
+   "snippet": "होती है। इंडेक्स रिबैलेंसिंग होता है। तो",
+   "start_time_text": "17:40",
+   "start_time_label": "17:40"
+  },
+  {
+   "start_ms": 1063440,
+   "end_ms": 1066640,
+   "snippet": "ये सब मार्क करके रख लो। अब अभी नेक्स्ट",
+   "start_time_text": "17:43",
+   "start_time_label": "17:43"
+  },
+  {
+   "start_ms": 1066640,
+   "end_ms": 1069280,
+   "snippet": "क्या है? रिस्क ऑफ लेवरेज। हां चलो लेवरेज",
+   "start_time_text": "17:46",
+   "start_time_label": "17:46"
+  },
+  {
+   "start_ms": 1069280,
+   "end_ms": 1070880,
+   "snippet": "की बात तो मैं अभी जब आपको डेमो करके",
+   "start_time_text": "17:49",
+   "start_time_label": "17:49"
+  },
+  {
+   "start_ms": 1070880,
+   "end_ms": 1072799,
+   "snippet": "दिखाऊंगा फोन पर तब बात करते हैं। लेकिन",
+   "start_time_text": "17:50",
+   "start_time_label": "17:50"
+  },
+  {
+   "start_ms": 1072799,
+   "end_ms": 1075360,
+   "snippet": "आपके लिए कुछ ऑफर भी है भैया। ऑफर क्या",
+   "start_time_text": "17:52",
+   "start_time_label": "17:52"
+  },
+  {
+   "start_ms": 1075360,
+   "end_ms": 1078640,
+   "snippet": "है? ये ऑफर है। कुछ समझा देता हूं। दरअसल",
+   "start_time_text": "17:55",
+   "start_time_label": "17:55"
+  },
+  {
+   "start_ms": 1078640,
+   "end_ms": 1081120,
+   "snippet": "कॉइन डी6 पे ना एक इवेंट चल रहा है अभी",
+   "start_time_text": "17:58",
+   "start_time_label": "17:58"
+  },
+  {
+   "start_ms": 1081120,
+   "end_ms": 1084559,
+   "snippet": "वॉल स्ट्रीट फेस्टिवल ये सिर्फ और सिर्फ",
+   "start_time_text": "18:01",
+   "start_time_label": "18:01"
+  },
+  {
+   "start_ms": 1084559,
+   "end_ms": 1087600,
+   "snippet": "सिर्फ और सिर्फ कॉइन डी6 पर है और आप अगर",
+   "start_time_text": "18:04",
+   "start_time_label": "18:04"
+  },
+  {
+   "start_ms": 1087600,
+   "end_ms": 1089520,
+   "snippet": "हमारे Telegram कम्युनिटी से जुड़े हुए हो",
+   "start_time_text": "18:07",
+   "start_time_label": "18:07"
+  },
+  {
+   "start_ms": 1089520,
+   "end_ms": 1091280,
+   "snippet": "ट्रेडर वाली Telegram से जिसका लिंक हमने",
+   "start_time_text": "18:09",
+   "start_time_label": "18:09"
+  },
+  {
+   "start_ms": 1091280,
+   "end_ms": 1093200,
+   "snippet": "डिस्क्रिप्शन में दे रखा है। उनके लिए भी",
+   "start_time_text": "18:11",
+   "start_time_label": "18:11"
+  },
+  {
+   "start_ms": 1093200,
+   "end_ms": 1095760,
+   "snippet": "खास ऑफर है। ऑफर क्या है? यूएस स्टॉक पर",
+   "start_time_text": "18:13",
+   "start_time_label": "18:13"
+  },
+  {
+   "start_ms": 1095760,
+   "end_ms": 1098320,
+   "snippet": "ट्रेड करो और 30 लाख का रिवॉर्ड पूल का",
+   "start_time_text": "18:15",
+   "start_time_label": "18:15"
+  },
+  {
+   "start_ms": 1098320,
+   "end_ms": 1101039,
+   "snippet": "हिस्सा बनो। बेसिकली इन लोगों ने 30 लाख",
+   "start_time_text": "18:18",
+   "start_time_label": "18:18"
+  },
+  {
+   "start_ms": 1101039,
+   "end_ms": 1103360,
+   "snippet": "का रिवॉर्ड पूल अलग रखा है और 30 लाख का",
+   "start_time_text": "18:21",
+   "start_time_label": "18:21"
+  },
+  {
+   "start_ms": 1103360,
+   "end_ms": 1104960,
+   "snippet": "रिवॉर्ड पूल में आप हिस्सा ले सकते हो।",
+   "start_time_text": "18:23",
+   "start_time_label": "18:23"
+  },
+  {
+   "start_ms": 1104960,
+   "end_ms": 1106799,
+   "snippet": "आपके हिस्से 1 लाख, 2 लाख, 30 लाख कुछ भी",
+   "start_time_text": "18:24",
+   "start_time_label": "18:24"
+  },
+  {
+   "start_ms": 1106799,
+   "end_ms": 1108240,
+   "snippet": "आ सकता है।",
+   "start_time_text": "18:26",
+   "start_time_label": "18:26"
+  },
+  {
+   "start_ms": 1108240,
+   "end_ms": 1110799,
+   "snippet": "लेकिन अगर आप यूएस स्टॉक पर ट्रेड करते हो",
+   "start_time_text": "18:28",
+   "start_time_label": "18:28"
+  },
+  {
+   "start_ms": 1110799,
+   "end_ms": 1113120,
+   "snippet": "तो अर्निंग सीजन अभी चल रहा है भैया।",
+   "start_time_text": "18:30",
+   "start_time_label": "18:30"
+  },
+  {
+   "start_ms": 1113120,
+   "end_ms": 1114799,
+   "snippet": "कंपनियों के रिजल्ट आ रहे हैं। यूएस स्टॉक",
+   "start_time_text": "18:33",
+   "start_time_label": "18:33"
+  },
+  {
+   "start_ms": 1114799,
+   "end_ms": 1116640,
+   "snippet": "में जबरदस्त मूवमेंट देखने को मिल रहा है।",
+   "start_time_text": "18:34",
+   "start_time_label": "18:34"
+  },
+  {
+   "start_ms": 1116640,
+   "end_ms": 1119200,
+   "snippet": "तो इस मूवमेंट का फायदा उठाइए और हमारी",
+   "start_time_text": "18:36",
+   "start_time_label": "18:36"
+  },
+  {
+   "start_ms": 1119200,
+   "end_ms": 1121840,
+   "snippet": "कम्युनिटी के लिए एक लकी यूजर को iPhone",
+   "start_time_text": "18:39",
+   "start_time_label": "18:39"
+  },
+  {
+   "start_ms": 1121840,
+   "end_ms": 1125600,
+   "snippet": "17 भी मिलने वाला है। तो",
+   "start_time_text": "18:41",
+   "start_time_label": "18:41"
+  },
+  {
+   "start_ms": 1125600,
+   "end_ms": 1127760,
+   "snippet": "अगर आप Telegram में नहीं जुड़े तो जुड़",
+   "start_time_text": "18:45",
+   "start_time_label": "18:45"
+  },
+  {
+   "start_ms": 1127760,
+   "end_ms": 1130080,
+   "snippet": "जाओ भैया क्योंकि ये iPhone 17 लेने के",
+   "start_time_text": "18:47",
+   "start_time_label": "18:47"
+  },
+  {
+   "start_ms": 1130080,
+   "end_ms": 1131679,
+   "snippet": "लिए आपका Telegram में जुड़े होना बहुत",
+   "start_time_text": "18:50",
+   "start_time_label": "18:50"
+  },
+  {
+   "start_ms": 1131679,
+   "end_ms": 1134320,
+   "snippet": "जरूरी है। ठीक है?",
+   "start_time_text": "18:51",
+   "start_time_label": "18:51"
+  },
+  {
+   "start_ms": 1134320,
+   "end_ms": 1137200,
+   "snippet": "बस हमने जो लिंक दिया है उसके जरिए कॉin",
+   "start_time_text": "18:54",
+   "start_time_label": "18:54"
+  },
+  {
+   "start_ms": 1137200,
+   "end_ms": 1139280,
+   "snippet": "DCX आपका साइन अप होना जरूरी है। कॉin DCX",
+   "start_time_text": "18:57",
+   "start_time_label": "18:57"
+  },
+  {
+   "start_ms": 1139280,
+   "end_ms": 1141360,
+   "snippet": "साइन अप कर लीजिए। उससे जुड़िए और जुड़िए",
+   "start_time_text": "18:59",
+   "start_time_label": "18:59"
+  },
+  {
+   "start_ms": 1141360,
+   "end_ms": 1143840,
+   "snippet": "और यूएस स्टॉक में ट्रेड करिए भैया और",
+   "start_time_text": "19:01",
+   "start_time_label": "19:01"
+  },
+  {
+   "start_ms": 1143840,
+   "end_ms": 1145360,
+   "snippet": "कैसे ट्रेड करते हैं इस चीज की तो आपको",
+   "start_time_text": "19:03",
+   "start_time_label": "19:03"
+  },
+  {
+   "start_ms": 1145360,
+   "end_ms": 1146799,
+   "snippet": "चिंता करने की जरूरत नहीं है क्योंकि",
+   "start_time_text": "19:05",
+   "start_time_label": "19:05"
+  },
+  {
+   "start_ms": 1146799,
+   "end_ms": 1148640,
+   "snippet": "हमारी टीम आपको रोज वहां पर Telegram में",
+   "start_time_text": "19:06",
+   "start_time_label": "19:06"
+  },
+  {
+   "start_ms": 1148640,
+   "end_ms": 1150480,
+   "snippet": "सिखाती है। हर रोज ट्रेनिंग होती है वहां",
+   "start_time_text": "19:08",
+   "start_time_label": "19:08"
+  },
+  {
+   "start_ms": 1150480,
+   "end_ms": 1152559,
+   "snippet": "पर और फ्री ऑफ कॉस्ट। किसी चीज का हम कोई",
+   "start_time_text": "19:10",
+   "start_time_label": "19:10"
+  },
+  {
+   "start_ms": 1152559,
+   "end_ms": 1155280,
+   "snippet": "चार्ज नहीं लेते। आपको पता है। ठीक? अब",
+   "start_time_text": "19:12",
+   "start_time_label": "19:12"
+  },
+  {
+   "start_ms": 1155280,
+   "end_ms": 1158240,
+   "snippet": "समय आ गया कि हम आपको मोबाइल पर डेमो करके",
+   "start_time_text": "19:15",
+   "start_time_label": "19:15"
+  },
+  {
+   "start_ms": 1158240,
+   "end_ms": 1160720,
+   "snippet": "दिखाएं कि यूएस स्टॉक में सिर्फ ₹100 से",
+   "start_time_text": "19:18",
+   "start_time_label": "19:18"
+  },
+  {
+   "start_ms": 1160720,
+   "end_ms": 1164240,
+   "snippet": "कैसे ट्रेड ट्रेडिंग होती है कॉin DCX पर",
+   "start_time_text": "19:20",
+   "start_time_label": "19:20"
+  },
+  {
+   "start_ms": 1164240,
+   "end_ms": 1166720,
+   "snippet": "टोकनाइज्ड फॉर्म में। ठीक है? ओके। सो",
+   "start_time_text": "19:24",
+   "start_time_label": "19:24"
+  },
+  {
+   "start_ms": 1166720,
+   "end_ms": 1168640,
+   "snippet": "मेरी स्क्रीन आपके जो सामने आई है वो कॉin",
+   "start_time_text": "19:26",
+   "start_time_label": "19:26"
+  },
+  {
+   "start_ms": 1168640,
+   "end_ms": 1171360,
+   "snippet": "DCX की स्क्रीन है। अब यह होम पेज है।",
+   "start_time_text": "19:28",
+   "start_time_label": "19:28"
+  },
+  {
+   "start_ms": 1171360,
+   "end_ms": 1174160,
+   "snippet": "आपको आना है सबसे पहले फ्यूचर्स में यहां",
+   "start_time_text": "19:31",
+   "start_time_label": "19:31"
+  },
+  {
+   "start_ms": 1174160,
+   "end_ms": 1176880,
+   "snippet": "पर और उसके बाद आप बेसिकली यहां पर रहोगे",
+   "start_time_text": "19:34",
+   "start_time_label": "19:34"
+  },
+  {
+   "start_ms": 1176880,
+   "end_ms": 1179120,
+   "snippet": "आईएआर फ्यूचर पर। लेकिन आपको राइट स्वाइप",
+   "start_time_text": "19:36",
+   "start_time_label": "19:36"
+  },
+  {
+   "start_ms": 1179120,
+   "end_ms": 1181840,
+   "snippet": "करके ऊपर ग्लोबल फ्यूचर्स पर आ जाना है।",
+   "start_time_text": "19:39",
+   "start_time_label": "19:39"
+  },
+  {
+   "start_ms": 1181840,
+   "end_ms": 1183919,
+   "snippet": "ग्लोबल फ्यूचर का मतलब यूएस स्टॉक की",
+   "start_time_text": "19:41",
+   "start_time_label": "19:41"
+  },
+  {
+   "start_ms": 1183919,
+   "end_ms": 1186400,
+   "snippet": "जितनी कंपनियां हैं उनका टोकनाइज्ड फॉर्म",
+   "start_time_text": "19:43",
+   "start_time_label": "19:43"
+  },
+  {
+   "start_ms": 1186400,
+   "end_ms": 1188480,
+   "snippet": "आपको यहां पर देखने को मिलेगा। सेम",
+   "start_time_text": "19:46",
+   "start_time_label": "19:46"
+  },
+  {
+   "start_ms": 1188480,
+   "end_ms": 1190720,
+   "snippet": "मूवमेंट होता है जो यूएस स्टॉक यूएस स्टॉक",
+   "start_time_text": "19:48",
+   "start_time_label": "19:48"
+  },
+  {
+   "start_ms": 1190720,
+   "end_ms": 1192160,
+   "snippet": "मार्केट में उन कंपनियों का मूवमेंट होता",
+   "start_time_text": "19:50",
+   "start_time_label": "19:50"
+  },
+  {
+   "start_ms": 1192160,
+   "end_ms": 1195039,
+   "snippet": "है। आप यहां पर क्लिक करना। यहां पर जितने",
+   "start_time_text": "19:52",
+   "start_time_label": "19:52"
+  },
+  {
+   "start_ms": 1195039,
+   "end_ms": 1197120,
+   "snippet": "आपको दिख रहे हैं मार्केट में ये सब यूएस",
+   "start_time_text": "19:55",
+   "start_time_label": "19:55"
+  },
+  {
+   "start_ms": 1197120,
+   "end_ms": 1199600,
+   "snippet": "स्टॉक मार्केट की कंपनियां हैं। ठीक है?",
+   "start_time_text": "19:57",
+   "start_time_label": "19:57"
+  },
+  {
+   "start_ms": 1199600,
+   "end_ms": 1203039,
+   "snippet": "यहां पर आपको Apple, Google इंडेक्स उनका",
+   "start_time_text": "19:59",
+   "start_time_label": "19:59"
+  },
+  {
+   "start_ms": 1203039,
+   "end_ms": 1205919,
+   "snippet": "NASDC SNP 500 देख लो। ये सब आपको देखने",
+   "start_time_text": "20:03",
+   "start_time_label": "20:03"
+  },
+  {
+   "start_ms": 1205919,
+   "end_ms": 1208559,
+   "snippet": "को मिलेगा। ठीक है? Spx वगैरह सब देखने को",
+   "start_time_text": "20:05",
+   "start_time_label": "20:05"
+  },
+  {
+   "start_ms": 1208559,
+   "end_ms": 1210640,
+   "snippet": "मिलेगा। अब यहां पर इनमें से आप कोई भी",
+   "start_time_text": "20:08",
+   "start_time_label": "20:08"
+  },
+  {
+   "start_ms": 1210640,
+   "end_ms": 1212559,
+   "snippet": "कंपनी ले लो। आपको पहले मूवमेंट दिखाता",
+   "start_time_text": "20:10",
+   "start_time_label": "20:10"
+  },
+  {
+   "start_ms": 1212559,
+   "end_ms": 1216160,
+   "snippet": "हूं। देखो यह कोई एसकेएसx कंपनी है। 2% के",
+   "start_time_text": "20:12",
+   "start_time_label": "20:12"
+  },
+  {
+   "start_ms": 1216160,
+   "end_ms": 1218880,
+   "snippet": "आस ये देखो Spcex का मूवमेंट 1 दिन में",
+   "start_time_text": "20:16",
+   "start_time_label": "20:16"
+  },
+  {
+   "start_ms": 1218880,
+   "end_ms": 1222320,
+   "snippet": "लगभग 8.5% है। 1 दिन में 8.5% और कुछ",
+   "start_time_text": "20:18",
+   "start_time_label": "20:18"
+  },
+  {
+   "start_ms": 1222320,
+   "end_ms": 1224400,
+   "snippet": "कंपनी आप लोगों को दिखाता हूं। 1820% वाली",
+   "start_time_text": "20:22",
+   "start_time_label": "20:22"
+  },
+  {
+   "start_ms": 1224400,
+   "end_ms": 1226000,
+   "snippet": "कंपनियां भी हैं जो 1 दिन में मूवमेंट",
+   "start_time_text": "20:24",
+   "start_time_label": "20:24"
+  },
+  {
+   "start_ms": 1226000,
+   "end_ms": 1227919,
+   "snippet": "होता है। यह देखो नीचे आता जा रहा हूं",
+   "start_time_text": "20:26",
+   "start_time_label": "20:26"
+  },
+  {
+   "start_ms": 1227919,
+   "end_ms": 1229840,
+   "snippet": "मैं। नीचे आओ, नीचे आओ, नीचे आओ। कैसे",
+   "start_time_text": "20:27",
+   "start_time_label": "20:27"
+  },
+  {
+   "start_ms": 1229840,
+   "end_ms": 1232320,
+   "snippet": "करता है अभी दिखा रहा हूं।",
+   "start_time_text": "20:29",
+   "start_time_label": "20:29"
+  },
+  {
+   "start_ms": 1232320,
+   "end_ms": 1235120,
+   "snippet": "यह देखो डेल में 10% का मूवमेंट है 1 दिन",
+   "start_time_text": "20:32",
+   "start_time_label": "20:32"
+  },
+  {
+   "start_ms": 1235120,
+   "end_ms": 1238080,
+   "snippet": "में। बीई में 7.5% का मूवमेंट है 1 दिन",
+   "start_time_text": "20:35",
+   "start_time_label": "20:35"
+  },
+  {
+   "start_ms": 1238080,
+   "end_ms": 1241840,
+   "snippet": "में। देख रहे हो? एसएजी में 13 1/2% का",
+   "start_time_text": "20:38",
+   "start_time_label": "20:38"
+  },
+  {
+   "start_ms": 1241840,
+   "end_ms": 1244559,
+   "snippet": "मूवमेंट है 1 दिन में। तो मतलब 1 दिन में",
+   "start_time_text": "20:41",
+   "start_time_label": "20:41"
+  },
+  {
+   "start_ms": 1244559,
+   "end_ms": 1247120,
+   "snippet": "ऐसा मूवमेंट आपको इंडियन मार्केट में बहुत",
+   "start_time_text": "20:44",
+   "start_time_label": "20:44"
+  },
+  {
+   "start_ms": 1247120,
+   "end_ms": 1249120,
+   "snippet": "रेयर देखने को मिलेगा। जो मूवमेंट आपको",
+   "start_time_text": "20:47",
+   "start_time_label": "20:47"
+  },
+  {
+   "start_ms": 1249120,
+   "end_ms": 1251120,
+   "snippet": "यहां देखने को मिल जाता है। अब लेट्स सपोज़",
+   "start_time_text": "20:49",
+   "start_time_label": "20:49"
+  },
+  {
+   "start_ms": 1251120,
+   "end_ms": 1253280,
+   "snippet": "मान लो आपको Spcex में ट्रेड करना है।",
+   "start_time_text": "20:51",
+   "start_time_label": "20:51"
+  },
+  {
+   "start_ms": 1253280,
+   "end_ms": 1256640,
+   "snippet": "Spcex पर मैं गया। अब यहां पर आपके सामने",
+   "start_time_text": "20:53",
+   "start_time_label": "20:53"
+  },
+  {
+   "start_ms": 1256640,
+   "end_ms": 1259600,
+   "snippet": "स्पcex का चार्ट दिख रहा है। यह चार्ट आप",
+   "start_time_text": "20:56",
+   "start_time_label": "20:56"
+  },
+  {
+   "start_ms": 1259600,
+   "end_ms": 1262000,
+   "snippet": "इस पर क्लिक करके ज़ूम करके चार्ट अच्छे से",
+   "start_time_text": "20:59",
+   "start_time_label": "20:59"
+  },
+  {
+   "start_ms": 1262000,
+   "end_ms": 1264320,
+   "snippet": "एनालिसिस कर सकते हो। अच्छे से भैया",
+   "start_time_text": "21:02",
+   "start_time_label": "21:02"
+  },
+  {
+   "start_ms": 1264320,
+   "end_ms": 1266240,
+   "snippet": "इंडिकेटर वगैरह का लगाकर यहीं पर आप सब",
+   "start_time_text": "21:04",
+   "start_time_label": "21:04"
+  },
+  {
+   "start_ms": 1266240,
+   "end_ms": 1267760,
+   "snippet": "कुछ देख सकते हो। अगर लैपटॉप है तो लैपटॉप",
+   "start_time_text": "21:06",
+   "start_time_label": "21:06"
+  },
+  {
+   "start_ms": 1267760,
+   "end_ms": 1269440,
+   "snippet": "पे कर लेना है। फोन भी काफी है। फोन में",
+   "start_time_text": "21:07",
+   "start_time_label": "21:07"
+  },
+  {
+   "start_ms": 1269440,
+   "end_ms": 1272640,
+   "snippet": "भी कर सकते हो। ठीक? नीचे आपको देखो भैया।",
+   "start_time_text": "21:09",
+   "start_time_label": "21:09"
+  },
+  {
+   "start_ms": 1272640,
+   "end_ms": 1274720,
+   "snippet": "ये ट्रेड का टैब है। पोजीशंस का टैब है।",
+   "start_time_text": "21:12",
+   "start_time_label": "21:12"
+  },
+  {
+   "start_ms": 1274720,
+   "end_ms": 1277200,
+   "snippet": "ऑर्डर का टैब है। ट्रेड के टैब पर आप",
+   "start_time_text": "21:14",
+   "start_time_label": "21:14"
+  },
+  {
+   "start_ms": 1277200,
+   "end_ms": 1280159,
+   "snippet": "ट्रेड लगाते हो। आप इसको ऊपर कर लो खींच",
+   "start_time_text": "21:17",
+   "start_time_label": "21:17"
+  },
+  {
+   "start_ms": 1280159,
+   "end_ms": 1282559,
+   "snippet": "करके। लॉन्ग तब करते हैं जब हमको लगता है",
+   "start_time_text": "21:20",
+   "start_time_label": "21:20"
+  },
+  {
+   "start_ms": 1282559,
+   "end_ms": 1284720,
+   "snippet": "कि मार्केट ऊपर जाएगा। प्राइस ऊपर जाएगा।",
+   "start_time_text": "21:22",
+   "start_time_label": "21:22"
+  },
+  {
+   "start_ms": 1284720,
+   "end_ms": 1286559,
+   "snippet": "शॉर्ट हम तब करते हैं जब हमें लगता है",
+   "start_time_text": "21:24",
+   "start_time_label": "21:24"
+  },
+  {
+   "start_ms": 1286559,
+   "end_ms": 1289679,
+   "snippet": "प्राइस नीचे जाएगा। लेकिन उससे पहले आप",
+   "start_time_text": "21:26",
+   "start_time_label": "21:26"
+  },
+  {
+   "start_ms": 1289679,
+   "end_ms": 1292559,
+   "snippet": "लेवरेज का आपके पास ऑप्शन आता है। यह देखो",
+   "start_time_text": "21:29",
+   "start_time_label": "21:29"
+  },
+  {
+   "start_ms": 1292559,
+   "end_ms": 1295360,
+   "snippet": "सेलेक्ट लेवरेज। आपको जैसे Spcex में 20",
+   "start_time_text": "21:32",
+   "start_time_label": "21:32"
+  },
+  {
+   "start_ms": 1295360,
+   "end_ms": 1298000,
+   "snippet": "एक्स लेवरेज यहां पर मिला हुआ है। अलग-अलग",
+   "start_time_text": "21:35",
+   "start_time_label": "21:35"
+  },
+  {
+   "start_ms": 1298000,
+   "end_ms": 1299760,
+   "snippet": "स्टॉक्स में अलग-अलग किसी में 50 एक्स",
+   "start_time_text": "21:38",
+   "start_time_label": "21:38"
+  },
+  {
+   "start_ms": 1299760,
+   "end_ms": 1301280,
+   "snippet": "लेवरेज, किसी में 100 एक्स लेवरेज, किसी",
+   "start_time_text": "21:39",
+   "start_time_label": "21:39"
+  },
+  {
+   "start_ms": 1301280,
+   "end_ms": 1303840,
+   "snippet": "में 20 एक्स लेवरेज। वो आप खुद चेक करना।",
+   "start_time_text": "21:41",
+   "start_time_label": "21:41"
+  },
+  {
+   "start_ms": 1303840,
+   "end_ms": 1306000,
+   "snippet": "अब जैसे 20x लेवरेज यहां पर हमने ले रखा",
+   "start_time_text": "21:43",
+   "start_time_label": "21:43"
+  },
+  {
+   "start_ms": 1306000,
+   "end_ms": 1307679,
+   "snippet": "है। लेकिन एक चीज़ बता दूं भैया लेवरेज दो",
+   "start_time_text": "21:46",
+   "start_time_label": "21:46"
+  },
+  {
+   "start_ms": 1307679,
+   "end_ms": 1309919,
+   "snippet": "धारी तलवार होती है। हमेशा ये बोलता हूं",
+   "start_time_text": "21:47",
+   "start_time_label": "21:47"
+  },
+  {
+   "start_ms": 1309919,
+   "end_ms": 1312960,
+   "snippet": "मैं। आपको अगर बड़ा प्रॉफिट करने की",
+   "start_time_text": "21:49",
+   "start_time_label": "21:49"
+  },
+  {
+   "start_ms": 1312960,
+   "end_ms": 1315039,
+   "snippet": "अपॉर्चुनिटी देती है तो बहुत जल्दी",
+   "start_time_text": "21:52",
+   "start_time_label": "21:52"
+  },
+  {
+   "start_ms": 1315039,
+   "end_ms": 1318720,
+   "snippet": "लिक्विडेट होने की नुकसान भी है उसमें। तो",
+   "start_time_text": "21:55",
+   "start_time_label": "21:55"
+  },
+  {
+   "start_ms": 1318720,
+   "end_ms": 1320799,
+   "snippet": "लेवरेज आप जब लें तो सावधानी से समझ के",
+   "start_time_text": "21:58",
+   "start_time_label": "21:58"
+  },
+  {
+   "start_ms": 1320799,
+   "end_ms": 1323840,
+   "snippet": "लें भैया। ठीक? अब 20x लेवरेज अगर मैंने",
+   "start_time_text": "22:00",
+   "start_time_label": "22:00"
+  },
+  {
+   "start_ms": 1323840,
+   "end_ms": 1326960,
+   "snippet": "ले रखा है। इसमें साइज कह रहा है मैं अगर",
+   "start_time_text": "22:03",
+   "start_time_label": "22:03"
+  },
+  {
+   "start_ms": 1326960,
+   "end_ms": 1330080,
+   "snippet": "साइज यहां कह रहा हूं मिनिमम रुपए ₹1530",
+   "start_time_text": "22:06",
+   "start_time_label": "22:06"
+  },
+  {
+   "start_ms": 1330080,
+   "end_ms": 1332000,
+   "snippet": "का मिनिमम साइज होना चाहिए। मतलब मिनिमम",
+   "start_time_text": "22:10",
+   "start_time_label": "22:10"
+  },
+  {
+   "start_ms": 1332000,
+   "end_ms": 1334000,
+   "snippet": "इतने रुपए की ट्रेड होने चाहिए। लेट्स",
+   "start_time_text": "22:12",
+   "start_time_label": "22:12"
+  },
+  {
+   "start_ms": 1334000,
+   "end_ms": 1337440,
+   "snippet": "सपोज़ मैं यहां पर ₹1600 का पोजीशन साइज",
+   "start_time_text": "22:14",
+   "start_time_label": "22:14"
+  },
+  {
+   "start_ms": 1337440,
+   "end_ms": 1339679,
+   "snippet": "बताता हूं। बनाता हूं। लेकिन चकि मैंने",
+   "start_time_text": "22:17",
+   "start_time_label": "22:17"
+  },
+  {
+   "start_ms": 1339679,
+   "end_ms": 1341600,
+   "snippet": "20x लेवरेज यहां पर सेलेक्ट कर रखा है तो",
+   "start_time_text": "22:19",
+   "start_time_label": "22:19"
+  },
+  {
+   "start_ms": 1341600,
+   "end_ms": 1344080,
+   "snippet": "मुझे ₹1600 अपनी जेब से नहीं देने हैं।",
+   "start_time_text": "22:21",
+   "start_time_label": "22:21"
+  },
+  {
+   "start_ms": 1344080,
+   "end_ms": 1345919,
+   "snippet": "मुझे सिर्फ और सिर्फ मार्जिन देखो कितना",
+   "start_time_text": "22:24",
+   "start_time_label": "22:24"
+  },
+  {
+   "start_ms": 1345919,
+   "end_ms": 1350080,
+   "snippet": "है? ₹74 मतलब ₹74 मेरी जेब से कटेंगे।",
+   "start_time_text": "22:25",
+   "start_time_label": "22:25"
+  },
+  {
+   "start_ms": 1350080,
+   "end_ms": 1353520,
+   "snippet": "सिर्फ और सिर्फ ₹74 ₹74 में यूएस मार्केट",
+   "start_time_text": "22:30",
+   "start_time_label": "22:30"
+  },
+  {
+   "start_ms": 1353520,
+   "end_ms": 1356480,
+   "snippet": "में spcex में आप ट्रेड कर रहे हो। Spcex",
+   "start_time_text": "22:33",
+   "start_time_label": "22:33"
+  },
+  {
+   "start_ms": 1356480,
+   "end_ms": 1358880,
+   "snippet": "दुनिया का सबसे बड़ा आईपीओ अभी-अभी आया है",
+   "start_time_text": "22:36",
+   "start_time_label": "22:36"
+  },
+  {
+   "start_ms": 1358880,
+   "end_ms": 1361919,
+   "snippet": "भाई ईलॉन मस्क की कंपनी। ₹74 में मतलब",
+   "start_time_text": "22:38",
+   "start_time_label": "22:38"
+  },
+  {
+   "start_ms": 1361919,
+   "end_ms": 1364000,
+   "snippet": "₹100 से भी कम में। हमने थंबनेल पे ₹100",
+   "start_time_text": "22:41",
+   "start_time_label": "22:41"
+  },
+  {
+   "start_ms": 1364000,
+   "end_ms": 1366080,
+   "snippet": "लिखा है लेकिन यहां तो ₹74 में हो रहा है।",
+   "start_time_text": "22:44",
+   "start_time_label": "22:44"
+  },
+  {
+   "start_ms": 1366080,
+   "end_ms": 1368240,
+   "snippet": "ठीक है? अब यहां पर आप स्टॉप लॉस वगैरह",
+   "start_time_text": "22:46",
+   "start_time_label": "22:46"
+  },
+  {
+   "start_ms": 1368240,
+   "end_ms": 1370559,
+   "snippet": "खुद यहां से पहले से आप सेट कर सकते हो।",
+   "start_time_text": "22:48",
+   "start_time_label": "22:48"
+  },
+  {
+   "start_ms": 1370559,
+   "end_ms": 1373039,
+   "snippet": "उसके बाद आपको लगता है कि लॉन्ग करना है",
+   "start_time_text": "22:50",
+   "start_time_label": "22:50"
+  },
+  {
+   "start_ms": 1373039,
+   "end_ms": 1375760,
+   "snippet": "प्राइस ऊपर जाएगा तो आप बाय बटन दबा देना।",
+   "start_time_text": "22:53",
+   "start_time_label": "22:53"
+  },
+  {
+   "start_ms": 1375760,
+   "end_ms": 1377840,
+   "snippet": "बाय बटन दबाते ही भैया आपका ट्रेड हो गया",
+   "start_time_text": "22:55",
+   "start_time_label": "22:55"
+  },
+  {
+   "start_ms": 1377840,
+   "end_ms": 1379919,
+   "snippet": "शुरू। आप पोजीशंस टैब पर आ जाना। ऐसे ही",
+   "start_time_text": "22:57",
+   "start_time_label": "22:57"
+  },
+  {
+   "start_ms": 1379919,
+   "end_ms": 1382960,
+   "snippet": "आप NASDC 100 आपको इंडेक्स में ट्रेड करना",
+   "start_time_text": "22:59",
+   "start_time_label": "22:59"
+  },
+  {
+   "start_ms": 1382960,
+   "end_ms": 1385520,
+   "snippet": "है। देखो इसमें कितना लेवरेज मिल रहा है।",
+   "start_time_text": "23:02",
+   "start_time_label": "23:02"
+  },
+  {
+   "start_ms": 1385520,
+   "end_ms": 1388320,
+   "snippet": "आप ट्रेड में आओ।",
+   "start_time_text": "23:05",
+   "start_time_label": "23:05"
+  },
+  {
+   "start_ms": 1388320,
+   "end_ms": 1390640,
+   "snippet": "इसमें देखो 30x लेवरेज मिल रहा है। उसमें",
+   "start_time_text": "23:08",
+   "start_time_label": "23:08"
+  },
+  {
+   "start_ms": 1390640,
+   "end_ms": 1393039,
+   "snippet": "20x था। इसमें 30 तो किसी में आपको 30",
+   "start_time_text": "23:10",
+   "start_time_label": "23:10"
+  },
+  {
+   "start_ms": 1393039,
+   "end_ms": 1394880,
+   "snippet": "मिलेगा, किसी में 50 मिलेगा। आप इसको",
+   "start_time_text": "23:13",
+   "start_time_label": "23:13"
+  },
+  {
+   "start_ms": 1394880,
+   "end_ms": 1397120,
+   "snippet": "एक्सप्लोर करें। ठीक है? तो ये सारी चीजें",
+   "start_time_text": "23:14",
+   "start_time_label": "23:14"
+  },
+  {
+   "start_ms": 1397120,
+   "end_ms": 1399039,
+   "snippet": "बता दी। कुछ और बताना तो नहीं है। हो गया",
+   "start_time_text": "23:17",
+   "start_time_label": "23:17"
+  },
+  {
+   "start_ms": 1399039,
+   "end_ms": 1401120,
+   "snippet": "क्लियर? तो मैं स्क्रीन रिकॉर्डिंग ऑफ कर",
+   "start_time_text": "23:19",
+   "start_time_label": "23:19"
+  },
+  {
+   "start_ms": 1401120,
+   "end_ms": 1402960,
+   "snippet": "देता हूं। [गहरी सांस लेने की आवाज़]",
+   "start_time_text": "23:21",
+   "start_time_label": "23:21"
+  },
+  {
+   "start_ms": 1402960,
+   "end_ms": 1406080,
+   "snippet": "अब यहां से आपको बहुत सारी चीजें समझ में",
+   "start_time_text": "23:22",
+   "start_time_label": "23:22"
+  },
+  {
+   "start_ms": 1406080,
+   "end_ms": 1408880,
+   "snippet": "आ गई होगी। यूएस मार्केट क्यों ट्रेडर्स",
+   "start_time_text": "23:26",
+   "start_time_label": "23:26"
+  },
+  {
+   "start_ms": 1408880,
+   "end_ms": 1411919,
+   "snippet": "का फेवरेट बनता जा रहा है। चाहे फॉरेक्स",
+   "start_time_text": "23:28",
+   "start_time_label": "23:28"
+  },
+  {
+   "start_ms": 1411919,
+   "end_ms": 1413919,
+   "snippet": "हो, क्रिप्टो हो, इंडियन मार्केट हो। लोग",
+   "start_time_text": "23:31",
+   "start_time_label": "23:31"
+  },
+  {
+   "start_ms": 1413919,
+   "end_ms": 1416159,
+   "snippet": "टोकनाइज फॉर्म में ट्रेड करना ज्यादा पसंद",
+   "start_time_text": "23:33",
+   "start_time_label": "23:33"
+  },
+  {
+   "start_ms": 1416159,
+   "end_ms": 1418799,
+   "snippet": "कर रहे हैं। बड़ी वजह यह है कि इवेंट्स",
+   "start_time_text": "23:36",
+   "start_time_label": "23:36"
+  },
+  {
+   "start_ms": 1418799,
+   "end_ms": 1421919,
+   "snippet": "आपको पहले से पता होते हैं। डेट्स आपको",
+   "start_time_text": "23:38",
+   "start_time_label": "23:38"
+  },
+  {
+   "start_ms": 1421919,
+   "end_ms": 1424799,
+   "snippet": "पहले से पता होते हैं। और सबसे बड़ी बात",
+   "start_time_text": "23:41",
+   "start_time_label": "23:41"
+  },
+  {
+   "start_ms": 1424799,
+   "end_ms": 1427760,
+   "snippet": "लेवरेज मिलता है। आप इंडियन मार्केट हो या",
+   "start_time_text": "23:44",
+   "start_time_label": "23:44"
+  },
+  {
+   "start_ms": 1427760,
+   "end_ms": 1430240,
+   "snippet": "यूएस मार्केट हो लेवरेज बड़ी मुश्किल से",
+   "start_time_text": "23:47",
+   "start_time_label": "23:47"
+  },
+  {
+   "start_ms": 1430240,
+   "end_ms": 1432159,
+   "snippet": "मिलता है भैया और वो भी सब लोगों को नहीं",
+   "start_time_text": "23:50",
+   "start_time_label": "23:50"
+  },
+  {
+   "start_ms": 1432159,
+   "end_ms": 1435039,
+   "snippet": "मिलता। क्रिप्टो मार्केट में लेवरेज आसानी",
+   "start_time_text": "23:52",
+   "start_time_label": "23:52"
+  },
+  {
+   "start_ms": 1435039,
+   "end_ms": 1437039,
+   "snippet": "से मिल सकता है और लेवरेज बेसिकली",
+   "start_time_text": "23:55",
+   "start_time_label": "23:55"
+  },
+  {
+   "start_ms": 1437039,
+   "end_ms": 1439520,
+   "snippet": "ट्रेडर्स को दीवाना बनाता है। लेवरेज कहने",
+   "start_time_text": "23:57",
+   "start_time_label": "23:57"
+  },
+  {
+   "start_ms": 1439520,
+   "end_ms": 1441919,
+   "snippet": "का मतलब आपके पॉकेट में भले ही ₹100 हैं।",
+   "start_time_text": "23:59",
+   "start_time_label": "23:59"
+  },
+  {
+   "start_ms": 1441919,
+   "end_ms": 1444880,
+   "snippet": "100 एक्स लेवरेज लेकर के आप ₹1 लाख का",
+   "start_time_text": "24:01",
+   "start_time_label": "24:01"
+  },
+  {
+   "start_ms": 1444880,
+   "end_ms": 1446880,
+   "snippet": "ट्रेडिंग प्रोसीड पोजीशन बना सकते हो। ठीक",
+   "start_time_text": "24:04",
+   "start_time_label": "24:04"
+  },
+  {
+   "start_ms": 1446880,
+   "end_ms": 1448880,
+   "snippet": "है? तो छोटे से कैपिटल से बड़ी ट्रेडिंग",
+   "start_time_text": "24:06",
+   "start_time_label": "24:06"
+  },
+  {
+   "start_ms": 1448880,
+   "end_ms": 1450799,
+   "snippet": "हो सकती है लेवरेज के माध्यम से। लेकिन",
+   "start_time_text": "24:08",
+   "start_time_label": "24:08"
+  },
+  {
+   "start_ms": 1450799,
+   "end_ms": 1453279,
+   "snippet": "लेवरेज खतरनाक भी है। बहुत जल्दी आप",
+   "start_time_text": "24:10",
+   "start_time_label": "24:10"
+  },
+  {
+   "start_ms": 1453279,
+   "end_ms": 1456320,
+   "snippet": "लिक्विडेट हो सकते हो उसमें। तो ये सेशन",
+   "start_time_text": "24:13",
+   "start_time_label": "24:13"
+  },
+  {
+   "start_ms": 1456320,
+   "end_ms": 1458720,
+   "snippet": "आपको कैसा लगा भैया? हमको कमेंट बॉक्स में",
+   "start_time_text": "24:16",
+   "start_time_label": "24:16"
+  },
+  {
+   "start_ms": 1458720,
+   "end_ms": 1461039,
+   "snippet": "लिख के बताइएगा क्योंकि ये डाटा ये सेशन",
+   "start_time_text": "24:18",
+   "start_time_label": "24:18"
+  },
+  {
+   "start_ms": 1461039,
+   "end_ms": 1462799,
+   "snippet": "मुझे नहीं लगता अब तक किसी ने किया होगा।",
+   "start_time_text": "24:21",
+   "start_time_label": "24:21"
+  },
+  {
+   "start_ms": 1462799,
+   "end_ms": 1464880,
+   "snippet": "इवेंट्स को इतने डिटेल में किसी ने अब तक",
+   "start_time_text": "24:22",
+   "start_time_label": "24:22"
+  },
+  {
+   "start_ms": 1464880,
+   "end_ms": 1466880,
+   "snippet": "समझाया होगा। ऐसा मुझे नहीं लगता। आपको भी",
+   "start_time_text": "24:24",
+   "start_time_label": "24:24"
+  },
+  {
+   "start_ms": 1466880,
+   "end_ms": 1468240,
+   "snippet": "ऐसा लगता है तो हमको कमेंट बॉक्स में लिख",
+   "start_time_text": "24:26",
+   "start_time_label": "24:26"
+  },
+  {
+   "start_ms": 1468240,
+   "end_ms": 1470480,
+   "snippet": "के जरूर बताइएगा। दो लिंक आपके लिए",
+   "start_time_text": "24:28",
+   "start_time_label": "24:28"
+  },
+  {
+   "start_ms": 1470480,
+   "end_ms": 1472720,
+   "snippet": "इंपॉर्टेंट है। कौन-कौन सा? एक तो tlegram",
+   "start_time_text": "24:30",
+   "start_time_label": "24:30"
+  },
+  {
+   "start_ms": 1472720,
+   "end_ms": 1474960,
+   "snippet": "चैनल जिसमें हमारी टीम आपको फ्री में",
+   "start_time_text": "24:32",
+   "start_time_label": "24:32"
+  },
+  {
+   "start_ms": 1474960,
+   "end_ms": 1477279,
+   "snippet": "सिखाती है। हर रोज फ्री में सिखाती है",
+   "start_time_text": "24:34",
+   "start_time_label": "24:34"
+  },
+  {
+   "start_ms": 1477279,
+   "end_ms": 1479919,
+   "snippet": "ट्रेड करना और दूसरा कॉinडीx का लिंक जो",
+   "start_time_text": "24:37",
+   "start_time_label": "24:37"
+  },
+  {
+   "start_ms": 1479919,
+   "end_ms": 1482159,
+   "snippet": "कस्टमाइज लिंक है। डायरेक्ट Google पे",
+   "start_time_text": "24:39",
+   "start_time_label": "24:39"
+  },
+  {
+   "start_ms": 1482159,
+   "end_ms": 1484000,
+   "snippet": "जाके डाउनलोड मत कीजिएगा। नुकसान हो",
+   "start_time_text": "24:42",
+   "start_time_label": "24:42"
+  },
+  {
+   "start_ms": 1484000,
+   "end_ms": 1486240,
+   "snippet": "जाएगा। 20% बचत है भैया ब्रोकरेज में आपको",
+   "start_time_text": "24:44",
+   "start_time_label": "24:44"
+  },
+  {
+   "start_ms": 1486240,
+   "end_ms": 1488320,
+   "snippet": "पहले महीने और फ्री बिटकॉइन भी मिल सकता",
+   "start_time_text": "24:46",
+   "start_time_label": "24:46"
+  },
+  {
+   "start_ms": 1488320,
+   "end_ms": 1490720,
+   "snippet": "है। उसके लिए कोड यूज़ कर लेना सागर सिन्हा",
+   "start_time_text": "24:48",
+   "start_time_label": "24:48"
+  },
+  {
+   "start_ms": 1490720,
+   "end_ms": 1493840,
+   "snippet": "100 ठीक ₹100 का फ्री बिटकॉइन मिलेगा। चलो",
+   "start_time_text": "24:50",
+   "start_time_label": "24:50"
+  },
+  {
+   "start_ms": 1493840,
+   "end_ms": 1498039,
+   "snippet": "भैया आज के लिए इतना ही।",
+   "start_time_text": "24:53",
+   "start_time_label": "24:53"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "hi",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=gRNJ-fXE_00"
+  }
+ ],
+ "_fetched_at": "2026-10-11T05:22:23"
+}

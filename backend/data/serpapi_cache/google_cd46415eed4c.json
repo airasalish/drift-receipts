@@ -1,0 +1,390 @@
+{
+ "search_metadata": {
+  "id": "6ac9f76f13f4b654ce05f1f8",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/WVPFhLseme3l6b1h7hHhsFA256qL4tK2H5ywq9iosK0/6ac9f76f13f4b654ce05f1f8.json",
+  "markdown_endpoint": "https://serpapi.com/searches/WVPFhLseme3l6b1h7hHhsFA256qL4tK2H5ywq9iosK0/6ac9f76f13f4b654ce05f1f8.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/WVPFhLseme3l6b1h7hHhsFA256qL4tK2H5ywq9iosK0/6ac9f76f13f4b654ce05f1f8.json_with_pixel_position",
+  "created_at": "2026-10-10 08:29:35 UTC",
+  "processed_at": "2026-10-10 08:29:35 UTC",
+  "google_url": "https://www.google.com/search?q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&oq=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/WVPFhLseme3l6b1h7hHhsFA256qL4tK2H5ywq9iosK0/6ac9f76f13f4b654ce05f1f8.html",
+  "total_time_taken": 0.41
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "site:sebi.gov.in \"Akshat Shrivastava\"",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "site:sebi.gov.in \"Akshat Shrivastava\"",
+  "total_results": 53,
+  "time_taken_displayed": 0.15,
+  "organic_results_state": "Results for exact spelling"
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Why am I selling some of my stocks!",
+   "link": "https://www.youtube.com/watch?v=KPvPHrushig",
+   "displayed_link": "4.3L+ views · 3 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrz1I5Jjf89gRLseRCpnethe0.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Akshat Shrivastava•581K views · 20:46 · Go to channel Akshat Shrivastava · Will the Next 5 years be GREAT for Indian Markets? | Akshat ...",
+   "duration": "26:04",
+   "about_this_result": {
+    "source": {
+     "description": "Akshat Shrivastava•581K views · 20:46 · Go to channel Akshat Shrivastava · Will the Next 5 years be GREAT for Indian Markets? | Akshat ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZpRDBrV0dDTWtnVGFfT3hBczJsTXFLZkk0TW5iYzA2Tlo0bUlFVXROVGFWckQ2emVuVzVBNTd6ZmJheEF0b3BxZHpTbERFekdKVzhiemdsTXNfa2JhMThfbHZhX3MtTkdRUGpoaVlhZXpGT3M2clhrMHBJVHRJSWlJRmkwQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVnZpRDBrV0dDTWtnVGFfT3hBczJsTXFLZkk0TW5iYzA2Tlo0bUlFVXROVGFWckQ2emVuVzVBNTd6ZmJheEF0b3BxZHpTbERFekdKVzhiemdsTXNfa2JhMThfbHZhX3MtTkdRUGpoaVlhZXpGT3M2clhrMHBJVHRJSWlJRmkwQRIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Akshat Shrivastava"
+  },
+  {
+   "position": 2,
+   "title": "Wisdom Hatch",
+   "link": "https://open.spotify.com/show/1GMpZqRpNiTZM9vH6gE8h1",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbAHrOzAVmIqXEhNWoD9TSkhKJdEZI_4c1RrUgRNceWwU44OOAOXcOAg4Kpvsgyh1mAdNuaZKAknH-TV7-txBP-jNmrXOPDV1glzT0hiHY_xLOsIFxCHRfWkuL6BNqdFsV9rGU_5ztA3AUUN4qA&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQFnoECBwQAQ&uoh=1",
+   "displayed_link": "https://open.spotify.com › show",
+   "favicon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp",
+   "snippet": "On this episode, Akshat Shrivastava (ex-BCG, Dalberg, INSEAD) and Ayushi Chand (Government of India) discuss 5 core concepts of Economics: 1. Debt 2. Inflation ...",
+   "snippet_highlighted_words": [
+    "Akshat Shrivastava"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "On this episode, Akshat Shrivastava (ex-BCG, Dalberg, INSEAD) and Ayushi Chand (Government of India) discuss 5 core concepts of Economics: 1. Debt 2. Inflation ...",
+     "source_info_link": "https://open.spotify.com/show/1GMpZqRpNiTZM9vH6gE8h1",
+     "icon": "https://serpapi.com/images/i/UklGRnQBAABXRUJQVlA4IGgBAACQCACdASogACAAPtE-tFooIigoFAEAGglsAJ0yhHUHuluHaCQM-gDbn8_H0TOSqPmquyDARP_1agggGFzgQB8osttxU9gBfJjKYo2aUAD-_S_b4i0jrK3Tim9uQNYtcnB4kKZbc3Ags-H22ZA2Ie8aa2ELSmXD9d05ZlfCfc5Air_yc4nz_WQ_vqQ7_xnjUas7IO85fMyQ83J6B-5lFFnZh1uTpS_8vrdfdr_iF1femSzoknZ9bnXPuuH_CR98GtzP0Sn3sEgLoRPcr2QIs_IZfA5lRB0VQtS8cucaxg48nL_x_3zRv7n_x_c7iSAaukKLPSeX7PpHzhJ4_6bnVtqxOZs-euCGF8_jLVEzXlPFjj1MH34x3_jTwaB_EZP5kFzLZf_vHtzTMR_GG5E6tUvXhk-A0MC4KfDbjf1R-7scJmDaH3opQP4CbV8AP-VauXqW2qcZrYDvxAVeb63hEIEj0Mwsqml0AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVm1JcVhFaE5Xb0Q5VFNraEtKZEVaSV80YzFSclVnUk5jZVd3VTQ0T09BT1hjT0FnNEtwdnNneWgxbUFkTnVhWktBa25ILVRWNy10eEJQLWpObXJYT1BEVjFnbHpUMGhpSFlfeExPc0lGeENIUmZXa3VMNkJOcWRGc1Y5ckdVXzV6dEEzQVVVTjRxQRIEGgIIABrHAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCjAwgAEAAYACAAKg0KBmFrc2hhdBVXxu8_KhIKC3Nocml2YXN0YXZhFX3M1j8yoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWbUlxWEVoTldvRDlUU2toS0pkRVpJXzRjMVJyVWdSTmNlV3dVNDRPT0FPWGNPQWc0S3B2c2d5aDFtQWROdWFaS0FrbkgtVFY3LXR4QlAtak5tclhPUERWMWdselQwaGlIWV94TE9zSUZ4Q0hSZldrdUw2Qk5xZEZzVjlyR1VfNXp0QTNBVVVONHFBOiFXaXNkb20gSGF0Y2ggfCBQb2RjYXN0IG9uIFNwb3RpZnlCrwFPbiB0aGlzIGVwaXNvZGUsIDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj4gKGV4LUJDRywgRGFsYmVyZywgSU5TRUFEKSBhbmQgQXl1c2hpIENoYW5kIChHb3Zlcm5tZW50IG9mIEluZGlhKSBkaXNjdXNzIDUgY29yZSBjb25jZXB0cyBvZiBFY29ub21pY3M6IDEuIERlYnQgMi4gSW5mbGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqABL2dvdG8_dXJsPUNBRVNiQUhyT3pBVm1JcVhFaE5Xb0Q5VFNraEtKZEVaSV80YzFSclVnUk5jZVd3VTQ0T09BT1hjT0FnNEtwdnNneWgxbUFkTnVhWktBa25ILVRWNy10eEJQLWpObXJYT1BEVjFnbHpUMGhpSFlfeExPc0lGeENIUmZXa3VMNkJOcWRGc1Y5ckdVXzV6dEEzQVVVTjRxQRIEGgIIABrHAxIAGgAiACoAMgYIAxICaW46AEIECAEQAEoAWgByAHoAgkCjAwgAEAAYACAAKg0KBmFrc2hhdBVXxu8_KhIKC3Nocml2YXN0YXZhFX3M1j8yoAEvZ290bz91cmw9Q0FFU2JBSHJPekFWbUlxWEVoTldvRDlUU2toS0pkRVpJXzRjMVJyVWdSTmNlV3dVNDRPT0FPWGNPQWc0S3B2c2d5aDFtQWROdWFaS0FrbkgtVFY3LXR4QlAtak5tclhPUERWMWdselQwaGlIWV94TE9zSUZ4Q0hSZldrdUw2Qk5xZEZzVjlyR1VfNXp0QTNBVVVONHFBOiFXaXNkb20gSGF0Y2ggfCBQb2RjYXN0IG9uIFNwb3RpZnlCrwFPbiB0aGlzIGVwaXNvZGUsIDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj4gKGV4LUJDRywgRGFsYmVyZywgSU5TRUFEKSBhbmQgQXl1c2hpIENoYW5kIChHb3Zlcm5tZW50IG9mIEluZGlhKSBkaXNjdXNzIDUgY29yZSBjb25jZXB0cyBvZiBFY29ub21pY3M6IDEuIERlYnQgMi4gSW5mbGF0aW9uJm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "Spotify - Web Player: Music for everyone",
+   "read_more_link": "https://open.spotify.com/show/1GMpZqRpNiTZM9vH6gE8h1#:~:text=On%20this%20episode%2C%20Akshat%20Shrivastava,1.%20Debt%202.%20Inflation%203."
+  },
+  {
+   "position": 3,
+   "title": "How our parents lose money: LESSONS LEARNT",
+   "link": "https://www.youtube.com/watch?v=NPLa-JDGjcg",
+   "displayed_link": "1.4L+ views · 5 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrz6oaQOA6yDvkXQqvPxZLe38.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Go to channel Akshat Shrivastava · Buy Low, Sell High and make money in STOCK MARKET | Learn how to invest #StockMarketTips. Akshat Shrivastava ...",
+   "duration": "25:24",
+   "about_this_result": {
+    "source": {
+     "description": "Go to channel Akshat Shrivastava · Buy Low, Sell High and make money in STOCK MARKET | Learn how to invest #StockMarketTips. Akshat Shrivastava ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlROQTlPNU9RNnAzWFhuOVV2Q1VRV1UwWjJBcWlEVTNXNlJlNTFPenFhZEc0Z0VhQzY0LXE3bXRBNUR4V2JXUlJtWG81MVNiZDMwZF9YWGlDMWtJNmhKSjJWcXNick1RWGRxVjFfb2k0ekh1QllyWmpLY2JRX2s5VVZ0UXNydxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlROQTlPNU9RNnAzWFhuOVV2Q1VRV1UwWjJBcWlEVTNXNlJlNTFPenFhZEc0Z0VhQzY0LXE3bXRBNUR4V2JXUlJtWG81MVNiZDMwZF9YWGlDMWtJNmhKSjJWcXNick1RWGRxVjFfb2k0ekh1QllyWmpLY2JRX2s5VVZ0UXNydxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRvjmC-DPLUKxcDjoY-CnmLKgjbDcXXLu64gQ",
+   "source": "YouTube · Akshat Shrivastava"
+  },
+  {
+   "position": 4,
+   "title": "MUST KNOW points at Market ALL TIME HIGH",
+   "link": "https://www.youtube.com/watch?v=jk7FL1BQ-Vo",
+   "displayed_link": "2.7L+ views · 2 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrz0ztuVksExORM-_O0wcul9o.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Go to channel Akshat Shrivastava · Before investing LAKHS, learn to do SIPs properly! | Akshat Shrivastava. Akshat Shrivastava•300K views · 13: ...",
+   "duration": "42:10",
+   "about_this_result": {
+    "source": {
+     "description": "Go to channel Akshat Shrivastava · Before investing LAKHS, learn to do SIPs properly! | Akshat Shrivastava. Akshat Shrivastava•300K views · 13: ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkhCYXc1Zm1HRjNMbXcteXMyUzhyX1VueWVmeXRhVWFkYllkQVEzeDBVOC1mZlVsbTJmd0oxYVpYWm15QnZzZjZGbmcycldJTG11b2dzVG1yQ0JZV2t3aFZmbloxeEdmbUZKN041RHlKeVFUakZ1Nm5pVU00VHRQMi1LMGVJURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVkhCYXc1Zm1HRjNMbXcteXMyUzhyX1VueWVmeXRhVWFkYllkQVEzeDBVOC1mZlVsbTJmd0oxYVpYWm15QnZzZjZGbmcycldJTG11b2dzVG1yQ0JZV2t3aFZmbloxeEdmbUZKN041RHlKeVFUakZ1Nm5pVU00VHRQMi1LMGVJURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Akshat Shrivastava"
+  },
+  {
+   "position": 5,
+   "title": "Indian IT, Gold, Silver, Banks (all have corrected more than ...",
+   "link": "https://music.youtube.com/podcast/mimvQ72IbNs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVnU7kX74cVFuVGyl37hRgN_4CC8EnzBQQYifwRyj_2lCPHPcqnN7SXF6OAlhk8if20D9VhMTF5-76Ap6oN_XtW_zq7T5sz8W4m4NA7eFjHDfSSvpoqWo_sezULrkfwxnG&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQFnoECBQQAQ&uoh=1",
+   "displayed_link": "https://music.youtube.com › podcast",
+   "favicon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp",
+   "snippet": "Indian IT, Gold, Silver, Banks (all have corrected more than 20%)| Time to buy? | Akshat Shrivastava. Join Wisdom Hatch Global Investing Community.",
+   "snippet_highlighted_words": [
+    "Akshat Shrivastava"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Indian IT, Gold, Silver, Banks (all have corrected more than 20%)| Time to buy? | Akshat Shrivastava. Join Wisdom Hatch Global Investing Community.",
+     "source_info_link": "https://music.youtube.com/podcast/mimvQ72IbNs",
+     "icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm5VN2tYNzRjVkZ1Vkd5bDM3aFJnTl80Q0M4RW56QlFRWWlmd1J5al8ybENQSFBjcW5ON1NYRjZPQWxoazhpZjIwRDlWaE1URjUtNzZBcDZvTl9YdFdfenE3VDVzejhXNG00TkE3ZUZqSERmU1N2cG9xV29fc2V6VUxya2Z3eG5HEgQaAggAGsgDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQDCAAQABgAIAAqDQoGYWtzaGF0FZwftD8qEgoLc2hyaXZhc3RhdmEVO7ddPzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZuVTdrWDc0Y1ZGdVZHeWwzN2hSZ05fNENDOEVuekJRUVlpZndSeWpfMmxDUEhQY3FuTjdTWEY2T0FsaGs4aWYyMEQ5VmhNVEY1LTc2QXA2b05fWHRXX3pxN1Q1c3o4VzRtNE5BN2VGakhEZlNTdnBvcVdvX3NlelVMcmtmd3huRzpBSW5kaWFuIElULCBHb2xkLCBTaWx2ZXIsIEJhbmtzIChhbGwgaGF2ZSBjb3JyZWN0ZWQgbW9yZSB0aGFuIDIwJSlCmgFJbmRpYW4gSVQsIEdvbGQsIFNpbHZlciwgQmFua3MgKGFsbCBoYXZlIGNvcnJlY3RlZCBtb3JlIHRoYW4gMjAlKXwgVGltZSB0byBidXk_IHwgPGI-QWtzaGF0IFNocml2YXN0YXZhPC9iPi4gSm9pbiBXaXNkb20gSGF0Y2ggR2xvYmFsIEludmVzdGluZyBDb21tdW5pdHkuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVm5VN2tYNzRjVkZ1Vkd5bDM3aFJnTl80Q0M4RW56QlFRWWlmd1J5al8ybENQSFBjcW5ON1NYRjZPQWxoazhpZjIwRDlWaE1URjUtNzZBcDZvTl9YdFdfenE3VDVzejhXNG00TkE3ZUZqSERmU1N2cG9xV29fc2V6VUxya2Z3eG5HEgQaAggAGsgDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQKQDCAAQABgAIAAqDQoGYWtzaGF0FZwftD8qEgoLc2hyaXZhc3RhdmEVO7ddPzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZuVTdrWDc0Y1ZGdVZHeWwzN2hSZ05fNENDOEVuekJRUVlpZndSeWpfMmxDUEhQY3FuTjdTWEY2T0FsaGs4aWYyMEQ5VmhNVEY1LTc2QXA2b05fWHRXX3pxN1Q1c3o4VzRtNE5BN2VGakhEZlNTdnBvcVdvX3NlelVMcmtmd3huRzpBSW5kaWFuIElULCBHb2xkLCBTaWx2ZXIsIEJhbmtzIChhbGwgaGF2ZSBjb3JyZWN0ZWQgbW9yZSB0aGFuIDIwJSlCmgFJbmRpYW4gSVQsIEdvbGQsIFNpbHZlciwgQmFua3MgKGFsbCBoYXZlIGNvcnJlY3RlZCBtb3JlIHRoYW4gMjAlKXwgVGltZSB0byBidXk_IHwgPGI-QWtzaGF0IFNocml2YXN0YXZhPC9iPi4gSm9pbiBXaXNkb20gSGF0Y2ggR2xvYmFsIEludmVzdGluZyBDb21tdW5pdHkuIgIQAUgAWABoAA",
+   "source": "YouTube Music",
+   "read_more_link": "https://music.youtube.com/podcast/mimvQ72IbNs#:~:text=Indian%20IT%2C%20Gold%2C%20Silver%2C%20Banks,to%20buy%3F%20%7C%20Akshat%20Shrivastava"
+  },
+  {
+   "position": 6,
+   "title": "Before investing LAKHS, learn to do SIPs properly!",
+   "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU",
+   "displayed_link": "3L+ views · 3 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrzzZJtppKvcNoPZncrTUKKHw.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "Build a BIG PORTFOLIO (2Cr+) even with less salary | Investing Strategies. Akshat Shrivastava ; How a Veteran Investor Built ₹62 Crore Without ...",
+   "duration": "25:38",
+   "key_moments": [
+    {
+     "time": "00:33",
+     "title": "DOING SIP BLINDLY",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=33"
+    },
+    {
+     "time": "02:59",
+     "title": "SIP & ITS ADVANTAGES",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=179"
+    },
+    {
+     "time": "06:34",
+     "title": "SIP & ITS PROBLEMS",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=394"
+    },
+    {
+     "time": "11:41",
+     "title": "BOOKING PROFITS IS NOT POSSIBLE",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=701"
+    },
+    {
+     "time": "15:12",
+     "title": "MESSAGE TO INVESTOR",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=912"
+    },
+    {
+     "time": "16:09",
+     "title": "MISS EASY OPPORTUNITIES",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=969"
+    },
+    {
+     "time": "21:29",
+     "title": "WHY WILL THIS VOLATILITY INCREASE?",
+     "link": "https://www.youtube.com/watch?v=YZqYj_9NKDU&t=1289"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Build a BIG PORTFOLIO (2Cr+) even with less salary | Investing Strategies. Akshat Shrivastava ; How a Veteran Investor Built ₹62 Crore Without ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlNyek9UcWhFcmt0MnE1bDQtUDg4d3JxZVdHQV9tcktZZ2ZzSlJWYUNaQ2NhTERDUGRKVWZaS3B2TkhudVFJLTd5Ry1vVFg0SXJlTEtENVEwTFM3aGpNYTgtY0hBcE1nSXA1aGZTb0k3enVwc2JmSTRlYU9FOGZybVZGQXYzURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlNyek9UcWhFcmt0MnE1bDQtUDg4d3JxZVdHQV9tcktZZ2ZzSlJWYUNaQ2NhTERDUGRKVWZaS3B2TkhudVFJLTd5Ry1vVFg0SXJlTEtENVEwTFM3aGpNYTgtY0hBcE1nSXA1aGZTb0k3enVwc2JmSTRlYU9FOGZybVZGQXYzURIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Akshat Shrivastava"
+  },
+  {
+   "position": 7,
+   "title": "240% returns on this asset | Akshat Shrivastava",
+   "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ",
+   "displayed_link": "1.2L+ views · 4 years ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrzwR2oJ0uGNWx4Hu2Wl3k3NQ.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "The 10-Minute Portfolio Review Every Investor Should Do! (A step by step process). Akshat Shrivastava · 32K views ; The PROBLEM with Capitalism - ...",
+   "duration": "16:28",
+   "key_moments": [
+    {
+     "time": "00:00",
+     "title": "Agenda",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=0"
+    },
+    {
+     "time": "01:17",
+     "title": "What is Contrarian Investing?",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=77"
+    },
+    {
+     "time": "02:56",
+     "title": "What type of investors are contrarian investors?",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=176"
+    },
+    {
+     "time": "04:19",
+     "title": "Contrarian Trades",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=259"
+    },
+    {
+     "time": "05:12",
+     "title": "Benefits of Contrarianism",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=312"
+    },
+    {
+     "time": "06:46",
+     "title": "Oil India Limited",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=406"
+    },
+    {
+     "time": "08:24",
+     "title": "Profit on Bitcoin",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=504"
+    },
+    {
+     "time": "10:38",
+     "title": "Total Gain",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=638"
+    },
+    {
+     "time": "12:18",
+     "title": "Why I am bullish on steel",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=738"
+    },
+    {
+     "time": "14:40",
+     "title": "Key takeaways for 2022",
+     "link": "https://www.youtube.com/watch?v=sjRjE0lxKQQ&t=880"
+    }
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "The 10-Minute Portfolio Review Every Investor Should Do! (A step by step process). Akshat Shrivastava · 32K views ; The PROBLEM with Capitalism - ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlg3VUZ1YnBTRDBOcG1pdzBUM21YMUxyckxmOUVzWUcweEVxYUtCcXU5TVpGemRqa2Etcm9JT3ZiZ0FsMlQzc2JwWm1XM19ZX0ZZT1phSzhQbzVFZ3ZXd3JIdUhiY3pTalk5OXQ1NjdsdlQwallSR0NjSGJJNk02Z2k1RmcwdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlg3VUZ1YnBTRDBOcG1pdzBUM21YMUxyckxmOUVzWUcweEVxYUtCcXU5TVpGemRqa2Etcm9JT3ZiZ0FsMlQzc2JwWm1XM19ZX0ZZT1phSzhQbzVFZ3ZXd3JIdUhiY3pTalk5OXQ1NjdsdlQwallSR0NjSGJJNk02Z2k1RmcwdxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "source": "YouTube · Akshat Shrivastava"
+  },
+  {
+   "position": 8,
+   "title": "I stopped investing in Mutual Funds in 2025 (here is why)",
+   "link": "https://music.youtube.com/podcast/mPE8m4Ld0CU",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVgx7fTbwd3JgP9bEFI6xxgXLC9YRmRcafJFXiVwFd5ENA-SwVaeZZ7hThQfj_twCz23FElzV1ZqgTkGD7LyK4dPt7PcsOJj9gDQme_8aUu62T3Pd_Gaftn8UMf3yeE6Ws&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQFnoECBgQAQ&uoh=1",
+   "displayed_link": "https://music.youtube.com › podcast",
+   "favicon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp",
+   "snippet": "I stopped investing in Mutual Funds in 2025 (here is why) | Akshat Shrivastava. Register for 2-Day LIVE Training on AI for FREE: ...",
+   "snippet_highlighted_words": [
+    "Akshat Shrivastava"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "I stopped investing in Mutual Funds in 2025 (here is why) | Akshat Shrivastava. Register for 2-Day LIVE Training on AI for FREE: ...",
+     "source_info_link": "https://music.youtube.com/podcast/mPE8m4Ld0CU",
+     "icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmd4N2ZUYndkM0pnUDliRUZJNnh4Z1hMQzlZUm1SY2FmSkZYaVZ3RmQ1RU5BLVN3VmFlWlo3aFRoUWZqX3R3Q3oyM0ZFbHpWMVpxZ1RrR0Q3THlLNGRQdDdQY3NPSmo5Z0RRbWVfOGFVdTYyVDNQZF9HYWZ0bjhVTWYzeWVFNldzEgQaAggAGrYDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJIDCAAQABgAIAAqDQoGYWtzaGF0FSCakj8qEgoLc2hyaXZhc3RhdmEVXc5_PzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZneDdmVGJ3ZDNKZ1A5YkVGSTZ4eGdYTEM5WVJtUmNhZkpGWGlWd0ZkNUVOQS1Td1ZhZVpaN2hUaFFmal90d0N6MjNGRWx6VjFacWdUa0dEN0x5SzRkUHQ3UGNzT0pqOWdEUW1lXzhhVXU2MlQzUGRfR2FmdG44VU1mM3llRTZXczo5SSBzdG9wcGVkIGludmVzdGluZyBpbiBNdXR1YWwgRnVuZHMgaW4gMjAyNSAoaGVyZSBpcyB3aHkpQpABSSBzdG9wcGVkIGludmVzdGluZyBpbiBNdXR1YWwgRnVuZHMgaW4gMjAyNSAoaGVyZSBpcyB3aHkpIHwgPGI-QWtzaGF0IFNocml2YXN0YXZhPC9iPi4gUmVnaXN0ZXIgZm9yIDItRGF5IExJVkUgVHJhaW5pbmcgb24gQUkgZm9yIEZSRUU6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVmd4N2ZUYndkM0pnUDliRUZJNnh4Z1hMQzlZUm1SY2FmSkZYaVZ3RmQ1RU5BLVN3VmFlWlo3aFRoUWZqX3R3Q3oyM0ZFbHpWMVpxZ1RrR0Q3THlLNGRQdDdQY3NPSmo5Z0RRbWVfOGFVdTYyVDNQZF9HYWZ0bjhVTWYzeWVFNldzEgQaAggAGrYDEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQJIDCAAQABgAIAAqDQoGYWtzaGF0FSCakj8qEgoLc2hyaXZhc3RhdmEVXc5_PzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZneDdmVGJ3ZDNKZ1A5YkVGSTZ4eGdYTEM5WVJtUmNhZkpGWGlWd0ZkNUVOQS1Td1ZhZVpaN2hUaFFmal90d0N6MjNGRWx6VjFacWdUa0dEN0x5SzRkUHQ3UGNzT0pqOWdEUW1lXzhhVXU2MlQzUGRfR2FmdG44VU1mM3llRTZXczo5SSBzdG9wcGVkIGludmVzdGluZyBpbiBNdXR1YWwgRnVuZHMgaW4gMjAyNSAoaGVyZSBpcyB3aHkpQpABSSBzdG9wcGVkIGludmVzdGluZyBpbiBNdXR1YWwgRnVuZHMgaW4gMjAyNSAoaGVyZSBpcyB3aHkpIHwgPGI-QWtzaGF0IFNocml2YXN0YXZhPC9iPi4gUmVnaXN0ZXIgZm9yIDItRGF5IExJVkUgVHJhaW5pbmcgb24gQUkgZm9yIEZSRUU6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "YouTube Music",
+   "read_more_link": "https://music.youtube.com/podcast/mPE8m4Ld0CU#:~:text=I%20stopped%20investing%20in%20Mutual,is%20why)%20%7C%20Akshat%20Shrivastava"
+  },
+  {
+   "position": 9,
+   "title": "Analysing India's SLOW GDP (& its impact)",
+   "link": "https://music.youtube.com/podcast/-cIXiRqrALs",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVRsL3tLacCegy1W6RuZUHLpMjYvslismUqOd_XBWCqMo_s40ZI75fMArxoFxsdQ5jiy5orHCfwJzofdDM4xBeiwi5dDQhPNu43Y2PgFfxYdGaxMQysy8EyZk06e-bP-96&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQFnoECBoQAQ&uoh=1",
+   "displayed_link": "https://music.youtube.com › podcast › -cIXiRqrALs",
+   "favicon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp",
+   "date": "12 Jan 2025",
+   "snippet": "Let's Chat [our way to become smarter :) ]. 243K views • Jan 12, 2025 • 19 min. Analysing India's SLOW GDP (& its impact) | Akshat Shrivastava.",
+   "snippet_highlighted_words": [
+    "Akshat Shrivastava"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Let's Chat [our way to become smarter :) ]. 243K views • Jan 12, 2025 • 19 min. Analysing India's SLOW GDP (& its impact) | Akshat Shrivastava.",
+     "source_info_link": "https://music.youtube.com/podcast/-cIXiRqrALs",
+     "icon": "https://serpapi.com/images/i/UklGRtYBAABXRUJQVlA4IMoBAACQCgCdASogACAAAsBMJbACdL0o4IlZ4Z-3_ZAP0AyAD_Af4DrAPQA8rP9VfhR8gCJ-mAdkrZoMl563p_2APIA9jJq_58SCxX1Bhmq_gZzeMJ-RapQbtPq0hFMnpgAA_vqt9aN7FIUaAH3uTd6YJknayWwZ1eiyrjg-LnuAIHA4OYR5C88nRYPYTXlnxzndXWhg3popz-1-a7KX_IE-frz-wy_iefPNxFt9nZj9pnR-M-lXf_K5RQk7_6rWrcAY_a8aI_vfCEC_9WDbrG_vqgDxNUt32kb3Cgs6lSmWrWDnt_Pf4Bmy9G6kXQ_gHVggFjqFkT7C5MAWn30TRx0a-f-BNaDSGk2fVzHPzaKQyS0wnzXtKCe0ACjGITbSHCSuB4PhufK1oRmUaqNDDmbAQTX4p4rodt0i0dS81FkV7X99L6gpmjHopV0lOqkD_cowSzEllAi19uBEZl5EEbfm4QOQnVj9XwL174s0xcYnSdqRToDYBX8fr-GtsF63m1kOEiQ4678AkHEwTf7VtxDkHEk51RtcTbOQLu8E1s4M2E6fQ0gdvQ3dbQoHtRCnk9sbgMQm_7F36ujG_TFW2P5Tyu7K__DzsDOvM75wAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVlJzTDN0TGFjQ2VneTFXNlJ1WlVITHBNall2c2xpc21VcU9kX1hCV0NxTW9fczQwWkk3NWZNQXJ4b0Z4c2RRNWppeTVvckhDZndKem9mZERNNHhCZWl3aTVkRFFoUE51NDNZMlBnRmZ4WWRHYXhNUXlzeThFeVprMDZlLWJQLTk2EgQaAggAGuADEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLwDCAAQABgAIAAqDQoGYWtzaGF0FUfGpT8qEgoLc2hyaXZhc3RhdmEVRKaIPzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZSc0wzdExhY0NlZ3kxVzZSdVpVSExwTWpZdnNsaXNtVXFPZF9YQldDcU1vX3M0MFpJNzVmTUFyeG9GeHNkUTVqaXk1b3JIQ2Z3SnpvZmRETTR4QmVpd2k1ZERRaFBOdTQzWTJQZ0ZmeFlkR2F4TVF5c3k4RXlaazA2ZS1iUC05NjpNQW5hbHlzaW5nIEluZGlhJiMzOTtzIFNMT1cgR0RQICgmYW1wOyBpdHMgaW1wYWN0KSB8IDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj5CpgFMZXQmIzM5O3MgQ2hhdCBbb3VyIHdheSB0byBiZWNvbWUgc21hcnRlciA6KSBdLiAyNDNLIHZpZXdzIOKAoiBKYW4gMTIsIDIwMjUg4oCiIDE5IG1pbi4gQW5hbHlzaW5nIEluZGlhJiMzOTtzIFNMT1cgR0RQICgmYW1wOyBpdHMgaW1wYWN0KSB8IDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpYBL2dvdG8_dXJsPUNBRVNaUUhyT3pBVlJzTDN0TGFjQ2VneTFXNlJ1WlVITHBNall2c2xpc21VcU9kX1hCV0NxTW9fczQwWkk3NWZNQXJ4b0Z4c2RRNWppeTVvckhDZndKem9mZERNNHhCZWl3aTVkRFFoUE51NDNZMlBnRmZ4WWRHYXhNUXlzeThFeVprMDZlLWJQLTk2EgQaAggAGuADEgAaACIAKgAyBggDEgJpbjoAQgQIARAASgBaAHIAegCCQLwDCAAQABgAIAAqDQoGYWtzaGF0FUfGpT8qEgoLc2hyaXZhc3RhdmEVRKaIPzKWAS9nb3RvP3VybD1DQUVTWlFIck96QVZSc0wzdExhY0NlZ3kxVzZSdVpVSExwTWpZdnNsaXNtVXFPZF9YQldDcU1vX3M0MFpJNzVmTUFyeG9GeHNkUTVqaXk1b3JIQ2Z3SnpvZmRETTR4QmVpd2k1ZERRaFBOdTQzWTJQZ0ZmeFlkR2F4TVF5c3k4RXlaazA2ZS1iUC05NjpNQW5hbHlzaW5nIEluZGlhJiMzOTtzIFNMT1cgR0RQICgmYW1wOyBpdHMgaW1wYWN0KSB8IDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj5CpgFMZXQmIzM5O3MgQ2hhdCBbb3VyIHdheSB0byBiZWNvbWUgc21hcnRlciA6KSBdLiAyNDNLIHZpZXdzIOKAoiBKYW4gMTIsIDIwMjUg4oCiIDE5IG1pbi4gQW5hbHlzaW5nIEluZGlhJiMzOTtzIFNMT1cgR0RQICgmYW1wOyBpdHMgaW1wYWN0KSB8IDxiPkFrc2hhdCBTaHJpdmFzdGF2YTwvYj4uIgIQAUgAWABoAA",
+   "source": "YouTube Music",
+   "read_more_link": "https://music.youtube.com/podcast/-cIXiRqrALs#:~:text=Let's%20Chat%20%5Bour%20way%20to,its%20impact)%20%7C%20Akshat%20Shrivastava"
+  },
+  {
+   "position": 10,
+   "title": "5 Critical Points to know about Indian Markets",
+   "link": "https://www.youtube.com/watch?v=9OhWXpkOomo",
+   "displayed_link": "2.3L+ views · 1 year ago",
+   "thumbnail": "https://serpapi.com/searches/6ac9f76f13f4b654ce05f1f8/images/IYv1dBtnZzW01ziBOfdrz8xyU9Ky1IZNkEkKmkWb-t8.jpeg",
+   "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp",
+   "snippet": "32K views · 21:09. Go to channel Akshat Shrivastava · Correction FINALLY OVER in Indian Markets? (time to buy?) Akshat Shrivastava. New. 56K ...",
+   "duration": "30:34",
+   "about_this_result": {
+    "source": {
+     "description": "32K views · 21:09. Go to channel Akshat Shrivastava · Correction FINALLY OVER in Indian Markets? (time to buy?) Akshat Shrivastava. New. 56K ...",
+     "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAQAwCdASoQABAAAsBMJbACdEyAZIBvHZEVF_xH8jFr8RAA_vdfqk7B4h7c7SA9EXLm1jvCcvS12TTPc4SgLiYbbdnDtj5mFYsy9rYK8egN-m_wy1bF7_lqaJwe1kOFY9IH8jmlO7DbAWe9V_-WsvvcWurSf-Cp-rbcVf_uF_E7k7jxw1wX2r_PvJ3PjrggAAA.webp"
+    }
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlREOTZHUVQ0UXNTcVNQenF1RG5hMG1TWVlwbFhCYXlMcm1WWS0yYUdnYUppcmxucnBEd3lEQlpCNVhQWlB0d01hTUJibWNQUVc4SWRBSDMzN0trcTVTS3Nkc1JPX1VQMml1VFVqbVpidGlEMUExd245TWNvLTNWUWZrQXhvZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpQBL2dvdG8_dXJsPUNBRVNZd0hyT3pBVlREOTZHUVQ0UXNTcVNQenF1RG5hMG1TWVlwbFhCYXlMcm1WWS0yYUdnYUppcmxucnBEd3lEQlpCNVhQWlB0d01hTUJibWNQUVc4SWRBSDMzN0trcTVTS3Nkc1JPX1VQMml1VFVqbVpidGlEMUExd245TWNvLTNWUWZrQXhvZxIWChAKBAgwSAIKBAhISAIKAgg_GgIIABoWEgAaACIAKgAyADoAQgBKAFoAcgB6ACICEAFIAFgAaAA",
+   "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcQ_5ck4cfkIkAXhIz-fWnluSVe0vd-Nt9eQqQ",
+   "source": "YouTube · Akshat Shrivastava"
+  }
+ ],
+ "dmca_messages": {
+  "title": "Notices about Filtered Results",
+  "messages": [
+   {
+    "content": "Some results may have been removed under data protection law in Europe. Learn more",
+    "highlighted_words": [
+     {
+      "link": "https://www.google.com/policies/faq",
+      "text": "Learn more"
+     }
+    ]
+   }
+  ]
+ },
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=10&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8NMDegQILRAQ",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=10&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8tMDegQILRAG",
+   "3": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=20&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8tMDegQILRAI",
+   "4": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=30&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8tMDegQILRAK",
+   "5": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=40&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8tMDegQILRAM",
+   "6": "https://www.google.com/search?q=site:sebi.gov.in+%22Akshat+Shrivastava%22&sca_esv=2507eaa3ff772ac2&gl=in&hl=en&sxsrf=APpeQnvKRHrf6aOM9-cL8QlitVQjsQhpEg:1791620975173&ei=b_fJavSTCsakptQP7KODkQQ&start=50&sa=N&sstk=AS6-VmIILXKgjL5nOET-Ooh3_L3ihpLOXzT3pyCMphKWbchQuzSQOcRc8t0OgmaYF50N49t9FKZgczTHL06hqq7EdwM8KZVYv0YVlg&ved=2ahUKEwi0h7CehK-XAxVGkokEHezRIEIQ8tMDegQILRAO"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=site%3Asebi.gov.in+%22Akshat+Shrivastava%22&start=50"
+  }
+ },
+ "_fetched_at": "2026-10-10T08:29:33"
+}

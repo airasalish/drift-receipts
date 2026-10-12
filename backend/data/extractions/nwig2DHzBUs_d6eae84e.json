@@ -1,0 +1,52 @@
+{
+ "calls": [
+  {
+   "company": "IOL Chemicals and Pharmaceuticals Ltd",
+   "symbol_guess": "IOLCP",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": 235.0,
+   "stop_loss": 180.0,
+   "horizon": "this week",
+   "quote": "इसमें पार्टिसिपेट करने की फिर से सलाह होगी। पहले भी सलाह दी है।",
+   "start_s": 10,
+   "line": "लेकिन क्या यहां पर एक नई तेजी की तैयारी अभी भी हो रही है। जरा देखिए एक बार क्योंकि वॉल्यूम्स लगातार बढ़ते हुए और अच्छी तेजी रही है। जी",
+   "evidence": [
+    {
+     "text": "सलाह होगी",
+     "where": "transcript",
+     "start_s": 18
+    },
+    {
+     "text": "एंट्री करना चाहिए",
+     "where": "transcript",
+     "start_s": 25
+    }
+   ],
+   "reason": "Speaker explicitly advises to participate in IOLCP and suggests entry, indicating a buy recommendation."
+  },
+  {
+   "company": "IOL Chemicals and Pharmaceuticals Ltd",
+   "symbol_guess": "IOLCP",
+   "direction": "avoid",
+   "explicit": true,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "अभी नहीं खरीदने की सलाह है। यह बात यहां पर निकल के आई है।",
+   "start_s": 55,
+   "line": "में तब ₹180 का स्टॉप लॉस रखना और ₹235 का पहला टारगेट टारगेट आते समय या तो बुक कर लीजिए अदरवाइज ₹250 का सेकंड टारगेट का",
+   "evidence": [
+    {
+     "text": "अभी नहीं खरीदने की सलाह है",
+     "where": "transcript",
+     "start_s": 63
+    }
+   ],
+   "reason": "Speaker explicitly advises against buying IOLCP at this time."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

@@ -1,0 +1,5791 @@
+{
+ "search_metadata": {
+  "id": "6ac9f623d23ff84af87573fc",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/kRPY3aIW2QZGHsl1u-mQC7Cw7fOomQ4S3q9vk3oAP38/6ac9f623d23ff84af87573fc.json",
+  "markdown_endpoint": "https://serpapi.com/searches/kRPY3aIW2QZGHsl1u-mQC7Cw7fOomQ4S3q9vk3oAP38/6ac9f623d23ff84af87573fc.md",
+  "created_at": "2026-10-10 08:24:03 UTC",
+  "processed_at": "2026-10-10 08:24:03 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=ts3RXqeknJ4",
+  "raw_html_file": "https://serpapi.com/searches/kRPY3aIW2QZGHsl1u-mQC7Cw7fOomQ4S3q9vk3oAP38/6ac9f623d23ff84af87573fc.html",
+  "prettify_html_file": "https://serpapi.com/searches/kRPY3aIW2QZGHsl1u-mQC7Cw7fOomQ4S3q9vk3oAP38/6ac9f623d23ff84af87573fc.prettify",
+  "total_time_taken": 12.94
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "ts3RXqeknJ4",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 80,
+   "end_ms": 2320,
+   "snippet": "Hi guys. So on this video I'm going to",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 2320,
+   "end_ms": 5359,
+   "snippet": "discuss how to review your portfolio and",
+   "start_time_text": "0:02",
+   "start_time_label": "0:02"
+  },
+  {
+   "start_ms": 5359,
+   "end_ms": 7680,
+   "snippet": "balance it. This is one of the most",
+   "start_time_text": "0:05",
+   "start_time_label": "0:05"
+  },
+  {
+   "start_ms": 7680,
+   "end_ms": 9519,
+   "snippet": "important videos that you should watch",
+   "start_time_text": "0:07",
+   "start_time_label": "0:07"
+  },
+  {
+   "start_ms": 9519,
+   "end_ms": 11759,
+   "snippet": "as an investor because some of you might",
+   "start_time_text": "0:09",
+   "start_time_label": "0:09"
+  },
+  {
+   "start_ms": 11759,
+   "end_ms": 14719,
+   "snippet": "be running your SIPs. Now in SIPs what",
+   "start_time_text": "0:11",
+   "start_time_label": "0:11"
+  },
+  {
+   "start_ms": 14719,
+   "end_ms": 16160,
+   "snippet": "happens is that you keep on investing",
+   "start_time_text": "0:14",
+   "start_time_label": "0:14"
+  },
+  {
+   "start_ms": 16160,
+   "end_ms": 18320,
+   "snippet": "money like every month month on month",
+   "start_time_text": "0:16",
+   "start_time_label": "0:16"
+  },
+  {
+   "start_ms": 18320,
+   "end_ms": 19840,
+   "snippet": "and you are clueless whether your",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 19840,
+   "end_ms": 22320,
+   "snippet": "portfolio is balanced or not. Okay. Uh",
+   "start_time_text": "0:19",
+   "start_time_label": "0:19"
+  },
+  {
+   "start_ms": 22320,
+   "end_ms": 24720,
+   "snippet": "an example or a drawback to this is that",
+   "start_time_text": "0:22",
+   "start_time_label": "0:22"
+  },
+  {
+   "start_ms": 24720,
+   "end_ms": 26320,
+   "snippet": "in the last two years take a look at",
+   "start_time_text": "0:24",
+   "start_time_label": "0:24"
+  },
+  {
+   "start_ms": 26320,
+   "end_ms": 28720,
+   "snippet": "this chart. Indian markets have given 0%",
+   "start_time_text": "0:26",
+   "start_time_label": "0:26"
+  },
+  {
+   "start_ms": 28720,
+   "end_ms": 30880,
+   "snippet": "returns. In fact, if you adjust for",
+   "start_time_text": "0:28",
+   "start_time_label": "0:28"
+  },
+  {
+   "start_ms": 30880,
+   "end_ms": 32480,
+   "snippet": "currency depreciation because in the",
+   "start_time_text": "0:30",
+   "start_time_label": "0:30"
+  },
+  {
+   "start_ms": 32480,
+   "end_ms": 35760,
+   "snippet": "last two years, INR has fallen to USD by",
+   "start_time_text": "0:32",
+   "start_time_label": "0:32"
+  },
+  {
+   "start_ms": 35760,
+   "end_ms": 38399,
+   "snippet": "15% at least. So, the returns have been",
+   "start_time_text": "0:35",
+   "start_time_label": "0:35"
+  },
+  {
+   "start_ms": 38399,
+   "end_ms": 40160,
+   "snippet": "negative and if your portfolio is",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 40160,
+   "end_ms": 42399,
+   "snippet": "completely unbalanced, you can continue",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 42399,
+   "end_ms": 45280,
+   "snippet": "to run SIPs and you will end up getting",
+   "start_time_text": "0:42",
+   "start_time_label": "0:42"
+  },
+  {
+   "start_ms": 45280,
+   "end_ms": 46879,
+   "snippet": "zero benefits out of it. Okay? So",
+   "start_time_text": "0:45",
+   "start_time_label": "0:45"
+  },
+  {
+   "start_ms": 46879,
+   "end_ms": 48800,
+   "snippet": "therefore understanding what type of",
+   "start_time_text": "0:46",
+   "start_time_label": "0:46"
+  },
+  {
+   "start_ms": 48800,
+   "end_ms": 51520,
+   "snippet": "portfolio you have and how to review it,",
+   "start_time_text": "0:48",
+   "start_time_label": "0:48"
+  },
+  {
+   "start_ms": 51520,
+   "end_ms": 53920,
+   "snippet": "how to balance it at least the basics of",
+   "start_time_text": "0:51",
+   "start_time_label": "0:51"
+  },
+  {
+   "start_ms": 53920,
+   "end_ms": 56079,
+   "snippet": "this is critical because even if you",
+   "start_time_text": "0:53",
+   "start_time_label": "0:53"
+  },
+  {
+   "start_ms": 56079,
+   "end_ms": 57520,
+   "snippet": "decide tomorrow that okay I'm going to",
+   "start_time_text": "0:56",
+   "start_time_label": "0:56"
+  },
+  {
+   "start_ms": 57520,
+   "end_ms": 59440,
+   "snippet": "buy like parak parak plexigap fund",
+   "start_time_text": "0:57",
+   "start_time_label": "0:57"
+  },
+  {
+   "start_ms": 59440,
+   "end_ms": 61600,
+   "snippet": "because it suits my portfolio. How will",
+   "start_time_text": "0:59",
+   "start_time_label": "0:59"
+  },
+  {
+   "start_ms": 61600,
+   "end_ms": 63039,
+   "snippet": "you make that decision? You need to",
+   "start_time_text": "1:01",
+   "start_time_label": "1:01"
+  },
+  {
+   "start_ms": 63039,
+   "end_ms": 65360,
+   "snippet": "understand whether or not adding parakar",
+   "start_time_text": "1:03",
+   "start_time_label": "1:03"
+  },
+  {
+   "start_ms": 65360,
+   "end_ms": 67920,
+   "snippet": "to your mutual fund or stock investing",
+   "start_time_text": "1:05",
+   "start_time_label": "1:05"
+  },
+  {
+   "start_ms": 67920,
+   "end_ms": 70000,
+   "snippet": "basket makes sense or not or whether it",
+   "start_time_text": "1:07",
+   "start_time_label": "1:07"
+  },
+  {
+   "start_ms": 70000,
+   "end_ms": 72240,
+   "snippet": "makes your portfolio balanced or not. So",
+   "start_time_text": "1:10",
+   "start_time_label": "1:10"
+  },
+  {
+   "start_ms": 72240,
+   "end_ms": 74320,
+   "snippet": "I'm going to go through a live example.",
+   "start_time_text": "1:12",
+   "start_time_label": "1:12"
+  },
+  {
+   "start_ms": 74320,
+   "end_ms": 76560,
+   "snippet": "I will pick my own portfolio and help",
+   "start_time_text": "1:14",
+   "start_time_label": "1:14"
+  },
+  {
+   "start_ms": 76560,
+   "end_ms": 78560,
+   "snippet": "you understand how is it that I will",
+   "start_time_text": "1:16",
+   "start_time_label": "1:16"
+  },
+  {
+   "start_ms": 78560,
+   "end_ms": 80400,
+   "snippet": "review it and how is it that I will",
+   "start_time_text": "1:18",
+   "start_time_label": "1:18"
+  },
+  {
+   "start_ms": 80400,
+   "end_ms": 81840,
+   "snippet": "balance it. So this is the portfolio",
+   "start_time_text": "1:20",
+   "start_time_label": "1:20"
+  },
+  {
+   "start_ms": 81840,
+   "end_ms": 83360,
+   "snippet": "that I will look at right this is a",
+   "start_time_text": "1:21",
+   "start_time_label": "1:21"
+  },
+  {
+   "start_ms": 83360,
+   "end_ms": 86000,
+   "snippet": "public portfolio I had built and people",
+   "start_time_text": "1:23",
+   "start_time_label": "1:23"
+  },
+  {
+   "start_ms": 86000,
+   "end_ms": 87680,
+   "snippet": "from global investing community this is",
+   "start_time_text": "1:26",
+   "start_time_label": "1:26"
+  },
+  {
+   "start_ms": 87680,
+   "end_ms": 89920,
+   "snippet": "the investment community that I run they",
+   "start_time_text": "1:27",
+   "start_time_label": "1:27"
+  },
+  {
+   "start_ms": 89920,
+   "end_ms": 92320,
+   "snippet": "have seen me build it from scratch in",
+   "start_time_text": "1:29",
+   "start_time_label": "1:29"
+  },
+  {
+   "start_ms": 92320,
+   "end_ms": 95119,
+   "snippet": "like 2025 so in roughly one and a half",
+   "start_time_text": "1:32",
+   "start_time_label": "1:32"
+  },
+  {
+   "start_ms": 95119,
+   "end_ms": 98000,
+   "snippet": "years this has generated almost 45% US",
+   "start_time_text": "1:35",
+   "start_time_label": "1:35"
+  },
+  {
+   "start_ms": 98000,
+   "end_ms": 99920,
+   "snippet": "dollar returns in fact market is up",
+   "start_time_text": "1:38",
+   "start_time_label": "1:38"
+  },
+  {
+   "start_ms": 99920,
+   "end_ms": 101759,
+   "snippet": "today so this is not reflecting so this",
+   "start_time_text": "1:39",
+   "start_time_label": "1:39"
+  },
+  {
+   "start_ms": 101759,
+   "end_ms": 104720,
+   "snippet": "would be almost 46 47% and you can see",
+   "start_time_text": "1:41",
+   "start_time_label": "1:41"
+  },
+  {
+   "start_ms": 104720,
+   "end_ms": 107040,
+   "snippet": "that I have made close to 40% realized",
+   "start_time_text": "1:44",
+   "start_time_label": "1:44"
+  },
+  {
+   "start_ms": 107040,
+   "end_ms": 108720,
+   "snippet": "profits which means that I have booked",
+   "start_time_text": "1:47",
+   "start_time_label": "1:47"
+  },
+  {
+   "start_ms": 108720,
+   "end_ms": 111360,
+   "snippet": "profits these are unrealized gains Okay.",
+   "start_time_text": "1:48",
+   "start_time_label": "1:48"
+  },
+  {
+   "start_ms": 111360,
+   "end_ms": 113280,
+   "snippet": "And this is my entire portfolio. Now I",
+   "start_time_text": "1:51",
+   "start_time_label": "1:51"
+  },
+  {
+   "start_ms": 113280,
+   "end_ms": 114960,
+   "snippet": "will not show you the exact allocation",
+   "start_time_text": "1:53",
+   "start_time_label": "1:53"
+  },
+  {
+   "start_ms": 114960,
+   "end_ms": 117200,
+   "snippet": "because that is besides the point. What",
+   "start_time_text": "1:54",
+   "start_time_label": "1:54"
+  },
+  {
+   "start_ms": 117200,
+   "end_ms": 119680,
+   "snippet": "I will do is that I will pick this",
+   "start_time_text": "1:57",
+   "start_time_label": "1:57"
+  },
+  {
+   "start_ms": 119680,
+   "end_ms": 121759,
+   "snippet": "portfolio as a case study and we'll tell",
+   "start_time_text": "1:59",
+   "start_time_label": "1:59"
+  },
+  {
+   "start_ms": 121759,
+   "end_ms": 123360,
+   "snippet": "you that even if you are completely new",
+   "start_time_text": "2:01",
+   "start_time_label": "2:01"
+  },
+  {
+   "start_ms": 123360,
+   "end_ms": 124960,
+   "snippet": "to stock markets, you have just started",
+   "start_time_text": "2:03",
+   "start_time_label": "2:03"
+  },
+  {
+   "start_ms": 124960,
+   "end_ms": 127360,
+   "snippet": "building a portfolio. What are 10 simple",
+   "start_time_text": "2:04",
+   "start_time_label": "2:04"
+  },
+  {
+   "start_ms": 127360,
+   "end_ms": 129759,
+   "snippet": "points you need to keep in mind in order",
+   "start_time_text": "2:07",
+   "start_time_label": "2:07"
+  },
+  {
+   "start_ms": 129759,
+   "end_ms": 132000,
+   "snippet": "to periodically review your portfolio",
+   "start_time_text": "2:09",
+   "start_time_label": "2:09"
+  },
+  {
+   "start_ms": 132000,
+   "end_ms": 134400,
+   "snippet": "and balance or rebalance it. Okay. So",
+   "start_time_text": "2:12",
+   "start_time_label": "2:12"
+  },
+  {
+   "start_ms": 134400,
+   "end_ms": 136319,
+   "snippet": "I'll just use this portfolio as a case",
+   "start_time_text": "2:14",
+   "start_time_label": "2:14"
+  },
+  {
+   "start_ms": 136319,
+   "end_ms": 138640,
+   "snippet": "study. So okay first key point it is",
+   "start_time_text": "2:16",
+   "start_time_label": "2:16"
+  },
+  {
+   "start_ms": 138640,
+   "end_ms": 140800,
+   "snippet": "very simple that you need to track your",
+   "start_time_text": "2:18",
+   "start_time_label": "2:18"
+  },
+  {
+   "start_ms": 140800,
+   "end_ms": 143120,
+   "snippet": "portfolio. Okay now you'll be amazed",
+   "start_time_text": "2:20",
+   "start_time_label": "2:20"
+  },
+  {
+   "start_ms": 143120,
+   "end_ms": 144720,
+   "snippet": "that people have like a grow account",
+   "start_time_text": "2:23",
+   "start_time_label": "2:23"
+  },
+  {
+   "start_ms": 144720,
+   "end_ms": 146879,
+   "snippet": "they have a zeroda account they have a",
+   "start_time_text": "2:24",
+   "start_time_label": "2:24"
+  },
+  {
+   "start_ms": 146879,
+   "end_ms": 149120,
+   "snippet": "vested account for US stock investing",
+   "start_time_text": "2:26",
+   "start_time_label": "2:26"
+  },
+  {
+   "start_ms": 149120,
+   "end_ms": 151360,
+   "snippet": "and they are completely clueless what is",
+   "start_time_text": "2:29",
+   "start_time_label": "2:29"
+  },
+  {
+   "start_ms": 151360,
+   "end_ms": 153599,
+   "snippet": "their total equity holding. Okay so they",
+   "start_time_text": "2:31",
+   "start_time_label": "2:31"
+  },
+  {
+   "start_ms": 153599,
+   "end_ms": 155200,
+   "snippet": "are completely clueless. So therefore",
+   "start_time_text": "2:33",
+   "start_time_label": "2:33"
+  },
+  {
+   "start_ms": 155200,
+   "end_ms": 156640,
+   "snippet": "first and foremost what you need to do",
+   "start_time_text": "2:35",
+   "start_time_label": "2:35"
+  },
+  {
+   "start_ms": 156640,
+   "end_ms": 158959,
+   "snippet": "is that you need to bring them onto one",
+   "start_time_text": "2:36",
+   "start_time_label": "2:36"
+  },
+  {
+   "start_ms": 158959,
+   "end_ms": 160800,
+   "snippet": "platform. Right. This is very very",
+   "start_time_text": "2:38",
+   "start_time_label": "2:38"
+  },
+  {
+   "start_ms": 160800,
+   "end_ms": 162239,
+   "snippet": "important because if you don't track",
+   "start_time_text": "2:40",
+   "start_time_label": "2:40"
+  },
+  {
+   "start_ms": 162239,
+   "end_ms": 164400,
+   "snippet": "your portfolio you would not be able to",
+   "start_time_text": "2:42",
+   "start_time_label": "2:42"
+  },
+  {
+   "start_ms": 164400,
+   "end_ms": 166560,
+   "snippet": "balance or rebalance it. So the first",
+   "start_time_text": "2:44",
+   "start_time_label": "2:44"
+  },
+  {
+   "start_ms": 166560,
+   "end_ms": 168560,
+   "snippet": "key thing is that you need to track it.",
+   "start_time_text": "2:46",
+   "start_time_label": "2:46"
+  },
+  {
+   "start_ms": 168560,
+   "end_ms": 170480,
+   "snippet": "Now there is something called as CAS or",
+   "start_time_text": "2:48",
+   "start_time_label": "2:48"
+  },
+  {
+   "start_ms": 170480,
+   "end_ms": 172400,
+   "snippet": "consolidated account statement. This is",
+   "start_time_text": "2:50",
+   "start_time_label": "2:50"
+  },
+  {
+   "start_ms": 172400,
+   "end_ms": 174959,
+   "snippet": "an email that you will get for all your",
+   "start_time_text": "2:52",
+   "start_time_label": "2:52"
+  },
+  {
+   "start_ms": 174959,
+   "end_ms": 177440,
+   "snippet": "India based equities. So for example, if",
+   "start_time_text": "2:54",
+   "start_time_label": "2:54"
+  },
+  {
+   "start_ms": 177440,
+   "end_ms": 179760,
+   "snippet": "you're buying any stocks via Zerodha,",
+   "start_time_text": "2:57",
+   "start_time_label": "2:57"
+  },
+  {
+   "start_ms": 179760,
+   "end_ms": 182239,
+   "snippet": "growth is that stuff. The entire",
+   "start_time_text": "2:59",
+   "start_time_label": "2:59"
+  },
+  {
+   "start_ms": 182239,
+   "end_ms": 185040,
+   "snippet": "statement on month-on-month basis is",
+   "start_time_text": "3:02",
+   "start_time_label": "3:02"
+  },
+  {
+   "start_ms": 185040,
+   "end_ms": 187360,
+   "snippet": "emailed to you via CAS. So you can",
+   "start_time_text": "3:05",
+   "start_time_label": "3:05"
+  },
+  {
+   "start_ms": 187360,
+   "end_ms": 190159,
+   "snippet": "search on your registered email ID CAS.",
+   "start_time_text": "3:07",
+   "start_time_label": "3:07"
+  },
+  {
+   "start_ms": 190159,
+   "end_ms": 191840,
+   "snippet": "Okay? And you will be able to get all",
+   "start_time_text": "3:10",
+   "start_time_label": "3:10"
+  },
+  {
+   "start_ms": 191840,
+   "end_ms": 194640,
+   "snippet": "your stockholdings. The idea in this",
+   "start_time_text": "3:11",
+   "start_time_label": "3:11"
+  },
+  {
+   "start_ms": 194640,
+   "end_ms": 196720,
+   "snippet": "step one is very simple that you build a",
+   "start_time_text": "3:14",
+   "start_time_label": "3:14"
+  },
+  {
+   "start_ms": 196720,
+   "end_ms": 198319,
+   "snippet": "tracker. A tracker will look very",
+   "start_time_text": "3:16",
+   "start_time_label": "3:16"
+  },
+  {
+   "start_ms": 198319,
+   "end_ms": 200000,
+   "snippet": "simple. It will have for example here I",
+   "start_time_text": "3:18",
+   "start_time_label": "3:18"
+  },
+  {
+   "start_ms": 200000,
+   "end_ms": 202879,
+   "snippet": "have meta stock, Microsoft stock, Nvidia",
+   "start_time_text": "3:20",
+   "start_time_label": "3:20"
+  },
+  {
+   "start_ms": 202879,
+   "end_ms": 204640,
+   "snippet": "stock. So you build that right? You",
+   "start_time_text": "3:22",
+   "start_time_label": "3:22"
+  },
+  {
+   "start_ms": 204640,
+   "end_ms": 206720,
+   "snippet": "literally build out an Excel spreadsheet",
+   "start_time_text": "3:24",
+   "start_time_label": "3:24"
+  },
+  {
+   "start_ms": 206720,
+   "end_ms": 209360,
+   "snippet": "by inputting things from your CS or you",
+   "start_time_text": "3:26",
+   "start_time_label": "3:26"
+  },
+  {
+   "start_ms": 209360,
+   "end_ms": 212319,
+   "snippet": "can use like claw like softwares etc.",
+   "start_time_text": "3:29",
+   "start_time_label": "3:29"
+  },
+  {
+   "start_ms": 212319,
+   "end_ms": 214640,
+   "snippet": "and you can tell them like to build out",
+   "start_time_text": "3:32",
+   "start_time_label": "3:32"
+  },
+  {
+   "start_ms": 214640,
+   "end_ms": 216480,
+   "snippet": "a portfolio for you. They can input all",
+   "start_time_text": "3:34",
+   "start_time_label": "3:34"
+  },
+  {
+   "start_ms": 216480,
+   "end_ms": 218319,
+   "snippet": "this data. This is very easy to do right",
+   "start_time_text": "3:36",
+   "start_time_label": "3:36"
+  },
+  {
+   "start_ms": 218319,
+   "end_ms": 220400,
+   "snippet": "if you're using AI these days. But the",
+   "start_time_text": "3:38",
+   "start_time_label": "3:38"
+  },
+  {
+   "start_ms": 220400,
+   "end_ms": 222560,
+   "snippet": "first specific point in terms of",
+   "start_time_text": "3:40",
+   "start_time_label": "3:40"
+  },
+  {
+   "start_ms": 222560,
+   "end_ms": 224159,
+   "snippet": "reviewing and balancing your portfolio",
+   "start_time_text": "3:42",
+   "start_time_label": "3:42"
+  },
+  {
+   "start_ms": 224159,
+   "end_ms": 226080,
+   "snippet": "is that you need to track it, input",
+   "start_time_text": "3:44",
+   "start_time_label": "3:44"
+  },
+  {
+   "start_ms": 226080,
+   "end_ms": 227599,
+   "snippet": "everything and there are two things that",
+   "start_time_text": "3:46",
+   "start_time_label": "3:46"
+  },
+  {
+   "start_ms": 227599,
+   "end_ms": 229599,
+   "snippet": "you need to do. Number one, right? You",
+   "start_time_text": "3:47",
+   "start_time_label": "3:47"
+  },
+  {
+   "start_ms": 229599,
+   "end_ms": 231360,
+   "snippet": "if you are a domestic investor, right,",
+   "start_time_text": "3:49",
+   "start_time_label": "3:49"
+  },
+  {
+   "start_ms": 231360,
+   "end_ms": 233920,
+   "snippet": "and you have only Indian equities, use",
+   "start_time_text": "3:51",
+   "start_time_label": "3:51"
+  },
+  {
+   "start_ms": 233920,
+   "end_ms": 236319,
+   "snippet": "your cash, build out an Excel",
+   "start_time_text": "3:53",
+   "start_time_label": "3:53"
+  },
+  {
+   "start_ms": 236319,
+   "end_ms": 238959,
+   "snippet": "spreadsheet, right, with your holdings.",
+   "start_time_text": "3:56",
+   "start_time_label": "3:56"
+  },
+  {
+   "start_ms": 238959,
+   "end_ms": 241519,
+   "snippet": "And number two, if you are investing in",
+   "start_time_text": "3:58",
+   "start_time_label": "3:58"
+  },
+  {
+   "start_ms": 241519,
+   "end_ms": 244159,
+   "snippet": "US stocks, right, just go to your vested",
+   "start_time_text": "4:01",
+   "start_time_label": "4:01"
+  },
+  {
+   "start_ms": 244159,
+   "end_ms": 246799,
+   "snippet": "account or in money whichever you use",
+   "start_time_text": "4:04",
+   "start_time_label": "4:04"
+  },
+  {
+   "start_ms": 246799,
+   "end_ms": 250080,
+   "snippet": "and from there just create one single",
+   "start_time_text": "4:06",
+   "start_time_label": "4:06"
+  },
+  {
+   "start_ms": 250080,
+   "end_ms": 251920,
+   "snippet": "spreadsheet right with all the stock",
+   "start_time_text": "4:10",
+   "start_time_label": "4:10"
+  },
+  {
+   "start_ms": 251920,
+   "end_ms": 254799,
+   "snippet": "names and percentage allocation. For",
+   "start_time_text": "4:11",
+   "start_time_label": "4:11"
+  },
+  {
+   "start_ms": 254799,
+   "end_ms": 256479,
+   "snippet": "example, here you can see percentage",
+   "start_time_text": "4:14",
+   "start_time_label": "4:14"
+  },
+  {
+   "start_ms": 256479,
+   "end_ms": 258400,
+   "snippet": "allocation that on meta I have close to",
+   "start_time_text": "4:16",
+   "start_time_label": "4:16"
+  },
+  {
+   "start_ms": 258400,
+   "end_ms": 261359,
+   "snippet": "10 and a half on Microsoft I have 8 and",
+   "start_time_text": "4:18",
+   "start_time_label": "4:18"
+  },
+  {
+   "start_ms": 261359,
+   "end_ms": 263520,
+   "snippet": "a half, 9. Okay. So this percentage",
+   "start_time_text": "4:21",
+   "start_time_label": "4:21"
+  },
+  {
+   "start_ms": 263520,
+   "end_ms": 265280,
+   "snippet": "allocation tab is very very important",
+   "start_time_text": "4:23",
+   "start_time_label": "4:23"
+  },
+  {
+   "start_ms": 265280,
+   "end_ms": 268240,
+   "snippet": "because this is where the basics of",
+   "start_time_text": "4:25",
+   "start_time_label": "4:25"
+  },
+  {
+   "start_ms": 268240,
+   "end_ms": 270479,
+   "snippet": "portfolio allocation or overall",
+   "start_time_text": "4:28",
+   "start_time_label": "4:28"
+  },
+  {
+   "start_ms": 270479,
+   "end_ms": 272800,
+   "snippet": "portfolio review begins. Okay. So this",
+   "start_time_text": "4:30",
+   "start_time_label": "4:30"
+  },
+  {
+   "start_ms": 272800,
+   "end_ms": 274960,
+   "snippet": "is point one. Now comes point two. This",
+   "start_time_text": "4:32",
+   "start_time_label": "4:32"
+  },
+  {
+   "start_ms": 274960,
+   "end_ms": 277199,
+   "snippet": "is a very important point that once you",
+   "start_time_text": "4:34",
+   "start_time_label": "4:34"
+  },
+  {
+   "start_ms": 277199,
+   "end_ms": 279680,
+   "snippet": "have your entire Excel tracker, okay,",
+   "start_time_text": "4:37",
+   "start_time_label": "4:37"
+  },
+  {
+   "start_ms": 279680,
+   "end_ms": 281520,
+   "snippet": "this entire spreadsheet it would look",
+   "start_time_text": "4:39",
+   "start_time_label": "4:39"
+  },
+  {
+   "start_ms": 281520,
+   "end_ms": 283520,
+   "snippet": "something like this. What you need to do",
+   "start_time_text": "4:41",
+   "start_time_label": "4:41"
+  },
+  {
+   "start_ms": 283520,
+   "end_ms": 285759,
+   "snippet": "is that you need to figure out the right",
+   "start_time_text": "4:43",
+   "start_time_label": "4:43"
+  },
+  {
+   "start_ms": 285759,
+   "end_ms": 287919,
+   "snippet": "benchmark. Okay, benchmark. Now what is",
+   "start_time_text": "4:45",
+   "start_time_label": "4:45"
+  },
+  {
+   "start_ms": 287919,
+   "end_ms": 290000,
+   "snippet": "the meaning or concept of benchmark?",
+   "start_time_text": "4:47",
+   "start_time_label": "4:47"
+  },
+  {
+   "start_ms": 290000,
+   "end_ms": 291759,
+   "snippet": "It's very simple. For example, let's say",
+   "start_time_text": "4:50",
+   "start_time_label": "4:50"
+  },
+  {
+   "start_ms": 291759,
+   "end_ms": 294479,
+   "snippet": "that you only buy Nifty50 companies. You",
+   "start_time_text": "4:51",
+   "start_time_label": "4:51"
+  },
+  {
+   "start_ms": 294479,
+   "end_ms": 297680,
+   "snippet": "have like Reliance, TCS, NGFC Bank, all",
+   "start_time_text": "4:54",
+   "start_time_label": "4:54"
+  },
+  {
+   "start_ms": 297680,
+   "end_ms": 299680,
+   "snippet": "that stuff. Then what is the relevant",
+   "start_time_text": "4:57",
+   "start_time_label": "4:57"
+  },
+  {
+   "start_ms": 299680,
+   "end_ms": 302720,
+   "snippet": "benchmark for you? Well, it is Nifty50.",
+   "start_time_text": "4:59",
+   "start_time_label": "4:59"
+  },
+  {
+   "start_ms": 302720,
+   "end_ms": 305440,
+   "snippet": "Okay. Why Nifty50? Because Nifty50 is",
+   "start_time_text": "5:02",
+   "start_time_label": "5:02"
+  },
+  {
+   "start_ms": 305440,
+   "end_ms": 309280,
+   "snippet": "the collection of top 50 companies in",
+   "start_time_text": "5:05",
+   "start_time_label": "5:05"
+  },
+  {
+   "start_ms": 309280,
+   "end_ms": 311759,
+   "snippet": "India. Okay. So, if you have a India",
+   "start_time_text": "5:09",
+   "start_time_label": "5:09"
+  },
+  {
+   "start_ms": 311759,
+   "end_ms": 314000,
+   "snippet": "based portfolio which is primarily large",
+   "start_time_text": "5:11",
+   "start_time_label": "5:11"
+  },
+  {
+   "start_ms": 314000,
+   "end_ms": 316160,
+   "snippet": "caps, then what is it or what is the",
+   "start_time_text": "5:14",
+   "start_time_label": "5:14"
+  },
+  {
+   "start_ms": 316160,
+   "end_ms": 317520,
+   "snippet": "relevant benchmark for you? The",
+   "start_time_text": "5:16",
+   "start_time_label": "5:16"
+  },
+  {
+   "start_ms": 317520,
+   "end_ms": 319919,
+   "snippet": "benchmark is Nifty50. Now if you are",
+   "start_time_text": "5:17",
+   "start_time_label": "5:17"
+  },
+  {
+   "start_ms": 319919,
+   "end_ms": 322160,
+   "snippet": "someone who is buying micro cap stocks",
+   "start_time_text": "5:19",
+   "start_time_label": "5:19"
+  },
+  {
+   "start_ms": 322160,
+   "end_ms": 324000,
+   "snippet": "in India. Now what are micro cap stocks?",
+   "start_time_text": "5:22",
+   "start_time_label": "5:22"
+  },
+  {
+   "start_ms": 324000,
+   "end_ms": 326560,
+   "snippet": "Where the market cap? Market cap means",
+   "start_time_text": "5:24",
+   "start_time_label": "5:24"
+  },
+  {
+   "start_ms": 326560,
+   "end_ms": 328160,
+   "snippet": "and let me just quickly show it to you.",
+   "start_time_text": "5:26",
+   "start_time_label": "5:26"
+  },
+  {
+   "start_ms": 328160,
+   "end_ms": 329759,
+   "snippet": "You can easily go on something like",
+   "start_time_text": "5:28",
+   "start_time_label": "5:28"
+  },
+  {
+   "start_ms": 329759,
+   "end_ms": 332320,
+   "snippet": "screener type like something like TCS.",
+   "start_time_text": "5:29",
+   "start_time_label": "5:29"
+  },
+  {
+   "start_ms": 332320,
+   "end_ms": 334240,
+   "snippet": "Okay. So this TCS you'll see market cap",
+   "start_time_text": "5:32",
+   "start_time_label": "5:32"
+  },
+  {
+   "start_ms": 334240,
+   "end_ms": 337919,
+   "snippet": "is 830,000 cr. Right? This is not micro",
+   "start_time_text": "5:34",
+   "start_time_label": "5:34"
+  },
+  {
+   "start_ms": 337919,
+   "end_ms": 339600,
+   "snippet": "gap. Micro cap will be something like",
+   "start_time_text": "5:37",
+   "start_time_label": "5:37"
+  },
+  {
+   "start_ms": 339600,
+   "end_ms": 341360,
+   "snippet": "this. Okay. So party cruiser right? So",
+   "start_time_text": "5:39",
+   "start_time_label": "5:39"
+  },
+  {
+   "start_ms": 341360,
+   "end_ms": 342880,
+   "snippet": "this is a company where the market cap",
+   "start_time_text": "5:41",
+   "start_time_label": "5:41"
+  },
+  {
+   "start_ms": 342880,
+   "end_ms": 345440,
+   "snippet": "is 107. So if you own these type of",
+   "start_time_text": "5:42",
+   "start_time_label": "5:42"
+  },
+  {
+   "start_ms": 345440,
+   "end_ms": 347759,
+   "snippet": "companies more then what becomes your",
+   "start_time_text": "5:45",
+   "start_time_label": "5:45"
+  },
+  {
+   "start_ms": 347759,
+   "end_ms": 349600,
+   "snippet": "benchmark? Well, your benchmark becomes",
+   "start_time_text": "5:47",
+   "start_time_label": "5:47"
+  },
+  {
+   "start_ms": 349600,
+   "end_ms": 351440,
+   "snippet": "micro cap companies. Okay? Or at least",
+   "start_time_text": "5:49",
+   "start_time_label": "5:49"
+  },
+  {
+   "start_ms": 351440,
+   "end_ms": 353680,
+   "snippet": "like small cap, right? So, this is very",
+   "start_time_text": "5:51",
+   "start_time_label": "5:51"
+  },
+  {
+   "start_ms": 353680,
+   "end_ms": 355520,
+   "snippet": "important that you need to have a",
+   "start_time_text": "5:53",
+   "start_time_label": "5:53"
+  },
+  {
+   "start_ms": 355520,
+   "end_ms": 357440,
+   "snippet": "relevant benchmark. So, on this",
+   "start_time_text": "5:55",
+   "start_time_label": "5:55"
+  },
+  {
+   "start_ms": 357440,
+   "end_ms": 359680,
+   "snippet": "portfolio now, if you just take a",
+   "start_time_text": "5:57",
+   "start_time_label": "5:57"
+  },
+  {
+   "start_ms": 359680,
+   "end_ms": 362080,
+   "snippet": "cursory look at this portfolio, you will",
+   "start_time_text": "5:59",
+   "start_time_label": "5:59"
+  },
+  {
+   "start_ms": 362080,
+   "end_ms": 364080,
+   "snippet": "quickly realize that hey, my benchmark",
+   "start_time_text": "6:02",
+   "start_time_label": "6:02"
+  },
+  {
+   "start_ms": 364080,
+   "end_ms": 368400,
+   "snippet": "is QQQ, which is US tech index, right?",
+   "start_time_text": "6:04",
+   "start_time_label": "6:04"
+  },
+  {
+   "start_ms": 368400,
+   "end_ms": 370960,
+   "snippet": "So, that is the benchmark I'm aiming to",
+   "start_time_text": "6:08",
+   "start_time_label": "6:08"
+  },
+  {
+   "start_ms": 370960,
+   "end_ms": 372720,
+   "snippet": "beat, right? And I have been",
+   "start_time_text": "6:10",
+   "start_time_label": "6:10"
+  },
+  {
+   "start_ms": 372720,
+   "end_ms": 374479,
+   "snippet": "consistently able to do this, right? For",
+   "start_time_text": "6:12",
+   "start_time_label": "6:12"
+  },
+  {
+   "start_ms": 374479,
+   "end_ms": 375840,
+   "snippet": "the last two years, I have been beating",
+   "start_time_text": "6:14",
+   "start_time_label": "6:14"
+  },
+  {
+   "start_ms": 375840,
+   "end_ms": 377680,
+   "snippet": "the benchmark. My entire community will",
+   "start_time_text": "6:15",
+   "start_time_label": "6:15"
+  },
+  {
+   "start_ms": 377680,
+   "end_ms": 379440,
+   "snippet": "vouch for it. In case you are a serious",
+   "start_time_text": "6:17",
+   "start_time_label": "6:17"
+  },
+  {
+   "start_ms": 379440,
+   "end_ms": 381759,
+   "snippet": "investor, definitely consider joining my",
+   "start_time_text": "6:19",
+   "start_time_label": "6:19"
+  },
+  {
+   "start_ms": 381759,
+   "end_ms": 383440,
+   "snippet": "community. I teach everything",
+   "start_time_text": "6:21",
+   "start_time_label": "6:21"
+  },
+  {
+   "start_ms": 383440,
+   "end_ms": 386479,
+   "snippet": "fundamentally. Every month I do a class.",
+   "start_time_text": "6:23",
+   "start_time_label": "6:23"
+  },
+  {
+   "start_ms": 386479,
+   "end_ms": 389440,
+   "snippet": "Whatever stocks I'm adding, subtracting,",
+   "start_time_text": "6:26",
+   "start_time_label": "6:26"
+  },
+  {
+   "start_ms": 389440,
+   "end_ms": 391360,
+   "snippet": "booking profits, rotating capital,",
+   "start_time_text": "6:29",
+   "start_time_label": "6:29"
+  },
+  {
+   "start_ms": 391360,
+   "end_ms": 393120,
+   "snippet": "different different strategies I teach.",
+   "start_time_text": "6:31",
+   "start_time_label": "6:31"
+  },
+  {
+   "start_ms": 393120,
+   "end_ms": 394960,
+   "snippet": "So this will be worth it. Definitely do",
+   "start_time_text": "6:33",
+   "start_time_label": "6:33"
+  },
+  {
+   "start_ms": 394960,
+   "end_ms": 396400,
+   "snippet": "consider checking out. I'm putting the",
+   "start_time_text": "6:34",
+   "start_time_label": "6:34"
+  },
+  {
+   "start_ms": 396400,
+   "end_ms": 398240,
+   "snippet": "links in description comments. So okay.",
+   "start_time_text": "6:36",
+   "start_time_label": "6:36"
+  },
+  {
+   "start_ms": 398240,
+   "end_ms": 399919,
+   "snippet": "So I hope that the second point is clear",
+   "start_time_text": "6:38",
+   "start_time_label": "6:38"
+  },
+  {
+   "start_ms": 399919,
+   "end_ms": 401680,
+   "snippet": "that you need to figure out the relevant",
+   "start_time_text": "6:39",
+   "start_time_label": "6:39"
+  },
+  {
+   "start_ms": 401680,
+   "end_ms": 404240,
+   "snippet": "benchmark for your portfolio. Okay. So",
+   "start_time_text": "6:41",
+   "start_time_label": "6:41"
+  },
+  {
+   "start_ms": 404240,
+   "end_ms": 406000,
+   "snippet": "this gives you an understanding what",
+   "start_time_text": "6:44",
+   "start_time_label": "6:44"
+  },
+  {
+   "start_ms": 406000,
+   "end_ms": 408080,
+   "snippet": "your overall portfolio is trying to",
+   "start_time_text": "6:46",
+   "start_time_label": "6:46"
+  },
+  {
+   "start_ms": 408080,
+   "end_ms": 410160,
+   "snippet": "beat. Now the third key thing what you",
+   "start_time_text": "6:48",
+   "start_time_label": "6:48"
+  },
+  {
+   "start_ms": 410160,
+   "end_ms": 411440,
+   "snippet": "need to do is that you need to figure",
+   "start_time_text": "6:50",
+   "start_time_label": "6:50"
+  },
+  {
+   "start_ms": 411440,
+   "end_ms": 413919,
+   "snippet": "out the beta of your portfolio. Now what",
+   "start_time_text": "6:51",
+   "start_time_label": "6:51"
+  },
+  {
+   "start_ms": 413919,
+   "end_ms": 416000,
+   "snippet": "is the meaning of beta? For example,",
+   "start_time_text": "6:53",
+   "start_time_label": "6:53"
+  },
+  {
+   "start_ms": 416000,
+   "end_ms": 417520,
+   "snippet": "what you can simply do is that once you",
+   "start_time_text": "6:56",
+   "start_time_label": "6:56"
+  },
+  {
+   "start_ms": 417520,
+   "end_ms": 419680,
+   "snippet": "have built out an Excel spreadsheet,",
+   "start_time_text": "6:57",
+   "start_time_label": "6:57"
+  },
+  {
+   "start_ms": 419680,
+   "end_ms": 421680,
+   "snippet": "take a screenshot right of this Excel",
+   "start_time_text": "6:59",
+   "start_time_label": "6:59"
+  },
+  {
+   "start_ms": 421680,
+   "end_ms": 424479,
+   "snippet": "spreadsheet, feed it to AI. Okay, for",
+   "start_time_text": "7:01",
+   "start_time_label": "7:01"
+  },
+  {
+   "start_ms": 424479,
+   "end_ms": 426960,
+   "snippet": "example, you can go to Claude and ask",
+   "start_time_text": "7:04",
+   "start_time_label": "7:04"
+  },
+  {
+   "start_ms": 426960,
+   "end_ms": 429520,
+   "snippet": "that what is the beta of my portfolio.",
+   "start_time_text": "7:06",
+   "start_time_label": "7:06"
+  },
+  {
+   "start_ms": 429520,
+   "end_ms": 431360,
+   "snippet": "Now I have done this exercise on this",
+   "start_time_text": "7:09",
+   "start_time_label": "7:09"
+  },
+  {
+   "start_ms": 431360,
+   "end_ms": 433599,
+   "snippet": "portfolio and Claude told me that my",
+   "start_time_text": "7:11",
+   "start_time_label": "7:11"
+  },
+  {
+   "start_ms": 433599,
+   "end_ms": 435680,
+   "snippet": "beta is 1.2. So the beta of this",
+   "start_time_text": "7:13",
+   "start_time_label": "7:13"
+  },
+  {
+   "start_ms": 435680,
+   "end_ms": 437599,
+   "snippet": "portfolio is 1.2. Now what is the",
+   "start_time_text": "7:15",
+   "start_time_label": "7:15"
+  },
+  {
+   "start_ms": 437599,
+   "end_ms": 440240,
+   "snippet": "meaning of 1.2? Well, it means that for",
+   "start_time_text": "7:17",
+   "start_time_label": "7:17"
+  },
+  {
+   "start_ms": 440240,
+   "end_ms": 442400,
+   "snippet": "example, if I compare this portfolio to",
+   "start_time_text": "7:20",
+   "start_time_label": "7:20"
+  },
+  {
+   "start_ms": 442400,
+   "end_ms": 445759,
+   "snippet": "something like QQQ, okay, then if the",
+   "start_time_text": "7:22",
+   "start_time_label": "7:22"
+  },
+  {
+   "start_ms": 445759,
+   "end_ms": 448960,
+   "snippet": "market is going up by let's say 10%.",
+   "start_time_text": "7:25",
+   "start_time_label": "7:25"
+  },
+  {
+   "start_ms": 448960,
+   "end_ms": 451759,
+   "snippet": "Then my portfolio should go up by 20",
+   "start_time_text": "7:28",
+   "start_time_label": "7:28"
+  },
+  {
+   "start_ms": 451759,
+   "end_ms": 454479,
+   "snippet": "more% compared to QQQ. So it it should",
+   "start_time_text": "7:31",
+   "start_time_label": "7:31"
+  },
+  {
+   "start_ms": 454479,
+   "end_ms": 458880,
+   "snippet": "go up by 12%. So how sensitive it is",
+   "start_time_text": "7:34",
+   "start_time_label": "7:34"
+  },
+  {
+   "start_ms": 458880,
+   "end_ms": 460800,
+   "snippet": "compared to the relevant benchmark.",
+   "start_time_text": "7:38",
+   "start_time_label": "7:38"
+  },
+  {
+   "start_ms": 460800,
+   "end_ms": 462560,
+   "snippet": "Okay. So that is what beta tells me.",
+   "start_time_text": "7:40",
+   "start_time_label": "7:40"
+  },
+  {
+   "start_ms": 462560,
+   "end_ms": 465360,
+   "snippet": "Right? And on the flip side if QQQ is",
+   "start_time_text": "7:42",
+   "start_time_label": "7:42"
+  },
+  {
+   "start_ms": 465360,
+   "end_ms": 467840,
+   "snippet": "going down by 100 points then my",
+   "start_time_text": "7:45",
+   "start_time_label": "7:45"
+  },
+  {
+   "start_ms": 467840,
+   "end_ms": 470479,
+   "snippet": "portfolio is likely to go down by 120",
+   "start_time_text": "7:47",
+   "start_time_label": "7:47"
+  },
+  {
+   "start_ms": 470479,
+   "end_ms": 473199,
+   "snippet": "points. Right? Now tracking beta is very",
+   "start_time_text": "7:50",
+   "start_time_label": "7:50"
+  },
+  {
+   "start_ms": 473199,
+   "end_ms": 475520,
+   "snippet": "important because beta tells you the",
+   "start_time_text": "7:53",
+   "start_time_label": "7:53"
+  },
+  {
+   "start_ms": 475520,
+   "end_ms": 477759,
+   "snippet": "performance. For example, if the beta of",
+   "start_time_text": "7:55",
+   "start_time_label": "7:55"
+  },
+  {
+   "start_ms": 477759,
+   "end_ms": 481039,
+   "snippet": "my portfolio is 1.2 2 and if the market",
+   "start_time_text": "7:57",
+   "start_time_label": "7:57"
+  },
+  {
+   "start_ms": 481039,
+   "end_ms": 483680,
+   "snippet": "is going up by 100 points, ideally my",
+   "start_time_text": "8:01",
+   "start_time_label": "8:01"
+  },
+  {
+   "start_ms": 483680,
+   "end_ms": 486080,
+   "snippet": "portfolio should have gone up by 120",
+   "start_time_text": "8:03",
+   "start_time_label": "8:03"
+  },
+  {
+   "start_ms": 486080,
+   "end_ms": 488160,
+   "snippet": "points. Okay, but if it is only going up",
+   "start_time_text": "8:06",
+   "start_time_label": "8:06"
+  },
+  {
+   "start_ms": 488160,
+   "end_ms": 490639,
+   "snippet": "by like 105 points, then something is",
+   "start_time_text": "8:08",
+   "start_time_label": "8:08"
+  },
+  {
+   "start_ms": 490639,
+   "end_ms": 491919,
+   "snippet": "wrong. Okay, so I need to go and",
+   "start_time_text": "8:10",
+   "start_time_label": "8:10"
+  },
+  {
+   "start_ms": 491919,
+   "end_ms": 493840,
+   "snippet": "rebalance it, look at it, whatever.",
+   "start_time_text": "8:11",
+   "start_time_label": "8:11"
+  },
+  {
+   "start_ms": 493840,
+   "end_ms": 496319,
+   "snippet": "Okay, because in simple terms, one could",
+   "start_time_text": "8:13",
+   "start_time_label": "8:13"
+  },
+  {
+   "start_ms": 496319,
+   "end_ms": 499120,
+   "snippet": "proxy beta as like risk profile of your",
+   "start_time_text": "8:16",
+   "start_time_label": "8:16"
+  },
+  {
+   "start_ms": 499120,
+   "end_ms": 501680,
+   "snippet": "overall portfolio. High beta does not",
+   "start_time_text": "8:19",
+   "start_time_label": "8:19"
+  },
+  {
+   "start_ms": 501680,
+   "end_ms": 504080,
+   "snippet": "mean it is bad or low beta does not mean",
+   "start_time_text": "8:21",
+   "start_time_label": "8:21"
+  },
+  {
+   "start_ms": 504080,
+   "end_ms": 506560,
+   "snippet": "it is good. Nothing of that sort. It",
+   "start_time_text": "8:24",
+   "start_time_label": "8:24"
+  },
+  {
+   "start_ms": 506560,
+   "end_ms": 508800,
+   "snippet": "simply tells you sensitivity. Okay, this",
+   "start_time_text": "8:26",
+   "start_time_label": "8:26"
+  },
+  {
+   "start_ms": 508800,
+   "end_ms": 510960,
+   "snippet": "is very very important. Now, how is this",
+   "start_time_text": "8:28",
+   "start_time_label": "8:28"
+  },
+  {
+   "start_ms": 510960,
+   "end_ms": 512800,
+   "snippet": "relevant for new investors? So, let me",
+   "start_time_text": "8:30",
+   "start_time_label": "8:30"
+  },
+  {
+   "start_ms": 512800,
+   "end_ms": 515120,
+   "snippet": "spend maybe a minute talking about that.",
+   "start_time_text": "8:32",
+   "start_time_label": "8:32"
+  },
+  {
+   "start_ms": 515120,
+   "end_ms": 516479,
+   "snippet": "So, for example, let's say that you have",
+   "start_time_text": "8:35",
+   "start_time_label": "8:35"
+  },
+  {
+   "start_ms": 516479,
+   "end_ms": 517919,
+   "snippet": "purchased like three different funds.",
+   "start_time_text": "8:36",
+   "start_time_label": "8:36"
+  },
+  {
+   "start_ms": 517919,
+   "end_ms": 519839,
+   "snippet": "Okay, you have purchased like whatever",
+   "start_time_text": "8:37",
+   "start_time_label": "8:37"
+  },
+  {
+   "start_ms": 519839,
+   "end_ms": 522560,
+   "snippet": "parak flexi gap. You have purchased like",
+   "start_time_text": "8:39",
+   "start_time_label": "8:39"
+  },
+  {
+   "start_ms": 522560,
+   "end_ms": 526000,
+   "snippet": "you know some like HDFC large cap. You",
+   "start_time_text": "8:42",
+   "start_time_label": "8:42"
+  },
+  {
+   "start_ms": 526000,
+   "end_ms": 527760,
+   "snippet": "have purchased like ICICI something",
+   "start_time_text": "8:46",
+   "start_time_label": "8:46"
+  },
+  {
+   "start_ms": 527760,
+   "end_ms": 530000,
+   "snippet": "large cap. Okay. Now, what is the likely",
+   "start_time_text": "8:47",
+   "start_time_label": "8:47"
+  },
+  {
+   "start_ms": 530000,
+   "end_ms": 531760,
+   "snippet": "benchmark right? So, the likely",
+   "start_time_text": "8:50",
+   "start_time_label": "8:50"
+  },
+  {
+   "start_ms": 531760,
+   "end_ms": 534160,
+   "snippet": "benchmark will be nifty50. Okay. Now",
+   "start_time_text": "8:51",
+   "start_time_label": "8:51"
+  },
+  {
+   "start_ms": 534160,
+   "end_ms": 536320,
+   "snippet": "comparing this the overall performance",
+   "start_time_text": "8:54",
+   "start_time_label": "8:54"
+  },
+  {
+   "start_ms": 536320,
+   "end_ms": 538399,
+   "snippet": "of this combined portfolio is very very",
+   "start_time_text": "8:56",
+   "start_time_label": "8:56"
+  },
+  {
+   "start_ms": 538399,
+   "end_ms": 540640,
+   "snippet": "important for you okay so if for example",
+   "start_time_text": "8:58",
+   "start_time_label": "8:58"
+  },
+  {
+   "start_ms": 540640,
+   "end_ms": 542959,
+   "snippet": "the beta of these three funds comes out",
+   "start_time_text": "9:00",
+   "start_time_label": "9:00"
+  },
+  {
+   "start_ms": 542959,
+   "end_ms": 546720,
+   "snippet": "to be 1.2 two right and we are in a bull",
+   "start_time_text": "9:02",
+   "start_time_label": "9:02"
+  },
+  {
+   "start_ms": 546720,
+   "end_ms": 549200,
+   "snippet": "market that the nifty50 is going up okay",
+   "start_time_text": "9:06",
+   "start_time_label": "9:06"
+  },
+  {
+   "start_ms": 549200,
+   "end_ms": 550800,
+   "snippet": "it's going up right I mean it used to be",
+   "start_time_text": "9:09",
+   "start_time_label": "9:09"
+  },
+  {
+   "start_ms": 550800,
+   "end_ms": 553279,
+   "snippet": "like whatever 22,000 then it moves to",
+   "start_time_text": "9:10",
+   "start_time_label": "9:10"
+  },
+  {
+   "start_ms": 553279,
+   "end_ms": 555440,
+   "snippet": "25,000 you'll be happy yeah you know",
+   "start_time_text": "9:13",
+   "start_time_label": "9:13"
+  },
+  {
+   "start_ms": 555440,
+   "end_ms": 557760,
+   "snippet": "boss like I also grew like something",
+   "start_time_text": "9:15",
+   "start_time_label": "9:15"
+  },
+  {
+   "start_ms": 557760,
+   "end_ms": 560240,
+   "snippet": "similar to nifty50 that is wrong because",
+   "start_time_text": "9:17",
+   "start_time_label": "9:17"
+  },
+  {
+   "start_ms": 560240,
+   "end_ms": 562160,
+   "snippet": "the beta of your portfolio was high so",
+   "start_time_text": "9:20",
+   "start_time_label": "9:20"
+  },
+  {
+   "start_ms": 562160,
+   "end_ms": 564240,
+   "snippet": "you were supposed to outperform the",
+   "start_time_text": "9:22",
+   "start_time_label": "9:22"
+  },
+  {
+   "start_ms": 564240,
+   "end_ms": 565680,
+   "snippet": "benchmark okay so this is how you need",
+   "start_time_text": "9:24",
+   "start_time_label": "9:24"
+  },
+  {
+   "start_ms": 565680,
+   "end_ms": 567360,
+   "snippet": "to compare the performance I know that",
+   "start_time_text": "9:25",
+   "start_time_label": "9:25"
+  },
+  {
+   "start_ms": 567360,
+   "end_ms": 568720,
+   "snippet": "this might be a little bit challenging",
+   "start_time_text": "9:27",
+   "start_time_label": "9:27"
+  },
+  {
+   "start_ms": 568720,
+   "end_ms": 571760,
+   "snippet": "for absolute newcomers but guys spend",
+   "start_time_text": "9:28",
+   "start_time_label": "9:28"
+  },
+  {
+   "start_ms": 571760,
+   "end_ms": 573279,
+   "snippet": "some time learning about these things",
+   "start_time_text": "9:31",
+   "start_time_label": "9:31"
+  },
+  {
+   "start_ms": 573279,
+   "end_ms": 575440,
+   "snippet": "this is absolutely important. Right? So",
+   "start_time_text": "9:33",
+   "start_time_label": "9:33"
+  },
+  {
+   "start_ms": 575440,
+   "end_ms": 577040,
+   "snippet": "this is very very important that you",
+   "start_time_text": "9:35",
+   "start_time_label": "9:35"
+  },
+  {
+   "start_ms": 577040,
+   "end_ms": 579440,
+   "snippet": "need to understand beta. It gives you an",
+   "start_time_text": "9:37",
+   "start_time_label": "9:37"
+  },
+  {
+   "start_ms": 579440,
+   "end_ms": 582320,
+   "snippet": "indication of how your portfolio is",
+   "start_time_text": "9:39",
+   "start_time_label": "9:39"
+  },
+  {
+   "start_ms": 582320,
+   "end_ms": 584000,
+   "snippet": "performing compared to relevant",
+   "start_time_text": "9:42",
+   "start_time_label": "9:42"
+  },
+  {
+   "start_ms": 584000,
+   "end_ms": 585920,
+   "snippet": "benchmark and things that are",
+   "start_time_text": "9:44",
+   "start_time_label": "9:44"
+  },
+  {
+   "start_ms": 585920,
+   "end_ms": 587600,
+   "snippet": "underperforming. For example, let's say",
+   "start_time_text": "9:45",
+   "start_time_label": "9:45"
+  },
+  {
+   "start_ms": 587600,
+   "end_ms": 589440,
+   "snippet": "that we see a bull market in the next 6",
+   "start_time_text": "9:47",
+   "start_time_label": "9:47"
+  },
+  {
+   "start_ms": 589440,
+   "end_ms": 591200,
+   "snippet": "months and nifty goes from whatever like",
+   "start_time_text": "9:49",
+   "start_time_label": "9:49"
+  },
+  {
+   "start_ms": 591200,
+   "end_ms": 594240,
+   "snippet": "you know 22,000 to 25k. Okay. And your",
+   "start_time_text": "9:51",
+   "start_time_label": "9:51"
+  },
+  {
+   "start_ms": 594240,
+   "end_ms": 596560,
+   "snippet": "portfolio despite having a high VA just",
+   "start_time_text": "9:54",
+   "start_time_label": "9:54"
+  },
+  {
+   "start_ms": 596560,
+   "end_ms": 598720,
+   "snippet": "matches nifty50 then there is something",
+   "start_time_text": "9:56",
+   "start_time_label": "9:56"
+  },
+  {
+   "start_ms": 598720,
+   "end_ms": 600399,
+   "snippet": "off then you can decide to cut one of",
+   "start_time_text": "9:58",
+   "start_time_label": "9:58"
+  },
+  {
+   "start_ms": 600399,
+   "end_ms": 602160,
+   "snippet": "these funds and replace it with another",
+   "start_time_text": "10:00",
+   "start_time_label": "10:00"
+  },
+  {
+   "start_ms": 602160,
+   "end_ms": 603760,
+   "snippet": "fund. Right? by looking at the internal",
+   "start_time_text": "10:02",
+   "start_time_label": "10:02"
+  },
+  {
+   "start_ms": 603760,
+   "end_ms": 605920,
+   "snippet": "performance. So this is where portfolio",
+   "start_time_text": "10:03",
+   "start_time_label": "10:03"
+  },
+  {
+   "start_ms": 605920,
+   "end_ms": 607920,
+   "snippet": "review comes right. But it has to be",
+   "start_time_text": "10:05",
+   "start_time_label": "10:05"
+  },
+  {
+   "start_ms": 607920,
+   "end_ms": 610320,
+   "snippet": "done by building some basics first. So",
+   "start_time_text": "10:07",
+   "start_time_label": "10:07"
+  },
+  {
+   "start_ms": 610320,
+   "end_ms": 612080,
+   "snippet": "this is point number three. Point number",
+   "start_time_text": "10:10",
+   "start_time_label": "10:10"
+  },
+  {
+   "start_ms": 612080,
+   "end_ms": 614160,
+   "snippet": "four is the commissions. Okay, this is",
+   "start_time_text": "10:12",
+   "start_time_label": "10:12"
+  },
+  {
+   "start_ms": 614160,
+   "end_ms": 616480,
+   "snippet": "very very important that if you are",
+   "start_time_text": "10:14",
+   "start_time_label": "10:14"
+  },
+  {
+   "start_ms": 616480,
+   "end_ms": 617760,
+   "snippet": "paying high commissions on your",
+   "start_time_text": "10:16",
+   "start_time_label": "10:16"
+  },
+  {
+   "start_ms": 617760,
+   "end_ms": 620640,
+   "snippet": "portfolio, uh whether you're using SIP",
+   "start_time_text": "10:17",
+   "start_time_label": "10:17"
+  },
+  {
+   "start_ms": 620640,
+   "end_ms": 622720,
+   "snippet": "mode, whether you're using bulk mode,",
+   "start_time_text": "10:20",
+   "start_time_label": "10:20"
+  },
+  {
+   "start_ms": 622720,
+   "end_ms": 624399,
+   "snippet": "whatever it is, commissions are really",
+   "start_time_text": "10:22",
+   "start_time_label": "10:22"
+  },
+  {
+   "start_ms": 624399,
+   "end_ms": 625760,
+   "snippet": "really bad. Right? I've shown this",
+   "start_time_text": "10:24",
+   "start_time_label": "10:24"
+  },
+  {
+   "start_ms": 625760,
+   "end_ms": 627680,
+   "snippet": "calculation multiple times. I will show",
+   "start_time_text": "10:25",
+   "start_time_label": "10:25"
+  },
+  {
+   "start_ms": 627680,
+   "end_ms": 630000,
+   "snippet": "you guys one more time, right? uh in",
+   "start_time_text": "10:27",
+   "start_time_label": "10:27"
+  },
+  {
+   "start_ms": 630000,
+   "end_ms": 631519,
+   "snippet": "terms of helping you understand the",
+   "start_time_text": "10:30",
+   "start_time_label": "10:30"
+  },
+  {
+   "start_ms": 631519,
+   "end_ms": 633600,
+   "snippet": "impact of commissions. So hopefully you",
+   "start_time_text": "10:31",
+   "start_time_label": "10:31"
+  },
+  {
+   "start_ms": 633600,
+   "end_ms": 636240,
+   "snippet": "will look at this entire story or your",
+   "start_time_text": "10:33",
+   "start_time_label": "10:33"
+  },
+  {
+   "start_ms": 636240,
+   "end_ms": 638079,
+   "snippet": "portfolio with a little bit more of a",
+   "start_time_text": "10:36",
+   "start_time_label": "10:36"
+  },
+  {
+   "start_ms": 638079,
+   "end_ms": 640320,
+   "snippet": "fine home. Okay. So here you can simply",
+   "start_time_text": "10:38",
+   "start_time_label": "10:38"
+  },
+  {
+   "start_ms": 640320,
+   "end_ms": 643279,
+   "snippet": "go on grow SIP calculator and run this",
+   "start_time_text": "10:40",
+   "start_time_label": "10:40"
+  },
+  {
+   "start_ms": 643279,
+   "end_ms": 644880,
+   "snippet": "math. Okay. So for example, if you are",
+   "start_time_text": "10:43",
+   "start_time_label": "10:43"
+  },
+  {
+   "start_ms": 644880,
+   "end_ms": 648240,
+   "snippet": "investing 25,000 monthly SIP and you are",
+   "start_time_text": "10:44",
+   "start_time_label": "10:44"
+  },
+  {
+   "start_ms": 648240,
+   "end_ms": 650959,
+   "snippet": "making 12%, right? And time period if",
+   "start_time_text": "10:48",
+   "start_time_label": "10:48"
+  },
+  {
+   "start_ms": 650959,
+   "end_ms": 652399,
+   "snippet": "you're investing for long-term so let's",
+   "start_time_text": "10:50",
+   "start_time_label": "10:50"
+  },
+  {
+   "start_ms": 652399,
+   "end_ms": 654560,
+   "snippet": "put it 40 years. So if you run this",
+   "start_time_text": "10:52",
+   "start_time_label": "10:52"
+  },
+  {
+   "start_ms": 654560,
+   "end_ms": 656720,
+   "snippet": "entire math it comes out to be 24.5",
+   "start_time_text": "10:54",
+   "start_time_label": "10:54"
+  },
+  {
+   "start_ms": 656720,
+   "end_ms": 659200,
+   "snippet": "crores. But if we are paying 1%",
+   "start_time_text": "10:56",
+   "start_time_label": "10:56"
+  },
+  {
+   "start_ms": 659200,
+   "end_ms": 661839,
+   "snippet": "commission 1%",
+   "start_time_text": "10:59",
+   "start_time_label": "10:59"
+  },
+  {
+   "start_ms": 661839,
+   "end_ms": 664720,
+   "snippet": "it's only 1% it matters to us. So okay",
+   "start_time_text": "11:01",
+   "start_time_label": "11:01"
+  },
+  {
+   "start_ms": 664720,
+   "end_ms": 666800,
+   "snippet": "so let's run 1% math and let's see how",
+   "start_time_text": "11:04",
+   "start_time_label": "11:04"
+  },
+  {
+   "start_ms": 666800,
+   "end_ms": 668959,
+   "snippet": "much damage this causes. So this falls",
+   "start_time_text": "11:06",
+   "start_time_label": "11:06"
+  },
+  {
+   "start_ms": 668959,
+   "end_ms": 671920,
+   "snippet": "to 18 and a half crores. So from 24.5 it",
+   "start_time_text": "11:08",
+   "start_time_label": "11:08"
+  },
+  {
+   "start_ms": 671920,
+   "end_ms": 674640,
+   "snippet": "falls to 18 and a half. Okay. Look at",
+   "start_time_text": "11:11",
+   "start_time_label": "11:11"
+  },
+  {
+   "start_ms": 674640,
+   "end_ms": 676720,
+   "snippet": "the percentage change on your portfolio.",
+   "start_time_text": "11:14",
+   "start_time_label": "11:14"
+  },
+  {
+   "start_ms": 676720,
+   "end_ms": 678240,
+   "snippet": "This is massive. Okay. This is massive",
+   "start_time_text": "11:16",
+   "start_time_label": "11:16"
+  },
+  {
+   "start_ms": 678240,
+   "end_ms": 680240,
+   "snippet": "wealth destruction because of 1%",
+   "start_time_text": "11:18",
+   "start_time_label": "11:18"
+  },
+  {
+   "start_ms": 680240,
+   "end_ms": 682079,
+   "snippet": "commissions. Now just for better",
+   "start_time_text": "11:20",
+   "start_time_label": "11:20"
+  },
+  {
+   "start_ms": 682079,
+   "end_ms": 683600,
+   "snippet": "understanding what I've done is that I",
+   "start_time_text": "11:22",
+   "start_time_label": "11:22"
+  },
+  {
+   "start_ms": 683600,
+   "end_ms": 686160,
+   "snippet": "have pulled out the commissions that are",
+   "start_time_text": "11:23",
+   "start_time_label": "11:23"
+  },
+  {
+   "start_ms": 686160,
+   "end_ms": 688640,
+   "snippet": "typically charged across products. For",
+   "start_time_text": "11:26",
+   "start_time_label": "11:26"
+  },
+  {
+   "start_ms": 688640,
+   "end_ms": 691360,
+   "snippet": "example, if you're investing in large",
+   "start_time_text": "11:28",
+   "start_time_label": "11:28"
+  },
+  {
+   "start_ms": 691360,
+   "end_ms": 693680,
+   "snippet": "cap mutual funds or midcap mutual funds",
+   "start_time_text": "11:31",
+   "start_time_label": "11:31"
+  },
+  {
+   "start_ms": 693680,
+   "end_ms": 696000,
+   "snippet": "or index funds or PMS schemes or",
+   "start_time_text": "11:33",
+   "start_time_label": "11:33"
+  },
+  {
+   "start_ms": 696000,
+   "end_ms": 698480,
+   "snippet": "thematic sector schemes, these are rough",
+   "start_time_text": "11:36",
+   "start_time_label": "11:36"
+  },
+  {
+   "start_ms": 698480,
+   "end_ms": 700000,
+   "snippet": "commissions that you will pay all",
+   "start_time_text": "11:38",
+   "start_time_label": "11:38"
+  },
+  {
+   "start_ms": 700000,
+   "end_ms": 701839,
+   "snippet": "inclusive. Okay, this is very very",
+   "start_time_text": "11:40",
+   "start_time_label": "11:40"
+  },
+  {
+   "start_ms": 701839,
+   "end_ms": 704880,
+   "snippet": "important. For example, PMS are wealth",
+   "start_time_text": "11:41",
+   "start_time_label": "11:41"
+  },
+  {
+   "start_ms": 704880,
+   "end_ms": 707680,
+   "snippet": "destruction instruments. Okay, at scale.",
+   "start_time_text": "11:44",
+   "start_time_label": "11:44"
+  },
+  {
+   "start_ms": 707680,
+   "end_ms": 709120,
+   "snippet": "Look at how much commissions they",
+   "start_time_text": "11:47",
+   "start_time_label": "11:47"
+  },
+  {
+   "start_ms": 709120,
+   "end_ms": 710959,
+   "snippet": "charge. Now unless they are running",
+   "start_time_text": "11:49",
+   "start_time_label": "11:49"
+  },
+  {
+   "start_ms": 710959,
+   "end_ms": 712480,
+   "snippet": "hedge fund strategies. Now what is the",
+   "start_time_text": "11:50",
+   "start_time_label": "11:50"
+  },
+  {
+   "start_ms": 712480,
+   "end_ms": 713839,
+   "snippet": "meaning of hedge fund strategies? I'll",
+   "start_time_text": "11:52",
+   "start_time_label": "11:52"
+  },
+  {
+   "start_ms": 713839,
+   "end_ms": 715680,
+   "snippet": "expl explain it subsequently on the",
+   "start_time_text": "11:53",
+   "start_time_label": "11:53"
+  },
+  {
+   "start_ms": 715680,
+   "end_ms": 717839,
+   "snippet": "video. Unless someone is creating like",
+   "start_time_text": "11:55",
+   "start_time_label": "11:55"
+  },
+  {
+   "start_ms": 717839,
+   "end_ms": 720000,
+   "snippet": "an options desk for you where they are",
+   "start_time_text": "11:57",
+   "start_time_label": "11:57"
+  },
+  {
+   "start_ms": 720000,
+   "end_ms": 722399,
+   "snippet": "generating sustainable cash flows and",
+   "start_time_text": "12:00",
+   "start_time_label": "12:00"
+  },
+  {
+   "start_ms": 722399,
+   "end_ms": 724000,
+   "snippet": "they are commanding their fees out of it",
+   "start_time_text": "12:02",
+   "start_time_label": "12:02"
+  },
+  {
+   "start_ms": 724000,
+   "end_ms": 725920,
+   "snippet": "then it's fine. But if someone is just",
+   "start_time_text": "12:04",
+   "start_time_label": "12:04"
+  },
+  {
+   "start_ms": 725920,
+   "end_ms": 728079,
+   "snippet": "buying HDFC bank TCS and all these type",
+   "start_time_text": "12:05",
+   "start_time_label": "12:05"
+  },
+  {
+   "start_ms": 728079,
+   "end_ms": 730320,
+   "snippet": "of stocks via TMS structure and charging",
+   "start_time_text": "12:08",
+   "start_time_label": "12:08"
+  },
+  {
+   "start_ms": 730320,
+   "end_ms": 732800,
+   "snippet": "you 3% you are destroying your wealth.",
+   "start_time_text": "12:10",
+   "start_time_label": "12:10"
+  },
+  {
+   "start_ms": 732800,
+   "end_ms": 734959,
+   "snippet": "Okay. So this is all I can say. uh you",
+   "start_time_text": "12:12",
+   "start_time_label": "12:12"
+  },
+  {
+   "start_ms": 734959,
+   "end_ms": 736639,
+   "snippet": "can run your own mathematics, reach your",
+   "start_time_text": "12:14",
+   "start_time_label": "12:14"
+  },
+  {
+   "start_ms": 736639,
+   "end_ms": 739120,
+   "snippet": "own conclusions but please be aware that",
+   "start_time_text": "12:16",
+   "start_time_label": "12:16"
+  },
+  {
+   "start_ms": 739120,
+   "end_ms": 741040,
+   "snippet": "commissions are very very critical on",
+   "start_time_text": "12:19",
+   "start_time_label": "12:19"
+  },
+  {
+   "start_ms": 741040,
+   "end_ms": 742959,
+   "snippet": "your portfolio. If you analyze your",
+   "start_time_text": "12:21",
+   "start_time_label": "12:21"
+  },
+  {
+   "start_ms": 742959,
+   "end_ms": 744800,
+   "snippet": "portfolio after that creating that",
+   "start_time_text": "12:22",
+   "start_time_label": "12:22"
+  },
+  {
+   "start_ms": 744800,
+   "end_ms": 746160,
+   "snippet": "spreadsheet that boss you know what okay",
+   "start_time_text": "12:24",
+   "start_time_label": "12:24"
+  },
+  {
+   "start_ms": 746160,
+   "end_ms": 748639,
+   "snippet": "I have these 15 funds or whatever and on",
+   "start_time_text": "12:26",
+   "start_time_label": "12:26"
+  },
+  {
+   "start_ms": 748639,
+   "end_ms": 750079,
+   "snippet": "these five funds I'm paying very high",
+   "start_time_text": "12:28",
+   "start_time_label": "12:28"
+  },
+  {
+   "start_ms": 750079,
+   "end_ms": 752240,
+   "snippet": "commissions. Yeah, just rethink. Okay,",
+   "start_time_text": "12:30",
+   "start_time_label": "12:30"
+  },
+  {
+   "start_ms": 752240,
+   "end_ms": 753760,
+   "snippet": "this is very very important for you.",
+   "start_time_text": "12:32",
+   "start_time_label": "12:32"
+  },
+  {
+   "start_ms": 753760,
+   "end_ms": 755839,
+   "snippet": "Now, how much commissions am I paying on",
+   "start_time_text": "12:33",
+   "start_time_label": "12:33"
+  },
+  {
+   "start_ms": 755839,
+   "end_ms": 758480,
+   "snippet": "this portfolio? The answer is absolutely",
+   "start_time_text": "12:35",
+   "start_time_label": "12:35"
+  },
+  {
+   "start_ms": 758480,
+   "end_ms": 760560,
+   "snippet": "zilch. I pay nothing. Why? Because I'm",
+   "start_time_text": "12:38",
+   "start_time_label": "12:38"
+  },
+  {
+   "start_ms": 760560,
+   "end_ms": 762399,
+   "snippet": "doing direct stock investing. So, people",
+   "start_time_text": "12:40",
+   "start_time_label": "12:40"
+  },
+  {
+   "start_ms": 762399,
+   "end_ms": 764240,
+   "snippet": "keep on complaining that a charging like",
+   "start_time_text": "12:42",
+   "start_time_label": "12:42"
+  },
+  {
+   "start_ms": 764240,
+   "end_ms": 766560,
+   "snippet": "29,000 is that stuff for your course and",
+   "start_time_text": "12:44",
+   "start_time_label": "12:44"
+  },
+  {
+   "start_ms": 766560,
+   "end_ms": 768480,
+   "snippet": "whatnot. So, my platforms are designed",
+   "start_time_text": "12:46",
+   "start_time_label": "12:46"
+  },
+  {
+   "start_ms": 768480,
+   "end_ms": 770560,
+   "snippet": "for serious investors. My platforms are",
+   "start_time_text": "12:48",
+   "start_time_label": "12:48"
+  },
+  {
+   "start_ms": 770560,
+   "end_ms": 772560,
+   "snippet": "not designed for like people who are not",
+   "start_time_text": "12:50",
+   "start_time_label": "12:50"
+  },
+  {
+   "start_ms": 772560,
+   "end_ms": 774079,
+   "snippet": "interested in investing. If you want to",
+   "start_time_text": "12:52",
+   "start_time_label": "12:52"
+  },
+  {
+   "start_ms": 774079,
+   "end_ms": 775519,
+   "snippet": "learn, if you want to invest time,",
+   "start_time_text": "12:54",
+   "start_time_label": "12:54"
+  },
+  {
+   "start_ms": 775519,
+   "end_ms": 777760,
+   "snippet": "little bit of time, if you want good",
+   "start_time_text": "12:55",
+   "start_time_label": "12:55"
+  },
+  {
+   "start_ms": 777760,
+   "end_ms": 780079,
+   "snippet": "macro commentary of real investors. So",
+   "start_time_text": "12:57",
+   "start_time_label": "12:57"
+  },
+  {
+   "start_ms": 780079,
+   "end_ms": 781279,
+   "snippet": "I'm actually putting my money and",
+   "start_time_text": "13:00",
+   "start_time_label": "13:00"
+  },
+  {
+   "start_ms": 781279,
+   "end_ms": 783040,
+   "snippet": "showing you. Okay? So I'm taking risk",
+   "start_time_text": "13:01",
+   "start_time_label": "13:01"
+  },
+  {
+   "start_ms": 783040,
+   "end_ms": 784639,
+   "snippet": "along with you and I'm suffering the",
+   "start_time_text": "13:03",
+   "start_time_label": "13:03"
+  },
+  {
+   "start_ms": 784639,
+   "end_ms": 786639,
+   "snippet": "same consequences or upside downside",
+   "start_time_text": "13:04",
+   "start_time_label": "13:04"
+  },
+  {
+   "start_ms": 786639,
+   "end_ms": 788720,
+   "snippet": "with you guys. Okay? So then my courses",
+   "start_time_text": "13:06",
+   "start_time_label": "13:06"
+  },
+  {
+   "start_ms": 788720,
+   "end_ms": 790240,
+   "snippet": "kind of make sense and they pay for",
+   "start_time_text": "13:08",
+   "start_time_label": "13:08"
+  },
+  {
+   "start_ms": 790240,
+   "end_ms": 791920,
+   "snippet": "themselves because of the commissions",
+   "start_time_text": "13:10",
+   "start_time_label": "13:10"
+  },
+  {
+   "start_ms": 791920,
+   "end_ms": 793760,
+   "snippet": "that you're saving. Okay? So that's the",
+   "start_time_text": "13:11",
+   "start_time_label": "13:11"
+  },
+  {
+   "start_ms": 793760,
+   "end_ms": 795839,
+   "snippet": "pitch. I hope it kind of helps you run",
+   "start_time_text": "13:13",
+   "start_time_label": "13:13"
+  },
+  {
+   "start_ms": 795839,
+   "end_ms": 797920,
+   "snippet": "the mathematics and decide what to do.",
+   "start_time_text": "13:15",
+   "start_time_label": "13:15"
+  },
+  {
+   "start_ms": 797920,
+   "end_ms": 800079,
+   "snippet": "But yes, please keep in mind the total",
+   "start_time_text": "13:17",
+   "start_time_label": "13:17"
+  },
+  {
+   "start_ms": 800079,
+   "end_ms": 801519,
+   "snippet": "commissions that you are paying. Okay.",
+   "start_time_text": "13:20",
+   "start_time_label": "13:20"
+  },
+  {
+   "start_ms": 801519,
+   "end_ms": 803440,
+   "snippet": "So this is point number four. Okay. So",
+   "start_time_text": "13:21",
+   "start_time_label": "13:21"
+  },
+  {
+   "start_ms": 803440,
+   "end_ms": 805760,
+   "snippet": "then comes the next point that once you",
+   "start_time_text": "13:23",
+   "start_time_label": "13:23"
+  },
+  {
+   "start_ms": 805760,
+   "end_ms": 807279,
+   "snippet": "have your entire Excel spreadsheet, you",
+   "start_time_text": "13:25",
+   "start_time_label": "13:25"
+  },
+  {
+   "start_ms": 807279,
+   "end_ms": 808800,
+   "snippet": "have calculated your benchmark, you have",
+   "start_time_text": "13:27",
+   "start_time_label": "13:27"
+  },
+  {
+   "start_ms": 808800,
+   "end_ms": 810959,
+   "snippet": "calculated your beta, then the next",
+   "start_time_text": "13:28",
+   "start_time_label": "13:28"
+  },
+  {
+   "start_ms": 810959,
+   "end_ms": 812880,
+   "snippet": "natural question you need to ask is that",
+   "start_time_text": "13:30",
+   "start_time_label": "13:30"
+  },
+  {
+   "start_ms": 812880,
+   "end_ms": 816320,
+   "snippet": "what are the hedges or risk mitigation",
+   "start_time_text": "13:32",
+   "start_time_label": "13:32"
+  },
+  {
+   "start_ms": 816320,
+   "end_ms": 819519,
+   "snippet": "strategies on this portfolio. For",
+   "start_time_text": "13:36",
+   "start_time_label": "13:36"
+  },
+  {
+   "start_ms": 819519,
+   "end_ms": 821680,
+   "snippet": "example, if you open up Twitter or if",
+   "start_time_text": "13:39",
+   "start_time_label": "13:39"
+  },
+  {
+   "start_ms": 821680,
+   "end_ms": 823600,
+   "snippet": "you listen to commentary from a bunch of",
+   "start_time_text": "13:41",
+   "start_time_label": "13:41"
+  },
+  {
+   "start_ms": 823600,
+   "end_ms": 826000,
+   "snippet": "people, their point is that you know",
+   "start_time_text": "13:43",
+   "start_time_label": "13:43"
+  },
+  {
+   "start_ms": 826000,
+   "end_ms": 829600,
+   "snippet": "what AI bubble is going to burst, right?",
+   "start_time_text": "13:46",
+   "start_time_label": "13:46"
+  },
+  {
+   "start_ms": 829600,
+   "end_ms": 832160,
+   "snippet": "Akshhat will go to zero. he will come on",
+   "start_time_text": "13:49",
+   "start_time_label": "13:49"
+  },
+  {
+   "start_ms": 832160,
+   "end_ms": 833760,
+   "snippet": "road and he will start begging. Okay, so",
+   "start_time_text": "13:52",
+   "start_time_label": "13:52"
+  },
+  {
+   "start_ms": 833760,
+   "end_ms": 835600,
+   "snippet": "this is like the general narrative.",
+   "start_time_text": "13:53",
+   "start_time_label": "13:53"
+  },
+  {
+   "start_ms": 835600,
+   "end_ms": 838240,
+   "snippet": "Okay, this is just dumb. Okay, anyone",
+   "start_time_text": "13:55",
+   "start_time_label": "13:55"
+  },
+  {
+   "start_ms": 838240,
+   "end_ms": 840079,
+   "snippet": "who is running a big enough portfolio,",
+   "start_time_text": "13:58",
+   "start_time_label": "13:58"
+  },
+  {
+   "start_ms": 840079,
+   "end_ms": 841600,
+   "snippet": "this is one of the portfolios I run,",
+   "start_time_text": "14:00",
+   "start_time_label": "14:00"
+  },
+  {
+   "start_ms": 841600,
+   "end_ms": 843440,
+   "snippet": "right? And I'm using it as an example.",
+   "start_time_text": "14:01",
+   "start_time_label": "14:01"
+  },
+  {
+   "start_ms": 843440,
+   "end_ms": 844800,
+   "snippet": "And here is an entire video that I had",
+   "start_time_text": "14:03",
+   "start_time_label": "14:03"
+  },
+  {
+   "start_ms": 844800,
+   "end_ms": 847040,
+   "snippet": "done about my 40CR portfolio in the US.",
+   "start_time_text": "14:04",
+   "start_time_label": "14:04"
+  },
+  {
+   "start_ms": 847040,
+   "end_ms": 849440,
+   "snippet": "Okay, so I have a big portfolio. Now, if",
+   "start_time_text": "14:07",
+   "start_time_label": "14:07"
+  },
+  {
+   "start_ms": 849440,
+   "end_ms": 852079,
+   "snippet": "I'm sitting on 40C portfolio or a 10CR",
+   "start_time_text": "14:09",
+   "start_time_label": "14:09"
+  },
+  {
+   "start_ms": 852079,
+   "end_ms": 853600,
+   "snippet": "portfolio, etc. These are big",
+   "start_time_text": "14:12",
+   "start_time_label": "14:12"
+  },
+  {
+   "start_ms": 853600,
+   "end_ms": 856079,
+   "snippet": "portfolios. Now, I would definitely",
+   "start_time_text": "14:13",
+   "start_time_label": "14:13"
+  },
+  {
+   "start_ms": 856079,
+   "end_ms": 858560,
+   "snippet": "mitigate them, right? I would definitely",
+   "start_time_text": "14:16",
+   "start_time_label": "14:16"
+  },
+  {
+   "start_ms": 858560,
+   "end_ms": 862320,
+   "snippet": "have a riskmanagement strategy or some",
+   "start_time_text": "14:18",
+   "start_time_label": "14:18"
+  },
+  {
+   "start_ms": 862320,
+   "end_ms": 865040,
+   "snippet": "kind of hedges on this portfolio. So let",
+   "start_time_text": "14:22",
+   "start_time_label": "14:22"
+  },
+  {
+   "start_ms": 865040,
+   "end_ms": 867680,
+   "snippet": "us understand in very simple words why",
+   "start_time_text": "14:25",
+   "start_time_label": "14:25"
+  },
+  {
+   "start_ms": 867680,
+   "end_ms": 869519,
+   "snippet": "do you need to have hedges on your",
+   "start_time_text": "14:27",
+   "start_time_label": "14:27"
+  },
+  {
+   "start_ms": 869519,
+   "end_ms": 872320,
+   "snippet": "portfolio even if you are a even if",
+   "start_time_text": "14:29",
+   "start_time_label": "14:29"
+  },
+  {
+   "start_ms": 872320,
+   "end_ms": 874079,
+   "snippet": "you're starting. Okay. So okay. So let",
+   "start_time_text": "14:32",
+   "start_time_label": "14:32"
+  },
+  {
+   "start_ms": 874079,
+   "end_ms": 875760,
+   "snippet": "us quickly understand this is a topic in",
+   "start_time_text": "14:34",
+   "start_time_label": "14:34"
+  },
+  {
+   "start_ms": 875760,
+   "end_ms": 877279,
+   "snippet": "itself. If you guys want I'll make a",
+   "start_time_text": "14:35",
+   "start_time_label": "14:35"
+  },
+  {
+   "start_ms": 877279,
+   "end_ms": 879040,
+   "snippet": "detailed video but let me explain it in",
+   "start_time_text": "14:37",
+   "start_time_label": "14:37"
+  },
+  {
+   "start_ms": 879040,
+   "end_ms": 880959,
+   "snippet": "very simple words. Okay. So for example",
+   "start_time_text": "14:39",
+   "start_time_label": "14:39"
+  },
+  {
+   "start_ms": 880959,
+   "end_ms": 884399,
+   "snippet": "if this is a 10CR portfolio right now if",
+   "start_time_text": "14:40",
+   "start_time_label": "14:40"
+  },
+  {
+   "start_ms": 884399,
+   "end_ms": 886000,
+   "snippet": "I do not have any risk management",
+   "start_time_text": "14:44",
+   "start_time_label": "14:44"
+  },
+  {
+   "start_ms": 886000,
+   "end_ms": 890480,
+   "snippet": "strategy and QQQ falls from 700 to 500",
+   "start_time_text": "14:46",
+   "start_time_label": "14:46"
+  },
+  {
+   "start_ms": 890480,
+   "end_ms": 892560,
+   "snippet": "right now this portfolio will be",
+   "start_time_text": "14:50",
+   "start_time_label": "14:50"
+  },
+  {
+   "start_ms": 892560,
+   "end_ms": 894079,
+   "snippet": "demolished I will suffer like whatever",
+   "start_time_text": "14:52",
+   "start_time_label": "14:52"
+  },
+  {
+   "start_ms": 894079,
+   "end_ms": 895680,
+   "snippet": "like I got a 40% correction on this",
+   "start_time_text": "14:54",
+   "start_time_label": "14:54"
+  },
+  {
+   "start_ms": 895680,
+   "end_ms": 897519,
+   "snippet": "portfolio and this will like go to like",
+   "start_time_text": "14:55",
+   "start_time_label": "14:55"
+  },
+  {
+   "start_ms": 897519,
+   "end_ms": 899760,
+   "snippet": "six year okay this is very bad situation",
+   "start_time_text": "14:57",
+   "start_time_label": "14:57"
+  },
+  {
+   "start_ms": 899760,
+   "end_ms": 902560,
+   "snippet": "so what do I have need to do well I need",
+   "start_time_text": "14:59",
+   "start_time_label": "14:59"
+  },
+  {
+   "start_ms": 902560,
+   "end_ms": 905279,
+   "snippet": "to have some kind of investing strategy",
+   "start_time_text": "15:02",
+   "start_time_label": "15:02"
+  },
+  {
+   "start_ms": 905279,
+   "end_ms": 908560,
+   "snippet": "where in case the market is going down I",
+   "start_time_text": "15:05",
+   "start_time_label": "15:05"
+  },
+  {
+   "start_ms": 908560,
+   "end_ms": 910480,
+   "snippet": "can downward average it okay So that if",
+   "start_time_text": "15:08",
+   "start_time_label": "15:08"
+  },
+  {
+   "start_ms": 910480,
+   "end_ms": 912160,
+   "snippet": "I'm downward averaging it and if the",
+   "start_time_text": "15:10",
+   "start_time_label": "15:10"
+  },
+  {
+   "start_ms": 912160,
+   "end_ms": 914399,
+   "snippet": "market is going down by 40%, my losses",
+   "start_time_text": "15:12",
+   "start_time_label": "15:12"
+  },
+  {
+   "start_ms": 914399,
+   "end_ms": 916399,
+   "snippet": "will be let's say 30%, right? So I have",
+   "start_time_text": "15:14",
+   "start_time_label": "15:14"
+  },
+  {
+   "start_ms": 916399,
+   "end_ms": 918160,
+   "snippet": "been able to outperform the market.",
+   "start_time_text": "15:16",
+   "start_time_label": "15:16"
+  },
+  {
+   "start_ms": 918160,
+   "end_ms": 920399,
+   "snippet": "That's a hedging strategy. I can buy",
+   "start_time_text": "15:18",
+   "start_time_label": "15:18"
+  },
+  {
+   "start_ms": 920399,
+   "end_ms": 922399,
+   "snippet": "some kind of hedges, right? So these are",
+   "start_time_text": "15:20",
+   "start_time_label": "15:20"
+  },
+  {
+   "start_ms": 922399,
+   "end_ms": 924800,
+   "snippet": "done in the options market. Every big",
+   "start_time_text": "15:22",
+   "start_time_label": "15:22"
+  },
+  {
+   "start_ms": 924800,
+   "end_ms": 926959,
+   "snippet": "ticket investor, Mr. Warren Buffett,",
+   "start_time_text": "15:24",
+   "start_time_label": "15:24"
+  },
+  {
+   "start_ms": 926959,
+   "end_ms": 930639,
+   "snippet": "Ralu, Mark, Zav, whatever, right? They",
+   "start_time_text": "15:26",
+   "start_time_label": "15:26"
+  },
+  {
+   "start_ms": 930639,
+   "end_ms": 932800,
+   "snippet": "all have hedges, right? What are those?",
+   "start_time_text": "15:30",
+   "start_time_label": "15:30"
+  },
+  {
+   "start_ms": 932800,
+   "end_ms": 934639,
+   "snippet": "I'll explain it. But they will buy some",
+   "start_time_text": "15:32",
+   "start_time_label": "15:32"
+  },
+  {
+   "start_ms": 934639,
+   "end_ms": 936320,
+   "snippet": "kind of hedges. So there are three",
+   "start_time_text": "15:34",
+   "start_time_label": "15:34"
+  },
+  {
+   "start_ms": 936320,
+   "end_ms": 937680,
+   "snippet": "strategies that come. So let me",
+   "start_time_text": "15:36",
+   "start_time_label": "15:36"
+  },
+  {
+   "start_ms": 937680,
+   "end_ms": 939519,
+   "snippet": "systematically explain it, right? how",
+   "start_time_text": "15:37",
+   "start_time_label": "15:37"
+  },
+  {
+   "start_ms": 939519,
+   "end_ms": 941440,
+   "snippet": "this works. There are three types of",
+   "start_time_text": "15:39",
+   "start_time_label": "15:39"
+  },
+  {
+   "start_ms": 941440,
+   "end_ms": 943360,
+   "snippet": "hedging that you can do. Okay. So the",
+   "start_time_text": "15:41",
+   "start_time_label": "15:41"
+  },
+  {
+   "start_ms": 943360,
+   "end_ms": 946000,
+   "snippet": "first kind of hedging is called as cash",
+   "start_time_text": "15:43",
+   "start_time_label": "15:43"
+  },
+  {
+   "start_ms": 946000,
+   "end_ms": 948480,
+   "snippet": "to investment ratio hedging. So for",
+   "start_time_text": "15:46",
+   "start_time_label": "15:46"
+  },
+  {
+   "start_ms": 948480,
+   "end_ms": 950320,
+   "snippet": "example, let's say that this is a 10 cr",
+   "start_time_text": "15:48",
+   "start_time_label": "15:48"
+  },
+  {
+   "start_ms": 950320,
+   "end_ms": 953920,
+   "snippet": "portfolio and I have 2 cr more of cash,",
+   "start_time_text": "15:50",
+   "start_time_label": "15:50"
+  },
+  {
+   "start_ms": 953920,
+   "end_ms": 956720,
+   "snippet": "right? So I can keep 2 cr as cash, 10 cr",
+   "start_time_text": "15:53",
+   "start_time_label": "15:53"
+  },
+  {
+   "start_ms": 956720,
+   "end_ms": 958320,
+   "snippet": "as investment. So basically it means",
+   "start_time_text": "15:56",
+   "start_time_label": "15:56"
+  },
+  {
+   "start_ms": 958320,
+   "end_ms": 962320,
+   "snippet": "that hey 20% of my money is in cash. I",
+   "start_time_text": "15:58",
+   "start_time_label": "15:58"
+  },
+  {
+   "start_ms": 962320,
+   "end_ms": 965199,
+   "snippet": "will go and put this in leths right and",
+   "start_time_text": "16:02",
+   "start_time_label": "16:02"
+  },
+  {
+   "start_ms": 965199,
+   "end_ms": 966720,
+   "snippet": "this is something that you can do it on",
+   "start_time_text": "16:05",
+   "start_time_label": "16:05"
+  },
+  {
+   "start_ms": 966720,
+   "end_ms": 968800,
+   "snippet": "vested in case you guys are doing US",
+   "start_time_text": "16:06",
+   "start_time_label": "16:06"
+  },
+  {
+   "start_ms": 968800,
+   "end_ms": 971120,
+   "snippet": "investing like me you can use vested as",
+   "start_time_text": "16:08",
+   "start_time_label": "16:08"
+  },
+  {
+   "start_ms": 971120,
+   "end_ms": 972639,
+   "snippet": "one of the platforms that you can use",
+   "start_time_text": "16:11",
+   "start_time_label": "16:11"
+  },
+  {
+   "start_ms": 972639,
+   "end_ms": 974639,
+   "snippet": "I'm putting the links in description box",
+   "start_time_text": "16:12",
+   "start_time_label": "16:12"
+  },
+  {
+   "start_ms": 974639,
+   "end_ms": 976959,
+   "snippet": "since I'm one of the investors invested",
+   "start_time_text": "16:14",
+   "start_time_label": "16:14"
+  },
+  {
+   "start_ms": 976959,
+   "end_ms": 978800,
+   "snippet": "you will get a good deal if you use this",
+   "start_time_text": "16:16",
+   "start_time_label": "16:16"
+  },
+  {
+   "start_ms": 978800,
+   "end_ms": 980639,
+   "snippet": "link so definitely check out the links",
+   "start_time_text": "16:18",
+   "start_time_label": "16:18"
+  },
+  {
+   "start_ms": 980639,
+   "end_ms": 982800,
+   "snippet": "in description comment box and there you",
+   "start_time_text": "16:20",
+   "start_time_label": "16:20"
+  },
+  {
+   "start_ms": 982800,
+   "end_ms": 984480,
+   "snippet": "can buy something called as Tills right",
+   "start_time_text": "16:22",
+   "start_time_label": "16:22"
+  },
+  {
+   "start_ms": 984480,
+   "end_ms": 986639,
+   "snippet": "with the money that is lying around okay",
+   "start_time_text": "16:24",
+   "start_time_label": "16:24"
+  },
+  {
+   "start_ms": 986639,
+   "end_ms": 990000,
+   "snippet": "now this is 20% cash strategy now in",
+   "start_time_text": "16:26",
+   "start_time_label": "16:26"
+  },
+  {
+   "start_ms": 990000,
+   "end_ms": 991680,
+   "snippet": "case the market corrects let's say that",
+   "start_time_text": "16:30",
+   "start_time_label": "16:30"
+  },
+  {
+   "start_ms": 991680,
+   "end_ms": 994079,
+   "snippet": "my portfolio will go from 10 cr to 8 cr",
+   "start_time_text": "16:31",
+   "start_time_label": "16:31"
+  },
+  {
+   "start_ms": 994079,
+   "end_ms": 996880,
+   "snippet": "right then I will dump 1 CR here okay so",
+   "start_time_text": "16:34",
+   "start_time_label": "16:34"
+  },
+  {
+   "start_ms": 996880,
+   "end_ms": 998800,
+   "snippet": "now what I'm doing is that I'm sensibly",
+   "start_time_text": "16:36",
+   "start_time_label": "16:36"
+  },
+  {
+   "start_ms": 998800,
+   "end_ms": 1001759,
+   "snippet": "downward averaging right this is a cash",
+   "start_time_text": "16:38",
+   "start_time_label": "16:38"
+  },
+  {
+   "start_ms": 1001759,
+   "end_ms": 1004160,
+   "snippet": "to investment ratio strategy if the",
+   "start_time_text": "16:41",
+   "start_time_label": "16:41"
+  },
+  {
+   "start_ms": 1004160,
+   "end_ms": 1006160,
+   "snippet": "market looks overvalued for example some",
+   "start_time_text": "16:44",
+   "start_time_label": "16:44"
+  },
+  {
+   "start_ms": 1006160,
+   "end_ms": 1007600,
+   "snippet": "of you would feel that you know what US",
+   "start_time_text": "16:46",
+   "start_time_label": "16:46"
+  },
+  {
+   "start_ms": 1007600,
+   "end_ms": 1009040,
+   "snippet": "market has run up too much it is",
+   "start_time_text": "16:47",
+   "start_time_label": "16:47"
+  },
+  {
+   "start_ms": 1009040,
+   "end_ms": 1011199,
+   "snippet": "overvalued so take you do like whatever",
+   "start_time_text": "16:49",
+   "start_time_label": "16:49"
+  },
+  {
+   "start_ms": 1011199,
+   "end_ms": 1013600,
+   "snippet": "3070 right whatever needs to be done or",
+   "start_time_text": "16:51",
+   "start_time_label": "16:51"
+  },
+  {
+   "start_ms": 1013600,
+   "end_ms": 1016959,
+   "snippet": "you like 2080 or you do 1090 whatever",
+   "start_time_text": "16:53",
+   "start_time_label": "16:53"
+  },
+  {
+   "start_ms": 1016959,
+   "end_ms": 1019440,
+   "snippet": "your fundamental analysis tells you this",
+   "start_time_text": "16:56",
+   "start_time_label": "16:56"
+  },
+  {
+   "start_ms": 1019440,
+   "end_ms": 1021199,
+   "snippet": "is one way of hedging",
+   "start_time_text": "16:59",
+   "start_time_label": "16:59"
+  },
+  {
+   "start_ms": 1021199,
+   "end_ms": 1023519,
+   "snippet": "The second way of hedging is called as",
+   "start_time_text": "17:01",
+   "start_time_label": "17:01"
+  },
+  {
+   "start_ms": 1023519,
+   "end_ms": 1028079,
+   "snippet": "buying buying puts right buying puts on",
+   "start_time_text": "17:03",
+   "start_time_label": "17:03"
+  },
+  {
+   "start_ms": 1028079,
+   "end_ms": 1031520,
+   "snippet": "QQQ. Now why did I buy puts on QQQ?",
+   "start_time_text": "17:08",
+   "start_time_label": "17:08"
+  },
+  {
+   "start_ms": 1031520,
+   "end_ms": 1034640,
+   "snippet": "Because my benchmark is QQQ on this",
+   "start_time_text": "17:11",
+   "start_time_label": "17:11"
+  },
+  {
+   "start_ms": 1034640,
+   "end_ms": 1036079,
+   "snippet": "portfolio. This is something that I",
+   "start_time_text": "17:14",
+   "start_time_label": "17:14"
+  },
+  {
+   "start_ms": 1036079,
+   "end_ms": 1037679,
+   "snippet": "explained on the earlier part of the",
+   "start_time_text": "17:16",
+   "start_time_label": "17:16"
+  },
+  {
+   "start_ms": 1037679,
+   "end_ms": 1039199,
+   "snippet": "video that hey you need to have like a",
+   "start_time_text": "17:17",
+   "start_time_label": "17:17"
+  },
+  {
+   "start_ms": 1039199,
+   "end_ms": 1040880,
+   "snippet": "relevant benchmark that you're tracking",
+   "start_time_text": "17:19",
+   "start_time_label": "17:19"
+  },
+  {
+   "start_ms": 1040880,
+   "end_ms": 1043600,
+   "snippet": "since I'm tracking QQQ. Therefore I will",
+   "start_time_text": "17:20",
+   "start_time_label": "17:20"
+  },
+  {
+   "start_ms": 1043600,
+   "end_ms": 1047280,
+   "snippet": "buy put options on QQQ. Now as Indian",
+   "start_time_text": "17:23",
+   "start_time_label": "17:23"
+  },
+  {
+   "start_ms": 1047280,
+   "end_ms": 1049200,
+   "snippet": "tax resident you can't really do this",
+   "start_time_text": "17:27",
+   "start_time_label": "17:27"
+  },
+  {
+   "start_ms": 1049200,
+   "end_ms": 1052080,
+   "snippet": "because buying options in the US market",
+   "start_time_text": "17:29",
+   "start_time_label": "17:29"
+  },
+  {
+   "start_ms": 1052080,
+   "end_ms": 1054160,
+   "snippet": "is not legal right if you're an Indian",
+   "start_time_text": "17:32",
+   "start_time_label": "17:32"
+  },
+  {
+   "start_ms": 1054160,
+   "end_ms": 1056160,
+   "snippet": "tax resident but this is something that",
+   "start_time_text": "17:34",
+   "start_time_label": "17:34"
+  },
+  {
+   "start_ms": 1056160,
+   "end_ms": 1058400,
+   "snippet": "NRIs can do right so if you're sitting",
+   "start_time_text": "17:36",
+   "start_time_label": "17:36"
+  },
+  {
+   "start_ms": 1058400,
+   "end_ms": 1062000,
+   "snippet": "on 10 portfolio and the benchmark is QQQ",
+   "start_time_text": "17:38",
+   "start_time_label": "17:38"
+  },
+  {
+   "start_ms": 1062000,
+   "end_ms": 1064240,
+   "snippet": "then uh this is close to a million right",
+   "start_time_text": "17:42",
+   "start_time_label": "17:42"
+  },
+  {
+   "start_ms": 1064240,
+   "end_ms": 1066480,
+   "snippet": "so you can buy like whatever like 20 put",
+   "start_time_text": "17:44",
+   "start_time_label": "17:44"
+  },
+  {
+   "start_ms": 1066480,
+   "end_ms": 1069600,
+   "snippet": "options on QQQ now you will pretty much",
+   "start_time_text": "17:46",
+   "start_time_label": "17:46"
+  },
+  {
+   "start_ms": 1069600,
+   "end_ms": 1072160,
+   "snippet": "pay like maybe 4% as insurance fee for",
+   "start_time_text": "17:49",
+   "start_time_label": "17:49"
+  },
+  {
+   "start_ms": 1072160,
+   "end_ms": 1074400,
+   "snippet": "the next one year right four to 5% you",
+   "start_time_text": "17:52",
+   "start_time_label": "17:52"
+  },
+  {
+   "start_ms": 1074400,
+   "end_ms": 1075679,
+   "snippet": "can buy monthly put every wallet",
+   "start_time_text": "17:54",
+   "start_time_label": "17:54"
+  },
+  {
+   "start_ms": 1075679,
+   "end_ms": 1077520,
+   "snippet": "fertility looks too high and all that",
+   "start_time_text": "17:55",
+   "start_time_label": "17:55"
+  },
+  {
+   "start_ms": 1077520,
+   "end_ms": 1079760,
+   "snippet": "stuff you can hedge. Okay. Now, this is",
+   "start_time_text": "17:57",
+   "start_time_label": "17:57"
+  },
+  {
+   "start_ms": 1079760,
+   "end_ms": 1081360,
+   "snippet": "what I teach on my investment community",
+   "start_time_text": "17:59",
+   "start_time_label": "17:59"
+  },
+  {
+   "start_ms": 1081360,
+   "end_ms": 1083360,
+   "snippet": "also, right? For example, let's say that",
+   "start_time_text": "18:01",
+   "start_time_label": "18:01"
+  },
+  {
+   "start_ms": 1083360,
+   "end_ms": 1086240,
+   "snippet": "I see higher risk on the market. Now, I",
+   "start_time_text": "18:03",
+   "start_time_label": "18:03"
+  },
+  {
+   "start_ms": 1086240,
+   "end_ms": 1088640,
+   "snippet": "might be able to buy put options but",
+   "start_time_text": "18:06",
+   "start_time_label": "18:06"
+  },
+  {
+   "start_ms": 1088640,
+   "end_ms": 1090400,
+   "snippet": "Indian investors might not be able to do",
+   "start_time_text": "18:08",
+   "start_time_label": "18:08"
+  },
+  {
+   "start_ms": 1090400,
+   "end_ms": 1092240,
+   "snippet": "it. But I will inform in my community",
+   "start_time_text": "18:10",
+   "start_time_label": "18:10"
+  },
+  {
+   "start_ms": 1092240,
+   "end_ms": 1093919,
+   "snippet": "because see like there seems to be",
+   "start_time_text": "18:12",
+   "start_time_label": "18:12"
+  },
+  {
+   "start_ms": 1093919,
+   "end_ms": 1096400,
+   "snippet": "higher risk on the market. So, we should",
+   "start_time_text": "18:13",
+   "start_time_label": "18:13"
+  },
+  {
+   "start_ms": 1096400,
+   "end_ms": 1099120,
+   "snippet": "hedge. Now, I might be doing this but my",
+   "start_time_text": "18:16",
+   "start_time_label": "18:16"
+  },
+  {
+   "start_ms": 1099120,
+   "end_ms": 1101120,
+   "snippet": "community can also do this, right? For",
+   "start_time_text": "18:19",
+   "start_time_label": "18:19"
+  },
+  {
+   "start_ms": 1101120,
+   "end_ms": 1104080,
+   "snippet": "example, instead of having 80/20 or 20%",
+   "start_time_text": "18:21",
+   "start_time_label": "18:21"
+  },
+  {
+   "start_ms": 1104080,
+   "end_ms": 1106320,
+   "snippet": "cash, you can go 3070. Okay? So 30%",
+   "start_time_text": "18:24",
+   "start_time_label": "18:24"
+  },
+  {
+   "start_ms": 1106320,
+   "end_ms": 1109200,
+   "snippet": "cash, 70% invested. So these are simple",
+   "start_time_text": "18:26",
+   "start_time_label": "18:26"
+  },
+  {
+   "start_ms": 1109200,
+   "end_ms": 1110799,
+   "snippet": "strategies, right? Which helps you",
+   "start_time_text": "18:29",
+   "start_time_label": "18:29"
+  },
+  {
+   "start_ms": 1110799,
+   "end_ms": 1112559,
+   "snippet": "rebalance your portfolio because you're",
+   "start_time_text": "18:30",
+   "start_time_label": "18:30"
+  },
+  {
+   "start_ms": 1112559,
+   "end_ms": 1114799,
+   "snippet": "simply moving out of your core portfolio",
+   "start_time_text": "18:32",
+   "start_time_label": "18:32"
+  },
+  {
+   "start_ms": 1114799,
+   "end_ms": 1117039,
+   "snippet": "into more cash or buying some kind of",
+   "start_time_text": "18:34",
+   "start_time_label": "18:34"
+  },
+  {
+   "start_ms": 1117039,
+   "end_ms": 1120000,
+   "snippet": "put option. The third strategy or the",
+   "start_time_text": "18:37",
+   "start_time_label": "18:37"
+  },
+  {
+   "start_ms": 1120000,
+   "end_ms": 1122640,
+   "snippet": "third part of running this type of",
+   "start_time_text": "18:40",
+   "start_time_label": "18:40"
+  },
+  {
+   "start_ms": 1122640,
+   "end_ms": 1124720,
+   "snippet": "strategy is called as buying",
+   "start_time_text": "18:42",
+   "start_time_label": "18:42"
+  },
+  {
+   "start_ms": 1124720,
+   "end_ms": 1127360,
+   "snippet": "uncorrelated or non-correlated asset,",
+   "start_time_text": "18:44",
+   "start_time_label": "18:44"
+  },
+  {
+   "start_ms": 1127360,
+   "end_ms": 1130000,
+   "snippet": "non-correlated assets. Okay. Now what is",
+   "start_time_text": "18:47",
+   "start_time_label": "18:47"
+  },
+  {
+   "start_ms": 1130000,
+   "end_ms": 1132000,
+   "snippet": "non-correlated or uncorrelated assets?",
+   "start_time_text": "18:50",
+   "start_time_label": "18:50"
+  },
+  {
+   "start_ms": 1132000,
+   "end_ms": 1133120,
+   "snippet": "Well, it's very simple, right? For",
+   "start_time_text": "18:52",
+   "start_time_label": "18:52"
+  },
+  {
+   "start_ms": 1133120,
+   "end_ms": 1135679,
+   "snippet": "example, gold, right? So, gold at one",
+   "start_time_text": "18:53",
+   "start_time_label": "18:53"
+  },
+  {
+   "start_ms": 1135679,
+   "end_ms": 1137760,
+   "snippet": "point in time used to be negatively",
+   "start_time_text": "18:55",
+   "start_time_label": "18:55"
+  },
+  {
+   "start_ms": 1137760,
+   "end_ms": 1139760,
+   "snippet": "correlated to equity market. Okay? So,",
+   "start_time_text": "18:57",
+   "start_time_label": "18:57"
+  },
+  {
+   "start_ms": 1139760,
+   "end_ms": 1141280,
+   "snippet": "for example, when equity market used to",
+   "start_time_text": "18:59",
+   "start_time_label": "18:59"
+  },
+  {
+   "start_ms": 1141280,
+   "end_ms": 1143520,
+   "snippet": "go up, gold used to come down. When gold",
+   "start_time_text": "19:01",
+   "start_time_label": "19:01"
+  },
+  {
+   "start_ms": 1143520,
+   "end_ms": 1146000,
+   "snippet": "used to go up, equity used to come down.",
+   "start_time_text": "19:03",
+   "start_time_label": "19:03"
+  },
+  {
+   "start_ms": 1146000,
+   "end_ms": 1147919,
+   "snippet": "Now, over time, this correlation has",
+   "start_time_text": "19:06",
+   "start_time_label": "19:06"
+  },
+  {
+   "start_ms": 1147919,
+   "end_ms": 1150000,
+   "snippet": "broken down, right? Similarly, we used",
+   "start_time_text": "19:07",
+   "start_time_label": "19:07"
+  },
+  {
+   "start_ms": 1150000,
+   "end_ms": 1151840,
+   "snippet": "to have like this kind of an inverse",
+   "start_time_text": "19:10",
+   "start_time_label": "19:10"
+  },
+  {
+   "start_ms": 1151840,
+   "end_ms": 1153600,
+   "snippet": "relationship between equities, right?",
+   "start_time_text": "19:11",
+   "start_time_label": "19:11"
+  },
+  {
+   "start_ms": 1153600,
+   "end_ms": 1156799,
+   "snippet": "stocks and bonds that okay bonds used to",
+   "start_time_text": "19:13",
+   "start_time_label": "19:13"
+  },
+  {
+   "start_ms": 1156799,
+   "end_ms": 1158720,
+   "snippet": "go up, equity used to come down. Equity",
+   "start_time_text": "19:16",
+   "start_time_label": "19:16"
+  },
+  {
+   "start_ms": 1158720,
+   "end_ms": 1161120,
+   "snippet": "used to go up, bonds used to come down.",
+   "start_time_text": "19:18",
+   "start_time_label": "19:18"
+  },
+  {
+   "start_ms": 1161120,
+   "end_ms": 1163520,
+   "snippet": "Now again this is broken but bottom line",
+   "start_time_text": "19:21",
+   "start_time_label": "19:21"
+  },
+  {
+   "start_ms": 1163520,
+   "end_ms": 1166240,
+   "snippet": "being that you need to in case you don't",
+   "start_time_text": "19:23",
+   "start_time_label": "19:23"
+  },
+  {
+   "start_ms": 1166240,
+   "end_ms": 1167840,
+   "snippet": "want to use like put options, you don't",
+   "start_time_text": "19:26",
+   "start_time_label": "19:26"
+  },
+  {
+   "start_ms": 1167840,
+   "end_ms": 1170000,
+   "snippet": "want to keep too much cash then what you",
+   "start_time_text": "19:27",
+   "start_time_label": "19:27"
+  },
+  {
+   "start_ms": 1170000,
+   "end_ms": 1172080,
+   "snippet": "can simply do is bond strategy. Okay. So",
+   "start_time_text": "19:30",
+   "start_time_label": "19:30"
+  },
+  {
+   "start_ms": 1172080,
+   "end_ms": 1174400,
+   "snippet": "you keep like you know uh and this is",
+   "start_time_text": "19:32",
+   "start_time_label": "19:32"
+  },
+  {
+   "start_ms": 1174400,
+   "end_ms": 1175919,
+   "snippet": "please note this is for people who don't",
+   "start_time_text": "19:34",
+   "start_time_label": "19:34"
+  },
+  {
+   "start_ms": 1175919,
+   "end_ms": 1177919,
+   "snippet": "want to use strategy one and two. So for",
+   "start_time_text": "19:35",
+   "start_time_label": "19:35"
+  },
+  {
+   "start_ms": 1177919,
+   "end_ms": 1180000,
+   "snippet": "example you can use like maybe 30% of",
+   "start_time_text": "19:37",
+   "start_time_label": "19:37"
+  },
+  {
+   "start_ms": 1180000,
+   "end_ms": 1183440,
+   "snippet": "your portfolio in bonds 70% in equity",
+   "start_time_text": "19:40",
+   "start_time_label": "19:40"
+  },
+  {
+   "start_ms": 1183440,
+   "end_ms": 1186080,
+   "snippet": "equity pri it's fine right I mean let it",
+   "start_time_text": "19:43",
+   "start_time_label": "19:43"
+  },
+  {
+   "start_ms": 1186080,
+   "end_ms": 1188320,
+   "snippet": "go down but using the cash flows that",
+   "start_time_text": "19:46",
+   "start_time_label": "19:46"
+  },
+  {
+   "start_ms": 1188320,
+   "end_ms": 1190480,
+   "snippet": "you're making here you can always rotate",
+   "start_time_text": "19:48",
+   "start_time_label": "19:48"
+  },
+  {
+   "start_ms": 1190480,
+   "end_ms": 1192480,
+   "snippet": "more capital on monthly basis here okay",
+   "start_time_text": "19:50",
+   "start_time_label": "19:50"
+  },
+  {
+   "start_ms": 1192480,
+   "end_ms": 1194080,
+   "snippet": "so what would this do is that this would",
+   "start_time_text": "19:52",
+   "start_time_label": "19:52"
+  },
+  {
+   "start_ms": 1194080,
+   "end_ms": 1196400,
+   "snippet": "allow you to downward average sensibly",
+   "start_time_text": "19:54",
+   "start_time_label": "19:54"
+  },
+  {
+   "start_ms": 1196400,
+   "end_ms": 1198480,
+   "snippet": "so the next point is correlation I will",
+   "start_time_text": "19:56",
+   "start_time_label": "19:56"
+  },
+  {
+   "start_ms": 1198480,
+   "end_ms": 1200080,
+   "snippet": "explain this a little bit more right and",
+   "start_time_text": "19:58",
+   "start_time_label": "19:58"
+  },
+  {
+   "start_ms": 1200080,
+   "end_ms": 1202720,
+   "snippet": "this is an important point now I keep on",
+   "start_time_text": "20:00",
+   "start_time_label": "20:00"
+  },
+  {
+   "start_ms": 1202720,
+   "end_ms": 1204320,
+   "snippet": "reading like a lot of commentary that",
+   "start_time_text": "20:02",
+   "start_time_label": "20:02"
+  },
+  {
+   "start_ms": 1204320,
+   "end_ms": 1207280,
+   "snippet": "you know what you should not buy a",
+   "start_time_text": "20:04",
+   "start_time_label": "20:04"
+  },
+  {
+   "start_ms": 1207280,
+   "end_ms": 1210080,
+   "snippet": "You know what? You should not buy gold.",
+   "start_time_text": "20:07",
+   "start_time_label": "20:07"
+  },
+  {
+   "start_ms": 1210080,
+   "end_ms": 1211440,
+   "snippet": "You know what? You should not buy",
+   "start_time_text": "20:10",
+   "start_time_label": "20:10"
+  },
+  {
+   "start_ms": 1211440,
+   "end_ms": 1214320,
+   "snippet": "crypto. Okay? Or you know what you",
+   "start_time_text": "20:11",
+   "start_time_label": "20:11"
+  },
+  {
+   "start_ms": 1214320,
+   "end_ms": 1216799,
+   "snippet": "should not buy like AI stocks. See",
+   "start_time_text": "20:14",
+   "start_time_label": "20:14"
+  },
+  {
+   "start_ms": 1216799,
+   "end_ms": 1218480,
+   "snippet": "number one, right? People who are just",
+   "start_time_text": "20:16",
+   "start_time_label": "20:16"
+  },
+  {
+   "start_ms": 1218480,
+   "end_ms": 1221280,
+   "snippet": "yapping just ignore them, right? They",
+   "start_time_text": "20:18",
+   "start_time_label": "20:18"
+  },
+  {
+   "start_ms": 1221280,
+   "end_ms": 1223440,
+   "snippet": "are not investing one rupee of their uh",
+   "start_time_text": "20:21",
+   "start_time_label": "20:21"
+  },
+  {
+   "start_ms": 1223440,
+   "end_ms": 1224799,
+   "snippet": "you know whatever network right on",
+   "start_time_text": "20:23",
+   "start_time_label": "20:23"
+  },
+  {
+   "start_ms": 1224799,
+   "end_ms": 1226640,
+   "snippet": "anything and they just have opinions on",
+   "start_time_text": "20:24",
+   "start_time_label": "20:24"
+  },
+  {
+   "start_ms": 1226640,
+   "end_ms": 1228400,
+   "snippet": "everything. What you need to understand",
+   "start_time_text": "20:26",
+   "start_time_label": "20:26"
+  },
+  {
+   "start_ms": 1228400,
+   "end_ms": 1230960,
+   "snippet": "is that every portfolio is designed",
+   "start_time_text": "20:28",
+   "start_time_label": "20:28"
+  },
+  {
+   "start_ms": 1230960,
+   "end_ms": 1234400,
+   "snippet": "differently. In my case, I keep like I'm",
+   "start_time_text": "20:30",
+   "start_time_label": "20:30"
+  },
+  {
+   "start_ms": 1234400,
+   "end_ms": 1237120,
+   "snippet": "talking at a meta level. I keep 70% of",
+   "start_time_text": "20:34",
+   "start_time_label": "20:34"
+  },
+  {
+   "start_ms": 1237120,
+   "end_ms": 1240480,
+   "snippet": "my money in equities, 30% of my money in",
+   "start_time_text": "20:37",
+   "start_time_label": "20:37"
+  },
+  {
+   "start_ms": 1240480,
+   "end_ms": 1243280,
+   "snippet": "other assets. These are non-correlated",
+   "start_time_text": "20:40",
+   "start_time_label": "20:40"
+  },
+  {
+   "start_ms": 1243280,
+   "end_ms": 1245440,
+   "snippet": "assets. For example, if I'm buying real",
+   "start_time_text": "20:43",
+   "start_time_label": "20:43"
+  },
+  {
+   "start_ms": 1245440,
+   "end_ms": 1247600,
+   "snippet": "estate, Goa real estate, I own a lot.",
+   "start_time_text": "20:45",
+   "start_time_label": "20:45"
+  },
+  {
+   "start_ms": 1247600,
+   "end_ms": 1249840,
+   "snippet": "I'm very bullish. It is already done",
+   "start_time_text": "20:47",
+   "start_time_label": "20:47"
+  },
+  {
+   "start_ms": 1249840,
+   "end_ms": 1251120,
+   "snippet": "exceptionally well. I don't know what",
+   "start_time_text": "20:49",
+   "start_time_label": "20:49"
+  },
+  {
+   "start_ms": 1251120,
+   "end_ms": 1252559,
+   "snippet": "kind of idiots like show up on like",
+   "start_time_text": "20:51",
+   "start_time_label": "20:51"
+  },
+  {
+   "start_ms": 1252559,
+   "end_ms": 1255679,
+   "snippet": "Twitter Goa and all that stuff you try",
+   "start_time_text": "20:52",
+   "start_time_label": "20:52"
+  },
+  {
+   "start_ms": 1255679,
+   "end_ms": 1257600,
+   "snippet": "to buy. Okay. Something in Goa, South",
+   "start_time_text": "20:55",
+   "start_time_label": "20:55"
+  },
+  {
+   "start_ms": 1257600,
+   "end_ms": 1259679,
+   "snippet": "Gu. Okay. Nothing nothing in north. So,",
+   "start_time_text": "20:57",
+   "start_time_label": "20:57"
+  },
+  {
+   "start_ms": 1259679,
+   "end_ms": 1261280,
+   "snippet": "this is where I own my properties,",
+   "start_time_text": "20:59",
+   "start_time_label": "20:59"
+  },
+  {
+   "start_ms": 1261280,
+   "end_ms": 1263200,
+   "snippet": "right? And uh they have done very well,",
+   "start_time_text": "21:01",
+   "start_time_label": "21:01"
+  },
+  {
+   "start_ms": 1263200,
+   "end_ms": 1264640,
+   "snippet": "right? No problem. Right. For example,",
+   "start_time_text": "21:03",
+   "start_time_label": "21:03"
+  },
+  {
+   "start_ms": 1264640,
+   "end_ms": 1267280,
+   "snippet": "in Dubai, I already bought already",
+   "start_time_text": "21:04",
+   "start_time_label": "21:04"
+  },
+  {
+   "start_ms": 1267280,
+   "end_ms": 1269600,
+   "snippet": "constructed properties, right? Not under",
+   "start_time_text": "21:07",
+   "start_time_label": "21:07"
+  },
+  {
+   "start_ms": 1269600,
+   "end_ms": 1271039,
+   "snippet": "construction properties, which I",
+   "start_time_text": "21:09",
+   "start_time_label": "21:09"
+  },
+  {
+   "start_ms": 1271039,
+   "end_ms": 1273520,
+   "snippet": "forewarned people under construction,",
+   "start_time_text": "21:11",
+   "start_time_label": "21:11"
+  },
+  {
+   "start_ms": 1273520,
+   "end_ms": 1275120,
+   "snippet": "right? I mean, payment link plan and all",
+   "start_time_text": "21:13",
+   "start_time_label": "21:13"
+  },
+  {
+   "start_ms": 1275120,
+   "end_ms": 1276480,
+   "snippet": "that stuff anywhere in the world, right?",
+   "start_time_text": "21:15",
+   "start_time_label": "21:15"
+  },
+  {
+   "start_ms": 1276480,
+   "end_ms": 1279039,
+   "snippet": "I does not make sense. So, okay. So,",
+   "start_time_text": "21:16",
+   "start_time_label": "21:16"
+  },
+  {
+   "start_ms": 1279039,
+   "end_ms": 1280960,
+   "snippet": "bottom line being that this correlation",
+   "start_time_text": "21:19",
+   "start_time_label": "21:19"
+  },
+  {
+   "start_ms": 1280960,
+   "end_ms": 1282720,
+   "snippet": "for me, the way I have developed this",
+   "start_time_text": "21:20",
+   "start_time_label": "21:20"
+  },
+  {
+   "start_ms": 1282720,
+   "end_ms": 1286640,
+   "snippet": "correlation is let's see my core growth",
+   "start_time_text": "21:22",
+   "start_time_label": "21:22"
+  },
+  {
+   "start_ms": 1286640,
+   "end_ms": 1288880,
+   "snippet": "engine will be equities, 70% equities,",
+   "start_time_text": "21:26",
+   "start_time_label": "21:26"
+  },
+  {
+   "start_ms": 1288880,
+   "end_ms": 1290960,
+   "snippet": "right? 70 75. If I'm getting a great",
+   "start_time_text": "21:28",
+   "start_time_label": "21:28"
+  },
+  {
+   "start_ms": 1290960,
+   "end_ms": 1292880,
+   "snippet": "deal that okay equitying market is",
+   "start_time_text": "21:30",
+   "start_time_label": "21:30"
+  },
+  {
+   "start_ms": 1292880,
+   "end_ms": 1296720,
+   "snippet": "deeply uh destroyed right so massive uh",
+   "start_time_text": "21:32",
+   "start_time_label": "21:32"
+  },
+  {
+   "start_ms": 1296720,
+   "end_ms": 1298400,
+   "snippet": "discounts going on then I might push it",
+   "start_time_text": "21:36",
+   "start_time_label": "21:36"
+  },
+  {
+   "start_ms": 1298400,
+   "end_ms": 1301120,
+   "snippet": "to like 85 90%. That is when I would try",
+   "start_time_text": "21:38",
+   "start_time_label": "21:38"
+  },
+  {
+   "start_ms": 1301120,
+   "end_ms": 1302799,
+   "snippet": "to liquidate some of my real estate or",
+   "start_time_text": "21:41",
+   "start_time_label": "21:41"
+  },
+  {
+   "start_ms": 1302799,
+   "end_ms": 1304799,
+   "snippet": "whatever it is okay or I will borrow",
+   "start_time_text": "21:42",
+   "start_time_label": "21:42"
+  },
+  {
+   "start_ms": 1304799,
+   "end_ms": 1306559,
+   "snippet": "against it right I will not liquidate it",
+   "start_time_text": "21:44",
+   "start_time_label": "21:44"
+  },
+  {
+   "start_ms": 1306559,
+   "end_ms": 1308080,
+   "snippet": "I have not liquidated any of my real",
+   "start_time_text": "21:46",
+   "start_time_label": "21:46"
+  },
+  {
+   "start_ms": 1308080,
+   "end_ms": 1310559,
+   "snippet": "estates but hypothetically if I were to",
+   "start_time_text": "21:48",
+   "start_time_label": "21:48"
+  },
+  {
+   "start_ms": 1310559,
+   "end_ms": 1312080,
+   "snippet": "liquidate that is a time I would",
+   "start_time_text": "21:50",
+   "start_time_label": "21:50"
+  },
+  {
+   "start_ms": 1312080,
+   "end_ms": 1314480,
+   "snippet": "consider liquidating it but I can always",
+   "start_time_text": "21:52",
+   "start_time_label": "21:52"
+  },
+  {
+   "start_ms": 1314480,
+   "end_ms": 1316400,
+   "snippet": "borrow against my real estate. So out of",
+   "start_time_text": "21:54",
+   "start_time_label": "21:54"
+  },
+  {
+   "start_ms": 1316400,
+   "end_ms": 1319280,
+   "snippet": "this 30% almost like except for 5%",
+   "start_time_text": "21:56",
+   "start_time_label": "21:56"
+  },
+  {
+   "start_ms": 1319280,
+   "end_ms": 1322080,
+   "snippet": "cryptos and maybe like 2% gold or",
+   "start_time_text": "21:59",
+   "start_time_label": "21:59"
+  },
+  {
+   "start_ms": 1322080,
+   "end_ms": 1324000,
+   "snippet": "something right all is real estate right",
+   "start_time_text": "22:02",
+   "start_time_label": "22:02"
+  },
+  {
+   "start_ms": 1324000,
+   "end_ms": 1325919,
+   "snippet": "so most of it is real estate only in",
+   "start_time_text": "22:04",
+   "start_time_label": "22:04"
+  },
+  {
+   "start_ms": 1325919,
+   "end_ms": 1329039,
+   "snippet": "this 30% bucket because I can leverage",
+   "start_time_text": "22:05",
+   "start_time_label": "22:05"
+  },
+  {
+   "start_ms": 1329039,
+   "end_ms": 1331679,
+   "snippet": "my real estate and borrow against it I'm",
+   "start_time_text": "22:09",
+   "start_time_label": "22:09"
+  },
+  {
+   "start_ms": 1331679,
+   "end_ms": 1333440,
+   "snippet": "completely debt free right so I can",
+   "start_time_text": "22:11",
+   "start_time_label": "22:11"
+  },
+  {
+   "start_ms": 1333440,
+   "end_ms": 1335360,
+   "snippet": "always play this game right so this is",
+   "start_time_text": "22:13",
+   "start_time_label": "22:13"
+  },
+  {
+   "start_ms": 1335360,
+   "end_ms": 1338000,
+   "snippet": "called as creating like assets that will",
+   "start_time_text": "22:15",
+   "start_time_label": "22:15"
+  },
+  {
+   "start_ms": 1338000,
+   "end_ms": 1340480,
+   "snippet": "survive in any condition right now",
+   "start_time_text": "22:18",
+   "start_time_label": "22:18"
+  },
+  {
+   "start_ms": 1340480,
+   "end_ms": 1342240,
+   "snippet": "depending on your portfolio size for",
+   "start_time_text": "22:20",
+   "start_time_label": "22:20"
+  },
+  {
+   "start_ms": 1342240,
+   "end_ms": 1343840,
+   "snippet": "example you might say that you know what",
+   "start_time_text": "22:22",
+   "start_time_label": "22:22"
+  },
+  {
+   "start_ms": 1343840,
+   "end_ms": 1346000,
+   "snippet": "I cannot buy like real estate fine Don't",
+   "start_time_text": "22:23",
+   "start_time_label": "22:23"
+  },
+  {
+   "start_ms": 1346000,
+   "end_ms": 1348320,
+   "snippet": "do it. Okay. The idea is again that you",
+   "start_time_text": "22:26",
+   "start_time_label": "22:26"
+  },
+  {
+   "start_ms": 1348320,
+   "end_ms": 1350559,
+   "snippet": "keep your core engine let's say 70% of",
+   "start_time_text": "22:28",
+   "start_time_label": "22:28"
+  },
+  {
+   "start_ms": 1350559,
+   "end_ms": 1353280,
+   "snippet": "your portfolio equities and 30% money",
+   "start_time_text": "22:30",
+   "start_time_label": "22:30"
+  },
+  {
+   "start_ms": 1353280,
+   "end_ms": 1355679,
+   "snippet": "you can buy like maybe you know 5% gold",
+   "start_time_text": "22:33",
+   "start_time_label": "22:33"
+  },
+  {
+   "start_ms": 1355679,
+   "end_ms": 1359760,
+   "snippet": "right you can buy like 5% BTC right you",
+   "start_time_text": "22:35",
+   "start_time_label": "22:35"
+  },
+  {
+   "start_ms": 1359760,
+   "end_ms": 1362240,
+   "snippet": "can buy like uh some REITs right if",
+   "start_time_text": "22:39",
+   "start_time_label": "22:39"
+  },
+  {
+   "start_ms": 1362240,
+   "end_ms": 1364400,
+   "snippet": "you're living in uh developed countries",
+   "start_time_text": "22:42",
+   "start_time_label": "22:42"
+  },
+  {
+   "start_ms": 1364400,
+   "end_ms": 1366400,
+   "snippet": "then REITs is a good option not in India",
+   "start_time_text": "22:44",
+   "start_time_label": "22:44"
+  },
+  {
+   "start_ms": 1366400,
+   "end_ms": 1368880,
+   "snippet": "in India it's not a good option uh maybe",
+   "start_time_text": "22:46",
+   "start_time_label": "22:46"
+  },
+  {
+   "start_ms": 1368880,
+   "end_ms": 1370880,
+   "snippet": "separate video so all this can be done",
+   "start_time_text": "22:48",
+   "start_time_label": "22:48"
+  },
+  {
+   "start_ms": 1370880,
+   "end_ms": 1372799,
+   "snippet": "and you don't require crazy ton of money",
+   "start_time_text": "22:50",
+   "start_time_label": "22:50"
+  },
+  {
+   "start_ms": 1372799,
+   "end_ms": 1374720,
+   "snippet": "to do this okay so this is called as",
+   "start_time_text": "22:52",
+   "start_time_label": "22:52"
+  },
+  {
+   "start_ms": 1374720,
+   "end_ms": 1376559,
+   "snippet": "creating correlation between your",
+   "start_time_text": "22:54",
+   "start_time_label": "22:54"
+  },
+  {
+   "start_ms": 1376559,
+   "end_ms": 1378240,
+   "snippet": "assets. This brings us to the next point",
+   "start_time_text": "22:56",
+   "start_time_label": "22:56"
+  },
+  {
+   "start_ms": 1378240,
+   "end_ms": 1379760,
+   "snippet": "that hey, if you are sitting on a",
+   "start_time_text": "22:58",
+   "start_time_label": "22:58"
+  },
+  {
+   "start_ms": 1379760,
+   "end_ms": 1382720,
+   "snippet": "portfolio where the tail risk is very",
+   "start_time_text": "22:59",
+   "start_time_label": "22:59"
+  },
+  {
+   "start_ms": 1382720,
+   "end_ms": 1384080,
+   "snippet": "high. Now what is the meaning of tail",
+   "start_time_text": "23:02",
+   "start_time_label": "23:02"
+  },
+  {
+   "start_ms": 1384080,
+   "end_ms": 1385840,
+   "snippet": "risk? So tail risk means that for",
+   "start_time_text": "23:04",
+   "start_time_label": "23:04"
+  },
+  {
+   "start_ms": 1385840,
+   "end_ms": 1388320,
+   "snippet": "example 100% of your portfolio is Indian",
+   "start_time_text": "23:05",
+   "start_time_label": "23:05"
+  },
+  {
+   "start_ms": 1388320,
+   "end_ms": 1391200,
+   "snippet": "equities. Okay, Indian equities. Now",
+   "start_time_text": "23:08",
+   "start_time_label": "23:08"
+  },
+  {
+   "start_ms": 1391200,
+   "end_ms": 1393520,
+   "snippet": "what is the tail risk? Now tail risk",
+   "start_time_text": "23:11",
+   "start_time_label": "23:11"
+  },
+  {
+   "start_ms": 1393520,
+   "end_ms": 1396720,
+   "snippet": "means that some event happens and this",
+   "start_time_text": "23:13",
+   "start_time_label": "23:13"
+  },
+  {
+   "start_ms": 1396720,
+   "end_ms": 1399280,
+   "snippet": "entire portfolio gets badly hit. For",
+   "start_time_text": "23:16",
+   "start_time_label": "23:16"
+  },
+  {
+   "start_ms": 1399280,
+   "end_ms": 1401600,
+   "snippet": "example, last two years series of events",
+   "start_time_text": "23:19",
+   "start_time_label": "23:19"
+  },
+  {
+   "start_ms": 1401600,
+   "end_ms": 1403840,
+   "snippet": "happened. For example, oil price shock,",
+   "start_time_text": "23:21",
+   "start_time_label": "23:21"
+  },
+  {
+   "start_ms": 1403840,
+   "end_ms": 1406159,
+   "snippet": "Middle East shock, we had inflation",
+   "start_time_text": "23:23",
+   "start_time_label": "23:23"
+  },
+  {
+   "start_ms": 1406159,
+   "end_ms": 1408720,
+   "snippet": "issues in the Indian economy, we had",
+   "start_time_text": "23:26",
+   "start_time_label": "23:26"
+  },
+  {
+   "start_ms": 1408720,
+   "end_ms": 1411120,
+   "snippet": "policy issues in the Indian economy,",
+   "start_time_text": "23:28",
+   "start_time_label": "23:28"
+  },
+  {
+   "start_ms": 1411120,
+   "end_ms": 1413600,
+   "snippet": "rupee depreciation, what not. So, series",
+   "start_time_text": "23:31",
+   "start_time_label": "23:31"
+  },
+  {
+   "start_ms": 1413600,
+   "end_ms": 1416400,
+   "snippet": "of things hit, right? And yeah, last two",
+   "start_time_text": "23:33",
+   "start_time_label": "23:33"
+  },
+  {
+   "start_ms": 1416400,
+   "end_ms": 1419200,
+   "snippet": "years have been really bad, right? So,",
+   "start_time_text": "23:36",
+   "start_time_label": "23:36"
+  },
+  {
+   "start_ms": 1419200,
+   "end_ms": 1421120,
+   "snippet": "anyone who was investing 100% money in",
+   "start_time_text": "23:39",
+   "start_time_label": "23:39"
+  },
+  {
+   "start_ms": 1421120,
+   "end_ms": 1422960,
+   "snippet": "the Indian equities suffered really",
+   "start_time_text": "23:41",
+   "start_time_label": "23:41"
+  },
+  {
+   "start_ms": 1422960,
+   "end_ms": 1425120,
+   "snippet": "badly. Almost every fund suffered. Now,",
+   "start_time_text": "23:42",
+   "start_time_label": "23:42"
+  },
+  {
+   "start_ms": 1425120,
+   "end_ms": 1426480,
+   "snippet": "you can always take like handful of",
+   "start_time_text": "23:45",
+   "start_time_label": "23:45"
+  },
+  {
+   "start_ms": 1426480,
+   "end_ms": 1428559,
+   "snippet": "examples that out of like you know 500",
+   "start_time_text": "23:46",
+   "start_time_label": "23:46"
+  },
+  {
+   "start_ms": 1428559,
+   "end_ms": 1430480,
+   "snippet": "funds, these three funds are that's not",
+   "start_time_text": "23:48",
+   "start_time_label": "23:48"
+  },
+  {
+   "start_ms": 1430480,
+   "end_ms": 1431919,
+   "snippet": "the point, okay? I'm just explaining you",
+   "start_time_text": "23:50",
+   "start_time_label": "23:50"
+  },
+  {
+   "start_ms": 1431919,
+   "end_ms": 1434000,
+   "snippet": "a larger concept based on which you need",
+   "start_time_text": "23:51",
+   "start_time_label": "23:51"
+  },
+  {
+   "start_ms": 1434000,
+   "end_ms": 1435919,
+   "snippet": "to develop things. Okay. So long story",
+   "start_time_text": "23:54",
+   "start_time_label": "23:54"
+  },
+  {
+   "start_ms": 1435919,
+   "end_ms": 1438799,
+   "snippet": "short, you need to figure out a way to",
+   "start_time_text": "23:55",
+   "start_time_label": "23:55"
+  },
+  {
+   "start_ms": 1438799,
+   "end_ms": 1441200,
+   "snippet": "mitigate tail risks. Okay. Now what is",
+   "start_time_text": "23:58",
+   "start_time_label": "23:58"
+  },
+  {
+   "start_ms": 1441200,
+   "end_ms": 1442799,
+   "snippet": "the way to do this? So for example,",
+   "start_time_text": "24:01",
+   "start_time_label": "24:01"
+  },
+  {
+   "start_ms": 1442799,
+   "end_ms": 1445600,
+   "snippet": "let's say that you have 100% of your",
+   "start_time_text": "24:02",
+   "start_time_label": "24:02"
+  },
+  {
+   "start_ms": 1445600,
+   "end_ms": 1447919,
+   "snippet": "allocation in the US market, right? For",
+   "start_time_text": "24:05",
+   "start_time_label": "24:05"
+  },
+  {
+   "start_ms": 1447919,
+   "end_ms": 1450720,
+   "snippet": "example, I have 100% allocation, right?",
+   "start_time_text": "24:07",
+   "start_time_label": "24:07"
+  },
+  {
+   "start_ms": 1450720,
+   "end_ms": 1452320,
+   "snippet": "I mean the portfolio that I showed you",
+   "start_time_text": "24:10",
+   "start_time_label": "24:10"
+  },
+  {
+   "start_ms": 1452320,
+   "end_ms": 1455200,
+   "snippet": "$1 million uh that was in the US market.",
+   "start_time_text": "24:12",
+   "start_time_label": "24:12"
+  },
+  {
+   "start_ms": 1455200,
+   "end_ms": 1458240,
+   "snippet": "Okay? And what type tech? So what is it",
+   "start_time_text": "24:15",
+   "start_time_label": "24:15"
+  },
+  {
+   "start_ms": 1458240,
+   "end_ms": 1460240,
+   "snippet": "that I should do? Well, I should",
+   "start_time_text": "24:18",
+   "start_time_label": "24:18"
+  },
+  {
+   "start_ms": 1460240,
+   "end_ms": 1463120,
+   "snippet": "understand my hedges well. Okay. So, I",
+   "start_time_text": "24:20",
+   "start_time_label": "24:20"
+  },
+  {
+   "start_ms": 1463120,
+   "end_ms": 1465840,
+   "snippet": "should have hedges which will not get",
+   "start_time_text": "24:23",
+   "start_time_label": "24:23"
+  },
+  {
+   "start_ms": 1465840,
+   "end_ms": 1469200,
+   "snippet": "hit in case something happens in the US.",
+   "start_time_text": "24:25",
+   "start_time_label": "24:25"
+  },
+  {
+   "start_ms": 1469200,
+   "end_ms": 1471440,
+   "snippet": "Right? Now, many people are talking",
+   "start_time_text": "24:29",
+   "start_time_label": "24:29"
+  },
+  {
+   "start_ms": 1471440,
+   "end_ms": 1473679,
+   "snippet": "about the fact that you know what US has",
+   "start_time_text": "24:31",
+   "start_time_label": "24:31"
+  },
+  {
+   "start_ms": 1473679,
+   "end_ms": 1475360,
+   "snippet": "too much debt, dead bubble will burst.",
+   "start_time_text": "24:33",
+   "start_time_label": "24:33"
+  },
+  {
+   "start_ms": 1475360,
+   "end_ms": 1477120,
+   "snippet": "See guys, I mean you are talking about",
+   "start_time_text": "24:35",
+   "start_time_label": "24:35"
+  },
+  {
+   "start_ms": 1477120,
+   "end_ms": 1479200,
+   "snippet": "you know what asteroid",
+   "start_time_text": "24:37",
+   "start_time_label": "24:37"
+  },
+  {
+   "start_ms": 1479200,
+   "end_ms": 1481039,
+   "snippet": "right and then you know suddenly earth",
+   "start_time_text": "24:39",
+   "start_time_label": "24:39"
+  },
+  {
+   "start_ms": 1481039,
+   "end_ms": 1483039,
+   "snippet": "goes away.",
+   "start_time_text": "24:41",
+   "start_time_label": "24:41"
+  },
+  {
+   "start_ms": 1483039,
+   "end_ms": 1484720,
+   "snippet": "That's not the point I'm talking about.",
+   "start_time_text": "24:43",
+   "start_time_label": "24:43"
+  },
+  {
+   "start_ms": 1484720,
+   "end_ms": 1487600,
+   "snippet": "Okay? I'm talking about things that are",
+   "start_time_text": "24:44",
+   "start_time_label": "24:44"
+  },
+  {
+   "start_ms": 1487600,
+   "end_ms": 1489200,
+   "snippet": "more likely. Okay? So that's how you",
+   "start_time_text": "24:47",
+   "start_time_label": "24:47"
+  },
+  {
+   "start_ms": 1489200,
+   "end_ms": 1491360,
+   "snippet": "develop a portfolio. So here hedges that",
+   "start_time_text": "24:49",
+   "start_time_label": "24:49"
+  },
+  {
+   "start_ms": 1491360,
+   "end_ms": 1493679,
+   "snippet": "I will have right is for example the",
+   "start_time_text": "24:51",
+   "start_time_label": "24:51"
+  },
+  {
+   "start_ms": 1493679,
+   "end_ms": 1496640,
+   "snippet": "biggest risk that I see right now is the",
+   "start_time_text": "24:53",
+   "start_time_label": "24:53"
+  },
+  {
+   "start_ms": 1496640,
+   "end_ms": 1499039,
+   "snippet": "valuation risk. Okay, valuations can",
+   "start_time_text": "24:56",
+   "start_time_label": "24:56"
+  },
+  {
+   "start_ms": 1499039,
+   "end_ms": 1501360,
+   "snippet": "always jump up, pull down, jump up, pull",
+   "start_time_text": "24:59",
+   "start_time_label": "24:59"
+  },
+  {
+   "start_ms": 1501360,
+   "end_ms": 1503919,
+   "snippet": "down. So when I start seeing this risk",
+   "start_time_text": "25:01",
+   "start_time_label": "25:01"
+  },
+  {
+   "start_ms": 1503919,
+   "end_ms": 1506480,
+   "snippet": "play out more, I will simply go and buy",
+   "start_time_text": "25:03",
+   "start_time_label": "25:03"
+  },
+  {
+   "start_ms": 1506480,
+   "end_ms": 1508880,
+   "snippet": "put options on QQQ. That's my hedging",
+   "start_time_text": "25:06",
+   "start_time_label": "25:06"
+  },
+  {
+   "start_ms": 1508880,
+   "end_ms": 1511360,
+   "snippet": "strategy. This prevents me from that",
+   "start_time_text": "25:08",
+   "start_time_label": "25:08"
+  },
+  {
+   "start_ms": 1511360,
+   "end_ms": 1514159,
+   "snippet": "tail risk. On top of that, what is my",
+   "start_time_text": "25:11",
+   "start_time_label": "25:11"
+  },
+  {
+   "start_ms": 1514159,
+   "end_ms": 1516720,
+   "snippet": "other way of managing my tail risk?",
+   "start_time_text": "25:14",
+   "start_time_label": "25:14"
+  },
+  {
+   "start_ms": 1516720,
+   "end_ms": 1519919,
+   "snippet": "Well, the 30% portfolio I have, this is",
+   "start_time_text": "25:16",
+   "start_time_label": "25:16"
+  },
+  {
+   "start_ms": 1519919,
+   "end_ms": 1522880,
+   "snippet": "big enough for me to manage my expenses,",
+   "start_time_text": "25:19",
+   "start_time_label": "25:19"
+  },
+  {
+   "start_ms": 1522880,
+   "end_ms": 1524159,
+   "snippet": "bunch of other different things. So,",
+   "start_time_text": "25:22",
+   "start_time_label": "25:22"
+  },
+  {
+   "start_ms": 1524159,
+   "end_ms": 1526880,
+   "snippet": "even if this 70% portfolio gets hit at",
+   "start_time_text": "25:24",
+   "start_time_label": "25:24"
+  },
+  {
+   "start_ms": 1526880,
+   "end_ms": 1528960,
+   "snippet": "some point, it's okay. It will hurt me.",
+   "start_time_text": "25:26",
+   "start_time_label": "25:26"
+  },
+  {
+   "start_ms": 1528960,
+   "end_ms": 1531600,
+   "snippet": "No doubt about that. But it's not as if",
+   "start_time_text": "25:28",
+   "start_time_label": "25:28"
+  },
+  {
+   "start_ms": 1531600,
+   "end_ms": 1533600,
+   "snippet": "that I need to sell it at a loss. Okay?",
+   "start_time_text": "25:31",
+   "start_time_label": "25:31"
+  },
+  {
+   "start_ms": 1533600,
+   "end_ms": 1535840,
+   "snippet": "So, this is something that I don't need",
+   "start_time_text": "25:33",
+   "start_time_label": "25:33"
+  },
+  {
+   "start_ms": 1535840,
+   "end_ms": 1538000,
+   "snippet": "to worry about too much. Okay? So, this",
+   "start_time_text": "25:35",
+   "start_time_label": "25:35"
+  },
+  {
+   "start_ms": 1538000,
+   "end_ms": 1540880,
+   "snippet": "is my tail risk management event. Now,",
+   "start_time_text": "25:38",
+   "start_time_label": "25:38"
+  },
+  {
+   "start_ms": 1540880,
+   "end_ms": 1542640,
+   "snippet": "what is a poor tail risk management?",
+   "start_time_text": "25:40",
+   "start_time_label": "25:40"
+  },
+  {
+   "start_ms": 1542640,
+   "end_ms": 1544640,
+   "snippet": "Now, poor tail risk management means and",
+   "start_time_text": "25:42",
+   "start_time_label": "25:42"
+  },
+  {
+   "start_ms": 1544640,
+   "end_ms": 1546000,
+   "snippet": "I was talking to one of my clients,",
+   "start_time_text": "25:44",
+   "start_time_label": "25:44"
+  },
+  {
+   "start_ms": 1546000,
+   "end_ms": 1547679,
+   "snippet": "right? His point was that you know what",
+   "start_time_text": "25:46",
+   "start_time_label": "25:46"
+  },
+  {
+   "start_ms": 1547679,
+   "end_ms": 1549840,
+   "snippet": "I have a million dollar portfolio and",
+   "start_time_text": "25:47",
+   "start_time_label": "25:47"
+  },
+  {
+   "start_ms": 1549840,
+   "end_ms": 1552000,
+   "snippet": "right now I will go and borrow one more",
+   "start_time_text": "25:49",
+   "start_time_label": "25:49"
+  },
+  {
+   "start_ms": 1552000,
+   "end_ms": 1554080,
+   "snippet": "million dollars and invest in like",
+   "start_time_text": "25:52",
+   "start_time_label": "25:52"
+  },
+  {
+   "start_ms": 1554080,
+   "end_ms": 1556240,
+   "snippet": "Google stock because it is down like 20",
+   "start_time_text": "25:54",
+   "start_time_label": "25:54"
+  },
+  {
+   "start_ms": 1556240,
+   "end_ms": 1558720,
+   "snippet": "25% from its peak. Now this is a tail",
+   "start_time_text": "25:56",
+   "start_time_label": "25:56"
+  },
+  {
+   "start_ms": 1558720,
+   "end_ms": 1560720,
+   "snippet": "risk you can't manage. Why? Because if",
+   "start_time_text": "25:58",
+   "start_time_label": "25:58"
+  },
+  {
+   "start_ms": 1560720,
+   "end_ms": 1562559,
+   "snippet": "Google falls another 30 40%",
+   "start_time_text": "26:00",
+   "start_time_label": "26:00"
+  },
+  {
+   "start_ms": 1562559,
+   "end_ms": 1565200,
+   "snippet": "hypothetically and it can okay then what",
+   "start_time_text": "26:02",
+   "start_time_label": "26:02"
+  },
+  {
+   "start_ms": 1565200,
+   "end_ms": 1568000,
+   "snippet": "happens? you are still liable to pay",
+   "start_time_text": "26:05",
+   "start_time_label": "26:05"
+  },
+  {
+   "start_ms": 1568000,
+   "end_ms": 1569679,
+   "snippet": "your borrowings right the money that you",
+   "start_time_text": "26:08",
+   "start_time_label": "26:08"
+  },
+  {
+   "start_ms": 1569679,
+   "end_ms": 1571360,
+   "snippet": "have borrowed from the bank or whatever",
+   "start_time_text": "26:09",
+   "start_time_label": "26:09"
+  },
+  {
+   "start_ms": 1571360,
+   "end_ms": 1573279,
+   "snippet": "you have to pay interest on it and plus",
+   "start_time_text": "26:11",
+   "start_time_label": "26:11"
+  },
+  {
+   "start_ms": 1573279,
+   "end_ms": 1575279,
+   "snippet": "your core holding has shrunk and if you",
+   "start_time_text": "26:13",
+   "start_time_label": "26:13"
+  },
+  {
+   "start_ms": 1575279,
+   "end_ms": 1576720,
+   "snippet": "don't have a bigger outer base for",
+   "start_time_text": "26:15",
+   "start_time_label": "26:15"
+  },
+  {
+   "start_ms": 1576720,
+   "end_ms": 1578720,
+   "snippet": "example my 30% base is big enough for me",
+   "start_time_text": "26:16",
+   "start_time_label": "26:16"
+  },
+  {
+   "start_ms": 1578720,
+   "end_ms": 1580720,
+   "snippet": "to protect okay and you're completely",
+   "start_time_text": "26:18",
+   "start_time_label": "26:18"
+  },
+  {
+   "start_ms": 1580720,
+   "end_ms": 1582559,
+   "snippet": "dependent on your stock income then you",
+   "start_time_text": "26:20",
+   "start_time_label": "26:20"
+  },
+  {
+   "start_ms": 1582559,
+   "end_ms": 1584400,
+   "snippet": "are wiped out okay so that is when",
+   "start_time_text": "26:22",
+   "start_time_label": "26:22"
+  },
+  {
+   "start_ms": 1584400,
+   "end_ms": 1586480,
+   "snippet": "margin calls come and you can't service",
+   "start_time_text": "26:24",
+   "start_time_label": "26:24"
+  },
+  {
+   "start_ms": 1586480,
+   "end_ms": 1587919,
+   "snippet": "and you have to sell your already",
+   "start_time_text": "26:26",
+   "start_time_label": "26:26"
+  },
+  {
+   "start_ms": 1587919,
+   "end_ms": 1589919,
+   "snippet": "existing assets at a distress and that",
+   "start_time_text": "26:27",
+   "start_time_label": "26:27"
+  },
+  {
+   "start_ms": 1589919,
+   "end_ms": 1592159,
+   "snippet": "leads to horrendous things okay so",
+   "start_time_text": "26:29",
+   "start_time_label": "26:29"
+  },
+  {
+   "start_ms": 1592159,
+   "end_ms": 1594240,
+   "snippet": "that's the problem okay which brings us",
+   "start_time_text": "26:32",
+   "start_time_label": "26:32"
+  },
+  {
+   "start_ms": 1594240,
+   "end_ms": 1596080,
+   "snippet": "to the next important point which has to",
+   "start_time_text": "26:34",
+   "start_time_label": "26:34"
+  },
+  {
+   "start_ms": 1596080,
+   "end_ms": 1598480,
+   "snippet": "do with something called as core",
+   "start_time_text": "26:36",
+   "start_time_label": "26:36"
+  },
+  {
+   "start_ms": 1598480,
+   "end_ms": 1600640,
+   "snippet": "investing thesis. Okay. Now what is the",
+   "start_time_text": "26:38",
+   "start_time_label": "26:38"
+  },
+  {
+   "start_ms": 1600640,
+   "end_ms": 1603039,
+   "snippet": "meaning of core investing thesis? See",
+   "start_time_text": "26:40",
+   "start_time_label": "26:40"
+  },
+  {
+   "start_ms": 1603039,
+   "end_ms": 1606000,
+   "snippet": "all of us invest money with a certain",
+   "start_time_text": "26:43",
+   "start_time_label": "26:43"
+  },
+  {
+   "start_ms": 1606000,
+   "end_ms": 1608159,
+   "snippet": "vision in mind for and the vision is not",
+   "start_time_text": "26:46",
+   "start_time_label": "26:46"
+  },
+  {
+   "start_ms": 1608159,
+   "end_ms": 1611279,
+   "snippet": "that magic of compounding la no nothing",
+   "start_time_text": "26:48",
+   "start_time_label": "26:48"
+  },
+  {
+   "start_ms": 1611279,
+   "end_ms": 1613520,
+   "snippet": "of that stuff right that's a brain dead",
+   "start_time_text": "26:51",
+   "start_time_label": "26:51"
+  },
+  {
+   "start_ms": 1613520,
+   "end_ms": 1615760,
+   "snippet": "people game okay that's not what core",
+   "start_time_text": "26:53",
+   "start_time_label": "26:53"
+  },
+  {
+   "start_ms": 1615760,
+   "end_ms": 1617679,
+   "snippet": "investing thesis is core investing",
+   "start_time_text": "26:55",
+   "start_time_label": "26:55"
+  },
+  {
+   "start_ms": 1617679,
+   "end_ms": 1619840,
+   "snippet": "thesis is driven mathematically you have",
+   "start_time_text": "26:57",
+   "start_time_label": "26:57"
+  },
+  {
+   "start_ms": 1619840,
+   "end_ms": 1622559,
+   "snippet": "maths to prove it for example my core",
+   "start_time_text": "26:59",
+   "start_time_label": "26:59"
+  },
+  {
+   "start_ms": 1622559,
+   "end_ms": 1625039,
+   "snippet": "investing thesis is that hey build a",
+   "start_time_text": "27:02",
+   "start_time_label": "27:02"
+  },
+  {
+   "start_ms": 1625039,
+   "end_ms": 1628320,
+   "snippet": "variant of QQQ right on your portfolio",
+   "start_time_text": "27:05",
+   "start_time_label": "27:05"
+  },
+  {
+   "start_ms": 1628320,
+   "end_ms": 1630320,
+   "snippet": "why QQQ because these are collection of",
+   "start_time_text": "27:08",
+   "start_time_label": "27:08"
+  },
+  {
+   "start_ms": 1630320,
+   "end_ms": 1632320,
+   "snippet": "tech is the most dominant thing right",
+   "start_time_text": "27:10",
+   "start_time_label": "27:10"
+  },
+  {
+   "start_ms": 1632320,
+   "end_ms": 1635760,
+   "snippet": "Now let's assume that AI fails and in",
+   "start_time_text": "27:12",
+   "start_time_label": "27:12"
+  },
+  {
+   "start_ms": 1635760,
+   "end_ms": 1637600,
+   "snippet": "case AI fails everything will fail with",
+   "start_time_text": "27:15",
+   "start_time_label": "27:15"
+  },
+  {
+   "start_ms": 1637600,
+   "end_ms": 1639360,
+   "snippet": "it. Value investing is already not",
+   "start_time_text": "27:17",
+   "start_time_label": "27:17"
+  },
+  {
+   "start_ms": 1639360,
+   "end_ms": 1641919,
+   "snippet": "working. This is exactly the the place",
+   "start_time_text": "27:19",
+   "start_time_label": "27:19"
+  },
+  {
+   "start_ms": 1641919,
+   "end_ms": 1644799,
+   "snippet": "where you have to invest time and keep",
+   "start_time_text": "27:21",
+   "start_time_label": "27:21"
+  },
+  {
+   "start_ms": 1644799,
+   "end_ms": 1646799,
+   "snippet": "monitoring things. Even a beginner can",
+   "start_time_text": "27:24",
+   "start_time_label": "27:24"
+  },
+  {
+   "start_ms": 1646799,
+   "end_ms": 1648240,
+   "snippet": "do it. It's not as if that you know you",
+   "start_time_text": "27:26",
+   "start_time_label": "27:26"
+  },
+  {
+   "start_ms": 1648240,
+   "end_ms": 1649760,
+   "snippet": "are a beginner you have to go and read",
+   "start_time_text": "27:28",
+   "start_time_label": "27:28"
+  },
+  {
+   "start_ms": 1649760,
+   "end_ms": 1651919,
+   "snippet": "100 balance sheet. No, you just have to",
+   "start_time_text": "27:29",
+   "start_time_label": "27:29"
+  },
+  {
+   "start_ms": 1651919,
+   "end_ms": 1653520,
+   "snippet": "think about things sensibly. You have to",
+   "start_time_text": "27:31",
+   "start_time_label": "27:31"
+  },
+  {
+   "start_ms": 1653520,
+   "end_ms": 1655440,
+   "snippet": "look at okay Google is launching a new",
+   "start_time_text": "27:33",
+   "start_time_label": "27:33"
+  },
+  {
+   "start_ms": 1655440,
+   "end_ms": 1657120,
+   "snippet": "product. Is it finding more adoption? Is",
+   "start_time_text": "27:35",
+   "start_time_label": "27:35"
+  },
+  {
+   "start_ms": 1657120,
+   "end_ms": 1658799,
+   "snippet": "Gemini founding more finding more",
+   "start_time_text": "27:37",
+   "start_time_label": "27:37"
+  },
+  {
+   "start_ms": 1658799,
+   "end_ms": 1662480,
+   "snippet": "adoption? Google has uh disassociated",
+   "start_time_text": "27:38",
+   "start_time_label": "27:38"
+  },
+  {
+   "start_ms": 1662480,
+   "end_ms": 1664480,
+   "snippet": "itself with Uber now, right? Why?",
+   "start_time_text": "27:42",
+   "start_time_label": "27:42"
+  },
+  {
+   "start_ms": 1664480,
+   "end_ms": 1665520,
+   "snippet": "Because they have something called as",
+   "start_time_text": "27:44",
+   "start_time_label": "27:44"
+  },
+  {
+   "start_ms": 1665520,
+   "end_ms": 1667440,
+   "snippet": "Vimo, right? All these are basic",
+   "start_time_text": "27:45",
+   "start_time_label": "27:45"
+  },
+  {
+   "start_ms": 1667440,
+   "end_ms": 1669600,
+   "snippet": "developments you can read. So, long",
+   "start_time_text": "27:47",
+   "start_time_label": "27:47"
+  },
+  {
+   "start_ms": 1669600,
+   "end_ms": 1671440,
+   "snippet": "story short, my core investment thesis",
+   "start_time_text": "27:49",
+   "start_time_label": "27:49"
+  },
+  {
+   "start_ms": 1671440,
+   "end_ms": 1673600,
+   "snippet": "is that tech will win. American assets",
+   "start_time_text": "27:51",
+   "start_time_label": "27:51"
+  },
+  {
+   "start_ms": 1673600,
+   "end_ms": 1675520,
+   "snippet": "will get more powerful with time.",
+   "start_time_text": "27:53",
+   "start_time_label": "27:53"
+  },
+  {
+   "start_ms": 1675520,
+   "end_ms": 1677520,
+   "snippet": "American economy is insourcing",
+   "start_time_text": "27:55",
+   "start_time_label": "27:55"
+  },
+  {
+   "start_ms": 1677520,
+   "end_ms": 1679919,
+   "snippet": "manufacturing which is a sign. AI is",
+   "start_time_text": "27:57",
+   "start_time_label": "27:57"
+  },
+  {
+   "start_ms": 1679919,
+   "end_ms": 1682240,
+   "snippet": "going to make it even more efficient.",
+   "start_time_text": "27:59",
+   "start_time_label": "27:59"
+  },
+  {
+   "start_ms": 1682240,
+   "end_ms": 1684480,
+   "snippet": "So, labor arbitrage that India used to",
+   "start_time_text": "28:02",
+   "start_time_label": "28:02"
+  },
+  {
+   "start_ms": 1684480,
+   "end_ms": 1687039,
+   "snippet": "have will go away. So we have to balance",
+   "start_time_text": "28:04",
+   "start_time_label": "28:04"
+  },
+  {
+   "start_ms": 1687039,
+   "end_ms": 1688880,
+   "snippet": "all these facts and come up with our own",
+   "start_time_text": "28:07",
+   "start_time_label": "28:07"
+  },
+  {
+   "start_ms": 1688880,
+   "end_ms": 1690320,
+   "snippet": "investing thesis. Whatever that",
+   "start_time_text": "28:08",
+   "start_time_label": "28:08"
+  },
+  {
+   "start_ms": 1690320,
+   "end_ms": 1692320,
+   "snippet": "investing investment thesis you have.",
+   "start_time_text": "28:10",
+   "start_time_label": "28:10"
+  },
+  {
+   "start_ms": 1692320,
+   "end_ms": 1693760,
+   "snippet": "For example, if your investment thesis",
+   "start_time_text": "28:12",
+   "start_time_label": "28:12"
+  },
+  {
+   "start_ms": 1693760,
+   "end_ms": 1695919,
+   "snippet": "is buy like three different mutual funds",
+   "start_time_text": "28:13",
+   "start_time_label": "28:13"
+  },
+  {
+   "start_ms": 1695919,
+   "end_ms": 1697360,
+   "snippet": "and they will definitely perform and",
+   "start_time_text": "28:15",
+   "start_time_label": "28:15"
+  },
+  {
+   "start_ms": 1697360,
+   "end_ms": 1699279,
+   "snippet": "okay fine, right? I'm not here to argue",
+   "start_time_text": "28:17",
+   "start_time_label": "28:17"
+  },
+  {
+   "start_ms": 1699279,
+   "end_ms": 1701279,
+   "snippet": "with you. I'm just here to help you",
+   "start_time_text": "28:19",
+   "start_time_label": "28:19"
+  },
+  {
+   "start_ms": 1701279,
+   "end_ms": 1703360,
+   "snippet": "think better. Okay. So that is the core",
+   "start_time_text": "28:21",
+   "start_time_label": "28:21"
+  },
+  {
+   "start_ms": 1703360,
+   "end_ms": 1705039,
+   "snippet": "investment thesis that I have. I will",
+   "start_time_text": "28:23",
+   "start_time_label": "28:23"
+  },
+  {
+   "start_ms": 1705039,
+   "end_ms": 1706720,
+   "snippet": "not go into too much detail here. Right?",
+   "start_time_text": "28:25",
+   "start_time_label": "28:25"
+  },
+  {
+   "start_ms": 1706720,
+   "end_ms": 1708480,
+   "snippet": "I just wanted to give you a flavor. Now",
+   "start_time_text": "28:26",
+   "start_time_label": "28:26"
+  },
+  {
+   "start_ms": 1708480,
+   "end_ms": 1709840,
+   "snippet": "again this is something that I talk on",
+   "start_time_text": "28:28",
+   "start_time_label": "28:28"
+  },
+  {
+   "start_ms": 1709840,
+   "end_ms": 1712320,
+   "snippet": "my investment community more. If you do",
+   "start_time_text": "28:29",
+   "start_time_label": "28:29"
+  },
+  {
+   "start_ms": 1712320,
+   "end_ms": 1714399,
+   "snippet": "believe that tech AI is the next big",
+   "start_time_text": "28:32",
+   "start_time_label": "28:32"
+  },
+  {
+   "start_ms": 1714399,
+   "end_ms": 1716000,
+   "snippet": "thing and it will do well in the future",
+   "start_time_text": "28:34",
+   "start_time_label": "28:34"
+  },
+  {
+   "start_ms": 1716000,
+   "end_ms": 1717679,
+   "snippet": "then you have to realign your portfolio.",
+   "start_time_text": "28:36",
+   "start_time_label": "28:36"
+  },
+  {
+   "start_ms": 1717679,
+   "end_ms": 1719279,
+   "snippet": "For example, you might be having like",
+   "start_time_text": "28:37",
+   "start_time_label": "28:37"
+  },
+  {
+   "start_ms": 1719279,
+   "end_ms": 1721840,
+   "snippet": "100% of your allocation in India. Start",
+   "start_time_text": "28:39",
+   "start_time_label": "28:39"
+  },
+  {
+   "start_ms": 1721840,
+   "end_ms": 1724480,
+   "snippet": "with 30% allocation outside of equities.",
+   "start_time_text": "28:41",
+   "start_time_label": "28:41"
+  },
+  {
+   "start_ms": 1724480,
+   "end_ms": 1726080,
+   "snippet": "This is important. There is no other",
+   "start_time_text": "28:44",
+   "start_time_label": "28:44"
+  },
+  {
+   "start_ms": 1726080,
+   "end_ms": 1729039,
+   "snippet": "option. You do not have tech dominant",
+   "start_time_text": "28:46",
+   "start_time_label": "28:46"
+  },
+  {
+   "start_ms": 1729039,
+   "end_ms": 1731039,
+   "snippet": "companies like Google in India and we",
+   "start_time_text": "28:49",
+   "start_time_label": "28:49"
+  },
+  {
+   "start_ms": 1731039,
+   "end_ms": 1732880,
+   "snippet": "are nowhere close to it. Okay. There is",
+   "start_time_text": "28:51",
+   "start_time_label": "28:51"
+  },
+  {
+   "start_ms": 1732880,
+   "end_ms": 1735120,
+   "snippet": "no point in betting like keep technology",
+   "start_time_text": "28:52",
+   "start_time_label": "28:52"
+  },
+  {
+   "start_ms": 1735120,
+   "end_ms": 1736960,
+   "snippet": "for the next 20 30 years and what other",
+   "start_time_text": "28:55",
+   "start_time_label": "28:55"
+  },
+  {
+   "start_ms": 1736960,
+   "end_ms": 1738399,
+   "snippet": "right? Yeah. That that's not an",
+   "start_time_text": "28:56",
+   "start_time_label": "28:56"
+  },
+  {
+   "start_ms": 1738399,
+   "end_ms": 1739919,
+   "snippet": "investment philosophy. Even if you",
+   "start_time_text": "28:58",
+   "start_time_label": "28:58"
+  },
+  {
+   "start_ms": 1739919,
+   "end_ms": 1741279,
+   "snippet": "allocate, you can't allocate more than",
+   "start_time_text": "28:59",
+   "start_time_label": "28:59"
+  },
+  {
+   "start_ms": 1741279,
+   "end_ms": 1743600,
+   "snippet": "four 5%. Okay. So, okay. So, that's the",
+   "start_time_text": "29:01",
+   "start_time_label": "29:01"
+  },
+  {
+   "start_ms": 1743600,
+   "end_ms": 1745200,
+   "snippet": "most important point. I wanted to talk",
+   "start_time_text": "29:03",
+   "start_time_label": "29:03"
+  },
+  {
+   "start_ms": 1745200,
+   "end_ms": 1746799,
+   "snippet": "about two more points which was",
+   "start_time_text": "29:05",
+   "start_time_label": "29:05"
+  },
+  {
+   "start_ms": 1746799,
+   "end_ms": 1748799,
+   "snippet": "deployment strategy of your portfolio.",
+   "start_time_text": "29:06",
+   "start_time_label": "29:06"
+  },
+  {
+   "start_ms": 1748799,
+   "end_ms": 1750720,
+   "snippet": "How do you deploy it and withdrawal",
+   "start_time_text": "29:08",
+   "start_time_label": "29:08"
+  },
+  {
+   "start_ms": 1750720,
+   "end_ms": 1752399,
+   "snippet": "strategy? So, if this video is",
+   "start_time_text": "29:10",
+   "start_time_label": "29:10"
+  },
+  {
+   "start_ms": 1752399,
+   "end_ms": 1754399,
+   "snippet": "appreciated then I will you know make",
+   "start_time_text": "29:12",
+   "start_time_label": "29:12"
+  },
+  {
+   "start_ms": 1754399,
+   "end_ms": 1756720,
+   "snippet": "these detailed part two of this video.",
+   "start_time_text": "29:14",
+   "start_time_label": "29:14"
+  },
+  {
+   "start_ms": 1756720,
+   "end_ms": 1758080,
+   "snippet": "But I hope you enjoyed the lessons.",
+   "start_time_text": "29:16",
+   "start_time_label": "29:16"
+  },
+  {
+   "start_ms": 1758080,
+   "end_ms": 1759600,
+   "snippet": "These are the seven eight points that we",
+   "start_time_text": "29:18",
+   "start_time_label": "29:18"
+  },
+  {
+   "start_ms": 1759600,
+   "end_ms": 1761919,
+   "snippet": "spoke about. Just go look at your",
+   "start_time_text": "29:19",
+   "start_time_label": "29:19"
+  },
+  {
+   "start_ms": 1761919,
+   "end_ms": 1763200,
+   "snippet": "portfolio, create that Excel",
+   "start_time_text": "29:21",
+   "start_time_label": "29:21"
+  },
+  {
+   "start_ms": 1763200,
+   "end_ms": 1765200,
+   "snippet": "spreadsheet, check your beta, check the",
+   "start_time_text": "29:23",
+   "start_time_label": "29:23"
+  },
+  {
+   "start_ms": 1765200,
+   "end_ms": 1767360,
+   "snippet": "correlation, check tail risk event. How",
+   "start_time_text": "29:25",
+   "start_time_label": "29:25"
+  },
+  {
+   "start_ms": 1767360,
+   "end_ms": 1768799,
+   "snippet": "are you going to handle it? What is the",
+   "start_time_text": "29:27",
+   "start_time_label": "29:27"
+  },
+  {
+   "start_ms": 1768799,
+   "end_ms": 1770240,
+   "snippet": "core investment thesis with which you",
+   "start_time_text": "29:28",
+   "start_time_label": "29:28"
+  },
+  {
+   "start_ms": 1770240,
+   "end_ms": 1771600,
+   "snippet": "are running your portfolio? What is the",
+   "start_time_text": "29:30",
+   "start_time_label": "29:30"
+  },
+  {
+   "start_ms": 1771600,
+   "end_ms": 1773600,
+   "snippet": "right benchmark? These are some basic",
+   "start_time_text": "29:31",
+   "start_time_label": "29:31"
+  },
+  {
+   "start_ms": 1773600,
+   "end_ms": 1775840,
+   "snippet": "questions. If you answer, you will be in",
+   "start_time_text": "29:33",
+   "start_time_label": "29:33"
+  },
+  {
+   "start_ms": 1775840,
+   "end_ms": 1777919,
+   "snippet": "a much better shape. Even if you're not",
+   "start_time_text": "29:35",
+   "start_time_label": "29:35"
+  },
+  {
+   "start_ms": 1777919,
+   "end_ms": 1779440,
+   "snippet": "managing your money, you will be in a",
+   "start_time_text": "29:37",
+   "start_time_label": "29:37"
+  },
+  {
+   "start_ms": 1779440,
+   "end_ms": 1782080,
+   "snippet": "better shape to ask better questions to",
+   "start_time_text": "29:39",
+   "start_time_label": "29:39"
+  },
+  {
+   "start_ms": 1782080,
+   "end_ms": 1783679,
+   "snippet": "like fund managers or whoever is",
+   "start_time_text": "29:42",
+   "start_time_label": "29:42"
+  },
+  {
+   "start_ms": 1783679,
+   "end_ms": 1785279,
+   "snippet": "managing your money. Okay? Or making",
+   "start_time_text": "29:43",
+   "start_time_label": "29:43"
+  },
+  {
+   "start_ms": 1785279,
+   "end_ms": 1786720,
+   "snippet": "decisions in terms of which funds to",
+   "start_time_text": "29:45",
+   "start_time_label": "29:45"
+  },
+  {
+   "start_ms": 1786720,
+   "end_ms": 1788159,
+   "snippet": "pick. I hope you enjoyed this",
+   "start_time_text": "29:46",
+   "start_time_label": "29:46"
+  },
+  {
+   "start_ms": 1788159,
+   "end_ms": 1789600,
+   "snippet": "conversation. If you did, do press a",
+   "start_time_text": "29:48",
+   "start_time_label": "29:48"
+  },
+  {
+   "start_ms": 1789600,
+   "end_ms": 1793480,
+   "snippet": "like button and I'll see you soon.",
+   "start_time_text": "29:49",
+   "start_time_label": "29:49"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "en",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&type=asr&v=ts3RXqeknJ4"
+  }
+ ],
+ "_fetched_at": "2026-10-10T08:24:13"
+}

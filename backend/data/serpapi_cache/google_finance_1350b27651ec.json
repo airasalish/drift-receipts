@@ -1,0 +1,25 @@
+{
+ "search_metadata": {
+  "id": "6acaab7aa3f73024911a1d00",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/HSCmBW6B4G86HgML2djPrQ6tc6XEDL8FmDAwsHMq5CA/6acaab7aa3f73024911a1d00.json",
+  "markdown_endpoint": "https://serpapi.com/searches/HSCmBW6B4G86HgML2djPrQ6tc6XEDL8FmDAwsHMq5CA/6acaab7aa3f73024911a1d00.md",
+  "created_at": "2026-10-10 21:17:46 UTC",
+  "processed_at": "2026-10-10 21:17:46 UTC",
+  "google_finance_url": "https://www.google.com/finance/quote/PFC:BOM?hl=en&window=6M",
+  "raw_html_file": "https://serpapi.com/searches/HSCmBW6B4G86HgML2djPrQ6tc6XEDL8FmDAwsHMq5CA/6acaab7aa3f73024911a1d00.html",
+  "prettify_html_file": "https://serpapi.com/searches/HSCmBW6B4G86HgML2djPrQ6tc6XEDL8FmDAwsHMq5CA/6acaab7aa3f73024911a1d00.prettify",
+  "total_time_taken": 0.45
+ },
+ "search_parameters": {
+  "engine": "google_finance",
+  "q": "PFC:BOM",
+  "hl": "en",
+  "window": "6M"
+ },
+ "search_information": {
+  "finance_results_state": "Fully empty"
+ },
+ "error": "Google Finance hasn't returned any results for this query.",
+ "_fetched_at": "2026-10-10T21:17:44"
+}

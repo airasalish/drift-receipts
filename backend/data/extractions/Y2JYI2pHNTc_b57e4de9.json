@@ -1,0 +1,98 @@
+{
+ "calls": [
+  {
+   "company": "JSW Infrastructure Ltd",
+   "symbol_guess": "JSWINFRA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "second company is JSW infrastructure.",
+   "start_s": 186,
+   "line": "are 25 30% operating profit margin. The",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    },
+    {
+     "text": "second company is JSW infrastructure",
+     "where": "transcript",
+     "start_s": 189
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker introduces JSW Infrastructure as the second pick."
+  },
+  {
+   "company": "Gujarat Pipavav Port Ltd",
+   "symbol_guess": "GPPL",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "there is another company called as Gujarat Pipav",
+   "start_s": 398,
+   "line": "view there's another company called as",
+   "evidence": [
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The title suggests all presented companies are buys and the speaker introduces Gujarat Pipavav as a potential pick, so it is classified as a buy."
+  },
+  {
+   "company": "JSW Infrastructure",
+   "symbol_guess": "JSWINFRA",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "my bet is on JSW infrastructure",
+   "start_s": 485,
+   "line": "would find port operators you would find",
+   "evidence": [
+    {
+     "text": "bet is on",
+     "where": "transcript",
+     "start_s": 486
+    },
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The video title frames the content as stock picks to buy and the speaker explicitly says his bet is on JSW Infrastructure, indicating a buy recommendation."
+  },
+  {
+   "company": "Blue Dart Express Ltd",
+   "symbol_guess": "BLUEDART",
+   "direction": "buy",
+   "explicit": false,
+   "target_price": null,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "the last company is blue dart. I think blue dart is going to turn around",
+   "start_s": 492,
+   "line": "So the last company is blue dart. I",
+   "evidence": [
+    {
+     "text": "think blue dart is going to turn around",
+     "where": "transcript",
+     "start_s": 495
+    },
+    {
+     "text": "Best Stocks to Buy Now",
+     "where": "title"
+    }
+   ],
+   "reason": "The speaker highlights Blue Dart as the final pick and expresses confidence it will turn around, and the video title frames it as a buy pick."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 2,
+ "llm_failed_chunks": 0
+}

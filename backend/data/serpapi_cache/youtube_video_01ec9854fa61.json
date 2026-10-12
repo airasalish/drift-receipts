@@ -1,0 +1,747 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdd0b7ff9dcb12094e3a",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/HfQY9HGqpFbCsv_DZqz85e3iiRYMHO6tRUGO10LFctI/6ac7bdd0b7ff9dcb12094e3a.json",
+  "markdown_endpoint": "https://serpapi.com/searches/HfQY9HGqpFbCsv_DZqz85e3iiRYMHO6tRUGO10LFctI/6ac7bdd0b7ff9dcb12094e3a.md",
+  "created_at": "2026-10-08 15:59:12 UTC",
+  "processed_at": "2026-10-08 15:59:12 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=tRHkKajYgsE",
+  "raw_html_file": "https://serpapi.com/searches/HfQY9HGqpFbCsv_DZqz85e3iiRYMHO6tRUGO10LFctI/6ac7bdd0b7ff9dcb12094e3a.html",
+  "prettify_html_file": "https://serpapi.com/searches/HfQY9HGqpFbCsv_DZqz85e3iiRYMHO6tRUGO10LFctI/6ac7bdd0b7ff9dcb12094e3a.prettify",
+  "total_time_taken": 1.63
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "tRHkKajYgsE",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "#Episode97",
+ "thumbnail": "https://i.ytimg.com/vi/tRHkKajYgsE/maxresdefault.jpg",
+ "channel": {
+  "name": "Avadhut Sathe Trading Academy",
+  "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+  "subscribers": "916K subscribers",
+  "extracted_subscribers": 916000,
+  "verified": true
+ },
+ "views": "25,087 views",
+ "extracted_views": 25087,
+ "likes": "863",
+ "extracted_likes": 863,
+ "published_date": "Streamed live on Aug 4, 2022",
+ "description": {
+  "content": "To register for our upcoming Wealth Creation through Equity Investing / Trading ‘The Online Eye-Opener’ Webinar, click on the below link:\nhttps://www.avadhutsathe.com/upcoming...\n\nTune in to ASTA’s YouTube channel this Thursday evening for a very special YouTube Live session by Financial Trader, Trainer & Mentor Mr. Avadhut Sathe.\n\nThis highly informative session will involve a Q&A segment with its participants, and Mr. Sathe will provide a detailed view of the prevailing stock market situation and discuss his latest stock market trades!\n\nEquipped with around three decades of rich stock market experience, Avadhut Sathe is the ideal trainer and mentor to guide you in the current stock market scenario.\n\nDate: 04th Aug 2022\nTime: 05.30 pm\n\nVideos to Watch:\n\nBecoming a Master of Trading Profession -    • Video  \n\nYoga Day special video -    • Video  \n\nSpecial Session videos -    • Playlist  \n\nWomens Day Special -    • Video  \n\nTo get regular updates on our online sessions, join our Telegram channel ASTA Notice Board: https://t.me/ASTAnoticeBoard\n\nFor more details on ASTA stock market programs, visit our website: \nhttps://www.avadhutsathe.com/​\n\nLike our Facebook page for latest updates:\n  / avadhutsathetradingacademy  \n\nIn case of any queries, please feel free to call us @ +91 72089 96417\n\n#sharemarketnews #stockmarketexpert #stocktraders #stockmarketcoach #sharemarketing #sharemarketknowledge #stock #market #sharemarkettraining #AvadhutSathe #ASTA #AvadhutSatheTradingAcademy",
+  "links": [
+   {
+    "start_index": 138,
+    "length": 40,
+    "text": "https://www.avadhutsathe.com/upcoming...",
+    "url": "https://www.avadhutsathe.com/upcoming-eye-opener-events/"
+   },
+   {
+    "start_index": 807,
+    "length": 12,
+    "text": "   • Video  ",
+    "url": "https://www.youtube.com/watch?v=xEefg0InJC8",
+    "type": "watch"
+   },
+   {
+    "start_index": 846,
+    "length": 12,
+    "text": "   • Video  ",
+    "url": "https://www.youtube.com/watch?v=_mqBGrbvOks",
+    "type": "watch"
+   },
+   {
+    "start_index": 885,
+    "length": 15,
+    "text": "   • Playlist  ",
+    "url": "https://www.youtube.com/playlist?list=PLQ_aibHecpRLIGawdk-5cPv-0zykEMEtu",
+    "type": "playlist"
+   },
+   {
+    "start_index": 923,
+    "length": 12,
+    "text": "   • Video  ",
+    "url": "https://www.youtube.com/watch?v=VXAFIPTWwpE",
+    "type": "watch"
+   },
+   {
+    "start_index": 1029,
+    "length": 28,
+    "text": "https://t.me/ASTAnoticeBoard",
+    "url": "https://t.me/ASTAnoticeBoard"
+   },
+   {
+    "start_index": 1127,
+    "length": 30,
+    "text": "https://www.avadhutsathe.com/​",
+    "url": "https://www.avadhutsathe.com/​"
+   },
+   {
+    "start_index": 1202,
+    "length": 32,
+    "text": "  / avadhutsathetradingacademy  ",
+    "url": "https://www.facebook.com/AvadhutSatheTradingAcademy/"
+   },
+   {
+    "start_index": 1307,
+    "length": 16,
+    "text": "#sharemarketnews",
+    "url": "https://www.youtube.com/hashtag/sharemarketnews",
+    "type": "browse"
+   },
+   {
+    "start_index": 1324,
+    "length": 18,
+    "text": "#stockmarketexpert",
+    "url": "https://www.youtube.com/hashtag/stockmarketexpert",
+    "type": "browse"
+   },
+   {
+    "start_index": 1343,
+    "length": 13,
+    "text": "#stocktraders",
+    "url": "https://www.youtube.com/hashtag/stocktraders",
+    "type": "browse"
+   },
+   {
+    "start_index": 1357,
+    "length": 17,
+    "text": "#stockmarketcoach",
+    "url": "https://www.youtube.com/hashtag/stockmarketcoach",
+    "type": "browse"
+   },
+   {
+    "start_index": 1375,
+    "length": 15,
+    "text": "#sharemarketing",
+    "url": "https://www.youtube.com/hashtag/sharemarketing",
+    "type": "browse"
+   },
+   {
+    "start_index": 1391,
+    "length": 21,
+    "text": "#sharemarketknowledge",
+    "url": "https://www.youtube.com/hashtag/sharemarketknowledge",
+    "type": "browse"
+   },
+   {
+    "start_index": 1413,
+    "length": 6,
+    "text": "#stock",
+    "url": "https://www.youtube.com/hashtag/stock",
+    "type": "browse"
+   },
+   {
+    "start_index": 1420,
+    "length": 7,
+    "text": "#market",
+    "url": "https://www.youtube.com/hashtag/market",
+    "type": "browse"
+   },
+   {
+    "start_index": 1428,
+    "length": 20,
+    "text": "#sharemarkettraining",
+    "url": "https://www.youtube.com/hashtag/sharemarkettraining",
+    "type": "browse"
+   },
+   {
+    "start_index": 1449,
+    "length": 13,
+    "text": "#AvadhutSathe",
+    "url": "https://www.youtube.com/hashtag/avadhutsathe",
+    "type": "browse"
+   },
+   {
+    "start_index": 1463,
+    "length": 5,
+    "text": "#ASTA",
+    "url": "https://www.youtube.com/hashtag/asta",
+    "type": "browse"
+   },
+   {
+    "start_index": 1469,
+    "length": 27,
+    "text": "#AvadhutSatheTradingAcademy",
+    "url": "https://www.youtube.com/hashtag/avadhutsathetradingacademy",
+    "type": "browse"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "nDu0dp7HTCM",
+   "link": "https://www.youtube.com/watch?v=nDu0dp7HTCM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nDu0dp7HTCM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nDu0dp7HTCM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuEArXzoDh7UYc5ADvfZ0nP3NYdw"
+   },
+   "title": "#Episode137 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 3y ago",
+   "views": "22K",
+   "extracted_views": 22000,
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "bMIwOUHvSKk",
+   "link": "https://www.youtube.com/watch?v=bMIwOUHvSKk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bMIwOUHvSKk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/bMIwOUHvSKk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDay32ETgRpzwKMH3nCdDozP_PASw"
+   },
+   "title": "Mean Reversion at Work | October Netra 2026 | DSP Mutual Fund",
+   "published_date": "11h ago",
+   "views": "8.8K",
+   "extracted_views": 8800,
+   "channel": {
+    "name": "DSP Mutual Fund",
+    "link": "https://www.youtube.com/@DSPMutualFund_in",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_k0H6qEuGR9OL1q7hg8F4VhJ92sVVnGUtSY2_9HcKMlNzM=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "zcKjrtQnGPw",
+   "link": "https://www.youtube.com/watch?v=zcKjrtQnGPw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zcKjrtQnGPw",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/zcKjrtQnGPw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVAjqrWGuwmeHHXW7DYoPtJ6XxBg"
+   },
+   "title": "#Episode95 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 4y ago",
+   "views": "25K",
+   "extracted_views": 25000,
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "kW40klgo0hY",
+   "link": "https://www.youtube.com/watch?v=kW40klgo0hY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kW40klgo0hY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/kW40klgo0hY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3Zh1vMO5XwugrrgkcRA8rs5exzA"
+   },
+   "title": "Noel Fires Another Salvo, Tata Trusts file 84 Caveats with Charity Commissioner. What Happens Now?",
+   "published_date": "1d ago",
+   "views": "9.1K",
+   "extracted_views": 9100,
+   "channel": {
+    "name": "Rajesh Mahapatra",
+    "link": "https://www.youtube.com/@rajesh-mahapatra",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nqHM-ef8LWbmlvgQL7KhkWXmGkulsGkw8bXbnKgRdqgcg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault_custom_1.jpg?sqp=CNT5ntYG-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCumdEwgAdY0WlwDq5PpEZjEf9TxQ"
+   },
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1mo ago",
+   "views": "345K",
+   "extracted_views": 345000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_536pBVCZnyMlCkyXvg7N0LUctA"
+   },
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2h ago",
+   "views": "7.9K",
+   "extracted_views": 7900,
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64",
+    "thumbnail": "https://yt3.ggpht.com/x7xszwIkJYvggWS6E8aPMcVTbU-C2KMLkX7_2d4XfYYTk0ht2-g1WPW78Md7SVj9J4b1Yore=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "M5U6qmcRlKY",
+   "link": "https://www.youtube.com/watch?v=M5U6qmcRlKY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5U6qmcRlKY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/M5U6qmcRlKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBk2L3Ae3g2Y94Et9ZxEOeZuVItfA"
+   },
+   "title": "Share Market Crash: FIIs Selling, Crude Oil & Adani Group Drop! Anil Singhvi Market Strategy",
+   "published_date": "6h ago",
+   "views": "132K",
+   "extracted_views": 132000,
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness",
+    "thumbnail": "https://yt3.ggpht.com/sxHEe-On1euLaHO6gssZiJXWQpRgjy7duGBWC9qPmDEul_AfSvthGaGOc3uRZEhTUchMBEOJlp0=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "R4G1lk8jzW8",
+   "link": "https://www.youtube.com/watch?v=R4G1lk8jzW8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R4G1lk8jzW8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/R4G1lk8jzW8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1RISMuWeIOC2vQ2g38YNf1FogfA"
+   },
+   "title": "Know When To Hold ’Em: Mike Webster On Trading Around A Core Position | Investing With IBD",
+   "published_date": "2y ago",
+   "views": "66K",
+   "extracted_views": 66000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "31N5_ZiYESM",
+   "link": "https://www.youtube.com/watch?v=31N5_ZiYESM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=31N5_ZiYESM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/31N5_ZiYESM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAM4l14aBNz1KPHtZmN8Py7Bs24Q"
+   },
+   "title": "Sushil Kedia Stocks Picks | बाजार में गिरावट कहां करें निवेश? | Big Market Voice | Anuj Singhal",
+   "published_date": "1d ago",
+   "views": "94K",
+   "extracted_views": 94000,
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz",
+    "thumbnail": "https://yt3.ggpht.com/WtM9ZMpGO79fza5Bd0A51JOjsm6rX6_aNMZdw6m1hTv8viMWJo5nvHzWxHg8auRkelGPkCDHCSw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "PFXGK_kPr8c",
+   "link": "https://www.youtube.com/watch?v=PFXGK_kPr8c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PFXGK_kPr8c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PFXGK_kPr8c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMW0dYQtyCRo8dHJcOcBlBezyVBg"
+   },
+   "title": "#Episode136 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 3y ago",
+   "views": "18K",
+   "extracted_views": 18000,
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "BAw478-X9BQ",
+   "link": "https://www.youtube.com/watch?v=BAw478-X9BQ&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BAw478-X9BQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/BAw478-X9BQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwk6iD_qJFyAXvi2awdKmeoMSUHw"
+   },
+   "title": "Why This Trader Says The Stock Market’s Party Isn’t Over Yet | Investing With IBD Podcast",
+   "published_date": "Streamed 1y ago",
+   "views": "14K",
+   "extracted_views": 14000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "PhvkL2LR0Sg",
+   "link": "https://www.youtube.com/watch?v=PhvkL2LR0Sg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PhvkL2LR0Sg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PhvkL2LR0Sg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC66RZtAXJXWFSZWWksD4gC07pKWg"
+   },
+   "title": "Inside the Mind of an Options Trader | Trader's Table Ep. 2",
+   "published_date": "12d ago",
+   "views": "171K",
+   "extracted_views": 171000,
+   "channel": {
+    "name": "Trading with Groww",
+    "link": "https://www.youtube.com/@TradingwithGroww",
+    "thumbnail": "https://yt3.ggpht.com/EbEXSYPSt6usN22sBWNXh4XOpxkyEivpbfSMmaTbmuDsI5uLg9BRsvHaadX67hEK8fCKhRLc=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "vTboKA-y_So",
+   "link": "https://www.youtube.com/watch?v=vTboKA-y_So",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=vTboKA-y_So",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/vTboKA-y_So/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1pWuT0QRx0K2P_haKR7mjIhqPwA"
+   },
+   "title": "Trading Psychology Event | Learn to Think Like the 1% | Part 4",
+   "published_date": "6y ago",
+   "views": "1.6M",
+   "extracted_views": 1600000,
+   "channel": {
+    "name": "CMC Aureon",
+    "link": "https://www.youtube.com/@CMC_Aureon",
+    "thumbnail": "https://yt3.ggpht.com/TBMqWV-gnlqzGBKLGAZzfE-2TsQbl21wr6uIRgqIyYyO0xgKM93-BfKfwEdQG24C1easZTzk5Q=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "3jWDq6lINbk",
+   "link": "https://www.youtube.com/watch?v=3jWDq6lINbk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=3jWDq6lINbk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/3jWDq6lINbk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCOFnKLnHDqS54KgRk70Cfk1l6_LA"
+   },
+   "title": "#Episode135 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 3y ago",
+   "views": "17K",
+   "extracted_views": 17000,
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+    "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "yXKSEz8ureA",
+   "link": "https://www.youtube.com/watch?v=yXKSEz8ureA&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=yXKSEz8ureA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/yXKSEz8ureA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCY3VQ1U3DQyX4rpdKFGcfplzS-ug"
+   },
+   "title": "Trading Psychology Event | A Trading Framework | Part 5",
+   "published_date": "6y ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "CMC Aureon",
+    "link": "https://www.youtube.com/@CMC_Aureon",
+    "thumbnail": "https://yt3.ggpht.com/TBMqWV-gnlqzGBKLGAZzfE-2TsQbl21wr6uIRgqIyYyO0xgKM93-BfKfwEdQG24C1easZTzk5Q=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTtIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkl27ipWOtL9Gp_gzLq3zrkx4DZg"
+   },
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "3mo ago",
+   "views": "279K",
+   "extracted_views": 279000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "6xmfg5bICd4",
+   "link": "https://www.youtube.com/watch?v=6xmfg5bICd4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=6xmfg5bICd4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/6xmfg5bICd4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9bkX6TOkqMfJZGXe8cTz3idPFfQ"
+   },
+   "title": "I Have Spent 30 Years in the Market, Here's What I Learned | Ft. Krishan Sharma",
+   "published_date": "2mo ago",
+   "views": "743K",
+   "extracted_views": 743000,
+   "channel": {
+    "name": "Investing With Upsurge and 2 more",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "tvERE-Beu2U",
+   "link": "https://www.youtube.com/watch?v=tvERE-Beu2U&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=tvERE-Beu2U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/tvERE-Beu2U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAyejP8yDBb6yzAGJMkh2QUtB4tXA"
+   },
+   "title": "Trading LIVE with a World TOP Ranked Scalper (EXTREME Accuracy)",
+   "published_date": "1y ago",
+   "views": "4.6M",
+   "extracted_views": 4600000,
+   "channel": {
+    "name": "Chart Fanatics",
+    "link": "https://www.youtube.com/@chart-fanatics",
+    "thumbnail": "https://yt3.ggpht.com/zYPtMICcH6Sh3FhwR7TRXslSDnQItCcBdrumNuJDySiOr3ozkuPcwsmaHKLure8F-WqcWS0w=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9-eeEfIg9KA",
+   "link": "https://www.youtube.com/watch?v=9-eeEfIg9KA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9-eeEfIg9KA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9-eeEfIg9KA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbBvwQXGoui7OO_4GabubNuqh3jQ"
+   },
+   "title": "ATM Intraday Straddles Strategy Explained",
+   "published_date": "4d ago",
+   "views": "57K",
+   "extracted_views": 57000,
+   "channel": {
+    "name": "Definedge",
+    "link": "https://www.youtube.com/@Definedge",
+    "thumbnail": "https://yt3.ggpht.com/pJ30vUvzvzDp-H_kwTs_Om54CKWej5kX5WnMly4ZdK48kRkIqSHtknnNkhKFEfQOH9Plby0FRQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "gvl5FENzFuc",
+   "link": "https://www.youtube.com/watch?v=gvl5FENzFuc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=gvl5FENzFuc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/gvl5FENzFuc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmKJ0jelIA8u4t8JTFPO49KJMykQ"
+   },
+   "title": "Here’s How To Categorize Corrections — And Why Doing So Helps Set Expectations | Investing with IBD",
+   "published_date": "Streamed 1y ago",
+   "views": "13K",
+   "extracted_views": 13000,
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mZv7EqIU7KBPuxKYNAsIQSiAN_AqjAwFgLezid49hgAmKs=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILdFJIa0thallnc0XAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqnwZNZ3NJNTYzTW04U2kzdnlDQWRyT2ktc013d1FLd0FRS0FfSS1BQW9Pd2o0TENLT1luZmJwanUyZG5BRUtBX0ktQUFvTndqNEtDS21SdlktVWg0emhiQW9EOGo0QUNnN0NQZ3NJX0xHY29lMzFxT0hOQVFvRDhqNEFDZzdDUGdzSWxxU2p3YVdTamJlUkFRb0Q4ajRBQ2c3Q1Bnc0lvS21YNDVqb3RMejBBUW9EOGo0QUNnM0NQZ29JdGV1Znh0My00cjFlQ2dQeVBnQUtEY0ktQ2dpbXFjYTRwdFhPeWpNS0FfSS1BQW9Od2o0S0NPLWFqX25rc3UzQVJ3b0Q4ajRBQ2c3Q1Bnc0lvNkxneE5tXzNxbmZBUW9EOGo0QUNnM0NQZ29JeDktLXlMX0Y4YW84Q2dQeVBnQUtEY0ktQ2dpVTZOXzhfSjJPaGdRS0FfSS1BQW9Od2o0S0NLaWl4NWIyaGZtTlBnb0Q4ajRBQ2c3Q1Bnc0lxdnJMX1lDRnVwdTlBUW9EOGo0QUNnN0NQZ3NJdWV1Z3lycjE0SnJlQVFvRDhqNEFDZzdDUGdzSTROdTYtYlBDcExuSkFRb0Q4ajRBQ2czQ1Bnb0lwdXVrbTVPdTh0azRDZ1B5UGdBS0RzSS1Dd2plazZDMnVmRG5qT3NCQ2dQeVBnQUtEc0ktQ3dqbDl2cUN2cUxFLUxZQkNnUHlQZ0FLRHNJLUN3aWc2WU9SbjhMbjhfY0JDZ1B5UGdBS0RzSS1Dd2pucmN5YnhLTGVfSUlCRWhRQUFnUUdDQW9NRGhBU0ZCWVlHaHdlSUNJa0pob0VDQUFRQVJvRUNBSVFBeG9FQ0FRUUJSb0VDQVlRQnhvRUNBZ1FDUm9FQ0FvUUN4b0VDQXdRRFJvRUNBNFFEeG9FQ0JBUUVSb0VDQklRRXhvRUNCUVFGUm9FQ0JZUUZ4b0VDQmdRR1JvRUNCb1FHeG9FQ0J3UUhSb0VDQjRRSHhvRUNDQVFJUm9FQ0NJUUl4b0VDQ1FRSlJvRUNDWVFKeW9VQUFJRUJnZ0tEQTRRRWhRV0dCb2NIaUFpSkNZag93YXRjaC1uZXh0LWZlZWQ%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "nDu0dp7HTCM",
+   "link": "https://www.youtube.com/watch?v=nDu0dp7HTCM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nDu0dp7HTCM",
+   "thumbnail": "https://i.ytimg.com/vi/nDu0dp7HTCM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBuEArXzoDh7UYc5ADvfZ0nP3NYdw",
+   "title": "#Episode137 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 3 years ago",
+   "views": "22K views",
+   "extracted_views": 22000,
+   "length": "1:08:00",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy"
+   }
+  },
+  {
+   "video_id": "bMIwOUHvSKk",
+   "link": "https://www.youtube.com/watch?v=bMIwOUHvSKk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=bMIwOUHvSKk",
+   "thumbnail": "https://i.ytimg.com/vi/bMIwOUHvSKk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDay32ETgRpzwKMH3nCdDozP_PASw",
+   "title": "Mean Reversion at Work | October Netra 2026 | DSP Mutual Fund",
+   "published_date": "11 hours ago",
+   "views": "8.8K views",
+   "extracted_views": 8800,
+   "length": "1:00:18",
+   "channel": {
+    "name": "DSP Mutual Fund",
+    "link": "https://www.youtube.com/@DSPMutualFund_in"
+   }
+  },
+  {
+   "video_id": "zcKjrtQnGPw",
+   "link": "https://www.youtube.com/watch?v=zcKjrtQnGPw",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=zcKjrtQnGPw",
+   "thumbnail": "https://i.ytimg.com/vi/zcKjrtQnGPw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAVAjqrWGuwmeHHXW7DYoPtJ6XxBg",
+   "title": "#Episode95 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 4 years ago",
+   "views": "25K views",
+   "extracted_views": 25000,
+   "length": "1:07:46",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy"
+   }
+  },
+  {
+   "video_id": "kW40klgo0hY",
+   "link": "https://www.youtube.com/watch?v=kW40klgo0hY&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=kW40klgo0hY",
+   "thumbnail": "https://i.ytimg.com/vi/kW40klgo0hY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3Zh1vMO5XwugrrgkcRA8rs5exzA",
+   "title": "Noel Fires Another Salvo, Tata Trusts file 84 Caveats with Charity Commissioner. What Happens Now?",
+   "published_date": "1 day ago",
+   "views": "9.1K views",
+   "extracted_views": 9100,
+   "length": "36:28",
+   "channel": {
+    "name": "Rajesh Mahapatra",
+    "link": "https://www.youtube.com/@rajesh-mahapatra"
+   }
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDhOnBf80s95HioGrHTRokowGTqsQ",
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1 month ago",
+   "views": "345K views",
+   "extracted_views": 345000,
+   "length": "28:50",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB_536pBVCZnyMlCkyXvg7N0LUctA",
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2 hours ago",
+   "views": "7.9K views",
+   "extracted_views": 7900,
+   "length": "11:56",
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64"
+   }
+  },
+  {
+   "video_id": "M5U6qmcRlKY",
+   "link": "https://www.youtube.com/watch?v=M5U6qmcRlKY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5U6qmcRlKY",
+   "thumbnail": "https://i.ytimg.com/vi/M5U6qmcRlKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBk2L3Ae3g2Y94Et9ZxEOeZuVItfA",
+   "title": "Share Market Crash: FIIs Selling, Crude Oil & Adani Group Drop! Anil Singhvi Market Strategy",
+   "published_date": "6 hours ago",
+   "views": "132K views",
+   "extracted_views": 132000,
+   "length": "10:36",
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness"
+   }
+  },
+  {
+   "video_id": "R4G1lk8jzW8",
+   "link": "https://www.youtube.com/watch?v=R4G1lk8jzW8",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=R4G1lk8jzW8",
+   "thumbnail": "https://i.ytimg.com/vi/R4G1lk8jzW8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD1RISMuWeIOC2vQ2g38YNf1FogfA",
+   "title": "Know When To Hold ’Em: Mike Webster On Trading Around A Core Position | Investing With IBD",
+   "published_date": "2 years ago",
+   "views": "66K views",
+   "extracted_views": 66000,
+   "length": "1:15:43",
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily"
+   }
+  },
+  {
+   "video_id": "31N5_ZiYESM",
+   "link": "https://www.youtube.com/watch?v=31N5_ZiYESM&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=31N5_ZiYESM",
+   "thumbnail": "https://i.ytimg.com/vi/31N5_ZiYESM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBAM4l14aBNz1KPHtZmN8Py7Bs24Q",
+   "title": "Sushil Kedia Stocks Picks | बाजार में गिरावट कहां करें निवेश? | Big Market Voice | Anuj Singhal",
+   "published_date": "1 day ago",
+   "views": "94K views",
+   "extracted_views": 94000,
+   "length": "12:52",
+   "channel": {
+    "name": "CNBC Awaaz.",
+    "link": "https://www.youtube.com/@cnbcawaaz"
+   }
+  },
+  {
+   "video_id": "PFXGK_kPr8c",
+   "link": "https://www.youtube.com/watch?v=PFXGK_kPr8c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PFXGK_kPr8c",
+   "thumbnail": "https://i.ytimg.com/vi/PFXGK_kPr8c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMW0dYQtyCRo8dHJcOcBlBezyVBg",
+   "title": "#Episode136 #YouTubeLive​: Stock Market Sawaal Jawaab with #AvadhutSathe",
+   "published_date": "Streamed 3 years ago",
+   "views": "18K views",
+   "extracted_views": 18000,
+   "length": "56:11",
+   "channel": {
+    "name": "Avadhut Sathe Trading Academy",
+    "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy"
+   }
+  },
+  {
+   "video_id": "BAw478-X9BQ",
+   "link": "https://www.youtube.com/watch?v=BAw478-X9BQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=BAw478-X9BQ",
+   "thumbnail": "https://i.ytimg.com/vi/BAw478-X9BQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwk6iD_qJFyAXvi2awdKmeoMSUHw",
+   "title": "Why This Trader Says The Stock Market’s Party Isn’t Over Yet | Investing With IBD Podcast",
+   "published_date": "Streamed 1 year ago",
+   "views": "14K views",
+   "extracted_views": 14000,
+   "length": "55:16",
+   "channel": {
+    "name": "Investor's Business Daily",
+    "link": "https://www.youtube.com/@investorsbusinessdaily"
+   }
+  },
+  {
+   "video_id": "PhvkL2LR0Sg",
+   "link": "https://www.youtube.com/watch?v=PhvkL2LR0Sg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PhvkL2LR0Sg",
+   "thumbnail": "https://i.ytimg.com/vi/PhvkL2LR0Sg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC66RZtAXJXWFSZWWksD4gC07pKWg",
+   "title": "Inside the Mind of an Options Trader | Trader's Table Ep. 2",
+   "published_date": "12 days ago",
+   "views": "171K views",
+   "extracted_views": 171000,
+   "length": "1:16:14",
+   "channel": {
+    "name": "Trading with Groww",
+    "link": "https://www.youtube.com/@TradingwithGroww"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC3RSSGtLYWpZZ3NFGAYyJSIRIgt0UkhrS2FqWWdzRTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC3RSSGtLYWpZZ3NFGAYyOCIRIgt0UkhrS2FqWWdzRTAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC3RSSGtLYWpZZ3NFGAYyOCIRIgt0UkhrS2FqWWdzRTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=tRHkKajYgsE"
+ },
+ "_fetched_at": "2026-10-08T15:59:12"
+}

@@ -1,0 +1,27 @@
+{
+ "calls": [
+  {
+   "company": "Suzlon Energy",
+   "symbol_guess": "SUZLON",
+   "direction": "buy",
+   "explicit": true,
+   "target_price": 61.0,
+   "stop_loss": null,
+   "horizon": null,
+   "quote": "आप भी खरीद सकते हैं।",
+   "start_s": 6,
+   "line": "दिए गए थे जो है आपकी तरफ से अंबाला जी की तरफ से टारगेट हिट हो गए हैं। अह पहला जो टारगेट था 50 वाला। अब क्या करें? क्योंकि अह दूसरा आपने बताया था रुकावट है 61 की।",
+   "evidence": [
+    {
+     "text": "आप भी खरीद सकते हैं",
+     "where": "transcript",
+     "start_s": 18
+    }
+   ],
+   "reason": "The speaker directly tells viewers they can buy Suzlon Energy and mentions a near‑term target around ₹61, indicating a clear buying recommendation."
+  }
+ ],
+ "rejected_unverified": 0,
+ "chunks": 1,
+ "llm_failed_chunks": 0
+}

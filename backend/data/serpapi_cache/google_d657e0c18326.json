@@ -1,0 +1,535 @@
+{
+ "search_metadata": {
+  "id": "6ac685a788de92c67c53c20d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/rk9sMOwzatVmMWMFaMyDYgczzM2ReqH7ijtbCIZAPlI/6ac685a788de92c67c53c20d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/rk9sMOwzatVmMWMFaMyDYgczzM2ReqH7ijtbCIZAPlI/6ac685a788de92c67c53c20d.md",
+  "pixel_position_endpoint": "https://serpapi.com/searches/rk9sMOwzatVmMWMFaMyDYgczzM2ReqH7ijtbCIZAPlI/6ac685a788de92c67c53c20d.json_with_pixel_position",
+  "created_at": "2026-10-07 17:47:19 UTC",
+  "processed_at": "2026-10-07 17:47:19 UTC",
+  "google_url": "https://www.google.com/search?q=Lalitha+Dwellers+share+price&oq=Lalitha+Dwellers+share+price&hl=en&gl=in&sourceid=chrome&ie=UTF-8",
+  "raw_html_file": "https://serpapi.com/searches/rk9sMOwzatVmMWMFaMyDYgczzM2ReqH7ijtbCIZAPlI/6ac685a788de92c67c53c20d.html",
+  "total_time_taken": 66.83
+ },
+ "search_parameters": {
+  "engine": "google",
+  "q": "Lalitha Dwellers share price",
+  "google_domain": "google.com",
+  "hl": "en",
+  "gl": "in",
+  "device": "desktop"
+ },
+ "search_information": {
+  "query_displayed": "Lalitha Dwellers share price",
+  "total_results": 1220000,
+  "time_taken_displayed": 0.32,
+  "organic_results_state": "Some results for exact spelling but showing fixed spelling",
+  "spelling_fix": "Lalitha Jewellers share price",
+  "showing_results_for": "Lalitha Jewellers share price"
+ },
+ "related_questions": [
+  {
+   "question": "Is Lalitha jewellery listed in the stock market?",
+   "type": "ai_overview",
+   "page_token": "pGkjAHicHdBdbpswAABg7TJ9bDCErIsUTaIEqDdMcbANvEz-SQLBBjdBIfDWG-wQO9VOM2nfEb7PP7rtu79ffjfjaG_b1WqapufzMJz18VkOZsVvcy9XkmstuOy2m68b8P0kd_t7FbxeZZATa2mInYOnBgVsQhfIDsbXaUkvhKkwZf6rjG8z8tQ6jdGBdi_ukaAMec0HATgrSpVxoFtUaCrZiHkIQ0ptjZyxPRK4z13iC_MwlNwmGZ_H_EIcoZul6up7StRYGdjmpPmBFrqml85V2uo0pmvu1vWhz31U0muuaVxpiAtWv6somOqEgKyIfooCFsKTXunCTbW8PVQYvdexrXmPEuI-PnICmewaj5uXWTBY4tgBFDR431SuAE1SlcEijOXUIw6h3zBP4AYR1MctDHCC5ozVJN2_jcxQistuTsHgC7cpWBghFuFcOHhdmUf_dJL3nff0f3r362TGrb0O539PHYt2",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=pGkjAHicHdBdbpswAABg7TJ9bDCErIsUTaIEqDdMcbANvEz-SQLBBjdBIfDWG-wQO9VOM2nfEb7PP7rtu79ffjfjaG_b1WqapufzMJz18VkOZsVvcy9XkmstuOy2m68b8P0kd_t7FbxeZZATa2mInYOnBgVsQhfIDsbXaUkvhKkwZf6rjG8z8tQ6jdGBdi_ukaAMec0HATgrSpVxoFtUaCrZiHkIQ0ptjZyxPRK4z13iC_MwlNwmGZ_H_EIcoZul6up7StRYGdjmpPmBFrqml85V2uo0pmvu1vWhz31U0muuaVxpiAtWv6somOqEgKyIfooCFsKTXunCTbW8PVQYvdexrXmPEuI-PnICmewaj5uXWTBY4tgBFDR431SuAE1SlcEijOXUIw6h3zBP4AYR1MctDHCC5ozVJN2_jcxQistuTsHgC7cpWBghFuFcOHhdmUf_dJL3nff0f3r362TGrb0O539PHYt2",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IklzIExhbGl0aGEgamV3ZWxsZXJ5IGxpc3RlZCBpbiB0aGUgc3RvY2sgbWFya2V0PyIsImxrIjoiR2l0cGN5QnNZV3hwZEdoaElHcGxkMlZzYkdWeWVTQnNhWE4wWldRZ2FXNGdjM1J2WTJzZ2JXRnlhMlYwIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IklzIExhbGl0aGEgamV3ZWxsZXJ5IGxpc3RlZCBpbiB0aGUgc3RvY2sgbWFya2V0PyIsImxrIjoiR2l0cGN5QnNZV3hwZEdoaElHcGxkMlZzYkdWeWVTQnNhWE4wWldRZ2FXNGdjM1J2WTJzZ2JXRnlhMlYwIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0%3D"
+  },
+  {
+   "question": "What is the 1 share price?",
+   "type": "ai_overview",
+   "page_token": "nFsbLnicHdBLboJAAIDh9DIuy0toMTFNFIi2MgrMA2bTwIyCzABTQVF3vUtP1dPUdPUvv-T__pHHVvw-kWoYVD_TtHEcn8uuK-X-mXWNlve3lmksl7LImZg5L47xdmBzv-8Xy25cREgp7MV6gqmNsTATwR2IAU0ssCygMAiqaHjnH0zINDGkJOTa7n1hRuR9g1fxiRDlZWncx212pTg4QY-OES7HArs7bHAY625V1BJAgc0c8RuvxQChBAy7dQwpyu4VCAX-SvTQeDTKanmmTahvA3dHiR1tE92mjfJCTFNOXqcEXW9xw8xclklQ0wvxecVW4JxLlT60ODWCjrWdEZksX4vAZ9baphI4vMYYIGnBgJqFGRyRAH1qKblJxRS1EhTInxzYZW5N_ofNPw_NMFOnrvwD9nx50w",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=nFsbLnicHdBLboJAAIDh9DIuy0toMTFNFIi2MgrMA2bTwIyCzABTQVF3vUtP1dPUdPUvv-T__pHHVvw-kWoYVD_TtHEcn8uuK-X-mXWNlve3lmksl7LImZg5L47xdmBzv-8Xy25cREgp7MV6gqmNsTATwR2IAU0ssCygMAiqaHjnH0zINDGkJOTa7n1hRuR9g1fxiRDlZWncx212pTg4QY-OES7HArs7bHAY625V1BJAgc0c8RuvxQChBAy7dQwpyu4VCAX-SvTQeDTKanmmTahvA3dHiR1tE92mjfJCTFNOXqcEXW9xw8xclklQ0wvxecVW4JxLlT60ODWCjrWdEZksX4vAZ9baphI4vMYYIGnBgJqFGRyRAH1qKblJxRS1EhTInxzYZW5N_ofNPw_NMFOnrvwD9nx50w",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEgc2hhcmUgcHJpY2U/IiwibGsiOiJHaFYzYUdGMElHbHpJREVnYzJoaGNtVWdjSEpwWTJVIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IldoYXQgaXMgdGhlIDEgc2hhcmUgcHJpY2U%2FIiwibGsiOiJHaFYzYUdGMElHbHpJREVnYzJoaGNtVWdjSEpwWTJVIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0%3D"
+  },
+  {
+   "question": "Which jewellery share is best?",
+   "type": "ai_overview",
+   "page_token": "GCRurnicHZBhboIwGECzy_hTi24umpglRQTJqKPwFeifpbQoSIFu4lT-7S471U4zswO8l7z3_aOrtv596Mu-N6flZHK5XMaHrjvoYiy7ZiJOt1ZOpNA6F7Jezp_n1sterpyzg-2PLQ7BGLamKGppS5nCiWPmRKunXbpx-FHvI23cCNGTXKtTiDZnaMqqqPk2Z2wXuyVwWAQiBQsQZcRBF1GTBDzViJT7oHGstOkzCwYF_JHHWxQn5rWIfVM4gCLmG9XUQ14bUGnZyZQAO_K1bK7i7ok5UiV4umJ1X4exg0Jk3mCGh9hTrLhz2fQaBLPgJjXJoMVDsla2SLQd6AV1ymyaW6WXpXjIGyPYDBCwBRWePydAWrfyMfXIbZdwKqzDTWxwRdyFuPclOfIj4ZZB4m6sfEpsMlV4tJdfq9no_-bqfd_0S_PZHf4AUomDCA",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=GCRurnicHZBhboIwGECzy_hTi24umpglRQTJqKPwFeifpbQoSIFu4lT-7S471U4zswO8l7z3_aOrtv596Mu-N6flZHK5XMaHrjvoYiy7ZiJOt1ZOpNA6F7Jezp_n1sterpyzg-2PLQ7BGLamKGppS5nCiWPmRKunXbpx-FHvI23cCNGTXKtTiDZnaMqqqPk2Z2wXuyVwWAQiBQsQZcRBF1GTBDzViJT7oHGstOkzCwYF_JHHWxQn5rWIfVM4gCLmG9XUQ14bUGnZyZQAO_K1bK7i7ok5UiV4umJ1X4exg0Jk3mCGh9hTrLhz2fQaBLPgJjXJoMVDsla2SLQd6AV1ymyaW6WXpXjIGyPYDBCwBRWePydAWrfyMfXIbZdwKqzDTWxwRdyFuPclOfIj4ZZB4m6sfEpsMlV4tJdfq9no_-bqfd_0S_PZHf4AUomDCA",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IldoaWNoIGpld2VsbGVyeSBzaGFyZSBpcyBiZXN0PyIsImxrIjoiR2gxM2FHbGphQ0JxWlhkbGJHeGxjbmtnYzJoaGNtVWdhWE1nWW1WemRBIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IldoaWNoIGpld2VsbGVyeSBzaGFyZSBpcyBiZXN0PyIsImxrIjoiR2gxM2FHbGphQ0JxWlhkbGJHeGxjbmtnYzJoaGNtVWdhWE1nWW1WemRBIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0%3D"
+  },
+  {
+   "question": "Is it good to buy in Lalitha jewellery?",
+   "type": "ai_overview",
+   "page_token": "ILnWUXicHdBRbpswAABQ7TL9bLBJszVSVNVNgGTDFQabmJ8K2wRSG_Aatw789S49VU8zae8I7_PLnAf9_cN1ztnLerHw3t-249ia5laO_aK-TINcyNoYUUu9Xv1cgYeT3Ozed-jp7x5l1Fq2JUEO2kkEDDG49FWB3vMtWnKjZz5UmLPU8YJdm570wpCpNmRkZRXJ1y5WCdmnSTWJLTnysDtXprvU0WGfaXAlsYuet0w3RxWyp8CLmWjV72DTt14A8yZjl3GofQZ_TQJajQfcN5HyFMplCvSUlc4Sev-a927O4d1cUhUVJYVpeYUpICifSViVTMvEUE7tbzWzmISsUIVCu45DAbqEH9EseluzkAaU3ZM6OawwxUN8PiCS4Om5rCjTdw6H7E8ZIU8ojotEBmWicjU_AgnsIS9weHOSH5vw5v_m5uXUu7V9G9t_gnWC9Q",
+   "serpapi_ai_overview_link": "https://serpapi.com/search.json?engine=google_ai_overview&page_token=ILnWUXicHdBRbpswAABQ7TL9bLBJszVSVNVNgGTDFQabmJ8K2wRSG_Aatw789S49VU8zae8I7_PLnAf9_cN1ztnLerHw3t-249ia5laO_aK-TINcyNoYUUu9Xv1cgYeT3Ozed-jp7x5l1Fq2JUEO2kkEDDG49FWB3vMtWnKjZz5UmLPU8YJdm570wpCpNmRkZRXJ1y5WCdmnSTWJLTnysDtXprvU0WGfaXAlsYuet0w3RxWyp8CLmWjV72DTt14A8yZjl3GofQZ_TQJajQfcN5HyFMplCvSUlc4Sev-a927O4d1cUhUVJYVpeYUpICifSViVTMvEUE7tbzWzmISsUIVCu45DAbqEH9EseluzkAaU3ZM6OawwxUN8PiCS4Om5rCjTdw6H7E8ZIU8ojotEBmWicjU_AgnsIS9weHOSH5vw5v_m5uXUu7V9G9t_gnWC9Q",
+   "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IklzIGl0IGdvb2QgdG8gYnV5IGluIExhbGl0aGEgamV3ZWxsZXJ5PyIsImxrIjoiR2lacGN5QnBkQ0JuYjI5a0lIUnZJR0oxZVNCcGJpQnNZV3hwZEdoaElHcGxkMlZzYkdWeWVRIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0=",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFBQkNtSkJTbWxVTkhSTVJXazFiVEJtUld0T1puUlJRall0WWkxcVJERmZhME51TVdoMFJ6UnJiakZUUlhVNE5VeFJNRlZoUWw5YWMxTkVhR1F5U0habmRYVlRkV05LU2xscFVrRldkVTk1VUVWMVRGUldVR1p0Y2xKV2NXVk1RbVJET0RkalVSSVdObTlZUjJGd2MyNXFXbGQxTkZGZlVXaHllalZEWnhvaVFVUnpjamxtVkVseFZVaDBMVFZMT1Vwdk1VaHJaRkZvVTIxYVlsSXliM042VVEiLCJmY3YiOiIzIiwiZWkiOiI2b1hHYXBzbmpaV3U0UV9RaHJ6NUNnIiwicWMiOiJDaDFzWVd4cGRHaGhJR3BsZDJWc2JHVnljeUJ6YUdGeVpTQndjbWxqWlJBQWZYd0FEVDgiLCJxdWVzdGlvbiI6IklzIGl0IGdvb2QgdG8gYnV5IGluIExhbGl0aGEgamV3ZWxsZXJ5PyIsImxrIjoiR2lacGN5QnBkQ0JuYjI5a0lIUnZJR0oxZVNCcGJpQnNZV3hwZEdoaElHcGxkMlZzYkdWeWVRIiwiYnMiOiJjMzJQTVF2Q01CQ0ZjYjNKUllTQWVwTUtJbWpCdVRnS2JnNmQwX1l3WjZPUjVLVDAzNXVpUTZYUy1mdmUzWHVnWVhjS2VOYVd4V2k4VVUzV2ttX1FjaEFxa1I4b2hqQ0lLeXE4YTEtUnBNbFdiVGlnSGNoMGZUaUF5b3dXakpuMjFoNkQwWjd3NmJtZ05KbXFTZjJsUHdTT01NOE1GNmJ6NElPam1WT0lQUlpxVmc4WmNJRlZITWVDVi1kS0ZJZjVxMm5yOWVhbXlWb3QtWl9hV3prZXZRRSIsImlkIjoiZmNfNm9YR2Fwc25qWld1NFFfUWhyejVDZ181In0%3D"
+  }
+ ],
+ "ai_overview": {
+  "text_blocks": [
+   {
+    "type": "paragraph",
+    "snippet": "Lalithaa Jewellery Mart Ltd. share price is trading around ₹405.45 on the Indian stock exchanges.",
+    "reference_indexes": [
+     0
+    ]
+   },
+   {
+    "type": "heading",
+    "snippet": "Stock Overview"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Last Traded Price: ₹405.45",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "Day Range: ₹389.95 – ₹408.25",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "52-Week Range: ₹240.35 – ₹408.25",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "Market Capitalization: ~₹22,693 Crore",
+      "reference_indexes": [
+       0
+      ]
+     },
+     {
+      "snippet": "Listing Date: August 24, 2026"
+     }
+    ],
+    "reference_indexes": [
+     1
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "You can view live data and historical charts directly on the BSE India listing page or track fundamentals via Groww.",
+    "snippet_links": [
+     {
+      "text": "BSE India",
+      "link": "https://www.bseindia.com/stock-share-price/lalithaa-jewellery-mart-ltd/lalithaa/544879"
+     },
+     {
+      "text": "Groww",
+      "link": "https://groww.in/stocks/lalithaa-jewellery-mart-ltd"
+     }
+    ],
+    "reference_indexes": [
+     2,
+     3
+    ]
+   },
+   {
+    "type": "paragraph",
+    "snippet": "If you'd like, let me know:"
+   },
+   {
+    "type": "list",
+    "list": [
+     {
+      "snippet": "Are you looking to buy, sell, or analyze the stock?"
+     },
+     {
+      "snippet": "Do you want a breakdown of its latest quarterly financial results?"
+     }
+    ]
+   }
+  ],
+  "references": [
+   {
+    "index": 0,
+    "title": "Lalithaa Jewellery Mart Ltd. Share Price Live Today",
+    "link": "https://www.cnbctv18.com/market/stocks/lalithaa-jewellery-mart-ltd-share-price/K5RX9O/",
+    "snippet": "Lalithaa Jewellery Mart Ltd. Share Price Live Today Day Range389.95 LH 52 Weeks Range201.00 408.25 LH Lalithaa Jewellery Mart Ltd. (NSE: LALITHAA) is up 3.27% from...",
+    "source": "CNBC TV18",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cnbctv18.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRTNhEhx-PDlSGyRD0m8X95pp6oan-qo0Svz5_AAHXFo4_u8YMOkJxt8DFq7QcK4Bqq3eKtF_nMRRKdU8k2lQGYfM-E5w"
+   },
+   {
+    "index": 1,
+    "title": "Lalithaa Jewell Share Price, Lalithaa Jewell Stock Price, Lalithaa Jewellery Mart Ltd. Stock Price, Share Price, Live BSE/NSE, Lalithaa Jewellery Mart Ltd. Bids Offers. Buy/Sell Lalithaa Jewellery Mart Ltd. news & tips, & F&O Quotes, NSE/BSE Forecast News and Live Quotes - Moneycontrol.com",
+    "link": "https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/lalithaajewellerymart/LJML",
+    "snippet": "Company: Lalithaa Jewellery Mart Ltd. (BSE/NSE, Sector: Diamond & Jewellery) Stock Data: Price 387.85-388.55 (01 Oct 2026), 52-Week Range 240.30-395.00, Market Cap...",
+    "source": "Moneycontrol.com",
+    "source_icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.moneycontrol.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIawSRCm9-iJUpeyU6zjrRDfcKswri340g7mIY2AjsPxIqBQpQWNTsfleNr4UVBHNyiQbKTeLJefOvciUnFouCAtVhlLSSkUouY9bEMkU"
+   },
+   {
+    "index": 2,
+    "title": "Lalithaa Jewellery Mart Stock Price Live NSE/BSE - Groww",
+    "link": "https://groww.in/stocks/lalithaa-jewellery-mart-ltd",
+    "snippet": "Table_title: Fundamentals Table_content: | Mkt Cap | ₹22,677Cr | | --- | --- | | ROE | 34.47% | | P/E Ratio(TTM) | 22.46 | | EPS(TTM) | 18.04 | | P/B Ratio | 5.49 ...",
+    "source": "Groww",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://groww.in&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+    "thumbnail": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS_PxiHIoT_5oa0PlWVz-S5Rq1uowoaDsRlkDjZEjSLlX9XjFzCAthvf9lIBHUv7QB5kjBpluwvtwyFeWA_u_b-24eb_8w0Qp2EAIJFl5Y"
+   },
+   {
+    "index": 3,
+    "title": "Lalithaa Jewellery Mart Ltd Live Stock Price, Lalithaa Live Share Price, 544879 | BSE",
+    "link": "https://www.bseindia.com/stock-share-price/lalithaa-jewellery-mart-ltd/lalithaa/544879",
+    "snippet": "Table_title: Historical Data Table_content: | 52 Wk High | 408.40 | | --- | --- | | 52 Wk Low | 240.30 | | Upper Price Band | 425.40 | | Lower Price Band | 384.90 ...",
+    "source": "BSE",
+    "source_icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.bseindia.com&client=AIM&size=128&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+   }
+  ]
+ },
+ "organic_results": [
+  {
+   "position": 1,
+   "title": "Lalithaa Jewellery Mart Stock Price Live NSE/BSE",
+   "link": "https://groww.in/stocks/lalithaa-jewellery-mart-ltd",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVso8XblA-WM1ax42O7qjBEkthzZH8eGBk4InZn1jIc2Fe7ZHBJPDNqyotgu23LtICCuM2XAMOxH8-uQbd5M28MDr0Nnsl8MsbfTqjgA0GX8Yav_G0wlCkUzPMEDa4Rlrmjh_UvDXiEtXQ&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECB4QAQ&uoh=1",
+   "displayed_link": "https://groww.in › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-AfxqJMbaDQ4-oz57z2N6xzIgdgK2wVH-b3inC_DyxtJ2Bbz_rdAiOxzhrWxjAAD-_sOdA-dni_gS9f4-DilazYMDEn3gQrs4Ng1VR1uOQbwMhHpPWWe8vxjm74fQ17Vtdv-hyZt58Cf509wyNe5tn0xl6OV46X4K-PdLjkXu86a9Q3zs1kfRAGTsan7ksJf8pzxSJv7TrGWU6WwYhGqWHwpwVJKOf3Fix_v0-MvOWzyhNeZFIAgfqlEUx77DNv0XH_lX5anfc1hzKXLZDYQzU7SKVPa8gL32UPP3Fs5dPXQghLw5YU5ZJlBZgk59ySKE-u72H5joXqY2_CAhSSAWzq8v0htSiTT_ksAY_a8Vi0crv0e4X08N7awg2YbDbKXJ1k6AAAA.webp",
+   "snippet": "Lalithaa Jewellery Mart ₹394.85 +394.85 (0.00%)1D. The 52 week high and low of Lalithaa Jewellery Mart is ₹408.25 and ₹240.35 as of 5 Oct '26",
+   "snippet_highlighted_words": [
+    "Lalithaa Jewellery Mart ₹394.85"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Mart ₹394.85 +394.85 (0.00%)1D. The 52 week high and low of Lalithaa Jewellery Mart is ₹408.25 and ₹240.35 as of 5 Oct '26",
+     "source_info_link": "https://groww.in/stocks/lalithaa-jewellery-mart-ltd",
+     "icon": "https://serpapi.com/images/i/UklGRlABAABXRUJQVlA4IEQBAACQCACdASogACAAPtEutFooIagoGAEAGglsAJ05QVS-AfxqJMbaDQ4-oz57z2N6xzIgdgK2wVH-b3inC_DyxtJ2Bbz_rdAiOxzhrWxjAAD-_sOdA-dni_gS9f4-DilazYMDEn3gQrs4Ng1VR1uOQbwMhHpPWWe8vxjm74fQ17Vtdv-hyZt58Cf509wyNe5tn0xl6OV46X4K-PdLjkXu86a9Q3zs1kfRAGTsan7ksJf8pzxSJv7TrGWU6WwYhGqWHwpwVJKOf3Fix_v0-MvOWzyhNeZFIAgfqlEUx77DNv0XH_lX5anfc1hzKXLZDYQzU7SKVPa8gL32UPP3Fs5dPXQghLw5YU5ZJlBZgk59ySKE-u72H5joXqY2_CAhSSAWzq8v0htSiTT_ksAY_a8Vi0crv0e4X08N7awg2YbDbKXJ1k6AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnNvOFhibEEtV00xYXg0Mk83cWpCRWt0aHpaSDhlR0JrNEluWm4xakljMkZlN1pIQkpQRE5xeW90Z3UyM0x0SUNDdU0yWEFNT3hIOC11UWJkNU0yOE1EcjBObnNsOE1zYmZUcWpnQTBHWDhZYXZfRzB3bENrVXpQTUVEYTRSbHJtamhfVXZEWGlFdFhREgQaAggAGuYFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMIFCAAQABgAIAAqNgoHbGFsaXRoYRUAAAAAGgZsYWxpdGEaEGxhbGl0aGFqZXdlbGxlcnMaDGl2O3A7bGFsaXRoYSpbCglqZXdlbGxlcnMVSzuzPhoIamV3ZWxlcnMaCGpld2VsbGVyGglqZXdlbGxlcnkaEGxhbGl0aGFqZXdlbGxlcnMaCG9ybmFtZW50Gg5pdjtwO2pld2VsbGVycypDCgVzaGFyZRWdFk1AGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZSpQCgVwcmljZRXbk4tAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWc284WGJsQS1XTTFheDQyTzdxakJFa3RoelpIOGVHQms0SW5abjFqSWMyRmU3WkhCSlBETnF5b3RndTIzTHRJQ0N1TTJYQU1PeEg4LXVRYmQ1TTI4TURyME5uc2w4TXNiZlRxamdBMEdYOFlhdl9HMHdsQ2tVelBNRURhNFJscm1qaF9VdkRYaUV0WFE6RkxhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCA8Yj5TdG9jayBQcmljZTwvYj4gTGl2ZSBOU0UvQlNFIC0gR3Jvd3dCngE8Yj5MYWxpdGhhYSBKZXdlbGxlcnkgTWFydCDigrkzOTQuODU8L2I-ICszOTQuODUgKDAuMDAlKTFELiBUaGUgNTIgd2VlayBoaWdoIGFuZCBsb3cgb2YgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgaXMg4oK5NDA4LjI1IGFuZCDigrkyNDAuMzUgYXMgb2YgNSBPY3QgJiMzOTsyNiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CqIBL2dvdG8_dXJsPUNBRVNiZ0hyT3pBVnNvOFhibEEtV00xYXg0Mk83cWpCRWt0aHpaSDhlR0JrNEluWm4xakljMkZlN1pIQkpQRE5xeW90Z3UyM0x0SUNDdU0yWEFNT3hIOC11UWJkNU0yOE1EcjBObnNsOE1zYmZUcWpnQTBHWDhZYXZfRzB3bENrVXpQTUVEYTRSbHJtamhfVXZEWGlFdFhREgQaAggAGuYFEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQMIFCAAQABgAIAAqNgoHbGFsaXRoYRUAAAAAGgZsYWxpdGEaEGxhbGl0aGFqZXdlbGxlcnMaDGl2O3A7bGFsaXRoYSpbCglqZXdlbGxlcnMVSzuzPhoIamV3ZWxlcnMaCGpld2VsbGVyGglqZXdlbGxlcnkaEGxhbGl0aGFqZXdlbGxlcnMaCG9ybmFtZW50Gg5pdjtwO2pld2VsbGVycypDCgVzaGFyZRWdFk1AGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZSpQCgVwcmljZRXbk4tAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UyogEvZ290bz91cmw9Q0FFU2JnSHJPekFWc284WGJsQS1XTTFheDQyTzdxakJFa3RoelpIOGVHQms0SW5abjFqSWMyRmU3WkhCSlBETnF5b3RndTIzTHRJQ0N1TTJYQU1PeEg4LXVRYmQ1TTI4TURyME5uc2w4TXNiZlRxamdBMEdYOFlhdl9HMHdsQ2tVelBNRURhNFJscm1qaF9VdkRYaUV0WFE6RkxhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCA8Yj5TdG9jayBQcmljZTwvYj4gTGl2ZSBOU0UvQlNFIC0gR3Jvd3dCngE8Yj5MYWxpdGhhYSBKZXdlbGxlcnkgTWFydCDigrkzOTQuODU8L2I-ICszOTQuODUgKDAuMDAlKTFELiBUaGUgNTIgd2VlayBoaWdoIGFuZCBsb3cgb2YgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgaXMg4oK5NDA4LjI1IGFuZCDigrkyNDAuMzUgYXMgb2YgNSBPY3QgJiMzOTsyNiICEAFIAFgAaAA",
+   "source": "Groww"
+  },
+  {
+   "position": 2,
+   "title": "Lalithaa Jewellery Mart Ltd share price",
+   "link": "https://www.screener.in/company/LALITHAA/",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVSPvEFR_rfpLW4sLcstvX08tU47L0vT_Wgp-A5FdoNeT1_9fDcmNiEoLMZQ8mbHLHoCqvtseJCDvca694kT8txE85WKTkaHYe6NWc62VJs9m5T3MclazoWqwnNj5B_5U&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCEQAQ&uoh=1",
+   "displayed_link": "https://www.screener.in › company › LALITHAA",
+   "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAADQBACdASocABwAPtE8tFooIigoFAEAGglsALsdgEyVg0yAWmo49vJ44uZiI78NgAD--QqevXC_eNabk_T_YkcLwIDC7yT5iDJ8zlYNfmTv74OflOj5wHYgFD-OB6OxcSGJ2Try7Z7VaALtwUapNtJLdyi_HXsmu7krIfuFmDF1-JzZapjuBtccE7rIv68Hjd_d-rDZarbXUS26lH8d5PNxp9IW8qbqzS3KsbUR3x0VJR2WaXev9Q4F-TiYV_dXZKwAAA.webp",
+   "snippet": "Lalithaa Jewellery Mart Ltd ₹ 395 -2.61% Current Price ₹ 395 High / Low ₹ 414 / 240 Stock P/E 23.2 Book Value ₹ Dividend",
+   "snippet_highlighted_words": [
+    "₹ 395"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Mart Ltd ₹ 395 -2.61% Current Price ₹ 395 High / Low ₹ 414 / 240 Stock P/E 23.2 Book Value ₹ Dividend",
+     "source_info_link": "https://www.screener.in/company/LALITHAA/",
+     "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAADQBACdASocABwAPtE8tFooIigoFAEAGglsALsdgEyVg0yAWmo49vJ44uZiI78NgAD--QqevXC_eNabk_T_YkcLwIDC7yT5iDJ8zlYNfmTv74OflOj5wHYgFD-OB6OxcSGJ2Try7Z7VaALtwUapNtJLdyi_HXsmu7krIfuFmDF1-JzZapjuBtccE7rIv68Hjd_d-rDZarbXUS26lH8d5PNxp9IW8qbqzS3KsbUR3x0VJR2WaXev9Q4F-TiYV_dXZKwAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlNQdkVGUl9yZnBMVzRzTGNzdHZYMDh0VTQ3TDB2VF9XZ3AtQTVGZG9OZVQxXzlmRGNtTmlFb0xNWlE4bWJITEhvQ3F2dHNlSkNEdmNhNjk0a1Q4dHhFODVXS1RrYUhZZTZOV2M2MlZKczltNVQzTWNsYXpvV3F3bk5qNUJfNVUSBBoCCAAavgUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFSXzBj8aCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVAADcPxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVyk9WQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlNQdkVGUl9yZnBMVzRzTGNzdHZYMDh0VTQ3TDB2VF9XZ3AtQTVGZG9OZVQxXzlmRGNtTmlFb0xNWlE4bWJITEhvQ3F2dHNlSkNEdmNhNjk0a1Q4dHhFODVXS1RrYUhZZTZOV2M2MlZKczltNVQzTWNsYXpvV3F3bk5qNUJfNVU6QExhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCBMdGQgPGI-c2hhcmUgcHJpY2U8L2I-IC0gU2NyZWVuZXJChwFMYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBMdGQgPGI-4oK5IDM5NTwvYj4gLTIuNjElIEN1cnJlbnQgUHJpY2Ug4oK5IDM5NSBIaWdoIC8gTG93IOKCuSA0MTQgLyAyNDAgU3RvY2sgUC9FIDIzLjIgQm9vayBWYWx1ZSDigrkgRGl2aWRlbmQiAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlNQdkVGUl9yZnBMVzRzTGNzdHZYMDh0VTQ3TDB2VF9XZ3AtQTVGZG9OZVQxXzlmRGNtTmlFb0xNWlE4bWJITEhvQ3F2dHNlSkNEdmNhNjk0a1Q4dHhFODVXS1RrYUhZZTZOV2M2MlZKczltNVQzTWNsYXpvV3F3bk5qNUJfNVUSBBoCCAAavgUSAggAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCYBQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFSXzBj8aCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVAADcPxoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVyk9WQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMpUBL2dvdG8_dXJsPUNBRVNaQUhyT3pBVlNQdkVGUl9yZnBMVzRzTGNzdHZYMDh0VTQ3TDB2VF9XZ3AtQTVGZG9OZVQxXzlmRGNtTmlFb0xNWlE4bWJITEhvQ3F2dHNlSkNEdmNhNjk0a1Q4dHhFODVXS1RrYUhZZTZOV2M2MlZKczltNVQzTWNsYXpvV3F3bk5qNUJfNVU6QExhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCBMdGQgPGI-c2hhcmUgcHJpY2U8L2I-IC0gU2NyZWVuZXJChwFMYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBMdGQgPGI-4oK5IDM5NTwvYj4gLTIuNjElIEN1cnJlbnQgUHJpY2Ug4oK5IDM5NSBIaWdoIC8gTG93IOKCuSA0MTQgLyAyNDAgU3RvY2sgUC9FIDIzLjIgQm9vayBWYWx1ZSDigrkgRGl2aWRlbmQiAhABSABYAGgA",
+   "source": "Screener"
+  },
+  {
+   "position": 3,
+   "title": "Lalithaa Jewellery Mart Ltd. - Share/Stock Price",
+   "link": "https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/lalithaajewellerymart/LJML",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmQEB6zswFchyGt50Vx004IyXDvec1UeSrafaW3W-cCmq2YyWYvXmlD7o3qBvjnf7peueW8cYSL5MjTLexd8ppbdAEqidAEEO0rzggTm8NMCLfxWZLR6qG_MCxdCuXaeylUH4TMx2wDQ4LmnjWDYI7UHWddxzFRMMxlh_jCue9Z4nf0Rgf86npgpZrMl1RimoqPDzICO5GbXksMw&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCkQAQ&uoh=1",
+   "displayed_link": "https://www.moneycontrol.com › india › LJML",
+   "favicon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp",
+   "snippet": "Open. 407.00 · Previous Close. 405.45 · UC Limit. 425.70 · LC Limit. 385.20 · Volume. 4147890 · VWAP. 400.88 · Mkt Cap (Rs. Cr.) 22,100 · 20D Avg Volume. 0.",
+   "snippet_highlighted_words": [
+    "407.00"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Open. 407.00 · Previous Close. 405.45 · UC Limit. 425.70 · LC Limit. 385.20 · Volume. 4147890 · VWAP. 400.88 · Mkt Cap (Rs. Cr.) 22,100 · 20D Avg Volume. 0.",
+     "source_info_link": "https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/lalithaajewellerymart/LJML",
+     "icon": "https://serpapi.com/images/i/UklGRjABAABXRUJQVlA4ICQBAADQBgCdASocABwAPtEytFooIigoGAEAGglsAJ0yhHUHo3DqEAB6S3lf6ZjNBOnnUcZw4UStFh_hxFbdxcA6YAAA_QIg9W76rk0ssBxejdd6HEgnuj8mM5Qy5SsRX5HjPcz8vzxpL75lyPxgCNLwaGNpCXTfxxp7iI9unSj8IrD4FW3AK8AeJNv1f_YhjoL77DjQSpPtcjQ4nudgSg1Rqa939lgiDg0-Nhp7Q9xvUtzi0oEckIz6HT_68GUeyCwSoPKEayg-nuz2D6H8f3gqfNP7-z4ZU_i1j6eVqmt7Yrf7xHMfuOZOr54D2oVD8QatSixzWBjwpvPaw8_pt7fuhLkmWijZ8kZ1SuZouOfXQazOJLSt9sLjUkL0yJZKxBGWeYxj8AAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZjaHlHdDUwVngwMDRJeVhEdmVjMVVlU3JhZmFXM1ctY0NtcTJZeVdZdlhtbEQ3bzNxQnZqbmY3cGV1ZVc4Y1lTTDVNalRMZXhkOHBwYmRBRXFpZEFFRU8wcnpnZ1RtOE5NQ0xmeFdaTFI2cUdfTUN4ZEN1WGFleWxVSDRUTXgyd0RRNExtbmpXRFlJN1VIV2RkeHpGUk1NeGxoX2pDdWU5WjRuZjBSZ2Y4Nm5wZ3Back1sMVJpbW9xUER6SUNPNUdiWGtzTXcSBBoCCAAazwYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAqwYIABAAGAAgACo2CgdsYWxpdGhhFQAAAAAaBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxUAAAAAGghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFWJ1U0AaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFYgti0AaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGY2h5R3Q1MFZ4MDA0SXlYRHZlYzFVZVNyYWZhVzNXLWNDbXEyWXlXWXZYbWxEN28zcUJ2am5mN3BldWVXOGNZU0w1TWpUTGV4ZDhwcGJkQUVxaWRBRUVPMHJ6Z2dUbThOTUNMZnhXWkxSNnFHX01DeGRDdVhhZXlsVUg0VE14MndEUTRMbW5qV0RZSTdVSFdkZHh6RlJNTXhsaF9qQ3VlOVo0bmYwUmdmODZucGdwWnJNbDFSaW1vcVBEeklDTzVHYlhrc013Oj5MYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgTHRkLiAtIFNoYXJlLzxiPlN0b2NrIFByaWNlPC9iPkLUAU9wZW4uIDxiPjQwNy4wMDwvYj4gJm1pZGRvdDsgUHJldmlvdXMgQ2xvc2UuIDQwNS40NSAmbWlkZG90OyBVQyBMaW1pdC4gNDI1LjcwICZtaWRkb3Q7IExDIExpbWl0LiAzODUuMjAgJm1pZGRvdDsgVm9sdW1lLiA0MTQ3ODkwICZtaWRkb3Q7IFZXQVAuIDQwMC44OCAmbWlkZG90OyBNa3QgQ2FwIChScy4gQ3IuKSAyMiwxMDAgJm1pZGRvdDsgMjBEIEF2ZyBWb2x1bWUuIDAuIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=Ct0BL2dvdG8_dXJsPUNBRVNtUUVCNnpzd0ZjaHlHdDUwVngwMDRJeVhEdmVjMVVlU3JhZmFXM1ctY0NtcTJZeVdZdlhtbEQ3bzNxQnZqbmY3cGV1ZVc4Y1lTTDVNalRMZXhkOHBwYmRBRXFpZEFFRU8wcnpnZ1RtOE5NQ0xmeFdaTFI2cUdfTUN4ZEN1WGFleWxVSDRUTXgyd0RRNExtbmpXRFlJN1VIV2RkeHpGUk1NeGxoX2pDdWU5WjRuZjBSZ2Y4Nm5wZ3Back1sMVJpbW9xUER6SUNPNUdiWGtzTXcSBBoCCAAazwYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAqwYIABAAGAAgACo2CgdsYWxpdGhhFQAAAAAaBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxUAAAAAGghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFWJ1U0AaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFYgti0AaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTLdAS9nb3RvP3VybD1DQUVTbVFFQjZ6c3dGY2h5R3Q1MFZ4MDA0SXlYRHZlYzFVZVNyYWZhVzNXLWNDbXEyWXlXWXZYbWxEN28zcUJ2am5mN3BldWVXOGNZU0w1TWpUTGV4ZDhwcGJkQUVxaWRBRUVPMHJ6Z2dUbThOTUNMZnhXWkxSNnFHX01DeGRDdVhhZXlsVUg0VE14MndEUTRMbW5qV0RZSTdVSFdkZHh6RlJNTXhsaF9qQ3VlOVo0bmYwUmdmODZucGdwWnJNbDFSaW1vcVBEeklDTzVHYlhrc013Oj5MYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgTHRkLiAtIFNoYXJlLzxiPlN0b2NrIFByaWNlPC9iPkLUAU9wZW4uIDxiPjQwNy4wMDwvYj4gJm1pZGRvdDsgUHJldmlvdXMgQ2xvc2UuIDQwNS40NSAmbWlkZG90OyBVQyBMaW1pdC4gNDI1LjcwICZtaWRkb3Q7IExDIExpbWl0LiAzODUuMjAgJm1pZGRvdDsgVm9sdW1lLiA0MTQ3ODkwICZtaWRkb3Q7IFZXQVAuIDQwMC44OCAmbWlkZG90OyBNa3QgQ2FwIChScy4gQ3IuKSAyMiwxMDAgJm1pZGRvdDsgMjBEIEF2ZyBWb2x1bWUuIDAuIgIQAUgAWABoAA",
+   "source": "Moneycontrol.com",
+   "read_more_link": "https://www.moneycontrol.com/india/stockpricequote/diamondjewellery/lalithaajewellerymart/LJML#:~:text=Open,407.00&text=Previous%20Close,405.45&text=UC%20Limit,425.70&text=LC%20Limit,385.20&text=Volume,4147890&text=VWAP,400.88&text=Mkt%20Cap%20(Rs.%20Cr.),22%2C100&text=20D%20Avg%20Volume,0"
+  },
+  {
+   "position": 4,
+   "title": "Lalithaa Jewellery Mart Ltd Share Price | Live Updates",
+   "link": "https://www.bajajbroking.in/stock/lalithaa-jewellery-mart-ltd-share-price",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShAEB6zswFcgRhkcnLd6ZrHC7Lgu6N1Q3NDskH8YyQOTS7RFlrDZuHEWsx7T63GmM_3FJbhBLCAlRQsbV-X8KetVHAEFXZK21ObmzYZmWxmoV5fEtmEy8rHEIyqqw8RxIidUl9aTcG5MZxyjXrNPfZzwWQe06hb2G0cGy4YuLFGU3tnz-ghU&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCsQAQ&uoh=1",
+   "displayed_link": "https://www.bajajbroking.in › Stock",
+   "favicon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAQBgCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHhPqvFiODUACPARFfq_zW69UCgzGdrc9I7jzwAA_u46Y0WS9KkKD4Vi2UguCB-Jx1qpc0dPxfa26XLa00_1rkYY62WlKb4v9LexXz_52F0Lmt8PxAeBVcc27fuPq2eE6J3ZxgCpR3SOMx_Ns6BAdYFmFsRvk-vgmFieroDPhJxcozZ1M-thfdUcgmthPIZU792nEZ0ltwpLI9H8NRo-yyS23inAaEMNNwD6CAmpJkkXvecsUFNgk1wsHcfwWd8v8WzBxj7Gd5srSUlQuflAKflHXihWuRkFX9cHhkDK0A9o4LFLTKYRwM2PUz9KxpnKQMQ6GE31VRUAa6K8vUAAAA.webp",
+   "snippet": "Lalithaa Jewellery Mart Ltd share price is for NSE ₹ 394.85 & for BSE ₹ 394.70 as on Oct 07 2026 03:30 PM. What is the Market Cap of Lalithaa Jewellery Mart ...",
+   "snippet_highlighted_words": [
+    "NSE ₹ 394.85"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Mart Ltd share price is for NSE ₹ 394.85 & for BSE ₹ 394.70 as on Oct 07 2026 03:30 PM. What is the Market Cap of Lalithaa Jewellery Mart ...",
+     "source_info_link": "https://www.bajajbroking.in/stock/lalithaa-jewellery-mart-ltd-share-price",
+     "icon": "https://serpapi.com/images/i/UklGRigBAABXRUJQVlA4IBwBAAAQBgCdASogACAAPtEutFooIagoGAEAGglsAJ0yhHhPqvFiODUACPARFfq_zW69UCgzGdrc9I7jzwAA_u46Y0WS9KkKD4Vi2UguCB-Jx1qpc0dPxfa26XLa00_1rkYY62WlKb4v9LexXz_52F0Lmt8PxAeBVcc27fuPq2eE6J3ZxgCpR3SOMx_Ns6BAdYFmFsRvk-vgmFieroDPhJxcozZ1M-thfdUcgmthPIZU792nEZ0ltwpLI9H8NRo-yyS23inAaEMNNwD6CAmpJkkXvecsUFNgk1wsHcfwWd8v8WzBxj7Gd5srSUlQuflAKflHXihWuRkFX9cHhkDK0A9o4LFLTKYRwM2PUz9KxpnKQMQ6GE31VRUAa6K8vUAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ1Joa2NuTGQ2WnJIQzdMZ3U2TjFRM05Ec2tIOFl5UU9UUzdSRmxyRFp1SEVXc3g3VDYzR21NXzNGSmJoQkxDQWxSUXNiVi1YOEtldFZIQUVGWFpLMjFPYm16WVptV3htb1Y1ZkV0bUV5OHJIRUl5cXF3OFJ4SWlkVWw5YVRjRzVNWnh5alhyTlBmWnp3V1FlMDZoYjJHMGNHeTRZdUxGR1UzdG56LWdoVRIEGgIIABqiBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD-BQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFT7rSz4aCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVjamnQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVCCGjQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ1Joa2NuTGQ2WnJIQzdMZ3U2TjFRM05Ec2tIOFl5UU9UUzdSRmxyRFp1SEVXc3g3VDYzR21NXzNGSmJoQkxDQWxSUXNiVi1YOEtldFZIQUVGWFpLMjFPYm16WVptV3htb1Y1ZkV0bUV5OHJIRUl5cXF3OFJ4SWlkVWw5YVRjRzVNWnh5alhyTlBmWnp3V1FlMDZoYjJHMGNHeTRZdUxGR1UzdG56LWdoVTpNTGFsaXRoYWEgPGI-SmV3ZWxsZXJ5PC9iPiBNYXJ0IEx0ZCA8Yj5TaGFyZSBQcmljZTwvYj4gLSBTdG9jayAtIEJhamFqIEJyb2tpbmdCtAFMYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBMdGQgc2hhcmUgcHJpY2UgaXMgZm9yIDxiPk5TRSDigrkgMzk0Ljg1PC9iPiAmYW1wOyBmb3IgQlNFIOKCuSAzOTQuNzAgYXMgb24gT2N0IDA3IDIwMjYgMDM6MzAgUE0uIFdoYXQgaXMgdGhlIE1hcmtldCBDYXAgb2YgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ1Joa2NuTGQ2WnJIQzdMZ3U2TjFRM05Ec2tIOFl5UU9UUzdSRmxyRFp1SEVXc3g3VDYzR21NXzNGSmJoQkxDQWxSUXNiVi1YOEtldFZIQUVGWFpLMjFPYm16WVptV3htb1Y1ZkV0bUV5OHJIRUl5cXF3OFJ4SWlkVWw5YVRjRzVNWnh5alhyTlBmWnp3V1FlMDZoYjJHMGNHeTRZdUxGR1UzdG56LWdoVRIEGgIIABqiBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkD-BQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFT7rSz4aCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVjamnQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVCCGjQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMsEBL2dvdG8_dXJsPUNBRVNoQUVCNnpzd0ZjZ1Joa2NuTGQ2WnJIQzdMZ3U2TjFRM05Ec2tIOFl5UU9UUzdSRmxyRFp1SEVXc3g3VDYzR21NXzNGSmJoQkxDQWxSUXNiVi1YOEtldFZIQUVGWFpLMjFPYm16WVptV3htb1Y1ZkV0bUV5OHJIRUl5cXF3OFJ4SWlkVWw5YVRjRzVNWnh5alhyTlBmWnp3V1FlMDZoYjJHMGNHeTRZdUxGR1UzdG56LWdoVTpNTGFsaXRoYWEgPGI-SmV3ZWxsZXJ5PC9iPiBNYXJ0IEx0ZCA8Yj5TaGFyZSBQcmljZTwvYj4gLSBTdG9jayAtIEJhamFqIEJyb2tpbmdCtAFMYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBMdGQgc2hhcmUgcHJpY2UgaXMgZm9yIDxiPk5TRSDigrkgMzk0Ljg1PC9iPiAmYW1wOyBmb3IgQlNFIOKCuSAzOTQuNzAgYXMgb24gT2N0IDA3IDIwMjYgMDM6MzAgUE0uIFdoYXQgaXMgdGhlIE1hcmtldCBDYXAgb2YgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "Bajaj Broking",
+   "read_more_link": "https://www.bajajbroking.in/stock/lalithaa-jewellery-mart-ltd-share-price#:~:text=Lalithaa%20Jewellery%20Mart%20Ltd%20share,Lalithaa%20Jewellery%20Mart%20Ltd%20Share%3F"
+  },
+  {
+   "position": 5,
+   "title": "Lalithaa Jewellery Mart Ltd Live Stock Price ...",
+   "link": "https://www.bseindia.com/stock-share-price/lalithaa-jewellery-mart-ltd/lalithaa/544879",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESkQEB6zswFSRylCcYp5rq24nKERqCWG8Cx_xYPCQzAZT9duLJp3c3J4E4_DlaD7NTkH2FZzTwu1Jr_q8rXyABY6YCTwQO-5OPE_ZR8oZ4TpRl74IzKxdF5ROg9JGBL6ION6YdO6CmudYHN7_YGx_4YYNJpCUXgHtXbKWCPiqgTipJgznShNcYMw75r9SQa79WgTek&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECC0QAQ&uoh=1",
+   "displayed_link": "https://www.bseindia.com › stock-share-price › lalithaa",
+   "date": "2 days ago",
+   "snippet": "Live BSE Share Price today, Close 388.55 Open 384.00 High 405.80 Low 384.00 VWAP 394.32 52 Wk High 405.80 52 Wk Low 240.30. Current price 392.6 ...",
+   "snippet_highlighted_words": [
+    "Live BSE Share Price today"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Live BSE Share Price today, Close 388.55 Open 384.00 High 405.80 Low 384.00 VWAP 394.32 52 Wk High 405.80 52 Wk Low 240.30. Current price 392.6 ...",
+     "source_info_link": "https://www.bseindia.com/stock-share-price/lalithaa-jewellery-mart-ltd/lalithaa/544879"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZTUnlsQ2NZcDVycTI0bktFUnFDV0c4Q3hfeFlQQ1F6QVpUOWR1TEpwM2MzSjRFNF9EbGFEN05Ua0gyRlp6VHd1MUpyX3E4clh5QUJZNllDVHdRTy01T1BFX1pSOG9aNFRwUmw3NEl6S3hkRjVST2c5SkdCTDZJT042WWRPNkNtdWRZSE43X1lHeF80WVlOSnBDVVhnSHRYYktXQ1BpcWdUaXBKZ3puU2hOY1lNdzc1cjlTUWE3OVdnVGVrEgQaAggAGv0FEgIIABoAIgIIASoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDVBQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFQAAAAAaCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVAAAOQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVJYGHQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZTUnlsQ2NZcDVycTI0bktFUnFDV0c4Q3hfeFlQQ1F6QVpUOWR1TEpwM2MzSjRFNF9EbGFEN05Ua0gyRlp6VHd1MUpyX3E4clh5QUJZNllDVHdRTy01T1BFX1pSOG9aNFRwUmw3NEl6S3hkRjVST2c5SkdCTDZJT042WWRPNkNtdWRZSE43X1lHeF80WVlOSnBDVVhnSHRYYktXQ1BpcWdUaXBKZ3puU2hOY1lNdzc1cjlTUWE3OVdnVGVrOihMYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgTHRkIC0gQlNFQp8BPGI-TGl2ZSBCU0UgU2hhcmUgUHJpY2UgdG9kYXk8L2I-LCBDbG9zZSAzODguNTUgT3BlbiAzODQuMDAgSGlnaCA0MDUuODAgTG93IDM4NC4wMCBWV0FQIDM5NC4zMiA1MiBXayBIaWdoIDQwNS44MCA1MiBXayBMb3cgMjQwLjMwLiBDdXJyZW50IHByaWNlIDM5Mi42Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZTUnlsQ2NZcDVycTI0bktFUnFDV0c4Q3hfeFlQQ1F6QVpUOWR1TEpwM2MzSjRFNF9EbGFEN05Ua0gyRlp6VHd1MUpyX3E4clh5QUJZNllDVHdRTy01T1BFX1pSOG9aNFRwUmw3NEl6S3hkRjVST2c5SkdCTDZJT042WWRPNkNtdWRZSE43X1lHeF80WVlOSnBDVVhnSHRYYktXQ1BpcWdUaXBKZ3puU2hOY1lNdzc1cjlTUWE3OVdnVGVrEgQaAggAGv0FEgIIABoAIgIIASoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkDVBQgAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFQAAAAAaCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVAAAOQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVJYGHQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMtIBL2dvdG8_dXJsPUNBRVNrUUVCNnpzd0ZTUnlsQ2NZcDVycTI0bktFUnFDV0c4Q3hfeFlQQ1F6QVpUOWR1TEpwM2MzSjRFNF9EbGFEN05Ua0gyRlp6VHd1MUpyX3E4clh5QUJZNllDVHdRTy01T1BFX1pSOG9aNFRwUmw3NEl6S3hkRjVST2c5SkdCTDZJT042WWRPNkNtdWRZSE43X1lHeF80WVlOSnBDVVhnSHRYYktXQ1BpcWdUaXBKZ3puU2hOY1lNdzc1cjlTUWE3OVdnVGVrOihMYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgTHRkIC0gQlNFQp8BPGI-TGl2ZSBCU0UgU2hhcmUgUHJpY2UgdG9kYXk8L2I-LCBDbG9zZSAzODguNTUgT3BlbiAzODQuMDAgSGlnaCA0MDUuODAgTG93IDM4NC4wMCBWV0FQIDM5NC4zMiA1MiBXayBIaWdoIDQwNS44MCA1MiBXayBMb3cgMjQwLjMwLiBDdXJyZW50IHByaWNlIDM5Mi42Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "BSE"
+  },
+  {
+   "position": 6,
+   "title": "Lalithaa Jewellery Mart Ltd Share/Stock Price Live NSE/BSE",
+   "link": "https://www.hdfcsec.com/market/company/lalithaa-jewellery-mart-ltd-29036",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFT0crpg3JunuNoc_mxp0B0dA0zYqen_IoEmDDBU0eSShct5aeJuebOjpkmuDZauCoxGqL85GDBrENi8yYPchWslEha-LaSkIiQ9S92Su63cS9FMQE_MC0c-xNzlyAhWAvL0JKwgp11CTisrzPG_I2U6ttQOlUiv44gvgnqBvwQ&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCoQAQ&uoh=1",
+   "displayed_link": "https://www.hdfcsec.com › market › company › lalithaa-...",
+   "favicon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQAwCdASoQABAAAsBMJbACdHMAvADeMSIoLLLTl5qHBm90AAD-NDsqLbbOQHHH3hHvJpEn223zuD1ACaoHwjzwTebcCu1idTRehhS3f5Kr31l-gQj9rLk7h-BgmHo2vsLO8TPC7Zt59L_VQR6IrWkMoKkm-MO47IOa9a6HLB4IV_1X6Gv0QVdZZXkJ5N9Tfk-uTjIvOFgUr-__4mLF-HaMwH_vIt8bqNqn_nUg4pK1UbycHud7zA0AAAA.webp",
+   "snippet": "Lalithaa Jewellery Mart Ltd, a Jewel 387.85 Change: 5.95 (1.56%) 1 Year return 56.11% 581.95 Change: -8.20 (-1.39%) 1 Year return. Change: -0.79 … 3.55 Change: ...",
+   "snippet_highlighted_words": [
+    "387.85"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Mart Ltd, a Jewel 387.85 Change: 5.95 (1.56%) 1 Year return 56.11% 581.95 Change: -8.20 (-1.39%) 1 Year return. Change: -0.79 … 3.55 Change: ...",
+     "source_info_link": "https://www.hdfcsec.com/market/company/lalithaa-jewellery-mart-ltd-29036",
+     "icon": "https://serpapi.com/images/i/UklGRsYAAABXRUJQVlA4ILoAAABQAwCdASoQABAAAsBMJbACdHMAvADeMSIoLLLTl5qHBm90AAD-NDsqLbbOQHHH3hHvJpEn223zuD1ACaoHwjzwTebcCu1idTRehhS3f5Kr31l-gQj9rLk7h-BgmHo2vsLO8TPC7Zt59L_VQR6IrWkMoKkm-MO47IOa9a6HLB4IV_1X6Gv0QVdZZXkJ5N9Tfk-uTjIvOFgUr-__4mLF-HaMwH_vIt8bqNqn_nUg4pK1UbycHud7zA0AAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUMGNycGczSnVudU5vY19teHAwQjBkQTB6WXFlbl9Jb0VtRERCVTBlU1NoY3Q1YWVKdWViT2pwa211RFphdUNveEdxTDg1R0RCckVOaTh5WVBjaFdzbEVoYS1MYVNrSWlROVM5MlN1NjNjUzlGTVFFX01DMGMteE56bHlBaFdBdkwwSkt3Z3AxMUNUaXNyelBHX0kyVTZ0dFFPbFVpdjQ0Z3ZnbnFCdndREgQaAggAGpgGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPQFCAAQABgAIAAqNgoHbGFsaXRoYRUAAAAAGgZsYWxpdGEaEGxhbGl0aGFqZXdlbGxlcnMaDGl2O3A7bGFsaXRoYSpbCglqZXdlbGxlcnMVAAAAABoIamV3ZWxlcnMaCGpld2VsbGVyGglqZXdlbGxlcnkaEGxhbGl0aGFqZXdlbGxlcnMaCG9ybmFtZW50Gg5pdjtwO2pld2VsbGVycypDCgVzaGFyZRVkAjNAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZSpQCgVwcmljZRVmOzNAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlQwY3JwZzNKdW51Tm9jX214cDBCMGRBMHpZcWVuX0lvRW1EREJVMGVTU2hjdDVhZUp1ZWJPanBrbXVEWmF1Q294R3FMODVHREJyRU5pOHlZUGNoV3NsRWhhLUxhU2tJaVE5UzkyU3U2M2NTOUZNUUVfTUMwYy14TnpseUFoV0F2TDBKS3dncDExQ1Rpc3J6UEdfSTJVNnR0UU9sVWl2NDRndmducUJ2d1E6R0xhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCBMdGQgPGI-U2hhcmUgUHJpY2U8L2I-IC0gSERGQyBTZWN1cml0aWVzQrEBTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgTHRkLCBhIEpld2VsIDxiPjM4Ny44NTwvYj4gQ2hhbmdlOiA1Ljk1ICgxLjU2JSkgMSBZZWFyIHJldHVybiA1Ni4xMSUgNTgxLjk1IENoYW5nZTogLTguMjAgKC0xLjM5JSkgMSBZZWFyIHJldHVybi4gQ2hhbmdlOiAtMC43OSDigKYgMy41NSBDaGFuZ2U6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsABL2dvdG8_dXJsPUNBRVNnd0VCNnpzd0ZUMGNycGczSnVudU5vY19teHAwQjBkQTB6WXFlbl9Jb0VtRERCVTBlU1NoY3Q1YWVKdWViT2pwa211RFphdUNveEdxTDg1R0RCckVOaTh5WVBjaFdzbEVoYS1MYVNrSWlROVM5MlN1NjNjUzlGTVFFX01DMGMteE56bHlBaFdBdkwwSkt3Z3AxMUNUaXNyelBHX0kyVTZ0dFFPbFVpdjQ0Z3ZnbnFCdndREgQaAggAGpgGEgAaACIAKgAyBggBEgJpbjoAQgQIARAASgBaAHIAegCCQPQFCAAQABgAIAAqNgoHbGFsaXRoYRUAAAAAGgZsYWxpdGEaEGxhbGl0aGFqZXdlbGxlcnMaDGl2O3A7bGFsaXRoYSpbCglqZXdlbGxlcnMVAAAAABoIamV3ZWxlcnMaCGpld2VsbGVyGglqZXdlbGxlcnkaEGxhbGl0aGFqZXdlbGxlcnMaCG9ybmFtZW50Gg5pdjtwO2pld2VsbGVycypDCgVzaGFyZRVkAjNAGgZzaGFyZXMaBXN0b2NrGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZSpQCgVwcmljZRVmOzNAGgRjb3N0GgVjb3N0cxoGcHJpY2VzGgVyYXRlcxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UywAEvZ290bz91cmw9Q0FFU2d3RUI2enN3RlQwY3JwZzNKdW51Tm9jX214cDBCMGRBMHpZcWVuX0lvRW1EREJVMGVTU2hjdDVhZUp1ZWJPanBrbXVEWmF1Q294R3FMODVHREJyRU5pOHlZUGNoV3NsRWhhLUxhU2tJaVE5UzkyU3U2M2NTOUZNUUVfTUMwYy14TnpseUFoV0F2TDBKS3dncDExQ1Rpc3J6UEdfSTJVNnR0UU9sVWl2NDRndmducUJ2d1E6R0xhbGl0aGFhIDxiPkpld2VsbGVyeTwvYj4gTWFydCBMdGQgPGI-U2hhcmUgUHJpY2U8L2I-IC0gSERGQyBTZWN1cml0aWVzQrEBTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgTHRkLCBhIEpld2VsIDxiPjM4Ny44NTwvYj4gQ2hhbmdlOiA1Ljk1ICgxLjU2JSkgMSBZZWFyIHJldHVybiA1Ni4xMSUgNTgxLjk1IENoYW5nZTogLTguMjAgKC0xLjM5JSkgMSBZZWFyIHJldHVybi4gQ2hhbmdlOiAtMC43OSDigKYgMy41NSBDaGFuZ2U6Jm5ic3A7Li4uIgIQAUgAWABoAA",
+   "source": "HDFC Securities"
+  },
+  {
+   "position": 7,
+   "title": "Lalithaa Jewellery Share Price Today, Market Cap & Stock ...",
+   "link": "https://ticker.finology.in/company/LALITHAA",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZgHrOzAVhn_n-w0zlY6iiAZRA1ncEenbfCR_WUg8n9WZ6BvmwGeBowiby_iQSUZDAiuqQ_n934Ovvn8990Ucyif1hXYYjClDhZMebJBPxPJw1w4L4bRSxNVk4-1Apa7fkMk_XWCD6Q&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCgQAQ&uoh=1",
+   "displayed_link": "https://ticker.finology.in › Company",
+   "favicon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfs3DmuF-A2zV2zbzCV4HuNy1KpKaamPssypovGoENUDz6mH2SzJf8YAD-_sLLYotn2sExjbsz9v8efzUwgZkSOWMpCYEsSw0okKc1YtcmBWoDCOT29tpOKS0sp6f7pVnF4Fzq1T9QT51j0SJK6q9NzGYCldqy1oQuXhmV2-RBWkm7W3Y1bslruQfCwXvBFxDSqpNtnT3PePUy0iNRYvtV7U36CoggzWNWwly5EseQV9vugWN8uMbkk_E_XpfRYlmhFQEEPeaKdiDXkKNfJrGrciw89UF45w54WwOdyrHiMM8CarLZvyKA2dGaW1YZZ4pH-cCtw5bqu-tscLA2oEL9jsGAAA.webp",
+   "snippet": "The current share price of Lalithaa Jewel.Mart is Rs 405.45. The 52-week high share price of Lalithaa Jewel.Mart is Rs 406, and the 52-week low share price of ...",
+   "snippet_highlighted_words": [
+    "The current share price of Lalithaa Jewel.Mart is Rs 405.45"
+   ],
+   "rich_snippet": {
+    "top": {
+     "detected_extensions": {
+      "rating": 5.0,
+      "reviews": 10
+     },
+     "extensions": [
+      "5.0(10)",
+      "Free"
+     ]
+    }
+   },
+   "about_this_result": {
+    "source": {
+     "description": "The current share price of Lalithaa Jewel.Mart is Rs 405.45. The 52-week high share price of Lalithaa Jewel.Mart is Rs 406, and the 52-week low share price of ...",
+     "source_info_link": "https://ticker.finology.in/company/LALITHAA",
+     "icon": "https://serpapi.com/images/i/UklGRi4BAABXRUJQVlA4ICIBAADQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHmfs3DmuF-A2zV2zbzCV4HuNy1KpKaamPssypovGoENUDz6mH2SzJf8YAD-_sLLYotn2sExjbsz9v8efzUwgZkSOWMpCYEsSw0okKc1YtcmBWoDCOT29tpOKS0sp6f7pVnF4Fzq1T9QT51j0SJK6q9NzGYCldqy1oQuXhmV2-RBWkm7W3Y1bslruQfCwXvBFxDSqpNtnT3PePUy0iNRYvtV7U36CoggzWNWwly5EseQV9vugWN8uMbkk_E_XpfRYlmhFQEEPeaKdiDXkKNfJrGrciw89UF45w54WwOdyrHiMM8CarLZvyKA2dGaW1YZZ4pH-cCtw5bqu-tscLA2oEL9jsGAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmhuX24tdzB6bFk2aWlBWlJBMW5jRWVuYmZDUl9XVWc4bjlXWjZCdm13R2VCb3dpYnlfaVFTVVpEQWl1cVFfbjkzNE92dm44OTkwVWN5aWYxaFhZWWpDbERoWk1lYkpCUHhQSncxdzRMNGJSU3hOVms0LTFBcGE3ZmtNa19YV0NENlESBBoCCAAa3gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACo2CgdsYWxpdGhhFVQtlD4aBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxUAAAAAGghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFS6hdEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFTHbcEAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZobl9uLXcwemxZNmlpQVpSQTFuY0VlbmJmQ1JfV1VnOG45V1o2QnZtd0dlQm93aWJ5X2lRU1VaREFpdXFRX245MzRPdnZuODk5MFVjeWlmMWhYWVlqQ2xEaFpNZWJKQlB4UEp3MXc0TDRiUlN4TlZrNC0xQXBhN2ZrTWtfWFdDRDZROjhMYWxpdGhhYSBKZXdlbC5NYXJ0IDxiPnNoYXJlIHByaWNlPC9iPiAtIEZpbm9sb2d5IFRpY2tlckKuATxiPlRoZSBjdXJyZW50IHNoYXJlIHByaWNlIG9mIExhbGl0aGFhIEpld2VsLk1hcnQgaXMgUnMgNDA1LjQ1PC9iPi4gVGhlIDUyLXdlZWsgaGlnaCBzaGFyZSBwcmljZSBvZiBMYWxpdGhhYSBKZXdlbC5NYXJ0IGlzIFJzIDQwNiwgYW5kIHRoZSA1Mi13ZWVrIGxvdyBzaGFyZSBwcmljZSBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CpgBL2dvdG8_dXJsPUNBRVNaZ0hyT3pBVmhuX24tdzB6bFk2aWlBWlJBMW5jRWVuYmZDUl9XVWc4bjlXWjZCdm13R2VCb3dpYnlfaVFTVVpEQWl1cVFfbjkzNE92dm44OTkwVWN5aWYxaFhZWWpDbERoWk1lYkpCUHhQSncxdzRMNGJSU3hOVms0LTFBcGE3ZmtNa19YV0NENlESBBoCCAAa3gUSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJAugUIABAAGAAgACo2CgdsYWxpdGhhFVQtlD4aBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxUAAAAAGghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFS6hdEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFTHbcEAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTKYAS9nb3RvP3VybD1DQUVTWmdIck96QVZobl9uLXcwemxZNmlpQVpSQTFuY0VlbmJmQ1JfV1VnOG45V1o2QnZtd0dlQm93aWJ5X2lRU1VaREFpdXFRX245MzRPdnZuODk5MFVjeWlmMWhYWVlqQ2xEaFpNZWJKQlB4UEp3MXc0TDRiUlN4TlZrNC0xQXBhN2ZrTWtfWFdDRDZROjhMYWxpdGhhYSBKZXdlbC5NYXJ0IDxiPnNoYXJlIHByaWNlPC9iPiAtIEZpbm9sb2d5IFRpY2tlckKuATxiPlRoZSBjdXJyZW50IHNoYXJlIHByaWNlIG9mIExhbGl0aGFhIEpld2VsLk1hcnQgaXMgUnMgNDA1LjQ1PC9iPi4gVGhlIDUyLXdlZWsgaGlnaCBzaGFyZSBwcmljZSBvZiBMYWxpdGhhYSBKZXdlbC5NYXJ0IGlzIFJzIDQwNiwgYW5kIHRoZSA1Mi13ZWVrIGxvdyBzaGFyZSBwcmljZSBvZiZuYnNwOy4uLiICEAFIAFgAaAA",
+   "source": "Finology"
+  },
+  {
+   "position": 8,
+   "title": "Lalithaa Jewellery Mart Share Price - The Economic Times",
+   "link": "https://economictimes.indiatimes.com/lalithaa-jewellery-mart-ltd/stocks/companyid-2268312.cms",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmAEB6zswFR0gIGlajnx7fYDPcyI39Y8MAXkeIjmQvh-VxCPCNWS7REFqXte0pydDQdahsdMoyuyk0BFEekUNpfCMKcU7fHJBnmBvzW01LKo6DqlKMgkQIFhmgy4XdVnpz-ZSzvRcvybmeB7CEDvKY3Zgbcbkao4L6K1p2NT28jjuBksq1l4mAR0bimOa1Kqr5zqBlhg41sjruQ&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECC4QAQ&uoh=1",
+   "displayed_link": "https://economictimes.indiatimes.com › stocks › compa...",
+   "favicon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp",
+   "snippet": "Lalithaa Jewellery Share Price Today is Rs. 405.45. On previous day, the Lalithaa Jewellery Share Price (NSE) closed at Rs. 387.85, featuring among the most ...",
+   "snippet_highlighted_words": [
+    "Lalithaa Jewellery Share Price Today is Rs. 405.45"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Share Price Today is Rs. 405.45. On previous day, the Lalithaa Jewellery Share Price (NSE) closed at Rs. 387.85, featuring among the most ...",
+     "source_info_link": "https://economictimes.indiatimes.com/lalithaa-jewellery-mart-ltd/stocks/companyid-2268312.cms",
+     "icon": "https://serpapi.com/images/i/UklGRvQAAABXRUJQVlA4IOgAAAAQBQCdASocABwAPtEwtFooIigoGAEAGgloAKwy6M4BtGUG_e7Uf_IM7saSf5E0ERQAAP6cqPZjr7J-9SavpOBfLsbhlRwsMG_a8Rbp-_R4cS-RyVWgx5cgvXgNo_-N4_cBT3AAfxeKB3GuT5gvQ2UDKHi3eJKJK7jykwBhT-W8b8M_9sh_hHbBkT3H1HVTQjuw2pclgD91RkaQw8HgF_E7-Uesx4U0eMZZ9A1fwXZEgmRpqxY79imRAM-wGZUCybLSh9vT7Cu1eXa4O844RnSmSGtBnZe52XwjAOzZeq5f8f8NlC3MH6AA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSMGdJR2xham54N2ZZRFBjeUkzOVk4TUFYa2VJam1RdmgtVnhDUENOV1M3UkVGcVh0ZTBweWREUWRhaHNkTW95dXlrMEJGRWVrVU5wZkNNS2NVN2ZISkJubUJ2elcwMUxLbzZEcWxLTWdrUUlGaG1neTRYZFZucHotWlN6dlJjdnlibWVCN0NFRHZLWTNaZ2JjYmthbzRMNksxcDJOVDI4amp1QmtzcTFsNG1BUjBiaW1PYTFLcXI1enFCbGhnNDFzanJ1URIEGgIIABquBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCKBggAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFQAAAAAaCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVM5GgQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVB3OnQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSMGdJR2xham54N2ZZRFBjeUkzOVk4TUFYa2VJam1RdmgtVnhDUENOV1M3UkVGcVh0ZTBweWREUWRhaHNkTW95dXlrMEJGRWVrVU5wZkNNS2NVN2ZISkJubUJ2elcwMUxLbzZEcWxLTWdrUUlGaG1neTRYZFZucHotWlN6dlJjdnlibWVCN0NFRHZLWTNaZ2JjYmthbzRMNksxcDJOVDI4amp1QmtzcTFsNG1BUjBiaW1PYTFLcXI1enFCbGhnNDFzanJ1UTpGTGFsaXRoYWEgPGI-SmV3ZWxsZXJ5PC9iPiBNYXJ0IDxiPlNoYXJlIFByaWNlPC9iPiAtIFRoZSBFY29ub21pYyBUaW1lc0KsATxiPkxhbGl0aGFhIEpld2VsbGVyeSBTaGFyZSBQcmljZSBUb2RheSBpcyBScy4gNDA1LjQ1PC9iPi4gT24gcHJldmlvdXMgZGF5LCB0aGUgTGFsaXRoYWEgSmV3ZWxsZXJ5IFNoYXJlIFByaWNlIChOU0UpIGNsb3NlZCBhdCBScy4gMzg3Ljg1LCBmZWF0dXJpbmcgYW1vbmcgdGhlIG1vc3QmbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSMGdJR2xham54N2ZZRFBjeUkzOVk4TUFYa2VJam1RdmgtVnhDUENOV1M3UkVGcVh0ZTBweWREUWRhaHNkTW95dXlrMEJGRWVrVU5wZkNNS2NVN2ZISkJubUJ2elcwMUxLbzZEcWxLTWdrUUlGaG1neTRYZFZucHotWlN6dlJjdnlibWVCN0NFRHZLWTNaZ2JjYmthbzRMNksxcDJOVDI4amp1QmtzcTFsNG1BUjBiaW1PYTFLcXI1enFCbGhnNDFzanJ1URIEGgIIABquBhIAGgAiACoAMgYIARICaW46AEIECAEQAEoAWgByAHoAgkCKBggAEAAYACAAKjYKB2xhbGl0aGEVAAAAABoGbGFsaXRhGhBsYWxpdGhhamV3ZWxsZXJzGgxpdjtwO2xhbGl0aGEqWwoJamV3ZWxsZXJzFQAAAAAaCGpld2VsZXJzGghqZXdlbGxlchoJamV3ZWxsZXJ5GhBsYWxpdGhhamV3ZWxsZXJzGghvcm5hbWVudBoOaXY7cDtqZXdlbGxlcnMqQwoFc2hhcmUVM5GgQBoGc2hhcmVzGgVzdG9jaxoMc3RvY2sgbWFya2V0GgxzdG9jayBwcmljZXMaCnNoYXJlcHJpY2UqUAoFcHJpY2UVB3OnQBoEY29zdBoFY29zdHMaBnByaWNlcxoFcmF0ZXMaDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlMtwBL2dvdG8_dXJsPUNBRVNtQUVCNnpzd0ZSMGdJR2xham54N2ZZRFBjeUkzOVk4TUFYa2VJam1RdmgtVnhDUENOV1M3UkVGcVh0ZTBweWREUWRhaHNkTW95dXlrMEJGRWVrVU5wZkNNS2NVN2ZISkJubUJ2elcwMUxLbzZEcWxLTWdrUUlGaG1neTRYZFZucHotWlN6dlJjdnlibWVCN0NFRHZLWTNaZ2JjYmthbzRMNksxcDJOVDI4amp1QmtzcTFsNG1BUjBiaW1PYTFLcXI1enFCbGhnNDFzanJ1UTpGTGFsaXRoYWEgPGI-SmV3ZWxsZXJ5PC9iPiBNYXJ0IDxiPlNoYXJlIFByaWNlPC9iPiAtIFRoZSBFY29ub21pYyBUaW1lc0KsATxiPkxhbGl0aGFhIEpld2VsbGVyeSBTaGFyZSBQcmljZSBUb2RheSBpcyBScy4gNDA1LjQ1PC9iPi4gT24gcHJldmlvdXMgZGF5LCB0aGUgTGFsaXRoYWEgSmV3ZWxsZXJ5IFNoYXJlIFByaWNlIChOU0UpIGNsb3NlZCBhdCBScy4gMzg3Ljg1LCBmZWF0dXJpbmcgYW1vbmcgdGhlIG1vc3QmbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "The Economic Times",
+   "read_more_link": "https://economictimes.indiatimes.com/lalithaa-jewellery-mart-ltd/stocks/companyid-2268312.cms#:~:text=Lalithaa%20Jewellery%20Share%20Price%20Today,on%20the%20National%20Stock%20Exchange."
+  },
+  {
+   "position": 9,
+   "title": "Lalithaa Jewellery Mart Share Price - Live NSE/BSE Updates",
+   "link": "https://www.icicidirect.com/stocks/lalithaa-jewellery-mart-ltd-share-price",
+   "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQEB6zswFb5CsuAAn5ufjA631Z0PzqhE2PwyGp6ZrO-S_bjzAJaLufXC_bZ5ym4CHyPTHVuq57a8Mbe73gwY6-VDgZ6cHalfftsgY4ghtV03MnXLcOrL9dP_9y1Y67zpDxBdPOPyHuNP3VSMx2or_RbYMv2YXZ1f0Ke7CoTDJjnFnnt2f5Et&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68QFnoECCwQAQ&uoh=1",
+   "displayed_link": "https://www.icicidirect.com › Stocks",
+   "favicon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAABwCACdASogACAAPtEutFooIagoGAEAGglsAK5VQNkRKz1JBANwBvIG8fPmD3fTIWeIsgIV5lxVaTaCCnm1TVZVI1VnXiQIrFN2DgoAAP7-wqC08wDvQhM4D0uV4K5BvTGzutpyJouvNWxcyH8tvNtj4702brzSyBz82gB323XhB3ozU6hI8CGLdTpxiY04jR_kjVI_-btCcHElzOMysCqPdr5uLixWtXTbK3ZZiENv8Too4kRBRg1NTeJvBRsqS_fDtLWvt5CEQGYK13Iu3ymyWo9ui_zty_abUDagal9TOdOgcMBU5xwdNL5HThom1tcRCHCda29T4j7vMLQtbKbf_NDP6WXZUSDc8XXavmzXZ2gNqgo4wgTjNojdmMZZ1XFxiMN2BTtUYzq8_UBu7o4KScVgunmAFR2Eq6YDkPHlsDwRKNLF_FzJKz1I61Wr_RUHgPx00R45lnT8VoA1o25fUMbMLv4EqxK8M6894EXGXqr9g9RduP3HjHKewL7ttR86Gi4v3d2tdYgAAAA.webp",
+   "snippet": "Lalithaa Jewellery Mart share price as on 07 Oct 2026 is Rs. 403.6. Over the past 6 months, the Lalithaa Jewellery Mart share price has increased by 0% and in ...",
+   "snippet_highlighted_words": [
+    "Lalithaa Jewellery Mart share price as on 07 Oct 2026 is Rs. 403.6"
+   ],
+   "about_this_result": {
+    "source": {
+     "description": "Lalithaa Jewellery Mart share price as on 07 Oct 2026 is Rs. 403.6. Over the past 6 months, the Lalithaa Jewellery Mart share price has increased by 0% and in ...",
+     "source_info_link": "https://www.icicidirect.com/stocks/lalithaa-jewellery-mart-ltd-share-price",
+     "icon": "https://serpapi.com/images/i/UklGRpgBAABXRUJQVlA4IIwBAABwCACdASogACAAPtEutFooIagoGAEAGglsAK5VQNkRKz1JBANwBvIG8fPmD3fTIWeIsgIV5lxVaTaCCnm1TVZVI1VnXiQIrFN2DgoAAP7-wqC08wDvQhM4D0uV4K5BvTGzutpyJouvNWxcyH8tvNtj4702brzSyBz82gB323XhB3ozU6hI8CGLdTpxiY04jR_kjVI_-btCcHElzOMysCqPdr5uLixWtXTbK3ZZiENv8Too4kRBRg1NTeJvBRsqS_fDtLWvt5CEQGYK13Iu3ymyWo9ui_zty_abUDagal9TOdOgcMBU5xwdNL5HThom1tcRCHCda29T4j7vMLQtbKbf_NDP6WXZUSDc8XXavmzXZ2gNqgo4wgTjNojdmMZZ1XFxiMN2BTtUYzq8_UBu7o4KScVgunmAFR2Eq6YDkPHlsDwRKNLF_FzJKz1I61Wr_RUHgPx00R45lnT8VoA1o25fUMbMLv4EqxK8M6894EXGXqr9g9RduP3HjHKewL7ttR86Gi4v3d2tdYgAAAA.webp"
+    },
+    "languages": [
+     "en"
+    ],
+    "regions": [
+     "IN"
+    ]
+   },
+   "about_page_link": "https://www.google.com/search/about-this-result?origin=www.google.com&req=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZiNUNzdUFBbjV1ZmpBNjMxWjBQenFoRTJQd3lHcDZack8tU19ianpBSmFMdWZYQ19iWjV5bTRDSHlQVEhWdXE1N2E4TWJlNzNnd1k2LVZEZ1o2Y0hhbGZmdHNnWTRnaHRWMDNNblhMY09yTDlkUF85eTFZNjd6cER4QmRQT1B5SHVOUDNWU014Mm9yX1JiWU12MllYWjFmMEtlN0NvVERKam5Gbm50MmY1RXQSBBoCCAAamAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9AUIABAAGAAgACo2CgdsYWxpdGhhFREz7j4aBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxWacSk_GghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFZQKaEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFbFCSkAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGYjVDc3VBQW41dWZqQTYzMVowUHpxaEUyUHd5R3A2WnJPLVNfYmp6QUphTHVmWENfYlo1eW00Q0h5UFRIVnVxNTdhOE1iZTczZ3dZNi1WRGdaNmNIYWxmZnRzZ1k0Z2h0VjAzTW5YTGNPckw5ZFBfOXkxWTY3enBEeEJkUE9QeUh1TlAzVlNNeDJvcl9SYllNdjJZWFoxZjBLZTdDb1RESmpuRm5udDJmNUV0OkhMYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgPGI-U2hhcmUgUHJpY2U8L2I-IC0gTGl2ZSBOU0UvQlNFIFVwZGF0ZXNCrgE8Yj5MYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBzaGFyZSBwcmljZSBhcyBvbiAwNyBPY3QgMjAyNiBpcyBScy4gNDAzLjY8L2I-LiBPdmVyIHRoZSBwYXN0IDYgbW9udGhzLCB0aGUgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgc2hhcmUgcHJpY2UgaGFzIGluY3JlYXNlZCBieSAwJSBhbmQgaW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&req_token=CsIBL2dvdG8_dXJsPUNBRVNoUUVCNnpzd0ZiNUNzdUFBbjV1ZmpBNjMxWjBQenFoRTJQd3lHcDZack8tU19ianpBSmFMdWZYQ19iWjV5bTRDSHlQVEhWdXE1N2E4TWJlNzNnd1k2LVZEZ1o2Y0hhbGZmdHNnWTRnaHRWMDNNblhMY09yTDlkUF85eTFZNjd6cER4QmRQT1B5SHVOUDNWU014Mm9yX1JiWU12MllYWjFmMEtlN0NvVERKam5Gbm50MmY1RXQSBBoCCAAamAYSABoAIgAqADIGCAESAmluOgBCBAgBEABKAFoAcgB6AIJA9AUIABAAGAAgACo2CgdsYWxpdGhhFREz7j4aBmxhbGl0YRoQbGFsaXRoYWpld2VsbGVycxoMaXY7cDtsYWxpdGhhKlsKCWpld2VsbGVycxWacSk_GghqZXdlbGVycxoIamV3ZWxsZXIaCWpld2VsbGVyeRoQbGFsaXRoYWpld2VsbGVycxoIb3JuYW1lbnQaDml2O3A7amV3ZWxsZXJzKkMKBXNoYXJlFZQKaEAaBnNoYXJlcxoFc3RvY2saDHN0b2NrIG1hcmtldBoMc3RvY2sgcHJpY2VzGgpzaGFyZXByaWNlKlAKBXByaWNlFbFCSkAaBGNvc3QaBWNvc3RzGgZwcmljZXMaBXJhdGVzGgxzdG9jayBtYXJrZXQaDHN0b2NrIHByaWNlcxoKc2hhcmVwcmljZTLCAS9nb3RvP3VybD1DQUVTaFFFQjZ6c3dGYjVDc3VBQW41dWZqQTYzMVowUHpxaEUyUHd5R3A2WnJPLVNfYmp6QUphTHVmWENfYlo1eW00Q0h5UFRIVnVxNTdhOE1iZTczZ3dZNi1WRGdaNmNIYWxmZnRzZ1k0Z2h0VjAzTW5YTGNPckw5ZFBfOXkxWTY3enBEeEJkUE9QeUh1TlAzVlNNeDJvcl9SYllNdjJZWFoxZjBLZTdDb1RESmpuRm5udDJmNUV0OkhMYWxpdGhhYSA8Yj5KZXdlbGxlcnk8L2I-IE1hcnQgPGI-U2hhcmUgUHJpY2U8L2I-IC0gTGl2ZSBOU0UvQlNFIFVwZGF0ZXNCrgE8Yj5MYWxpdGhhYSBKZXdlbGxlcnkgTWFydCBzaGFyZSBwcmljZSBhcyBvbiAwNyBPY3QgMjAyNiBpcyBScy4gNDAzLjY8L2I-LiBPdmVyIHRoZSBwYXN0IDYgbW9udGhzLCB0aGUgTGFsaXRoYWEgSmV3ZWxsZXJ5IE1hcnQgc2hhcmUgcHJpY2UgaGFzIGluY3JlYXNlZCBieSAwJSBhbmQgaW4mbmJzcDsuLi4iAhABSABYAGgA",
+   "source": "ICICI Direct",
+   "read_more_link": "https://www.icicidirect.com/stocks/lalithaa-jewellery-mart-ltd-share-price#:~:text=Read%20More"
+  }
+ ],
+ "related_searches": [
+  {
+   "block_position": 1,
+   "query": "Lalitha Jewellery share price target",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalitha+Jewellery+share+price+target&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAgnEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellery+share+price+target"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalitha Jewellery share price NSE",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalitha+Jewellery+share+price+NSE&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAhGEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellery+share+price+NSE"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalitha Jewellery IPO share price",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalitha+Jewellery+IPO+share+price&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAhEEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellery+IPO+share+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalitha Jewellers share price Chart",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalitha+Jewellers+share+price+Chart&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAg7EAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price+Chart"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalithaa Jewellery share price NSE",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalithaa+Jewellery+share+price+NSE&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAgzEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalithaa+Jewellery+share+price+NSE"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalithaa share price",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalithaa+share+price&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAgyEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalithaa+share+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalitha Jewellery share listing price",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalitha+Jewellery+share+listing+price&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAgwEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellery+share+listing+price"
+  },
+  {
+   "block_position": 1,
+   "query": "Lalithaa Jewellery share price chart",
+   "link": "https://www.google.com/search?sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&q=Lalithaa+Jewellery+share+price+chart&sa=X&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q1QJ6BAgvEAE",
+   "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalithaa+Jewellery+share+price+chart"
+  }
+ ],
+ "pagination": {
+  "current": 1,
+  "next": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=10&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8NMDegQITRAW",
+  "other_pages": {
+   "2": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=10&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAE",
+   "3": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=20&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAG",
+   "4": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=30&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAI",
+   "5": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=40&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAK",
+   "6": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=50&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAM",
+   "7": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=60&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAO",
+   "8": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=70&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAQ",
+   "9": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=80&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAS",
+   "10": "https://www.google.com/search?q=Lalitha+Jewellers+share+price&sca_esv=42f20ce4def47eab&gl=in&hl=en&sxsrf=APpeQns2q2fFs0AIeuFmw4q__kejQVNpPg:1791395306011&ei=6oXGapsnjZWu4Q_Qhrz5Cg&start=90&sa=N&sstk=AS6-VmIAxSrs1fF2486MdQdguiIiRKMTN0Y1BJKB6VLvN7VRriA__hypLTDUgYz6-pvNL1LLwFsgKmcUyQIMH1n32zuc_akEEgUHzg&ved=2ahUKEwibxPfGu6iXAxWNiisGHVADL68Q8tMDegQITRAU"
+  }
+ },
+ "serpapi_pagination": {
+  "current": 1,
+  "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=10",
+  "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=10",
+  "other_pages": {
+   "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=10",
+   "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=20",
+   "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=30",
+   "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=40",
+   "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=50",
+   "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=60",
+   "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=70",
+   "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=80",
+   "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.com&hl=en&q=Lalitha+Jewellers+share+price&start=90"
+  }
+ },
+ "_fetched_at": "2026-10-07T17:48:25"
+}

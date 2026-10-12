@@ -1,0 +1,317 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdc999d5f4e988887056",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/sDzlRecXTYPDRFGbBrHlpHMoxjajhKZQWgN1Uj9JlHo/6ac7bdc999d5f4e988887056.json",
+  "markdown_endpoint": "https://serpapi.com/searches/sDzlRecXTYPDRFGbBrHlpHMoxjajhKZQWgN1Uj9JlHo/6ac7bdc999d5f4e988887056.md",
+  "created_at": "2026-10-08 15:59:05 UTC",
+  "processed_at": "2026-10-08 15:59:05 UTC",
+  "youtube_video_transcript_url": "https://www.youtube.com/watch?v=zTccLzL-KLY",
+  "raw_html_file": "https://serpapi.com/searches/sDzlRecXTYPDRFGbBrHlpHMoxjajhKZQWgN1Uj9JlHo/6ac7bdc999d5f4e988887056.html",
+  "prettify_html_file": "https://serpapi.com/searches/sDzlRecXTYPDRFGbBrHlpHMoxjajhKZQWgN1Uj9JlHo/6ac7bdc999d5f4e988887056.prettify",
+  "total_time_taken": 6.26
+ },
+ "search_parameters": {
+  "engine": "youtube_video_transcript",
+  "v": "zTccLzL-KLY",
+  "language_code": "en"
+ },
+ "transcript": [
+  {
+   "start_ms": 439,
+   "end_ms": 3300,
+   "snippet": "92.7 बीघा पर आप सुन रहे हैं मुंबई मस्का",
+   "start_time_text": "0:00",
+   "start_time_label": "0:00"
+  },
+  {
+   "start_ms": 3300,
+   "end_ms": 6000,
+   "snippet": "मार के मैं बृजेश जी हमारे साथ हैं अब",
+   "start_time_text": "0:03",
+   "start_time_label": "0:03"
+  },
+  {
+   "start_ms": 6000,
+   "end_ms": 10200,
+   "snippet": "दूधसा थे अब्दुल जी आज का तीसरा प्रश्न अब",
+   "start_time_text": "0:06",
+   "start_time_label": "0:06"
+  },
+  {
+   "start_ms": 10200,
+   "end_ms": 12660,
+   "snippet": "तुझे मैं नाम इसे आकांक्षा और डी क्वेश्चन",
+   "start_time_text": "0:10",
+   "start_time_label": "0:10"
+  },
+  {
+   "start_ms": 12660,
+   "end_ms": 15440,
+   "snippet": "इस व्हाट इस डी राइट टाइम तू सेल शेर",
+   "start_time_text": "0:12",
+   "start_time_label": "0:12"
+  },
+  {
+   "start_ms": 15440,
+   "end_ms": 18480,
+   "snippet": "वेरी गुड क्वेश्चन मतलब तुम एक्साइट्स के",
+   "start_time_text": "0:15",
+   "start_time_label": "0:15"
+  },
+  {
+   "start_ms": 18480,
+   "end_ms": 19920,
+   "snippet": "बड़े में बात कर रही हो बहुत ही बढ़िया",
+   "start_time_text": "0:18",
+   "start_time_label": "0:18"
+  },
+  {
+   "start_ms": 19920,
+   "end_ms": 22080,
+   "snippet": "सवाल है देखो बहुत सारे लोग ना अभी मां",
+   "start_time_text": "0:19",
+   "start_time_label": "0:19"
+  },
+  {
+   "start_ms": 22080,
+   "end_ms": 23939,
+   "snippet": "नहीं होते हैं उनको एंट्री तो करने आई है",
+   "start_time_text": "0:22",
+   "start_time_label": "0:22"
+  },
+  {
+   "start_ms": 23939,
+   "end_ms": 25380,
+   "snippet": "मार्केट में लेकिन एग्जिट का पता नहीं",
+   "start_time_text": "0:23",
+   "start_time_label": "0:23"
+  },
+  {
+   "start_ms": 25380,
+   "end_ms": 27660,
+   "snippet": "होता की प्रॉफिट में निकले लॉस में निकले",
+   "start_time_text": "0:25",
+   "start_time_label": "0:25"
+  },
+  {
+   "start_ms": 27660,
+   "end_ms": 30060,
+   "snippet": "व्हेन तू सेल शेयर्स देखो तुम्हारे एग्जिट",
+   "start_time_text": "0:27",
+   "start_time_label": "0:27"
+  },
+  {
+   "start_ms": 30060,
+   "end_ms": 32399,
+   "snippet": "के कंडीशंस लीड हो गए तो तुमको एग्जिट",
+   "start_time_text": "0:30",
+   "start_time_label": "0:30"
+  },
+  {
+   "start_ms": 32399,
+   "end_ms": 34559,
+   "snippet": "करना है अभी एग्जिट के कंडीशंस तुमको कैसे",
+   "start_time_text": "0:32",
+   "start_time_label": "0:32"
+  },
+  {
+   "start_ms": 34559,
+   "end_ms": 36840,
+   "snippet": "पता चलेंगे वेदर आईटी इस इन प्रॉफिट लॉस",
+   "start_time_text": "0:34",
+   "start_time_label": "0:34"
+  },
+  {
+   "start_ms": 36840,
+   "end_ms": 38700,
+   "snippet": "बहुत सारे लोग क्या होता है की लॉस में",
+   "start_time_text": "0:36",
+   "start_time_label": "0:36"
+  },
+  {
+   "start_ms": 38700,
+   "end_ms": 40800,
+   "snippet": "ऐसे ही बैठे रहते हैं एचडी नहीं करते और",
+   "start_time_text": "0:38",
+   "start_time_label": "0:38"
+  },
+  {
+   "start_ms": 40800,
+   "end_ms": 42360,
+   "snippet": "कोई स्टॉक जो प्रॉफिट में होता है उसको",
+   "start_time_text": "0:40",
+   "start_time_label": "0:40"
+  },
+  {
+   "start_ms": 42360,
+   "end_ms": 44640,
+   "snippet": "एग्जिट कर लेते हैं और वो स्टॉक और भी ऊपर",
+   "start_time_text": "0:42",
+   "start_time_label": "0:42"
+  },
+  {
+   "start_ms": 44640,
+   "end_ms": 47399,
+   "snippet": "चला जाता है यानी तुम्हें एग्जिट के रूल्स",
+   "start_time_text": "0:44",
+   "start_time_label": "0:44"
+  },
+  {
+   "start_ms": 47399,
+   "end_ms": 50340,
+   "snippet": "पता हनी चाहिए और उसके लिए सीखना होगा और",
+   "start_time_text": "0:47",
+   "start_time_label": "0:47"
+  },
+  {
+   "start_ms": 50340,
+   "end_ms": 52160,
+   "snippet": "वन ऑफ डी सिंपल",
+   "start_time_text": "0:50",
+   "start_time_label": "0:50"
+  },
+  {
+   "start_ms": 52160,
+   "end_ms": 55640,
+   "snippet": "एनालिसिस को सीखो",
+   "start_time_text": "0:52",
+   "start_time_label": "0:52"
+  },
+  {
+   "start_ms": 55640,
+   "end_ms": 58980,
+   "snippet": "एंट्री और एग्जिट दोनों के मार्ग बताएंगे",
+   "start_time_text": "0:55",
+   "start_time_label": "0:55"
+  },
+  {
+   "start_ms": 58980,
+   "end_ms": 60000,
+   "snippet": "ओके",
+   "start_time_text": "0:58",
+   "start_time_label": "0:58"
+  },
+  {
+   "start_ms": 60000,
+   "end_ms": 62579,
+   "snippet": "कुछ थंब रूल्स में जरूर देना चाहूंगा पर",
+   "start_time_text": "1:00",
+   "start_time_label": "1:00"
+  },
+  {
+   "start_ms": 62579,
+   "end_ms": 65880,
+   "snippet": "एग्जांपल अगर कोई स्टॉक अच्छे ऊपर जा रहा",
+   "start_time_text": "1:02",
+   "start_time_label": "1:02"
+  },
+  {
+   "start_ms": 65880,
+   "end_ms": 70500,
+   "snippet": "है और अगर अपने जो टाइम हाय से वो 20% से",
+   "start_time_text": "1:05",
+   "start_time_label": "1:05"
+  },
+  {
+   "start_ms": 70500,
+   "end_ms": 73020,
+   "snippet": "ज्यादा गिर गया की हमारा इंडेक्स अगर 20%",
+   "start_time_text": "1:10",
+   "start_time_label": "1:10"
+  },
+  {
+   "start_ms": 73020,
+   "end_ms": 76080,
+   "snippet": "से ज्यादा गिर गया तो समझो एक मंडी की हवा",
+   "start_time_text": "1:13",
+   "start_time_label": "1:13"
+  },
+  {
+   "start_ms": 76080,
+   "end_ms": 78479,
+   "snippet": "चल रही है तो तभी आप तुम डेफिनेटली एग्जिट",
+   "start_time_text": "1:16",
+   "start_time_label": "1:16"
+  },
+  {
+   "start_ms": 78479,
+   "end_ms": 80759,
+   "snippet": "करके बाद में वापस एंट्री ले सकते हो सो",
+   "start_time_text": "1:18",
+   "start_time_label": "1:18"
+  },
+  {
+   "start_ms": 80759,
+   "end_ms": 83939,
+   "snippet": "दिस इस वन सेकेंड्ली जब तुम्हारी रिस्क जो",
+   "start_time_text": "1:20",
+   "start_time_label": "1:20"
+  },
+  {
+   "start_ms": 83939,
+   "end_ms": 85619,
+   "snippet": "तुम लेते हो कोई भी एंट्री देने से पहले",
+   "start_time_text": "1:23",
+   "start_time_label": "1:23"
+  },
+  {
+   "start_ms": 85619,
+   "end_ms": 87240,
+   "snippet": "अगर तुमको वो रिस्क पता है पर एग्जांपल",
+   "start_time_text": "1:25",
+   "start_time_label": "1:25"
+  },
+  {
+   "start_ms": 87240,
+   "end_ms": 89759,
+   "snippet": "मैंने अगर ₹100 की रिस्क ली है कोई",
+   "start_time_text": "1:27",
+   "start_time_label": "1:27"
+  },
+  {
+   "start_ms": 89759,
+   "end_ms": 92040,
+   "snippet": "इन्वेस्टमेंट में और मुझे अगर 300-400 का",
+   "start_time_text": "1:29",
+   "start_time_label": "1:29"
+  },
+  {
+   "start_ms": 92040,
+   "end_ms": 94560,
+   "snippet": "मुनाफा हो रहा है तो तुम एग्जिट कर सकते",
+   "start_time_text": "1:32",
+   "start_time_label": "1:32"
+  },
+  {
+   "start_ms": 94560,
+   "end_ms": 97140,
+   "snippet": "हो सो दिस इसे एग्जिट और सेल्फ बेस्ड ऑन",
+   "start_time_text": "1:34",
+   "start_time_label": "1:34"
+  },
+  {
+   "start_ms": 97140,
+   "end_ms": 99119,
+   "snippet": "रेस्ट तू रिवॉर्ड रेशों और डी प्रॉफिट",
+   "start_time_text": "1:37",
+   "start_time_label": "1:37"
+  },
+  {
+   "start_ms": 99119,
+   "end_ms": 102439,
+   "snippet": "एबिलिटी अगेंस्ट डी रेस डेट टुडे",
+   "start_time_text": "1:39",
+   "start_time_label": "1:39"
+  }
+ ],
+ "available_transcripts": [
+  {
+   "language_code": "hi",
+   "type": "asr",
+   "selected": true,
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=hi&type=asr&v=zTccLzL-KLY"
+  }
+ ],
+ "_fetched_at": "2026-10-08T15:59:09"
+}

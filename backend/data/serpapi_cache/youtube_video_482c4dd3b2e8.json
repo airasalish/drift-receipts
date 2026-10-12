@@ -1,0 +1,632 @@
+{
+ "search_metadata": {
+  "id": "6ac7bdbd5a5e96d6526ab00d",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/hHGM75aFSUj4Nyn9PX7b6jNicrBl7z0f619AbLwPbeg/6ac7bdbd5a5e96d6526ab00d.json",
+  "markdown_endpoint": "https://serpapi.com/searches/hHGM75aFSUj4Nyn9PX7b6jNicrBl7z0f619AbLwPbeg/6ac7bdbd5a5e96d6526ab00d.md",
+  "created_at": "2026-10-08 15:58:53 UTC",
+  "processed_at": "2026-10-08 15:58:53 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=__unKfZ66VA",
+  "raw_html_file": "https://serpapi.com/searches/hHGM75aFSUj4Nyn9PX7b6jNicrBl7z0f619AbLwPbeg/6ac7bdbd5a5e96d6526ab00d.html",
+  "prettify_html_file": "https://serpapi.com/searches/hHGM75aFSUj4Nyn9PX7b6jNicrBl7z0f619AbLwPbeg/6ac7bdbd5a5e96d6526ab00d.prettify",
+  "total_time_taken": 0.94
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "__unKfZ66VA",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "Is your Drive your Threat in stock market !? - ASTA Gurukul Glimpses",
+ "thumbnail": "https://i.ytimg.com/vi/__unKfZ66VA/maxresdefault.jpg",
+ "channel": {
+  "name": "Avadhut Sathe Trading Academy",
+  "thumbnail": "https://yt3.ggpht.com/mIm_dgavQKTpER1TSskbRJGMdmdgI7YQXH2nEf1D3qbrBMv0U0VdJhXqgk8vcOPXkT1LKWwpxA=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@AvadhutSatheTradingAcademy",
+  "subscribers": "916K subscribers",
+  "extracted_subscribers": 916000,
+  "verified": true
+ },
+ "views": "6,633 views",
+ "extracted_views": 6633,
+ "likes": "128",
+ "extracted_likes": 128,
+ "published_date": "Jul 22, 2026",
+ "description": {
+  "content": "What really drives your decisions in the stock market—knowledge or emotions?\n\nCatch the powerful glimpses from ASTA Gurukul, where Avadhut Sir explains how mastering your process is the first step towards becoming a disciplined market participant."
+ },
+ "related_videos": [
+  {
+   "video_id": "4ah--NrBWr0",
+   "link": "https://www.youtube.com/watch?v=4ah--NrBWr0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4ah--NrBWr0",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4ah--NrBWr0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrsEcijN7e18bCG5P_o_w9D6o0SQ",
+    "rich": "https://i.ytimg.com/an_webp/4ah--NrBWr0/mqdefault_6s.webp?du=3000&sqp=CPX3ntYG&rs=AOn4CLCZANmdalJMq_iel5OEJ5UwcY2eqw"
+   },
+   "title": "Here's How Avadhut Sathe’s Trading Tales Turn Into SEBI’s Big Scam Crackdown",
+   "published_date": "10mo ago",
+   "views": "444K",
+   "extracted_views": 444000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "G65r4dM1Qlc",
+   "link": "https://www.youtube.com/watch?v=G65r4dM1Qlc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G65r4dM1Qlc",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/G65r4dM1Qlc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVplAs1st71u2Bz9nbuF6QnC6BQw",
+    "rich": "https://i.ytimg.com/an_webp/G65r4dM1Qlc/mqdefault_6s.webp?du=3000&sqp=CJHbntYG&rs=AOn4CLCFngD6-FaWJibxQcdZPKGVwfecIw"
+   },
+   "title": "Market Fall பார்த்து Panic ஆகாதீங்க! | இது Crash இல்லை! | Stock Market Correction Strategy in Tamil",
+   "published_date": "3h ago",
+   "views": "3.4K",
+   "extracted_views": 3400,
+   "channel": {
+    "name": "Zebu",
+    "link": "https://www.youtube.com/@ZebueTrade",
+    "thumbnail": "https://yt3.ggpht.com/wHo_hE8nGlMQzvPzF0sE29LPGAnTdMHdumgWHzDlPnd88qWYpHowtJ2rHqpx9-KNVEoPoc_2nw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "dscvMO-dB9E",
+   "link": "https://www.youtube.com/watch?v=dscvMO-dB9E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dscvMO-dB9E",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/dscvMO-dB9E/hqdefault_custom_1.jpg?sqp=CNT5ntYG-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAQ95QDVa_5_C70IfUG8_VrkNlIWA",
+    "rich": "https://i.ytimg.com/an_webp/dscvMO-dB9E/mqdefault_6s.webp?du=3000&sqp=CL7GntYG&rs=AOn4CLDFAfi9O2g3V5Z2MUl_gUnASDdTLw"
+   },
+   "title": "100% CASH! Fund Manager Warns of a Bigger Market Fall | The N Show ",
+   "published_date": "1d ago",
+   "views": "58K",
+   "extracted_views": 58000,
+   "channel": {
+    "name": "Neeraj Bajpai and Anirudh Garg, INVasset PMS",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "pLvKkPyDl7M",
+   "link": "https://www.youtube.com/watch?v=pLvKkPyDl7M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLvKkPyDl7M",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pLvKkPyDl7M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1FsL2neiylHcnBZ1YuokWn9H2Gg",
+    "rich": "https://i.ytimg.com/an_webp/pLvKkPyDl7M/mqdefault_6s.webp?du=3000&sqp=CNXantYG&rs=AOn4CLDf5U6sjxnSQRGPtHI0juO3v94ZRQ"
+   },
+   "title": "When Barack Obama Proved To The World He’s A Comedian",
+   "published_date": "2d ago",
+   "views": "499K",
+   "extracted_views": 499000,
+   "channel": {
+    "name": "Binge Central",
+    "link": "https://www.youtube.com/@BingeCentral",
+    "thumbnail": "https://yt3.ggpht.com/lOOZa89uksIhnSrituSmNVCRG2ZDGFHI3IQafFNcSfeMB_QiW9zzC359EA3gCmKUHnQoRqTo=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CPHxntYG&rs=AOn4CLAdz0yGg4wzsTZISRE3beNT5kldew"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTtIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSqe39isTOk4MCRpixqVE8zN6lhg",
+    "rich": "https://i.ytimg.com/an_webp/OLPJcTNpNaY/mqdefault_6s.webp?du=3000&sqp=CIrZntYG&rs=AOn4CLDFEewY6FPw4XjwwcjLZYz8EJUkVw"
+   },
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "3mo ago",
+   "views": "279K",
+   "extracted_views": 279000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfFOAJOoaSau6xiEf82qh2LlNmGA",
+    "rich": "https://i.ytimg.com/an_webp/9HjTQYxl1KA/mqdefault_6s.webp?du=3000&sqp=CNDgntYG&rs=AOn4CLC2z9Oj4bar6mw481wG0yk2l25lmQ"
+   },
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1mo ago",
+   "views": "345K",
+   "extracted_views": 345000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "M5U6qmcRlKY",
+   "link": "https://www.youtube.com/watch?v=M5U6qmcRlKY&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5U6qmcRlKY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/M5U6qmcRlKY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_ASPa5OKvSjJO-W_HEgnExzf7aQ",
+    "rich": "https://i.ytimg.com/an_webp/M5U6qmcRlKY/mqdefault_6s.webp?du=3000&sqp=CIz1ntYG&rs=AOn4CLCwWSJaME9L2ioKogwkFScDlzdvGg"
+   },
+   "title": "Share Market Crash: FIIs Selling, Crude Oil & Adani Group Drop! Anil Singhvi Market Strategy",
+   "published_date": "6h ago",
+   "views": "132K",
+   "extracted_views": 132000,
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness",
+    "thumbnail": "https://yt3.ggpht.com/sxHEe-On1euLaHO6gssZiJXWQpRgjy7duGBWC9qPmDEul_AfSvthGaGOc3uRZEhTUchMBEOJlp0=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "pXsDQpJ8j0s",
+   "link": "https://www.youtube.com/watch?v=pXsDQpJ8j0s&pp=ugUHEgVlbi1VU9IHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pXsDQpJ8j0s",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pXsDQpJ8j0s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8KZhQW4ZPxrij0_djtQaBmrOU6A",
+    "rich": "https://i.ytimg.com/an_webp/pXsDQpJ8j0s/mqdefault_6s.webp?du=3000&sqp=CM_6ntYG&rs=AOn4CLBegoE2MuIejZVF8NGF9XSbaF0tzw"
+   },
+   "title": "Aswath Damodaran Grades 9 Trillion-Dollar Stocks",
+   "published_date": "13d ago",
+   "views": "92K",
+   "extracted_views": 92000,
+   "channel": {
+    "name": "Jon Erlichman",
+    "link": "https://www.youtube.com/@TickerTakewithJonErlichman",
+    "thumbnail": "https://yt3.ggpht.com/3yWu3hVwt2FeBEpmT-I5sEzcMWpICkoO3BF-qtUuY7sY77_Dh8E4c8HEqeHc-Bt69zlA7H5Dvg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "h3VtHBQZ9Ys",
+   "link": "https://www.youtube.com/watch?v=h3VtHBQZ9Ys",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h3VtHBQZ9Ys",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/h3VtHBQZ9Ys/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqWnsuzn2CcAq6kKKrcJ0qw4MEZQ",
+    "rich": "https://i.ytimg.com/an_webp/h3VtHBQZ9Ys/mqdefault_6s.webp?du=3000&sqp=CN_jntYG&rs=AOn4CLBiHrKbqoB4nww2pEA2VR5-SPUmNA"
+   },
+   "title": "Market Correction: What Should You Buy, Hold or Avoid Now? | Devina Mehra",
+   "published_date": "2d ago",
+   "views": "27K",
+   "extracted_views": 27000,
+   "channel": {
+    "name": "First Global",
+    "link": "https://www.youtube.com/@FirstGlobalSecurities",
+    "thumbnail": "https://yt3.ggpht.com/WigXwUZgp_9Dh2Khao9btivhgYOahX6rzxEXq7narj0aXx2q84-mQNmhK-M5_0WG0GeaDPmHxw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "DFyJgOAap2c",
+   "link": "https://www.youtube.com/watch?v=DFyJgOAap2c&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DFyJgOAap2c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/DFyJgOAap2c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaNGBZTe5ZcpPE4J63v_kFX43Uxg",
+    "rich": "https://i.ytimg.com/an_webp/DFyJgOAap2c/mqdefault_6s.webp?du=3000&sqp=CN76ntYG&rs=AOn4CLDZDOBhwlXV3c571E0BgfwR7MzLsg"
+   },
+   "title": "Sundar Pichai gives Stanford’s 2026 Commencement address",
+   "published_date": "3mo ago",
+   "views": "498K",
+   "extracted_views": 498000,
+   "channel": {
+    "name": "Stanford",
+    "link": "https://www.youtube.com/@stanford",
+    "thumbnail": "https://yt3.ggpht.com/F8EWZI1AxI_zj8iEg8TKl70L8WBD8yhFYSKI0OY2YNJxXKaPYH2cmpDyUUCr6cAq7KwAtlvlrA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvhPcIN78RYhG5t2I4YLIcEvsTmQ",
+    "rich": "https://i.ytimg.com/an_webp/4WvqWxmPynM/mqdefault_6s.webp?du=3000&sqp=CKruntYG&rs=AOn4CLCmatzrDLGmiWXSp0gVy_3CaJFcmA"
+   },
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "1d ago",
+   "views": "461K",
+   "extracted_views": 461000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "XnuL9djH9bU",
+   "link": "https://www.youtube.com/watch?v=XnuL9djH9bU&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=XnuL9djH9bU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/XnuL9djH9bU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCpKm7B9cuTRHDDGfnuE68TYvhUkg",
+    "rich": "https://i.ytimg.com/an_webp/XnuL9djH9bU/mqdefault_6s.webp?du=3000&sqp=CK7cntYG&rs=AOn4CLA-9unfeXFbHERRQhyqRlR3D1zOJw"
+   },
+   "title": "Nifty at 52 WEEK LOW? Post Market Report 08-Oct-26",
+   "published_date": "2h ago",
+   "views": "7.9K",
+   "extracted_views": 7900,
+   "channel": {
+    "name": "P R Sundar",
+    "link": "https://www.youtube.com/@PRSundar64",
+    "thumbnail": "https://yt3.ggpht.com/x7xszwIkJYvggWS6E8aPMcVTbU-C2KMLkX7_2d4XfYYTk0ht2-g1WPW78Md7SVj9J4b1Yore=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "coams5qSGbI",
+   "link": "https://www.youtube.com/watch?v=coams5qSGbI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=coams5qSGbI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/coams5qSGbI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBeOLZAIf2usobBRVm8VUi9g8wjvw",
+    "rich": "https://i.ytimg.com/an_webp/coams5qSGbI/mqdefault_6s.webp?du=3000&sqp=CPDrntYG&rs=AOn4CLCPRQ-Hk0vuYIdz7DKJtfL7XFuHsQ"
+   },
+   "title": "नाच-नाच कर टिप्स देने वाले Avadhut Sathe Trading Academy पर SEBI का छापा | Finfluencer| Kharcha Pani",
+   "published_date": "1y ago",
+   "views": "504K",
+   "extracted_views": 504000,
+   "channel": {
+    "name": "The Lallantop",
+    "link": "https://www.youtube.com/@TheLallantop",
+    "thumbnail": "https://yt3.ggpht.com/CdR2ybs_Tz3mnJANjVWszTsYsSQbVmFUdYnqndK-K7j-tKRYH6Yz8gZpHb5bOvEtgFyHyAzMgQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wRBi0DT9dvY",
+   "link": "https://www.youtube.com/watch?v=wRBi0DT9dvY&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRBi0DT9dvY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wRBi0DT9dvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5avpIa4UxVlq8SPvz-lC0D0q_Iw",
+    "rich": "https://i.ytimg.com/an_webp/wRBi0DT9dvY/mqdefault_6s.webp?du=3000&sqp=CPy7ntYG&rs=AOn4CLCl-OJZ7keFFEY3hEAhvTucQm2q_Q"
+   },
+   "title": "Where Should Your Money Go in a Crisis? Stocks, Gold, Cash & Real Estate | Shashank Udupa | FWS",
+   "published_date": "9d ago",
+   "views": "424K",
+   "extracted_views": 424000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "Kht1l6uvauo",
+   "link": "https://www.youtube.com/watch?v=Kht1l6uvauo&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=Kht1l6uvauo",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/Kht1l6uvauo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCfAkFnAAJySscNB9sbZNxTXt5b0A",
+    "rich": "https://i.ytimg.com/an_webp/Kht1l6uvauo/mqdefault_6s.webp?du=3000&sqp=CLTpntYG&rs=AOn4CLBjAwdtaGb-82SHbF4H9uk3NlZvHA"
+   },
+   "title": "Can Strong Earnings Save Nifty From Further Valuation Cuts? JP Morgan's Rajiv Batra Explains",
+   "published_date": "9h ago",
+   "views": "12K",
+   "extracted_views": 12000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "VClxzcbjpgA",
+   "link": "https://www.youtube.com/watch?v=VClxzcbjpgA&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VClxzcbjpgA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VClxzcbjpgA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmtvcg_uOIy2mOgf46kwdCQlIKcA",
+    "rich": "https://i.ytimg.com/an_webp/VClxzcbjpgA/mqdefault_6s.webp?du=3000&sqp=CLDnntYG&rs=AOn4CLBzC_6AHAd0L3E7ylRvaPo6FT74gA"
+   },
+   "title": "Mohnish Pabrai's Brutally Honest Thoughts on the Stock Market.",
+   "published_date": "2mo ago",
+   "views": "385K",
+   "extracted_views": 385000,
+   "channel": {
+    "name": "New Money",
+    "link": "https://www.youtube.com/@NewMoneyYouTube",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nGDNKRGWx9DDjeQWiF_DDjj-370lL0W0u2jpQ8Urh4rpo=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "01WiVzx5U0c",
+   "link": "https://www.youtube.com/watch?v=01WiVzx5U0c&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=01WiVzx5U0c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/01WiVzx5U0c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCn7GidxIiPRVnNQ1-wROXIjoTgdw",
+    "rich": "https://i.ytimg.com/an_webp/01WiVzx5U0c/mqdefault_6s.webp?du=3000&sqp=COe1ntYG&rs=AOn4CLD_KBP0ocPa6KW_Wed1Z_Qog6RFwQ"
+   },
+   "title": "Why Being Too Good at Your Job Keeps You Stuck | Sandeep Das",
+   "published_date": "1mo ago",
+   "views": "139K",
+   "extracted_views": 139000,
+   "channel": {
+    "name": "Sandeep Das",
+    "link": "https://www.youtube.com/@SandeepDasAuthor",
+    "thumbnail": "https://yt3.ggpht.com/CHaafR_zc6M4hV0_hUoV8nElJqlLViNyjaGVbVz9aP0UMg3mAZwUAzK1U7eAalw0uFu6OBvR=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "UVDay9156ig",
+   "link": "https://www.youtube.com/watch?v=UVDay9156ig",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UVDay9156ig",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UVDay9156ig/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_B66Km29wA7LTizVHtoSTmb5Mkg",
+    "rich": "https://i.ytimg.com/an_webp/UVDay9156ig/mqdefault_6s.webp?du=3000&sqp=CKjontYG&rs=AOn4CLCjmD1uy_4qes8_2yAKmwn2uhj4EQ"
+   },
+   "title": "\"No One Will Come for Placements in 5 Years\" | IISc Professor Warns Students",
+   "published_date": "12d ago",
+   "views": "1M",
+   "extracted_views": 1000000,
+   "channel": {
+    "name": "SciAstra | Bengaluru",
+    "link": "https://www.youtube.com/@SciAstraBengaluru",
+    "thumbnail": "https://yt3.ggpht.com/zejxP96FxN5gB7Eu7dGJAFVYby0_tAjeV7JAQqGDyBdzJitktkvdQHlvlUT9FO0yUK8DcG_y2bU=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "NZ0fsllxcdE",
+   "link": "https://www.youtube.com/watch?v=NZ0fsllxcdE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=NZ0fsllxcdE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/NZ0fsllxcdE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCDksHlfSsSQER8uo2HEM8GxW6rNA",
+    "rich": "https://i.ytimg.com/an_webp/NZ0fsllxcdE/mqdefault_6s.webp?du=3000&sqp=CNzLntYG&rs=AOn4CLDUDACWvwf6p7vzXFI3vMub9rOvlQ"
+   },
+   "title": "S Naren’s 36 Years of Investing Wisdom in 45 Minutes | The Legend Speaks | Rahul Jain",
+   "published_date": "2w ago",
+   "views": "315K",
+   "extracted_views": 315000,
+   "channel": {
+    "name": "Rahul Jain",
+    "link": "https://www.youtube.com/@torahulj",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_l1gEwnMc2BaysDUSEUe31apl1vDb9FAlA-Lc-gjz9Lfjg=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILX191bktmWjY2VkHAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmgZNZ29JMGVQRnk2WDJ4ODQxMnM2TDZ3ekFCQXE5QkFvRDhqNEFDZzdDUGdzSXZiV0YxbzNmbjlUaEFRb0Q4ajRBQ2czQ1Bnb0kxNFRWbVozOG10Y2JDZ1B5UGdBS0RjSS1DZ2pSal9UOGp1Ykw0M1lLQV9JLUFBb093ajRMQ0xPdmp1U1AwdkxkcEFFS0FfSS1BQW9Pd2o0TENPMjI1SXFhNE1pZDlRRUtBX0ktQUFvTndqNEtDS2JycEp1VHJ2TFpPQW9EOGo0QUNnN0NQZ3NJb0ttWDQ1am90THowQVFvRDhqNEFDZzNDUGdvSXBxbkd1S2JWenNvekNnUHlQZ0FLRHNJLUN3akxudktUcWVqQXZhVUJDZ1B5UGdBS0RzSS1Dd2lMNi1lZ3dhUGJ1b2NCQ2dQeVBnQUtEY0ktQ2dqbnp1cUFqckNpcmd3S0FfSS1BQW9Pd2o0TENQT1V2OHl4eV9xMTRRRUtBX0ktQUFvTndqNEtDTFhybjhiZF91SzlYZ29EOGo0QUNnM0NQZ29Jc3JQSTFMbldxY055Q2dQeVBnQUtEc0ktQ3dqMjdmV25nOXFZaU1FQkNnUHlQZ0FLRGNJLUNnanExYjNkLXJMZGpTb0tBX0ktQUFvTndqNEtDSURNanJmY3VkeVVWQW9EOGo0QUNnN0NQZ3NJeDZibDRfUEs2S3JUQVFvRDhqNEFDZzNDUGdvSXFOVG42NzNadHFoUkNnUHlQZ0FLRGNJLUNnalI0OFhMcGZiSHpqVVNGQUFDQkFZSUNnd09FQklVRmhnYUhCNGdJaVFtR2dRSUFCQUJHZ1FJQWhBREdnUUlCQkFGR2dRSUJoQUhHZ1FJQ0JBSkdnUUlDaEFMR2dRSURCQU5HZ1FJRGhBUEdnUUlFQkFSR2dRSUVoQVRHZ1FJRkJBVkdnUUlGaEFYR2dRSUdCQVpHZ1FJR2hBYkdnUUlIQkFkR2dRSUhoQWZHZ1FJSUJBaEdnUUlJaEFqR2dRSUpCQWxHZ1FJSmhBbktoUUFBZ1FHQ0FvTURoQVNGQllZR2h3ZUlDSWtKZ2oPd2F0Y2gtbmV4dC1mZWVk",
+ "end_screen_videos": [
+  {
+   "video_id": "4ah--NrBWr0",
+   "link": "https://www.youtube.com/watch?v=4ah--NrBWr0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4ah--NrBWr0",
+   "thumbnail": "https://i.ytimg.com/vi/4ah--NrBWr0/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDrsEcijN7e18bCG5P_o_w9D6o0SQ",
+   "title": "Here's How Avadhut Sathe’s Trading Tales Turn Into SEBI’s Big Scam Crackdown",
+   "published_date": "10 months ago",
+   "views": "444K views",
+   "extracted_views": 444000,
+   "length": "5:45",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia"
+   }
+  },
+  {
+   "video_id": "G65r4dM1Qlc",
+   "link": "https://www.youtube.com/watch?v=G65r4dM1Qlc",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=G65r4dM1Qlc",
+   "thumbnail": "https://i.ytimg.com/vi/G65r4dM1Qlc/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAVplAs1st71u2Bz9nbuF6QnC6BQw",
+   "title": "Market Fall பார்த்து Panic ஆகாதீங்க! | இது Crash இல்லை! | Stock Market Correction Strategy in Tamil",
+   "published_date": "3 hours ago",
+   "views": "3.4K views",
+   "extracted_views": 3400,
+   "length": "21:40",
+   "channel": {
+    "name": "Zebu",
+    "link": "https://www.youtube.com/@ZebueTrade"
+   }
+  },
+  {
+   "video_id": "dscvMO-dB9E",
+   "link": "https://www.youtube.com/watch?v=dscvMO-dB9E",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=dscvMO-dB9E",
+   "thumbnail": "https://i.ytimg.com/vi/dscvMO-dB9E/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBciLaYXOx5viaCj_g8O3ve2nwexg",
+   "title": "100% CASH! Fund Manager Warns of a Bigger Market Fall | The N Show ",
+   "published_date": "1 day ago",
+   "views": "58K views",
+   "extracted_views": 58000,
+   "length": "49:27",
+   "channel": {
+    "name": "Neeraj Bajpai and Anirudh Garg, INVasset PMS"
+   }
+  },
+  {
+   "video_id": "pLvKkPyDl7M",
+   "link": "https://www.youtube.com/watch?v=pLvKkPyDl7M",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pLvKkPyDl7M",
+   "thumbnail": "https://i.ytimg.com/vi/pLvKkPyDl7M/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB1FsL2neiylHcnBZ1YuokWn9H2Gg",
+   "title": "When Barack Obama Proved To The World He’s A Comedian",
+   "published_date": "2 days ago",
+   "views": "499K views",
+   "extracted_views": 499000,
+   "length": "14:08",
+   "channel": {
+    "name": "Binge Central",
+    "link": "https://www.youtube.com/@BingeCentral"
+   }
+  },
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1M views",
+   "extracted_views": 1000000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSqe39isTOk4MCRpixqVE8zN6lhg",
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "3 months ago",
+   "views": "279K views",
+   "extracted_views": 279000,
+   "length": "47:47",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia"
+   }
+  },
+  {
+   "video_id": "9HjTQYxl1KA",
+   "link": "https://www.youtube.com/watch?v=9HjTQYxl1KA&pp=0gcJCTUMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9HjTQYxl1KA",
+   "thumbnail": "https://i.ytimg.com/vi/9HjTQYxl1KA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDfFOAJOoaSau6xiEf82qh2LlNmGA",
+   "title": "Mohnish Pabrai: If You Want to Make Millions and Quit Your Job, Copy This! (Proven Formula!)",
+   "published_date": "1 month ago",
+   "views": "345K views",
+   "extracted_views": 345000,
+   "length": "28:50",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "M5U6qmcRlKY",
+   "link": "https://www.youtube.com/watch?v=M5U6qmcRlKY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5U6qmcRlKY",
+   "thumbnail": "https://i.ytimg.com/vi/M5U6qmcRlKY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC_ASPa5OKvSjJO-W_HEgnExzf7aQ",
+   "title": "Share Market Crash: FIIs Selling, Crude Oil & Adani Group Drop! Anil Singhvi Market Strategy",
+   "published_date": "6 hours ago",
+   "views": "132K views",
+   "extracted_views": 132000,
+   "length": "10:36",
+   "channel": {
+    "name": "Zee Business",
+    "link": "https://www.youtube.com/@ZeeBusiness"
+   }
+  },
+  {
+   "video_id": "pXsDQpJ8j0s",
+   "link": "https://www.youtube.com/watch?v=pXsDQpJ8j0s&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pXsDQpJ8j0s",
+   "thumbnail": "https://i.ytimg.com/vi/pXsDQpJ8j0s/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA8KZhQW4ZPxrij0_djtQaBmrOU6A",
+   "title": "Aswath Damodaran Grades 9 Trillion-Dollar Stocks",
+   "published_date": "13 days ago",
+   "views": "92K views",
+   "extracted_views": 92000,
+   "length": "33:27",
+   "channel": {
+    "name": "Jon Erlichman",
+    "link": "https://www.youtube.com/@TickerTakewithJonErlichman"
+   }
+  },
+  {
+   "video_id": "h3VtHBQZ9Ys",
+   "link": "https://www.youtube.com/watch?v=h3VtHBQZ9Ys",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=h3VtHBQZ9Ys",
+   "thumbnail": "https://i.ytimg.com/vi/h3VtHBQZ9Ys/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCqWnsuzn2CcAq6kKKrcJ0qw4MEZQ",
+   "title": "Market Correction: What Should You Buy, Hold or Avoid Now? | Devina Mehra",
+   "published_date": "2 days ago",
+   "views": "27K views",
+   "extracted_views": 27000,
+   "length": "12:58",
+   "channel": {
+    "name": "First Global",
+    "link": "https://www.youtube.com/@FirstGlobalSecurities"
+   }
+  },
+  {
+   "video_id": "DFyJgOAap2c",
+   "link": "https://www.youtube.com/watch?v=DFyJgOAap2c&pp=ugUHEgVlbi1VUw%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=DFyJgOAap2c",
+   "thumbnail": "https://i.ytimg.com/vi/DFyJgOAap2c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBaNGBZTe5ZcpPE4J63v_kFX43Uxg",
+   "title": "Sundar Pichai gives Stanford’s 2026 Commencement address",
+   "published_date": "3 months ago",
+   "views": "498K views",
+   "extracted_views": 498000,
+   "length": "14:35",
+   "channel": {
+    "name": "Stanford",
+    "link": "https://www.youtube.com/@stanford"
+   }
+  },
+  {
+   "video_id": "4WvqWxmPynM",
+   "link": "https://www.youtube.com/watch?v=4WvqWxmPynM&pp=ugUEEgJlbtIHCQk1DAGHKiGM7w%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=4WvqWxmPynM",
+   "thumbnail": "https://i.ytimg.com/vi/4WvqWxmPynM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDvhPcIN78RYhG5t2I4YLIcEvsTmQ",
+   "title": "The upcoming stock market collapse (& how to prepare for it)",
+   "published_date": "1 day ago",
+   "views": "461K views",
+   "extracted_views": 461000,
+   "length": "20:54",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC19fdW5LZlo2NlZBGAYyJSIRIgtfX3VuS2ZaNjZWQTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC19fdW5LZlo2NlZBGAYyOCIRIgtfX3VuS2ZaNjZWQTAAeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC19fdW5LZlo2NlZBGAYyOCIRIgtfX3VuS2ZaNjZWQTABeAIwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=__unKfZ66VA"
+ },
+ "_fetched_at": "2026-10-08T15:58:52"
+}

@@ -1,0 +1,670 @@
+{
+ "search_metadata": {
+  "id": "6ac9f7b15fda0bd127a7c2d1",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/LWLKF-xdg8TF0yAwydni7zWmlboXapRMwgwDwRTgig4/6ac9f7b15fda0bd127a7c2d1.json",
+  "markdown_endpoint": "https://serpapi.com/searches/LWLKF-xdg8TF0yAwydni7zWmlboXapRMwgwDwRTgig4/6ac9f7b15fda0bd127a7c2d1.md",
+  "created_at": "2026-10-10 08:30:41 UTC",
+  "processed_at": "2026-10-10 08:30:41 UTC",
+  "youtube_video_url": "https://www.youtube.com/watch?v=ortGqJN5VdI",
+  "raw_html_file": "https://serpapi.com/searches/LWLKF-xdg8TF0yAwydni7zWmlboXapRMwgwDwRTgig4/6ac9f7b15fda0bd127a7c2d1.html",
+  "prettify_html_file": "https://serpapi.com/searches/LWLKF-xdg8TF0yAwydni7zWmlboXapRMwgwDwRTgig4/6ac9f7b15fda0bd127a7c2d1.prettify",
+  "total_time_taken": 1.45
+ },
+ "search_parameters": {
+  "engine": "youtube_video",
+  "v": "ortGqJN5VdI",
+  "gl": "in",
+  "hl": "en"
+ },
+ "title": "IT Sector Fall | What Should Investors Do?",
+ "thumbnail": "https://i.ytimg.com/vi/ortGqJN5VdI/maxresdefault.jpg",
+ "channel": {
+  "name": "Pranjal Kamra",
+  "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s176-c-k-c0x00ffffff-no-rj",
+  "link": "https://www.youtube.com/@pranjalkamra",
+  "subscribers": "6.5M subscribers",
+  "extracted_subscribers": 6500000,
+  "verified": true
+ },
+ "views": "108,151 views",
+ "extracted_views": 108151,
+ "likes": "3.5K",
+ "extracted_likes": 3500,
+ "published_date": "Jun 20, 2026",
+ "description": {
+  "content": "The Indian IT sector has hit a major roadblock. Triggered by Accenture’s massive revenue guidance cut, market heavyweights like TCS and Infosys have hit fresh multi-year lows, wiping out substantial investor wealth. With global enterprise budgets freezing and generative AI reshaping traditional tech demand, the ground is shifting fast for retail investors.\n\nInstead of reacting to the market panic, this video breaks down the cold data behind the current IT sector fall. We map out the exact financial reality of these top IT companies and provide a clear, straight-to-the-point strategy to help you navigate your portfolio through this slowdown.\n____________________________________________________________________________________\n\n➡️ Get 30 Stocks For Long Term: https://tinyurl.com/30stocks\n\n➡️ The Modern Stock Screener: https://tinyurl.com/Finology-Ticker\n\n➡️ Join my WhatsApp channel: https://whatsapp.com/channel/0029Va8O...\n\n➡️ Open Zerodha Demat Account for FREE - https://zerodha.com/open-account?c=ZM...\n\n➡️ Buy Investonomy: https://amzn.to/4jkeM09\n\n➡️ Get spam-free insurance: https://ditto.sh/7mh8g6\n________________________________________________________________________________________\n\n➡️ For disclosures and regulatory information, visit: https://recipe.finology.in/disclaimer\n_________________________________________________________________________________________\n\nGet in Touch: \n⏩ Email Us - support@finology.in\n🌐 Website - https://www.finology.in/\n📞 For queries, contact - 022-489-66660",
+  "links": [
+   {
+    "start_index": 767,
+    "length": 28,
+    "text": "https://tinyurl.com/30stocks",
+    "url": "https://tinyurl.com/30stocks"
+   },
+   {
+    "start_index": 827,
+    "length": 35,
+    "text": "https://tinyurl.com/Finology-Ticker",
+    "url": "https://tinyurl.com/Finology-Ticker"
+   },
+   {
+    "start_index": 893,
+    "length": 40,
+    "text": "https://whatsapp.com/channel/0029Va8O...",
+    "url": "https://whatsapp.com/channel/0029Va8OXlYBVJl0V9G87p1O"
+   },
+   {
+    "start_index": 976,
+    "length": 40,
+    "text": "https://zerodha.com/open-account?c=ZM...",
+    "url": "https://zerodha.com/open-account?c=ZMPXIG"
+   },
+   {
+    "start_index": 1038,
+    "length": 23,
+    "text": "https://amzn.to/4jkeM09",
+    "url": "https://amzn.to/4jkeM09"
+   },
+   {
+    "start_index": 1091,
+    "length": 23,
+    "text": "https://ditto.sh/7mh8g6",
+    "url": "https://ditto.sh/7mh8g6"
+   },
+   {
+    "start_index": 1259,
+    "length": 37,
+    "text": "https://recipe.finology.in/disclaimer",
+    "url": "https://recipe.finology.in/disclaimer"
+   },
+   {
+    "start_index": 1449,
+    "length": 24,
+    "text": "ttps://www.finology.in/\n",
+    "url": "https://www.finology.in/"
+   }
+  ]
+ },
+ "related_videos": [
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+    "rich": "https://i.ytimg.com/an_webp/9TsjAaFZG20/mqdefault_6s.webp?du=3000&sqp=CL_bp9YG&rs=AOn4CLDD51Rz0dT8mXUez4Lfiizjjj-k0g"
+   },
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2w ago",
+   "views": "1.1M",
+   "extracted_views": 1100000,
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome",
+    "thumbnail": "https://yt3.ggpht.com/VwXUNYN2zrRVUAP4H6Bp02l7psglhiA0AEUalSwe3FL6P1KHDm8dhTwuEvPbUpaihVSWWfMTa38=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "xEk2do30B1I",
+   "link": "https://www.youtube.com/watch?v=xEk2do30B1I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xEk2do30B1I",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/xEk2do30B1I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVglvAw16-SbG_165hZaooU42NQw",
+    "rich": "https://i.ytimg.com/an_webp/xEk2do30B1I/mqdefault_6s.webp?du=3000&sqp=CMbjp9YG&rs=AOn4CLALVu0Peva4uGU049CioxDJlyhMOQ"
+   },
+   "title": "What happened to the Indian Stock Market?",
+   "published_date": "8d ago",
+   "views": "526K",
+   "extracted_views": 526000,
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra",
+    "thumbnail": "https://yt3.ggpht.com/W8KcmgeMUaE-5qFILdwvl9xMTZkaCPfrGfnxy8jedThtymmRdTsT2iKMVsuroyDLsposHssf=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "V9Ra8klDzrM",
+   "link": "https://www.youtube.com/watch?v=V9Ra8klDzrM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V9Ra8klDzrM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/V9Ra8klDzrM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMph7gEjcQgLzN37I-ySsdoPxgwg",
+    "rich": "https://i.ytimg.com/an_webp/V9Ra8klDzrM/mqdefault_6s.webp?du=3000&sqp=CObJp9YG&rs=AOn4CLDiVOm6DctkqDbOb2rftZ0gIWMyHQ"
+   },
+   "title": "Build a Trading Algo with AI | No Coding Required",
+   "published_date": "1mo ago",
+   "views": "566K",
+   "extracted_views": 566000,
+   "channel": {
+    "name": "Zerodha Varsity and Zerodha",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw",
+    "rich": "https://i.ytimg.com/an_webp/iVMRAOSB96c/mqdefault_6s.webp?du=3000&sqp=CPvRp9YG&rs=AOn4CLD3lkfFA1XEMRUeTjUZ14qtosMXhg"
+   },
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1mo ago",
+   "views": "450K",
+   "extracted_views": 450000,
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww",
+    "thumbnail": "https://yt3.ggpht.com/viBd-Y8qxhOuMKf4edTGNokkM9QQKayBQ0yEAKjOJhcYLteb4piwiZ5RRs3Hd8VOMUXBkSmzDw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "UdPvNJHDP14",
+   "link": "https://www.youtube.com/watch?v=UdPvNJHDP14",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UdPvNJHDP14",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/UdPvNJHDP14/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCciPWKXDxKUlSqxHAcbuluFf7uOA",
+    "rich": "https://i.ytimg.com/an_webp/UdPvNJHDP14/mqdefault_6s.webp?du=3000&sqp=CPbLp9YG&rs=AOn4CLACgimJ9arasuYmYveW6gh8amlONA"
+   },
+   "title": "Why Investing in US stocks is NOT worth it",
+   "published_date": "3mo ago",
+   "views": "443K",
+   "extracted_views": 443000,
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha",
+    "thumbnail": "https://yt3.ggpht.com/m0SYHJ0N9BvOzsQ1x_rjJZ93AozarehZou4GcNU8m_D8oV90UoGO0vOXRzPLzeZ-NlTq7mntFw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "ODtZF8-0_vI",
+   "link": "https://www.youtube.com/watch?v=ODtZF8-0_vI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ODtZF8-0_vI",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ODtZF8-0_vI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXsGZfpNM5RBxUcxddeo4l0tfEPA",
+    "rich": "https://i.ytimg.com/an_webp/ODtZF8-0_vI/mqdefault_6s.webp?du=3000&sqp=CNjip9YG&rs=AOn4CLAdsAd-HQ-W7ieNqDeZwt6VOZh3Zg"
+   },
+   "title": "Forget Blue Chips, Here's Where the REAL Money Is | Samit Vartak",
+   "published_date": "6d ago",
+   "views": "62K",
+   "extracted_views": 62000,
+   "channel": {
+    "name": "Wealth By Motilal Oswal and Avanne Dubash"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "M5T_vttlfUk",
+   "link": "https://www.youtube.com/watch?v=M5T_vttlfUk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5T_vttlfUk",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/M5T_vttlfUk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByiuufRD-4gpYsMAXiMO_f3e-A-w",
+    "rich": "https://i.ytimg.com/an_webp/M5T_vttlfUk/mqdefault_6s.webp?du=3000&sqp=CLvkp9YG&rs=AOn4CLCzGlsTERB2EmlFtXAHra2c6yvhsA"
+   },
+   "title": "I Don't Invest 100% of My Money in India - Here's Why | Ankur Warikoo Hindi",
+   "published_date": "3mo ago",
+   "views": "119K",
+   "extracted_views": 119000,
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo",
+    "thumbnail": "https://yt3.ggpht.com/Xmf5LtdlD2A7hOScjvc0nh87d1YfbfF458lN7Ot5T1a1CQePP6vNEmhZuj0x0TSz-37DBMzUsw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "9k40TcOyG9U",
+   "link": "https://www.youtube.com/watch?v=9k40TcOyG9U&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9k40TcOyG9U",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/9k40TcOyG9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB13bGGfl55qWTWZdIBcWlTGBb9yg",
+    "rich": "https://i.ytimg.com/an_webp/9k40TcOyG9U/mqdefault_6s.webp?du=3000&sqp=CLLdp9YG&rs=AOn4CLAh-FTHwXgks8404yUdqJ0dwDSoBQ"
+   },
+   "title": "INDIA'S IT MACHINE IS BREAKING | How is the industry growing while the jobs are vanishing?",
+   "published_date": "2mo ago",
+   "views": "940K",
+   "extracted_views": 940000,
+   "channel": {
+    "name": "Think School",
+    "link": "https://www.youtube.com/@ThinkSchool",
+    "thumbnail": "https://yt3.ggpht.com/9BhJtkvh3GjjLqtve2o-CKZJPb79ZEwjoqag9JznlIywBimKTeIfpVQMyrnTIYoXXQOm2hY9nA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "0uRcNJ4rZM4",
+   "link": "https://www.youtube.com/watch?v=0uRcNJ4rZM4&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0uRcNJ4rZM4",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/0uRcNJ4rZM4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiD0jSOI7_EWhMnm0GDy3gc1_a7g",
+    "rich": "https://i.ytimg.com/an_webp/0uRcNJ4rZM4/mqdefault_6s.webp?du=3000&sqp=CMTsp9YG&rs=AOn4CLDpNRDpm_fWmR1dv68lqjmXImSJqw"
+   },
+   "title": "Indian IT has corrected by 40% (Trap or Goldmine?) | Akshat Shrivastava",
+   "published_date": "2mo ago",
+   "views": "174K",
+   "extracted_views": 174000,
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn",
+    "thumbnail": "https://yt3.ggpht.com/8PMdFhYNxoSxGK4u7A_14UMyMzDbPNph_R_oUjhQSAz2kf0arjW_4IEH2HyFWlMfgOaVxIX7aw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "cfaJV0XFhsQ",
+   "link": "https://www.youtube.com/watch?v=cfaJV0XFhsQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cfaJV0XFhsQ",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/cfaJV0XFhsQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqTSfW0mLH1TpttgEAlw8mH66GsA",
+    "rich": "https://i.ytimg.com/an_webp/cfaJV0XFhsQ/mqdefault_6s.webp?du=3000&sqp=CJC7p9YG&rs=AOn4CLC5reFtuDWQXDxRWgaPpwWT99CN7A"
+   },
+   "title": "IT Sector के ₹19 लाख करोड़ कहाँ गायब हो गए? Case Study | CA Rahul Malodia",
+   "published_date": "2mo ago",
+   "views": "413K",
+   "extracted_views": 413000,
+   "channel": {
+    "name": "CA Rahul Malodia",
+    "link": "https://www.youtube.com/@rahulmalodiaofficial",
+    "thumbnail": "https://yt3.ggpht.com/XWzifiPdIKSJIfozw0DnFgv1WiYrpU26SCcNxcOdkz5AL0YUkhQPsUOrTv1N-5WvfCq8TZO0hw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "PSdjeue0tbE",
+   "link": "https://www.youtube.com/watch?v=PSdjeue0tbE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PSdjeue0tbE",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/PSdjeue0tbE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdSLA-OeOsbh23VV1qvxN61dPIsA",
+    "rich": "https://i.ytimg.com/an_webp/PSdjeue0tbE/mqdefault_6s.webp?du=3000&sqp=CPzfp9YG&rs=AOn4CLBj8z8zb7GPxrt8XCypoS-xa33OLA"
+   },
+   "title": "How to Pick Stocks for the Long Term: Quality, Valuation & Margin of Safety",
+   "published_date": "2w ago",
+   "views": "78K",
+   "extracted_views": 78000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+    "rich": "https://i.ytimg.com/an_webp/w_b8_rtiZKg/mqdefault_6s.webp?du=3000&sqp=CMDup9YG&rs=AOn4CLAMXT6o2ahA4QJ9tNLwGxqVxh3jZQ"
+   },
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "2d ago",
+   "views": "426K",
+   "extracted_views": 426000,
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi",
+    "thumbnail": "https://yt3.ggpht.com/FWqvZ-FTNej3vJ4-tso3uSGOjRsCDxTmB2lVCf1cKN3D__RBxwthab1b3P66n3K3Fb7vPFVJuw=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "pv5ojiCojjU",
+   "link": "https://www.youtube.com/watch?v=pv5ojiCojjU",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=pv5ojiCojjU",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/pv5ojiCojjU/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLC4lNUq2KgN6XcHP87iORjR3AkNFQ",
+    "rich": "https://i.ytimg.com/an_webp/pv5ojiCojjU/mqdefault_6s.webp?du=3000&sqp=COqyp9YG&rs=AOn4CLD7UJhgedjnV3od9CjoWy0YpWTQpg"
+   },
+   "title": "Skin in the Game: Why You Should Never Blindly Trust Experts! | TNS Library ",
+   "published_date": "20h ago",
+   "views": "25K",
+   "extracted_views": 25000,
+   "channel": {
+    "name": "Neeraj Bajpai",
+    "link": "https://www.youtube.com/@neeraj.bajpai",
+    "thumbnail": "https://yt3.ggpht.com/iLguDK3xCB_yB3eV0AirgO2Wq1l2RV5TfyvxxyUloC4EfsAhYOwpwG9r3GtDe9LN6ToudLHbsfA=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  },
+  {
+   "video_id": "u5wUR1ecWrw",
+   "link": "https://www.youtube.com/watch?v=u5wUR1ecWrw&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=u5wUR1ecWrw",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/u5wUR1ecWrw/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBjwJ2QsfINSkLEPyTOw7Bh60St2A",
+    "rich": "https://i.ytimg.com/an_webp/u5wUR1ecWrw/mqdefault_6s.webp?du=3000&sqp=CJzUp9YG&rs=AOn4CLBFPdnIbvQnWp_JfSfeglf_-xLOuQ"
+   },
+   "title": "₹18 Lakh Crore Wiped Out From Indian IT Sector! Is The Worst Over? | CA Rachana Ranade",
+   "published_date": "4mo ago",
+   "views": "49K",
+   "extracted_views": 49000,
+   "channel": {
+    "name": "CA Rachana Phadke Ranade",
+    "link": "https://www.youtube.com/@CARachanaRanade",
+    "thumbnail": "https://yt3.ggpht.com/PGNAw6xUxZZzey0iRrixLpSrT3k55kia0fDK_7VTdjnRbBzwUkjmla6clurSihfbi8FtTKB6SQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "S5v9edeqtIM",
+   "link": "https://www.youtube.com/watch?v=S5v9edeqtIM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=S5v9edeqtIM",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/S5v9edeqtIM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAWlmBSqhaxgveqN_dTc-ASdpD8Ig",
+    "rich": "https://i.ytimg.com/an_webp/S5v9edeqtIM/mqdefault_6s.webp?du=3000&sqp=COfgp9YG&rs=AOn4CLBursnwf3d44Ube1ML9COMECT501Q"
+   },
+   "title": "Plot or Flat - E² Rule Explained",
+   "published_date": "3mo ago",
+   "views": "1.4M",
+   "extracted_views": 1400000,
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha",
+    "thumbnail": "https://yt3.ggpht.com/m0SYHJ0N9BvOzsQ1x_rjJZ93AozarehZou4GcNU8m_D8oV90UoGO0vOXRzPLzeZ-NlTq7mntFw=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "OLPJcTNpNaY",
+   "link": "https://www.youtube.com/watch?v=OLPJcTNpNaY&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=OLPJcTNpNaY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/OLPJcTNpNaY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDSqe39isTOk4MCRpixqVE8zN6lhg",
+    "rich": "https://i.ytimg.com/an_webp/OLPJcTNpNaY/mqdefault_6s.webp?du=3000&sqp=COrBp9YG&rs=AOn4CLAFplPElsSjRuuNtAntQ3DZ-i1Q7Q"
+   },
+   "title": "'Stop SIPs, Investing In Equities; Let The Stock Market Fall': Shankar Sharma's Viral Interview",
+   "published_date": "4mo ago",
+   "views": "282K",
+   "extracted_views": 282000,
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia",
+    "thumbnail": "https://yt3.ggpht.com/dkkB18FyGVXnllvRjSp9j2Nbt1ONAaVyzvuwZWtU91zS1d6dVMGEQB_i7321zQjxUn1IDsSq9pI=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "wRBi0DT9dvY",
+   "link": "https://www.youtube.com/watch?v=wRBi0DT9dvY",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=wRBi0DT9dvY",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/wRBi0DT9dvY/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB5avpIa4UxVlq8SPvz-lC0D0q_Iw",
+    "rich": "https://i.ytimg.com/an_webp/wRBi0DT9dvY/mqdefault_6s.webp?du=3000&sqp=CLbDp9YG&rs=AOn4CLBAiGe1y91xlK6vJlSNvmq-KOrB-A"
+   },
+   "title": "Where Should Your Money Go in a Crisis? Stocks, Gold, Cash & Real Estate | Shashank Udupa | FWS",
+   "published_date": "10d ago",
+   "views": "443K",
+   "extracted_views": 443000,
+   "channel": {
+    "name": "Finance With Sharan",
+    "link": "https://www.youtube.com/@financewithsharan",
+    "thumbnail": "https://yt3.ggpht.com/0IPNVmJCz3CAkju6UbQTaSSSVs_B5T0SrcQjwD5-syayDP7WCFxeoL3wAqgxwaEZG0KKY1-1LQ=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "iggfc4Dm4jA",
+   "link": "https://www.youtube.com/watch?v=iggfc4Dm4jA&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iggfc4Dm4jA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/iggfc4Dm4jA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLA_iII7T-PhSZp1XSCKR7aNAE1lcg",
+    "rich": "https://i.ytimg.com/an_webp/iggfc4Dm4jA/mqdefault_6s.webp?du=3000&sqp=CIC7p9YG&rs=AOn4CLBoGp6ofnjkbHJhB4onyjltkqdDQg"
+   },
+   "title": "The Ex-Enam CEO explains why Cash is King",
+   "published_date": "7mo ago",
+   "views": "141K",
+   "extracted_views": 141000,
+   "channel": {
+    "name": "Thrive by Groww",
+    "link": "https://www.youtube.com/@ThrivebyGroww",
+    "thumbnail": "https://yt3.ggpht.com/d6kp6Tfb2xKNLKGoztvED3ItBKyf-bAaINVA1Fv10kPWkMCDq00X_bGW3WpE0F08ucjlK7levA=s68-c-k-c0x00ffffff-no-rj"
+   }
+  },
+  {
+   "video_id": "VClxzcbjpgA",
+   "link": "https://www.youtube.com/watch?v=VClxzcbjpgA&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=VClxzcbjpgA",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/VClxzcbjpgA/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCmtvcg_uOIy2mOgf46kwdCQlIKcA",
+    "rich": "https://i.ytimg.com/an_webp/VClxzcbjpgA/mqdefault_6s.webp?du=3000&sqp=CIDcp9YG&rs=AOn4CLC_DQMaiel0KnA2n7LbwbDSGgyuEQ"
+   },
+   "title": "Mohnish Pabrai's Brutally Honest Thoughts on the Stock Market.",
+   "published_date": "2mo ago",
+   "views": "389K",
+   "extracted_views": 389000,
+   "channel": {
+    "name": "New Money",
+    "link": "https://www.youtube.com/@NewMoneyYouTube",
+    "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_nGDNKRGWx9DDjeQWiF_DDjj-370lL0W0u2jpQ8Urh4rpo=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   }
+  },
+  {
+   "video_id": "ERoVYtflrz8",
+   "link": "https://www.youtube.com/watch?v=ERoVYtflrz8&pp=ugUHEgVlbi1JTg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ERoVYtflrz8",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/ERoVYtflrz8/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDpX7m83y6uO0TOUgcdNTEUmdKuUw",
+    "rich": "https://i.ytimg.com/an_webp/ERoVYtflrz8/mqdefault_6s.webp?du=3000&sqp=CNTtp9YG&rs=AOn4CLBMqZT8DKcd9mk7ymTgiJ7Ku9Jhxg"
+   },
+   "title": "‘We Don’t Forget...’: Jaishankar’s Blunt Defence Of India-Russia Ties That Stings Europe Hard",
+   "published_date": "4d ago",
+   "views": "1.3M",
+   "extracted_views": 1300000,
+   "channel": {
+    "name": "Firstpost",
+    "link": "https://www.youtube.com/@Firstpost",
+    "thumbnail": "https://yt3.ggpht.com/xq1lZeHKTfCkr-6yw8OvRqOhZKM651oTJEJZiMD-5ObuT8eR29wktPwLZW6R2ZAFHOvba-W6=s68-c-k-c0x00ffffff-no-rj",
+    "verified": true
+   },
+   "extensions": [
+    "New"
+   ]
+  }
+ ],
+ "related_videos_next_page_token": "CBQSKRILb3J0R3FKTjVWZEnAAQDIAQDgAQGiAg0o____________AUAA-AIAGAAqmwZNZ29Jdjk2V3Y2MnNoWTBSMnM2TDZ3ekJCQXEtQkFvRDhqNEFDZzdDUGdzSTdiYmtpcHJneUozMUFRb0Q4ajRBQ2c3Q1Bnc0kwbzdRNy1qT3phVEVBUW9EOGo0QUNnM0NQZ29JczUyUHlxVGVsdXBYQ2dQeVBnQUtEc0ktQ3dpbjc0ZWtqcURFcVlrQkNnUHlQZ0FLRGNJLUNnamVfb3lPeWViNzZWRUtBX0ktQUFvTndqNEtDUEw5MF8zOG90YWRPQW9EOGo0QUNnM0NQZ29JeWZxVjItMzN2OG96Q2dQeVBnQUtEc0ktQ3dqVnQ4aWQzSW1OcF9ZQkNnUHlQZ0FLRHNJLUN3ak95YTN4eVlhWDh0SUJDZ1B5UGdBS0RjSS1DZ2pFalphdTlLcWktM0VLQV9JLUFBb053ajRLQ0xIcjByMnU3OWlUUFFvRDhqNEFDZzdDUGdzSXFNbUoyLXVmdl92REFRb0Q4ajRBQ2c3Q1Bnc0l0WnlpaGVLUm12LW1BUW9EOGo0QUNnN0NQZ3NJdkxYeHZQV0loYzY3QVFvRDhqNEFDZzNDUGdvSWctbXF2WjJ2XzgxTENnUHlQZ0FLRGNJLUNnaW02NlNiazY3eTJUZ0tBX0ktQUFvT3dqNExDUGJ0OWFlRDJwaUl3UUVLQV9JLUFBb093ajRMQ0xERW00ZTQ3b2VFaWdFS0FfSS1BQW9Od2o0S0NJRE1qcmZjdWR5VVZBb0Q4ajRBQ2czQ1Bnb0l2OTZXdjYyc2hZMFJFaFFBQWdRR0NBb01EaEFTRkJZWUdod2VJQ0lrSmhvRUNBQVFBUm9FQ0FJUUF4b0VDQVFRQlJvRUNBWVFCeG9FQ0FnUUNSb0VDQW9RQ3hvRUNBd1FEUm9FQ0E0UUR4b0VDQkFRRVJvRUNCSVFFeG9FQ0JRUUZSb0VDQllRRnhvRUNCZ1FHUm9FQ0JvUUd4b0VDQndRSFJvRUNCNFFIeG9FQ0NBUUlSb0VDQ0lRSXhvRUNDUVFKUm9FQ0NZUUp5b1VBQUlFQmdnS0RBNFFFaFFXR0JvY0hpQWlKQ1lqD3dhdGNoLW5leHQtZmVlZA%3D%3D",
+ "end_screen_videos": [
+  {
+   "video_id": "9TsjAaFZG20",
+   "link": "https://www.youtube.com/watch?v=9TsjAaFZG20",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9TsjAaFZG20",
+   "thumbnail": "https://i.ytimg.com/vi/9TsjAaFZG20/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCCd2Dt6jIREH0OE3z8CvVvixzQ0g",
+   "title": "Mohnish Pabrai: I Spent 30 Years in Investing. Here's Everything in 30 Minutes",
+   "published_date": "2 weeks ago",
+   "views": "1.1M views",
+   "extracted_views": 1100000,
+   "length": "38:32",
+   "channel": {
+    "name": "informo",
+    "link": "https://www.youtube.com/@informo-awesome"
+   }
+  },
+  {
+   "video_id": "xEk2do30B1I",
+   "link": "https://www.youtube.com/watch?v=xEk2do30B1I",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=xEk2do30B1I",
+   "thumbnail": "https://i.ytimg.com/vi/xEk2do30B1I/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBVglvAw16-SbG_165hZaooU42NQw",
+   "title": "What happened to the Indian Stock Market?",
+   "published_date": "8 days ago",
+   "views": "526K views",
+   "extracted_views": 526000,
+   "length": "16:36",
+   "channel": {
+    "name": "Pranjal Kamra",
+    "link": "https://www.youtube.com/@pranjalkamra"
+   }
+  },
+  {
+   "video_id": "V9Ra8klDzrM",
+   "link": "https://www.youtube.com/watch?v=V9Ra8klDzrM",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=V9Ra8klDzrM",
+   "thumbnail": "https://i.ytimg.com/vi/V9Ra8klDzrM/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBMph7gEjcQgLzN37I-ySsdoPxgwg",
+   "title": "Build a Trading Algo with AI | No Coding Required",
+   "published_date": "1 month ago",
+   "views": "566K views",
+   "extracted_views": 566000,
+   "length": "50:53",
+   "channel": {
+    "name": "Zerodha Varsity and Zerodha"
+   }
+  },
+  {
+   "video_id": "iVMRAOSB96c",
+   "link": "https://www.youtube.com/watch?v=iVMRAOSB96c",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=iVMRAOSB96c",
+   "thumbnail": "https://i.ytimg.com/vi/iVMRAOSB96c/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDLvEPvzKk6Nuf9G7EFDg84GmFYQw",
+   "title": "20 Years of Finding Multibaggers in 60 Minutes | JSW, IHCL & TCP | Contra Investing | Parag Thakkar",
+   "published_date": "1 month ago",
+   "views": "450K views",
+   "extracted_views": 450000,
+   "length": "1:01:48",
+   "channel": {
+    "name": "Moneytalks by Groww",
+    "link": "https://www.youtube.com/@MoneytalksbyGroww"
+   }
+  },
+  {
+   "video_id": "UdPvNJHDP14",
+   "link": "https://www.youtube.com/watch?v=UdPvNJHDP14",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=UdPvNJHDP14",
+   "thumbnail": "https://i.ytimg.com/vi/UdPvNJHDP14/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCciPWKXDxKUlSqxHAcbuluFf7uOA",
+   "title": "Why Investing in US stocks is NOT worth it",
+   "published_date": "3 months ago",
+   "views": "443K views",
+   "extracted_views": 443000,
+   "length": "15:04",
+   "channel": {
+    "name": "Zero1 by Zerodha",
+    "link": "https://www.youtube.com/@Zero1byZerodha"
+   }
+  },
+  {
+   "video_id": "ODtZF8-0_vI",
+   "link": "https://www.youtube.com/watch?v=ODtZF8-0_vI&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=ODtZF8-0_vI",
+   "thumbnail": "https://i.ytimg.com/vi/ODtZF8-0_vI/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDXsGZfpNM5RBxUcxddeo4l0tfEPA",
+   "title": "Forget Blue Chips, Here's Where the REAL Money Is | Samit Vartak",
+   "published_date": "6 days ago",
+   "views": "62K views",
+   "extracted_views": 62000,
+   "length": "1:18:47",
+   "channel": {
+    "name": "Wealth By Motilal Oswal and Avanne Dubash"
+   }
+  },
+  {
+   "video_id": "M5T_vttlfUk",
+   "link": "https://www.youtube.com/watch?v=M5T_vttlfUk",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=M5T_vttlfUk",
+   "thumbnail": "https://i.ytimg.com/vi/M5T_vttlfUk/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLByiuufRD-4gpYsMAXiMO_f3e-A-w",
+   "title": "I Don't Invest 100% of My Money in India - Here's Why | Ankur Warikoo Hindi",
+   "published_date": "3 months ago",
+   "views": "119K views",
+   "extracted_views": 119000,
+   "length": "26:51",
+   "channel": {
+    "name": "warikoo",
+    "link": "https://www.youtube.com/@warikoo"
+   }
+  },
+  {
+   "video_id": "9k40TcOyG9U",
+   "link": "https://www.youtube.com/watch?v=9k40TcOyG9U&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=9k40TcOyG9U",
+   "thumbnail": "https://i.ytimg.com/vi/9k40TcOyG9U/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLB13bGGfl55qWTWZdIBcWlTGBb9yg",
+   "title": "INDIA'S IT MACHINE IS BREAKING | How is the industry growing while the jobs are vanishing?",
+   "published_date": "2 months ago",
+   "views": "940K views",
+   "extracted_views": 940000,
+   "length": "17:14",
+   "channel": {
+    "name": "Think School",
+    "link": "https://www.youtube.com/@ThinkSchool"
+   }
+  },
+  {
+   "video_id": "0uRcNJ4rZM4",
+   "link": "https://www.youtube.com/watch?v=0uRcNJ4rZM4&pp=ugUEEgJlbg%3D%3D",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=0uRcNJ4rZM4",
+   "thumbnail": "https://i.ytimg.com/vi/0uRcNJ4rZM4/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCiD0jSOI7_EWhMnm0GDy3gc1_a7g",
+   "title": "Indian IT has corrected by 40% (Trap or Goldmine?) | Akshat Shrivastava",
+   "published_date": "2 months ago",
+   "views": "174K views",
+   "extracted_views": 174000,
+   "length": "19:28",
+   "channel": {
+    "name": "Akshat Shrivastava",
+    "link": "https://www.youtube.com/@AkshatZayn"
+   }
+  },
+  {
+   "video_id": "cfaJV0XFhsQ",
+   "link": "https://www.youtube.com/watch?v=cfaJV0XFhsQ",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=cfaJV0XFhsQ",
+   "thumbnail": "https://i.ytimg.com/vi/cfaJV0XFhsQ/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAqTSfW0mLH1TpttgEAlw8mH66GsA",
+   "title": "IT Sector के ₹19 लाख करोड़ कहाँ गायब हो गए? Case Study | CA Rahul Malodia",
+   "published_date": "2 months ago",
+   "views": "413K views",
+   "extracted_views": 413000,
+   "length": "15:05",
+   "channel": {
+    "name": "CA Rahul Malodia",
+    "link": "https://www.youtube.com/@rahulmalodiaofficial"
+   }
+  },
+  {
+   "video_id": "PSdjeue0tbE",
+   "link": "https://www.youtube.com/watch?v=PSdjeue0tbE&pp=0gcJCTcMAYcqIYzv",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=PSdjeue0tbE",
+   "thumbnail": "https://i.ytimg.com/vi/PSdjeue0tbE/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCdSLA-OeOsbh23VV1qvxN61dPIsA",
+   "title": "How to Pick Stocks for the Long Term: Quality, Valuation & Margin of Safety",
+   "published_date": "2 weeks ago",
+   "views": "78K views",
+   "extracted_views": 78000,
+   "length": "26:34",
+   "channel": {
+    "name": "NDTV Profit",
+    "link": "https://www.youtube.com/@NDTVProfitIndia"
+   }
+  },
+  {
+   "video_id": "w_b8_rtiZKg",
+   "link": "https://www.youtube.com/watch?v=w_b8_rtiZKg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=w_b8_rtiZKg",
+   "thumbnail": "https://i.ytimg.com/vi/w_b8_rtiZKg/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLAB9QB1XHMvGpR-bVQeBz5N6tHQgw",
+   "title": "Mutual Funds Are Falling - DON'T Miss these 3 Points for SIPs & Lumpsum Investments | Rahul Jain",
+   "published_date": "2 days ago",
+   "views": "426K views",
+   "extracted_views": 426000,
+   "length": "21:20",
+   "channel": {
+    "name": "Rahul Jain - Hindi",
+    "link": "https://www.youtube.com/@Rahuljainhindi"
+   }
+  }
+ ],
+ "comments_next_page_token": "Eg0SC29ydEdxSk41VmRJGAYyJSIRIgtvcnRHcUpONVZkSTAAeAJCEGNvbW1lbnRzLXNlY3Rpb24%3D",
+ "comments_sorting_token": [
+  {
+   "title": "Top",
+   "token": "Eg0SC29ydEdxSk41VmRJGAYyOyIUIgtvcnRHcUpONVZkSTAAeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  },
+  {
+   "title": "Newest",
+   "token": "Eg0SC29ydEdxSk41VmRJGAYyOyIUIgtvcnRHcUpONVZkSTABeALwAwEwAUIhZW5nYWdlbWVudC1wYW5lbC1jb21tZW50cy1zZWN0aW9u"
+  }
+ ],
+ "transcript": {
+  "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video_transcript&language_code=en&v=ortGqJN5VdI"
+ },
+ "_fetched_at": "2026-10-10T08:30:40"
+}

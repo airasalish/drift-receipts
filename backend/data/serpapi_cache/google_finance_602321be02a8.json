@@ -1,0 +1,233 @@
+{
+ "search_metadata": {
+  "id": "6ac6862cd114df3bd8562d8b",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/fhyo8t6JCmWDhT0_YTTFO6dO4I_8FkWQ_rTxdbL8e7E/6ac6862cd114df3bd8562d8b.json",
+  "markdown_endpoint": "https://serpapi.com/searches/fhyo8t6JCmWDhT0_YTTFO6dO4I_8FkWQ_rTxdbL8e7E/6ac6862cd114df3bd8562d8b.md",
+  "created_at": "2026-10-07 17:49:32 UTC",
+  "processed_at": "2026-10-07 17:49:32 UTC",
+  "google_finance_url": "https://www.google.com/finance/quote/LALITHAA:NSE?hl=en&window=6M",
+  "raw_html_file": "https://serpapi.com/searches/fhyo8t6JCmWDhT0_YTTFO6dO4I_8FkWQ_rTxdbL8e7E/6ac6862cd114df3bd8562d8b.html",
+  "prettify_html_file": "https://serpapi.com/searches/fhyo8t6JCmWDhT0_YTTFO6dO4I_8FkWQ_rTxdbL8e7E/6ac6862cd114df3bd8562d8b.prettify",
+  "total_time_taken": 1.13
+ },
+ "search_parameters": {
+  "engine": "google_finance",
+  "q": "LALITHAA:NSE",
+  "hl": "en",
+  "window": "6M"
+ },
+ "graph": [
+  {
+   "price": 248.44,
+   "currency": "INR",
+   "date": "Aug 24 2026, 03:30 PM UTC+05:30",
+   "volume": 99042106
+  },
+  {
+   "price": 249.87,
+   "currency": "INR",
+   "date": "Aug 25 2026, 03:30 PM UTC+05:30",
+   "volume": 29783775
+  },
+  {
+   "price": 244.0,
+   "currency": "INR",
+   "date": "Aug 26 2026, 03:30 PM UTC+05:30",
+   "volume": 11638553
+  },
+  {
+   "price": 246.23,
+   "currency": "INR",
+   "date": "Aug 27 2026, 03:30 PM UTC+05:30",
+   "volume": 14189168
+  },
+  {
+   "price": 265.24,
+   "currency": "INR",
+   "date": "Aug 28 2026, 03:30 PM UTC+05:30",
+   "volume": 24374432
+  },
+  {
+   "price": 257.89,
+   "currency": "INR",
+   "date": "Aug 31 2026, 03:30 PM UTC+05:30",
+   "volume": 9443545
+  },
+  {
+   "price": 267.6,
+   "currency": "INR",
+   "date": "Sep 01 2026, 03:30 PM UTC+05:30",
+   "volume": 32021090
+  },
+  {
+   "price": 264.35,
+   "currency": "INR",
+   "date": "Sep 02 2026, 03:30 PM UTC+05:30",
+   "volume": 8411510
+  },
+  {
+   "price": 280.3,
+   "currency": "INR",
+   "date": "Sep 03 2026, 03:30 PM UTC+05:30",
+   "volume": 14643073
+  },
+  {
+   "price": 306.7,
+   "currency": "INR",
+   "date": "Sep 04 2026, 03:30 PM UTC+05:30",
+   "volume": 23781731
+  },
+  {
+   "price": 317.75,
+   "currency": "INR",
+   "date": "Sep 07 2026, 03:30 PM UTC+05:30",
+   "volume": 24705575
+  },
+  {
+   "price": 318.75,
+   "currency": "INR",
+   "date": "Sep 08 2026, 03:30 PM UTC+05:30",
+   "volume": 7903836
+  },
+  {
+   "price": 334.45,
+   "currency": "INR",
+   "date": "Sep 09 2026, 03:30 PM UTC+05:30",
+   "volume": 16094330
+  },
+  {
+   "price": 337.6,
+   "currency": "INR",
+   "date": "Sep 10 2026, 03:30 PM UTC+05:30",
+   "volume": 6296249
+  },
+  {
+   "price": 338.6,
+   "currency": "INR",
+   "date": "Sep 11 2026, 03:30 PM UTC+05:30",
+   "volume": 6734761
+  },
+  {
+   "price": 321.7,
+   "currency": "INR",
+   "date": "Sep 15 2026, 03:30 PM UTC+05:30",
+   "volume": 947094
+  },
+  {
+   "price": 305.65,
+   "currency": "INR",
+   "date": "Sep 16 2026, 03:30 PM UTC+05:30",
+   "volume": 147338
+  },
+  {
+   "price": 290.4,
+   "currency": "INR",
+   "date": "Sep 17 2026, 03:30 PM UTC+05:30",
+   "volume": 5186628
+  },
+  {
+   "price": 304.9,
+   "currency": "INR",
+   "date": "Sep 18 2026, 03:30 PM UTC+05:30",
+   "volume": 8505145
+  },
+  {
+   "price": 320.1,
+   "currency": "INR",
+   "date": "Sep 21 2026, 03:30 PM UTC+05:30",
+   "volume": 11305222
+  },
+  {
+   "price": 336.1,
+   "currency": "INR",
+   "date": "Sep 22 2026, 03:30 PM UTC+05:30",
+   "volume": 4493449
+  },
+  {
+   "price": 352.9,
+   "currency": "INR",
+   "date": "Sep 23 2026, 03:30 PM UTC+05:30",
+   "volume": 9509619
+  },
+  {
+   "price": 370.5,
+   "currency": "INR",
+   "date": "Sep 24 2026, 03:30 PM UTC+05:30",
+   "volume": 10872334
+  },
+  {
+   "price": 366.35,
+   "currency": "INR",
+   "date": "Sep 25 2026, 03:30 PM UTC+05:30",
+   "volume": 11964094
+  },
+  {
+   "price": 357.15,
+   "currency": "INR",
+   "date": "Sep 28 2026, 03:30 PM UTC+05:30",
+   "volume": 7423508
+  },
+  {
+   "price": 375.0,
+   "currency": "INR",
+   "date": "Sep 29 2026, 03:30 PM UTC+05:30",
+   "volume": 6239745
+  },
+  {
+   "price": 381.9,
+   "currency": "INR",
+   "date": "Sep 30 2026, 03:30 PM UTC+05:30",
+   "volume": 6734536
+  },
+  {
+   "price": 387.85,
+   "currency": "INR",
+   "date": "Oct 01 2026, 03:30 PM UTC+05:30",
+   "volume": 7022551
+  },
+  {
+   "price": 392.6,
+   "currency": "INR",
+   "date": "Oct 05 2026, 03:30 PM UTC+05:30",
+   "volume": 3852094
+  },
+  {
+   "price": 405.45,
+   "currency": "INR",
+   "date": "Oct 06 2026, 03:30 PM UTC+05:30",
+   "volume": 2951065
+  },
+  {
+   "price": 394.85,
+   "currency": "INR",
+   "date": "Oct 07 2026, 03:30 PM UTC+05:30",
+   "volume": 4147890
+  },
+  {
+   "price": 395.5,
+   "currency": "INR",
+   "date": "Oct 07 2026, 03:30 PM UTC+05:30"
+  }
+ ],
+ "summary": {
+  "title": "Lalithaa Jewellery Mart Ltd",
+  "stock": "LALITHAA",
+  "exchange": "NSE",
+  "price": "INR395.5",
+  "extracted_price": 395.5,
+  "currency": "INR",
+  "price_movement": {
+   "percentage": 59.193366608,
+   "value": 147.06,
+   "movement": "Up"
+  },
+  "date": "Oct 07 2026, 04:00:23 PM UTC+05:30",
+  "extensions": [
+   "Oct 07, 04:00:23 PM UTC+5:30",
+   "INR",
+   "NSE"
+  ]
+ },
+ "_fetched_at": "2026-10-07T17:49:31"
+}

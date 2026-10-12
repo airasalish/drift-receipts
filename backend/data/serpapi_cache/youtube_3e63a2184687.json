@@ -1,0 +1,453 @@
+{
+ "search_metadata": {
+  "id": "6ac6733209a51a2de91ec85f",
+  "status": "Success",
+  "json_endpoint": "https://serpapi.com/searches/_mxQuwRGYZcBjJZ8VdL6anWi1Wn6VXmd8-PcharVYXE/6ac6733209a51a2de91ec85f.json",
+  "markdown_endpoint": "https://serpapi.com/searches/_mxQuwRGYZcBjJZ8VdL6anWi1Wn6VXmd8-PcharVYXE/6ac6733209a51a2de91ec85f.md",
+  "created_at": "2026-10-07 16:28:34 UTC",
+  "processed_at": "2026-10-07 16:28:34 UTC",
+  "youtube_url": "https://www.youtube.com/results?search_query=multibagger+stock+to+buy+now&gl=in&hl=en",
+  "raw_html_file": "https://serpapi.com/searches/_mxQuwRGYZcBjJZ8VdL6anWi1Wn6VXmd8-PcharVYXE/6ac6733209a51a2de91ec85f.html",
+  "total_time_taken": 2.43
+ },
+ "search_parameters": {
+  "engine": "youtube",
+  "search_query": "multibagger stock to buy now",
+  "gl": "in",
+  "hl": "en"
+ },
+ "search_information": {
+  "total_results": 713232,
+  "video_results_state": "Results for exact spelling"
+ },
+ "video_results": [
+  {
+   "position_on_page": 1,
+   "title": "6 Boring Stocks, Before the Bounce Back | Best Stocks To Buy Now?",
+   "link": "https://www.youtube.com/watch?v=g3oOWA2VeVE",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=g3oOWA2VeVE",
+   "video_id": "g3oOWA2VeVE",
+   "channel": {
+    "name": "Grow With Abhii",
+    "link": "https://www.youtube.com/@GrowWithAbhiii",
+    "thumbnail": "https://yt3.ggpht.com/-EeGJ44HeOQmixUBqgCXzT2uUYhzgpjWb2DB79PkWlgZBkHvzc9flyk2H9OfxOWPmxDupERfUso=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 7410,
+   "length": "15:05",
+   "description": "Stock Market Correction: 4 Stocks, Before the Bounce Back | Best Stocks To Buy Now ! Dipan Mehta Are you looking for stocks to ...",
+   "extensions": [
+    "New"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/g3oOWA2VeVE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZHRkklM8a9V4OR8NOlg2IfpfbcA",
+    "rich": "https://i.ytimg.com/an_webp/g3oOWA2VeVE/mqdefault_6s.webp?du=3000&sqp=CPLemdYG&rs=AOn4CLDUNUM0c4Aac6TrJ1D0Mq_ESOdwUw"
+   }
+  },
+  {
+   "position_on_page": 3,
+   "title": "3 High Growth Stocks with Multibagger Outlook for the Next Bull Market I Best Stocks to Buy Now",
+   "link": "https://www.youtube.com/watch?v=aF4o-CRTDlg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=aF4o-CRTDlg",
+   "video_id": "aF4o-CRTDlg",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "12d ago",
+   "views": 19249,
+   "length": "7:56",
+   "description": "In today's video, we're diving deep into 3 High Growth Turnaround Stocks that could deliver outsized returns in the coming months ...",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/aF4o-CRTDlg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC6GhUsb6NIXtzqKDbCjb5-Hh_lJw",
+    "rich": "https://i.ytimg.com/an_webp/aF4o-CRTDlg/mqdefault_6s.webp?du=3000&sqp=CNjJmdYG&rs=AOn4CLBJdrgYruUW2Lp9VrW1s8SJtPgFoQ"
+   }
+  },
+  {
+   "position_on_page": 4,
+   "title": "High Growth Microcaps with Multibagger Potential I Best Stocks to Buy Now I Pranay Phulkar",
+   "link": "https://www.youtube.com/watch?v=d0aUkPWADe0",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=d0aUkPWADe0",
+   "video_id": "d0aUkPWADe0",
+   "channel": {
+    "name": "Pranay Phulkar",
+    "link": "https://www.youtube.com/@pranayphulkar",
+    "thumbnail": "https://yt3.ggpht.com/1f8r7O-Wh9si2fdhAHGE8f38-CmJou9HGqBUxRb7jeH_FWexxDaxC20yhmAi9WPP_f6D7noRHQ=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 8256,
+   "length": "3:39",
+   "description": "In today's video, we're diving deep into 2 HIGH GROWTH MICROCAPS that could deliver outsized returns in the coming months.",
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/d0aUkPWADe0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHxZwSWxxYNhryPS90Ae6-xk4-IA"
+   }
+  },
+  {
+   "position_on_page": 5,
+   "title": "Gurmeet Chadha Is Buying These Stocks & Sectors ’ मल्टीबेगर रिटर्न पाने का आखिरी मौका ?",
+   "link": "https://www.youtube.com/watch?v=nbQZfXRPvZA",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=nbQZfXRPvZA",
+   "video_id": "nbQZfXRPvZA",
+   "channel": {
+    "name": "shreyawithnews",
+    "link": "https://www.youtube.com/@shreyawithnews",
+    "thumbnail": "https://yt3.ggpht.com/Yhmv3VSzrzMZzQ-a7XY5VlzmSwyyY6v9p56g9lSyWABM8wFrg6gpj3vdbuylDdQuRP_Ghn6Q2A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 5708,
+   "length": "9:45",
+   "description": "... #best it stocks to buy now in india #best undervalued stocks to buy now in india #multibagger stocks to buy now #stocks to buy ...",
+   "extensions": [
+    "New",
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/nbQZfXRPvZA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsIXCN9jJhMqpRzp_kcqHqNGzGmg",
+    "rich": "https://i.ytimg.com/an_webp/nbQZfXRPvZA/mqdefault_6s.webp?du=3000&sqp=CLDimdYG&rs=AOn4CLCtaDSqsq2RNnI69ugsLwtPZQHQDQ"
+   }
+  },
+  {
+   "position_on_page": 7,
+   "title": "अगले 6 महीनो मे तीन गुना हो सकते हैं ये मल्टीबैगर Stocks? गिरावट के बाद बाज़ार में धुआं धुआं करेंगे!",
+   "link": "https://www.youtube.com/watch?v=_Aanf2V9EB4",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=_Aanf2V9EB4",
+   "video_id": "_Aanf2V9EB4",
+   "channel": {
+    "name": "shreyawithnews",
+    "link": "https://www.youtube.com/@shreyawithnews",
+    "thumbnail": "https://yt3.ggpht.com/Yhmv3VSzrzMZzQ-a7XY5VlzmSwyyY6v9p56g9lSyWABM8wFrg6gpj3vdbuylDdQuRP_Ghn6Q2A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 6312,
+   "length": "15:11",
+   "description": "... #best it stocks to buy now in india #best undervalued stocks to buy now in india #multibagger stocks to buy now #stocks to buy ...",
+   "extensions": [
+    "New",
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/_Aanf2V9EB4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeQ6SV0cOiOwpBDPZMFHjZaInTpw",
+    "rich": "https://i.ytimg.com/an_webp/_Aanf2V9EB4/mqdefault_6s.webp?du=3000&sqp=CNSfmdYG&rs=AOn4CLCr_l-UjSv8-n1fmIBPrj-1b1Y90w"
+   }
+  },
+  {
+   "position_on_page": 8,
+   "title": "₹500 के ये STOCKS ₹6,000 फिर ₹15,000 तक संभव? 😱 EXPERTS ने बताए Multibagger Stocks!",
+   "link": "https://www.youtube.com/watch?v=-vM40VEHaLg",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=-vM40VEHaLg",
+   "video_id": "-vM40VEHaLg",
+   "channel": {
+    "name": "shreyawithnews",
+    "link": "https://www.youtube.com/@shreyawithnews",
+    "thumbnail": "https://yt3.ggpht.com/Yhmv3VSzrzMZzQ-a7XY5VlzmSwyyY6v9p56g9lSyWABM8wFrg6gpj3vdbuylDdQuRP_Ghn6Q2A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1d ago",
+   "views": 4398,
+   "length": "20:37",
+   "description": "... #best it stocks to buy now in india #best undervalued stocks to buy now in india #multibagger stocks to buy now #stocks to buy ...",
+   "extensions": [
+    "New",
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/-vM40VEHaLg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrYjCKX1H7OeSnZPqEHcqo4Y2l_A",
+    "rich": "https://i.ytimg.com/an_webp/-vM40VEHaLg/mqdefault_6s.webp?du=3000&sqp=CIjXmdYG&rs=AOn4CLDQ4pvvAl8H6cjOHCozPoe4d7M5XQ"
+   }
+  },
+  {
+   "position_on_page": 9,
+   "title": "How to Find Multibagger Stocks using Screener",
+   "link": "https://www.youtube.com/watch?v=GKttoeLyk_Q",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=GKttoeLyk_Q",
+   "video_id": "GKttoeLyk_Q",
+   "channel": {
+    "name": "Shankar Nath",
+    "link": "https://www.youtube.com/@shankarnath",
+    "verified": true,
+    "thumbnail": "https://yt3.ggpht.com/jQFI_x5aRHAMvxrncv-SfUKRy6T3BBm4h-c7IGseg9FRPnfY9IuYht9eIhD9R9K1IO3JF130Rg=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "1y ago",
+   "views": 88486,
+   "length": "22:06",
+   "description": "Partner Offers: I use Zerodha for my investments. Open an account → https://zerodha.com/open-account?c=ZAPRSH ...",
+   "extensions": [
+    "1 product",
+    "4K"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/GKttoeLyk_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx_FZyf42e-gIL-hRk11G4UE2F5w",
+    "rich": "https://i.ytimg.com/an_webp/GKttoeLyk_Q/mqdefault_6s.webp?du=3000&sqp=CPC5mdYG&rs=AOn4CLAO7_i3JCWdOmxJRMyh5n1CAhpw9w"
+   }
+  },
+  {
+   "position_on_page": 10,
+   "title": "Top 6 Stocks to Buy ? : Prakash Gaba से जानिए इन 6 शेयरों में मुनाफे की क्या है बंपर स्ट्रेटेजी?",
+   "link": "https://www.youtube.com/watch?v=8Xpm4VjiYME",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=8Xpm4VjiYME",
+   "video_id": "8Xpm4VjiYME",
+   "channel": {
+    "name": "shreyawithnews",
+    "link": "https://www.youtube.com/@shreyawithnews",
+    "thumbnail": "https://yt3.ggpht.com/Yhmv3VSzrzMZzQ-a7XY5VlzmSwyyY6v9p56g9lSyWABM8wFrg6gpj3vdbuylDdQuRP_Ghn6Q2A=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2d ago",
+   "views": 14595,
+   "length": "14:12",
+   "description": "... #best it stocks to buy now in india #best undervalued stocks to buy now in india #multibagger stocks to buy now #stocks to buy ...",
+   "extensions": [
+    "New",
+    "9 products"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/8Xpm4VjiYME/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmNq_Gsl2aPAU0R5NdmscCs8xfDA",
+    "rich": "https://i.ytimg.com/an_webp/8Xpm4VjiYME/mqdefault_6s.webp?du=3000&sqp=CPHGmdYG&rs=AOn4CLB7DhMUwK9-_sBGh0olSw2yMZGZXQ"
+   }
+  },
+  {
+   "position_on_page": 11,
+   "title": "Best 3 Small Cap Stocks with Multibagger Potential | Best Small Cap | Multibagger",
+   "link": "https://www.youtube.com/watch?v=5vsD7NRrfcI",
+   "serpapi_link": "https://serpapi.com/search.json?engine=youtube_video&gl=in&hl=en&v=5vsD7NRrfcI",
+   "video_id": "5vsD7NRrfcI",
+   "channel": {
+    "name": "Mohammed Kashif Imran",
+    "link": "https://www.youtube.com/@Md.KashifImran",
+    "thumbnail": "https://yt3.ggpht.com/zOgIOPG5QsmnimEEEVIl8bp8-R-RnJZ5VfE3_x9h8a0pPeyJ8cC7dVzkq_NtjLSVvzVZs1d8=s68-c-k-c0x00ffffff-no-rj"
+   },
+   "published_date": "2w ago",
+   "views": 16128,
+   "length": "25:44",
+   "description": "Best 03 Small Cap Stocks Have Potential To Become Multibagger | Best Small Cap | Multibagger \n\n\nPlease Visit Our Website ...",
+   "extensions": [
+    "1 product"
+   ],
+   "thumbnail": {
+    "static": "https://i.ytimg.com/vi/5vsD7NRrfcI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6a0NV-3_BJ3mNOe066EHEclkHGQ",
+    "rich": "https://i.ytimg.com/an_webp/5vsD7NRrfcI/mqdefault_6s.webp?du=3000&sqp=COTEmdYG&rs=AOn4CLChls1lAwNFoA7cs_iPrdTyYtLoyQ"
+   }
+  }
+ ],
+ "shorts_results": [
+  {
+   "position_on_page": 2,
+   "shorts": [
+    {
+     "title": "Top 3 Multibagger Stocks That Turned ₹1 Lakh Into ₹1 Crore | 100X Stocks in 10 Years",
+     "link": "https://www.youtube.com/shorts/KQDbZxTbezk",
+     "thumbnail": "https://i.ytimg.com/vi/KQDbZxTbezk/frame0.jpg",
+     "views_original": "17K views",
+     "views": 17000,
+     "video_id": "KQDbZxTbezk"
+    },
+    {
+     "title": "Top 4 stocks to buy now for massive growth by 2026! #shorts #stockmarket",
+     "link": "https://www.youtube.com/shorts/XppM1PV2SNM",
+     "thumbnail": "https://i.ytimg.com/vi/XppM1PV2SNM/frame0.jpg",
+     "views_original": "124K views",
+     "views": 124000,
+     "video_id": "XppM1PV2SNM"
+    },
+    {
+     "title": "🔥Top 5 Long Term Penny Stocks for 2026 🚀 | Future Multibagger Shares | Stocks to Buy for 2026",
+     "link": "https://www.youtube.com/shorts/1TSlFy3RURc",
+     "thumbnail": "https://i.ytimg.com/vi/1TSlFy3RURc/frame0.jpg",
+     "views_original": "69K views",
+     "views": 69000,
+     "video_id": "1TSlFy3RURc"
+    },
+    {
+     "title": "2 Hidden Multibagger Stocks Nobdy's talking about!",
+     "link": "https://www.youtube.com/shorts/MzpeEQa2Lj4",
+     "thumbnail": "https://i.ytimg.com/vi/MzpeEQa2Lj4/frame0.jpg",
+     "views_original": "32K views",
+     "views": 32000,
+     "video_id": "MzpeEQa2Lj4"
+    },
+    {
+     "title": "Top 35 Multi bagger Stocks of the Last 1 Year | Highest Return Stocks 2026 | Best Stocks",
+     "link": "https://www.youtube.com/shorts/KoZFOg2-1Sk",
+     "thumbnail": "https://i.ytimg.com/vi/KoZFOg2-1Sk/frame0.jpg",
+     "views_original": "13K views",
+     "views": 13000,
+     "video_id": "KoZFOg2-1Sk"
+    }
+   ]
+  },
+  {
+   "position_on_page": 6,
+   "shorts": [
+    {
+     "title": "The Secret Behind Finding Multibagger Stocks #harshadmehta #stockmarket #multibaggerstock",
+     "link": "https://www.youtube.com/shorts/9xfascDv2As",
+     "thumbnail": "https://i.ytimg.com/vi/9xfascDv2As/frame0.jpg",
+     "views_original": "17K views",
+     "views": 17000,
+     "video_id": "9xfascDv2As"
+    },
+    {
+     "title": "FIIs Return After 6 Months! These 5 Multibagger Stocks Have Seen Big Foreign Investors Buying",
+     "link": "https://www.youtube.com/shorts/dGgsw8DoeoY",
+     "thumbnail": "https://i.ytimg.com/vi/dGgsw8DoeoY/frame0.jpg",
+     "views_original": "14K views",
+     "views": 14000,
+     "video_id": "dGgsw8DoeoY"
+    },
+    {
+     "title": "5 Potential Multibagger Stocks 🚀 | Order Book Greater Than Yearly Sales | Strong Fundamentals",
+     "link": "https://www.youtube.com/shorts/hVTFMJSZ3fw",
+     "thumbnail": "https://i.ytimg.com/vi/hVTFMJSZ3fw/frame0.jpg",
+     "views_original": "94K views",
+     "views": 94000,
+     "video_id": "hVTFMJSZ3fw"
+    },
+    {
+     "title": "500% PROFIT? 😱 Top 10 Future Multibagger Stocks 2026! 🚀",
+     "link": "https://www.youtube.com/shorts/Pa6K6y4eXnQ",
+     "thumbnail": "https://i.ytimg.com/vi/Pa6K6y4eXnQ/frame0.jpg",
+     "views_original": "16K views",
+     "views": 16000,
+     "video_id": "Pa6K6y4eXnQ"
+    },
+    {
+     "title": "A MULTIBAGGER OPPORTUNITY FROM FUTURE PROFITS #multibagger #stockmarket #wealthbuilding#equitymarket",
+     "link": "https://www.youtube.com/shorts/FwMG2CfuFCo",
+     "thumbnail": "https://i.ytimg.com/vi/FwMG2CfuFCo/frame0.jpg",
+     "views_original": "16 views",
+     "views": 16,
+     "video_id": "FwMG2CfuFCo"
+    },
+    {
+     "title": "Microcap Stocks: 1-Year Multibagger Returns",
+     "link": "https://www.youtube.com/shorts/REcywFPmSpg",
+     "thumbnail": "https://i.ytimg.com/vi/REcywFPmSpg/frame0.jpg",
+     "views_original": "68K views",
+     "views": 68000,
+     "video_id": "REcywFPmSpg"
+    },
+    {
+     "title": "How Do You Find a Potential Multibagger?  #stocks #investing #smallcapstocks",
+     "link": "https://www.youtube.com/shorts/c2lWaNJ9m3w",
+     "thumbnail": "https://i.ytimg.com/vi/c2lWaNJ9m3w/frame0.jpg",
+     "views_original": "240 views",
+     "views": 240,
+     "video_id": "c2lWaNJ9m3w"
+    },
+    {
+     "title": "How To Find Multibagger Stock | The Ultimate Formula Behind Multibagger Stock #investing #stocks",
+     "link": "https://www.youtube.com/shorts/BjWhaUjaHIg",
+     "thumbnail": "https://i.ytimg.com/vi/BjWhaUjaHIg/frame0.jpg",
+     "views_original": "33K views",
+     "views": 33000,
+     "video_id": "BjWhaUjaHIg"
+    },
+    {
+     "title": "Top 20 Multibagger Stocks | ₹1 Lakh Invested 10 Years Ago – How Much Today?",
+     "link": "https://www.youtube.com/shorts/wllaQD9go1s",
+     "thumbnail": "https://i.ytimg.com/vi/wllaQD9go1s/frame0.jpg",
+     "views_original": "862 views",
+     "views": 862,
+     "video_id": "wllaQD9go1s"
+    },
+    {
+     "title": "Multibagger Stock You Can Give 100X Return #multibagger #multibaggerstock #stockmarketalert #shorts",
+     "link": "https://www.youtube.com/shorts/020TrBSRyUA",
+     "thumbnail": "https://i.ytimg.com/vi/020TrBSRyUA/frame0.jpg",
+     "views_original": "79K views",
+     "views": 79000,
+     "video_id": "020TrBSRyUA"
+    },
+    {
+     "title": "106 Multibagger Stocks in 3 Years. What's up Now?",
+     "link": "https://www.youtube.com/shorts/wQzo5_yZJds",
+     "thumbnail": "https://i.ytimg.com/vi/wQzo5_yZJds/frame0.jpg",
+     "views_original": "18K views",
+     "views": 18000,
+     "video_id": "wQzo5_yZJds"
+    },
+    {
+     "title": "Top 20 Promoter Buying Stocks in India | Biggest Insider Buying Picks (Sep–Oct 2026) 🚀",
+     "link": "https://www.youtube.com/shorts/oPxNl7xTCrw",
+     "thumbnail": "https://i.ytimg.com/vi/oPxNl7xTCrw/frame0.jpg",
+     "views_original": "266 views",
+     "views": 266,
+     "video_id": "oPxNl7xTCrw"
+    },
+    {
+     "title": "25 Stocks That Created Massive Wealth in 5 Years | Multibagger Stocks 2026 | Indian Stock Market",
+     "link": "https://www.youtube.com/shorts/pBLnP-FVa88",
+     "thumbnail": "https://i.ytimg.com/vi/pBLnP-FVa88/frame0.jpg",
+     "views_original": "163K views",
+     "views": 163000,
+     "video_id": "pBLnP-FVa88"
+    },
+    {
+     "title": "The AI Boom Is Hiding These 3 Stocks | Whitney Tilson's Picks",
+     "link": "https://www.youtube.com/shorts/fWFwZ6mDWu0",
+     "thumbnail": "https://i.ytimg.com/vi/fWFwZ6mDWu0/frame0.jpg",
+     "views_original": "25 views",
+     "views": 25,
+     "video_id": "fWFwZ6mDWu0"
+    },
+    {
+     "title": "The Secret Behind This Multibagger Stock | Ge Vernova #shorts #stockmarket",
+     "link": "https://www.youtube.com/shorts/TYJ83T7wb0I",
+     "thumbnail": "https://i.ytimg.com/vi/TYJ83T7wb0I/frame0.jpg",
+     "views_original": "159 views",
+     "views": 159,
+     "video_id": "TYJ83T7wb0I"
+    },
+    {
+     "title": "🔥 Top 5 Best Stocks to Buy in 2026 🚀 #shorts #beststocks #multibaggerstock",
+     "link": "https://www.youtube.com/shorts/n8DIBz4rLGE",
+     "thumbnail": "https://i.ytimg.com/vi/n8DIBz4rLGE/frame0.jpg",
+     "views_original": "30K views",
+     "views": 30000,
+     "video_id": "n8DIBz4rLGE"
+    },
+    {
+     "title": "Agla 10X Multibagger Stock Mil Gaya? | Best Stocks to Buy Now 2026 #shorts #finance",
+     "link": "https://www.youtube.com/shorts/zuuROWBi6ks",
+     "thumbnail": "https://i.ytimg.com/vi/zuuROWBi6ks/frame0.jpg",
+     "views_original": "108 views",
+     "views": 108,
+     "video_id": "zuuROWBi6ks"
+    },
+    {
+     "title": "3 Stocks Under ₹100 with Future Multibagger Potential",
+     "link": "https://www.youtube.com/shorts/N5POc_caLDM",
+     "thumbnail": "https://i.ytimg.com/vi/N5POc_caLDM/frame0.jpg",
+     "views_original": "107K views",
+     "views": 107000,
+     "video_id": "N5POc_caLDM"
+    },
+    {
+     "title": "AI + EV + Defence Multibagger Stocks 2030 🚀 Best Indian Stocks for Massive Growth! #multibagger",
+     "link": "https://www.youtube.com/shorts/iZzSB79NgBI",
+     "thumbnail": "https://i.ytimg.com/vi/iZzSB79NgBI/frame0.jpg",
+     "views_original": "7.1K views",
+     "views": 7100,
+     "video_id": "iZzSB79NgBI"
+    },
+    {
+     "title": "4 Future Multibagger Stocks 🔥 | Top Stocks from India’s Fastest Growing Sectors",
+     "link": "https://www.youtube.com/shorts/bMmBrcayEKU",
+     "thumbnail": "https://i.ytimg.com/vi/bMmBrcayEKU/frame0.jpg",
+     "views_original": "21K views",
+     "views": 21000,
+     "video_id": "bMmBrcayEKU"
+    }
+   ]
+  }
+ ],
+ "pagination": {
+  "current": "https://www.youtube.com/results?search_query=multibagger+stock+to+buy+now&gl=in&hl=en",
+  "next": "https://www.youtube.com/results?gl=in&hl=en&search_query=multibagger%20stock%20to%20buy%20now&sp=SBSCAQtnM29PV0EyVmVWRYIBC2FGNG8tQ1JURGxnggELZDBhVWtQV0FEZTCCAQtuYlFaZlhSUHZaQYIBC19BYW5mMlY5RUI0ggELLXZNNDBWRUhhTGeCAQtHS3R0b2VMeWtfUYIBCzhYcG00VmppWU1FggELNXZzRDdOUnJmY0myAQYKBAgLEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQtnM29PV0EyVmVWRYIBC2FGNG8tQ1JURGxnggELZDBhVWtQV0FEZTCCAQtuYlFaZlhSUHZaQYIBC19BYW5mMlY5RUI0ggELLXZNNDBWRUhhTGeCAQtHS3R0b2VMeWtfUYIBCzhYcG00VmppWU1FggELNXZzRDdOUnJmY0myAQYKBAgLEALqAQQIAhAZ"
+ },
+ "serpapi_pagination": {
+  "current": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=multibagger+stock+to+buy+now",
+  "next": "https://serpapi.com/search.json?engine=youtube&gl=in&hl=en&search_query=multibagger+stock+to+buy+now&sp=SBSCAQtnM29PV0EyVmVWRYIBC2FGNG8tQ1JURGxnggELZDBhVWtQV0FEZTCCAQtuYlFaZlhSUHZaQYIBC19BYW5mMlY5RUI0ggELLXZNNDBWRUhhTGeCAQtHS3R0b2VMeWtfUYIBCzhYcG00VmppWU1FggELNXZzRDdOUnJmY0myAQYKBAgLEALqAQQIAhAZ",
+  "next_page_token": "SBSCAQtnM29PV0EyVmVWRYIBC2FGNG8tQ1JURGxnggELZDBhVWtQV0FEZTCCAQtuYlFaZlhSUHZaQYIBC19BYW5mMlY5RUI0ggELLXZNNDBWRUhhTGeCAQtHS3R0b2VMeWtfUYIBCzhYcG00VmppWU1FggELNXZzRDdOUnJmY0myAQYKBAgLEALqAQQIAhAZ"
+ }
+}
